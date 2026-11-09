@@ -1,0 +1,5 @@
+{
+  "updatedAt": "2026-11-09T16:24:29.860Z",
+  "note": "Public article reaction data. Stored on reactions-data branch so reaction writes do not trigger production deployments.",
+  "articles": {}
+}
