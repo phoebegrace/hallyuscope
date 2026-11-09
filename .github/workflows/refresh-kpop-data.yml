@@ -1,0 +1,44 @@
+name: Refresh K-pop live data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-kpop-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Fetch current K-pop data
+        run: node scripts/fetch-kpop-data.mjs
+
+      - name: Commit refreshed data
+        run: |
+          if git diff --quiet -- data/; then
+            echo "No data changes."
+            exit 0
+          fi
+          git config user.name "seoul-signal-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          git commit -m "chore: refresh live K-pop data"
+          git push
