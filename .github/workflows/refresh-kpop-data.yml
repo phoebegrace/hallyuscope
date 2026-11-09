@@ -31,6 +31,10 @@ jobs:
       - name: Fetch current K-pop data
         run: node scripts/fetch-kpop-data.mjs
 
+      - name: Build social post candidates
+        continue-on-error: true
+        run: node scripts/build-social-post-data.mjs
+
       - name: Commit refreshed data
         run: |
           if git diff --quiet -- data/; then
