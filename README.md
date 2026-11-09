@@ -1,52 +1,41 @@
-# Seoul Signal PH — live-data starter
+# Seoul Signal PH
 
-This version keeps the V3 homepage design and adds a free GitHub-based data refresh flow.
+A static K-pop editorial site with live data refreshed automatically from free public feeds.
 
-## What updates automatically
+## Live data
 
-- `data/latest.json` — live K-pop headlines shown in **Latest Signal** and the trending ticker.
-- `data/concert-candidates.json` — fresh Philippine concert/fancon/tour leads for editorial review.
-- `data/comeback-candidates.json` — fresh comeback/release leads for editorial review.
+The site reads these generated files:
 
-Concerts and comeback dates are **not auto-published**. Those are intentionally review-first because search headlines frequently omit, change, or misstate dates and venues.
+- `data/latest.json`
+- `data/concert-candidates.json`
+- `data/comeback-candidates.json`
+- `data/source-health.json`
 
-## Sources
+The updater lives at `scripts/fetch-kpop-data.mjs` and uses Soompi RSS, Kpopmap RSS, and Google News RSS queries.
 
-The refresh script currently uses:
+## Automatic refresh
 
-- Soompi RSS (`https://www.soompi.com/feed`) as a primary current Korean-entertainment feed.
-- Google News RSS searches as a discovery layer for broader K-pop, Philippines concert, and comeback leads.
+GitHub Actions runs `.github/workflows/refresh-kpop-data.yml` every hour at minute 17.
 
-You can add/remove sources in `scripts/fetch-kpop-data.mjs`.
+The workflow:
+1. checks out the repo
+2. runs Node 20
+3. fetches current K-pop news, PH concert announcements, and comeback announcements
+4. updates `data/*.json`
+5. commits only when the data changed
 
-## Free GitHub setup
+You can also run it manually from **GitHub → Actions → Refresh K-pop live data → Run workflow**.
 
-1. Create a new **public** GitHub repository named `seoul-signal-ph` under your account (`phoebegrace`).
-2. Upload/push this project to the repository root.
-3. In GitHub, open **Settings → Pages → Build and deployment → Source** and choose **GitHub Actions**.
-4. Open **Actions → Refresh K-pop data → Run workflow** once to seed the JSON immediately.
-5. The included workflow then refreshes data hourly at minute 17.
-6. The Pages workflow deploys on every push to `main`.
+## Vercel
 
-The expected free Pages URL will be:
+This repository includes `vercel.json` and is ready to import into Vercel as a static site.
 
-`https://phoebegrace.github.io/seoul-signal-ph/`
+Use:
+- Framework Preset: **Other**
+- Root Directory: **repository root**
+- Build Command: **leave empty**
+- Output Directory: **leave empty**
 
-## Files added
+Every push to `main` will redeploy. Because the hourly data refresh commits changes to `main`, Vercel will automatically redeploy when fresh data is available.
 
-- `.github/workflows/refresh-kpop-data.yml` — hourly data refresh and commit.
-- `.github/workflows/pages.yml` — static GitHub Pages deployment.
-- `scripts/fetch-kpop-data.mjs` — no-dependency Node 20 fetch/parser.
-- `data/*.json` — site-readable data files.
-
-## Local preview
-
-Do not open the page with `file://` if you want live JSON loading, because browsers block `fetch()` from local files.
-
-From the project folder run:
-
-```bash
-python3 -m http.server 8000
-```
-
-Then open `http://localhost:8000/`.
+No paid API key is required for the current setup.
