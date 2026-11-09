@@ -167,7 +167,7 @@
     main.classList.toggle('concert-list-mode',btn.dataset.concertView==='list');
   }));
 
-  fetch('/data/concerts-calendar.json?v='+Date.now(),{cache:'no-store'})
+  fetch('https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/data/concerts-calendar.json?v='+Date.now(),{cache:'no-store'})
     .then(r=>r.ok?r.json():Promise.reject())
     .then(data=>{events=(data.items||[]).filter(e=>e.id&&e.date);render();})
     .catch(()=>{events=[];render();});
