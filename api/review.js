@@ -41,7 +41,7 @@ async function readQueue(){
 
 function cleanPatch(patch={}){
   const out={};
-  for(const key of ['headline','dek','category','seoDescription','socialCaption']){
+  for(const key of ['headline','dek','category','seoDescription','socialCaption','imageUrl']){
     if(typeof patch[key]==='string') out[key]=patch[key].trim();
   }
   if(Array.isArray(patch.body)) out.body=patch.body.map(x=>String(x).trim()).filter(Boolean);
