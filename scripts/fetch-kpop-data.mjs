@@ -43,7 +43,7 @@ async function getText(url) {
     redirect: 'follow',
     headers: {
       'accept': 'application/rss+xml, application/xml, text/xml, text/html;q=0.8, */*;q=0.5',
-      'user-agent': 'SeoulSignalPH/1.1 (+https://github.com/phoebegrace/seoul-signal-ph)'
+      'user-agent': 'HallyuScope/1.1 (+https://hallyuscope.com)'
     }
   });
   if (!res.ok) throw new Error(`${res.status} ${res.statusText} for ${url}`);
