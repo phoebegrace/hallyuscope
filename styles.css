@@ -575,3 +575,8 @@ button,input{font:inherit;color:inherit}
 .review-switch input:checked + .review-switch-track span{transform:translateX(24px)}
 .review-switch strong{min-width:28px;font-size:13px}
 @media(max-width:640px){.review-autopublish{align-items:flex-start;flex-direction:column}.review-switch{align-self:stretch;justify-content:space-between}}
+
+/* ---------- nav: Home link ---------- */
+.nav-links a:nth-child(5){animation-delay:.53s}
+@media (max-width:640px){.nav-links a{font-size:13px}}
+@media (max-width:360px){.nav-links a{font-size:12px}}
