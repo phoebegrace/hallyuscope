@@ -20,6 +20,28 @@ function tag(block, name) {
   return m ? decodeXml(m[1]) : '';
 }
 
+function parseAtom(xml, sourceMeta={}) {
+  const entries = xml.match(/<entry\b[\s\S]*?<\/entry>/gi) || [];
+  return entries.map((block) => {
+    const title = tag(block, 'title');
+    const published = tag(block, 'published') || tag(block, 'updated');
+    const videoId = tag(block, 'yt:videoId');
+    const href = block.match(/<link[^>]+rel=["']alternate["'][^>]+href=["']([^"']+)["']/i)?.[1]
+      || block.match(/<link[^>]+href=["']([^"']+)["'][^>]*>/i)?.[1]
+      || (videoId ? 'https://www.youtube.com/watch?v=' + videoId : '');
+    return {
+      title,
+      url: href,
+      publishedAt: published && !Number.isNaN(Date.parse(published)) ? new Date(published).toISOString() : null,
+      source: sourceMeta.name || 'Official source',
+      sourceClass: sourceMeta.sourceClass || 'official',
+      confidence: sourceMeta.confidence || 'primary',
+      sourceId: sourceMeta.id || null,
+      description: tag(block, 'media:description') || ''
+    };
+  }).filter((x) => x.title && x.url);
+}
+
 function parseRss(xml, fallbackSource) {
   const items = xml.match(/<item\b[\s\S]*?<\/item>/gi) || [];
   return items.map((block) => {
@@ -107,8 +129,12 @@ function clean(items, limit) {
 async function safeFeed(url, source) {
   const started = Date.now();
   try {
-    const items = parseRss(await getText(url), source);
-    return { source, url, ok: true, count: items.length, ms: Date.now() - started, items };
+    const items = parseRss(await getText(url), source).map(item => ({
+      ...item,
+      sourceClass: 'publisher',
+      confidence: 'secondary'
+    }));
+    return { source, url, sourceClass: 'publisher', ok: true, count: items.length, ms: Date.now() - started, items };
   } catch (error) {
     console.error(`[feed failed] ${source}:`, error.message);
     return { source, url, ok: false, count: 0, ms: Date.now() - started, error: error.message, items: [] };
@@ -116,6 +142,39 @@ async function safeFeed(url, source) {
 }
 
 await mkdir(OUT, { recursive: true });
+
+async function loadSourceRegistry() {
+  try {
+    return JSON.parse(await readFile(new URL('source-registry.json', OUT), 'utf8'));
+  } catch {
+    return { sources: [] };
+  }
+}
+
+async function safeDirectSource(def) {
+  const started = Date.now();
+  let url = def.url || '';
+  try {
+    if (def.type === 'youtube_channel') {
+      url = 'https://www.youtube.com/feeds/videos.xml?channel_id=' + encodeURIComponent(def.channelId);
+      const items = parseAtom(await getText(url), def);
+      return { source: def.name, sourceId: def.id, sourceClass: def.sourceClass || 'official', url, ok: true, count: items.length, ms: Date.now() - started, items };
+    }
+    if (def.type === 'rss') {
+      const items = parseRss(await getText(url), def.name).map(item => ({
+        ...item,
+        sourceClass: def.sourceClass || 'official',
+        confidence: def.confidence || 'primary',
+        sourceId: def.id || null
+      }));
+      return { source: def.name, sourceId: def.id, sourceClass: def.sourceClass || 'official', url, ok: true, count: items.length, ms: Date.now() - started, items };
+    }
+    throw new Error('Unsupported direct source type: ' + def.type);
+  } catch (error) {
+    console.error('[direct source failed] ' + def.name + ':', error.message);
+    return { source: def.name, sourceId: def.id, sourceClass: def.sourceClass || 'official', url, ok: false, count: 0, ms: Date.now() - started, error: error.message, items: [] };
+  }
+}
 
 const feedDefs = [
   ['Soompi', 'https://www.soompi.com/feed'],
@@ -125,10 +184,17 @@ const feedDefs = [
   ['Google News · comebacks', googleNewsUrl('(K-pop OR Kpop) (comeback OR album OR single OR teaser) when:21d')]
 ];
 
-const results = await Promise.all(feedDefs.map(([source, url]) => safeFeed(url, source)));
+const registry = await loadSourceRegistry();
+const directDefs = (registry.sources || []).filter(x => x.enabled !== false);
+const [results, directResults] = await Promise.all([
+  Promise.all(feedDefs.map(([source, url]) => safeFeed(url, source))),
+  Promise.all(directDefs.map(safeDirectSource))
+]);
 const bySource = Object.fromEntries(results.map(r => [r.source, r.items]));
+const officialItems = directResults.flatMap(r => r.items || []);
 
 const editorialFeeds = [
+  ...officialItems,
   ...(bySource['Soompi'] || []),
   ...(bySource['Kpopmap'] || []),
   ...(bySource['Google News · K-pop'] || [])
@@ -166,10 +232,11 @@ await Promise.all([
   writeIfUseful('comeback-candidates.json', comebackCandidates),
   writeFile(new URL('source-health.json', OUT), JSON.stringify({
     updatedAt,
-    sources: results.map(({items, ...r}) => r)
+    sources: [...directResults, ...results].map(({items, ...r}) => r)
   }, null, 2) + '\n')
 ]);
 
+console.log(`Direct official items: ${officialItems.length}`);
 console.log(`Latest: ${latest.length}`);
 console.log(`PH concert announcements: ${concertCandidates.length}`);
 console.log(`Comeback announcements: ${comebackCandidates.length}`);
