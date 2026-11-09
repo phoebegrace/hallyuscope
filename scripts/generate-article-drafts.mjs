@@ -77,17 +77,19 @@ function parseJson(text) {
 }
 
 async function generateDraft(item, sourceText) {
+  const thinSource = sourceText.length < 180;
   const prompt = `You are an editor for HallyuScope, an independent Korean entertainment and K-pop publication.
 
-Write an ORIGINAL news article based only on the supplied source material. Do not copy sentences or distinctive phrasing from the source. Facts can be retained. Do not invent quotes, dates, locations, prices, names, or details that are not in the supplied material.
+Write an ORIGINAL news article based only on the supplied source material and verified headline metadata. Do not copy sentences or distinctive phrasing from the source. Facts can be retained. Do not invent quotes, dates, locations, prices, names, motivations, context, or details that are not explicitly supported.
 
 Editorial style:
 - clean, modern entertainment-news voice
 - readable for global K-pop/Hallyu fans
 - concise, human, not AI-sounding
 - avoid clickbait and exaggerated claims
-- 350-650 words when the source material supports it
-- if the supplied material is thin, write a shorter article rather than padding
+- 350-650 words only when the source material supports it
+- when source material is thin or unavailable, write a SHORT NEWS BRIEF of about 90-180 words using only facts explicitly present in the verified source headline, publisher name, date/category metadata, and any supplied text
+- never pad a thin brief with background facts from memory
 - mention the original source naturally in a short Sources note, but do not make the competitor the main CTA
 - no emojis
 
@@ -105,7 +107,7 @@ SOURCE PUBLISHER: ${item.source || 'Unknown'}
 SOURCE TITLE: ${item.title || ''}
 SOURCE URL: ${item.articleUrl || item.url || ''}
 SOURCE MATERIAL:
-${sourceText}`;
+${sourceText || '[No extractable article body. Use only the verified headline and metadata above.]'}`;
 
   const res = await fetch('https://api.openai.com/v1/responses', {
     method: 'POST',
@@ -167,10 +169,11 @@ const newlyDrafted = [];
 
 for (const item of candidates.slice(0, MAX_NEW_DRAFTS_PER_RUN)) {
   try {
-    const sourceText = await fetchSourceText(item.articleUrl || item.url);
-    if (sourceText.length < 180) {
-      console.warn(`[draft skipped] ${item.id}: source text too thin`);
-      continue;
+    let sourceText = '';
+    try {
+      sourceText = await fetchSourceText(item.articleUrl || item.url);
+    } catch (error) {
+      console.warn(`[source fetch failed] ${item.id}: ${error.message}`);
     }
 
     const draft = await generateDraft(item, sourceText);
