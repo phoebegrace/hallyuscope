@@ -1,0 +1,26 @@
+{
+  "updatedAt": "2026-11-10T00:00:00.000Z",
+  "note": "Direct-source registry. Official sources are treated as primary evidence. Add channels/feeds here rather than hard-coding them in the fetcher.",
+  "sources": [
+    {
+      "id": "hybe-labels-youtube",
+      "name": "HYBE LABELS",
+      "type": "youtube_channel",
+      "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+      "sourceClass": "official",
+      "confidence": "primary",
+      "category": "agency",
+      "enabled": true
+    },
+    {
+      "id": "jyp-entertainment-youtube",
+      "name": "JYP Entertainment",
+      "type": "youtube_channel",
+      "channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+      "sourceClass": "official",
+      "confidence": "primary",
+      "category": "agency",
+      "enabled": true
+    }
+  ]
+}
