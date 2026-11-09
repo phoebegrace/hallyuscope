@@ -1,8 +1,9 @@
-import { readFile, writeFile } from 'node:fs/promises';
+import { readFile, writeFile, mkdir } from 'node:fs/promises';
 
 const DATA_DIR = new URL('../data/', import.meta.url);
 const INPUT = new URL('social-post-candidates.json', DATA_DIR);
 const OUTPUT = new URL('article-drafts.json', DATA_DIR);
+const EDITORIAL_DIR = new URL('../assets/editorial/', import.meta.url);
 
 const MODEL = process.env.OPENAI_DRAFT_MODEL || 'gpt-6.1-terra';
 const MAX_NEW_DRAFTS_PER_RUN = Number(process.env.MAX_NEW_DRAFTS_PER_RUN || 50);
@@ -29,6 +30,59 @@ function extractArticleText(html = '') {
 
   const joined = paragraphMatches.join('\n\n');
   return joined.slice(0, MAX_SOURCE_CHARS);
+}
+
+function escapeXml(value = '') {
+  return String(value)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&apos;');
+}
+
+function wrapHeadline(value = '', max = 27) {
+  const words = String(value).trim().split(/\s+/);
+  const lines = [];
+  let line = '';
+  for (const word of words) {
+    const next = line ? line + ' ' + word : word;
+    if (next.length > max && line) {
+      lines.push(line);
+      line = word;
+    } else {
+      line = next;
+    }
+    if (lines.length === 2) break;
+  }
+  if (line && lines.length < 3) lines.push(line);
+  return lines.slice(0, 3);
+}
+
+async function writeEditorialCover(id, headline, category) {
+  await mkdir(EDITORIAL_DIR, { recursive: true });
+  const lines = wrapHeadline(headline);
+  const text = lines.map((line, i) =>
+    `<text x="88" y="${250 + i * 82}" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="800" fill="#0a0d22">${escapeXml(line)}</text>`
+  ).join('\n');
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <rect width="1200" height="675" fill="#ffffff"/>
+  <rect x="0" y="0" width="1200" height="16" fill="#01229a"/>
+  <rect x="0" y="16" width="1200" height="10" fill="#fe0862"/>
+  <text x="88" y="100" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800" letter-spacing="3" fill="#fe0862">${escapeXml(category || 'HALLYU NEWS')}</text>
+  ${text}
+  <g transform="translate(950 108)">
+    <rect x="0" y="0" width="142" height="142" rx="71" fill="#f7f8fc"/>
+    <circle cx="71" cy="71" r="39" fill="none" stroke="#fe0862" stroke-width="14"/>
+    <path d="M71 22v26M71 94v26M22 71h26M94 71h26" stroke="#01229a" stroke-width="7"/>
+    <path d="M71 53q3 15 18 18-15 3-18 18-3-15-18-18 15-3 18-18Z" fill="#fe0862"/>
+  </g>
+  <text x="88" y="610" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="800" fill="#01229a">HallyuScope</text>
+  <text x="300" y="610" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" fill="#7b8194">Original editorial cover</text>
+</svg>`;
+  const filename = `${id}.svg`;
+  await writeFile(new URL(filename, EDITORIAL_DIR), svg);
+  return `/assets/editorial/${filename}`;
 }
 
 function slugify(value = '') {
@@ -178,6 +232,8 @@ for (const item of candidates.slice(0, MAX_NEW_DRAFTS_PER_RUN)) {
 
     const draft = await generateDraft(item, sourceText);
 
+    const originalCover = await writeEditorialCover(item.id, draft.headline, item.social?.category || 'HALLYU NEWS');
+
     newlyDrafted.push({
       id: item.id,
       createdAt: new Date().toISOString(),
@@ -191,7 +247,13 @@ for (const item of candidates.slice(0, MAX_NEW_DRAFTS_PER_RUN)) {
         title: item.title || null,
         url: item.articleUrl || item.url || null
       },
-      imageUrl: item.imageUrl || null,
+      imageUrl: originalCover,
+      imageType: 'hallyuscope_original',
+      sourceImageUrl: item.imageUrl || null,
+      imagePolicy: {
+        type: 'hallyuscope_original',
+        note: 'Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset.'
+      },
       category: item.social?.category || 'HALLYU NEWS',
       ...draft
     });
@@ -202,7 +264,26 @@ for (const item of candidates.slice(0, MAX_NEW_DRAFTS_PER_RUN)) {
   }
 }
 
-const merged = [...newlyDrafted, ...(previous.items || [])]
+const existingNormalized = [];
+for (const item of (previous.items || [])) {
+  if (item.imageType === 'official' && item.imageUrl) {
+    existingNormalized.push(item);
+    continue;
+  }
+  const cover = await writeEditorialCover(item.id, item.headline || item.source?.title || 'HallyuScope Update', item.category || 'HALLYU NEWS');
+  existingNormalized.push({
+    ...item,
+    sourceImageUrl: item.sourceImageUrl || (item.imageUrl && !String(item.imageUrl).startsWith('/assets/editorial/') ? item.imageUrl : null),
+    imageUrl: cover,
+    imageType: 'hallyuscope_original',
+    imagePolicy: {
+      type: 'hallyuscope_original',
+      note: 'Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset.'
+    }
+  });
+}
+
+const merged = [...newlyDrafted, ...existingNormalized]
   .filter((item, index, arr) => arr.findIndex(other => other.id === item.id) === index);
 
 await writeFile(OUTPUT, JSON.stringify({
