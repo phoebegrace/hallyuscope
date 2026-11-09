@@ -153,6 +153,7 @@ const previous = await readFile(OUTPUT, 'utf8')
   .then(JSON.parse)
   .catch(() => ({ items: [] }));
 
+const autoPublish = previous.autoPublish === true;
 const previousById = new Map((previous.items || []).map(item => [item.id, item]));
 const cutoff = Date.now() - 7 * 24 * 60 * 60 * 1000;
 const candidates = (social.items || []).filter(item =>
@@ -177,8 +178,8 @@ for (const item of candidates.slice(0, MAX_NEW_DRAFTS_PER_RUN)) {
     newlyDrafted.push({
       id: item.id,
       createdAt: new Date().toISOString(),
-      status: 'pending_review',
-      publishedAt: null,
+      status: autoPublish ? 'published' : 'pending_review',
+      publishedAt: autoPublish ? new Date().toISOString() : null,
       sourcePublishedAt: item.publishedAt || null,
       model: MODEL,
       slug: slugify(draft.headline),
@@ -203,7 +204,10 @@ const merged = [...newlyDrafted, ...(previous.items || [])]
 
 await writeFile(OUTPUT, JSON.stringify({
   updatedAt: new Date().toISOString(),
-  note: 'AI-generated HallyuScope drafts. Public pages only render items with status published.'
+  autoPublish,
+  note: autoPublish
+    ? 'Auto-publish is ON. Newly generated HallyuScope articles publish immediately.'
+    : 'Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.',
   items: merged
 }, null, 2) + '\n');
 
