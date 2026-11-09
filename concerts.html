@@ -50,6 +50,13 @@
   <span class="kr">콘서트</span>
   <h1>Concerts <em>PH</em></h1>
   <div class="page-sub"><p>Manila and Philippine K-pop concert, fancon and tour coverage published on HallyuScope. Important ticket details are attributed inside each story.</p><span class="meta live"><i></i><span data-updated>Updated hourly</span> · <span data-count></span></span></div>
+  <div class="concert-tools">
+    <button class="calendar-launch" id="openConcertCalendar" type="button">
+      <span>View Concert Calendar</span>
+      <span aria-hidden="true">→</span>
+    </button>
+    <span class="meta">Upcoming Philippine dates, ticket links and event details</span>
+  </div>
 </section>
 <div id="stream" class="section" style="padding-top:8px"><span class="sk" style="width:90%"></span><span class="sk" style="width:70%"></span></div>
 </main>
@@ -71,6 +78,50 @@
   <div class="search-bar"><div class="wrap"><label class="sr-only" for="q">Search</label><input id="q" type="search" placeholder="Search artists, groups, cities" autocomplete="off"><button class="search-close" id="searchClose" type="button">Close · Esc</button></div></div>
   <div class="search-body"><div class="wrap" id="results"></div></div>
 </div>
+<div class="concert-modal" id="concertCalendarModal" aria-hidden="true">
+  <div class="concert-modal-backdrop" data-calendar-close></div>
+  <section class="concert-modal-panel" role="dialog" aria-modal="true" aria-labelledby="concertCalendarTitle">
+    <header class="concert-modal-head">
+      <div>
+        <span class="eyebrow">HALLYUSCOPE CONCERT TRACKER</span>
+        <h2 id="concertCalendarTitle">Upcoming concerts</h2>
+      </div>
+      <button class="concert-modal-close" type="button" data-calendar-close aria-label="Close concert calendar">Close</button>
+    </header>
+
+    <div class="concert-calendar-main" id="concertCalendarMain">
+      <div class="concert-calendar-toolbar">
+        <div class="concert-month-nav">
+          <button type="button" id="concertPrevMonth" aria-label="Previous month">←</button>
+          <strong id="concertMonthLabel">Month</strong>
+          <button type="button" id="concertNextMonth" aria-label="Next month">→</button>
+        </div>
+        <div class="concert-view-toggle" role="group" aria-label="Concert view">
+          <button type="button" data-concert-view="calendar" aria-pressed="true">Calendar</button>
+          <button type="button" data-concert-view="list" aria-pressed="false">List</button>
+        </div>
+      </div>
+
+      <div class="concert-calendar-layout">
+        <div>
+          <div class="concert-weekdays" aria-hidden="true"><span>Sun</span><span>Mon</span><span>Tue</span><span>Wed</span><span>Thu</span><span>Fri</span><span>Sat</span></div>
+          <div class="concert-month-grid" id="concertMonthGrid"></div>
+        </div>
+        <aside class="concert-upcoming">
+          <div class="concert-upcoming-head"><span class="eyebrow">UPCOMING</span><span class="meta" id="concertEventCount"></span></div>
+          <div id="concertUpcomingList"></div>
+        </aside>
+      </div>
+    </div>
+
+    <div class="concert-detail" id="concertDetail" hidden>
+      <button class="concert-detail-back" id="concertDetailBack" type="button">← Back to calendar</button>
+      <div id="concertDetailBody"></div>
+    </div>
+  </section>
+</div>
+
 <script src="/script.js" defer></script>
+<script src="/concert-calendar.js" defer></script>
 </body>
 </html>
