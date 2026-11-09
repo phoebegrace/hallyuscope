@@ -382,7 +382,7 @@ button,input{font:inherit;color:inherit}
 .topbar{background:var(--tint);border-bottom:0}
 .nav{background:var(--navy);color:#fff;border-top:0;border-bottom:0}
 .nav-links a::after{bottom:0}
-.nav-logo img,.foot-logo img{filter:brightness(0) invert(1)}
+.nav-logo img,.foot-logo img{filter:url(#logo-light)}
 .search-btn kbd{border-color:rgba(255,255,255,.35);color:rgba(255,255,255,.75)}
 .foot{background:var(--navy);color:#fff;border-top:0}
 .foot p,.foot-bottom{color:rgba(255,255,255,.72)}
