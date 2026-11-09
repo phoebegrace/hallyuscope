@@ -591,3 +591,12 @@ button,input{font:inherit;color:inherit}
 .review-image-meta input{font-size:13px}
 .review-image-meta .meta{margin:8px 0 0}
 @media(max-width:700px){.review-image-block{grid-template-columns:1fr}}
+
+
+/* ---------- image ethics policy ---------- */
+.review-image-status{display:inline-flex;margin:10px 0 14px;padding:6px 9px;font:800 10px/1 var(--f);letter-spacing:.06em;text-transform:uppercase}
+.review-image-status.original{background:#eef1ff;color:var(--navy)}
+.review-image-status.official{background:#eefbf4;color:#087a40}
+.review-image-meta select{display:block;width:100%;margin-top:9px;border:1px solid var(--hair);background:#fff;padding:12px;font:600 14px/1.4 var(--f)}
+.review-image-reference{margin-top:10px;border-top:1px solid var(--hair);padding-top:10px}
+.review-image-reference .meta{word-break:break-all}
