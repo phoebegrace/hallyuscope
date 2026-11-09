@@ -2,6 +2,9 @@ name: Refresh K-pop live data
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - ".github/refresh-now.txt"
   schedule:
     - cron: "17 * * * *"
 
