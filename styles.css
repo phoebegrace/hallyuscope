@@ -637,3 +637,21 @@ button,input{font:inherit;color:inherit}
   .reaction-row{grid-template-columns:repeat(2,1fr)}
   .reaction-row button:last-child{grid-column:1/-1}
 }
+
+
+/* ---------- article sharing ---------- */
+.article-share{margin-top:22px;padding:22px 0 26px;border-bottom:1px solid var(--hair)}
+.article-share{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:18px 28px;align-items:end}
+.article-share-copy h2{margin:7px 0 0;font:800 24px/1.08 var(--f);font-stretch:92%}
+.article-share-actions{display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end}
+.article-share-actions button{border:1px solid var(--hair);background:#fff;color:var(--ink);padding:11px 14px;font:800 12px/1 var(--f);cursor:pointer;transition:background .2s,border-color .2s,color .2s,transform .2s}
+.article-share-actions button:hover{background:var(--tint);border-color:#cdd1df;transform:translateY(-1px)}
+.article-share-actions .share-main{background:var(--pink);border-color:var(--pink);color:#fff}
+.article-share-actions .share-main:hover{background:var(--navy);border-color:var(--navy)}
+.share-status{grid-column:1/-1;margin:0;min-height:16px}
+@media(max-width:680px){
+  .article-share{grid-template-columns:1fr;align-items:start}
+  .article-share-actions{justify-content:flex-start}
+  .article-share-actions button{flex:1 1 calc(50% - 8px)}
+  .article-share-actions .share-main{flex-basis:100%}
+}
