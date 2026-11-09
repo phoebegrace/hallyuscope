@@ -110,8 +110,18 @@ async function fetchPageMeta(url) {
     const pageTitle = metaContent(html, ['og:title', 'twitter:title']);
     const canonical = canonicalUrl(html);
 
+    const original = new URL(url);
+    let resolved = res.url || url;
+    if (canonical) {
+      try {
+        const c = new URL(canonical, res.url || url);
+        const canonicalCollapsedToHome = original.pathname !== '/' && c.pathname === '/';
+        if (!canonicalCollapsedToHome) resolved = c.href;
+      } catch {}
+    }
+
     return {
-      finalUrl: canonical || res.url || url,
+      finalUrl: resolved,
       pageTitle,
       imageUrl
     };
