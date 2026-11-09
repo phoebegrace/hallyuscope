@@ -118,7 +118,7 @@
       $('[data-lead-tags]', lead).innerHTML = `${tag(top)}${srcMeta(top)}`;
       $('.lead-title', lead).innerHTML = link(top, esc(top.title));
       $('[data-lead-link]', lead).forEach(a => { a.href = top.url; a.removeAttribute('target'); a.removeAttribute('rel'); });
-      $('[data-lead-src]', lead).textContent = 'HallyuScope';
+      const leadSrc = $('[data-lead-src]', lead); if (leadSrc) leadSrc.textContent = 'HallyuScope';
       $('#also').innerHTML = items.slice(1, 7).map(it => `<li>${link(it, `<h3>${esc(it.title)}</h3>${srcMeta(it)}`)}</li>`).join('');
       const tick = items.slice(0, 12).map(it => link(it, esc(it.title))).join('');
       $('#ticker').innerHTML = tick + tick;
