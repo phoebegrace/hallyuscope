@@ -36,7 +36,7 @@
     return { ...it, title, tag: tagOf(title), time: new Date(it.publishedAt) };
   }).filter(it => it.title && it.url);
 
-  const normalizeDrafts = list => (list || []).map(it => {
+  const normalizeDrafts = list => (list || []).filter(it => it.status === 'published').map(it => {
     const title = decode(it.headline || '').replace(/\s+/g, ' ').trim();
     const category = it.category || 'HALLYU NEWS';
     const tagMap = {
@@ -53,7 +53,7 @@
       category,
       source: 'HallyuScope',
       url: '/article?id=' + encodeURIComponent(it.id),
-      time: new Date(it.publishedAt || it.createdAt)
+      time: new Date(it.publishedAt || it.sourcePublishedAt || it.createdAt)
     };
   }).filter(it => it.id && it.title);
 
