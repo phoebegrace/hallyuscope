@@ -41,10 +41,16 @@ async function readQueue(){
 
 function cleanPatch(patch={}){
   const out={};
-  for(const key of ['headline','dek','category','seoDescription','socialCaption','imageUrl','imageType']){
+  for(const key of ['headline','dek','category','seoDescription','socialCaption','socialImageUrl','imageUrl','imageType']){
     if(typeof patch[key]==='string') out[key]=patch[key].trim();
   }
   if(Array.isArray(patch.body)) out.body=patch.body.map(x=>String(x).trim()).filter(Boolean);
+  if(patch.socialPlatforms && typeof patch.socialPlatforms==='object'){
+    out.socialPlatforms={
+      facebook:patch.socialPlatforms.facebook!==false,
+      instagram:patch.socialPlatforms.instagram!==false
+    };
+  }
   return out;
 }
 
