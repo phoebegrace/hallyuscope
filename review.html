@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#ffffff">
+<title>HallyuScope Review</title>
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,300..900&display=swap">
+<link rel="stylesheet" href="/styles.css">
+</head>
+<body class="review-body">
+<main class="review-app">
+  <section class="review-login" id="reviewLogin">
+    <a href="/" class="review-brand"><img src="/assets/hallyuscope-logo.png" alt="HallyuScope"></a>
+    <span class="eyebrow">EDITORIAL DESK</span>
+    <h1>Review before it goes live.</h1>
+    <p>Drafts stay off the public site until you approve them here.</p>
+    <form id="reviewLoginForm">
+      <label for="reviewPassword">Review password</label>
+      <div class="review-login-row"><input id="reviewPassword" type="password" autocomplete="current-password" required><button type="submit">Enter</button></div>
+      <p class="meta" id="reviewLoginMessage"></p>
+    </form>
+  </section>
+
+  <section class="review-desk" id="reviewDesk" hidden>
+    <header class="review-top">
+      <a href="/" class="review-brand"><img src="/assets/hallyuscope-logo.png" alt="HallyuScope"></a>
+      <div><span class="eyebrow">EDITORIAL DESK</span><h1>Review queue</h1></div>
+      <button id="reviewLogout" type="button">Log out</button>
+    </header>
+
+    <div class="review-pipeline" id="reviewPipeline"></div>
+
+    <div class="review-layout">
+      <aside class="review-queue">
+        <div class="review-queue-head"><strong>Stories</strong><button id="reviewRefresh" type="button">Refresh</button></div>
+        <div class="review-filters" id="reviewFilters">
+          <button type="button" data-filter="pending_review" aria-pressed="true">Pending</button>
+          <button type="button" data-filter="published">Published</button>
+          <button type="button" data-filter="skipped">Skipped</button>
+          <button type="button" data-filter="all">All</button>
+        </div>
+        <div id="reviewQueueList"></div>
+      </aside>
+
+      <section class="review-editor" id="reviewEditor">
+        <div class="review-empty">Select a story to review it.</div>
+      </section>
+    </div>
+  </section>
+</main>
+<script src="/review.js" defer></script>
+</body>
+</html>
