@@ -35,6 +35,14 @@ jobs:
         continue-on-error: true
         run: node scripts/build-social-post-data.mjs
 
+      - name: Draft HallyuScope articles with AI
+        continue-on-error: true
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_DRAFT_MODEL: gpt-6.1-terra
+          MAX_NEW_DRAFTS_PER_RUN: 3
+        run: node scripts/generate-article-drafts.mjs
+
       - name: Commit refreshed data
         run: |
           if git diff --quiet -- data/; then
