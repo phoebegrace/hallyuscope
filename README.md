@@ -75,3 +75,19 @@ For up to 12 recent stories it attempts to:
 The workflow step uses `continue-on-error: true`, so a source blocking metadata/image extraction cannot break the existing hourly news refresh.
 
 The source image URL is metadata only. Review image usage rights before publishing third-party photography to HallyuScope social channels.
+
+
+## AI article drafts
+
+A separate optional step can turn newly discovered stories into original HallyuScope article drafts for editorial review.
+
+- Script: `scripts/generate-article-drafts.mjs`
+- Output: `data/article-drafts.json`
+- Default model: `gpt-6.1-terra`
+- Maximum new drafts per hourly run: 3
+- Draft status: `pending_review`
+- Nothing is automatically published to the website or social media.
+
+The script only runs when the GitHub Actions secret `OPENAI_API_KEY` exists. If the secret is missing or the AI step fails, the normal live-data refresh continues because the workflow step is non-blocking.
+
+The prompt explicitly instructs the model to write original wording, avoid invented facts, and preserve source attribution. Drafts still require editorial review before publication.
