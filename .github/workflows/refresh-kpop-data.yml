@@ -26,6 +26,12 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Switch to live data branch
+        run: |
+          git fetch origin live-data
+          git switch live-data
+          git merge origin/main --no-edit
+
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
@@ -46,19 +52,14 @@ jobs:
           MAX_NEW_DRAFTS_PER_RUN: 50
         run: node scripts/generate-article-drafts.mjs
 
-      - name: Commit refreshed data
+      - name: Commit refreshed data without deploying Vercel
         run: |
-          if git diff --quiet -- data/ assets/editorial/; then
-            echo "No data changes."
-            exit 0
-          fi
-          git config user.name "seoul-signal-bot"
+          git config user.name "hallyuscope-data-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/ assets/editorial/
-          git commit -m "chore: refresh live K-pop data"
 
-          # The site may receive normal commits while this long AI job is running.
-          # Rebase the generated data commit onto the latest main before pushing.
-          git fetch origin main
-          git rebase origin/main
-          git push origin main
+          if ! git diff --quiet -- data/ assets/editorial/; then
+            git add data/ assets/editorial/
+            git commit -m "data: refresh live K-pop content"
+          fi
+
+          git push origin live-data
