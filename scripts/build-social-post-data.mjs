@@ -1,4 +1,5 @@
 import { readFile, writeFile } from 'node:fs/promises';
+import { createHash } from 'node:crypto';
 
 const DATA_DIR = new URL('../data/', import.meta.url);
 const OUTPUT = new URL('social-post-candidates.json', DATA_DIR);
@@ -127,6 +128,10 @@ function storyKey(item={}) {
   return `${stripPublisherSuffix(item.title || '').toLowerCase()}|${item.source || ''}`;
 }
 
+function storyId(item={}) {
+  return createHash('sha1').update(storyKey(item)).digest('hex').slice(0, 12);
+}
+
 const [latestData, concertData, comebackData] = await Promise.all([
   readJson('latest.json'),
   readJson('concert-candidates.json'),
@@ -160,6 +165,7 @@ for (const item of baseItems) {
   const headline = socialHeadline(meta.pageTitle || item.title);
 
   enriched.push({
+    id: storyId(item),
     ...item,
     articleUrl: meta.finalUrl || item.url,
     imageUrl: meta.imageUrl || null,
@@ -180,25 +186,35 @@ const previous = await readJson('social-post-candidates.json').catch(() => ({ it
 const previousByKey = new Map((previous.items || []).map(item => [storyKey(item), item]));
 
 const items = enriched.map(item => {
-  if (item.imageUrl) return item;
   const old = previousByKey.get(storyKey(item));
-  return old?.imageUrl ? {
+  const preservedStatus = old?.social?.status;
+  const preservedCanvaDesignId = old?.social?.canvaDesignId || null;
+
+  const withImage = (!item.imageUrl && old?.imageUrl) ? {
     ...item,
     imageUrl: old.imageUrl,
     social: {
       ...item.social,
-      status: 'ready_for_review',
       canvaFields: {
         ...item.social.canvaFields,
         FeatureImage: old.imageUrl
       }
     }
   } : item;
+
+  return {
+    ...withImage,
+    social: {
+      ...withImage.social,
+      status: preservedStatus || (withImage.imageUrl ? 'pending_review' : 'needs_image'),
+      canvaDesignId: preservedCanvaDesignId
+    }
+  };
 });
 
 await writeFile(OUTPUT, JSON.stringify({
   updatedAt: new Date().toISOString(),
-  note: 'Additive social-post enrichment. Existing live site data files are unchanged.',
+  note: 'Additive social review queue. Existing live site data files are unchanged.',
   items
 }, null, 2) + '\n');
 
