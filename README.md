@@ -41,3 +41,17 @@ Use:
 Every push to `main` will redeploy. Because the hourly data refresh commits changes to `main`, Vercel will automatically redeploy when fresh data is available.
 
 No paid API key is required for the current setup.
+
+
+## Newsletter backend
+
+The homepage newsletter posts to `/api/subscribe`, a Vercel Serverless Function in `api/subscribe.js`.
+
+It uses Brevo for subscriber storage. Add these environment variables in Vercel:
+
+- `BREVO_API_KEY` — your Brevo API key
+- `BREVO_LIST_ID` — the numeric ID of the Brevo list for HallyuScope subscribers
+
+Add them to Production and Preview environments, then redeploy. Do not commit either value to GitHub.
+
+The endpoint validates email addresses, includes a honeypot bot check, keeps credentials server-side, and uses Brevo's `updateEnabled` behavior so repeat signups do not create duplicate contacts.
