@@ -616,3 +616,24 @@ button,input{font:inherit;color:inherit}
 .review-post-meta{background:var(--navy);color:#fff}
 .review-post-meta:disabled{opacity:.55;cursor:wait}
 @media(max-width:640px){.review-social-head{flex-direction:column}.review-social-actions button{width:100%}}
+
+
+/* ---------- article reactions ---------- */
+.article-reactions{margin-top:42px;padding:24px 0 4px;border-top:2px solid var(--ink);border-bottom:1px solid var(--hair)}
+.article-reactions-head{display:flex;justify-content:space-between;gap:20px;align-items:flex-end;margin-bottom:18px}
+.article-reactions-head h2{margin:7px 0 0;font:800 26px/1.05 var(--f);font-stretch:92%}
+.reaction-row{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;padding-bottom:22px}
+.reaction-row button{border:1px solid var(--hair);background:#fff;padding:12px 8px;cursor:pointer;display:grid;grid-template-columns:auto 1fr auto;align-items:center;gap:7px;text-align:left;transition:background .2s,border-color .2s,transform .2s}
+.reaction-row button:hover{background:var(--tint);border-color:#cdd1df;transform:translateY(-1px)}
+.reaction-row button.is-selected{background:var(--navy);color:#fff;border-color:var(--navy)}
+.reaction-row button:disabled{opacity:.6;cursor:wait}
+.reaction-row button span{font:900 18px/1 var(--f);color:var(--pink)}
+.reaction-row button.is-selected span{color:#fff}
+.reaction-row button b{font-size:12px}
+.reaction-row button small{font:750 11px/1 var(--f);color:var(--mute)}
+.reaction-row button.is-selected small{color:rgba(255,255,255,.8)}
+@media(max-width:680px){
+  .article-reactions-head{align-items:flex-start;flex-direction:column}
+  .reaction-row{grid-template-columns:repeat(2,1fr)}
+  .reaction-row button:last-child{grid-column:1/-1}
+}
