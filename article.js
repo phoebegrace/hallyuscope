@@ -7,7 +7,7 @@
   fetch('/data/article-drafts.json?v=' + Date.now(), {cache:'no-store'})
     .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
     .then(data => {
-      const item = (data.items || []).find(x => x.id === id);
+      const item = (data.items || []).find(x => x.id === id && x.status === 'published');
       if (!item) throw new Error('missing');
       document.title = item.headline + ' | HallyuScope';
       const desc = document.querySelector('meta[name="description"]');
