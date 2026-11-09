@@ -284,3 +284,32 @@
     } finally { btn.disabled = false; btn.textContent = 'Join free'; }
   });
 })();
+
+/* ---------- newsletter preview: show this week's real headlines ---------- */
+(() => {
+  const ol = document.getElementById('nlPreview');
+  if (!ol) return;
+  const ta = document.createElement('textarea');
+  const clean = it => {
+    ta.innerHTML = it.title || ''; let t = ta.value.replace(/\s+/g, ' ').trim();
+    const src = (it.source || '').trim();
+    if (src && t.toLowerCase().endsWith((' - ' + src).toLowerCase())) t = t.slice(0, -(src.length + 3));
+    t = t.replace(/\s*\((?:📷|photo|via)[^)]*\)/gi, '').replace(/\s*\|\s*(?:via\b.*|vi|v)$/i, '').trim();
+    return t.length > 90 ? t.slice(0, 86).replace(/\s+\S*$/, '') + '…' : t;
+  };
+  const tagOf = t => /concert|tour|fan ?con|fan ?meeting|arena|ticket/i.test(t) ? 'Concert'
+    : /comeback|album|single|release|mv|title track|debut|teaser/i.test(t) ? 'Music'
+    : /drama|episode|series|netflix|film|actor|actress|cast/i.test(t) ? 'Drama' : 'News';
+  fetch('/data/latest.json?v=' + Math.floor(Date.now() / 6e5), { cache: 'no-store' })
+    .then(r => r.json())
+    .then(d => {
+      const items = (d.items || []).slice(0, 4);
+      if (!items.length) return;
+      ol.innerHTML = '';
+      items.forEach(it => {
+        const t = clean(it), li = document.createElement('li'), s = document.createElement('span'), tag = document.createElement('span');
+        s.textContent = t; tag.className = 'tag'; tag.dataset.t = tagOf(t); tag.textContent = tagOf(t);
+        li.append(s, tag); ol.appendChild(li);
+      });
+    }).catch(() => {});
+})();
