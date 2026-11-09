@@ -41,7 +41,7 @@ async function readQueue(){
 
 function cleanPatch(patch={}){
   const out={};
-  for(const key of ['headline','dek','category','seoDescription','socialCaption','imageUrl']){
+  for(const key of ['headline','dek','category','seoDescription','socialCaption','imageUrl','imageType']){
     if(typeof patch[key]==='string') out[key]=patch[key].trim();
   }
   if(Array.isArray(patch.body)) out.body=patch.body.map(x=>String(x).trim()).filter(Boolean);
@@ -78,6 +78,12 @@ export default async function handler(req,res){
     if(index<0) return reply(res,404,{error:'Draft not found'});
 
     const next={...items[index],...cleanPatch(patch)};
+    if(next.imageType==='official'){
+      next.imagePolicy={type:'official',note:'Marked in editorial review as a verified official promotional asset.'};
+    }else{
+      next.imageType='hallyuscope_original';
+      next.imagePolicy={type:'hallyuscope_original',note:'HallyuScope original editorial cover.'};
+    }
     if(operation==='publish'){
       next.status='published';
       next.publishedAt=new Date().toISOString();
