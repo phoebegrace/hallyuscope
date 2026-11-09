@@ -3,7 +3,7 @@ import { createHash } from 'node:crypto';
 
 const DATA_DIR = new URL('../data/', import.meta.url);
 const OUTPUT = new URL('social-post-candidates.json', DATA_DIR);
-const MAX_ITEMS = 12;
+const MAX_ITEMS = 100;
 const MAX_HTML_BYTES = 2_000_000;
 
 function cleanText(value='') {
@@ -138,11 +138,14 @@ const [latestData, concertData, comebackData] = await Promise.all([
   readJson('comeback-candidates.json')
 ]);
 
+const cutoff = Date.now() - 7 * 24 * 60 * 60 * 1000;
 const merged = [
   ...(latestData.items || []),
   ...(concertData.items || []),
   ...(comebackData.items || [])
-];
+]
+  .filter(item => !item.publishedAt || Date.parse(item.publishedAt) >= cutoff)
+  .sort((a, b) => (Date.parse(b.publishedAt || 0) || 0) - (Date.parse(a.publishedAt || 0) || 0));
 
 const seen = new Set();
 const baseItems = merged.filter(item => {

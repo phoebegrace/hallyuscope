@@ -36,6 +36,32 @@
     return { ...it, title, tag: tagOf(title), time: new Date(it.publishedAt) };
   }).filter(it => it.title && it.url);
 
+  const normalizeDrafts = list => (list || []).map(it => {
+    const title = decode(it.headline || '').replace(/\s+/g, ' ').trim();
+    const category = it.category || 'HALLYU NEWS';
+    const tagMap = {
+      'CONCERT NEWS': 'Concert',
+      'COMEBACK NEWS': 'Music',
+      'K-DRAMA NEWS': 'Drama',
+      'TRENDING': 'News',
+      'HALLYU NEWS': 'News'
+    };
+    return {
+      ...it,
+      title,
+      tag: tagMap[category] || tagOf(title),
+      category,
+      source: 'HallyuScope',
+      url: '/article?id=' + encodeURIComponent(it.id),
+      time: new Date(it.publishedAt || it.createdAt)
+    };
+  }).filter(it => it.id && it.title);
+
+  const weekOnly = list => {
+    const cutoff = Date.now() - 7 * 24 * 60 * 60 * 1000;
+    return list.filter(it => !isFinite(it.time) || it.time.getTime() >= cutoff);
+  };
+
   function ago(d) {
     const ms = Date.now() - d.getTime();
     if (!isFinite(ms)) return 'Recent';
@@ -68,7 +94,7 @@
   const today = $('[data-today]');
   if (today) today.textContent = fmt(new Date(), { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
 
-  get('latest').then(d => {
+  get('article-drafts').then(d => {
     const u = new Date(d.updatedAt);
     $$('[data-updated]').forEach(el => el.textContent = `Updated ${ago(u)}`);
   }).catch(() => $$('[data-updated]').forEach(el => el.textContent = 'Updated hourly'));
@@ -78,7 +104,7 @@
     new IntersectionObserver(([e]) => nav.classList.toggle('compact', !e.isIntersecting), { threshold: 0 }).observe(mast);
   }
 
-  const link = (it, inner, cls = '') => `<a class="${cls}" href="${esc(it.url)}" target="_blank" rel="noopener">${inner}</a>`;
+  const link = (it, inner, cls = '') => `<a class="${cls}" href="${esc(it.url)}">${inner}</a>`;
   const tag = it => `<span class="tag" data-t="${it.tag}">${it.tag}</span>`;
   const srcMeta = it => `<span class="meta"><b>${esc(it.source || 'Source')}</b> · ${ago(it.time)}</span>`;
 
@@ -86,25 +112,25 @@
   async function home() {
     const lead = $('#lead'); if (!lead) return;
     try {
-      const items = normalize((await get('latest')).items);
+      const items = weekOnly(normalizeDrafts((await get('article-drafts')).items)).sort((a,b) => b.time - a.time);
       if (!items.length) throw 0;
       const top = items[0];
       $('[data-lead-tags]', lead).innerHTML = `${tag(top)}${srcMeta(top)}`;
       $('.lead-title', lead).innerHTML = link(top, esc(top.title));
-      $$('[data-lead-link]', lead).forEach(a => { a.href = top.url; a.target = '_blank'; a.rel = 'noopener'; });
-      $('[data-lead-src]', lead).textContent = top.source || 'source';
+      $('[data-lead-link]', lead).forEach(a => { a.href = top.url; a.removeAttribute('target'); a.removeAttribute('rel'); });
+      const leadSrc = $('[data-lead-src]', lead); if (leadSrc) leadSrc.textContent = 'HallyuScope';
       $('#also').innerHTML = items.slice(1, 7).map(it => `<li>${link(it, `<h3>${esc(it.title)}</h3>${srcMeta(it)}`)}</li>`).join('');
       const tick = items.slice(0, 12).map(it => link(it, esc(it.title))).join('');
       $('#ticker').innerHTML = tick + tick;
     } catch { $('.lead-title', lead).textContent = 'Live headlines are refreshing — check back in a moment.'; }
 
-    get('concert-candidates').then(d => {
-      const items = normalize(d.items).slice(0, 4);
+    get('article-drafts').then(d => {
+      const items = weekOnly(normalizeDrafts(d.items)).filter(i => i.category === 'CONCERT NEWS').sort((a,b) => b.time - a.time).slice(0, 4);
       $('#homeConcerts').innerHTML = items.length ? items.map(ledgerRow).join('') : '<li class="empty">No new Philippine concert announcements this hour.</li>';
     }).catch(() => $('#homeConcerts').innerHTML = '<li class="empty">Concert radar is refreshing.</li>');
 
-    get('comeback-candidates').then(d => {
-      const items = normalize(d.items).filter(i => i.tag !== 'Drama').slice(0, 4);
+    get('article-drafts').then(d => {
+      const items = weekOnly(normalizeDrafts(d.items)).filter(i => i.category === 'COMEBACK NEWS').sort((a,b) => b.time - a.time).slice(0, 4);
       const sameDay = new Set(items.map(i => dayKey(i.time))).size === 1;
       const big = it => sameDay
         ? `<div class="d clock">${clock(it.time).replace(/\s?[AP]M/i, '')}<small>${clock(it.time).slice(-2).toUpperCase()} · ${dayLabel(it.time)}</small></div>`
@@ -134,7 +160,9 @@
 
   async function streamPage(root, feed, opts = {}) {
     try {
-      let items = normalize((await get(feed)).items).sort((a, b) => b.time - a.time);
+      let items = feed === 'article-drafts'
+        ? weekOnly(normalizeDrafts((await get(feed)).items)).sort((a, b) => b.time - a.time)
+        : normalize((await get(feed)).items).sort((a, b) => b.time - a.time);
       if (opts.filter) items = items.filter(opts.filter);
       const count = $('[data-count]');
       if (count) { count.innerHTML = `<span>0</span> ${opts.noun || 'stories'}`; countUp(count, items.length); }
@@ -178,19 +206,17 @@
 
   const page = document.body.dataset.page;
   if (page === 'home') home();
-  if (page === 'latest') streamPage($('#stream'), 'latest');
-  if (page === 'comebacks') streamPage($('#stream'), 'comeback-candidates', { noun: 'announcements' });
-  if (page === 'concerts') streamPage($('#stream'), 'concert-candidates', { ledger: true, noun: 'announcements', empty: 'No new Philippine concert announcements this hour.' });
+  if (page === 'latest') streamPage($('#stream'), 'article-drafts');
+  if (page === 'comebacks') streamPage($('#stream'), 'article-drafts', { noun: 'stories', filter: i => i.category === 'COMEBACK NEWS' });
+  if (page === 'concerts') streamPage($('#stream'), 'article-drafts', { ledger: true, noun: 'stories', filter: i => i.category === 'CONCERT NEWS', empty: 'No Philippine concert stories published this week yet.' });
 
   /* ---------- search ---------- */
   const panel = $('#search'), input = $('#q'), out = $('#results');
   let pool = null;
   async function loadPool() {
     if (pool) return pool;
-    const feeds = await Promise.allSettled(['latest', 'concert-candidates', 'comeback-candidates'].map(get));
-    const seen = new Set();
-    pool = feeds.flatMap(f => f.status === 'fulfilled' ? normalize(f.value.items) : [])
-      .filter(i => !seen.has(i.url) && seen.add(i.url)).sort((a, b) => b.time - a.time);
+    const data = await get('article-drafts');
+    pool = weekOnly(normalizeDrafts(data.items)).sort((a, b) => b.time - a.time);
     return pool;
   }
   function render(q) {
