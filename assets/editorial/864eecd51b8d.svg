@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <rect width="1200" height="675" fill="#ffffff"/>
+  <rect x="0" y="0" width="1200" height="16" fill="#01229a"/>
+  <rect x="0" y="16" width="1200" height="10" fill="#fe0862"/>
+  <text x="88" y="100" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800" letter-spacing="3" fill="#fe0862">HALLYU NEWS</text>
+  <text x="88" y="250" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="800" fill="#0a0d22">The Korea Times Examines</text>
+<text x="88" y="332" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="800" fill="#0a0d22">K-pop Stars Losing Devoted</text>
+<text x="88" y="414" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="800" fill="#0a0d22">Fans</text>
+  <g transform="translate(950 108)">
+    <rect x="0" y="0" width="142" height="142" rx="71" fill="#f7f8fc"/>
+    <circle cx="71" cy="71" r="39" fill="none" stroke="#fe0862" stroke-width="14"/>
+    <path d="M71 22v26M71 94v26M22 71h26M94 71h26" stroke="#01229a" stroke-width="7"/>
+    <path d="M71 53q3 15 18 18-15 3-18 18-3-15-18-18 15-3 18-18Z" fill="#fe0862"/>
+  </g>
+  <text x="88" y="610" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="800" fill="#01229a">HallyuScope</text>
+  <text x="300" y="610" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" fill="#7b8194">Original editorial cover</text>
+</svg>

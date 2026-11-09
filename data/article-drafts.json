@@ -1,8 +1,1595 @@
 {
-  "updatedAt": "2026-11-09T13:10:42.877Z",
+  "updatedAt": "2026-11-09T19:57:15.733Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
+    {
+      "id": "511d08572eba",
+      "createdAt": "2026-11-09T19:52:51.401Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T18:00:00.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "girlset-s-young-dumb-gets-music-video-trailer",
+      "source": {
+        "publisher": "JYP Entertainment",
+        "title": "GIRLSET \"young & dumb\" MV Trailer",
+        "url": "https://www.youtube.com/undefined"
+      },
+      "imageUrl": "/assets/editorial/511d08572eba.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": null,
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "GIRLSET’s “young & dumb” Gets Music Video Trailer",
+      "dek": "JYP Entertainment has shared a music video trailer for GIRLSET’s “young & dumb.”",
+      "body": [
+        "A music video trailer for GIRLSET’s “young & dumb” has appeared on JYP Entertainment’s YouTube channel.",
+        "The available source information identifies the video as a trailer, but does not include further details about the release."
+      ],
+      "socialCaption": "GIRLSET’s “young & dumb” has a music video trailer. Read HallyuScope for the confirmed details.",
+      "seoDescription": "JYP Entertainment has shared a music video trailer for GIRLSET’s “young & dumb.” Here’s what the verified title and source confirm about the release.",
+      "sourceNote": "Source: JYP Entertainment"
+    },
+    {
+      "id": "9c525233807e",
+      "createdAt": "2026-11-09T19:52:56.072Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T16:38:08.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "kpop-demon-hunters-and-heyday-release-second-target-collection",
+      "source": {
+        "publisher": "ABC7 Los Angeles",
+        "title": "KPop Demon Hunters x heyday collection at Target: Even more limited-edition gear and tech is released in drop 2",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVXBVYUdqSDM3Y0wzSWU5VmViaE9DWHJJMjdlMHBtWnN1N1JZUnFVbDB4X3ZjS3BZbGlQcFQxYVIwRzJ3UmdrRmNscGtGZHVDOEd0cjEtUHk4ODdSVVNlbFpicVpIUVQ4N1lxZkJDR3R3UEVNYkloVzBuZUFwUmJ3V0ZFU2RLMTNwWEZzWkM2a25YSXozN0lkQmxNTDBIcXRjTTdMOVlsRzVWSGs4WllvSjNkekJSM25WSVJyNjNqY1FDcEHSAcgBQVVfeXFMUExQNV9NU196TEtkaFdQd3p6dWNYRjdYcE43cWFZMWJaOU95QjVPLXpra1VSMkFraWt0XzZ4MEtJaWhvakhjMjZVNFZyTzlBNXgzMncwdFNUWVRHazJWbXBsTVE3aHFuS0xUcUlXRFVvZlpxVmNKZjh3c1k0QWlBR2taa1oyQm5Tc2VzMDF5VXFyaWVOdkN3dVRDS0dLVkhLdlZ1RG9CNkdpamI4dHduVWt3TU9CbzNydDFqSnp4TmthWjQtQU9vdDI"
+      },
+      "imageUrl": "/assets/editorial/9c525233807e.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "KPop Demon Hunters and heyday Release Second Target Collection",
+      "dek": "The second drop adds more limited-edition gear and tech to the KPop Demon Hunters x heyday collection at Target.",
+      "body": [
+        "A second drop of the KPop Demon Hunters x heyday collection has been released at Target, adding more limited-edition gear and tech, according to ABC7 Los Angeles.",
+        "The report identifies the release as the collection’s second drop but does not specify individual products in its headline. Details such as pricing and availability were not included in the supplied source material."
+      ],
+      "socialCaption": "The KPop Demon Hunters x heyday collection has a second Target drop. Read HallyuScope for what’s confirmed about the release.",
+      "seoDescription": "A second KPop Demon Hunters x heyday drop has been released at Target, adding more limited-edition gear and tech to the collaboration.",
+      "sourceNote": "Source: ABC7 Los Angeles"
+    },
+    {
+      "id": "534b5f259225",
+      "createdAt": "2026-11-09T19:53:00.853Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T16:32:39.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "korean-organizations-reject-oppressive-control-characterization-of-k-pop",
+      "source": {
+        "publisher": "IQ Magazine",
+        "title": "Korean orgs reject idea of ‘oppressive control’ in K-pop industry",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZVIxLU5WSVZkcGpHUlNrUG9MOUJyQ1oySjh6eGQzS0Ytdjk2ZDNzLTFPTGEwV1ZHSjZpX0VkNnRIS3JmNmxvUVBBWlFqQkctNjBqVnJYcC1zdC1RcVpIQndxYWMwNUliMXR3QjN4cXg1eFBDcDJfdEpjRkJpbFdEc2paV2hUMW5CMzZQTDV0Um05SXZPSzhqQ3dOa0JNdVZ5"
+      },
+      "imageUrl": "/assets/editorial/534b5f259225.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Korean Organizations Reject ‘Oppressive Control’ Characterization of K-pop",
+      "dek": "Korean organizations have rejected the idea that the K-pop industry is defined by oppressive control, according to IQ Magazine.",
+      "body": [
+        "Korean organizations have pushed back against the idea of “oppressive control” in the K-pop industry, IQ Magazine reports.",
+        "The available headline does not identify the organizations or provide details of their response."
+      ],
+      "socialCaption": "Korean organizations have challenged a characterization of control in K-pop. Read HallyuScope’s brief for what the report’s headline tells us.",
+      "seoDescription": "Korean organizations reject the idea of oppressive control in the K-pop industry, according to a report from IQ Magazine. Read the news brief.",
+      "sourceNote": "Source: IQ Magazine"
+    },
+    {
+      "id": "d229c5df4a84",
+      "createdAt": "2026-11-09T19:53:05.753Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T16:21:51.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "aia-brings-7-000-people-together-for-k-pop-concert-in-south-korea",
+      "source": {
+        "publisher": "SunStar Publishing Inc.",
+        "title": "AIA gathers 7,000 in South Korea for K-Pop concert",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRjdpdGRTRS1VRFNBcEs2NGZydTBjTW5KWnRYQ2xkZl9Ra1NPcm82VDZyRENfSDhlaDJoakdCRXlfeDdYR0xLODNnMnl0SzB0SUxBdzZNSWVPZ0dISUR3U2pIX1h3cC1MWG5KVmlBclRpazRraFhCNURrcWlzUzBsRDhxU3RmRk1ObGfSAZcBQVVfeXFMTU93QkRzcktuWi1EVWVBN2FrV0xORU9kYUZ5YmVZQk01cjlSZC14S1JUdjU3ako5TWMyeGZJMkhValBlaVkzZTZFaEE3ZjVCXzgySVEyZ0NQU0tIekhXc2V5eHNCYnR4YTVpUS1oR0JQWmltTkRQdXUtcVB0RUdtcHk4Z0l5UEZqTGtDa2VDeEg1Z0REXzZIYw"
+      },
+      "imageUrl": "/assets/editorial/d229c5df4a84.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "CONCERT NEWS",
+      "headline": "AIA Brings 7,000 People Together for K-pop Concert in South Korea",
+      "dek": "AIA gathered 7,000 people in South Korea for a K-pop concert, according to SunStar Publishing Inc.",
+      "body": [
+        "AIA brought together 7,000 people in South Korea for a K-pop concert, SunStar Publishing Inc. reported.",
+        "The available source headline does not identify the performers or give further details about the concert."
+      ],
+      "socialCaption": "AIA gathered 7,000 people for a K-pop concert in South Korea. Read HallyuScope for the details available from the report.",
+      "seoDescription": "AIA gathered 7,000 people in South Korea for a K-pop concert, according to a report from SunStar Publishing Inc. Read the available details on HallyuScope.",
+      "sourceNote": "Source: SunStar Publishing Inc."
+    },
+    {
+      "id": "048de0386976",
+      "createdAt": "2026-11-09T19:53:10.168Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T16:10:05.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "nct-dream-s-boogie-woogie-reviewed-by-the-bias-list",
+      "source": {
+        "publisher": "https://thebiaslist.com/",
+        "title": "Song Review: NCT Dream – Boogie Woogie",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9KTFZMTXI4WUlSaThwUkI0a0NqMFFCd2ktcG5PSzRRTkI2OU51cldFbmowWVB4YXZJcHRYTi0xMmFobWVockFFbjhtYkl0TDBtbE1QRU92OEg4NlRuUGpWdlNNamxmSWhUMTBsYmJybXo0OGJuVmVCTlVHTQ"
+      },
+      "imageUrl": "/assets/editorial/048de0386976.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "NCT Dream’s ‘Boogie Woogie’ Reviewed by The Bias List",
+      "dek": "The Bias List has published a song review of NCT Dream’s “Boogie Woogie.”",
+      "body": [
+        "NCT Dream’s “Boogie Woogie” is the subject of a song review published by The Bias List.",
+        "The review’s headline identifies the artist and track, but no article text was available to confirm the publication’s assessment."
+      ],
+      "socialCaption": "The Bias List has reviewed NCT Dream’s “Boogie Woogie.” Read HallyuScope for the details available.",
+      "seoDescription": "The Bias List has published a review of NCT Dream’s “Boogie Woogie.” Here’s what the available headline confirms about the coverage.",
+      "sourceNote": "Source: The Bias List"
+    },
+    {
+      "id": "84f1283e7115",
+      "createdAt": "2026-11-09T19:53:14.406Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T15:28:13.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "nct-dream-returns-with-dream-album-and-boogie-woogie-video",
+      "source": {
+        "publisher": "upi",
+        "title": "NCT Dream returns with 'Dream' album, 'Boogie Woogie' music video",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS2dtdXR1WjkwRVU2VHRqejZROUFlRXhXV0E4RjVkVDllcmdnNGg2T0RWcm5xYjJuOFlGVkpYSHRVS0NGV3R2dWpvYUVMN1YyY21tSDdJTTFZTWc4aW1lWENPRjJnTFFrZ1RXVlVjbTJHcUVWRXQ3c3hLcm5LTHlHbDV5Q1JFb0ZUY2tmY1M3U1hpWmFRN1JyejdwdU81Q2pxeTBXODRteVF5alhyZW5TS1ZR0gG3AUFVX3lxTE04V2x1VW9Oc1ZRbmRCOWcybmJacHE3UHgtR1JEVXNobmFCMlN6M0szU1RSamxfMjQyQzhaU3pxcFpxOXgzQ3ZmZW92a25FVVo0eGljRWhncFQtLXduYl8xWjFtcXBETi1BWk5SS3R3VExDeEZ4WFEzTHJtWTdCWDVTV1RLLVQ0Zll0bzFpLTE1ZURodFhMWUVBRWloQkM2Q0doRC1hTHFiajIzY3pOSEtNVW1yTG4yTQ"
+      },
+      "imageUrl": "/assets/editorial/84f1283e7115.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "NCT Dream Returns With ‘Dream’ Album and ‘Boogie Woogie’ Video",
+      "dek": "NCT Dream is back with an album titled ‘Dream’ and a music video for ‘Boogie Woogie.’",
+      "body": [
+        "NCT Dream has returned with the album ‘Dream’ and a music video for ‘Boogie Woogie,’ UPI reports.",
+        "The album and video mark a new release from the K-pop group."
+      ],
+      "socialCaption": "NCT Dream is back with ‘Dream’ and a ‘Boogie Woogie’ music video. Read the release brief on HallyuScope.",
+      "seoDescription": "NCT Dream returns with the album ‘Dream’ and a music video for ‘Boogie Woogie.’ Read HallyuScope’s brief on the group’s new release.",
+      "sourceNote": "Source: UPI"
+    },
+    {
+      "id": "52a985c8d93c",
+      "createdAt": "2026-11-09T19:53:19.615Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T15:26:59.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "exo-s-kai-and-sehun-prepare-to-debut-as-exo-kase",
+      "source": {
+        "publisher": "Soompi",
+        "title": "EXO&#8217;s Kai And Sehun Gear Up For Unit Debut As EXO-KASE With &#8220;Waking Up The City&#8221; Teaser",
+        "url": "https://www.soompi.com/article/1885364wpp/exos-kai-and-sehun-gear-up-for-unit-debut-as-exo-kase-with-waking-up-the-city-teaser"
+      },
+      "imageUrl": "/assets/editorial/52a985c8d93c.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/10002634/exo-kase_9ec39a.jpeg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "EXO’s Kai and Sehun Prepare to Debut as EXO-KASE",
+      "dek": "The EXO members will release their first mini album, “Waking Up The City,” on December 1.",
+      "body": [
+        "EXO’s Kai and Sehun are preparing to make their debut as a unit under the name EXO-KASE.",
+        "A teaser for the duo was revealed on November 10. Their first mini album, “Waking Up The City,” is scheduled for release on December 1 at 6 p.m. KST.",
+        "The upcoming mini album marks the unit debut of Kai and Sehun, both members of EXO."
+      ],
+      "socialCaption": "Kai and Sehun are debuting as EXO-KASE. Read HallyuScope for the release details.",
+      "seoDescription": "EXO’s Kai and Sehun are preparing to debut as EXO-KASE with their first mini album, “Waking Up The City,” set for release on December 1.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "b19c99320baf",
+      "createdAt": "2026-11-09T19:53:26.125Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T15:26:32.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "keyvitup-makes-first-comeback-with-na-gari",
+      "source": {
+        "publisher": "BroadwayWorld",
+        "title": "Watch: KEYVITUP Expands on Debut Success With First Comeback 'NA-GARI'",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRFFWU3JhTktYNkRRSUhPNkE0Nmw5OGlIeTE0U3JCSHZma3RWN2JYbWpKYm9UZkxaaldUdFFwQjg4bzU4X05pSWgwMktTcWxJc2RaeHJlSGg4M3dVV3ZhUU5PdUJZa3hzWWZaS1BSbVJhdi13ZmdpZFVFeGVHVlJ6dUQ3b09BRGVWbHNKNWRYVExvdzBHZ2ZGOVpNWW5SckZqTHFKZ3JKZG9LQ0I0WlJDNmV5V21IQ2JaU295SDdOMlo5ek02RldiV3BOZXk4SmI2YXBaY0NR"
+      },
+      "imageUrl": "/assets/editorial/b19c99320baf.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "KEYVITUP Makes First Comeback With ‘NA-GARI’",
+      "dek": "KEYVITUP has followed its debut with a first comeback titled ‘NA-GARI,’ BroadwayWorld reports.",
+      "body": [
+        "KEYVITUP is back with its first comeback, ‘NA-GARI,’ following what BroadwayWorld described as a successful debut.",
+        "BroadwayWorld featured the comeback in a watch-focused report. No further details about the release were available in the supplied source material."
+      ],
+      "socialCaption": "KEYVITUP returns with ‘NA-GARI.’ Read HallyuScope for the confirmed details on its first comeback.",
+      "seoDescription": "KEYVITUP follows its debut with its first comeback, ‘NA-GARI.’ Read the confirmed details of the return in this HallyuScope news brief.",
+      "sourceNote": "Source: BroadwayWorld"
+    },
+    {
+      "id": "957376a0ec70",
+      "createdAt": "2026-11-09T19:53:30.043Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T14:48:56.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "twice-concert-film-set-for-2027-cinema-release",
+      "source": {
+        "publisher": "Contactmusic.com",
+        "title": "TWICE concert film set for cinema release in 2027",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMl9XanY5S0UtU2xUcU5GY0tGYmtEZW9ueXpRSXNpY3pvMkl0NUdZUnIyQ3dRNE1CbTZxaEVnUi1nakJadFRTSzZ3OFFiT1Jkd2NST0Q2emRvZmRZUTVERnAzcldrYzRzZ1dzOG84VVR3ekpwTE0xR1FLTFg4aE9XMEc2UXkyNzN1akRuWU1SSk51dHJTeDd6X2FUbjE"
+      },
+      "imageUrl": "/assets/editorial/957376a0ec70.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "CONCERT NEWS",
+      "headline": "TWICE Concert Film Set for 2027 Cinema Release",
+      "dek": "A concert film featuring TWICE is set to reach cinemas in 2027, according to Contactmusic.com.",
+      "body": [
+        "TWICE is set to appear on the big screen in a concert film scheduled for a cinema release in 2027.",
+        "Contactmusic.com reported the release plans in its headline. Further details about the film are not available in the supplied source material."
+      ],
+      "socialCaption": "A TWICE concert film is headed to cinemas in 2027. Read on HallyuScope for the confirmed release information.",
+      "seoDescription": "A TWICE concert film is set for a cinema release in 2027, according to Contactmusic.com. Here is what the available headline confirms so far.",
+      "sourceNote": "Source: Contactmusic.com"
+    },
+    {
+      "id": "6a8d7892dc47",
+      "createdAt": "2026-11-09T19:53:34.750Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T13:30:00.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "k-pop-industry-pushes-back-over-revealed-newjeans-contract-details",
+      "source": {
+        "publisher": "Music Ally",
+        "title": "K-Pop biz pushes back after NewJeans contract details revealed",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVDJDTlVQTFZsZDEwM0E3cTcwa3R2WmU4QlJWazhqLTRTMW1xWFFvNHdudG8wZG5jbHRWOXJxWk00bEtDTjRBQWJoSFEwQzRRdnpCdWdoVEV2WWFUc1Z1aU5SbTJFbEIzT0FVMG9xSFJNMFd2RFgxYk5ERUpGbXo3S0Vja2FQc0JVMmRjRlJhQ2ljaVM5c0dwWVFlTDU"
+      },
+      "imageUrl": "/assets/editorial/6a8d7892dc47.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "K-Pop Industry Pushes Back Over Revealed NewJeans Contract Details",
+      "dek": "Music Ally reports that the K-pop business has pushed back after details of NewJeans’ contract were revealed.",
+      "body": [
+        "The K-pop industry has pushed back following the disclosure of details about NewJeans’ contract, according to Music Ally.",
+        "The source headline does not specify which contract details were revealed or identify those involved in the response."
+      ],
+      "socialCaption": "The K-pop industry is pushing back after NewJeans contract details were revealed. Read HallyuScope’s brief for what the report confirms.",
+      "seoDescription": "Music Ally reports K-pop industry pushback after NewJeans contract details were revealed. Here’s what the verified headline confirms so far.",
+      "sourceNote": "Source: Music Ally"
+    },
+    {
+      "id": "75732f0ea2f2",
+      "createdAt": "2026-11-09T19:53:39.234Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T13:00:03.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "enhypen-s-ni-ki-featured-in-the-sin-parallel-world-concept-film",
+      "source": {
+        "publisher": "HYBE LABELS",
+        "title": "ENHYPEN (엔하이픈) 'THE SIN : PARALLEL WORLD' Concept Film (DAY&NIGHT Ver.) - 니키 (NI-KI)",
+        "url": "https://www.youtube.com/undefined"
+      },
+      "imageUrl": "/assets/editorial/75732f0ea2f2.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": null,
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "ENHYPEN’s NI-KI Featured in ‘THE SIN : PARALLEL WORLD’ Concept Film",
+      "dek": "HYBE LABELS has listed a DAY&NIGHT version of the concept film featuring ENHYPEN member NI-KI.",
+      "body": [
+        "ENHYPEN’s NI-KI is featured in a concept film for ‘THE SIN : PARALLEL WORLD,’ according to the title published by HYBE LABELS.",
+        "The film is identified as the DAY&NIGHT version."
+      ],
+      "socialCaption": "NI-KI features in ENHYPEN’s ‘THE SIN : PARALLEL WORLD’ concept film. Read the details on HallyuScope.",
+      "seoDescription": "ENHYPEN member NI-KI features in the DAY&NIGHT version of the ‘THE SIN : PARALLEL WORLD’ concept film, listed by HYBE LABELS.",
+      "sourceNote": "Source: HYBE LABELS"
+    },
+    {
+      "id": "3c5b73581d1c",
+      "createdAt": "2026-11-09T19:53:44.296Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T12:54:30.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "hybe-responds-to-new-york-times-report-on-newjeans-contracts",
+      "source": {
+        "publisher": "Music Business Worldwide",
+        "title": "HYBE responds to NYT report on NewJeans contracts, says leaked agreements ‘are being used as a means to attack the K-pop industry’",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWURnUkZLT3lmS1ZycGdhbG5ublhfTXVwS0pPczNEVV9PdGQ4UThjYWJHZ2FxcDhvRWJhcGtMUmU5dVFLc09qQlB6U1BITnktdF9lVUlrTXNqOUU2MDJJYTM2Z1ZSWjgzYjJHM2ZfOFZDUFV3cjR5a1VCN2RQUUw5Z1lXQ0J3Tlo0NUFMTG93bWR4MGctSUhCdWxUa19xV3U0SXpLWi1nTkNDVTJ5R3JrOFlUM0RoeG84RDViNXdocjRCazNJdmZsclJIMUJvWFNSbmJUYl96QmRfOW5CamtSVldndFlXLWQ2MHZOa2ZxQ251MHJKbDdOdjFPZw"
+      },
+      "imageUrl": "/assets/editorial/3c5b73581d1c.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "HYBE Responds to New York Times Report on NewJeans Contracts",
+      "dek": "HYBE says leaked agreements are being used to attack the K-pop industry, according to Music Business Worldwide.",
+      "body": [
+        "HYBE has responded to a New York Times report on NewJeans’ contracts, Music Business Worldwide reports.",
+        "The company said leaked agreements were being used as a means of attacking the K-pop industry. No further details about the agreements or HYBE’s response were available in the supplied source material."
+      ],
+      "socialCaption": "HYBE has responded to a New York Times report on NewJeans’ contracts. Read the verified details on HallyuScope.",
+      "seoDescription": "HYBE has responded to a New York Times report on NewJeans’ contracts, saying leaked agreements are being used to attack the K-pop industry.",
+      "sourceNote": "Source: Music Business Worldwide"
+    },
+    {
+      "id": "6108bece0261",
+      "createdAt": "2026-11-09T19:53:48.667Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T12:24:45.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "chaeryeong-s-lovesick-countdown-live-listed-by-jyp-entertainment",
+      "source": {
+        "publisher": "JYP Entertainment",
+        "title": "CHAERYEONG 'Lovesick' COUNTDOWN LIVE",
+        "url": "https://www.youtube.com/undefined"
+      },
+      "imageUrl": "/assets/editorial/6108bece0261.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": null,
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "CHAERYEONG’s ‘Lovesick’ Countdown Live Listed by JYP Entertainment",
+      "dek": "JYP Entertainment has listed a countdown live under the title “CHAERYEONG ‘Lovesick’ COUNTDOWN LIVE.”",
+      "body": [
+        "JYP Entertainment has listed a countdown live titled “CHAERYEONG ‘Lovesick’ COUNTDOWN LIVE.”",
+        "The available source information does not include further details about the broadcast."
+      ],
+      "socialCaption": "CHAERYEONG’s ‘Lovesick’ countdown live is listed by JYP Entertainment. Read HallyuScope’s brief for the available details.",
+      "seoDescription": "JYP Entertainment has listed CHAERYEONG’s ‘Lovesick’ COUNTDOWN LIVE. Read HallyuScope’s brief for the available source details.",
+      "sourceNote": "Source: JYP Entertainment"
+    },
+    {
+      "id": "cf269c78576e",
+      "createdAt": "2026-11-09T19:53:55.454Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T12:00:01.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "tomorrow-x-together-shares-official-trailer-for-steal-the-wind-world-tour",
+      "source": {
+        "publisher": "HYBE LABELS",
+        "title": "TOMORROW X TOGETHER WORLD TOUR 'STEAL THE WIND' Official Trailer",
+        "url": "https://www.youtube.com/undefined"
+      },
+      "imageUrl": "/assets/editorial/cf269c78576e.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": null,
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "CONCERT NEWS",
+      "headline": "TOMORROW X TOGETHER Shares Official Trailer for ‘STEAL THE WIND’ World Tour",
+      "dek": "HYBE LABELS has presented an official trailer for TOMORROW X TOGETHER’s world tour, ‘STEAL THE WIND.’",
+      "body": [
+        "TOMORROW X TOGETHER’s world tour ‘STEAL THE WIND’ has an official trailer from HYBE LABELS."
+      ],
+      "socialCaption": "TOMORROW X TOGETHER’s ‘STEAL THE WIND’ world tour has an official trailer. Read the brief on HallyuScope for the details.",
+      "seoDescription": "HYBE LABELS presents the official trailer for TOMORROW X TOGETHER WORLD TOUR ‘STEAL THE WIND,’ featuring the K-pop group’s world tour.",
+      "sourceNote": "Source: HYBE LABELS"
+    },
+    {
+      "id": "a63cf87b071f",
+      "createdAt": "2026-11-09T19:53:59.963Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T10:54:24.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "heyday-and-kpop-demon-hunters-second-drop-includes-gaming-gear",
+      "source": {
+        "publisher": "Mashable",
+        "title": "heyday x KPop Demon Hunters drop 2: Gaming headsets, keyboard, prices",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMDN1ZlZ4Z3R0WlF5bDk3UFhVMUNrQjNEVXZRUXI5WlRpS0FudFNtdW5Gc1IxLVQ3TExVUGI0MGZSZEplVGJGSHp0eVk4ZlR3eVlLQVJvVWt6MGlhMmxVZmZCQXltRDdZTFBiWmREYk90RE1zUVVOcWZwUnZLUFFRWEtB"
+      },
+      "imageUrl": "/assets/editorial/a63cf87b071f.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Heyday and KPop Demon Hunters’ Second Drop Includes Gaming Gear",
+      "dek": "The second heyday x KPop Demon Hunters drop includes gaming headsets and a keyboard.",
+      "body": [
+        "Heyday and KPop Demon Hunters are back with a second product drop featuring gaming headsets and a keyboard, according to a Mashable report.",
+        "Mashable’s headline also references prices for the products. However, the available source information does not specify the prices or provide further product details."
+      ],
+      "socialCaption": "A second heyday x KPop Demon Hunters drop includes gaming gear. Read HallyuScope for the details confirmed so far.",
+      "seoDescription": "Heyday and KPop Demon Hunters’ second drop includes gaming headsets and a keyboard. Here’s what has been confirmed about the products so far.",
+      "sourceNote": "Source: Mashable"
+    },
+    {
+      "id": "71befc2ad8c0",
+      "createdAt": "2026-11-09T19:54:05.647Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T08:58:07.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "chaeryeong-s-lovesick-music-video-listed-by-jyp-entertainment",
+      "source": {
+        "publisher": "JYP Entertainment",
+        "title": "CHAERYEONG “Lovesick” M/V",
+        "url": "https://www.youtube.com/undefined"
+      },
+      "imageUrl": "/assets/editorial/71befc2ad8c0.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": null,
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Chaeryeong’s ‘Lovesick’ Music Video Listed by JYP Entertainment",
+      "dek": "JYP Entertainment is the source for a music video titled “Lovesick” by Chaeryeong.",
+      "body": [
+        "Chaeryeong’s “Lovesick” is listed as a music video in a source from JYP Entertainment.",
+        "The supplied source material includes the video’s title but no extractable description or additional details."
+      ],
+      "socialCaption": "Chaeryeong’s “Lovesick” is listed as a music video by JYP Entertainment. Read HallyuScope’s brief for the available details.",
+      "seoDescription": "Chaeryeong’s “Lovesick” is listed as a music video by JYP Entertainment. Here’s what the available source title confirms about the video.",
+      "sourceNote": "Source: JYP Entertainment"
+    },
+    {
+      "id": "c13f1d8e4541",
+      "createdAt": "2026-11-09T19:54:11.400Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T05:24:04.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "enhypen-set-for-three-comebacks-in-one-year",
+      "source": {
+        "publisher": "The Korea Times",
+        "title": "ENHYPEN to make 3 comebacks in 1 year, keeping momentum through year-end",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcXcyRnpjb1E4b2dDUEFOMG5IdkR4RXR4V2hLc3MzeTdReGZ0a2VuQnNPeU1Ma01RZ2ozeHlFRjExQzdZV180ZzNkZzRaS3NBLVVyYUdScEVKaVdKRFVJVUJRblA5aXowTHpkTGh6cTdlNmxfS010dkVncWJ1VXpUTURHZENDZ1BmSThmM0ZvVzFWMnNlTnpscWxZX05ldWEzYkZXbURGS18wQ0gybXd5ZnpWbmRxQkc4WjViV0tIRU3SAcYBQVVfeXFMTU9aWk80SHh1bUs3ZENsajNiaHpmcS1wSF95UEkzM3J2VHRsU1BMZ05SY1pNdjZocXBEcE9JSnY1SDZoQ2NoM1NpaXJwUDJZTWRESkNvbjRSUjJ2TDdpZFN3NGlnUDZkM0MxZWo5akxTemNxSjZTN0ZhRnFQQ2g5Sm1oWmRDYmRyQVlnaEFJVFQ5UDU1Z1NaX0JCYWl6WXdxZXZCUVNPMDJ0dkNwdGxqcGtyWTdKRE9DMGR5clUwb3BMR1E2dERn"
+      },
+      "imageUrl": "/assets/editorial/c13f1d8e4541.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "ENHYPEN Set for Three Comebacks in One Year",
+      "dek": "The Korea Times reports that ENHYPEN will make three comebacks within a single year, with activity continuing through year-end.",
+      "body": [
+        "ENHYPEN are set to make three comebacks in one year, according to The Korea Times.",
+        "The report points to a schedule that will keep the group active through the end of the year. Details about the comebacks were not available in the supplied source material."
+      ],
+      "socialCaption": "ENHYPEN are set for three comebacks in one year. Read the confirmed details on HallyuScope.",
+      "seoDescription": "ENHYPEN are set to make three comebacks in one year, The Korea Times reports, with the group's momentum continuing through the end of the year.",
+      "sourceNote": "Source: The Korea Times"
+    },
+    {
+      "id": "7749e4589d0a",
+      "createdAt": "2026-11-09T19:54:16.351Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-08T15:41:31.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "doh-kyung-soo-unveils-concept-photos-for-upcoming-single-darling",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Update: Doh Kyung Soo Stars In Concept Photos For New Single &#8220;Darling&#8221;",
+        "url": "https://www.soompi.com/article/1885060wpp/exos-doh-kyung-soo-d-o-announces-november-return-with-1st-teasers-for-darling"
+      },
+      "imageUrl": "/assets/editorial/7749e4589d0a.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/10003703/do-5-1.jpeg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "Doh Kyung Soo Unveils Concept Photos for Upcoming Single ‘Darling’",
+      "dek": "The EXO member’s digital single is set to arrive on November 11 at 6 p.m. KST.",
+      "body": [
+        "Doh Kyung Soo has unveiled the first concept photos for his upcoming digital single, “Darling.”",
+        "The EXO member, also known as D.O., announced the release on November 9 at midnight KST. The single is scheduled to arrive on November 11 at 6 p.m. KST.",
+        "The newly released images offer a first look at the concept for “Darling,” which marks Doh Kyung Soo’s return with new music."
+      ],
+      "socialCaption": "Doh Kyung Soo has shared the first concept photos for “Darling.” Read on HallyuScope for the release details.",
+      "seoDescription": "EXO’s Doh Kyung Soo, also known as D.O., has unveiled concept photos for his digital single “Darling,” set for release on November 11 at 6 p.m. KST.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "9eeb30862786",
+      "createdAt": "2026-11-09T19:54:22.787Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-08T15:23:44.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "taeyeon-reveals-promotion-schedule-for-fourth-solo-album-unspecial",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Update: Taeyeon Drops Promotion Schedule For Solo Studio Album &#8220;Unspecial&#8221;",
+        "url": "https://www.soompi.com/article/1885057wpp/watch-girls-generations-taeyeon-announces-comeback-date-with-teaser-for-unspecial"
+      },
+      "imageUrl": "/assets/editorial/9eeb30862786.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/10003430/taeyeon_36f695.jpeg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "Taeyeon Reveals Promotion Schedule for Fourth Solo Album ‘Unspecial’",
+      "dek": "The Girls’ Generation member will release her fourth full-length solo album on November 30, 2026.",
+      "body": [
+        "Taeyeon has revealed a promotion schedule for her fourth solo studio album, “Unspecial.”",
+        "The Girls’ Generation member announced the album on November 9 at midnight KST, confirming that it will arrive on November 30 at 6 p.m. KST. The announcement was accompanied by a first teaser titled “Curtain Raiser.”",
+        "“Unspecial” is Taeyeon’s fourth full-length solo album. The newly revealed schedule follows the initial announcement of its release date."
+      ],
+      "socialCaption": "Taeyeon has shared a promotion schedule for “Unspecial.” Read on HallyuScope for the album’s release date and first teaser details.",
+      "seoDescription": "Taeyeon reveals the promotion schedule for her fourth solo album, Unspecial, set for release on November 30, 2026, at 6 p.m. KST.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "1e915ca40080",
+      "createdAt": "2026-11-09T19:54:29.063Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-08T15:09:07.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "a2o-lite-s-neon-earns-11th-music-show-win-and-inkigayo-triple-crown",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: A2O LITE Takes 11th Win And Triple Crown For &#8220;NEON&#8221; On &#8220;Inkigayo&#8221;; Performances By BLACKPINK&#8217;s Jisoo And More",
+        "url": "https://www.soompi.com/article/1885054wpp/watch-a2o-lite-takes-11th-win-and-triple-crown-for-neon-on-inkigayo-performances-by-blackpinks-jisoo-and-more"
+      },
+      "imageUrl": "/assets/editorial/1e915ca40080.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/08235947/A2O-LITE-1.jpeg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "TRENDING",
+      "headline": "A2O LITE’s ‘NEON’ earns 11th music show win and ‘Inkigayo’ triple crown",
+      "dek": "The group’s debut single took first place for the third time on SBS’s music show.",
+      "body": [
+        "A2O LITE has picked up its 11th music show win for debut single “NEON,” earning a triple crown on “Inkigayo” in the process.",
+        "On the November 8 episode of the SBS show, “NEON” won with 6,037 points. It was nominated alongside IVE’s “Looks Can Kill” and ILLIT’s “You’re Under Arrest.” The result marked the song’s third first-place finish on “Inkigayo.”",
+        "The episode also featured performances by BLACKPINK’s Jisoo, TREASURE, TWS, P1Harmony, RIIZE and ILLIT, among others. NCT’s Xiaojun performed the English version of “Hey, Somebody.”"
+      ],
+      "socialCaption": "A2O LITE’s “NEON” has added another trophy to its run. Read on HallyuScope for the result and more from the episode.",
+      "seoDescription": "A2O LITE’s debut single “NEON” takes its 11th music show win and an “Inkigayo” triple crown on an episode featuring BLACKPINK’s Jisoo and more.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "fca2945473f7",
+      "createdAt": "2026-11-09T19:54:33.958Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-08T14:21:00.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "k-pop-dance-and-photocard-trading-featured-in-festival-report",
+      "source": {
+        "publisher": "The Boca Raton Tribune",
+        "title": "K-Pop Dance and Photocard Trading Fest",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX2V3NjlfMl96cGF5MWxDUEFER2lBckNFVlNadldIeHNubEJkaUwtVkZERmVXUGJTaHVpR3MyZW52RjE4b00yTzFwR0xNNkNXU0xlQ0tZaFE2UnpOb3FLUFpSM19aME9zM0tTUHJwTm13bEpQbDItaWJkM0NTVUJRRDJJNERTYUVESGtZYVFfdWlaME4tMVNKOGpB"
+      },
+      "imageUrl": "/assets/editorial/fca2945473f7.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "K-Pop Dance and Photocard Trading Featured in Festival Report",
+      "dek": "The Boca Raton Tribune has published a report titled “K-Pop Dance and Photocard Trading Fest.”",
+      "body": [
+        "K-pop dance and photocard trading are the focus of a festival report from The Boca Raton Tribune.",
+        "The available source material does not include the article’s body, so details about the event are not confirmed."
+      ],
+      "socialCaption": "K-pop dance and photocard trading share the spotlight in a festival report. Read HallyuScope for what’s confirmed.",
+      "seoDescription": "K-pop dance and photocard trading feature in a festival report from The Boca Raton Tribune. Here’s what the available headline confirms.",
+      "sourceNote": "Source: The Boca Raton Tribune"
+    },
+    {
+      "id": "dc7ece299b29",
+      "createdAt": "2026-11-09T19:54:40.207Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-08T14:14:39.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "ateez-itzy-and-riize-among-2026-kgma-music-day-winners",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Winners Of 2026 Korea Grand Music Awards &#8211; MUSIC DAY",
+        "url": "https://www.soompi.com/article/1885017wpp/winners-of-2026-korea-grand-music-awards-music-day"
+      },
+      "imageUrl": "/assets/editorial/dc7ece299b29.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/08231130/kgma-day-2.png",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "TRENDING",
+      "headline": "ATEEZ, ITZY and RIIZE Among 2026 KGMA Music Day Winners",
+      "dek": "ATEEZ took three awards at Music Day, while ITZY collected five across group and individual categories.",
+      "body": [
+        "The 2026 Korea Grand Music Awards announced its second-day winners at MUSIC DAY on November 8. Kim Jae Won and IVE’s Liz hosted the event at Gocheok Sky Dome.",
+        "ATEEZ won Grand Record, Best Music and Best Stage, marking the group’s third consecutive year receiving a Grand award since the KGMA began in 2024. RIIZE picked up Grand Performer and Best Music.",
+        "ITZY received five awards in total: Grand Honor’s Choice and Best Music for the group, plus three individual awards for members Yuna and Ryujin. KiiiKiii also won three awards, including Grand Honor’s Choice.",
+        "Among the other winners, Liz received Best OST for “Princess Catch! Teenieping,” and Doh Kyung Soo won Best Listener’s Pick for “Guitarist.” WayV received the Asia Cultural Exchange Special Award, while ALPHA DRIVE ONE’s Xinlong won the Popularity Award.",
+        "Yuna was named coogoong Most Popular Artist for MUSIC DAY. Ryujin won Trend of the Year Female Solo, and TWS member Shinyu took the male solo award."
+      ],
+      "socialCaption": "ATEEZ, ITZY and RIIZE were among the winners at KGMA MUSIC DAY. Read the award highlights on HallyuScope.",
+      "seoDescription": "ATEEZ, ITZY, RIIZE and KiiiKiii were among the winners at the 2026 Korea Grand Music Awards MUSIC DAY. See the award highlights from the event.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "c1399d13e9a3",
+      "createdAt": "2026-11-09T19:54:44.831Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-08T13:00:01.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "enhypen-s-the-sin-parallel-world-concept-film-has-a-day-night-version",
+      "source": {
+        "publisher": "HYBE LABELS",
+        "title": "ENHYPEN (엔하이픈) 'THE SIN : PARALLEL WORLD' Concept Film (DAY&NIGHT Ver.)",
+        "url": "https://www.youtube.com/undefined"
+      },
+      "imageUrl": "/assets/editorial/c1399d13e9a3.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": null,
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "ENHYPEN’s ‘THE SIN : PARALLEL WORLD’ Concept Film Has a Day & Night Version",
+      "dek": "HYBE LABELS has shared a concept film for ENHYPEN’s ‘THE SIN : PARALLEL WORLD’ labeled the DAY&NIGHT version.",
+      "body": [
+        "ENHYPEN’s ‘THE SIN : PARALLEL WORLD’ has a concept film titled the DAY&NIGHT version.",
+        "The film appears under the HYBE LABELS publisher name. Its title identifies the group in both English and Korean and specifies the version as ‘DAY&NIGHT.’",
+        "No additional details about the film’s content were available in the supplied source material."
+      ],
+      "socialCaption": "ENHYPEN has a DAY&NIGHT concept film for ‘THE SIN : PARALLEL WORLD.’ Read the details on HallyuScope.",
+      "seoDescription": "ENHYPEN’s ‘THE SIN : PARALLEL WORLD’ concept film is labeled the DAY&NIGHT version. Here’s what the HYBE LABELS title confirms about the film.",
+      "sourceNote": "Source: HYBE LABELS"
+    },
+    {
+      "id": "e1c314b35d47",
+      "createdAt": "2026-11-09T19:54:48.685Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-08T09:32:50.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "a2o-soul-shares-dancing-in-the-dark-music-video-teaser",
+      "source": {
+        "publisher": "Business Upturn",
+        "title": "A2O SOUL unveils 'Dancing In The Dark' music video teaser ahead of November 9 release",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZVV0QkRuSjBSV1k2bjN1TVlGb1dpajhGMHRCTW1WQS00X3ozTGlQWTFVWjg4WnlWMUc5TzZrS1FGM0pLSnZnbFI2akg1cEU4dnBCWThjZXRYVUdBczVqVzNjVFRsZlZteDBodzZpYURoR1YzenIzOGFOMDFmODFvZjVyaERPM1lUaW1MRWFSRjNyRndlVTRWUWVsOGxvMzZsYVFNcXNRaHpNZzdPUkcyM0ZWckExTmJENHRoLXZMWjlnVTJZWkkySl9uN3FONWFyVnlmRW03dG1jelFh"
+      },
+      "imageUrl": "/assets/editorial/e1c314b35d47.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "A2O SOUL shares ‘Dancing In The Dark’ music video teaser",
+      "dek": "The teaser arrives ahead of the November 9 release, according to Business Upturn.",
+      "body": [
+        "A2O SOUL has unveiled a music video teaser for “Dancing In The Dark” ahead of a November 9 release, Business Upturn reports.",
+        "The source headline does not provide further details about the release or the teaser."
+      ],
+      "socialCaption": "A2O SOUL has released a teaser for “Dancing In The Dark.” Read HallyuScope for the release date.",
+      "seoDescription": "A2O SOUL has unveiled a music video teaser for “Dancing In The Dark” ahead of a November 9 release, according to a report from Business Upturn.",
+      "sourceNote": "Source: Business Upturn"
+    },
+    {
+      "id": "7c79b55732f3",
+      "createdAt": "2026-11-09T19:54:52.656Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-08T09:02:52.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "kim-jae-won-and-ive-s-liz-host-music-day-at-2026-korea-grand-music-awards",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Stars Rock The Red Carpet At 2026 Korea Grand Music Awards &#8211; MUSIC DAY",
+        "url": "https://www.soompi.com/article/1884993wpp/stars-rock-the-red-carpet-at-2026-korea-grand-music-awards-music-day"
+      },
+      "imageUrl": "/assets/editorial/7c79b55732f3.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/08180043/kgma_46f868.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "TRENDING",
+      "headline": "Kim Jae Won and IVE’s Liz Host MUSIC DAY at 2026 Korea Grand Music Awards",
+      "dek": "The second day of the 2026 Korea Grand Music Awards is named MUSIC DAY and features a red carpet.",
+      "body": [
+        "The 2026 Korea Grand Music Awards continues with MUSIC DAY, the event’s second day, hosted by Kim Jae Won and IVE’s Liz.",
+        "Soompi shared a look at the stars on the MUSIC DAY red carpet."
+      ],
+      "socialCaption": "Kim Jae Won and IVE’s Liz host MUSIC DAY at the 2026 Korea Grand Music Awards. Read the event details on HallyuScope.",
+      "seoDescription": "Kim Jae Won and IVE’s Liz host MUSIC DAY, the second day of the 2026 Korea Grand Music Awards, where stars appeared on the red carpet.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "63f35f0954c4",
+      "createdAt": "2026-11-09T19:54:58.238Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-08T08:39:00.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "ive-holds-no-1-as-illit-debuts-in-soompi-s-november-week-2-chart",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Soompi&#8217;s K-Pop Music Chart 2026, November Week 2",
+        "url": "https://www.soompi.com/article/1885052wpp/soompis-k-pop-music-chart-2026-november-week-2"
+      },
+      "imageUrl": "/assets/editorial/63f35f0954c4.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09022801/music-chart-1.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "TRENDING",
+      "headline": "IVE Holds No. 1 as ILLIT Debuts in Soompi’s November Week 2 Chart",
+      "dek": "“Looks Can Kill” leads for a second week, while ILLIT’s “You’re Under Arrest” enters at No. 2.",
+      "body": [
+        "IVE’s “Looks Can Kill” has held the No. 1 spot for a second consecutive week on Soompi’s K-pop music chart for the second week of November 2026.",
+        "ILLIT debuts at No. 2 with “You’re Under Arrest,” the title track from the group’s fifth mini album, “BREAK EVEN.” The electro-pop song warns of ending a relationship after someone mistakes habitual kindness for something more.",
+        "A2O LITE’s “NEON” slips one place to No. 3, completing the chart’s top three.",
+        "Soompi’s chart combines data from Circle, Hanteo, Apple Music Korea, Soompi Airplay and YouTube. Circle accounts for the largest share at 30%, followed by Hanteo and YouTube at 20% each. Apple Music Korea and Soompi Airplay each contribute 15%."
+      ],
+      "socialCaption": "IVE stays at No. 1 as ILLIT enters the top three. Read on HallyuScope for the chart’s leading songs and how it’s compiled.",
+      "seoDescription": "IVE’s “Looks Can Kill” holds No. 1 on Soompi’s November week 2 chart, while ILLIT debuts at No. 2 and A2O LITE rounds out the top three.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "114ad9d80675",
+      "createdAt": "2026-11-09T19:55:06.045Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-08T06:55:00.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "ahn-hyo-seop-puts-hong-hwa-yeon-through-tough-training-in-final-table",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Ahn Hyo Seop Resorts To Drastic Measures To Help Hong Hwa Yeon Overcome Her Cooking Phobia In &#8220;Final Table&#8221;",
+        "url": "https://www.soompi.com/article/1884981wpp/ahn-hyo-seop-resorts-to-drastic-measures-to-help-hong-hwa-yeon-overcome-her-cooking-phobia-in-final-table"
+      },
+      "imageUrl": "/assets/editorial/114ad9d80675.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/08155321/Ahn-Hyo-Seop-Hong-Hwa-Yeon-1.jpeg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Ahn Hyo Seop Puts Hong Hwa Yeon Through Tough Training in ‘Final Table’",
+      "dek": "Kang Han takes a demanding approach to helping Choi Song Yi face her fear of cooking in the next episode of the JTBC drama.",
+      "body": [
+        "Ahn Hyo Seop and Hong Hwa Yeon are headed back to the kitchen in the next episode of JTBC’s “Final Table,” where their characters face a demanding new round of training.",
+        "Hong plays Choi Song Yi, who has avoided cooking because she fears accidents will happen whenever she enters a kitchen. Although she met the requirements to join the competition, that fear has remained an obstacle.",
+        "In the upcoming episode, Ahn’s character Kang Han sets out to help Song Yi develop as a chef. He assigns her harder tasks than she faced in earlier practice sessions and makes her start from the beginning whenever she fails.",
+        "Newly released stills show Kang Han instructing Song Yi beside a large bowl of eggshells. Despite the setbacks suggested by the scene, she stays focused and continues working.",
+        "“Final Table” follows Korean chefs from around the world as they compete in “The Table: K-Chef 2026.” The next episode airs November 8 at 10:40 p.m. KST."
+      ],
+      "socialCaption": "Kang Han raises the stakes in Choi Song Yi’s training. Read on HallyuScope for a look at what’s ahead in “Final Table.”",
+      "seoDescription": "Ahn Hyo Seop’s Kang Han puts Hong Hwa Yeon’s Choi Song Yi through tough training as she confronts her fear of cooking in JTBC’s “Final Table.”",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "63c145d7e6a3",
+      "createdAt": "2026-11-09T19:55:11.875Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-08T04:48:00.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "a2o-soul-debuts-with-superstar-ep-and-dancing-in-the-dark-video",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: A2O SOUL Flaunts Their Moves In MV For &#8220;Dancing in the Dark&#8221; Debut",
+        "url": "https://www.soompi.com/article/1884928wpp/watch-a2o-soul-unveils-mv-teaser-for-debut-track-dancing-in-the-dark"
+      },
+      "imageUrl": "/assets/editorial/63c145d7e6a3.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09180916/vlcsnap-2026-11-09-18h06m40s326.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "A2O SOUL Debuts With ‘SUPERSTAR’ EP and ‘Dancing in the Dark’ Video",
+      "dek": "The 15-member boy group released its debut mini album and a music video for the second of its two title tracks.",
+      "body": [
+        "A2O SOUL has made its debut with the mini album “SUPERSTAR,” accompanied by a music video for “Dancing in the Dark.” The group released both on November 9.",
+        "“Dancing in the Dark” is the second of the EP’s two title tracks. The song pairs a catchy melody with conversational lyrics about two people who are drawn to each other.",
+        "The 15-member boy group is signed to A2O Entertainment, an agency established by SM Entertainment founder Lee Soo Man. A2O SOUL released its first title track, “SUPERSTAR,” on October 13, a day after the group was officially introduced alongside sister group A2O LITE.",
+        "Ahead of the EP’s release, A2O SOUL shared a teaser for the “Dancing in the Dark” music video on November 8 KST, as well as a highlight medley and concept photos."
+      ],
+      "socialCaption": "A2O SOUL has arrived with its debut EP and a new music video. Read on HallyuScope for the release details.",
+      "seoDescription": "A2O SOUL releases its debut EP “SUPERSTAR” and the music video for “Dancing in the Dark,” the second of the boy group’s two title tracks.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "7db7e0a78095",
+      "createdAt": "2026-11-09T19:55:16.721Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-08T04:43:00.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "k-pop-demon-hunters-gets-a-4k-release-from-the-criterion-collection",
+      "source": {
+        "publisher": "KOLD",
+        "title": "Reel Talk: Criterion Collection’s 4K release of K-Pop Demon Hunters is golden",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRC1qU0dvTVlEOVFha1VCVXFKLWV5MmlNNmExZUgxNkJyUENqZWxDaU1Fb0hlLTlOclNtaWpNMDRaLUVIallrc3FJbDFULVRCdFdDYzlvV3RNZ09DSGc5SzBhNlJ0QjY4WXE2SXp5SFRzZnR5WHNHZ0ctMTgzN2Iwc0QzdE1yeTFSdjUtMzJad0NQRU5VNmRsWGlZRzRqYmZzNFloeFhaNUs"
+      },
+      "imageUrl": "/assets/editorial/7db7e0a78095.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "K-Pop Demon Hunters Gets a 4K Release From the Criterion Collection",
+      "dek": "KOLD’s Reel Talk praises the Criterion Collection’s 4K release of K-Pop Demon Hunters.",
+      "body": [
+        "K-Pop Demon Hunters has a 4K release from the Criterion Collection, according to a Reel Talk headline published by KOLD.",
+        "The headline gives the release a positive assessment, calling it “golden.” KOLD’s article body was not available in the supplied material, so further details about the release and its assessment could not be confirmed."
+      ],
+      "socialCaption": "K-Pop Demon Hunters has a Criterion Collection 4K release. Read HallyuScope for what KOLD’s Reel Talk headline confirms.",
+      "seoDescription": "KOLD’s Reel Talk praises the Criterion Collection’s 4K release of K-Pop Demon Hunters. Here’s what its headline confirms about the release.",
+      "sourceNote": "Source: KOLD"
+    },
+    {
+      "id": "9f2e3ffcadfa",
+      "createdAt": "2026-11-09T19:55:25.407Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-08T04:01:00.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "plave-debuts-at-no-1-on-billboard-s-world-albums-chart-with-hyperdrive",
+      "source": {
+        "publisher": "Soompi",
+        "title": "PLAVE, Stray Kids, CORTIS, TWICE, ENHYPEN, ILLIT, BTS, BOYNEXTDOOR, And More Sweep Top Spots On Billboard World Albums Chart",
+        "url": "https://www.soompi.com/article/1885061wpp/plave-stray-kids-cortis-twice-enhypen-illit-bts-boynextdoor-and-more-sweep-top-spots-on-billboard-world-albums-chart"
+      },
+      "imageUrl": "/assets/editorial/9f2e3ffcadfa.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09030428/PLAVE-Stray-Kids-CORTIS-TWICE.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "PLAVE Debuts at No. 1 on Billboard’s World Albums Chart With ‘HYPERDRIVE’",
+      "dek": "Stray Kids, CORTIS, ENHYPEN and TWICE also placed in the top five on the chart for the week ending October 31.",
+      "body": [
+        "PLAVE’s new mini album “HYPERDRIVE” has opened at No. 1 on Billboard’s World Albums chart for the week ending October 31. The release also gave PLAVE its first top 40 entry on the Billboard 200.",
+        "Stray Kids placed three albums on the World Albums chart. “THIS & THAT” ranked No. 2 in its 11th week, while “KARMA” came in at No. 8 in its 58th week and “DO IT” reached No. 18 in its 40th. “THIS & THAT” also spent its 11th week on the Billboard 200, at No. 93.",
+        "CORTIS held No. 3 with “GREENGREEN,” now in its 25th week, and took No. 20 with debut EP “COLOR OUTSIDE THE LINES.” ENHYPEN’s “THE SIN : BLISS” remained at No. 4, followed by TWICE’s live album “THIS IS FOR: WORLD TOUR FINALE in SEOUL – LIVE,” which debuted at No. 5.",
+        "Elsewhere, ILLIT’s “MAMIHLAPINATAPAI” rose to No. 7, BTS’s “Map of the Soul: 7 ~The Journey~” ranked No. 11 and BOYNEXTDOOR’s “HOME” placed No. 12. EVAN (Heeseung)’s “DEATH OF ME” climbed to No. 14.",
+        "ATEEZ’s “GOLDEN HOUR : Part.5” held No. 15, while NewJeans’ “Get Up” rose to No. 17 in its 163rd week. LE SSERAFIM’s “PUREFLOW” ranked No. 19, and aespa’s “LEMONADE” came in at No. 25."
+      ],
+      "socialCaption": "PLAVE leads the latest World Albums chart, with Stray Kids, CORTIS and more in the rankings. Read the full chart roundup on HallyuScope.",
+      "seoDescription": "PLAVE’s “HYPERDRIVE” debuts at No. 1 on Billboard’s World Albums chart, while Stray Kids, CORTIS, ENHYPEN and TWICE land in the top five.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "8f9e2bba8edb",
+      "createdAt": "2026-11-09T19:55:30.502Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-08T01:48:26.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "a2o-lite-earns-10th-win-for-debut-single-neon-on-music-core",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: A2O LITE Takes 10th Win For &#8220;NEON&#8221; On &#8220;Music Core&#8221;; Performances By BLACKPINK&#8217;s Jisoo, RESCENE, TREASURE, And More",
+        "url": "https://www.soompi.com/article/1884917wpp/watch-a2o-lite-takes-10th-win-for-neon-on-music-core-performances-by-blackpinks-jisoo-rescene-treasure-and-more"
+      },
+      "imageUrl": "/assets/editorial/8f9e2bba8edb.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/08103936/A2O-LITE-Music-Core.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "TRENDING",
+      "headline": "A2O LITE Earns 10th Win for Debut Single “NEON” on “Music Core”",
+      "dek": "The group took first place with 6,593 points on an episode featuring performances by BLACKPINK’s Jisoo, TREASURE and more.",
+      "body": [
+        "A2O LITE has picked up its 10th music show trophy for debut single “NEON,” winning first place on MBC’s “Music Core.”",
+        "On the November 7 episode, “NEON” competed against IVE’s “Looks Can Kill” and ILLIT’s “You’re Under Arrest” for the top spot. A2O LITE secured the win with 6,593 points.",
+        "The episode’s performers included BLACKPINK’s Jisoo, TREASURE, RESCENE, TWS, P1Harmony, ZEROBASEONE EMP, RIIZE and ILLIT. NCT’s Xiaojun performed the English version of “Hey, Somebody,” while Kim Jang Hoon performed the 2026 version of “Sad Gift.”"
+      ],
+      "socialCaption": "A2O LITE’s “NEON” has earned its 10th music show win. Read on HallyuScope for the results and lineup.",
+      "seoDescription": "A2O LITE wins its 10th music show trophy for debut single “NEON” on MBC’s “Music Core,” with BLACKPINK’s Jisoo and TREASURE among the performers.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "df9cd4172204",
+      "createdAt": "2026-11-09T19:55:36.238Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-08T01:13:03.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "illit-s-tick-tack-becomes-their-fifth-music-video-to-reach-100-million-views",
+      "source": {
+        "publisher": "Soompi",
+        "title": "ILLIT&#8217;s &#8220;Tick-Tack&#8221; Becomes Their 5th MV To Hit 100 Million Views",
+        "url": "https://www.soompi.com/article/1884912wpp/illits-tick-tack-becomes-their-5th-mv-to-hit-100-million-views"
+      },
+      "imageUrl": "/assets/editorial/df9cd4172204.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/08101440/ILLIT.jpeg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "ILLIT’s ‘Tick-Tack’ Becomes Their Fifth Music Video to Reach 100 Million Views",
+      "dek": "The 2024 B-side joins four other ILLIT music videos that have passed the YouTube milestone.",
+      "body": [
+        "ILLIT’s “Tick-Tack” music video has surpassed 100 million views on YouTube, becoming the group’s fifth video to reach the mark.",
+        "According to Soompi, the video crossed the threshold on November 8 at approximately 2:15 a.m. KST. It follows “Magnetic,” “It’s Me,” “ICONIC BY MISTAKE” and “jellyous,” which had already reached 100 million views.",
+        "The milestone came a couple of hours after the music video for ILLIT’s collaboration single “ICONIC BY MISTAKE” passed 200 million YouTube views.",
+        "ILLIT released the “Tick-Tack” music video on November 14, 2024, at 6 p.m. KST."
+      ],
+      "socialCaption": "ILLIT’s “Tick-Tack” has joined the group’s 100 million-view club. Read on HallyuScope for the milestone details.",
+      "seoDescription": "ILLIT’s “Tick-Tack” has passed 100 million YouTube views, becoming the group’s fifth music video to reach the milestone. See which videos came before it.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "b4b9b5ca98c4",
+      "createdAt": "2026-11-09T19:55:41.392Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-08T01:00:32.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "cna-examines-pop-culture-s-role-in-south-korean-tourism",
+      "source": {
+        "publisher": "CNA",
+        "title": "From K-dramas to BTS: How pop culture is reshaping tourism in South Korea",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeHVlbld1SmhhdmxqZHB0bl9XNWR4S0paZjctbENGZWF5ajJxVDRibGFRU0ZZQ2dxZUd1YVNrZGtJdnZCRHdmbGdZSEdQcktLTGNTSmtFRVJfNEhYWHFYOUhLZ2hReW5sUjlBUnhCYU8xaFdvaW1ma2ptNFJETWsySzJlM0JwcFJoYUNVUDVsNGgtdw"
+      },
+      "imageUrl": "/assets/editorial/b4b9b5ca98c4.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "CONCERT NEWS",
+      "headline": "CNA Examines Pop Culture’s Role in South Korean Tourism",
+      "dek": "A CNA report looks at how Korean dramas and BTS are reshaping tourism in South Korea.",
+      "body": [
+        "Korean dramas and BTS are part of a broader story about pop culture’s influence on tourism in South Korea, according to a report from CNA.",
+        "The report’s headline connects both K-dramas and the K-pop group to changes in the country’s tourism landscape. No article text was available for further details."
+      ],
+      "socialCaption": "From K-dramas to BTS, CNA explores pop culture’s impact on South Korean tourism. Read the brief on HallyuScope.",
+      "seoDescription": "CNA examines how Korean dramas and BTS are connected to changes in South Korean tourism, highlighting pop culture’s role in the travel landscape.",
+      "sourceNote": "Source: CNA"
+    },
+    {
+      "id": "e009218b3007",
+      "createdAt": "2026-11-09T19:55:47.060Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-08T00:37:21.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "le-sserafim-illit-and-katseye-s-iconic-by-mistake-mv-passes-200-million-views",
+      "source": {
+        "publisher": "Soompi",
+        "title": "LE SSERAFIM, ILLIT, And KATSEYE&#8217;s &#8220;ICONIC BY MISTAKE&#8221; MV Surpasses 200 Million Views",
+        "url": "https://www.soompi.com/article/1884909wpp/watch-le-sserafim-illit-and-katseyes-iconic-by-mistake-mv-surpasses-200-million-views"
+      },
+      "imageUrl": "/assets/editorial/e009218b3007.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/08093529/LE-SSERAFIM-ILLIT-KATSEYE.jpeg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "LE SSERAFIM, ILLIT and KATSEYE’s ‘ICONIC BY MISTAKE’ MV Passes 200 Million Views",
+      "dek": "The collaboration reached the YouTube milestone about 150 days after its release.",
+      "body": [
+        "LE SSERAFIM, ILLIT and KATSEYE’s music video for “ICONIC BY MISTAKE” has surpassed 200 million views on YouTube.",
+        "The video reached the milestone on November 8 at around midnight KST, according to Soompi. It was released on June 11 at midnight KST, putting the time to 200 million views at approximately 150 days.",
+        "“ICONIC BY MISTAKE” is a special digital single featuring all three girl groups."
+      ],
+      "socialCaption": "LE SSERAFIM, ILLIT and KATSEYE’s “ICONIC BY MISTAKE” MV has crossed 200 million views. Read on HallyuScope for the milestone details.",
+      "seoDescription": "LE SSERAFIM, ILLIT and KATSEYE’s “ICONIC BY MISTAKE” music video has passed 200 million YouTube views, about 150 days after its June 11 release.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "ada4b6a93b2a",
+      "createdAt": "2026-11-09T19:55:51.101Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-08T00:00:00.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "bae-seungyoon-reimagines-k-pop-moments",
+      "source": {
+        "publisher": "PAP Magazine",
+        "title": "Bae Seungyoon rewrites K-pop moments",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeHdCSWotSUdLNlJlTlAtWjZFNUFkVkI0YmtpOWlVMjJYU3htSlZIN3E5Y0JTSmFNcFhWOUgxNWRFaEtDS1c2X3J0M2JXaDViNHRuX0UxSFc1ME5qVjc3Y1NjOGU5a2NiT0dfN2F2MTl1YTN5NERQSTJrdThHYll3SmdCR3Q5dUNZNy1BbEZ3"
+      },
+      "imageUrl": "/assets/editorial/ada4b6a93b2a.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Bae Seungyoon Reimagines K-Pop Moments",
+      "dek": "PAP Magazine highlights Bae Seungyoon’s take on moments in K-pop.",
+      "body": [
+        "Bae Seungyoon is the subject of a PAP Magazine article centered on rewriting K-pop moments.",
+        "The source headline does not provide further details about the moments involved or how they are reimagined."
+      ],
+      "socialCaption": "Bae Seungyoon takes on K-pop moments. Read HallyuScope’s brief for what the source headline tells us.",
+      "seoDescription": "Bae Seungyoon reimagines K-pop moments in a PAP Magazine article. Here’s what the source headline reveals about the story and its subject.",
+      "sourceNote": "Source: PAP Magazine"
+    },
+    {
+      "id": "15792c097911",
+      "createdAt": "2026-11-09T19:55:55.760Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-07T22:01:47.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "korea-s-small-theaters-draw-foreign-tourists",
+      "source": {
+        "publisher": "Korea JoongAng Daily",
+        "title": "Forget K-pop concerts: Korea's small theaters are drawing foreign tourists",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORkxmM0FQRHc1UUFUYUc5Y0dma044UVoydk1Wb1BQZUhhM0ota0NLOTVtLXFDY2E2d3dOcmtaLXpzT3hiOUJHLUZtOXhBRW1vLWVPaFNhZDhmdVpuaXJlTi1GMUxVaTQ0LVRSSFNxWnl4VWVFdFFlZDNLWXZGcTNtdWNMVlFPaDNacDZfVzZUd2Y0bVZRSWJkdTFsZ29nQ1BTNnFta3NzeFZjdmdaN1M4blZPMXo5aHExYzFJcTVDY014Smc"
+      },
+      "imageUrl": "/assets/editorial/15792c097911.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "CONCERT NEWS",
+      "headline": "Korea’s Small Theaters Draw Foreign Tourists",
+      "dek": "Foreign tourists are visiting small theaters in Korea, according to Korea JoongAng Daily.",
+      "body": [
+        "Small theaters in Korea are attracting foreign tourists, Korea JoongAng Daily reports, highlighting a destination beyond K-pop concerts.",
+        "The report points to Korea’s smaller theater spaces as a draw for international visitors. No further details about the theaters or visitors were available in the supplied source material."
+      ],
+      "socialCaption": "Small theaters in Korea are drawing foreign tourists. Read HallyuScope’s brief for what the report says.",
+      "seoDescription": "Small theaters in Korea are drawing foreign tourists, according to a Korea JoongAng Daily report highlighting a destination beyond K-pop concerts.",
+      "sourceNote": "Source: Korea JoongAng Daily"
+    },
+    {
+      "id": "7b6531d92296",
+      "createdAt": "2026-11-09T19:56:03.967Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-07T18:18:01.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "young-k-treasure-and-rescene-among-2026-korea-grand-music-awards-artist-day-winners",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Winners Of 2026 Korea Grand Music Awards &#8211; ARTIST DAY",
+        "url": "https://www.soompi.com/article/1884897wpp/winners-of-2026-korea-grand-music-awards-artist-day"
+      },
+      "imageUrl": "/assets/editorial/7b6531d92296.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/08025003/kgma.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "TRENDING",
+      "headline": "Young K, TREASURE and RESCENE Among 2026 Korea Grand Music Awards ARTIST DAY Winners",
+      "dek": "Young K received five awards at ARTIST DAY, while TREASURE and RESCENE each took home four.",
+      "body": [
+        "DAY6’s Young K led the winners at ARTIST DAY of the 2026 Korea Grand Music Awards, taking home five awards, including Grand Artist.",
+        "The first day of the awards was held on November 7 at Gocheok Sky Dome, with Nam Ji Hyun and RESCENE’s Woni as hosts.",
+        "TREASURE won four awards, including Grand Song. RESCENE also received four, including Grand Honor’s Choice, an award shared with AND2BLE. AND2BLE won two awards in total, while CRAVITY collected three.",
+        "Young K’s other wins included Best OST for “Season of Us” from “My Royal Nemesis” and the coogoong Most Popular Artist award for ARTIST DAY. RESCENE received the Berriz Global Fans’ Choice award, while Josh Lee of The Muze Entertainment, the group’s producer, won Best Producer.",
+        "CRAVITY’s “AWAKE” won Best Music Video, and BTS received Best Selling Album for “ARIRANG.” Novelbright earned the Asia Cultural Exchange Special Award, while NCT WISH’s Yushi won the K-Wave Popularity Award.",
+        "The Best Artist winners were LUCY, RESCENE, MEOVV, BTS, BLACKPINK, Stray Kids, xikers, Young K, ALLDAY PROJECT, CORTIS, CRAVITY, CLOSE YOUR EYES, TREASURE, tripleS and P1Harmony.",
+        "MUSIC DAY of the 2026 Korea Grand Music Awards is scheduled for November 8."
+      ],
+      "socialCaption": "Young K, TREASURE and RESCENE were among the ARTIST DAY winners. Read the award highlights on HallyuScope.",
+      "seoDescription": "Young K, TREASURE and RESCENE won major awards at 2026 Korea Grand Music Awards ARTIST DAY. See the winners and highlights from the ceremony.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "00bf72053d02",
+      "createdAt": "2026-11-09T19:56:08.378Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-07T16:08:00.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "le-sserafim-unbox-indian-treats-ahead-of-weverse-con-festival-in-delhi",
+      "source": {
+        "publisher": "t2ONLINE",
+        "title": "K-pop girl group LE SSERAFIM unbox Indian treats and accessories ahead of Weverse Con Festival 2027 in Delhi",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVXVIOHhveml0YnprMTNVaV9RblNNZDdHOTY2eGk5Tm1jV2ZDT1BUaGVodkdHRW9XWlZoZHVNTjI0ZmNLWDdmOXlWaVFSYm5BVkRUdW9jcWpOb2NFSU0xbTVPTUlraWRtby03enFnbl96VWF2MlpKLV9vNDhvTjlraFRfYm1VOWczSHMyWFBxV01tS1VLYmlrRVFmMlkzZTZVV294Wm5aTmY3REhSS2VvZllYR1Y0QUJIOXFjRzRHczl6Z1V3VjVWS084a00xTGhfeVB0b0VJZFlrUGFjYWxRT053"
+      },
+      "imageUrl": "/assets/editorial/00bf72053d02.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "LE SSERAFIM Unbox Indian Treats Ahead of Weverse Con Festival in Delhi",
+      "dek": "The K-pop girl group opened Indian treats and accessories ahead of the 2027 festival, t2ONLINE reports.",
+      "body": [
+        "LE SSERAFIM unboxed Indian treats and accessories ahead of Weverse Con Festival 2027 in Delhi, according to t2ONLINE.",
+        "The publication’s headline identifies the items as Indian treats and accessories but does not specify which products the group opened."
+      ],
+      "socialCaption": "LE SSERAFIM unboxed Indian treats and accessories ahead of Weverse Con Festival 2027. Read the details on HallyuScope.",
+      "seoDescription": "LE SSERAFIM unboxed Indian treats and accessories ahead of Weverse Con Festival 2027 in Delhi, according to a report from t2ONLINE.",
+      "sourceNote": "Source: t2ONLINE"
+    },
+    {
+      "id": "b627d9052761",
+      "createdAt": "2026-11-09T19:56:13.498Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-07T15:45:00.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "perfect-girl-puts-a-slasher-spin-on-the-k-pop-trainee-system",
+      "source": {
+        "publisher": "The Mary Sue",
+        "title": "‘Perfect Girl’ turns the K-pop trainee system into a slasher, and the scariest part is how little it really has to exaggerate",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdUVUNkpIUk82dzZZMmVmOF9INHhTa2hTcmktTk9DWHJEMU1ra0x3WmNXR084aC1uNksycTJsUEdvd2JYQ0dfZEI1ZzJKdjY4aEUzZ2l1ejlYLWtMNERnRmlMZ1pKYXVaRG5xU0xacnZaZFM1dEJXakFON3VSMEgzN3RlMVdwajBmRXBDQWtlc0xrLUVORnZjWWE5QlRxdEktYkozRmVvT2ZDTzhPcWwtRXhWLWRYdTVYNjhOeVR1LU5uS1BjczIzbk1QNXVGMjJyVXhYdmU4eEtGYkptZ001ejg3RnFYU2pHUHhETg"
+      },
+      "imageUrl": "/assets/editorial/b627d9052761.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "‘Perfect Girl’ puts a slasher spin on the K-pop trainee system",
+      "dek": "The Mary Sue describes the slasher as a take on K-pop training that needs little exaggeration to be frightening.",
+      "body": [
+        "‘Perfect Girl’ brings slasher horror to the K-pop trainee system, according to The Mary Sue.",
+        "In its headline, the publication suggests that the story’s most frightening element is how little it needs to exaggerate the trainee system. The available source material does not provide further details about the plot or production."
+      ],
+      "socialCaption": "‘Perfect Girl’ takes a slasher approach to K-pop training. Read the brief on HallyuScope for what the source headline reveals.",
+      "seoDescription": "‘Perfect Girl’ brings slasher horror to the K-pop trainee system. Here’s what The Mary Sue’s headline reveals about its take on training.",
+      "sourceNote": "Source: The Mary Sue"
+    },
+    {
+      "id": "2b26d8ccae6a",
+      "createdAt": "2026-11-09T19:56:18.857Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-07T15:41:56.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "the-bias-list-grades-sm-entertainment-in-2026-agency-series",
+      "source": {
+        "publisher": "https://thebiaslist.com/",
+        "title": "Grading the K-Pop Agencies 2026: SM ENTERTAINMENT",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUWNNSWdTWTd1VWdTWHAybzJITEZPTU5SU1UtblBEUG1KU3owSmgycG8tb2tzblhrc2dfVGRyb2NYNy1hSGlLelNWc1hrT3VyR0s0V1dUSkotR2o0OFFHMFNnVU1SdE1iNWpCS1Zrc1hteW5mSS1vajRHTTM4VGczbXZHMGYxMzFnVVNSNg"
+      },
+      "imageUrl": "/assets/editorial/2b26d8ccae6a.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "The Bias List Grades SM Entertainment in 2026 Agency Series",
+      "dek": "SM Entertainment is the subject of a 2026 K-pop agency grading article from The Bias List.",
+      "body": [
+        "The Bias List has featured SM Entertainment in an article titled “Grading the K-Pop Agencies 2026: SM ENTERTAINMENT.”",
+        "The article body was not available in the supplied source material, so its grade and assessment could not be verified."
+      ],
+      "socialCaption": "The Bias List has featured SM Entertainment in its 2026 agency grading series. Read HallyuScope for what could be verified.",
+      "seoDescription": "The Bias List features SM Entertainment in its 2026 K-pop agency grading series. Here is what is available from the verified headline.",
+      "sourceNote": "Source: The Bias List"
+    },
+    {
+      "id": "943ccefe3de8",
+      "createdAt": "2026-11-09T19:56:25.448Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-07T11:28:36.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "kim-ji-won-and-lee-jung-eun-join-forces-in-new-doctor-x-stills",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Kim Ji Won And Lee Jung Eun Revisit The Past As They Team Up For Surgery In &#8220;Doctor X&#8221;",
+        "url": "https://www.soompi.com/article/1884853wpp/kim-ji-won-and-lee-jung-eun-revisit-the-past-as-they-team-up-for-surgery-in-doctor-x"
+      },
+      "imageUrl": "/assets/editorial/943ccefe3de8.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/07201812/doctor-x-2.png",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Kim Ji Won and Lee Jung Eun Join Forces in New ‘Doctor X’ Stills",
+      "dek": "The upcoming episode brings Gye Soo Jung and her mentor together for a risky operation while offering clues about their past.",
+      "body": [
+        "SBS has released new stills from “Doctor X,” showing Kim Ji Won and Lee Jung Eun’s characters working together in the operating room.",
+        "Kim plays Gye Soo Jung, a gifted surgeon who takes on a corruption-ridden medical establishment. In the previous episode, she prepared to perform a difficult operation alone to save a child patient, but Do Yoon Sik, played by Kim Young Min, and her mentor Jang Hee Sook, played by Lee, came to help.",
+        "The new images show Gye Soo Jung alongside Jang Hee Sook as the surgery continues. Although Jang has been away from surgery for a long time, she brings her experience to the operating room, while Gye Soo Jung is grateful for her mentor’s support.",
+        "The episode will also offer hints about the two characters’ past. One still shows Jang covered in blood with a bandaged arm.",
+        "Based on the Japanese series of the same name, “Doctor X” airs its next episode on November 7 at 9:50 p.m. KST."
+      ],
+      "socialCaption": "Kim Ji Won and Lee Jung Eun reunite in the operating room in “Doctor X.” Read on HallyuScope for what the new stills reveal.",
+      "seoDescription": "New “Doctor X” stills show Kim Ji Won and Lee Jung Eun joining a risky surgery, with the next episode set to offer clues about their characters’ past.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "2306e3467bcd",
+      "createdAt": "2026-11-09T19:56:31.152Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-07T10:26:00.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "pop-mart-releases-kpop-demon-hunters-bag-charms",
+      "source": {
+        "publisher": "Rolling Stone",
+        "title": "Can Labubu Lightning Strike Twice? POP MART Hopes So With Release of 'KPop Demon Hunters' Bag Charms",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaTEwdlExaWlTRU9jZEtjWGRON3UtNU5SZ05RaHloRlNnRkdyVlF3TG9MVnk2OTRPMzNiXzhuQ3FBdzFpaU10LXU4dlFSbXpSN2tacFNTa0s1aDlWVVVxWVBZbGVpdFRkWjZUdHVrYjB2T2pkY2Vuc0Y2V0s5NFYzMk0yaDJfNThUNmwybExxQkJ6U2F5T3c1bmNoWUxESm4xcXBPaUhCemk2NFdXSTBUNTBMRU1vYUF3X2lJZTBRT09QY1BLLXBQXzN5NA"
+      },
+      "imageUrl": "/assets/editorial/2306e3467bcd.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "POP MART Releases ‘KPop Demon Hunters’ Bag Charms",
+      "dek": "The new bag charms arrive as POP MART looks to build on the success of Labubu.",
+      "body": [
+        "POP MART has released a line of “KPop Demon Hunters” bag charms, Rolling Stone reports.",
+        "The release comes as the company hopes to repeat the success of its Labubu products, according to the publication."
+      ],
+      "socialCaption": "POP MART has released “KPop Demon Hunters” bag charms. Read HallyuScope for the details reported so far.",
+      "seoDescription": "POP MART has released “KPop Demon Hunters” bag charms as the company looks to build on Labubu’s success. Here’s what has been reported so far.",
+      "sourceNote": "Source: Rolling Stone"
+    },
+    {
+      "id": "2bdeecb137b8",
+      "createdAt": "2026-11-09T19:56:34.782Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-07T10:00:00.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "blackpink-s-jennie-and-jisoo-sing-for-animation-soundtracks",
+      "source": {
+        "publisher": "The Straits Times",
+        "title": "K-pop girl group Blackpink’s Jennie, Jisoo sing animation soundtracks",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWWM2Y3ZQd1hjdi13R25YaEd5cVFqbnNNS3dIWkpTQmdTQzlYOV9RUlJRdl9qTndkUFFKUW9QZDZWdkZWUlRYRlY3ZmYxbDEyQmNFWWZpZWRzMW41NmREM0ZfYnBXb3JsMmNkazFQOU1YRFN2NFB5NWRwOXVPZ2V3dEhyVGRLaTFSeGpUS3NUcndBYkJHanFkYnA1SWVxYXM"
+      },
+      "imageUrl": "/assets/editorial/2bdeecb137b8.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Blackpink’s Jennie and Jisoo Sing for Animation Soundtracks",
+      "dek": "Jennie and Jisoo have sung songs for animation soundtracks, The Straits Times reports.",
+      "body": [
+        "Blackpink members Jennie and Jisoo have lent their voices to animation soundtracks, according to The Straits Times.",
+        "The report’s headline identifies the two K-pop singers but does not specify the animation titles or songs."
+      ],
+      "socialCaption": "Jennie and Jisoo have sung for animation soundtracks. Read the brief on HallyuScope.",
+      "seoDescription": "Blackpink members Jennie and Jisoo have sung for animation soundtracks, according to a report from The Straits Times. Read the HallyuScope news brief.",
+      "sourceNote": "Source: The Straits Times"
+    },
+    {
+      "id": "64e769ce6523",
+      "createdAt": "2026-11-09T19:56:40.051Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-07T08:00:00.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "britannica-examines-k-pop-s-history-industry-and-global-impact",
+      "source": {
+        "publisher": "Britannica",
+        "title": "K-pop | Bands, History, Industry, & Global Impact",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1kWnA1b3EzQ2U1N1h5UnU2N0lYdVFYQUFyM2ZPOGVyRDRHd3A2SHJmcHktSlNoTnVoZU9SamJkLUJza1pWUlhnMVNwYWI"
+      },
+      "imageUrl": "/assets/editorial/64e769ce6523.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Britannica Examines K-pop’s History, Industry and Global Impact",
+      "dek": "A Britannica entry brings together several facets of K-pop, from its bands and history to its industry and global impact.",
+      "body": [
+        "Britannica’s entry on K-pop covers the genre through the lenses of its bands, history, industry and global impact, according to its title."
+      ],
+      "socialCaption": "Britannica’s K-pop entry spans bands, history and global impact. Read the brief on HallyuScope for what the source covers.",
+      "seoDescription": "Britannica’s K-pop entry covers the genre’s bands, history, industry and global impact. Here’s what its headline tells readers about the entry.",
+      "sourceNote": "Source: Britannica"
+    },
+    {
+      "id": "a8966f808ef1",
+      "createdAt": "2026-11-09T19:56:43.979Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-07T05:05:47.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "november-2026-k-pop-comebacks-and-new-releases",
+      "source": {
+        "publisher": "Dojeon Media",
+        "title": "November 2026 K-Pop Comebacks: Dates & New Releases",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdklib0Y3NDZKMmFTMnMxQUJXN3daQjVhS2s0WXN6VFNJT052bDAwRGJmbmZzMTB5NkFFQk1JNkR5VkxBaWNBa0RNRU56Wm5Oa2diMDBfMnhiMnYybWhVQWpvMUZGaFBrZmVIWTUwdjVDb1JQaWFOUmhKNlYwZThLNUNMQ0FydnJmb0puZlc3SkFRS29IN1J6aHUyRU9DamwtMUdr"
+      },
+      "imageUrl": "/assets/editorial/a8966f808ef1.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "November 2026 K-Pop Comebacks and New Releases",
+      "dek": "Dojeon Media has published a roundup focused on K-pop comeback dates and new releases for November 2026.",
+      "body": [
+        "K-pop comebacks and new releases scheduled for November 2026 are the focus of a Dojeon Media article.",
+        "The article’s headline identifies dates and new releases as its subjects, but the available source material does not specify artists, titles or individual release dates."
+      ],
+      "socialCaption": "November 2026 K-pop comebacks are in focus. Read HallyuScope for what’s confirmed in the available source.",
+      "seoDescription": "Dojeon Media highlights November 2026 K-pop comebacks and new releases, though artist names and individual dates are not available in the source material.",
+      "sourceNote": "Source: Dojeon Media"
+    },
+    {
+      "id": "37cf517d4e72",
+      "createdAt": "2026-11-09T19:56:48.789Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-07T05:03:23.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "financial-times-explores-k-pop-super-fandom-and-a-family-connection",
+      "source": {
+        "publisher": "Financial Times",
+        "title": "K-pop super-fandom, my daughter and me",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QNmZ3R3VzU2JJMHpsTTRqUEtVQ3JrM1luRXllLTZnc19NVDIxVGhrVnplbk9pVVc1YlJhMFgzN09wRDJhUGdEWDlMUWdXUVlEQmVQLTViXzdvTWpkOVRfdVJyVlJfYVo4bTFuZkdWR18"
+      },
+      "imageUrl": "/assets/editorial/37cf517d4e72.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Financial Times Explores K-Pop Super-Fandom and a Family Connection",
+      "dek": "A Financial Times article brings together K-pop super-fandom and a personal perspective involving a daughter.",
+      "body": [
+        "K-pop super-fandom is the subject of a Financial Times article titled “K-pop super-fandom, my daughter and me.”",
+        "The headline frames the topic through a personal connection involving a daughter. The article text was not available for review, so further details about its account could not be confirmed."
+      ],
+      "socialCaption": "K-pop super-fandom meets a personal perspective in a Financial Times headline. Read HallyuScope for the verified details.",
+      "seoDescription": "A Financial Times article connects K-pop super-fandom with a personal perspective involving a daughter. Here’s what its headline tells us.",
+      "sourceNote": "Source: Financial Times"
+    },
+    {
+      "id": "8ed59662bbbb",
+      "createdAt": "2026-11-09T19:56:54.171Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-07T04:38:29.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "kpop-demon-hunters-energy-edition-trading-cards-what-the-report-covers",
+      "source": {
+        "publisher": "Lifestyle Asia Hong Kong",
+        "title": "'KPop Demon Hunters' Energy Edition trading cards: Price, packs, rare cards and where to buy",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd0NCLUxCalpFbzM2amhIMGpteVFfcVI3Uk41Zjd3amg4NVlHQTEycjhxNHBDR2dKOHF1a05raWlaTk9wUUROeWZmTElCRTBWMlplbm9NenNVcEQzVVdYeG15SnJXb01ObmJMMnNWV2ljTlA5Qjg5eHdhMm5CalZOMDV2U1cyOE45R0hBelVkcm9hM21CbFA2YmVOV0JtaUJiYUcwLU1XTDJIRzM2OUc0REIxdUkteEJ6UjJmRg"
+      },
+      "imageUrl": "/assets/editorial/8ed59662bbbb.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "‘KPop Demon Hunters’ Energy Edition Trading Cards: What the Report Covers",
+      "dek": "Lifestyle Asia Hong Kong has published a guide to the trading cards, including pricing, packs, rare cards and where to buy them.",
+      "body": [
+        "A new Lifestyle Asia Hong Kong guide looks at the Energy Edition trading cards for “KPop Demon Hunters.”",
+        "The report’s headline identifies price, packs, rare cards and where to buy them as topics covered. The article text was not available for review, so specific prices, card details and retailers could not be confirmed."
+      ],
+      "socialCaption": "Curious about the “KPop Demon Hunters” Energy Edition cards? Read HallyuScope’s brief for what the available report confirms.",
+      "seoDescription": "A guide to ‘KPop Demon Hunters’ Energy Edition trading cards covers prices, packs, rare cards and where to buy them. Here’s what is confirmed.",
+      "sourceNote": "Source: Lifestyle Asia Hong Kong"
+    },
+    {
+      "id": "b3165b6e5b79",
+      "createdAt": "2026-11-09T19:56:59.866Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-07T03:56:11.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "bts-leads-november-boy-group-brand-reputation-rankings",
+      "source": {
+        "publisher": "Soompi",
+        "title": "November Boy Group Brand Reputation Rankings Announced",
+        "url": "https://www.soompi.com/article/1884792wpp/november-boy-group-brand-reputation-rankings-announced-9"
+      },
+      "imageUrl": "/assets/editorial/b3165b6e5b79.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/07125441/BTS-ATEEZ-CORTIS.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "TRENDING",
+      "headline": "BTS Leads November Boy Group Brand Reputation Rankings",
+      "dek": "ATEEZ and CORTIS followed BTS in the Korean Business Research Institute’s latest monthly rankings.",
+      "body": [
+        "BTS topped the November boy group brand reputation rankings with an index of 7,637,748, according to results reported by Soompi.",
+        "ATEEZ retained second place with a score of 4,220,430, up 15.22 percent from October. CORTIS ranked third with 3,096,515, an increase of 13.53 percent from the previous month.",
+        "Stray Kids placed fourth with an index of 2,726,772, followed by BIGBANG in fifth with 2,492,966.",
+        "The Korean Business Research Institute compiled the rankings using data collected from October 7 to November 7. Its analysis considered consumer participation, media coverage, interaction and community indexes.",
+        "For BTS, the institute’s keyword analysis included “ARMY,” “ARIRANG” and “world tour.” Its positivity-negativity analysis found that 93.52 percent of reactions were positive."
+      ],
+      "socialCaption": "BTS leads November’s boy group brand reputation rankings. Read HallyuScope for the top five and how the rankings were calculated.",
+      "seoDescription": "BTS tops November’s boy group brand reputation rankings, followed by ATEEZ and CORTIS. See the top five scores and how they were calculated.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "e83ed098fab5",
+      "createdAt": "2026-11-09T19:57:04.019Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-07T03:33:17.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "kpop-demon-hunters-2-set-for-theatrical-release",
+      "source": {
+        "publisher": "Lifestyle Asia Hong Kong",
+        "title": "‘KPop Demon Hunters 2’ gets a theatrical release: What we know so far",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbDJQcnB1WWl0SWZxRkhMR1F6U1dyaFozNm1Dbng3OW5ILTRiMUk3aU40akFRajEyR1hhbk9EdzM5Vm00aGdEVGpmRzlvOFU5LWZyWERTcnlnS1NwTHZSUWNuZHA4Vk83WWRQYXo0SklvS2JGOGZKMFloX25zMzlkZzFmNEZ0WVQyY24xRWk1WEJOTjJpRWM4U0lXclpWcWtFRGd6eHhLaVFrc28"
+      },
+      "imageUrl": "/assets/editorial/e83ed098fab5.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "‘KPop Demon Hunters 2’ Set for Theatrical Release",
+      "dek": "A theatrical release is planned for ‘KPop Demon Hunters 2,’ according to Lifestyle Asia Hong Kong.",
+      "body": [
+        "‘KPop Demon Hunters 2’ is set for a theatrical release, Lifestyle Asia Hong Kong reports.",
+        "The available source headline does not specify a release date or provide further details about the theatrical rollout."
+      ],
+      "socialCaption": "‘KPop Demon Hunters 2’ is headed to theaters. Read HallyuScope for the confirmed release news.",
+      "seoDescription": "‘KPop Demon Hunters 2’ is set for a theatrical release. Here’s what is confirmed from the available report about the sequel’s cinema plans.",
+      "sourceNote": "Source: Lifestyle Asia Hong Kong"
+    },
+    {
+      "id": "3095db3930a3",
+      "createdAt": "2026-11-09T19:57:15.719Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-07T02:46:01.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "dive-into-you-finale-brings-closure-for-its-time-traveling-trio",
+      "source": {
+        "publisher": "Soompi",
+        "title": "4 Things We Loved About The Finale Of &#8220;Dive Into You&#8221;",
+        "url": "https://www.soompi.com/article/1884609wpp/4-things-we-loved-about-the-finale-of-dive-into-you"
+      },
+      "imageUrl": "/assets/editorial/3095db3930a3.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/06234258/Dive-into-You-1.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "‘Dive Into You’ Finale Brings Closure for Its Time-Traveling Trio",
+      "dek": "The drama’s final episode resolves the fight to save Yoon Ha Na and Jung Woo Jae, while giving the twins’ careers and relationships new beginnings.",
+      "body": [
+        "“Dive Into You” has wrapped up its story of romance, danger and time travel, bringing Yoon Ha Na, Yoon Ha Ru and Jung Woo Jae to the end of their complicated journey. The finale delivers answers about a crucial camcorder, reunites a couple and shows what happens to antagonist Yang Jun Mo.",
+        "Spoilers for the finale follow.",
+        "The final episode changes the stakes for the central trio. After spending much of the drama trying to save Woo Jae, twins Ha Na and Ha Ru must confront a timeline in which Ha Na is stabbed. She survives the initial attack but falls into a coma, prompting another attempt to change events.",
+        "By then, Woo Jae knows the twins have been traveling through time. He recognizes Ha Na when she arrives in the present looking disoriented, and the three eventually discuss what has happened and make a plan to save both her and Woo Jae.",
+        "The finale also explains Woo Jae’s earlier dealings with Jun Mo. Woo Jae reveals that, in 2017, he agreed to give Jun Mo Ha Na’s camcorder in exchange for him stopping his stalking of her. But he kept the real device safe. After Ha Na is hospitalized, Woo Jae and Ha Ru use it to travel back in time with her.",
+        "Ha Na, played by Kim Ji Yeon, also receives a career milestone in the finale. Her work as an actress had changed across the story: once a major star, she became a less prominent performer known mainly for supporting roles. She goes on to win a Best Actress award.",
+        "For Ha Ru, played by Jang Se Hyuk, the ending offers a chance to repair his relationship with CEO Seo Ye Rang, played by Moon Seung You. The pair had broken up after Ha Ru’s efforts to save Woo Jae left him neglecting her. In the finale, he acknowledges where he fell short, and they reconcile.",
+        "The drama also settles the conflict with Jun Mo, played by Kang Hyung Suk. After he kidnaps Ha Na, Woo Jae, played by Park Seo Ham, rescues her. Jun Mo later threatens to jump from a rooftop, and Ha Na tries to persuade him not to. He attempts to turn the situation to his advantage once more, but ultimately is sent to prison."
+      ],
+      "socialCaption": "The “Dive Into You” finale brings answers, reunions and consequences. Read HallyuScope’s spoiler-filled recap for the key endings.",
+      "seoDescription": "The ‘Dive Into You’ finale resolves its time-travel mystery and delivers new beginnings. Read our spoiler-filled recap of the drama’s ending.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "245b1d169f48",
       "createdAt": "2026-11-09T12:33:50.590Z",
@@ -16,7 +1603,7 @@
         "title": "K-pop association pushes back on New York Times report over NewJeans contract protections",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYU9UZDVpOEV2QzlYR3M1b0t5RjJNZ3pRTHZIVV9Ld2tKVlhDVWJFcERvY3NINmxmbUNtWVNMeTB4ampMSHRoOFpfU1JlSUwta1c4bmNZM21TQ2VMSFNKM3lGUDBZRE1CVGJELU1rR2I0ZlkyeEE1RE9RNFF5d2QxRUlLd1pGNmVVTVZrcTBqcUxodDI0cXFkUmV3S01wb01EMTNtLVdMdjY0S1F5a3V1VW54VV85LWcwYU0yUmdGU0tpdFphckpucTJ1Rk5rZjhEdVVOS3ZLN3BRbHhwdWtN"
       },
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageUrl": "/assets/editorial/245b1d169f48.svg",
       "category": "HALLYU NEWS",
       "headline": "K-pop Association Challenges New York Times Report on NewJeans Contracts",
       "dek": "A K-pop association has pushed back against a New York Times report concerning contract protections for NewJeans.",
@@ -26,7 +1613,13 @@
       ],
       "socialCaption": "A K-pop association has challenged a report on NewJeans’ contract protections. Read the confirmed details on HallyuScope.",
       "seoDescription": "A K-pop association has pushed back on a New York Times report about NewJeans’ contract protections, according to Korea JoongAng Daily.",
-      "sourceNote": "Source: Korea JoongAng Daily"
+      "sourceNote": "Source: Korea JoongAng Daily",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "13dae289d3eb",
@@ -41,7 +1634,7 @@
         "title": "HAPPY BIRTHDAY, MOMO! 🐻🩷 TWICE member Sana greeted fellow Japanese member Momo on her birthday, sharing charming photos on social media. “Happy birthday to my twin” Sana wrote. TWICE is set to premiere its concert film, “This Is For…You,” on",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVmNtU2x1bmRERzZNVTZLR2lYUVd5akpiSlpSY0IxRGRxMjc2VENLMlRJMXhWS3lLRk5VSmFtVGoxUlJPdVZxd3dlcmtuVi1leS1tUEltX3NKSW1reXVxR25SRFh6M092ZVg1RDlQTU1ZeVFVdWd5YzJ0YjBfUmlYUHJDdFgxMUZuMjRCMnhncDhjckl5alNnR09FQVFSbHdsMjV2MmtLME14eVVVbUtHSXQ0WTl2cXd3MWg4RS1LMkRPSFprWUVlNEh5VEpTTFhDb0lLTk5RMXc2Njk0"
       },
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageUrl": "/assets/editorial/13dae289d3eb.svg",
       "category": "CONCERT NEWS",
       "headline": "TWICE’s Sana Celebrates Momo’s Birthday With Social Media Photos",
       "dek": "Sana shared photos of her fellow TWICE member and Japanese bandmate Momo alongside a birthday message.",
@@ -52,7 +1645,13 @@
       ],
       "socialCaption": "Sana shared a birthday message and photos for fellow TWICE member Momo. Read the details on HallyuScope.",
       "seoDescription": "TWICE’s Sana celebrated fellow Japanese member Momo’s birthday with a social media message and photos. Here’s what she shared for her bandmate.",
-      "sourceNote": "Source: Facebook"
+      "sourceNote": "Source: Facebook",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "b1c3a55ae26c",
@@ -67,7 +1666,7 @@
         "title": "K-pop industry group pushes back on NYT report over artist contracts",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBibEFIajZoY2hvM2ZONWY2SDJiWGMyVmVmcEkzejlZdEFxTjRDUzBSYmZCbjdoOU01WC1teTJ3enJmSll5UDNqUG4xS0o3SHRIbnItay13UQ"
       },
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageUrl": "/assets/editorial/b1c3a55ae26c.svg",
       "category": "HALLYU NEWS",
       "headline": "K-pop Industry Group Disputes New York Times Report on Artist Contracts",
       "dek": "A K-pop industry group has pushed back against a New York Times report about artist contracts, The Korea Herald reported.",
@@ -77,7 +1676,13 @@
       ],
       "socialCaption": "A K-pop industry group has challenged a New York Times report on artist contracts. Read what’s confirmed on HallyuScope.",
       "seoDescription": "A K-pop industry group has pushed back on a New York Times report about artist contracts, according to a headline from The Korea Herald.",
-      "sourceNote": "Source: The Korea Herald"
+      "sourceNote": "Source: The Korea Herald",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "de31cd823f28",
@@ -92,7 +1697,7 @@
         "title": "Watch: ILLIT Takes 2nd Win For “You’re Under Arrest” On New Music Show &#8220;SHOW K-POP&#8221;",
         "url": "https://www.soompi.com/article/1885347wpp/watch-illit-takes-2nd-win-for-youre-under-arrest-on-new-music-show-show-k-pop"
       },
-      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09200206/illit-show-kpop.jpg",
+      "imageUrl": "/assets/editorial/de31cd823f28.svg",
       "category": "TRENDING",
       "headline": "ILLIT Earns Second Win for “You’re Under Arrest” on SHOW K-POP",
       "dek": "The group took first place with 7,957 points on the fourth episode of Arirang TV’s music show.",
@@ -103,7 +1708,13 @@
       ],
       "socialCaption": "ILLIT has another trophy for “You’re Under Arrest.” Read on HallyuScope for the result and details from SHOW K-POP.",
       "seoDescription": "ILLIT wins its second music show trophy for “You’re Under Arrest” on Arirang TV’s SHOW K-POP, earning 7,957 points in the show’s fourth episode.",
-      "sourceNote": "Source: Soompi"
+      "sourceNote": "Source: Soompi",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09200206/illit-show-kpop.jpg",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "384efcfae14b",
@@ -118,7 +1729,7 @@
         "title": "'NAMJOONING' PRO MAX! Stanford University will be offering the \"Namjooning, and other well-being inspiration from BTS,\" which will explore and focus on mental health and well-being. Read more in the comments section.",
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUklfOFF5VlNjSFpLaWpYc0o1dkpvNVlHX01FQkNnRTZYSWp0N0dsbWlyeFllZi1vRnRaNDlTa3hIZzJnSGV6RGROZlltaG1MWVQ2bFZuNmdvMEJHT1pqTUs1dElFTkNHM1VzUFhjTF9SR2ZxdkZRbWxrcFJCQ29CalVIc3dpWGs4bUhpb0l6X0RMbXFzMXFGMEFUNTBMczZEczdHZDI0Ym1fTTl1MXBDaGpaZkkzUXBNQkVKU0pPQUZzLWJMdm90ZTVkYUJISE5Fc29vNkhUVQ"
       },
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageUrl": "/assets/editorial/384efcfae14b.svg",
       "category": "HALLYU NEWS",
       "headline": "Stanford to Offer BTS-Inspired Well-Being Program",
       "dek": "The offering will explore mental health and well-being through inspiration from BTS and Namjooning.",
@@ -128,7 +1739,13 @@
       ],
       "socialCaption": "Stanford will offer a BTS-inspired program focused on well-being. Read on HallyuScope for the details available so far.",
       "seoDescription": "Stanford University will offer a BTS-inspired program exploring mental health and well-being, including inspiration from Namjooning.",
-      "sourceNote": "Source: Facebook"
+      "sourceNote": "Source: Facebook",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "9822876a266a",
@@ -143,7 +1760,7 @@
         "title": "Lee Joon Gi And Sakaguchi Kentaro Are Drawn Into A New Stage Of The Deadly Game In “kiDnap GAME”",
         "url": "https://www.soompi.com/article/1885324wpp/lee-joon-gi-and-sakaguchi-kentaro-are-drawn-into-a-new-stage-of-the-deadly-game-in-kidnap-game"
       },
-      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09185903/kidnap-game-6.jpg",
+      "imageUrl": "/assets/editorial/9822876a266a.svg",
       "category": "HALLYU NEWS",
       "headline": "Lee Joon Gi and Sakaguchi Kentaro Face New Clues in ‘kiDnap GAME’",
       "dek": "New stills preview another threat for detective Niide Toshiro as the thriller reveals a possible link to doctor Han Ki Joo.",
@@ -160,7 +1777,13 @@
       ],
       "socialCaption": "New clues and a threat await in ‘kiDnap GAME.’ Read on HallyuScope for what the latest stills reveal ahead of episode 6.",
       "seoDescription": "New ‘kiDnap GAME’ stills preview a threat for Sakaguchi Kentaro’s detective and clues about his possible connection to Lee Joon Gi’s doctor.",
-      "sourceNote": "Source: Soompi"
+      "sourceNote": "Source: Soompi",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09185903/kidnap-game-6.jpg",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "2302b38040d1",
@@ -175,7 +1798,7 @@
         "title": "K-pop star Rocky to hold Manila fan concert in December - ABS-CBN",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS29Fc0wtb1pmdzd6dkVjUjk5ZEVXXzduZ1ZLQkVnY0NsTzJIRm1KeDRMQno4bkMtRXY1ZkJVR3FKLUx6SEwzMWp4bjEzX1M4MlJTYmpidGJOLTRVaFpYRWpXSkk1WTlwdXdNbEdjdmtKZ2lHSndIMlVOSjNLcVQ4X3NLN3JhVlB6WUJiNFAteF8zRkYwSU5nZGROQzNmZmJac05yZHI4TzVsRWFYWUxOa3p3"
       },
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageUrl": "/assets/editorial/2302b38040d1.svg",
       "category": "CONCERT NEWS",
       "headline": "Rocky to Bring Fan Concert to Manila in December",
       "dek": "K-pop star Rocky is set to hold a fan concert in Manila in December, ABS-CBN reports.",
@@ -185,7 +1808,13 @@
       ],
       "socialCaption": "Rocky is headed to Manila for a December fan concert. Read HallyuScope for the announced details.",
       "seoDescription": "K-pop star Rocky is set to hold a fan concert in Manila in December, according to ABS-CBN. The report's headline did not specify a date or venue.",
-      "sourceNote": "Source: ABS-CBN"
+      "sourceNote": "Source: ABS-CBN",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "089d760f02e3",
@@ -200,7 +1829,7 @@
         "title": "From K-Pop Drummer to Global Hitmaker: Sooyoon on Crafting \"Sonagi\" and Reconnecting with Fans",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oaEJkbnhxMWl5NDdVcXBZcDBlSFdvbVJ4YjV4UmVMTEpRNWMxVllsU3pKbzhGR2MyRVlwRnI1OUd4RnpuVEFjbmdMNk5rc21QV2VUT1loX3ZMWTQ0X1JsS3o2bTFMSlc2dXdqc0hDbGFfNVZnWjVUVEd5cTc"
       },
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageUrl": "/assets/editorial/089d760f02e3.svg",
       "category": "CONCERT NEWS",
       "headline": "Sooyoon Talks Crafting ‘Sonagi’ and Reconnecting With Fans",
       "dek": "The K-pop drummer and hitmaker discussed the making of “Sonagi” and reconnecting with fans in a feature from When In Manila.",
@@ -210,7 +1839,13 @@
       ],
       "socialCaption": "Sooyoon discusses “Sonagi” and reconnecting with fans. Read the verified details on HallyuScope.",
       "seoDescription": "K-pop drummer and hitmaker Sooyoon discusses crafting “Sonagi” and reconnecting with fans in a feature published by When In Manila.",
-      "sourceNote": "Source: When In Manila"
+      "sourceNote": "Source: When In Manila",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "fead16e2b965",
@@ -225,7 +1860,7 @@
         "title": "Joy And Kim Hyun Jin’s Repeated Chance Encounters Lead To A Misunderstanding In “One-Of-A-Kind Romance”",
         "url": "https://www.soompi.com/article/1885290wpp/joy-and-kim-hyun-jins-repeated-chance-encounters-lead-to-a-misunderstanding-in-one-of-a-kind-romance"
       },
-      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09174359/one-of-a-kind-romance-01.jpg",
+      "imageUrl": "/assets/editorial/fead16e2b965.svg",
       "category": "K-DRAMA NEWS",
       "headline": "Joy and Kim Hyun Jin Get Off on the Wrong Foot in ‘One-of-a-Kind Romance’",
       "dek": "A string of chance meetings leaves a job seeker under a top star’s suspicion in the drama’s first two episodes.",
@@ -239,7 +1874,13 @@
       ],
       "socialCaption": "Joy and Kim Hyun Jin’s characters keep crossing paths—and not everyone thinks it’s a coincidence. Read on HallyuScope for a look at the drama’s opening episodes.",
       "seoDescription": "Joy and Kim Hyun Jin play a job seeker and a suspicious top star in ‘One-of-a-Kind Romance,’ premiering with two episodes on November 9.",
-      "sourceNote": "Source: Soompi"
+      "sourceNote": "Source: Soompi",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09174359/one-of-a-kind-romance-01.jpg",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "59bb35192591",
@@ -254,7 +1895,7 @@
         "title": "Shin Min Ah, Ju Ji Hoon, Lee Jong Suk, And Lee Se Young Embody The Fantasy Romance Genre In &#8220;The Remarried Empress&#8221;",
         "url": "https://www.soompi.com/article/1885259wpp/shin-min-ah-ju-ji-hoon-lee-jong-suk-and-lee-se-young-embody-the-fantasy-romance-genre-in-the-remarried-empress"
       },
-      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09171517/remarried-empress.png",
+      "imageUrl": "/assets/editorial/59bb35192591.svg",
       "category": "K-DRAMA NEWS",
       "headline": "‘The Remarried Empress’ Unveils Palace Stills of Its Four Leads",
       "dek": "Shin Min Ah, Ju Ji Hoon, Lee Jong Suk and Lee Se Young appear in new images from the fantasy romance.",
@@ -266,7 +1907,13 @@
       ],
       "socialCaption": "The leads of “The Remarried Empress” step into the palace in new stills. Read on HallyuScope for a look at their characters and the release schedule.",
       "seoDescription": "See what new palace stills reveal about the four leads of “The Remarried Empress,” starring Shin Min Ah, Ju Ji Hoon, Lee Jong Suk and Lee Se Young.",
-      "sourceNote": "Source: Soompi"
+      "sourceNote": "Source: Soompi",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09171517/remarried-empress.png",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "774dc8c28625",
@@ -281,7 +1928,7 @@
         "title": "Five out of 12 EXO members defend their title as 'Kings of K-pop' at final 'EXhOrizon' concert",
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRDV3QVZBZzZFSE9PVXhhUDZMSGprSTdVZzNmTFN6aHFLQktsaXJ1X25jVzc5TDgzbzlwTWlTRmZibWhqakd1dFZXQWFDdU8wNGVyWmpRejF6ZERCMHdVMjNMR3YyRHp3anlDeEFsYTJUTno2Mnp1TE1wNVF5U01Pc1lWaTBxQnYwNTRJaUpiRDROWUhteS05WW9EU0I1NktaTjUxSTNPUDAxWTVCcnllY1JPVWsxV0hTU3BmUVdVcnNMN0hmaFJmdk5mbElzOTRCbVlPbnNLN3hySlBPQ2FfTA"
       },
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageUrl": "/assets/editorial/774dc8c28625.svg",
       "category": "CONCERT NEWS",
       "headline": "Five EXO Members Take the Stage for Final 'EXhOrizon' Concert",
       "dek": "Korea JoongAng Daily reports that five of EXO’s 12 members performed at the final 'EXhOrizon' concert.",
@@ -291,7 +1938,13 @@
       ],
       "socialCaption": "Five EXO members performed at the final 'EXhOrizon' concert. Read HallyuScope’s brief for what was reported about the show.",
       "seoDescription": "Five of EXO’s 12 members performed at the final 'EXhOrizon' concert, with Korea JoongAng Daily reporting on the group’s “Kings of K-pop” title.",
-      "sourceNote": "Source: Korea JoongAng Daily"
+      "sourceNote": "Source: Korea JoongAng Daily",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "cbdda035164e",
@@ -306,7 +1959,7 @@
         "title": "Taeyeon to release 4th studio album 'Unspecial' on Nov. 30",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTThacDVjRjJzMGpxVkNxTmhnc0thOW5mU243NEdXTXBCN1U0RHg2dTFHTVhNaURnZ3VBU2RWU3pHd0ItRlZrdW9MX0dMVlFhWXUzVmkyV1kxYzZ6Sy1ubE5Zal9qRHZFZkpIbFVzaDVwTmpZLWF4cm5zWUhaZFBGLXlNaEdLSy1Wc0NzUmNJOXh1S3hZZzhBTlNEcTEtY3hiSDB4VjZmUjg5eXNLcUkwWndVSkpOUUJT0gG4AUFVX3lxTFBNOFpwNWNGMnMwanFWQ3FOaGdzS2E5bmZTbjc0R1dNcEI3VTREeDZ1MUdNWE1pRGdndUFTZFZTekd3Qi1GVmt1b0xfR0xWUWFZdTNWaTJXWTFjNnpLLW5sTllqX2pEdkVmSkhsVXNoNXBOalktYXhybnNZSFpkUEYteU1oR0tLLVZzQ3NSY0k5eHVLeFlnOEFOU0RxMS1jeGJIMHhWNmZSODl5c0txSTBad1VKSk5RQlM"
       },
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageUrl": "/assets/editorial/cbdda035164e.svg",
       "category": "COMEBACK NEWS",
       "headline": "Taeyeon’s Fourth Studio Album ‘Unspecial’ Set for Nov. 30",
       "dek": "Taeyeon will release her fourth studio album, titled ‘Unspecial,’ on Nov. 30, according to The Korea Times.",
@@ -316,7 +1969,13 @@
       ],
       "socialCaption": "Taeyeon’s fourth studio album has a title and release date. Read the details on HallyuScope.",
       "seoDescription": "Taeyeon is set to release her fourth studio album, ‘Unspecial,’ on Nov. 30. Here’s what The Korea Times reported about the upcoming release.",
-      "sourceNote": "Source: The Korea Times"
+      "sourceNote": "Source: The Korea Times",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "e4d59cb5795e",
@@ -331,7 +1990,7 @@
         "title": "How K-pop is lifting wine’s fortunes in Korea",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZVVUWDY0c3hmX0M3alpSWmMtZV9SYXA2Tm1fblJ0NldzOUtNYTc0bjVIUHFqNHNjOVZvMGp3Q1hoLXR1ZG1KNVU0NW4zUVN5SUNkX0ZENXZZOXZiWlhBeVIwX3JQYzk2cjd5UEw5SjlCT3ByRTVIU2tOVzE4di1UWXU0OVhvcGJHSUtGWVRweG0"
       },
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageUrl": "/assets/editorial/e4d59cb5795e.svg",
       "category": "TRENDING",
       "headline": "K-pop’s Influence Reaches Korea’s Wine Market",
       "dek": "The Drinks Business reports that K-pop is helping improve wine’s fortunes in Korea.",
@@ -341,7 +2000,13 @@
       ],
       "socialCaption": "K-pop’s influence is reaching Korea’s wine market. Read the brief on HallyuScope for what’s known.",
       "seoDescription": "K-pop is helping lift wine’s fortunes in Korea, according to The Drinks Business. Read HallyuScope’s brief on the reported connection.",
-      "sourceNote": "Source: The Drinks Business"
+      "sourceNote": "Source: The Drinks Business",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "f951d606febc",
@@ -356,7 +2021,7 @@
         "title": "EXO’s D.O. to release new digital single ‘Darling’ on Wednesday",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQXZPWGFOdGZ6M3JaRjNkODMxNDVTU2R2djRwLVhpeDYwVDVpS2N0MC1GQWpXdWhERTVLUXlMQnp4b004ZklSLThlQ01TaVFfQ1lGUUJvLU1STkU3OUJ5eHdoek9kczdwMkJGMTVGMGJUVHFTTVJuLVlZaVZJSkc2YVpkZ3FJTEg0NkVrLU5NSDZOQlliUkRncFVuWG95TTVRVGVBbXo1OTVQVlBDTHRLQzdtMA"
       },
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageUrl": "/assets/editorial/f951d606febc.svg",
       "category": "COMEBACK NEWS",
       "headline": "EXO’s D.O. Set to Release Digital Single ‘Darling’ on Wednesday",
       "dek": "D.O. will return with a new digital single titled “Darling.”",
@@ -366,7 +2031,13 @@
       ],
       "socialCaption": "EXO’s D.O. has a new digital single on the way. Read HallyuScope for the confirmed release details.",
       "seoDescription": "EXO’s D.O. is set to release a new digital single, “Darling,” on Wednesday. Here’s what has been confirmed about the upcoming release so far.",
-      "sourceNote": "Source: Korea JoongAng Daily"
+      "sourceNote": "Source: Korea JoongAng Daily",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "bec70cf51873",
@@ -381,7 +2052,7 @@
         "title": "“Concern over distortion of the K-pop industry”... Korea Popmusic Industry Association regrets NYT report on NewJeans contract",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ydTltU0JqRXdDNklHMFY1dHdEZlgwMVZaZmhocVVPRUU3SXZUSFdqaEFwUlR6ejZSbDhzeFBhWDllT0F1YXY5NlJyMXhZWHFNTXc"
       },
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageUrl": "/assets/editorial/bec70cf51873.svg",
       "category": "HALLYU NEWS",
       "headline": "Korea Popmusic Industry Association Regrets NYT Report on NewJeans Contract",
       "dek": "The association raised concern that the report could distort the K-pop industry, according to 매일경제.",
@@ -391,7 +2062,13 @@
       ],
       "socialCaption": "A Korean music industry association has expressed regret over an NYT report on NewJeans’ contract. Read what the available report says on HallyuScope.",
       "seoDescription": "The Korea Popmusic Industry Association expressed regret over an NYT report on NewJeans’ contract and raised concern about K-pop industry distortion.",
-      "sourceNote": "Source: 매일경제"
+      "sourceNote": "Source: 매일경제",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "844e9f844336",
@@ -406,7 +2083,7 @@
         "title": "From Bollywood to K-pop, AACC celebrates breadth of student talent",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQckVrSUEzalZiQ1ZOeE1WQk9SeTRhbzgzU096d0V4dnNIZGtmdGl5RUpHSlAzOWVTNV9uOFAxWE5mNnJVT2lkczk1X1Uyc1M4c0ZGOFAwSzBjUkl6ckhncWNYbDFNRzFxUjB5MUZPOVdFLUZVT0d1dzFBVjgtbkZyY3JOQ2dvQV9YUzhQc09HWWhha1hlS0t6N0IyQVhTbTFqd2c"
       },
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageUrl": "/assets/editorial/844e9f844336.svg",
       "category": "HALLYU NEWS",
       "headline": "AACC Celebrates Student Talent From Bollywood to K-pop",
       "dek": "A Yale Daily News report highlights an AACC celebration spanning Bollywood and K-pop.",
@@ -416,7 +2093,13 @@
       ],
       "socialCaption": "An AACC celebration highlighted student talent from Bollywood to K-pop. Read the brief on HallyuScope.",
       "seoDescription": "Yale Daily News reports on an AACC celebration highlighting the breadth of student talent, with performances spanning Bollywood to K-pop.",
-      "sourceNote": "Source: Yale Daily News"
+      "sourceNote": "Source: Yale Daily News",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "1e1350c58bb7",
@@ -431,7 +2114,7 @@
         "title": "P-pop boy group Play Ph addressed the mixed reactions and criticisms they received following their viral performance of their song “Crush Kita”. https://tinyurl.com/223unvpb | via LatestChika.com",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaVFtNFJVaDYwN0ozRWhNcldjODRXNFJDaF9CQmlNZjhmSnVCX3hLeXZFSGZaTmhadjRMb095Mmphd0g0Um8xRzJzbmFsMnA2ZFZJdmVqUGZzNXZoTzh1VTV2NndRb211d3Q3UXo5NzdyeXlkQUNaS0EyTDNnVGtUckxlX0oxX1lqbXJDd3dOQVVwcWl2UWxVLXlFS2FLVjBKVGE0TGpXell5YTVkSy1aa0stNVdyVDlKWm8zS0ZjRVpxTmtNQ3lpeEhLSFhWTm1abTRsU0VSdG01TGhz"
       },
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageUrl": "/assets/editorial/1e1350c58bb7.svg",
       "category": "TRENDING",
       "headline": "Play Ph Addresses Reactions to Viral ‘Crush Kita’ Performance",
       "dek": "The P-pop boy group responded to mixed reactions and criticism following a viral performance of its song.",
@@ -441,7 +2124,13 @@
       ],
       "socialCaption": "Play Ph has addressed the response to its viral “Crush Kita” performance. Read what’s been reported on HallyuScope.",
       "seoDescription": "P-pop group Play Ph has addressed mixed reactions and criticism following its viral performance of the song “Crush Kita,” according to a Facebook post.",
-      "sourceNote": "Source: Facebook"
+      "sourceNote": "Source: Facebook",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "7be58e9621e0",
@@ -456,7 +2145,7 @@
         "title": "Three songs, three top spots: K-pop group CORTIS dominate Spotify as ‘REDRED’ closes in on 300 million streams",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HVXNqVFZzSFROY1ZrQUVKU2tIN2VuU3pyal8zRDB5N0w4N3NtS3F5d1I4bTRiVlZSdmVlWkZqbXgtMm14V2RocVRSalRWckI5V1lkTVgyc1NfQWQ4cGdudkdHLXktN0d5cnFtb3pScGhrQUtFSHVMd0QyNHZZeDg"
       },
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageUrl": "/assets/editorial/7be58e9621e0.svg",
       "category": "HALLYU NEWS",
       "headline": "CORTIS Takes Three Top Spots on Spotify as ‘REDRED’ Nears 300 Million Streams",
       "dek": "Three CORTIS songs have claimed top spots on Spotify, while “REDRED” is approaching 300 million streams, Yahoo reports.",
@@ -466,7 +2155,13 @@
       ],
       "socialCaption": "CORTIS has three songs in top spots on Spotify. Read HallyuScope for what’s known about the group’s latest streaming milestone.",
       "seoDescription": "CORTIS has claimed three top spots on Spotify, according to Yahoo, while the K-pop group’s song “REDRED” approaches 300 million streams.",
-      "sourceNote": "Source: Yahoo"
+      "sourceNote": "Source: Yahoo",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "e5cf8f9bc4c7",
@@ -481,7 +2176,7 @@
         "title": "“Don’t cast this as a problem with all of K-pop” ... Pop Music Industry Association rebuts NYT report on NewJeans contract",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YMXd4UUs4ZmNCMzMzbWJYaThGTEMxSE5vZHJNV3pIN1FmeTh3eGVzUDJ2SFdCYWlvbU8wQ1hwWm5ZZ1ZTcWlTaUpvWXphNXlEMkdUYV9B"
       },
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageUrl": "/assets/editorial/e5cf8f9bc4c7.svg",
       "category": "K-DRAMA NEWS",
       "headline": "Pop Music Industry Association Pushes Back on NYT Report About NewJeans Contract",
       "dek": "The association challenged a New York Times report on NewJeans’ contract, arguing against treating it as a problem across all of K-pop.",
@@ -491,7 +2186,13 @@
       ],
       "socialCaption": "A pop music industry association has pushed back on an NYT report about NewJeans’ contract. Read HallyuScope for the verified details.",
       "seoDescription": "A pop music industry association has rebutted a New York Times report on NewJeans’ contract and objected to framing it as a K-pop-wide problem.",
-      "sourceNote": "Source: 매일경제"
+      "sourceNote": "Source: 매일경제",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "24bdcd82475a",
@@ -506,7 +2207,7 @@
         "title": "Watch: Nam Ji Hyun And Kim Jae Yeong Bid Farewell To &#8220;Make Me Tingle&#8221; On Heartwarming Set Of Final Filming",
         "url": "https://www.soompi.com/article/1885189wpp/watch-nam-ji-hyun-and-kim-jae-yeong-bid-farewell-to-make-me-tingle-on-heartwarming-set-of-final-filming"
       },
-      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09155010/make-me-tingle-1-.png",
+      "imageUrl": "/assets/editorial/24bdcd82475a.svg",
       "category": "HALLYU NEWS",
       "headline": "Nam Ji Hyun and Kim Jae Yeong Say Goodbye to ‘Make Me Tingle’ in Final Filming Video",
       "dek": "A new behind-the-scenes video follows the stars through romantic rehearsals and their closing remarks as filming wraps.",
@@ -519,7 +2220,13 @@
       ],
       "socialCaption": "Nam Ji Hyun and Kim Jae Yeong share their final moments on the “Make Me Tingle” set. Read HallyuScope for highlights from the behind-the-scenes video.",
       "seoDescription": "Nam Ji Hyun and Kim Jae Yeong share final filming moments and closing remarks in a new behind-the-scenes video for “Make Me Tingle.”",
-      "sourceNote": "Source: Soompi"
+      "sourceNote": "Source: Soompi",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09155010/make-me-tingle-1-.png",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "79f22014219b",
@@ -534,7 +2241,7 @@
         "title": "Meet 82MAJOR: The K-Pop Group Making Major Moves",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTlM0R0c1OEFDaV9sVXZDU2sycFhSLWMtRmpTTkxYYU53Wng2SExLcVFjS1R3SllfSWk3T0FDVzVKTlNXNHVfcWd1bUVjR3ExMWxOZXZNM1MwWmdLbHoybHpEWXZIMDI2U2VMdTQwc09kaFJMQWZHR1NPd1Zkb2Q5NElvYk4ycEdNX0lMUjhkcUVQLU96UHc4YVc2WVVvSWNjU3lz"
       },
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageUrl": "/assets/editorial/79f22014219b.svg",
       "category": "HALLYU NEWS",
       "headline": "Forbes Introduces K-Pop Group 82MAJOR",
       "dek": "A Forbes headline spotlights 82MAJOR as a K-pop group making moves.",
@@ -544,7 +2251,13 @@
       ],
       "socialCaption": "Forbes has put the spotlight on 82MAJOR. Read HallyuScope for what the available headline confirms.",
       "seoDescription": "Forbes spotlights K-pop group 82MAJOR in a new introduction. Here’s what the available headline confirms about the group and its coverage.",
-      "sourceNote": "Source: Forbes"
+      "sourceNote": "Source: Forbes",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "1dea4dde23f3",
@@ -559,7 +2272,7 @@
         "title": "Girls' Generation's Taeyeon to release full-length album 'Unspecial' on Nov. 30",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR2R5cXFnXzg5NzMxV1FyazFaSVJXNWxfeVhpTDlLemRGV0RQbzZObVpVTXdSeHU5Yms2TE1HWmN1UnZEaXJCV2lpMjZFOGtCZFAwZTBWLTdiT095bTZxU29mSTNyMXRQLWNIY2docVhoeEJ5NEttVEkzVzRqTGozNEhtWFlWMnpoelhjdzBsV1JxajZkTHFnU2JHYkZ6RjJsMDVQMno5bXI4bVJhcTNvWS1ZZlM5TVJ0enBrLWZSYjRCclBCRVZoYlRoQQ"
       },
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageUrl": "/assets/editorial/1dea4dde23f3.svg",
       "category": "COMEBACK NEWS",
       "headline": "Taeyeon Sets Nov. 30 Release for Full-Length Album ‘Unspecial’",
       "dek": "The Girls’ Generation member will release a full-length album titled ‘Unspecial’ on Nov. 30.",
@@ -569,7 +2282,13 @@
       ],
       "socialCaption": "Taeyeon’s full-length album ‘Unspecial’ is set for Nov. 30. Read HallyuScope for the confirmed release details.",
       "seoDescription": "Girls’ Generation member Taeyeon is set to release her full-length album ‘Unspecial’ on Nov. 30, according to Korea JoongAng Daily.",
-      "sourceNote": "Source: Korea JoongAng Daily"
+      "sourceNote": "Source: Korea JoongAng Daily",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "c79fc5b2e50e",
@@ -584,7 +2303,7 @@
         "title": "Small agencies launch 90% of K-pop groups, but struggle to keep them alive: study",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxNGRxMG5JZTQ0WVZSR3JzcjkxYk5HZGd6SmM0MFNYN081cDVldHY0WXp6ZkpRSnpROU9EbllIMHE4dU9xUU9tZnVvVC1pYlIwR3VvUks3dw"
       },
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageUrl": "/assets/editorial/c79fc5b2e50e.svg",
       "category": "HALLYU NEWS",
       "headline": "Study Finds Small Agencies Launch 90% of K-pop Groups",
       "dek": "A study reported by The Korea Herald highlights the difficulty small agencies face in keeping K-pop groups active.",
@@ -594,7 +2313,13 @@
       ],
       "socialCaption": "Small agencies launch 90% of K-pop groups, a study finds. Read HallyuScope for a brief look at the finding.",
       "seoDescription": "A study reported by The Korea Herald finds that small agencies launch 90% of K-pop groups, but struggle to keep those groups going.",
-      "sourceNote": "Source: The Korea Herald"
+      "sourceNote": "Source: The Korea Herald",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "1cecc7a22fd8",
@@ -609,7 +2334,7 @@
         "title": "Exo proves experience counts in hit-packed tour finale",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zMkx0UGU1UE1oVl9DUWQ5R1hXYzhkbWhoN0pHSHdHUGR2bDN0aWJHVVhoOGhkWjdZby1mZTRwdzJvOFdOZU1DNTVGMFJZc1IycHN3d0VjVQ"
       },
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageUrl": "/assets/editorial/1cecc7a22fd8.svg",
       "category": "CONCERT NEWS",
       "headline": "EXO Close Tour With a Hit-Filled Finale",
       "dek": "EXO’s tour finale brought together a selection of hits, according to The Korea Herald.",
@@ -619,7 +2344,13 @@
       ],
       "socialCaption": "EXO wrapped up their tour with a hit-filled finale. Read on HallyuScope for what The Korea Herald reported.",
       "seoDescription": "EXO closed their tour with a hit-filled finale, according to The Korea Herald, which highlighted the group’s experience in its coverage.",
-      "sourceNote": "Source: The Korea Herald"
+      "sourceNote": "Source: The Korea Herald",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "e6b521706d0f",
@@ -634,7 +2365,7 @@
         "title": "6 Workplace C-Dramas Where Women Took Charge",
         "url": "https://www.soompi.com/article/1883950wpp/6-workplace-c-dramas-where-women-took-charge"
       },
-      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/08002700/As-Beautiful-As-You-Irreplaceable.jpg",
+      "imageUrl": "/assets/editorial/e6b521706d0f.svg",
       "category": "K-DRAMA NEWS",
       "headline": "6 Chinese Workplace Dramas About Women Finding Their Own Paths",
       "dek": "From consulting to law and entrepreneurship, these dramas follow women balancing career ambitions with personal challenges.",
@@ -649,7 +2380,13 @@
       ],
       "socialCaption": "Looking for a C-drama with ambitious women at its center? Explore six workplace stories on HallyuScope.",
       "seoDescription": "Discover six Chinese workplace dramas following women in law, consulting, banking and business as they navigate careers and relationships.",
-      "sourceNote": "Source: Soompi"
+      "sourceNote": "Source: Soompi",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/08002700/As-Beautiful-As-You-Irreplaceable.jpg",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "8777f1471e7f",
@@ -664,7 +2401,7 @@
         "title": "K-Pop Top Ten Chart 1st Week of November 2026",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS0ZqblBTRGFsWDdISXpRUlpoMVVoQVNsaGF1LVZKUnNOTlMxWVFPWWF1a1dpUnBNbS1ZTzlCQm1HNVJJcFhqb0cyc3Ita05rWGphdnM5MmxtRkZqSVJTV2tqLTFyYXAzdW04MnVYOVVWVzJURmU2SFRwalhCYkJXR0tyUVZEWXZvSjVjaHR0bXVSRFZoM0VpTUZGanpHQQ"
       },
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageUrl": "/assets/editorial/8777f1471e7f.svg",
       "category": "TRENDING",
       "headline": "KBS WORLD Radio Lists K-Pop Top Ten Chart for First Week of November 2026",
       "dek": "KBS WORLD Radio has a K-pop top ten chart for the first week of November 2026.",
@@ -674,7 +2411,13 @@
       ],
       "socialCaption": "KBS WORLD Radio’s K-pop top ten chart covers the first week of November 2026. Read HallyuScope’s brief for what the available source confirms.",
       "seoDescription": "KBS WORLD Radio’s K-pop top ten chart covers the first week of November 2026. The available headline does not identify songs, artists or rankings.",
-      "sourceNote": "Source: KBS WORLD Radio"
+      "sourceNote": "Source: KBS WORLD Radio",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "7f1117e35f59",
@@ -689,7 +2432,7 @@
         "title": "Four November K-pop Releases Built Around a Big Idea",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLTBFaUk3QmNDWG1Pc1VDd0gwekJCMmpYUlFwR3JvZmVEdGNHcUR0cHJVbm9UblpkOW9ZcVNNQTc5ZE8zamxvdjR2eGEyWXY0QjlBUWZzcUtQU2p6UXVEc2FCRVVfN3FWek44eUFleWJybTZOcV92bDlzUDdldnhfRWlBVkNuVGs"
       },
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageUrl": "/assets/editorial/7f1117e35f59.svg",
       "category": "COMEBACK NEWS",
       "headline": "Four November K-pop Releases Put Big Ideas in Focus",
       "dek": "Character Media highlights four November K-pop releases built around a central idea.",
@@ -699,7 +2442,13 @@
       ],
       "socialCaption": "Four November K-pop releases share a focus on big ideas. Read the brief on HallyuScope for what’s confirmed.",
       "seoDescription": "Character Media highlights four November K-pop releases built around big ideas. Here’s what the available headline confirms about the feature.",
-      "sourceNote": "Source: Character Media"
+      "sourceNote": "Source: Character Media",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "864eecd51b8d",
@@ -714,7 +2463,7 @@
         "title": "'Taken for granted': When K-pop stars lose devoted supporters",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcTY0SHdReFA0NERlYXVIQXhFU2ZSZW4xT1RBaXFPOWJOeFgxdlNJcW9FVVRfc2VrTjRMeXhtSnM1VzZXbDdyZmFCeVNWOFlkb043dmdHNkRoRXBmQldnUVdORFdZOGVHcGVUR2hSeVY4eXo3a2dZb2R1amd0dXZULUs3RlFVMTZXWDB2blphVFhZRjF6TDRxcmVZclpOZ0JIdEtPd1doU1VxVk4xN21R0gG0AUFVX3lxTE9sR2NCeEd4ZGFBRFNwdXFfc0xzcFFlZ3NyS2JoWWlXZnlvTjFVeW1JREozc2JkZ3JZT29jY2UyYnNyWGxVem5WS1VqaGJoanB2U0tsbVpwYlVfUTQ1dTRFYXZDZ2pQM0dLdTRtZmV2UVpiTWxxLU10dHRJMDVkWTFGV1Z1UjdiTHp1aTRnWTZUVUtHQWVoYjNLNWNFV1p3dFRDZmYtM0YwWDdDajBjem5Pa2JEMw"
       },
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageUrl": "/assets/editorial/864eecd51b8d.svg",
       "category": "HALLYU NEWS",
       "headline": "The Korea Times Examines K-pop Stars Losing Devoted Fans",
       "dek": "A Korea Times report looks at what happens when K-pop stars lose the support of devoted fans.",
@@ -724,7 +2473,13 @@
       ],
       "socialCaption": "A Korea Times report examines K-pop stars losing devoted fans. Read HallyuScope’s brief for what the headline tells us.",
       "seoDescription": "The Korea Times examines K-pop stars losing devoted supporters in a report framed around fans being taken for granted. Read HallyuScope’s brief.",
-      "sourceNote": "Source: The Korea Times"
+      "sourceNote": "Source: The Korea Times",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "761fd222c466",
@@ -739,7 +2494,7 @@
         "title": "BLACKPINK's Jisoo signs with Hollywood agency WME",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb0U0REVubFBzM1FkM093TzcxWEZIeWFxLXRpNW11TXpxRnc1alM3VDJNdTlMLTNJWE5icG82LThkY1ZtNWt5SkZFVjBOangzTjA2dl9ubXlwZ3I3MGFxVC13RzV3MVZONkxMclV1N3JUTlpOWnM3d1dfUlVScFVWX28yYzlaNEl1amEyck1jcWp6T3hwRkRJMUxrdXlmRTQzMVA4UFU1NENOZ9IBrwFBVV95cUxPallpQ2FLRmNhb0g2cFo5OE05ZEFITVNSTkRqaXVVX2VkcFBsbkdsMXFzNno4V1BLWE1OekRneWxVaEsxakoza0tTOU11clc3dGNlWXZyWXRTQWlzdmN6YjNXUDh0dTJjWno5dFJRYXR4Y2RNOVJNc2tFSG50TDVBY0hHWFBJQTdZeC1lbGJvekJsVWp2bjlQdlRMWGdwMEQ4dVVVVDJUaHpQSGlONTVZ"
       },
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageUrl": "/assets/editorial/761fd222c466.svg",
       "category": "HALLYU NEWS",
       "headline": "BLACKPINK’s Jisoo Signs With WME",
       "dek": "The BLACKPINK member has signed with Hollywood agency WME, according to The Korea Times.",
@@ -749,7 +2504,13 @@
       ],
       "socialCaption": "BLACKPINK’s Jisoo has signed with WME. Read the confirmed details on HallyuScope.",
       "seoDescription": "BLACKPINK member Jisoo has signed with Hollywood agency WME, according to The Korea Times. Here’s what the report’s headline confirms.",
-      "sourceNote": "Source: The Korea Times"
+      "sourceNote": "Source: The Korea Times",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "64c096daa560",
@@ -764,7 +2525,7 @@
         "title": "\"Namjooning\" at Stanford: BTS' RM Inspires a Course on Well-Being",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObmNvbUJHUUNFNWM5bmxYS0RCRl9oSzJXXzJRbmxBR2F6emZqTkZwN1pad1I5NjNkLUlTSEhpaTNLVFYweHFFWEFGZ2hWOURoRFctd0ZMamVKV1RGUTlKMW9XT0NvRmVzcGJtaXlFWDVGMFQzZXFWNEFEdFNQY3o2RmNaOXIya0pTMG1NLUFnamxtc0JLQWVkTTRaQQ"
       },
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageUrl": "/assets/editorial/64c096daa560.svg",
       "category": "HALLYU NEWS",
       "headline": "BTS’ RM Inspires Stanford Course on Well-Being",
       "dek": "A Stanford course on well-being draws inspiration from BTS member RM, according to Daily Tribune.",
@@ -774,7 +2535,13 @@
       ],
       "socialCaption": "A Stanford well-being course takes inspiration from BTS’ RM. Read on HallyuScope for what’s been reported.",
       "seoDescription": "BTS member RM has inspired a Stanford course on well-being, according to Daily Tribune. Here’s what the available source headline says.",
-      "sourceNote": "Source: Daily Tribune"
+      "sourceNote": "Source: Daily Tribune",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "454a9e9230f2",
@@ -789,7 +2556,7 @@
         "title": "2026 SBS Gayo Daejeon Announces MC Lineup",
         "url": "https://www.soompi.com/article/1885162wpp/2026-sbs-gayo-daejeon-announces-mc-lineup"
       },
-      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09121124/sbs-gayo-daejeon-mc.png",
+      "imageUrl": "/assets/editorial/454a9e9230f2.svg",
       "category": "HALLYU NEWS",
       "headline": "SBS Gayo Daejeon Reveals Hosts for Two-Day 2026 Festival",
       "dek": "Six K-pop stars will host the festival across December 24 and 25 at KINTEX in Ilsan.",
@@ -804,9 +2571,10 @@
       "imageType": "hallyuscope_original",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
-      "reviewedAt": "2026-11-09T13:10:42.877Z"
+      "reviewedAt": "2026-11-09T13:10:42.877Z",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09121124/sbs-gayo-daejeon-mc.png"
     },
     {
       "id": "83cc7ae8b16d",
@@ -821,7 +2589,7 @@
         "title": "Watch: Kim Woo Bin And Seo Eun Soo Test If Talent Or Effort Is More Important In New Drama “GIFT” Teaser",
         "url": "https://www.soompi.com/article/1885150wpp/kim-woo-bin-and-seo-eun-soo-test-if-talent-or-effort-is-more-important-in-new-drama-gift-teaser"
       },
-      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09115525/gift-drama_c8017b.jpg",
+      "imageUrl": "/assets/editorial/83cc7ae8b16d.svg",
       "category": "COMEBACK NEWS",
       "headline": "Kim Woo Bin and Seo Eun Soo Weigh Talent Against Effort in New ‘GIFT’ Teaser",
       "dek": "The upcoming tvN sports drama follows a former professional baseball coach who takes charge of the nation’s lowest-ranked high school team.",
@@ -833,7 +2601,13 @@
       ],
       "socialCaption": "Talent or effort? Kim Woo Bin and Seo Eun Soo take on the question in the new “GIFT” teaser. Read more about the drama on HallyuScope.",
       "seoDescription": "Kim Woo Bin and Seo Eun Soo consider talent versus effort in a new teaser for tvN sports drama “GIFT,” premiering December 5 at 9:10 p.m. KST.",
-      "sourceNote": "Source: Soompi"
+      "sourceNote": "Source: Soompi",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09115525/gift-drama_c8017b.jpg",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "f4aa8a7f60fc",
@@ -848,7 +2622,7 @@
         "title": "Disney’s ‘Hexed’ and K-pop Group RESCENE Unveil Teaser for New Song ‘With’ Music Video",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84eTNBV3hWRlpvUDdTWVF5c2lwSGNzazZkRVZwb01fZ0lTdUZnUGFrcHJiS1ZaNDNHSF9VVmZPakI3TjJQRUFnQVRRMkxudklPbldUU1lWSG5jY2c"
       },
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageUrl": "/assets/editorial/f4aa8a7f60fc.svg",
       "category": "COMEBACK NEWS",
       "headline": "RESCENE and Disney’s ‘Hexed’ Unveil ‘With’ Music Video Teaser",
       "dek": "A teaser for the music video for the new song “With” has been unveiled by Disney’s “Hexed” and K-pop group RESCENE.",
@@ -858,7 +2632,13 @@
       ],
       "socialCaption": "RESCENE and Disney’s “Hexed” have unveiled a teaser for “With.” Read HallyuScope for the details available so far.",
       "seoDescription": "RESCENE and Disney’s “Hexed” have unveiled a teaser for the music video for the new song “With,” according to Korean publisher 씨네플레이.",
-      "sourceNote": "Source: 씨네플레이"
+      "sourceNote": "Source: 씨네플레이",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "24d4348bf33a",
@@ -873,7 +2653,7 @@
         "title": "Red Velvet’s Wendy to release fourth solo EP ‘Gleam Hour’ on Nov. 23",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQajhxejRWdjJGd0ljb2k5SDNXTzJjR2xtWllnYWZqR2M4NjhCSDIzb2cwblhWZHNmdGI4Z1EtVFZPWnQ5V1VwRlNGTm55blRJblhVcHFDMFJ1Q1pwcmdLSzB0R1FrZ3locEw2N3dKZ0pnZUtRN0hnQ0hFSGJ5SDlTanZlc2dRWS1sUnhEcy1TTjVYQ3hmMzNGWXd2VDFWNDk5LWhiR1RCa0hMRTR0YU11MGFNcHpIeGdpZGFtVkFXaw"
       },
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageUrl": "/assets/editorial/24d4348bf33a.svg",
       "category": "COMEBACK NEWS",
       "headline": "Wendy Sets Nov. 23 Release for Fourth Solo EP ‘Gleam Hour’",
       "dek": "The Red Velvet member’s upcoming release will be her fourth solo EP.",
@@ -883,7 +2663,13 @@
       ],
       "socialCaption": "Wendy’s fourth solo EP, “Gleam Hour,” is set for Nov. 23. Read HallyuScope for the release details.",
       "seoDescription": "Red Velvet’s Wendy is set to release “Gleam Hour” on Nov. 23. The upcoming project will be the K-pop singer’s fourth solo EP.",
-      "sourceNote": "Source: Korea JoongAng Daily"
+      "sourceNote": "Source: Korea JoongAng Daily",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "f22b93958fea",
@@ -898,7 +2684,7 @@
         "title": "Stanford University offers 'Namjooning' course inspired by BTS' RM https://www.gmanetwork.com/news/showbiz/showbizabroad/1008792/stanford-university-offers-namjooning-course-inspired-by-bts-rm/story/",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMUd4MEVrZGJLV0hGam1sczFadkQzOGQtTXAxaEFpT1dEa0F2SW56MW9jZlNNLVp1aF9KTXR6blB1YzRpRnB0ajQwYXdvX0VSVEZ1R0hPc25rT0I1bjlRTnFXeXk3ajBNVE5YMUtINVVoMEJSUks4OE5GRVRhbEMtMGpCWHNWS1NIbHZMaE80d2t5QzIwZ3l1X0YxUzZ2dzllRzJyRXZLUlFQNTJjT2dFaEhyc2hlNnE2VUoxcw"
       },
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageUrl": "/assets/editorial/f22b93958fea.svg",
       "category": "HALLYU NEWS",
       "headline": "Stanford Offers ‘Namjooning’ Course Inspired by BTS’ RM",
       "dek": "A course at Stanford University takes inspiration from BTS member RM.",
@@ -908,7 +2694,13 @@
       ],
       "socialCaption": "Stanford is offering a course inspired by BTS’ RM. Read HallyuScope for what’s confirmed so far.",
       "seoDescription": "Stanford University is offering a ‘Namjooning’ course inspired by BTS member RM. Here’s what the available source headline confirms so far.",
-      "sourceNote": "Source: Facebook"
+      "sourceNote": "Source: Facebook",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "78c532874de0",
@@ -923,7 +2715,7 @@
         "title": "Australian Box Office: Stray Kids Concert Film Lands in Top 10",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV2htYjM4REpkVldLaDZrZ3ZNWmxHSkQ1aUU3c29KZXdRYXJoX1ozWlFMREg2X3JQZlNUNEd2Ny16U3B3QmZtQ19HSzlibmJXOHRPclVkUW9VdDBqUlVuUHJmOW1HbkdGX3QyeFRPQnBnM09wZjhoc000ekUySTUzYWc3NFJnaGtTOHNIcVZBMWdwOUMtNGJuT0RuUTV1ZVlua01CbDQ0R3N4UEd5OTFsSTZR"
       },
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageUrl": "/assets/editorial/78c532874de0.svg",
       "category": "CONCERT NEWS",
       "headline": "Stray Kids Concert Film Reaches Australian Box Office Top 10",
       "dek": "A Stray Kids concert film has landed among the top 10 titles at the Australian box office, according to Rolling Stone Australia.",
@@ -933,7 +2725,13 @@
       ],
       "socialCaption": "A Stray Kids concert film has reached Australia’s box office top 10. Read HallyuScope’s brief for the confirmed details.",
       "seoDescription": "A Stray Kids concert film has landed in the Australian box office top 10, according to a report from Rolling Stone Australia. Read the brief.",
-      "sourceNote": "Source: Rolling Stone Australia"
+      "sourceNote": "Source: Rolling Stone Australia",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "0405ba86440b",
@@ -948,7 +2746,7 @@
         "title": "JYP's new K-pop boy band oftheblue to debut next year",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY0U5OE9KUDlTWGNRakRPcDRlY2FfcXlkTDdNMlQxZi1HWHlBR0NIWnNSUjFRZlJqbXdSTVFiU20yek80ZE5tYmlIbDJSTzBOXy00STJHdXI1aHUxeG1UU1dXZUhIcUwwX2Ytd1ZXeFhmZVJhTkZsX2FrTUJxYUVJUzJmRWFKbGdZZTJua2RmTl9aSW11X1pYWXZBdU1LaldvT2NZc3Zla3h5aGhvd1VF0gG0AUFVX3lxTFA5YUFjUWNMY0RTX0Z3R1czSUNMUWxoeEtVcEx6ZllRZlFJMHg1WUIyUkxLNEhZYW41VmRmanRZclBDVEFnT1k2VGpGdzB1ZTRnUE80emE1NHVjSnhEXzlpSjg4LUh6Qlp0cnpxRkpMR01lOHR2Zk0wVkFVRmg0LURXTkc2SjVGUDU3VjdkYkdRQzVNU0plLXlLVkNKa3F6ZEh3d2xaM2VxSy1mZW5jOTVhQnhtVQ"
       },
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageUrl": "/assets/editorial/0405ba86440b.svg",
       "category": "HALLYU NEWS",
       "headline": "JYP Boy Band oftheblue Set to Debut Next Year",
       "dek": "JYP’s new K-pop boy band oftheblue is set to make its debut next year, according to The Korea Times.",
@@ -958,7 +2756,13 @@
       ],
       "socialCaption": "JYP’s new boy band oftheblue is set to debut next year. Read HallyuScope for what the report confirms.",
       "seoDescription": "JYP’s new K-pop boy band oftheblue is set to debut next year, according to The Korea Times. Here’s what the report’s headline confirms.",
-      "sourceNote": "Source: The Korea Times"
+      "sourceNote": "Source: The Korea Times",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "fda01cece13c",
@@ -973,7 +2777,7 @@
         "title": "Concert Film 'Twice: This Is For... You' Acquired by Crosswalk, UPCG",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTEhhZGI2eU5vWnhUbURhWVFlSW14anZrc0NTd2ZoNFdEeGlWbTFOY2M2M2FOMjBZR2FfaUZJUkYyY0h6OC11cl9wbnREMEMwc09FM3Yxb1I1WHhJa21KYjFWOVN6d1YzOUd4ZmFEal84c1ZMZnliOC1pX2E2TVNlLXBwOEQwQmNGOFVPallIZ3dPcVN2cTRHNWVvcFY3Qzlt"
       },
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageUrl": "/assets/editorial/fda01cece13c.svg",
       "category": "CONCERT NEWS",
       "headline": "Crosswalk and UPCG Acquire TWICE Concert Film",
       "dek": "Variety reports that Crosswalk and UPCG have acquired the concert film “Twice: This Is For... You.”",
@@ -983,7 +2787,13 @@
       ],
       "socialCaption": "Crosswalk and UPCG have acquired a TWICE concert film. Read HallyuScope’s brief for what has been confirmed.",
       "seoDescription": "Crosswalk and UPCG have acquired the TWICE concert film “Twice: This Is For... You,” according to a report from entertainment publication Variety.",
-      "sourceNote": "Source: Variety"
+      "sourceNote": "Source: Variety",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "4c5bba5d6457",
@@ -998,7 +2808,7 @@
         "title": "Chinese actor and former PENTAGON member Yan An has steadily transitioned from K-pop to acting, building his screen presence with each new project. Read more in the comments section.",
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbVNidkE0ekFhNHNjTlFkdmNEYlpBcUlTNnU2cjlvODhCSmRIVGdEbHIySEJHWDdYQ3hVXzdVTkNNZzFvT21SYXlGN3ViVmNiSXdub1A3bHpMTzAyc215UXRkWFdxb3J1UW1QUU5jeVZSMXgyRWhwRTgxSm5GZUJCS0pDZ01wcF9KaXd1aHpfb0w2SDdTUVpqUll4Ty0yLVhNdU01OFc0U2EwbVR1azctYlc1XzNMaW1xbTBZMDd2bzY4aEM5c2FhRGZZVy0xR1pCckhEM0dtOA"
       },
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageUrl": "/assets/editorial/4c5bba5d6457.svg",
       "category": "K-DRAMA NEWS",
       "headline": "Former PENTAGON Member Yan An Builds Acting Career",
       "dek": "Chinese actor Yan An has been developing his screen career after his time in K-pop group PENTAGON.",
@@ -1009,7 +2819,13 @@
       ],
       "socialCaption": "Former PENTAGON member Yan An is building his screen career. Read HallyuScope’s brief for the details available so far.",
       "seoDescription": "Former PENTAGON member Yan An is building his acting career. Here’s what the available source says about the Chinese actor’s move from K-pop to the screen.",
-      "sourceNote": "Source: Facebook"
+      "sourceNote": "Source: Facebook",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "c778da60f638",
@@ -1024,7 +2840,7 @@
         "title": "CORTIS, Stray Kids, NMIXX, SEVENTEEN’s JxJ, K/DA, ILLIT, ENHYPEN, BTS, And More Sweep Top Spots On Billboard World Albums Chart",
         "url": "https://www.soompi.com/article/1885130wpp/cortis-stray-kids-nmixx-seventeens-jxj-k-da-illit-enhypen-bts-and-more-sweep-top-spots-on-billboard-world-albums-chart"
       },
-      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09083205/CORTIS-Stray-Kids-NMIXX-JxJ.jpg",
+      "imageUrl": "/assets/editorial/c778da60f638.svg",
       "category": "COMEBACK NEWS",
       "headline": "CORTIS Returns to No. 1 on Billboard World Albums Chart as NMIXX and JxJ Debut",
       "dek": "GREENGREEN leads the chart for a sixth week, while new releases from NMIXX, SEVENTEEN’s JxJ, K/DA and ILLIT enter the top 10.",
@@ -1039,7 +2855,13 @@
       ],
       "socialCaption": "CORTIS is back at No. 1, with NMIXX and JxJ among the chart’s new arrivals. Read HallyuScope for the full rundown.",
       "seoDescription": "CORTIS leads Billboard’s World Albums chart as NMIXX, SEVENTEEN’s JxJ, K/DA and ILLIT debut in the top 10. See where other albums ranked.",
-      "sourceNote": "Source: Soompi"
+      "sourceNote": "Source: Soompi",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09083205/CORTIS-Stray-Kids-NMIXX-JxJ.jpg",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "9d079c908a31",
@@ -1054,7 +2876,7 @@
         "title": "'Growl' in school uniforms? That's just unfair... EXO shakes KSPO Dome with K-pop's national anthem (Full report)",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43VWR5cktpdW10QW5WVUNDOEN1U2kwZW05Q0hvRDRyZUZZN2tiWlJlc0laWnNzeUhiVDJpSU9KNUxxXzFyM3BGX3J5bGVOeUFGcHhLSmhEUnVzWV9lT3daRVRKYTd2X0RhN0VCRXdXMFJ2TXktdUo3NEs0dDZQUQ"
       },
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageUrl": "/assets/editorial/9d079c908a31.svg",
       "category": "HALLYU NEWS",
       "headline": "EXO Brings ‘Growl’ to KSPO Dome in School Uniforms",
       "dek": "EXO performed its hit “Growl” at KSPO Dome wearing school uniforms, 스포츠조선 reported.",
@@ -1064,7 +2886,13 @@
       ],
       "socialCaption": "EXO brought “Growl” to KSPO Dome in school uniforms. Read HallyuScope’s brief for what was reported.",
       "seoDescription": "EXO performed “Growl” in school uniforms at KSPO Dome, according to 스포츠조선. Read HallyuScope’s brief on the reported performance.",
-      "sourceNote": "Source: 스포츠조선"
+      "sourceNote": "Source: 스포츠조선",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "6e12e6c21172",
@@ -1079,7 +2907,7 @@
         "title": "Watch: XLOV Takes Off Their Makeup In &#8220;The Manager&#8221; Preview",
         "url": "https://www.soompi.com/article/1885123wpp/watch-xlov-takes-off-their-makeup-in-the-manager-preview"
       },
-      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09073009/XLOV-The-Manager.jpg",
+      "imageUrl": "/assets/editorial/6e12e6c21172.svg",
       "category": "HALLYU NEWS",
       "headline": "XLOV Remove Their Makeup in Preview for MBC’s ‘The Manager’",
       "dek": "The group will appear as guests on the reality show, with their episode set to air on November 14.",
@@ -1090,7 +2918,13 @@
       ],
       "socialCaption": "XLOV show a glimpse of life away from the stage in a new “The Manager” preview. Read on HallyuScope for the episode details.",
       "seoDescription": "XLOV remove their makeup and reflect on self-expression in a preview for MBC’s “The Manager.” Find out when the group’s episode will air.",
-      "sourceNote": "Source: Soompi"
+      "sourceNote": "Source: Soompi",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09073009/XLOV-The-Manager.jpg",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "0c40e3daab95",
@@ -1105,7 +2939,7 @@
         "title": "Watch: ATEEZ Takes &#8220;Knowing Bros&#8221; By Storm In Fun Preview",
         "url": "https://www.soompi.com/article/1885120wpp/watch-ateez-takes-knowing-bros-by-storm-in-fun-preview"
       },
-      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09070452/ATEEZ-Knowing-Bros.jpg",
+      "imageUrl": "/assets/editorial/0c40e3daab95.svg",
       "category": "TRENDING",
       "headline": "ATEEZ Previews ‘Knowing Bros’ Appearance Without Hongjoong and Wooyoung",
       "dek": "ATEEZ joins the JTBC variety show for dancing and games in a preview of the November 14 episode.",
@@ -1118,7 +2952,13 @@
       ],
       "socialCaption": "ATEEZ is heading to “Knowing Bros.” Read on HallyuScope for the preview highlights and broadcast time.",
       "seoDescription": "ATEEZ brings dancing and games to a new ‘Knowing Bros’ preview. Hongjoong and Wooyoung sat out the appearance for health reasons.",
-      "sourceNote": "Source: Soompi"
+      "sourceNote": "Source: Soompi",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09070452/ATEEZ-Knowing-Bros.jpg",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "ed8de4e4dd9d",
@@ -1133,7 +2973,7 @@
         "title": "ILLIT Debuts At No. 1 On Billboard Top Album Sales Chart + No. 6 On Billboard 200 With &#8220;BREAK EVEN&#8221;",
         "url": "https://www.soompi.com/article/1885116wpp/illit-debuts-at-no-1-on-billboard-top-album-sales-chart-no-6-on-billboard-200-with-break-even"
       },
-      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09062158/ILLIT_aa5c07.jpeg",
+      "imageUrl": "/assets/editorial/ed8de4e4dd9d.svg",
       "category": "COMEBACK NEWS",
       "headline": "ILLIT Earns First Billboard 200 Top 10 Entry With ‘BREAK EVEN’",
       "dek": "The mini album also opened at No. 1 on Billboard’s Top Album Sales chart, marking another first for the group.",
@@ -1145,7 +2985,13 @@
       ],
       "socialCaption": "ILLIT has reached the Billboard 200 top 10 for the first time. Read HallyuScope for the chart and sales breakdown.",
       "seoDescription": "ILLIT’s “BREAK EVEN” debuts at No. 6 on the Billboard 200 and No. 1 on Top Album Sales, giving the group two new chart milestones in the U.S.",
-      "sourceNote": "Source: Soompi"
+      "sourceNote": "Source: Soompi",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09062158/ILLIT_aa5c07.jpeg",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "470b81f69755",
@@ -1160,7 +3006,7 @@
         "title": "xikers Achieves Career High With 1st-Week Sales For &#8220;ROUTE ZERO : The CALLING&#8221;",
         "url": "https://www.soompi.com/article/1885113wpp/xikers-achieves-career-high-with-1st-week-sales-for-route-zero-the-calling"
       },
-      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09053023/xikers.jpeg",
+      "imageUrl": "/assets/editorial/470b81f69755.svg",
       "category": "HALLYU NEWS",
       "headline": "xikers Sets New First-Week Sales Record With ‘ROUTE ZERO : The CALLING’",
       "dek": "The mini album sold 370,935 copies in its first week, surpassing xikers’ previous personal best.",
@@ -1171,7 +3017,13 @@
       ],
       "socialCaption": "xikers has a new first-week sales high. Read HallyuScope for the numbers behind the group’s latest record.",
       "seoDescription": "xikers sets a new first-week sales record with 370,935 copies of “ROUTE ZERO : The CALLING,” topping its previous mini album’s total.",
-      "sourceNote": "Source: Soompi"
+      "sourceNote": "Source: Soompi",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09053023/xikers.jpeg",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "47e7378c211b",
@@ -1186,7 +3038,7 @@
         "title": "ILLIT Breaks Their 1st-Week Sales Record With &#8220;BREAK EVEN&#8221;",
         "url": "https://www.soompi.com/article/1885108wpp/illit-breaks-their-1st-week-sales-record-with-break-even"
       },
-      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09051751/ILLIT_3c0580.jpeg",
+      "imageUrl": "/assets/editorial/47e7378c211b.svg",
       "category": "HALLYU NEWS",
       "headline": "ILLIT Sets New First-Week Sales Best With ‘BREAK EVEN’",
       "dek": "The group’s fifth mini album sold 444,072 copies in its first week, according to Hanteo Chart.",
@@ -1198,7 +3050,13 @@
       ],
       "socialCaption": "ILLIT has a new first-week sales record with “BREAK EVEN.” Read HallyuScope for the numbers behind the group’s latest milestone.",
       "seoDescription": "ILLIT’s fifth mini album, BREAK EVEN, sold 444,072 copies in its first week, surpassing the K-pop group’s previous personal record on Hanteo Chart.",
-      "sourceNote": "Source: Soompi"
+      "sourceNote": "Source: Soompi",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09051751/ILLIT_3c0580.jpeg",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "d5ac332d7305",
@@ -1213,7 +3071,7 @@
         "title": "CORTIS&#8217;s &#8220;GREENGREEN&#8221; Re-Enters Billboard 200 6 Months After Its Release",
         "url": "https://www.soompi.com/article/1885104wpp/cortiss-greengreen-re-enters-billboard-200-6-months-after-its-release"
       },
-      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09050143/CORTIS.jpg",
+      "imageUrl": "/assets/editorial/d5ac332d7305.svg",
       "category": "COMEBACK NEWS",
       "headline": "CORTIS’ ‘GREENGREEN’ Returns to Billboard 200 at No. 90",
       "dek": "The group’s second EP re-entered the U.S. albums chart six months after its release and returned to No. 1 on World Albums.",
@@ -1226,7 +3084,13 @@
       ],
       "socialCaption": "CORTIS’ “GREENGREEN” is back on the Billboard 200. Read HallyuScope for its latest chart results.",
       "seoDescription": "CORTIS’ second EP, GREENGREEN, re-enters the Billboard 200 at No. 90 and returns to No. 1 on World Albums six months after its release.",
-      "sourceNote": "Source: Soompi"
+      "sourceNote": "Source: Soompi",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09050143/CORTIS.jpg",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "516e2d94eca4",
@@ -1241,7 +3105,7 @@
         "title": "BLACKPINK&#8217;s Lisa Debuts In Top 35 Of Billboard 200 With &#8220;PRESS PLAY&#8221;",
         "url": "https://www.soompi.com/article/1885099wpp/blackpinks-lisa-debuts-in-top-35-of-billboard-200-with-press-play"
       },
-      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09043714/Lisa.jpeg",
+      "imageUrl": "/assets/editorial/516e2d94eca4.svg",
       "category": "TRENDING",
       "headline": "BLACKPINK’s Lisa Lands Second Billboard 200 Entry With ‘PRESS PLAY’",
       "dek": "The solo EP opened at No. 35 on the Billboard 200, while Lisa also returned to the Artist 100.",
@@ -1253,7 +3117,13 @@
       ],
       "socialCaption": "Lisa’s ‘PRESS PLAY’ has debuted on the Billboard 200. Read on HallyuScope for the EP’s chart results.",
       "seoDescription": "BLACKPINK’s Lisa debuts at No. 35 on the Billboard 200 with ‘PRESS PLAY.’ See where the EP and its singles landed on other Billboard charts.",
-      "sourceNote": "Source: Soompi"
+      "sourceNote": "Source: Soompi",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09043714/Lisa.jpeg",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "1935815b3164",
@@ -1268,7 +3138,7 @@
         "title": "Red Velvet&#8217;s Wendy Announces November Comeback With Schedule For &#8220;Gleam Hour&#8221;",
         "url": "https://www.soompi.com/article/1885066wpp/red-velvets-wendy-announces-november-comeback-with-schedule-for-gleam-hour"
       },
-      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09005948/Wendy.jpeg",
+      "imageUrl": "/assets/editorial/1935815b3164.svg",
       "category": "COMEBACK NEWS",
       "headline": "Red Velvet’s Wendy Sets November Release for Fourth Solo Mini Album ‘Gleam Hour’",
       "dek": "Wendy will release her fourth solo mini album, “Gleam Hour,” on November 23.",
@@ -1279,7 +3149,13 @@
       ],
       "socialCaption": "Wendy’s fourth solo mini album is on the way. Read on HallyuScope for the release details.",
       "seoDescription": "Red Velvet’s Wendy has announced her fourth solo mini album, “Gleam Hour,” along with a comeback schedule. The album arrives on November 23 at 6 p.m. KST.",
-      "sourceNote": "Source: Soompi"
+      "sourceNote": "Source: Soompi",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09005948/Wendy.jpeg",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     },
     {
       "id": "9a99197f587f",
@@ -1294,7 +3170,7 @@
         "title": "THIS WEEK IN K-POP: Ranking the New Releases from November 1 – 7",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWlAyMkhMeVVLVHhhVkdUV216eXpVajhKeTN5bkRaNEpkR3N4UjJDWDFHdlpyZE94VWhRa3JvVWh2QmtMWnVJMlhrQTlOVGVsNGVfN0pmajhXaGFGMTNyT1B6TXVIM09qYWlXM2hqM0JEMENZNXUwdHItRkxrTTNpWW9haTM4U2dyUGE3WlFDeWN3cVdMQjFBVzJyRktPZw"
       },
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageUrl": "/assets/editorial/9a99197f587f.svg",
       "category": "COMEBACK NEWS",
       "headline": "The Bias List Ranks K-Pop Releases From November 1–7",
       "dek": "The weekly roundup covers new K-pop releases from the first week of November.",
@@ -1305,7 +3181,13 @@
       ],
       "socialCaption": "The Bias List has ranked new K-pop releases from November 1–7. Read HallyuScope’s brief for what’s confirmed about the roundup.",
       "seoDescription": "The Bias List has published a ranking of new K-pop releases from November 1–7. Here’s what is confirmed about the weekly music roundup.",
-      "sourceNote": "Source: The Bias List"
+      "sourceNote": "Source: The Bias List",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      }
     }
   ]
 }

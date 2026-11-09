@@ -1,13 +1,304 @@
 {
-  "updatedAt": "2026-11-09T12:33:45.792Z",
+  "updatedAt": "2026-11-09T19:52:45.010Z",
   "note": "Additive social review queue. Existing live site data files are unchanged.",
   "items": [
+    {
+      "id": "511d08572eba",
+      "title": "GIRLSET \"young & dumb\" MV Trailer",
+      "url": "https://www.youtube.com/watch?v=54bp9b_7EcQ",
+      "publishedAt": "2026-11-09T18:00:00.000Z",
+      "source": "JYP Entertainment",
+      "sourceClass": "official",
+      "confidence": "primary",
+      "sourceId": "jyp-entertainment-youtube",
+      "articleUrl": "https://www.youtube.com/undefined",
+      "imageUrl": null,
+      "social": {
+        "category": "COMEBACK NEWS",
+        "headline": "GIRLSET \"YOUNG & DUMB\" MV TRAILER",
+        "status": "needs_image",
+        "canvaFields": {
+          "Category": "COMEBACK NEWS",
+          "Headline": "GIRLSET \"YOUNG & DUMB\" MV TRAILER",
+          "FeatureImage": null
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "9c525233807e",
+      "title": "KPop Demon Hunters x heyday collection at Target: Even more limited-edition gear and tech is released in drop 2",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVXBVYUdqSDM3Y0wzSWU5VmViaE9DWHJJMjdlMHBtWnN1N1JZUnFVbDB4X3ZjS3BZbGlQcFQxYVIwRzJ3UmdrRmNscGtGZHVDOEd0cjEtUHk4ODdSVVNlbFpicVpIUVQ4N1lxZkJDR3R3UEVNYkloVzBuZUFwUmJ3V0ZFU2RLMTNwWEZzWkM2a25YSXozN0lkQmxNTDBIcXRjTTdMOVlsRzVWSGs4WllvSjNkekJSM25WSVJyNjNqY1FDcEHSAcgBQVVfeXFMUExQNV9NU196TEtkaFdQd3p6dWNYRjdYcE43cWFZMWJaOU95QjVPLXpra1VSMkFraWt0XzZ4MEtJaWhvakhjMjZVNFZyTzlBNXgzMncwdFNUWVRHazJWbXBsTVE3aHFuS0xUcUlXRFVvZlpxVmNKZjh3c1k0QWlBR2taa1oyQm5Tc2VzMDF5VXFyaWVOdkN3dVRDS0dLVkhLdlZ1RG9CNkdpamI4dHduVWt3TU9CbzNydDFqSnp4TmthWjQtQU9vdDI?oc=5",
+      "publishedAt": "2026-11-09T16:38:08.000Z",
+      "source": "ABC7 Los Angeles",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVXBVYUdqSDM3Y0wzSWU5VmViaE9DWHJJMjdlMHBtWnN1N1JZUnFVbDB4X3ZjS3BZbGlQcFQxYVIwRzJ3UmdrRmNscGtGZHVDOEd0cjEtUHk4ODdSVVNlbFpicVpIUVQ4N1lxZkJDR3R3UEVNYkloVzBuZUFwUmJ3V0ZFU2RLMTNwWEZzWkM2a25YSXozN0lkQmxNTDBIcXRjTTdMOVlsRzVWSGs4WllvSjNkekJSM25WSVJyNjNqY1FDcEHSAcgBQVVfeXFMUExQNV9NU196TEtkaFdQd3p6dWNYRjdYcE43cWFZMWJaOU95QjVPLXpra1VSMkFraWt0XzZ4MEtJaWhvakhjMjZVNFZyTzlBNXgzMncwdFNUWVRHazJWbXBsTVE3aHFuS0xUcUlXRFVvZlpxVmNKZjh3c1k0QWlBR2taa1oyQm5Tc2VzMDF5VXFyaWVOdkN3dVRDS0dLVkhLdlZ1RG9CNkdpamI4dHduVWt3TU9CbzNydDFqSnp4TmthWjQtQU9vdDI",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "COMEBACK NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "COMEBACK NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "534b5f259225",
+      "title": "Korean orgs reject idea of ‘oppressive control’ in K-pop industry",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZVIxLU5WSVZkcGpHUlNrUG9MOUJyQ1oySjh6eGQzS0Ytdjk2ZDNzLTFPTGEwV1ZHSjZpX0VkNnRIS3JmNmxvUVBBWlFqQkctNjBqVnJYcC1zdC1RcVpIQndxYWMwNUliMXR3QjN4cXg1eFBDcDJfdEpjRkJpbFdEc2paV2hUMW5CMzZQTDV0Um05SXZPSzhqQ3dOa0JNdVZ5?oc=5",
+      "publishedAt": "2026-11-09T16:32:39.000Z",
+      "source": "IQ Magazine",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "articleUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZVIxLU5WSVZkcGpHUlNrUG9MOUJyQ1oySjh6eGQzS0Ytdjk2ZDNzLTFPTGEwV1ZHSjZpX0VkNnRIS3JmNmxvUVBBWlFqQkctNjBqVnJYcC1zdC1RcVpIQndxYWMwNUliMXR3QjN4cXg1eFBDcDJfdEpjRkJpbFdEc2paV2hUMW5CMzZQTDV0Um05SXZPSzhqQ3dOa0JNdVZ5",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "d229c5df4a84",
+      "title": "AIA gathers 7,000 in South Korea for K-Pop concert",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRjdpdGRTRS1VRFNBcEs2NGZydTBjTW5KWnRYQ2xkZl9Ra1NPcm82VDZyRENfSDhlaDJoakdCRXlfeDdYR0xLODNnMnl0SzB0SUxBdzZNSWVPZ0dISUR3U2pIX1h3cC1MWG5KVmlBclRpazRraFhCNURrcWlzUzBsRDhxU3RmRk1ObGfSAZcBQVVfeXFMTU93QkRzcktuWi1EVWVBN2FrV0xORU9kYUZ5YmVZQk01cjlSZC14S1JUdjU3ako5TWMyeGZJMkhValBlaVkzZTZFaEE3ZjVCXzgySVEyZ0NQU0tIekhXc2V5eHNCYnR4YTVpUS1oR0JQWmltTkRQdXUtcVB0RUdtcHk4Z0l5UEZqTGtDa2VDeEg1Z0REXzZIYw?oc=5",
+      "publishedAt": "2026-11-09T16:21:51.000Z",
+      "source": "SunStar Publishing Inc.",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRjdpdGRTRS1VRFNBcEs2NGZydTBjTW5KWnRYQ2xkZl9Ra1NPcm82VDZyRENfSDhlaDJoakdCRXlfeDdYR0xLODNnMnl0SzB0SUxBdzZNSWVPZ0dISUR3U2pIX1h3cC1MWG5KVmlBclRpazRraFhCNURrcWlzUzBsRDhxU3RmRk1ObGfSAZcBQVVfeXFMTU93QkRzcktuWi1EVWVBN2FrV0xORU9kYUZ5YmVZQk01cjlSZC14S1JUdjU3ako5TWMyeGZJMkhValBlaVkzZTZFaEE3ZjVCXzgySVEyZ0NQU0tIekhXc2V5eHNCYnR4YTVpUS1oR0JQWmltTkRQdXUtcVB0RUdtcHk4Z0l5UEZqTGtDa2VDeEg1Z0REXzZIYw",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "CONCERT NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "CONCERT NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "048de0386976",
+      "title": "Song Review: NCT Dream – Boogie Woogie",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9KTFZMTXI4WUlSaThwUkI0a0NqMFFCd2ktcG5PSzRRTkI2OU51cldFbmowWVB4YXZJcHRYTi0xMmFobWVockFFbjhtYkl0TDBtbE1QRU92OEg4NlRuUGpWdlNNamxmSWhUMTBsYmJybXo0OGJuVmVCTlVHTQ?oc=5",
+      "publishedAt": "2026-11-09T16:10:05.000Z",
+      "source": "https://thebiaslist.com/",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "articleUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9KTFZMTXI4WUlSaThwUkI0a0NqMFFCd2ktcG5PSzRRTkI2OU51cldFbmowWVB4YXZJcHRYTi0xMmFobWVockFFbjhtYkl0TDBtbE1QRU92OEg4NlRuUGpWdlNNamxmSWhUMTBsYmJybXo0OGJuVmVCTlVHTQ",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "84f1283e7115",
+      "title": "NCT Dream returns with 'Dream' album, 'Boogie Woogie' music video",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS2dtdXR1WjkwRVU2VHRqejZROUFlRXhXV0E4RjVkVDllcmdnNGg2T0RWcm5xYjJuOFlGVkpYSHRVS0NGV3R2dWpvYUVMN1YyY21tSDdJTTFZTWc4aW1lWENPRjJnTFFrZ1RXVlVjbTJHcUVWRXQ3c3hLcm5LTHlHbDV5Q1JFb0ZUY2tmY1M3U1hpWmFRN1JyejdwdU81Q2pxeTBXODRteVF5alhyZW5TS1ZR0gG3AUFVX3lxTE04V2x1VW9Oc1ZRbmRCOWcybmJacHE3UHgtR1JEVXNobmFCMlN6M0szU1RSamxfMjQyQzhaU3pxcFpxOXgzQ3ZmZW92a25FVVo0eGljRWhncFQtLXduYl8xWjFtcXBETi1BWk5SS3R3VExDeEZ4WFEzTHJtWTdCWDVTV1RLLVQ0Zll0bzFpLTE1ZURodFhMWUVBRWloQkM2Q0doRC1hTHFiajIzY3pOSEtNVW1yTG4yTQ?oc=5",
+      "publishedAt": "2026-11-09T15:28:13.000Z",
+      "source": "upi",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "articleUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS2dtdXR1WjkwRVU2VHRqejZROUFlRXhXV0E4RjVkVDllcmdnNGg2T0RWcm5xYjJuOFlGVkpYSHRVS0NGV3R2dWpvYUVMN1YyY21tSDdJTTFZTWc4aW1lWENPRjJnTFFrZ1RXVlVjbTJHcUVWRXQ3c3hLcm5LTHlHbDV5Q1JFb0ZUY2tmY1M3U1hpWmFRN1JyejdwdU81Q2pxeTBXODRteVF5alhyZW5TS1ZR0gG3AUFVX3lxTE04V2x1VW9Oc1ZRbmRCOWcybmJacHE3UHgtR1JEVXNobmFCMlN6M0szU1RSamxfMjQyQzhaU3pxcFpxOXgzQ3ZmZW92a25FVVo0eGljRWhncFQtLXduYl8xWjFtcXBETi1BWk5SS3R3VExDeEZ4WFEzTHJtWTdCWDVTV1RLLVQ0Zll0bzFpLTE1ZURodFhMWUVBRWloQkM2Q0doRC1hTHFiajIzY3pOSEtNVW1yTG4yTQ",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "COMEBACK NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "COMEBACK NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "52a985c8d93c",
+      "title": "EXO&#8217;s Kai And Sehun Gear Up For Unit Debut As EXO-KASE With &#8220;Waking Up The City&#8221; Teaser",
+      "url": "https://www.soompi.com/article/1885364wpp/exos-kai-and-sehun-gear-up-for-unit-debut-as-exo-kase-with-waking-up-the-city-teaser",
+      "publishedAt": "2026-11-09T15:26:59.000Z",
+      "source": "Soompi",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "articleUrl": "https://www.soompi.com/article/1885364wpp/exos-kai-and-sehun-gear-up-for-unit-debut-as-exo-kase-with-waking-up-the-city-teaser",
+      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/10002634/exo-kase_9ec39a.jpeg",
+      "social": {
+        "category": "COMEBACK NEWS",
+        "headline": "EXO&#039;S KAI AND SEHUN GEAR UP FOR UNIT DEBUT AS EXO-KASE WITH \"WAKING UP THE CITY\" TEASER: SOOMPI",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "COMEBACK NEWS",
+          "Headline": "EXO&#039;S KAI AND SEHUN GEAR UP FOR UNIT DEBUT AS EXO-KASE WITH \"WAKING UP THE CITY\" TEASER: SOOMPI",
+          "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/10002634/exo-kase_9ec39a.jpeg"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "b19c99320baf",
+      "title": "Watch: KEYVITUP Expands on Debut Success With First Comeback 'NA-GARI'",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRFFWU3JhTktYNkRRSUhPNkE0Nmw5OGlIeTE0U3JCSHZma3RWN2JYbWpKYm9UZkxaaldUdFFwQjg4bzU4X05pSWgwMktTcWxJc2RaeHJlSGg4M3dVV3ZhUU5PdUJZa3hzWWZaS1BSbVJhdi13ZmdpZFVFeGVHVlJ6dUQ3b09BRGVWbHNKNWRYVExvdzBHZ2ZGOVpNWW5SckZqTHFKZ3JKZG9LQ0I0WlJDNmV5V21IQ2JaU295SDdOMlo5ek02RldiV3BOZXk4SmI2YXBaY0NR?oc=5",
+      "publishedAt": "2026-11-09T15:26:32.000Z",
+      "source": "BroadwayWorld",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRFFWU3JhTktYNkRRSUhPNkE0Nmw5OGlIeTE0U3JCSHZma3RWN2JYbWpKYm9UZkxaaldUdFFwQjg4bzU4X05pSWgwMktTcWxJc2RaeHJlSGg4M3dVV3ZhUU5PdUJZa3hzWWZaS1BSbVJhdi13ZmdpZFVFeGVHVlJ6dUQ3b09BRGVWbHNKNWRYVExvdzBHZ2ZGOVpNWW5SckZqTHFKZ3JKZG9LQ0I0WlJDNmV5V21IQ2JaU295SDdOMlo5ek02RldiV3BOZXk4SmI2YXBaY0NR",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "COMEBACK NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "COMEBACK NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "957376a0ec70",
+      "title": "TWICE concert film set for cinema release in 2027",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMl9XanY5S0UtU2xUcU5GY0tGYmtEZW9ueXpRSXNpY3pvMkl0NUdZUnIyQ3dRNE1CbTZxaEVnUi1nakJadFRTSzZ3OFFiT1Jkd2NST0Q2emRvZmRZUTVERnAzcldrYzRzZ1dzOG84VVR3ekpwTE0xR1FLTFg4aE9XMEc2UXkyNzN1akRuWU1SSk51dHJTeDd6X2FUbjE?oc=5",
+      "publishedAt": "2026-11-09T14:48:56.000Z",
+      "source": "Contactmusic.com",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "articleUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMl9XanY5S0UtU2xUcU5GY0tGYmtEZW9ueXpRSXNpY3pvMkl0NUdZUnIyQ3dRNE1CbTZxaEVnUi1nakJadFRTSzZ3OFFiT1Jkd2NST0Q2emRvZmRZUTVERnAzcldrYzRzZ1dzOG84VVR3ekpwTE0xR1FLTFg4aE9XMEc2UXkyNzN1akRuWU1SSk51dHJTeDd6X2FUbjE",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "CONCERT NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "CONCERT NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "6a8d7892dc47",
+      "title": "K-Pop biz pushes back after NewJeans contract details revealed",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVDJDTlVQTFZsZDEwM0E3cTcwa3R2WmU4QlJWazhqLTRTMW1xWFFvNHdudG8wZG5jbHRWOXJxWk00bEtDTjRBQWJoSFEwQzRRdnpCdWdoVEV2WWFUc1Z1aU5SbTJFbEIzT0FVMG9xSFJNMFd2RFgxYk5ERUpGbXo3S0Vja2FQc0JVMmRjRlJhQ2ljaVM5c0dwWVFlTDU?oc=5",
+      "publishedAt": "2026-11-09T13:30:00.000Z",
+      "source": "Music Ally",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "articleUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVDJDTlVQTFZsZDEwM0E3cTcwa3R2WmU4QlJWazhqLTRTMW1xWFFvNHdudG8wZG5jbHRWOXJxWk00bEtDTjRBQWJoSFEwQzRRdnpCdWdoVEV2WWFUc1Z1aU5SbTJFbEIzT0FVMG9xSFJNMFd2RFgxYk5ERUpGbXo3S0Vja2FQc0JVMmRjRlJhQ2ljaVM5c0dwWVFlTDU",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "75732f0ea2f2",
+      "title": "ENHYPEN (엔하이픈) 'THE SIN : PARALLEL WORLD' Concept Film (DAY&NIGHT Ver.) - 니키 (NI-KI)",
+      "url": "https://www.youtube.com/watch?v=iB3zmnG6UMs",
+      "publishedAt": "2026-11-09T13:00:03.000Z",
+      "source": "HYBE LABELS",
+      "sourceClass": "official",
+      "confidence": "primary",
+      "sourceId": "hybe-labels-youtube",
+      "articleUrl": "https://www.youtube.com/undefined",
+      "imageUrl": null,
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "ENHYPEN (엔하이픈) 'THE SIN: PARALLEL WORLD' CONCEPT FILM (DAY&NIGHT VER.) - 니키 (NI-KI)",
+        "status": "needs_image",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "ENHYPEN (엔하이픈) 'THE SIN: PARALLEL WORLD' CONCEPT FILM (DAY&NIGHT VER.) - 니키 (NI-KI)",
+          "FeatureImage": null
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "3c5b73581d1c",
+      "title": "HYBE responds to NYT report on NewJeans contracts, says leaked agreements ‘are being used as a means to attack the K-pop industry’",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWURnUkZLT3lmS1ZycGdhbG5ublhfTXVwS0pPczNEVV9PdGQ4UThjYWJHZ2FxcDhvRWJhcGtMUmU5dVFLc09qQlB6U1BITnktdF9lVUlrTXNqOUU2MDJJYTM2Z1ZSWjgzYjJHM2ZfOFZDUFV3cjR5a1VCN2RQUUw5Z1lXQ0J3Tlo0NUFMTG93bWR4MGctSUhCdWxUa19xV3U0SXpLWi1nTkNDVTJ5R3JrOFlUM0RoeG84RDViNXdocjRCazNJdmZsclJIMUJvWFNSbmJUYl96QmRfOW5CamtSVldndFlXLWQ2MHZOa2ZxQ251MHJKbDdOdjFPZw?oc=5",
+      "publishedAt": "2026-11-09T12:54:30.000Z",
+      "source": "Music Business Worldwide",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWURnUkZLT3lmS1ZycGdhbG5ublhfTXVwS0pPczNEVV9PdGQ4UThjYWJHZ2FxcDhvRWJhcGtMUmU5dVFLc09qQlB6U1BITnktdF9lVUlrTXNqOUU2MDJJYTM2Z1ZSWjgzYjJHM2ZfOFZDUFV3cjR5a1VCN2RQUUw5Z1lXQ0J3Tlo0NUFMTG93bWR4MGctSUhCdWxUa19xV3U0SXpLWi1nTkNDVTJ5R3JrOFlUM0RoeG84RDViNXdocjRCazNJdmZsclJIMUJvWFNSbmJUYl96QmRfOW5CamtSVldndFlXLWQ2MHZOa2ZxQ251MHJKbDdOdjFPZw",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "6108bece0261",
+      "title": "CHAERYEONG 'Lovesick' COUNTDOWN LIVE",
+      "url": "https://www.youtube.com/watch?v=ANBpYdyyRuE",
+      "publishedAt": "2026-11-09T12:24:45.000Z",
+      "source": "JYP Entertainment",
+      "sourceClass": "official",
+      "confidence": "primary",
+      "sourceId": "jyp-entertainment-youtube",
+      "articleUrl": "https://www.youtube.com/undefined",
+      "imageUrl": null,
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "CHAERYEONG 'LOVESICK' COUNTDOWN LIVE",
+        "status": "needs_image",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "CHAERYEONG 'LOVESICK' COUNTDOWN LIVE",
+          "FeatureImage": null
+        },
+        "canvaDesignId": null
+      }
+    },
     {
       "id": "245b1d169f48",
       "title": "K-pop association pushes back on New York Times report over NewJeans contract protections",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYU9UZDVpOEV2QzlYR3M1b0t5RjJNZ3pRTHZIVV9Ld2tKVlhDVWJFcERvY3NINmxmbUNtWVNMeTB4ampMSHRoOFpfU1JlSUwta1c4bmNZM21TQ2VMSFNKM3lGUDBZRE1CVGJELU1rR2I0ZlkyeEE1RE9RNFF5d2QxRUlLd1pGNmVVTVZrcTBqcUxodDI0cXFkUmV3S01wb01EMTNtLVdMdjY0S1F5a3V1VW54VV85LWcwYU0yUmdGU0tpdFphckpucTJ1Rk5rZjhEdVVOS3ZLN3BRbHhwdWtN?oc=5",
       "publishedAt": "2026-11-09T12:18:27.000Z",
       "source": "Korea JoongAng Daily",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYU9UZDVpOEV2QzlYR3M1b0t5RjJNZ3pRTHZIVV9Ld2tKVlhDVWJFcERvY3NINmxmbUNtWVNMeTB4ampMSHRoOFpfU1JlSUwta1c4bmNZM21TQ2VMSFNKM3lGUDBZRE1CVGJELU1rR2I0ZlkyeEE1RE9RNFF5d2QxRUlLd1pGNmVVTVZrcTBqcUxodDI0cXFkUmV3S01wb01EMTNtLVdMdjY0S1F5a3V1VW54VV85LWcwYU0yUmdGU0tpdFphckpucTJ1Rk5rZjhEdVVOS3ZLN3BRbHhwdWtN",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -23,11 +314,36 @@
       }
     },
     {
+      "id": "cf269c78576e",
+      "title": "TOMORROW X TOGETHER WORLD TOUR 'STEAL THE WIND' Official Trailer",
+      "url": "https://www.youtube.com/watch?v=XSSCREq27ZQ",
+      "publishedAt": "2026-11-09T12:00:01.000Z",
+      "source": "HYBE LABELS",
+      "sourceClass": "official",
+      "confidence": "primary",
+      "sourceId": "hybe-labels-youtube",
+      "articleUrl": "https://www.youtube.com/undefined",
+      "imageUrl": null,
+      "social": {
+        "category": "CONCERT NEWS",
+        "headline": "TOMORROW X TOGETHER WORLD TOUR 'STEAL THE WIND' OFFICIAL TRAILER",
+        "status": "needs_image",
+        "canvaFields": {
+          "Category": "CONCERT NEWS",
+          "Headline": "TOMORROW X TOGETHER WORLD TOUR 'STEAL THE WIND' OFFICIAL TRAILER",
+          "FeatureImage": null
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
       "id": "13dae289d3eb",
       "title": "HAPPY BIRTHDAY, MOMO! 🐻🩷 TWICE member Sana greeted fellow Japanese member Momo on her birthday, sharing charming photos on social media. “Happy birthday to my twin” Sana wrote. TWICE is set to premiere its concert film, “This Is For…You,” on",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVmNtU2x1bmRERzZNVTZLR2lYUVd5akpiSlpSY0IxRGRxMjc2VENLMlRJMXhWS3lLRk5VSmFtVGoxUlJPdVZxd3dlcmtuVi1leS1tUEltX3NKSW1reXVxR25SRFh6M092ZVg1RDlQTU1ZeVFVdWd5YzJ0YjBfUmlYUHJDdFgxMUZuMjRCMnhncDhjckl5alNnR09FQVFSbHdsMjV2MmtLME14eVVVbUtHSXQ0WTl2cXd3MWg4RS1LMkRPSFprWUVlNEh5VEpTTFhDb0lLTk5RMXc2Njk0?oc=5",
       "publishedAt": "2026-11-09T11:50:31.000Z",
       "source": "Facebook",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVmNtU2x1bmRERzZNVTZLR2lYUVd5akpiSlpSY0IxRGRxMjc2VENLMlRJMXhWS3lLRk5VSmFtVGoxUlJPdVZxd3dlcmtuVi1leS1tUEltX3NKSW1reXVxR25SRFh6M092ZVg1RDlQTU1ZeVFVdWd5YzJ0YjBfUmlYUHJDdFgxMUZuMjRCMnhncDhjckl5alNnR09FQVFSbHdsMjV2MmtLME14eVVVbUtHSXQ0WTl2cXd3MWg4RS1LMkRPSFprWUVlNEh5VEpTTFhDb0lLTk5RMXc2Njk0",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -48,6 +364,8 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBibEFIajZoY2hvM2ZONWY2SDJiWGMyVmVmcEkzejlZdEFxTjRDUzBSYmZCbjdoOU01WC1teTJ3enJmSll5UDNqUG4xS0o3SHRIbnItay13UQ?oc=5",
       "publishedAt": "2026-11-09T11:07:13.000Z",
       "source": "The Korea Herald",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBibEFIajZoY2hvM2ZONWY2SDJiWGMyVmVmcEkzejlZdEFxTjRDUzBSYmZCbjdoOU01WC1teTJ3enJmSll5UDNqUG4xS0o3SHRIbnItay13UQ",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -68,6 +386,8 @@
       "url": "https://www.soompi.com/article/1885347wpp/watch-illit-takes-2nd-win-for-youre-under-arrest-on-new-music-show-show-k-pop",
       "publishedAt": "2026-11-09T11:02:26.000Z",
       "source": "Soompi",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://www.soompi.com/article/1885347wpp/watch-illit-takes-2nd-win-for-youre-under-arrest-on-new-music-show-show-k-pop",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09200206/illit-show-kpop.jpg",
       "social": {
@@ -83,12 +403,14 @@
       }
     },
     {
-      "id": "384efcfae14b",
-      "title": "'NAMJOONING' PRO MAX! Stanford University will be offering the \"Namjooning, and other well-being inspiration from BTS,\" which will explore and focus on mental health and well-being. Read more in the comments section.",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUklfOFF5VlNjSFpLaWpYc0o1dkpvNVlHX01FQkNnRTZYSWp0N0dsbWlyeFllZi1vRnRaNDlTa3hIZzJnSGV6RGROZlltaG1MWVQ2bFZuNmdvMEJHT1pqTUs1dElFTkNHM1VzUFhjTF9SR2ZxdkZRbWxrcFJCQ29CalVIc3dpWGs4bUhpb0l6X0RMbXFzMXFGMEFUNTBMczZEczdHZDI0Ym1fTTl1MXBDaGpaZkkzUXBNQkVKU0pPQUZzLWJMdm90ZTVkYUJISE5Fc29vNkhUVQ?oc=5",
-      "publishedAt": "2026-11-09T10:25:03.000Z",
-      "source": "Facebook",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUklfOFF5VlNjSFpLaWpYc0o1dkpvNVlHX01FQkNnRTZYSWp0N0dsbWlyeFllZi1vRnRaNDlTa3hIZzJnSGV6RGROZlltaG1MWVQ2bFZuNmdvMEJHT1pqTUs1dElFTkNHM1VzUFhjTF9SR2ZxdkZRbWxrcFJCQ29CalVIc3dpWGs4bUhpb0l6X0RMbXFzMXFGMEFUNTBMczZEczdHZDI0Ym1fTTl1MXBDaGpaZkkzUXBNQkVKU0pPQUZzLWJMdm90ZTVkYUJISE5Fc29vNkhUVQ",
+      "id": "a63cf87b071f",
+      "title": "heyday x KPop Demon Hunters drop 2: Gaming headsets, keyboard, prices",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMDN1ZlZ4Z3R0WlF5bDk3UFhVMUNrQjNEVXZRUXI5WlRpS0FudFNtdW5Gc1IxLVQ3TExVUGI0MGZSZEplVGJGSHp0eVk4ZlR3eVlLQVJvVWt6MGlhMmxVZmZCQXltRDdZTFBiWmREYk90RE1zUVVOcWZwUnZLUFFRWEtB?oc=5",
+      "publishedAt": "2026-11-09T10:54:24.000Z",
+      "source": "Mashable",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMDN1ZlZ4Z3R0WlF5bDk3UFhVMUNrQjNEVXZRUXI5WlRpS0FudFNtdW5Gc1IxLVQ3TExVUGI0MGZSZEplVGJGSHp0eVk4ZlR3eVlLQVJvVWt6MGlhMmxVZmZCQXltRDdZTFBiWmREYk90RE1zUVVOcWZwUnZLUFFRWEtB",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
         "category": "HALLYU NEWS",
@@ -108,6 +430,8 @@
       "url": "https://www.soompi.com/article/1885324wpp/lee-joon-gi-and-sakaguchi-kentaro-are-drawn-into-a-new-stage-of-the-deadly-game-in-kidnap-game",
       "publishedAt": "2026-11-09T09:59:11.000Z",
       "source": "Soompi",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://www.soompi.com/article/1885324wpp/lee-joon-gi-and-sakaguchi-kentaro-are-drawn-into-a-new-stage-of-the-deadly-game-in-kidnap-game",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09185903/kidnap-game-6.jpg",
       "social": {
@@ -128,6 +452,8 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS29Fc0wtb1pmdzd6dkVjUjk5ZEVXXzduZ1ZLQkVnY0NsTzJIRm1KeDRMQno4bkMtRXY1ZkJVR3FKLUx6SEwzMWp4bjEzX1M4MlJTYmpidGJOLTRVaFpYRWpXSkk1WTlwdXdNbEdjdmtKZ2lHSndIMlVOSjNLcVQ4X3NLN3JhVlB6WUJiNFAteF8zRkYwSU5nZGROQzNmZmJac05yZHI4TzVsRWFYWUxOa3p3?oc=5",
       "publishedAt": "2026-11-09T09:36:00.000Z",
       "source": "ABS-CBN",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS29Fc0wtb1pmdzd6dkVjUjk5ZEVXXzduZ1ZLQkVnY0NsTzJIRm1KeDRMQno4bkMtRXY1ZkJVR3FKLUx6SEwzMWp4bjEzX1M4MlJTYmpidGJOLTRVaFpYRWpXSkk1WTlwdXdNbEdjdmtKZ2lHSndIMlVOSjNLcVQ4X3NLN3JhVlB6WUJiNFAteF8zRkYwSU5nZGROQzNmZmJac05yZHI4TzVsRWFYWUxOa3p3",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -143,11 +469,36 @@
       }
     },
     {
+      "id": "71befc2ad8c0",
+      "title": "CHAERYEONG “Lovesick” M/V",
+      "url": "https://www.youtube.com/watch?v=pe-rk1ekb4w",
+      "publishedAt": "2026-11-09T08:58:07.000Z",
+      "source": "JYP Entertainment",
+      "sourceClass": "official",
+      "confidence": "primary",
+      "sourceId": "jyp-entertainment-youtube",
+      "articleUrl": "https://www.youtube.com/undefined",
+      "imageUrl": null,
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "CHAERYEONG “LOVESICK” M/V",
+        "status": "needs_image",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "CHAERYEONG “LOVESICK” M/V",
+          "FeatureImage": null
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
       "id": "089d760f02e3",
       "title": "From K-Pop Drummer to Global Hitmaker: Sooyoon on Crafting \"Sonagi\" and Reconnecting with Fans",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oaEJkbnhxMWl5NDdVcXBZcDBlSFdvbVJ4YjV4UmVMTEpRNWMxVllsU3pKbzhGR2MyRVlwRnI1OUd4RnpuVEFjbmdMNk5rc21QV2VUT1loX3ZMWTQ0X1JsS3o2bTFMSlc2dXdqc0hDbGFfNVZnWjVUVEd5cTc?oc=5",
       "publishedAt": "2026-11-09T08:51:07.000Z",
       "source": "When In Manila",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oaEJkbnhxMWl5NDdVcXBZcDBlSFdvbVJ4YjV4UmVMTEpRNWMxVllsU3pKbzhGR2MyRVlwRnI1OUd4RnpuVEFjbmdMNk5rc21QV2VUT1loX3ZMWTQ0X1JsS3o2bTFMSlc2dXdqc0hDbGFfNVZnWjVUVEd5cTc",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -168,6 +519,8 @@
       "url": "https://www.soompi.com/article/1885290wpp/joy-and-kim-hyun-jins-repeated-chance-encounters-lead-to-a-misunderstanding-in-one-of-a-kind-romance",
       "publishedAt": "2026-11-09T08:44:05.000Z",
       "source": "Soompi",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://www.soompi.com/article/1885290wpp/joy-and-kim-hyun-jins-repeated-chance-encounters-lead-to-a-misunderstanding-in-one-of-a-kind-romance",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09174359/one-of-a-kind-romance-01.jpg",
       "social": {
@@ -188,6 +541,8 @@
       "url": "https://www.soompi.com/article/1885259wpp/shin-min-ah-ju-ji-hoon-lee-jong-suk-and-lee-se-young-embody-the-fantasy-romance-genre-in-the-remarried-empress",
       "publishedAt": "2026-11-09T08:30:54.000Z",
       "source": "Soompi",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://www.soompi.com/article/1885259wpp/shin-min-ah-ju-ji-hoon-lee-jong-suk-and-lee-se-young-embody-the-fantasy-romance-genre-in-the-remarried-empress",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09171517/remarried-empress.png",
       "social": {
@@ -208,6 +563,8 @@
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRDV3QVZBZzZFSE9PVXhhUDZMSGprSTdVZzNmTFN6aHFLQktsaXJ1X25jVzc5TDgzbzlwTWlTRmZibWhqakd1dFZXQWFDdU8wNGVyWmpRejF6ZERCMHdVMjNMR3YyRHp3anlDeEFsYTJUTno2Mnp1TE1wNVF5U01Pc1lWaTBxQnYwNTRJaUpiRDROWUhteS05WW9EU0I1NktaTjUxSTNPUDAxWTVCcnllY1JPVWsxV0hTU3BmUVdVcnNMN0hmaFJmdk5mbElzOTRCbVlPbnNLN3hySlBPQ2FfTA?oc=5",
       "publishedAt": "2026-11-09T08:30:30.000Z",
       "source": "Korea JoongAng Daily",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRDV3QVZBZzZFSE9PVXhhUDZMSGprSTdVZzNmTFN6aHFLQktsaXJ1X25jVzc5TDgzbzlwTWlTRmZibWhqakd1dFZXQWFDdU8wNGVyWmpRejF6ZERCMHdVMjNMR3YyRHp3anlDeEFsYTJUTno2Mnp1TE1wNVF5U01Pc1lWaTBxQnYwNTRJaUpiRDROWUhteS05WW9EU0I1NktaTjUxSTNPUDAxWTVCcnllY1JPVWsxV0hTU3BmUVdVcnNMN0hmaFJmdk5mbElzOTRCbVlPbnNLN3hySlBPQ2FfTA",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -225,10 +582,12 @@
     {
       "id": "cbdda035164e",
       "title": "Taeyeon to release 4th studio album 'Unspecial' on Nov. 30",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTThacDVjRjJzMGpxVkNxTmhnc0thOW5mU243NEdXTXBCN1U0RHg2dTFHTVhNaURnZ3VBU2RWU3pHd0ItRlZrdW9MX0dMVlFhWXUzVmkyV1kxYzZ6Sy1ubE5Zal9qRHZFZkpIbFVzaDVwTmpZLWF4cm5zWUhaZFBGLXlNaEdLSy1Wc0NzUmNJOXh1S3hZZzhBTlNEcTEtY3hiSDB4VjZmUjg5eXNLcUkwWndVSkpOUUJT0gG4AUFVX3lxTFBNOFpwNWNGMnMwanFWQ3FOaGdzS2E5bmZTbjc0R1dNcEI3VTREeDZ1MUdNWE1pRGdndUFTZFZTekd3Qi1GVmt1b0xfR0xWUWFZdTNWaTJXWTFjNnpLLW5sTllqX2pEdkVmSkhsVXNoNXBOalktYXhybnNZSFpkUEYteU1oR0tLLVZzQ3NSY0k5eHVLeFlnOEFOU0RxMS1jeGJIMHhWNmZSODl5c0txSTBad1VKSk5RQlM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVTlIWmRvR2xLQTdwaVVIbHpsb05reGNPbHRYbWt3OEVDdGhXaVlLT1podjRiRGlhTTJqQzFJV1VtOFMwUjVMaFhDMGRscklYMDM3dlRmX09JcEtKZ3JNQlBjVFdiV19QYjY2Q0k1aUZxMlhMSEF6c1NoNTBwanZKekxYWmNYeGI0U2pzX21Bd3VBNEUwWDJlMm5PVkNKMEdXR2NabWQyVUF5Sjg1bXp1RGd1TdIBuAFBVV95cUxQTThacDVjRjJzMGpxVkNxTmhnc0thOW5mU243NEdXTXBCN1U0RHg2dTFHTVhNaURnZ3VBU2RWU3pHd0ItRlZrdW9MX0dMVlFhWXUzVmkyV1kxYzZ6Sy1ubE5Zal9qRHZFZkpIbFVzaDVwTmpZLWF4cm5zWUhaZFBGLXlNaEdLSy1Wc0NzUmNJOXh1S3hZZzhBTlNEcTEtY3hiSDB4VjZmUjg5eXNLcUkwWndVSkpOUUJT?oc=5",
       "publishedAt": "2026-11-09T08:13:03.000Z",
       "source": "The Korea Times",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTThacDVjRjJzMGpxVkNxTmhnc0thOW5mU243NEdXTXBCN1U0RHg2dTFHTVhNaURnZ3VBU2RWU3pHd0ItRlZrdW9MX0dMVlFhWXUzVmkyV1kxYzZ6Sy1ubE5Zal9qRHZFZkpIbFVzaDVwTmpZLWF4cm5zWUhaZFBGLXlNaEdLSy1Wc0NzUmNJOXh1S3hZZzhBTlNEcTEtY3hiSDB4VjZmUjg5eXNLcUkwWndVSkpOUUJT0gG4AUFVX3lxTFBNOFpwNWNGMnMwanFWQ3FOaGdzS2E5bmZTbjc0R1dNcEI3VTREeDZ1MUdNWE1pRGdndUFTZFZTekd3Qi1GVmt1b0xfR0xWUWFZdTNWaTJXWTFjNnpLLW5sTllqX2pEdkVmSkhsVXNoNXBOalktYXhybnNZSFpkUEYteU1oR0tLLVZzQ3NSY0k5eHVLeFlnOEFOU0RxMS1jeGJIMHhWNmZSODl5c0txSTBad1VKSk5RQlM",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVTlIWmRvR2xLQTdwaVVIbHpsb05reGNPbHRYbWt3OEVDdGhXaVlLT1podjRiRGlhTTJqQzFJV1VtOFMwUjVMaFhDMGRscklYMDM3dlRmX09JcEtKZ3JNQlBjVFdiV19QYjY2Q0k1aUZxMlhMSEF6c1NoNTBwanZKekxYWmNYeGI0U2pzX21Bd3VBNEUwWDJlMm5PVkNKMEdXR2NabWQyVUF5Sjg1bXp1RGd1TdIBuAFBVV95cUxQTThacDVjRjJzMGpxVkNxTmhnc0thOW5mU243NEdXTXBCN1U0RHg2dTFHTVhNaURnZ3VBU2RWU3pHd0ItRlZrdW9MX0dMVlFhWXUzVmkyV1kxYzZ6Sy1ubE5Zal9qRHZFZkpIbFVzaDVwTmpZLWF4cm5zWUhaZFBGLXlNaEdLSy1Wc0NzUmNJOXh1S3hZZzhBTlNEcTEtY3hiSDB4VjZmUjg5eXNLcUkwWndVSkpOUUJT",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
         "category": "COMEBACK NEWS",
@@ -248,6 +607,8 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZVVUWDY0c3hmX0M3alpSWmMtZV9SYXA2Tm1fblJ0NldzOUtNYTc0bjVIUHFqNHNjOVZvMGp3Q1hoLXR1ZG1KNVU0NW4zUVN5SUNkX0ZENXZZOXZiWlhBeVIwX3JQYzk2cjd5UEw5SjlCT3ByRTVIU2tOVzE4di1UWXU0OVhvcGJHSUtGWVRweG0?oc=5",
       "publishedAt": "2026-11-09T08:11:10.000Z",
       "source": "The Drinks Business",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZVVUWDY0c3hmX0M3alpSWmMtZV9SYXA2Tm1fblJ0NldzOUtNYTc0bjVIUHFqNHNjOVZvMGp3Q1hoLXR1ZG1KNVU0NW4zUVN5SUNkX0ZENXZZOXZiWlhBeVIwX3JQYzk2cjd5UEw5SjlCT3ByRTVIU2tOVzE4di1UWXU0OVhvcGJHSUtGWVRweG0",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -268,6 +629,8 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQXZPWGFOdGZ6M3JaRjNkODMxNDVTU2R2djRwLVhpeDYwVDVpS2N0MC1GQWpXdWhERTVLUXlMQnp4b004ZklSLThlQ01TaVFfQ1lGUUJvLU1STkU3OUJ5eHdoek9kczdwMkJGMTVGMGJUVHFTTVJuLVlZaVZJSkc2YVpkZ3FJTEg0NkVrLU5NSDZOQlliUkRncFVuWG95TTVRVGVBbXo1OTVQVlBDTHRLQzdtMA?oc=5",
       "publishedAt": "2026-11-09T07:28:17.000Z",
       "source": "Korea JoongAng Daily",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQXZPWGFOdGZ6M3JaRjNkODMxNDVTU2R2djRwLVhpeDYwVDVpS2N0MC1GQWpXdWhERTVLUXlMQnp4b004ZklSLThlQ01TaVFfQ1lGUUJvLU1STkU3OUJ5eHdoek9kczdwMkJGMTVGMGJUVHFTTVJuLVlZaVZJSkc2YVpkZ3FJTEg0NkVrLU5NSDZOQlliUkRncFVuWG95TTVRVGVBbXo1OTVQVlBDTHRLQzdtMA",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -283,31 +646,13 @@
       }
     },
     {
-      "id": "bec70cf51873",
-      "title": "“Concern over distortion of the K-pop industry”... Korea Popmusic Industry Association regrets NYT report on NewJeans contract",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ydTltU0JqRXdDNklHMFY1dHdEZlgwMVZaZmhocVVPRUU3SXZUSFdqaEFwUlR6ejZSbDhzeFBhWDllT0F1YXY5NlJyMXhZWHFNTXc?oc=5",
-      "publishedAt": "2026-11-09T07:19:32.000Z",
-      "source": "매일경제",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ydTltU0JqRXdDNklHMFY1dHdEZlgwMVZaZmhocVVPRUU3SXZUSFdqaEFwUlR6ejZSbDhzeFBhWDllT0F1YXY5NlJyMXhZWHFNTXc",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
       "id": "844e9f844336",
       "title": "From Bollywood to K-pop, AACC celebrates breadth of student talent",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQckVrSUEzalZiQ1ZOeE1WQk9SeTRhbzgzU096d0V4dnNIZGtmdGl5RUpHSlAzOWVTNV9uOFAxWE5mNnJVT2lkczk1X1Uyc1M4c0ZGOFAwSzBjUkl6ckhncWNYbDFNRzFxUjB5MUZPOVdFLUZVT0d1dzFBVjgtbkZyY3JOQ2dvQV9YUzhQc09HWWhha1hlS0t6N0IyQVhTbTFqd2c?oc=5",
-      "publishedAt": "2026-11-09T07:12:50.000Z",
+      "publishedAt": "2026-11-09T07:19:55.000Z",
       "source": "Yale Daily News",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQckVrSUEzalZiQ1ZOeE1WQk9SeTRhbzgzU096d0V4dnNIZGtmdGl5RUpHSlAzOWVTNV9uOFAxWE5mNnJVT2lkczk1X1Uyc1M4c0ZGOFAwSzBjUkl6ckhncWNYbDFNRzFxUjB5MUZPOVdFLUZVT0d1dzFBVjgtbkZyY3JOQ2dvQV9YUzhQc09HWWhha1hlS0t6N0IyQVhTbTFqd2c",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -323,31 +668,13 @@
       }
     },
     {
-      "id": "1e1350c58bb7",
-      "title": "P-pop boy group Play Ph addressed the mixed reactions and criticisms they received following their viral performance of their song “Crush Kita”. https://tinyurl.com/223unvpb | via LatestChika.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaVFtNFJVaDYwN0ozRWhNcldjODRXNFJDaF9CQmlNZjhmSnVCX3hLeXZFSGZaTmhadjRMb095Mmphd0g0Um8xRzJzbmFsMnA2ZFZJdmVqUGZzNXZoTzh1VTV2NndRb211d3Q3UXo5NzdyeXlkQUNaS0EyTDNnVGtUckxlX0oxX1lqbXJDd3dOQVVwcWl2UWxVLXlFS2FLVjBKVGE0TGpXell5YTVkSy1aa0stNVdyVDlKWm8zS0ZjRVpxTmtNQ3lpeEhLSFhWTm1abTRsU0VSdG01TGhz?oc=5",
-      "publishedAt": "2026-11-09T07:10:08.000Z",
-      "source": "Facebook",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaVFtNFJVaDYwN0ozRWhNcldjODRXNFJDaF9CQmlNZjhmSnVCX3hLeXZFSGZaTmhadjRMb095Mmphd0g0Um8xRzJzbmFsMnA2ZFZJdmVqUGZzNXZoTzh1VTV2NndRb211d3Q3UXo5NzdyeXlkQUNaS0EyTDNnVGtUckxlX0oxX1lqbXJDd3dOQVVwcWl2UWxVLXlFS2FLVjBKVGE0TGpXell5YTVkSy1aa0stNVdyVDlKWm8zS0ZjRVpxTmtNQ3lpeEhLSFhWTm1abTRsU0VSdG01TGhz",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "TRENDING",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "TRENDING",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
       "id": "7be58e9621e0",
       "title": "Three songs, three top spots: K-pop group CORTIS dominate Spotify as ‘REDRED’ closes in on 300 million streams",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HVXNqVFZzSFROY1ZrQUVKU2tIN2VuU3pyal8zRDB5N0w4N3NtS3F5d1I4bTRiVlZSdmVlWkZqbXgtMm14V2RocVRSalRWckI5V1lkTVgyc1NfQWQ4cGdudkdHLXktN0d5cnFtb3pScGhrQUtFSHVMd0QyNHZZeDg?oc=5",
-      "publishedAt": "2026-11-09T07:07:00.000Z",
+      "publishedAt": "2026-11-09T07:07:17.000Z",
       "source": "Yahoo",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HVXNqVFZzSFROY1ZrQUVKU2tIN2VuU3pyal8zRDB5N0w4N3NtS3F5d1I4bTRiVlZSdmVlWkZqbXgtMm14V2RocVRSalRWckI5V1lkTVgyc1NfQWQ4cGdudkdHLXktN0d5cnFtb3pScGhrQUtFSHVMd0QyNHZZeDg",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -363,31 +690,13 @@
       }
     },
     {
-      "id": "e5cf8f9bc4c7",
-      "title": "“Don’t cast this as a problem with all of K-pop” ... Pop Music Industry Association rebuts NYT report on NewJeans contract",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YMXd4UUs4ZmNCMzMzbWJYaThGTEMxSE5vZHJNV3pIN1FmeTh3eGVzUDJ2SFdCYWlvbU8wQ1hwWm5ZZ1ZTcWlTaUpvWXphNXlEMkdUYV9B?oc=5",
-      "publishedAt": "2026-11-09T07:04:12.000Z",
-      "source": "매일경제",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YMXd4UUs4ZmNCMzMzbWJYaThGTEMxSE5vZHJNV3pIN1FmeTh3eGVzUDJ2SFdCYWlvbU8wQ1hwWm5ZZ1ZTcWlTaUpvWXphNXlEMkdUYV9B",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "K-DRAMA NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "K-DRAMA NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
       "id": "24bdcd82475a",
       "title": "Watch: Nam Ji Hyun And Kim Jae Yeong Bid Farewell To &#8220;Make Me Tingle&#8221; On Heartwarming Set Of Final Filming",
       "url": "https://www.soompi.com/article/1885189wpp/watch-nam-ji-hyun-and-kim-jae-yeong-bid-farewell-to-make-me-tingle-on-heartwarming-set-of-final-filming",
       "publishedAt": "2026-11-09T06:57:49.000Z",
       "source": "Soompi",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://www.soompi.com/article/1885189wpp/watch-nam-ji-hyun-and-kim-jae-yeong-bid-farewell-to-make-me-tingle-on-heartwarming-set-of-final-filming",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09155010/make-me-tingle-1-.png",
       "social": {
@@ -408,6 +717,8 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTlM0R0c1OEFDaV9sVXZDU2sycFhSLWMtRmpTTkxYYU53Wng2SExLcVFjS1R3SllfSWk3T0FDVzVKTlNXNHVfcWd1bUVjR3ExMWxOZXZNM1MwWmdLbHoybHpEWXZIMDI2U2VMdTQwc09kaFJMQWZHR1NPd1Zkb2Q5NElvYk4ycEdNX0lMUjhkcUVQLU96UHc4YVc2WVVvSWNjU3lz?oc=5",
       "publishedAt": "2026-11-09T06:47:09.000Z",
       "source": "Forbes",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTlM0R0c1OEFDaV9sVXZDU2sycFhSLWMtRmpTTkxYYU53Wng2SExLcVFjS1R3SllfSWk3T0FDVzVKTlNXNHVfcWd1bUVjR3ExMWxOZXZNM1MwWmdLbHoybHpEWXZIMDI2U2VMdTQwc09kaFJMQWZHR1NPd1Zkb2Q5NElvYk4ycEdNX0lMUjhkcUVQLU96UHc4YVc2WVVvSWNjU3lz",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -428,6 +739,8 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR2R5cXFnXzg5NzMxV1FyazFaSVJXNWxfeVhpTDlLemRGV0RQbzZObVpVTXdSeHU5Yms2TE1HWmN1UnZEaXJCV2lpMjZFOGtCZFAwZTBWLTdiT095bTZxU29mSTNyMXRQLWNIY2docVhoeEJ5NEttVEkzVzRqTGozNEhtWFlWMnpoelhjdzBsV1JxajZkTHFnU2JHYkZ6RjJsMDVQMno5bXI4bVJhcTNvWS1ZZlM5TVJ0enBrLWZSYjRCclBCRVZoYlRoQQ?oc=5",
       "publishedAt": "2026-11-09T06:36:20.000Z",
       "source": "Korea JoongAng Daily",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR2R5cXFnXzg5NzMxV1FyazFaSVJXNWxfeVhpTDlLemRGV0RQbzZObVpVTXdSeHU5Yms2TE1HWmN1UnZEaXJCV2lpMjZFOGtCZFAwZTBWLTdiT095bTZxU29mSTNyMXRQLWNIY2docVhoeEJ5NEttVEkzVzRqTGozNEhtWFlWMnpoelhjdzBsV1JxajZkTHFnU2JHYkZ6RjJsMDVQMno5bXI4bVJhcTNvWS1ZZlM5TVJ0enBrLWZSYjRCclBCRVZoYlRoQQ",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -448,6 +761,8 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxNGRxMG5JZTQ0WVZSR3JzcjkxYk5HZGd6SmM0MFNYN081cDVldHY0WXp6ZkpRSnpROU9EbllIMHE4dU9xUU9tZnVvVC1pYlIwR3VvUks3dw?oc=5",
       "publishedAt": "2026-11-09T06:14:22.000Z",
       "source": "The Korea Herald",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxNGRxMG5JZTQ0WVZSR3JzcjkxYk5HZGd6SmM0MFNYN081cDVldHY0WXp6ZkpRSnpROU9EbllIMHE4dU9xUU9tZnVvVC1pYlIwR3VvUks3dw",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -463,31 +778,13 @@
       }
     },
     {
-      "id": "1cecc7a22fd8",
-      "title": "Exo proves experience counts in hit-packed tour finale",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zMkx0UGU1UE1oVl9DUWQ5R1hXYzhkbWhoN0pHSHdHUGR2bDN0aWJHVVhoOGhkWjdZby1mZTRwdzJvOFdOZU1DNTVGMFJZc1IycHN3d0VjVQ?oc=5",
-      "publishedAt": "2026-11-09T06:04:46.000Z",
-      "source": "The Korea Herald",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zMkx0UGU1UE1oVl9DUWQ5R1hXYzhkbWhoN0pHSHdHUGR2bDN0aWJHVVhoOGhkWjdZby1mZTRwdzJvOFdOZU1DNTVGMFJZc1IycHN3d0VjVQ",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "CONCERT NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "CONCERT NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
       "id": "e6b521706d0f",
       "title": "6 Workplace C-Dramas Where Women Took Charge",
       "url": "https://www.soompi.com/article/1883950wpp/6-workplace-c-dramas-where-women-took-charge",
       "publishedAt": "2026-11-09T05:56:28.000Z",
       "source": "Soompi",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://www.soompi.com/article/1883950wpp/6-workplace-c-dramas-where-women-took-charge",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/08002700/As-Beautiful-As-You-Irreplaceable.jpg",
       "social": {
@@ -503,11 +800,35 @@
       }
     },
     {
+      "id": "c13f1d8e4541",
+      "title": "ENHYPEN to make 3 comebacks in 1 year, keeping momentum through year-end",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcXcyRnpjb1E4b2dDUEFOMG5IdkR4RXR4V2hLc3MzeTdReGZ0a2VuQnNPeU1Ma01RZ2ozeHlFRjExQzdZV180ZzNkZzRaS3NBLVVyYUdScEVKaVdKRFVJVUJRblA5aXowTHpkTGh6cTdlNmxfS010dkVncWJ1VXpUTURHZENDZ1BmSThmM0ZvVzFWMnNlTnpscWxZX05ldWEzYkZXbURGS18wQ0gybXd5ZnpWbmRxQkc4WjViV0tIRU3SAcYBQVVfeXFMTU9aWk80SHh1bUs3ZENsajNiaHpmcS1wSF95UEkzM3J2VHRsU1BMZ05SY1pNdjZocXBEcE9JSnY1SDZoQ2NoM1NpaXJwUDJZTWRESkNvbjRSUjJ2TDdpZFN3NGlnUDZkM0MxZWo5akxTemNxSjZTN0ZhRnFQQ2g5Sm1oWmRDYmRyQVlnaEFJVFQ5UDU1Z1NaX0JCYWl6WXdxZXZCUVNPMDJ0dkNwdGxqcGtyWTdKRE9DMGR5clUwb3BMR1E2dERn?oc=5",
+      "publishedAt": "2026-11-09T05:24:04.000Z",
+      "source": "The Korea Times",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcXcyRnpjb1E4b2dDUEFOMG5IdkR4RXR4V2hLc3MzeTdReGZ0a2VuQnNPeU1Ma01RZ2ozeHlFRjExQzdZV180ZzNkZzRaS3NBLVVyYUdScEVKaVdKRFVJVUJRblA5aXowTHpkTGh6cTdlNmxfS010dkVncWJ1VXpUTURHZENDZ1BmSThmM0ZvVzFWMnNlTnpscWxZX05ldWEzYkZXbURGS18wQ0gybXd5ZnpWbmRxQkc4WjViV0tIRU3SAcYBQVVfeXFMTU9aWk80SHh1bUs3ZENsajNiaHpmcS1wSF95UEkzM3J2VHRsU1BMZ05SY1pNdjZocXBEcE9JSnY1SDZoQ2NoM1NpaXJwUDJZTWRESkNvbjRSUjJ2TDdpZFN3NGlnUDZkM0MxZWo5akxTemNxSjZTN0ZhRnFQQ2g5Sm1oWmRDYmRyQVlnaEFJVFQ5UDU1Z1NaX0JCYWl6WXdxZXZCUVNPMDJ0dkNwdGxqcGtyWTdKRE9DMGR5clUwb3BMR1E2dERn",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "COMEBACK NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "COMEBACK NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
       "id": "8777f1471e7f",
       "title": "K-Pop Top Ten Chart 1st Week of November 2026",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS0ZqblBTRGFsWDdISXpRUlpoMVVoQVNsaGF1LVZKUnNOTlMxWVFPWWF1a1dpUnBNbS1ZTzlCQm1HNVJJcFhqb0cyc3Ita05rWGphdnM5MmxtRkZqSVJTV2tqLTFyYXAzdW04MnVYOVVWVzJURmU2SFRwalhCYkJXR0tyUVZEWXZvSjVjaHR0bXVSRFZoM0VpTUZGanpHQQ?oc=5",
       "publishedAt": "2026-11-09T05:24:04.000Z",
       "source": "KBS WORLD Radio",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS0ZqblBTRGFsWDdISXpRUlpoMVVoQVNsaGF1LVZKUnNOTlMxWVFPWWF1a1dpUnBNbS1ZTzlCQm1HNVJJcFhqb0cyc3Ita05rWGphdnM5MmxtRkZqSVJTV2tqLTFyYXAzdW04MnVYOVVWVzJURmU2SFRwalhCYkJXR0tyUVZEWXZvSjVjaHR0bXVSRFZoM0VpTUZGanpHQQ",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -528,6 +849,8 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLTBFaUk3QmNDWG1Pc1VDd0gwekJCMmpYUlFwR3JvZmVEdGNHcUR0cHJVbm9UblpkOW9ZcVNNQTc5ZE8zamxvdjR2eGEyWXY0QjlBUWZzcUtQU2p6UXVEc2FCRVVfN3FWek44eUFleWJybTZOcV92bDlzUDdldnhfRWlBVkNuVGs?oc=5",
       "publishedAt": "2026-11-09T05:22:35.000Z",
       "source": "Character Media",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLTBFaUk3QmNDWG1Pc1VDd0gwekJCMmpYUlFwR3JvZmVEdGNHcUR0cHJVbm9UblpkOW9ZcVNNQTc5ZE8zamxvdjR2eGEyWXY0QjlBUWZzcUtQU2p6UXVEc2FCRVVfN3FWek44eUFleWJybTZOcV92bDlzUDdldnhfRWlBVkNuVGs",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -548,6 +871,8 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcTY0SHdReFA0NERlYXVIQXhFU2ZSZW4xT1RBaXFPOWJOeFgxdlNJcW9FVVRfc2VrTjRMeXhtSnM1VzZXbDdyZmFCeVNWOFlkb043dmdHNkRoRXBmQldnUVdORFdZOGVHcGVUR2hSeVY4eXo3a2dZb2R1amd0dXZULUs3RlFVMTZXWDB2blphVFhZRjF6TDRxcmVZclpOZ0JIdEtPd1doU1VxVk4xN21R0gG0AUFVX3lxTE9sR2NCeEd4ZGFBRFNwdXFfc0xzcFFlZ3NyS2JoWWlXZnlvTjFVeW1JREozc2JkZ3JZT29jY2UyYnNyWGxVem5WS1VqaGJoanB2U0tsbVpwYlVfUTQ1dTRFYXZDZ2pQM0dLdTRtZmV2UVpiTWxxLU10dHRJMDVkWTFGV1Z1UjdiTHp1aTRnWTZUVUtHQWVoYjNLNWNFV1p3dFRDZmYtM0YwWDdDajBjem5Pa2JEMw?oc=5",
       "publishedAt": "2026-11-09T05:13:02.000Z",
       "source": "The Korea Times",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcTY0SHdReFA0NERlYXVIQXhFU2ZSZW4xT1RBaXFPOWJOeFgxdlNJcW9FVVRfc2VrTjRMeXhtSnM1VzZXbDdyZmFCeVNWOFlkb043dmdHNkRoRXBmQldnUVdORFdZOGVHcGVUR2hSeVY4eXo3a2dZb2R1amd0dXZULUs3RlFVMTZXWDB2blphVFhZRjF6TDRxcmVZclpOZ0JIdEtPd1doU1VxVk4xN21R0gG0AUFVX3lxTE9sR2NCeEd4ZGFBRFNwdXFfc0xzcFFlZ3NyS2JoWWlXZnlvTjFVeW1JREozc2JkZ3JZT29jY2UyYnNyWGxVem5WS1VqaGJoanB2U0tsbVpwYlVfUTQ1dTRFYXZDZ2pQM0dLdTRtZmV2UVpiTWxxLU10dHRJMDVkWTFGV1Z1UjdiTHp1aTRnWTZUVUtHQWVoYjNLNWNFV1p3dFRDZmYtM0YwWDdDajBjem5Pa2JEMw",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -568,6 +893,8 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb0U0REVubFBzM1FkM093TzcxWEZIeWFxLXRpNW11TXpxRnc1alM3VDJNdTlMLTNJWE5icG82LThkY1ZtNWt5SkZFVjBOangzTjA2dl9ubXlwZ3I3MGFxVC13RzV3MVZONkxMclV1N3JUTlpOWnM3d1dfUlVScFVWX28yYzlaNEl1amEyck1jcWp6T3hwRkRJMUxrdXlmRTQzMVA4UFU1NENOZ9IBrwFBVV95cUxPallpQ2FLRmNhb0g2cFo5OE05ZEFITVNSTkRqaXVVX2VkcFBsbkdsMXFzNno4V1BLWE1OekRneWxVaEsxakoza0tTOU11clc3dGNlWXZyWXRTQWlzdmN6YjNXUDh0dTJjWno5dFJRYXR4Y2RNOVJNc2tFSG50TDVBY0hHWFBJQTdZeC1lbGJvekJsVWp2bjlQdlRMWGdwMEQ4dVVVVDJUaHpQSGlONTVZ?oc=5",
       "publishedAt": "2026-11-09T04:19:03.000Z",
       "source": "The Korea Times",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb0U0REVubFBzM1FkM093TzcxWEZIeWFxLXRpNW11TXpxRnc1alM3VDJNdTlMLTNJWE5icG82LThkY1ZtNWt5SkZFVjBOangzTjA2dl9ubXlwZ3I3MGFxVC13RzV3MVZONkxMclV1N3JUTlpOWnM3d1dfUlVScFVWX28yYzlaNEl1amEyck1jcWp6T3hwRkRJMUxrdXlmRTQzMVA4UFU1NENOZ9IBrwFBVV95cUxPallpQ2FLRmNhb0g2cFo5OE05ZEFITVNSTkRqaXVVX2VkcFBsbkdsMXFzNno4V1BLWE1OekRneWxVaEsxakoza0tTOU11clc3dGNlWXZyWXRTQWlzdmN6YjNXUDh0dTJjWno5dFJRYXR4Y2RNOVJNc2tFSG50TDVBY0hHWFBJQTdZeC1lbGJvekJsVWp2bjlQdlRMWGdwMEQ4dVVVVDJUaHpQSGlONTVZ",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -588,6 +915,8 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObmNvbUJHUUNFNWM5bmxYS0RCRl9oSzJXXzJRbmxBR2F6emZqTkZwN1pad1I5NjNkLUlTSEhpaTNLVFYweHFFWEFGZ2hWOURoRFctd0ZMamVKV1RGUTlKMW9XT0NvRmVzcGJtaXlFWDVGMFQzZXFWNEFEdFNQY3o2RmNaOXIya0pTMG1NLUFnamxtc0JLQWVkTTRaQQ?oc=5",
       "publishedAt": "2026-11-09T04:06:58.000Z",
       "source": "Daily Tribune",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObmNvbUJHUUNFNWM5bmxYS0RCRl9oSzJXXzJRbmxBR2F6emZqTkZwN1pad1I5NjNkLUlTSEhpaTNLVFYweHFFWEFGZ2hWOURoRFctd0ZMamVKV1RGUTlKMW9XT0NvRmVzcGJtaXlFWDVGMFQzZXFWNEFEdFNQY3o2RmNaOXIya0pTMG1NLUFnamxtc0JLQWVkTTRaQQ",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -608,6 +937,8 @@
       "url": "https://www.soompi.com/article/1885162wpp/2026-sbs-gayo-daejeon-announces-mc-lineup",
       "publishedAt": "2026-11-09T03:30:34.000Z",
       "source": "Soompi",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://www.soompi.com/article/1885162wpp/2026-sbs-gayo-daejeon-announces-mc-lineup",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09121124/sbs-gayo-daejeon-mc.png",
       "social": {
@@ -628,6 +959,8 @@
       "url": "https://www.soompi.com/article/1885150wpp/kim-woo-bin-and-seo-eun-soo-test-if-talent-or-effort-is-more-important-in-new-drama-gift-teaser",
       "publishedAt": "2026-11-09T03:16:12.000Z",
       "source": "Soompi",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://www.soompi.com/article/1885150wpp/kim-woo-bin-and-seo-eun-soo-test-if-talent-or-effort-is-more-important-in-new-drama-gift-teaser",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09115525/gift-drama_c8017b.jpg",
       "social": {
@@ -648,6 +981,8 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84eTNBV3hWRlpvUDdTWVF5c2lwSGNzazZkRVZwb01fZ0lTdUZnUGFrcHJiS1ZaNDNHSF9VVmZPakI3TjJQRUFnQVRRMkxudklPbldUU1lWSG5jY2c?oc=5",
       "publishedAt": "2026-11-09T02:56:00.000Z",
       "source": "씨네플레이",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84eTNBV3hWRlpvUDdTWVF5c2lwSGNzazZkRVZwb01fZ0lTdUZnUGFrcHJiS1ZaNDNHSF9VVmZPakI3TjJQRUFnQVRRMkxudklPbldUU1lWSG5jY2c",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -663,51 +998,13 @@
       }
     },
     {
-      "id": "24d4348bf33a",
-      "title": "Red Velvet’s Wendy to release fourth solo EP ‘Gleam Hour’ on Nov. 23",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQajhxejRWdjJGd0ljb2k5SDNXTzJjR2xtWllnYWZqR2M4NjhCSDIzb2cwblhWZHNmdGI4Z1EtVFZPWnQ5V1VwRlNGTm55blRJblhVcHFDMFJ1Q1pwcmdLSzB0R1FrZ3locEw2N3dKZ0pnZUtRN0hnQ0hFSGJ5SDlTanZlc2dRWS1sUnhEcy1TTjVYQ3hmMzNGWXd2VDFWNDk5LWhiR1RCa0hMRTR0YU11MGFNcHpIeGdpZGFtVkFXaw?oc=5",
-      "publishedAt": "2026-11-09T02:50:59.000Z",
-      "source": "Korea JoongAng Daily",
-      "articleUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQajhxejRWdjJGd0ljb2k5SDNXTzJjR2xtWllnYWZqR2M4NjhCSDIzb2cwblhWZHNmdGI4Z1EtVFZPWnQ5V1VwRlNGTm55blRJblhVcHFDMFJ1Q1pwcmdLSzB0R1FrZ3locEw2N3dKZ0pnZUtRN0hnQ0hFSGJ5SDlTanZlc2dRWS1sUnhEcy1TTjVYQ3hmMzNGWXd2VDFWNDk5LWhiR1RCa0hMRTR0YU11MGFNcHpIeGdpZGFtVkFXaw",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "COMEBACK NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "COMEBACK NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "f22b93958fea",
-      "title": "Stanford University offers 'Namjooning' course inspired by BTS' RM https://www.gmanetwork.com/news/showbiz/showbizabroad/1008792/stanford-university-offers-namjooning-course-inspired-by-bts-rm/story/",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMUd4MEVrZGJLV0hGam1sczFadkQzOGQtTXAxaEFpT1dEa0F2SW56MW9jZlNNLVp1aF9KTXR6blB1YzRpRnB0ajQwYXdvX0VSVEZ1R0hPc25rT0I1bjlRTnFXeXk3ajBNVE5YMUtINVVoMEJSUks4OE5GRVRhbEMtMGpCWHNWS1NIbHZMaE80d2t5QzIwZ3l1X0YxUzZ2dzllRzJyRXZLUlFQNTJjT2dFaEhyc2hlNnE2VUoxcw?oc=5",
-      "publishedAt": "2026-11-09T02:30:24.000Z",
-      "source": "Facebook",
-      "articleUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMUd4MEVrZGJLV0hGam1sczFadkQzOGQtTXAxaEFpT1dEa0F2SW56MW9jZlNNLVp1aF9KTXR6blB1YzRpRnB0ajQwYXdvX0VSVEZ1R0hPc25rT0I1bjlRTnFXeXk3ajBNVE5YMUtINVVoMEJSUks4OE5GRVRhbEMtMGpCWHNWS1NIbHZMaE80d2t5QzIwZ3l1X0YxUzZ2dzllRzJyRXZLUlFQNTJjT2dFaEhyc2hlNnE2VUoxcw",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
       "id": "78c532874de0",
       "title": "Australian Box Office: Stray Kids Concert Film Lands in Top 10",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV2htYjM4REpkVldLaDZrZ3ZNWmxHSkQ1aUU3c29KZXdRYXJoX1ozWlFMREg2X3JQZlNUNEd2Ny16U3B3QmZtQ19HSzlibmJXOHRPclVkUW9VdDBqUlVuUHJmOW1HbkdGX3QyeFRPQnBnM09wZjhoc000ekUySTUzYWc3NFJnaGtTOHNIcVZBMWdwOUMtNGJuT0RuUTV1ZVlua01CbDQ0R3N4UEd5OTFsSTZR?oc=5",
       "publishedAt": "2026-11-09T02:11:13.000Z",
       "source": "Rolling Stone Australia",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV2htYjM4REpkVldLaDZrZ3ZNWmxHSkQ1aUU3c29KZXdRYXJoX1ozWlFMREg2X3JQZlNUNEd2Ny16U3B3QmZtQ19HSzlibmJXOHRPclVkUW9VdDBqUlVuUHJmOW1HbkdGX3QyeFRPQnBnM09wZjhoc000ekUySTUzYWc3NFJnaGtTOHNIcVZBMWdwOUMtNGJuT0RuUTV1ZVlua01CbDQ0R3N4UEd5OTFsSTZR",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -728,6 +1025,8 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY0U5OE9KUDlTWGNRakRPcDRlY2FfcXlkTDdNMlQxZi1HWHlBR0NIWnNSUjFRZlJqbXdSTVFiU20yek80ZE5tYmlIbDJSTzBOXy00STJHdXI1aHUxeG1UU1dXZUhIcUwwX2Ytd1ZXeFhmZVJhTkZsX2FrTUJxYUVJUzJmRWFKbGdZZTJua2RmTl9aSW11X1pYWXZBdU1LaldvT2NZc3Zla3h5aGhvd1VF0gG0AUFVX3lxTFA5YUFjUWNMY0RTX0Z3R1czSUNMUWxoeEtVcEx6ZllRZlFJMHg1WUIyUkxLNEhZYW41VmRmanRZclBDVEFnT1k2VGpGdzB1ZTRnUE80emE1NHVjSnhEXzlpSjg4LUh6Qlp0cnpxRkpMR01lOHR2Zk0wVkFVRmg0LURXTkc2SjVGUDU3VjdkYkdRQzVNU0plLXlLVkNKa3F6ZEh3d2xaM2VxSy1mZW5jOTVhQnhtVQ?oc=5",
       "publishedAt": "2026-11-09T01:20:06.000Z",
       "source": "The Korea Times",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY0U5OE9KUDlTWGNRakRPcDRlY2FfcXlkTDdNMlQxZi1HWHlBR0NIWnNSUjFRZlJqbXdSTVFiU20yek80ZE5tYmlIbDJSTzBOXy00STJHdXI1aHUxeG1UU1dXZUhIcUwwX2Ytd1ZXeFhmZVJhTkZsX2FrTUJxYUVJUzJmRWFKbGdZZTJua2RmTl9aSW11X1pYWXZBdU1LaldvT2NZc3Zla3h5aGhvd1VF0gG0AUFVX3lxTFA5YUFjUWNMY0RTX0Z3R1czSUNMUWxoeEtVcEx6ZllRZlFJMHg1WUIyUkxLNEhZYW41VmRmanRZclBDVEFnT1k2VGpGdzB1ZTRnUE80emE1NHVjSnhEXzlpSjg4LUh6Qlp0cnpxRkpMR01lOHR2Zk0wVkFVRmg0LURXTkc2SjVGUDU3VjdkYkdRQzVNU0plLXlLVkNKa3F6ZEh3d2xaM2VxSy1mZW5jOTVhQnhtVQ",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -748,6 +1047,8 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTEhhZGI2eU5vWnhUbURhWVFlSW14anZrc0NTd2ZoNFdEeGlWbTFOY2M2M2FOMjBZR2FfaUZJUkYyY0h6OC11cl9wbnREMEMwc09FM3Yxb1I1WHhJa21KYjFWOVN6d1YzOUd4ZmFEal84c1ZMZnliOC1pX2E2TVNlLXBwOEQwQmNGOFVPallIZ3dPcVN2cTRHNWVvcFY3Qzlt?oc=5",
       "publishedAt": "2026-11-09T01:00:00.000Z",
       "source": "Variety",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTEhhZGI2eU5vWnhUbURhWVFlSW14anZrc0NTd2ZoNFdEeGlWbTFOY2M2M2FOMjBZR2FfaUZJUkYyY0h6OC11cl9wbnREMEMwc09FM3Yxb1I1WHhJa21KYjFWOVN6d1YzOUd4ZmFEal84c1ZMZnliOC1pX2E2TVNlLXBwOEQwQmNGOFVPallIZ3dPcVN2cTRHNWVvcFY3Qzlt",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -768,6 +1069,8 @@
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbVNidkE0ekFhNHNjTlFkdmNEYlpBcUlTNnU2cjlvODhCSmRIVGdEbHIySEJHWDdYQ3hVXzdVTkNNZzFvT21SYXlGN3ViVmNiSXdub1A3bHpMTzAyc215UXRkWFdxb3J1UW1QUU5jeVZSMXgyRWhwRTgxSm5GZUJCS0pDZ01wcF9KaXd1aHpfb0w2SDdTUVpqUll4Ty0yLVhNdU01OFc0U2EwbVR1azctYlc1XzNMaW1xbTBZMDd2bzY4aEM5c2FhRGZZVy0xR1pCckhEM0dtOA?oc=5",
       "publishedAt": "2026-11-09T00:10:03.000Z",
       "source": "Facebook",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbVNidkE0ekFhNHNjTlFkdmNEYlpBcUlTNnU2cjlvODhCSmRIVGdEbHIySEJHWDdYQ3hVXzdVTkNNZzFvT21SYXlGN3ViVmNiSXdub1A3bHpMTzAyc215UXRkWFdxb3J1UW1QUU5jeVZSMXgyRWhwRTgxSm5GZUJCS0pDZ01wcF9KaXd1aHpfb0w2SDdTUVpqUll4Ty0yLVhNdU01OFc0U2EwbVR1azctYlc1XzNMaW1xbTBZMDd2bzY4aEM5c2FhRGZZVy0xR1pCckhEM0dtOA",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -788,6 +1091,8 @@
       "url": "https://www.soompi.com/article/1885130wpp/cortis-stray-kids-nmixx-seventeens-jxj-k-da-illit-enhypen-bts-and-more-sweep-top-spots-on-billboard-world-albums-chart",
       "publishedAt": "2026-11-08T22:49:00.000Z",
       "source": "Soompi",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://www.soompi.com/article/1885130wpp/cortis-stray-kids-nmixx-seventeens-jxj-k-da-illit-enhypen-bts-and-more-sweep-top-spots-on-billboard-world-albums-chart",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09083205/CORTIS-Stray-Kids-NMIXX-JxJ.jpg",
       "social": {
@@ -808,6 +1113,8 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43VWR5cktpdW10QW5WVUNDOEN1U2kwZW05Q0hvRDRyZUZZN2tiWlJlc0laWnNzeUhiVDJpSU9KNUxxXzFyM3BGX3J5bGVOeUFGcHhLSmhEUnVzWV9lT3daRVRKYTd2X0RhN0VCRXdXMFJ2TXktdUo3NEs0dDZQUQ?oc=5",
       "publishedAt": "2026-11-08T22:01:00.000Z",
       "source": "스포츠조선",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43VWR5cktpdW10QW5WVUNDOEN1U2kwZW05Q0hvRDRyZUZZN2tiWlJlc0laWnNzeUhiVDJpSU9KNUxxXzFyM3BGX3J5bGVOeUFGcHhLSmhEUnVzWV9lT3daRVRKYTd2X0RhN0VCRXdXMFJ2TXktdUo3NEs0dDZQUQ",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -828,6 +1135,8 @@
       "url": "https://www.soompi.com/article/1885123wpp/watch-xlov-takes-off-their-makeup-in-the-manager-preview",
       "publishedAt": "2026-11-08T21:30:00.000Z",
       "source": "Soompi",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://www.soompi.com/article/1885123wpp/watch-xlov-takes-off-their-makeup-in-the-manager-preview",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09073009/XLOV-The-Manager.jpg",
       "social": {
@@ -848,6 +1157,8 @@
       "url": "https://www.soompi.com/article/1885120wpp/watch-ateez-takes-knowing-bros-by-storm-in-fun-preview",
       "publishedAt": "2026-11-08T21:06:00.000Z",
       "source": "Soompi",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://www.soompi.com/article/1885120wpp/watch-ateez-takes-knowing-bros-by-storm-in-fun-preview",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09070452/ATEEZ-Knowing-Bros.jpg",
       "social": {
@@ -868,6 +1179,8 @@
       "url": "https://www.soompi.com/article/1885116wpp/illit-debuts-at-no-1-on-billboard-top-album-sales-chart-no-6-on-billboard-200-with-break-even",
       "publishedAt": "2026-11-08T20:23:00.000Z",
       "source": "Soompi",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://www.soompi.com/article/1885116wpp/illit-debuts-at-no-1-on-billboard-top-album-sales-chart-no-6-on-billboard-200-with-break-even",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09062158/ILLIT_aa5c07.jpeg",
       "social": {
@@ -888,6 +1201,8 @@
       "url": "https://www.soompi.com/article/1885113wpp/xikers-achieves-career-high-with-1st-week-sales-for-route-zero-the-calling",
       "publishedAt": "2026-11-08T19:31:00.000Z",
       "source": "Soompi",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://www.soompi.com/article/1885113wpp/xikers-achieves-career-high-with-1st-week-sales-for-route-zero-the-calling",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09053023/xikers.jpeg",
       "social": {
@@ -908,6 +1223,8 @@
       "url": "https://www.soompi.com/article/1885108wpp/illit-breaks-their-1st-week-sales-record-with-break-even",
       "publishedAt": "2026-11-08T19:04:00.000Z",
       "source": "Soompi",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://www.soompi.com/article/1885108wpp/illit-breaks-their-1st-week-sales-record-with-break-even",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09051751/ILLIT_3c0580.jpeg",
       "social": {
@@ -928,6 +1245,8 @@
       "url": "https://www.soompi.com/article/1885104wpp/cortiss-greengreen-re-enters-billboard-200-6-months-after-its-release",
       "publishedAt": "2026-11-08T18:42:00.000Z",
       "source": "Soompi",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://www.soompi.com/article/1885104wpp/cortiss-greengreen-re-enters-billboard-200-6-months-after-its-release",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09050143/CORTIS.jpg",
       "social": {
@@ -948,6 +1267,8 @@
       "url": "https://www.soompi.com/article/1885099wpp/blackpinks-lisa-debuts-in-top-35-of-billboard-200-with-press-play",
       "publishedAt": "2026-11-08T18:06:00.000Z",
       "source": "Soompi",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://www.soompi.com/article/1885099wpp/blackpinks-lisa-debuts-in-top-35-of-billboard-200-with-press-play",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09043714/Lisa.jpeg",
       "social": {
@@ -968,6 +1289,8 @@
       "url": "https://www.soompi.com/article/1885066wpp/red-velvets-wendy-announces-november-comeback-with-schedule-for-gleam-hour",
       "publishedAt": "2026-11-08T16:01:23.000Z",
       "source": "Soompi",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://www.soompi.com/article/1885066wpp/red-velvets-wendy-announces-november-comeback-with-schedule-for-gleam-hour",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09005948/Wendy.jpeg",
       "social": {
@@ -988,6 +1311,8 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWlAyMkhMeVVLVHhhVkdUV216eXpVajhKeTN5bkRaNEpkR3N4UjJDWDFHdlpyZE94VWhRa3JvVWh2QmtMWnVJMlhrQTlOVGVsNGVfN0pmajhXaGFGMTNyT1B6TXVIM09qYWlXM2hqM0JEMENZNXUwdHItRkxrTTNpWW9haTM4U2dyUGE3WlFDeWN3cVdMQjFBVzJyRktPZw?oc=5",
       "publishedAt": "2026-11-08T15:54:38.000Z",
       "source": "https://thebiaslist.com/",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWlAyMkhMeVVLVHhhVkdUV216eXpVajhKeTN5bkRaNEpkR3N4UjJDWDFHdlpyZE94VWhRa3JvVWh2QmtMWnVJMlhrQTlOVGVsNGVfN0pmajhXaGFGMTNyT1B6TXVIM09qYWlXM2hqM0JEMENZNXUwdHItRkxrTTNpWW9haTM4U2dyUGE3WlFDeWN3cVdMQjFBVzJyRktPZw",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -1003,41 +1328,45 @@
       }
     },
     {
-      "id": "8689d0129003",
-      "title": "EXO&#8217;s Doh Kyung Soo (D.O.) Announces November Return With 1st Teasers For &#8220;Darling&#8221;",
+      "id": "7749e4589d0a",
+      "title": "Update: Doh Kyung Soo Stars In Concept Photos For New Single &#8220;Darling&#8221;",
       "url": "https://www.soompi.com/article/1885060wpp/exos-doh-kyung-soo-d-o-announces-november-return-with-1st-teasers-for-darling",
       "publishedAt": "2026-11-08T15:41:31.000Z",
       "source": "Soompi",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://www.soompi.com/article/1885060wpp/exos-doh-kyung-soo-d-o-announces-november-return-with-1st-teasers-for-darling",
-      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09003942/Doh-Kyung-Soo.jpeg",
+      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/10003703/do-5-1.jpeg",
       "social": {
         "category": "COMEBACK NEWS",
-        "headline": "EXO&#039;S DOH KYUNG SOO (D.O.) ANNOUNCES NOVEMBER RETURN WITH 1ST TEASERS FOR \"DARLING\": SOOMPI",
+        "headline": "UPDATE: DOH KYUNG SOO STARS IN CONCEPT PHOTOS FOR NEW SINGLE \"DARLING\": SOOMPI",
         "status": "pending_review",
         "canvaFields": {
           "Category": "COMEBACK NEWS",
-          "Headline": "EXO&#039;S DOH KYUNG SOO (D.O.) ANNOUNCES NOVEMBER RETURN WITH 1ST TEASERS FOR \"DARLING\": SOOMPI",
-          "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/09003942/Doh-Kyung-Soo.jpeg"
+          "Headline": "UPDATE: DOH KYUNG SOO STARS IN CONCEPT PHOTOS FOR NEW SINGLE \"DARLING\": SOOMPI",
+          "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/10003703/do-5-1.jpeg"
         },
         "canvaDesignId": null
       }
     },
     {
-      "id": "0f0c8981e14c",
-      "title": "Watch: Girls&#8217; Generation&#8217;s Taeyeon Announces Comeback Date With Teaser For &#8220;Unspecial&#8221;",
+      "id": "9eeb30862786",
+      "title": "Update: Taeyeon Drops Promotion Schedule For Solo Studio Album &#8220;Unspecial&#8221;",
       "url": "https://www.soompi.com/article/1885057wpp/watch-girls-generations-taeyeon-announces-comeback-date-with-teaser-for-unspecial",
       "publishedAt": "2026-11-08T15:23:44.000Z",
       "source": "Soompi",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://www.soompi.com/article/1885057wpp/watch-girls-generations-taeyeon-announces-comeback-date-with-teaser-for-unspecial",
-      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09002210/Taeyeon.jpg",
+      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/10003430/taeyeon_36f695.jpeg",
       "social": {
         "category": "COMEBACK NEWS",
-        "headline": "WATCH: GIRLS&#039; GENERATION&#039;S TAEYEON ANNOUNCES COMEBACK DATE WITH TEASER FOR \"UNSPECIAL\": SOOMPI",
+        "headline": "UPDATE: TAEYEON DROPS PROMOTION SCHEDULE FOR SOLO STUDIO ALBUM \"UNSPECIAL\": SOOMPI",
         "status": "pending_review",
         "canvaFields": {
           "Category": "COMEBACK NEWS",
-          "Headline": "WATCH: GIRLS&#039; GENERATION&#039;S TAEYEON ANNOUNCES COMEBACK DATE WITH TEASER FOR \"UNSPECIAL\": SOOMPI",
-          "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/09002210/Taeyeon.jpg"
+          "Headline": "UPDATE: TAEYEON DROPS PROMOTION SCHEDULE FOR SOLO STUDIO ALBUM \"UNSPECIAL\": SOOMPI",
+          "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/10003430/taeyeon_36f695.jpeg"
         },
         "canvaDesignId": null
       }
@@ -1048,6 +1377,8 @@
       "url": "https://www.soompi.com/article/1885054wpp/watch-a2o-lite-takes-11th-win-and-triple-crown-for-neon-on-inkigayo-performances-by-blackpinks-jisoo-and-more",
       "publishedAt": "2026-11-08T15:09:07.000Z",
       "source": "Soompi",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://www.soompi.com/article/1885054wpp/watch-a2o-lite-takes-11th-win-and-triple-crown-for-neon-on-inkigayo-performances-by-blackpinks-jisoo-and-more",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/08235947/A2O-LITE-1.jpeg",
       "social": {
@@ -1068,6 +1399,8 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX2V3NjlfMl96cGF5MWxDUEFER2lBckNFVlNadldIeHNubEJkaUwtVkZERmVXUGJTaHVpR3MyZW52RjE4b00yTzFwR0xNNkNXU0xlQ0tZaFE2UnpOb3FLUFpSM19aME9zM0tTUHJwTm13bEpQbDItaWJkM0NTVUJRRDJJNERTYUVESGtZYVFfdWlaME4tMVNKOGpB?oc=5",
       "publishedAt": "2026-11-08T14:21:00.000Z",
       "source": "The Boca Raton Tribune",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX2V3NjlfMl96cGF5MWxDUEFER2lBckNFVlNadldIeHNubEJkaUwtVkZERmVXUGJTaHVpR3MyZW52RjE4b00yTzFwR0xNNkNXU0xlQ0tZaFE2UnpOb3FLUFpSM19aME9zM0tTUHJwTm13bEpQbDItaWJkM0NTVUJRRDJJNERTYUVESGtZYVFfdWlaME4tMVNKOGpB",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -1088,6 +1421,8 @@
       "url": "https://www.soompi.com/article/1885017wpp/winners-of-2026-korea-grand-music-awards-music-day",
       "publishedAt": "2026-11-08T14:14:39.000Z",
       "source": "Soompi",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://www.soompi.com/article/1885017wpp/winners-of-2026-korea-grand-music-awards-music-day",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/08231130/kgma-day-2.png",
       "social": {
@@ -1103,19 +1438,44 @@
       }
     },
     {
-      "id": "c624ceb3033a",
-      "title": "BANGKOK — Boasting K-pop and Bangladeshi beatboxing, Eurovision stages its first Asia edition this Saturday, bringing the European song contest's unique brand of kitsch and geopolitics to the world's most populous region. Read more: https://tmt.ph/246469",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcWdvR29heXdaNE02Yjkwd2xWV1ZvX2hqQ0REVGlrRlhiOUhobHlWMjRiaXNFbTg1amJYNjBNNVJzay1OaVY0enIxdkRRLVpZbVVRclp4NkNyek11bVdXZmd3dGhsWFp4VVBCSjVjTDZXeW1jXzdnbGVOVmFSd1k2WTkteUNfMElfMnIzZ2EtdVNyODM1bWdZZHQwWVo1SVp4NzVGbWNVbHZfOERoRVZsUXdkVGxVLUZVY0ZNVg?oc=5",
-      "publishedAt": "2026-11-08T09:14:58.000Z",
-      "source": "LinkedIn",
-      "articleUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcWdvR29heXdaNE02Yjkwd2xWV1ZvX2hqQ0REVGlrRlhiOUhobHlWMjRiaXNFbTg1amJYNjBNNVJzay1OaVY0enIxdkRRLVpZbVVRclp4NkNyek11bVdXZmd3dGhsWFp4VVBCSjVjTDZXeW1jXzdnbGVOVmFSd1k2WTkteUNfMElfMnIzZ2EtdVNyODM1bWdZZHQwWVo1SVp4NzVGbWNVbHZfOERoRVZsUXdkVGxVLUZVY0ZNVg",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "id": "c1399d13e9a3",
+      "title": "ENHYPEN (엔하이픈) 'THE SIN : PARALLEL WORLD' Concept Film (DAY&NIGHT Ver.)",
+      "url": "https://www.youtube.com/watch?v=cNXeIF1dGBg",
+      "publishedAt": "2026-11-08T13:00:01.000Z",
+      "source": "HYBE LABELS",
+      "sourceClass": "official",
+      "confidence": "primary",
+      "sourceId": "hybe-labels-youtube",
+      "articleUrl": "https://www.youtube.com/undefined",
+      "imageUrl": null,
       "social": {
         "category": "HALLYU NEWS",
+        "headline": "ENHYPEN (엔하이픈) 'THE SIN: PARALLEL WORLD' CONCEPT FILM (DAY&NIGHT VER.)",
+        "status": "needs_image",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "ENHYPEN (엔하이픈) 'THE SIN: PARALLEL WORLD' CONCEPT FILM (DAY&NIGHT VER.)",
+          "FeatureImage": null
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "e1c314b35d47",
+      "title": "A2O SOUL unveils 'Dancing In The Dark' music video teaser ahead of November 9 release",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZVV0QkRuSjBSV1k2bjN1TVlGb1dpajhGMHRCTW1WQS00X3ozTGlQWTFVWjg4WnlWMUc5TzZrS1FGM0pLSnZnbFI2akg1cEU4dnBCWThjZXRYVUdBczVqVzNjVFRsZlZteDBodzZpYURoR1YzenIzOGFOMDFmODFvZjVyaERPM1lUaW1MRWFSRjNyRndlVTRWUWVsOGxvMzZsYVFNcXNRaHpNZzdPUkcyM0ZWckExTmJENHRoLXZMWjlnVTJZWkkySl9uN3FONWFyVnlmRW03dG1jelFh?oc=5",
+      "publishedAt": "2026-11-08T09:32:50.000Z",
+      "source": "Business Upturn",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZVV0QkRuSjBSV1k2bjN1TVlGb1dpajhGMHRCTW1WQS00X3ozTGlQWTFVWjg4WnlWMUc5TzZrS1FGM0pLSnZnbFI2akg1cEU4dnBCWThjZXRYVUdBczVqVzNjVFRsZlZteDBodzZpYURoR1YzenIzOGFOMDFmODFvZjVyaERPM1lUaW1MRWFSRjNyRndlVTRWUWVsOGxvMzZsYVFNcXNRaHpNZzdPUkcyM0ZWckExTmJENHRoLXZMWjlnVTJZWkkySl9uN3FONWFyVnlmRW03dG1jelFh",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "COMEBACK NEWS",
         "headline": "GOOGLE NEWS",
         "status": "pending_review",
         "canvaFields": {
-          "Category": "HALLYU NEWS",
+          "Category": "COMEBACK NEWS",
           "Headline": "GOOGLE NEWS",
           "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
@@ -1128,6 +1488,8 @@
       "url": "https://www.soompi.com/article/1884993wpp/stars-rock-the-red-carpet-at-2026-korea-grand-music-awards-music-day",
       "publishedAt": "2026-11-08T09:02:52.000Z",
       "source": "Soompi",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://www.soompi.com/article/1884993wpp/stars-rock-the-red-carpet-at-2026-korea-grand-music-awards-music-day",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/08180043/kgma_46f868.jpg",
       "social": {
@@ -1148,6 +1510,8 @@
       "url": "https://www.soompi.com/article/1885052wpp/soompis-k-pop-music-chart-2026-november-week-2",
       "publishedAt": "2026-11-08T08:39:00.000Z",
       "source": "Soompi",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://www.soompi.com/article/1885052wpp/soompis-k-pop-music-chart-2026-november-week-2",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09022801/music-chart-1.jpg",
       "social": {
@@ -1168,6 +1532,8 @@
       "url": "https://www.soompi.com/article/1884981wpp/ahn-hyo-seop-resorts-to-drastic-measures-to-help-hong-hwa-yeon-overcome-her-cooking-phobia-in-final-table",
       "publishedAt": "2026-11-08T06:55:00.000Z",
       "source": "Soompi",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://www.soompi.com/article/1884981wpp/ahn-hyo-seop-resorts-to-drastic-measures-to-help-hong-hwa-yeon-overcome-her-cooking-phobia-in-final-table",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/08155321/Ahn-Hyo-Seop-Hong-Hwa-Yeon-1.jpeg",
       "social": {
@@ -1188,6 +1554,8 @@
       "url": "https://www.soompi.com/article/1884928wpp/watch-a2o-soul-unveils-mv-teaser-for-debut-track-dancing-in-the-dark",
       "publishedAt": "2026-11-08T04:48:00.000Z",
       "source": "Soompi",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://www.soompi.com/article/1884928wpp/watch-a2o-soul-unveils-mv-teaser-for-debut-track-dancing-in-the-dark",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09180916/vlcsnap-2026-11-09-18h06m40s326.jpg",
       "social": {
@@ -1208,6 +1576,8 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRC1qU0dvTVlEOVFha1VCVXFKLWV5MmlNNmExZUgxNkJyUENqZWxDaU1Fb0hlLTlOclNtaWpNMDRaLUVIallrc3FJbDFULVRCdFdDYzlvV3RNZ09DSGc5SzBhNlJ0QjY4WXE2SXp5SFRzZnR5WHNHZ0ctMTgzN2Iwc0QzdE1yeTFSdjUtMzJad0NQRU5VNmRsWGlZRzRqYmZzNFloeFhaNUs?oc=5",
       "publishedAt": "2026-11-08T04:43:00.000Z",
       "source": "KOLD",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRC1qU0dvTVlEOVFha1VCVXFKLWV5MmlNNmExZUgxNkJyUENqZWxDaU1Fb0hlLTlOclNtaWpNMDRaLUVIallrc3FJbDFULVRCdFdDYzlvV3RNZ09DSGc5SzBhNlJ0QjY4WXE2SXp5SFRzZnR5WHNHZ0ctMTgzN2Iwc0QzdE1yeTFSdjUtMzJad0NQRU5VNmRsWGlZRzRqYmZzNFloeFhaNUs",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -1228,6 +1598,8 @@
       "url": "https://www.soompi.com/article/1885061wpp/plave-stray-kids-cortis-twice-enhypen-illit-bts-boynextdoor-and-more-sweep-top-spots-on-billboard-world-albums-chart",
       "publishedAt": "2026-11-08T04:01:00.000Z",
       "source": "Soompi",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://www.soompi.com/article/1885061wpp/plave-stray-kids-cortis-twice-enhypen-illit-bts-boynextdoor-and-more-sweep-top-spots-on-billboard-world-albums-chart",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09030428/PLAVE-Stray-Kids-CORTIS-TWICE.jpg",
       "social": {
@@ -1243,31 +1615,13 @@
       }
     },
     {
-      "id": "2c26b82aae4d",
-      "title": "Jimin Just Won 'King of K-pop' for the 8th Year in a Row. No One Else Has Come Close.",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMDhrWEppY212Wkl6STY2NlNmNldJSXQwMVk3UmJabk5iak9ocms1VXVLdHhwS3IzQllMdlMxcHNkYWtyUkYxZXBlMmJHWUoyc1VxcFpxazI2dXJaU2ZhUVVlb2RKZWJKbjFLenZSZFUyMll3MUcxVnJUMGd2a0Vadk9GOHBta2RfT1pBRFh2d3BmVi1vRGtiY1g2YjdCWkE1X0tLYkc3NEU1em82M2c?oc=5",
-      "publishedAt": "2026-11-08T02:47:26.000Z",
-      "source": "Latin Times",
-      "articleUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMDhrWEppY212Wkl6STY2NlNmNldJSXQwMVk3UmJabk5iak9ocms1VXVLdHhwS3IzQllMdlMxcHNkYWtyUkYxZXBlMmJHWUoyc1VxcFpxazI2dXJaU2ZhUVVlb2RKZWJKbjFLenZSZFUyMll3MUcxVnJUMGd2a0Vadk9GOHBta2RfT1pBRFh2d3BmVi1vRGtiY1g2YjdCWkE1X0tLYkc3NEU1em82M2c",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
       "id": "8f9e2bba8edb",
       "title": "Watch: A2O LITE Takes 10th Win For &#8220;NEON&#8221; On &#8220;Music Core&#8221;; Performances By BLACKPINK&#8217;s Jisoo, RESCENE, TREASURE, And More",
       "url": "https://www.soompi.com/article/1884917wpp/watch-a2o-lite-takes-10th-win-for-neon-on-music-core-performances-by-blackpinks-jisoo-rescene-treasure-and-more",
       "publishedAt": "2026-11-08T01:48:26.000Z",
       "source": "Soompi",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://www.soompi.com/article/1884917wpp/watch-a2o-lite-takes-10th-win-for-neon-on-music-core-performances-by-blackpinks-jisoo-rescene-treasure-and-more",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/08103936/A2O-LITE-Music-Core.jpg",
       "social": {
@@ -1288,6 +1642,8 @@
       "url": "https://www.soompi.com/article/1884912wpp/illits-tick-tack-becomes-their-5th-mv-to-hit-100-million-views",
       "publishedAt": "2026-11-08T01:13:03.000Z",
       "source": "Soompi",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://www.soompi.com/article/1884912wpp/illits-tick-tack-becomes-their-5th-mv-to-hit-100-million-views",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/08101440/ILLIT.jpeg",
       "social": {
@@ -1308,6 +1664,8 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeHVlbld1SmhhdmxqZHB0bl9XNWR4S0paZjctbENGZWF5ajJxVDRibGFRU0ZZQ2dxZUd1YVNrZGtJdnZCRHdmbGdZSEdQcktLTGNTSmtFRVJfNEhYWHFYOUhLZ2hReW5sUjlBUnhCYU8xaFdvaW1ma2ptNFJETWsySzJlM0JwcFJoYUNVUDVsNGgtdw?oc=5",
       "publishedAt": "2026-11-08T01:00:32.000Z",
       "source": "CNA",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeHVlbld1SmhhdmxqZHB0bl9XNWR4S0paZjctbENGZWF5ajJxVDRibGFRU0ZZQ2dxZUd1YVNrZGtJdnZCRHdmbGdZSEdQcktLTGNTSmtFRVJfNEhYWHFYOUhLZ2hReW5sUjlBUnhCYU8xaFdvaW1ma2ptNFJETWsySzJlM0JwcFJoYUNVUDVsNGgtdw",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -1328,6 +1686,8 @@
       "url": "https://www.soompi.com/article/1884909wpp/watch-le-sserafim-illit-and-katseyes-iconic-by-mistake-mv-surpasses-200-million-views",
       "publishedAt": "2026-11-08T00:37:21.000Z",
       "source": "Soompi",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://www.soompi.com/article/1884909wpp/watch-le-sserafim-illit-and-katseyes-iconic-by-mistake-mv-surpasses-200-million-views",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/08093529/LE-SSERAFIM-ILLIT-KATSEYE.jpeg",
       "social": {
@@ -1348,6 +1708,8 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeHdCSWotSUdLNlJlTlAtWjZFNUFkVkI0YmtpOWlVMjJYU3htSlZIN3E5Y0JTSmFNcFhWOUgxNWRFaEtDS1c2X3J0M2JXaDViNHRuX0UxSFc1ME5qVjc3Y1NjOGU5a2NiT0dfN2F2MTl1YTN5NERQSTJrdThHYll3SmdCR3Q5dUNZNy1BbEZ3?oc=5",
       "publishedAt": "2026-11-08T00:00:00.000Z",
       "source": "PAP Magazine",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeHdCSWotSUdLNlJlTlAtWjZFNUFkVkI0YmtpOWlVMjJYU3htSlZIN3E5Y0JTSmFNcFhWOUgxNWRFaEtDS1c2X3J0M2JXaDViNHRuX0UxSFc1ME5qVjc3Y1NjOGU5a2NiT0dfN2F2MTl1YTN5NERQSTJrdThHYll3SmdCR3Q5dUNZNy1BbEZ3",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -1368,6 +1730,8 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORkxmM0FQRHc1UUFUYUc5Y0dma044UVoydk1Wb1BQZUhhM0ota0NLOTVtLXFDY2E2d3dOcmtaLXpzT3hiOUJHLUZtOXhBRW1vLWVPaFNhZDhmdVpuaXJlTi1GMUxVaTQ0LVRSSFNxWnl4VWVFdFFlZDNLWXZGcTNtdWNMVlFPaDNacDZfVzZUd2Y0bVZRSWJkdTFsZ29nQ1BTNnFta3NzeFZjdmdaN1M4blZPMXo5aHExYzFJcTVDY014Smc?oc=5",
       "publishedAt": "2026-11-07T22:01:47.000Z",
       "source": "Korea JoongAng Daily",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORkxmM0FQRHc1UUFUYUc5Y0dma044UVoydk1Wb1BQZUhhM0ota0NLOTVtLXFDY2E2d3dOcmtaLXpzT3hiOUJHLUZtOXhBRW1vLWVPaFNhZDhmdVpuaXJlTi1GMUxVaTQ0LVRSSFNxWnl4VWVFdFFlZDNLWXZGcTNtdWNMVlFPaDNacDZfVzZUd2Y0bVZRSWJkdTFsZ29nQ1BTNnFta3NzeFZjdmdaN1M4blZPMXo5aHExYzFJcTVDY014Smc",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -1388,6 +1752,8 @@
       "url": "https://www.soompi.com/article/1884897wpp/winners-of-2026-korea-grand-music-awards-artist-day",
       "publishedAt": "2026-11-07T18:18:01.000Z",
       "source": "Soompi",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://www.soompi.com/article/1884897wpp/winners-of-2026-korea-grand-music-awards-artist-day",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/08025003/kgma.jpg",
       "social": {
@@ -1408,6 +1774,8 @@
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVXVIOHhveml0YnprMTNVaV9RblNNZDdHOTY2eGk5Tm1jV2ZDT1BUaGVodkdHRW9XWlZoZHVNTjI0ZmNLWDdmOXlWaVFSYm5BVkRUdW9jcWpOb2NFSU0xbTVPTUlraWRtby03enFnbl96VWF2MlpKLV9vNDhvTjlraFRfYm1VOWczSHMyWFBxV01tS1VLYmlrRVFmMlkzZTZVV294Wm5aTmY3REhSS2VvZllYR1Y0QUJIOXFjRzRHczl6Z1V3VjVWS084a00xTGhfeVB0b0VJZFlrUGFjYWxRT053?oc=5",
       "publishedAt": "2026-11-07T16:08:00.000Z",
       "source": "t2ONLINE",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVXVIOHhveml0YnprMTNVaV9RblNNZDdHOTY2eGk5Tm1jV2ZDT1BUaGVodkdHRW9XWlZoZHVNTjI0ZmNLWDdmOXlWaVFSYm5BVkRUdW9jcWpOb2NFSU0xbTVPTUlraWRtby03enFnbl96VWF2MlpKLV9vNDhvTjlraFRfYm1VOWczSHMyWFBxV01tS1VLYmlrRVFmMlkzZTZVV294Wm5aTmY3REhSS2VvZllYR1Y0QUJIOXFjRzRHczl6Z1V3VjVWS084a00xTGhfeVB0b0VJZFlrUGFjYWxRT053",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -1428,6 +1796,8 @@
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdUVUNkpIUk82dzZZMmVmOF9INHhTa2hTcmktTk9DWHJEMU1ra0x3WmNXR084aC1uNksycTJsUEdvd2JYQ0dfZEI1ZzJKdjY4aEUzZ2l1ejlYLWtMNERnRmlMZ1pKYXVaRG5xU0xacnZaZFM1dEJXakFON3VSMEgzN3RlMVdwajBmRXBDQWtlc0xrLUVORnZjWWE5QlRxdEktYkozRmVvT2ZDTzhPcWwtRXhWLWRYdTVYNjhOeVR1LU5uS1BjczIzbk1QNXVGMjJyVXhYdmU4eEtGYkptZ001ejg3RnFYU2pHUHhETg?oc=5",
       "publishedAt": "2026-11-07T15:45:00.000Z",
       "source": "The Mary Sue",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdUVUNkpIUk82dzZZMmVmOF9INHhTa2hTcmktTk9DWHJEMU1ra0x3WmNXR084aC1uNksycTJsUEdvd2JYQ0dfZEI1ZzJKdjY4aEUzZ2l1ejlYLWtMNERnRmlMZ1pKYXVaRG5xU0xacnZaZFM1dEJXakFON3VSMEgzN3RlMVdwajBmRXBDQWtlc0xrLUVORnZjWWE5QlRxdEktYkozRmVvT2ZDTzhPcWwtRXhWLWRYdTVYNjhOeVR1LU5uS1BjczIzbk1QNXVGMjJyVXhYdmU4eEtGYkptZ001ejg3RnFYU2pHUHhETg",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -1448,6 +1818,8 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUWNNSWdTWTd1VWdTWHAybzJITEZPTU5SU1UtblBEUG1KU3owSmgycG8tb2tzblhrc2dfVGRyb2NYNy1hSGlLelNWc1hrT3VyR0s0V1dUSkotR2o0OFFHMFNnVU1SdE1iNWpCS1Zrc1hteW5mSS1vajRHTTM4VGczbXZHMGYxMzFnVVNSNg?oc=5",
       "publishedAt": "2026-11-07T15:41:56.000Z",
       "source": "https://thebiaslist.com/",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUWNNSWdTWTd1VWdTWHAybzJITEZPTU5SU1UtblBEUG1KU3owSmgycG8tb2tzblhrc2dfVGRyb2NYNy1hSGlLelNWc1hrT3VyR0s0V1dUSkotR2o0OFFHMFNnVU1SdE1iNWpCS1Zrc1hteW5mSS1vajRHTTM4VGczbXZHMGYxMzFnVVNSNg",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -1468,6 +1840,8 @@
       "url": "https://www.soompi.com/article/1884853wpp/kim-ji-won-and-lee-jung-eun-revisit-the-past-as-they-team-up-for-surgery-in-doctor-x",
       "publishedAt": "2026-11-07T11:28:36.000Z",
       "source": "Soompi",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://www.soompi.com/article/1884853wpp/kim-ji-won-and-lee-jung-eun-revisit-the-past-as-they-team-up-for-surgery-in-doctor-x",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/07201812/doctor-x-2.png",
       "social": {
@@ -1483,31 +1857,13 @@
       }
     },
     {
-      "id": "5df3764de15d",
-      "title": "Pop Mart Unveils ‘KPop Demon Hunters’ Collaboration Featuring Peach Riot",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwbzdNVl9OeDB0bURVMElrdnNlVVZhcFVqdDBQcDEwY1FoaEhTcUw0WE1KcjVaUzZRYU5MNGktZGV5LXlTNk5HNmdUemZoT0RlQ29ValZ4VTdHOVc2QXhYaVNkYXJXRFE?oc=5",
-      "publishedAt": "2026-11-07T11:25:52.000Z",
-      "source": "IMDb",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwbzdNVl9OeDB0bURVMElrdnNlVVZhcFVqdDBQcDEwY1FoaEhTcUw0WE1KcjVaUzZRYU5MNGktZGV5LXlTNk5HNmdUemZoT0RlQ29ValZ4VTdHOVc2QXhYaVNkYXJXRFE",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
       "id": "2306e3467bcd",
       "title": "Can Labubu Lightning Strike Twice? POP MART Hopes So With Release of 'KPop Demon Hunters' Bag Charms",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaTEwdlExaWlTRU9jZEtjWGRON3UtNU5SZ05RaHloRlNnRkdyVlF3TG9MVnk2OTRPMzNiXzhuQ3FBdzFpaU10LXU4dlFSbXpSN2tacFNTa0s1aDlWVVVxWVBZbGVpdFRkWjZUdHVrYjB2T2pkY2Vuc0Y2V0s5NFYzMk0yaDJfNThUNmwybExxQkJ6U2F5T3c1bmNoWUxESm4xcXBPaUhCemk2NFdXSTBUNTBMRU1vYUF3X2lJZTBRT09QY1BLLXBQXzN5NA?oc=5",
       "publishedAt": "2026-11-07T10:26:00.000Z",
       "source": "Rolling Stone",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaTEwdlExaWlTRU9jZEtjWGRON3UtNU5SZ05RaHloRlNnRkdyVlF3TG9MVnk2OTRPMzNiXzhuQ3FBdzFpaU10LXU4dlFSbXpSN2tacFNTa0s1aDlWVVVxWVBZbGVpdFRkWjZUdHVrYjB2T2pkY2Vuc0Y2V0s5NFYzMk0yaDJfNThUNmwybExxQkJ6U2F5T3c1bmNoWUxESm4xcXBPaUhCemk2NFdXSTBUNTBMRU1vYUF3X2lJZTBRT09QY1BLLXBQXzN5NA",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -1528,7 +1884,31 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWWM2Y3ZQd1hjdi13R25YaEd5cVFqbnNNS3dIWkpTQmdTQzlYOV9RUlJRdl9qTndkUFFKUW9QZDZWdkZWUlRYRlY3ZmYxbDEyQmNFWWZpZWRzMW41NmREM0ZfYnBXb3JsMmNkazFQOU1YRFN2NFB5NWRwOXVPZ2V3dEhyVGRLaTFSeGpUS3NUcndBYkJHanFkYnA1SWVxYXM?oc=5",
       "publishedAt": "2026-11-07T10:00:00.000Z",
       "source": "The Straits Times",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWWM2Y3ZQd1hjdi13R25YaEd5cVFqbnNNS3dIWkpTQmdTQzlYOV9RUlJRdl9qTndkUFFKUW9QZDZWdkZWUlRYRlY3ZmYxbDEyQmNFWWZpZWRzMW41NmREM0ZfYnBXb3JsMmNkazFQOU1YRFN2NFB5NWRwOXVPZ2V3dEhyVGRLaTFSeGpUS3NUcndBYkJHanFkYnA1SWVxYXM",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "64e769ce6523",
+      "title": "K-pop | Bands, History, Industry, & Global Impact",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1kWnA1b3EzQ2U1N1h5UnU2N0lYdVFYQUFyM2ZPOGVyRDRHd3A2SHJmcHktSlNoTnVoZU9SamJkLUJza1pWUlhnMVNwYWI?oc=5",
+      "publishedAt": "2026-11-07T08:00:00.000Z",
+      "source": "Britannica",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1kWnA1b3EzQ2U1N1h5UnU2N0lYdVFYQUFyM2ZPOGVyRDRHd3A2SHJmcHktSlNoTnVoZU9SamJkLUJza1pWUlhnMVNwYWI",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
         "category": "HALLYU NEWS",
@@ -1548,6 +1928,8 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdklib0Y3NDZKMmFTMnMxQUJXN3daQjVhS2s0WXN6VFNJT052bDAwRGJmbmZzMTB5NkFFQk1JNkR5VkxBaWNBa0RNRU56Wm5Oa2diMDBfMnhiMnYybWhVQWpvMUZGaFBrZmVIWTUwdjVDb1JQaWFOUmhKNlYwZThLNUNMQ0FydnJmb0puZlc3SkFRS29IN1J6aHUyRU9DamwtMUdr?oc=5",
       "publishedAt": "2026-11-07T05:05:47.000Z",
       "source": "Dojeon Media",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdklib0Y3NDZKMmFTMnMxQUJXN3daQjVhS2s0WXN6VFNJT052bDAwRGJmbmZzMTB5NkFFQk1JNkR5VkxBaWNBa0RNRU56Wm5Oa2diMDBfMnhiMnYybWhVQWpvMUZGaFBrZmVIWTUwdjVDb1JQaWFOUmhKNlYwZThLNUNMQ0FydnJmb0puZlc3SkFRS29IN1J6aHUyRU9DamwtMUdr",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -1568,6 +1950,8 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QNmZ3R3VzU2JJMHpsTTRqUEtVQ3JrM1luRXllLTZnc19NVDIxVGhrVnplbk9pVVc1YlJhMFgzN09wRDJhUGdEWDlMUWdXUVlEQmVQLTViXzdvTWpkOVRfdVJyVlJfYVo4bTFuZkdWR18?oc=5",
       "publishedAt": "2026-11-07T05:03:23.000Z",
       "source": "Financial Times",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QNmZ3R3VzU2JJMHpsTTRqUEtVQ3JrM1luRXllLTZnc19NVDIxVGhrVnplbk9pVVc1YlJhMFgzN09wRDJhUGdEWDlMUWdXUVlEQmVQLTViXzdvTWpkOVRfdVJyVlJfYVo4bTFuZkdWR18",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -1588,6 +1972,8 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd0NCLUxCalpFbzM2amhIMGpteVFfcVI3Uk41Zjd3amg4NVlHQTEycjhxNHBDR2dKOHF1a05raWlaTk9wUUROeWZmTElCRTBWMlplbm9NenNVcEQzVVdYeG15SnJXb01ObmJMMnNWV2ljTlA5Qjg5eHdhMm5CalZOMDV2U1cyOE45R0hBelVkcm9hM21CbFA2YmVOV0JtaUJiYUcwLU1XTDJIRzM2OUc0REIxdUkteEJ6UjJmRg?oc=5",
       "publishedAt": "2026-11-07T04:38:29.000Z",
       "source": "Lifestyle Asia Hong Kong",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd0NCLUxCalpFbzM2amhIMGpteVFfcVI3Uk41Zjd3amg4NVlHQTEycjhxNHBDR2dKOHF1a05raWlaTk9wUUROeWZmTElCRTBWMlplbm9NenNVcEQzVVdYeG15SnJXb01ObmJMMnNWV2ljTlA5Qjg5eHdhMm5CalZOMDV2U1cyOE45R0hBelVkcm9hM21CbFA2YmVOV0JtaUJiYUcwLU1XTDJIRzM2OUc0REIxdUkteEJ6UjJmRg",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -1608,6 +1994,8 @@
       "url": "https://www.soompi.com/article/1884792wpp/november-boy-group-brand-reputation-rankings-announced-9",
       "publishedAt": "2026-11-07T03:56:11.000Z",
       "source": "Soompi",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://www.soompi.com/article/1884792wpp/november-boy-group-brand-reputation-rankings-announced-9",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/07125441/BTS-ATEEZ-CORTIS.jpg",
       "social": {
@@ -1628,6 +2016,8 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbDJQcnB1WWl0SWZxRkhMR1F6U1dyaFozNm1Dbng3OW5ILTRiMUk3aU40akFRajEyR1hhbk9EdzM5Vm00aGdEVGpmRzlvOFU5LWZyWERTcnlnS1NwTHZSUWNuZHA4Vk83WWRQYXo0SklvS2JGOGZKMFloX25zMzlkZzFmNEZ0WVQyY24xRWk1WEJOTjJpRWM4U0lXclpWcWtFRGd6eHhLaVFrc28?oc=5",
       "publishedAt": "2026-11-07T03:33:17.000Z",
       "source": "Lifestyle Asia Hong Kong",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbDJQcnB1WWl0SWZxRkhMR1F6U1dyaFozNm1Dbng3OW5ILTRiMUk3aU40akFRajEyR1hhbk9EdzM5Vm00aGdEVGpmRzlvOFU5LWZyWERTcnlnS1NwTHZSUWNuZHA4Vk83WWRQYXo0SklvS2JGOGZKMFloX25zMzlkZzFmNEZ0WVQyY24xRWk1WEJOTjJpRWM4U0lXclpWcWtFRGd6eHhLaVFrc28",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -1648,6 +2038,8 @@
       "url": "https://www.soompi.com/article/1884609wpp/4-things-we-loved-about-the-finale-of-dive-into-you",
       "publishedAt": "2026-11-07T02:46:01.000Z",
       "source": "Soompi",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://www.soompi.com/article/1884609wpp/4-things-we-loved-about-the-finale-of-dive-into-you",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/06234258/Dive-into-You-1.jpg",
       "social": {
@@ -1668,6 +2060,8 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOGNqVlFxbll4S1F0WUs2TmJnVlVlcG5hcGRaSGxNYUJoYTN0MGpjd0xib3BELUNjbDBmWDRVN0p2dENLMFZxd1Z2NkxoMmpzd2tuUzYwSGJ2a21PczI2WnVjdzlxNm1xenFaOXNKelltckw5Nk16RmpxdHVZbXRqM1pqOWpRWW11LVFpRkt0NjNINDR0aFR6QXVCQQ?oc=5",
       "publishedAt": "2026-11-07T02:27:44.000Z",
       "source": "Character Media",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOGNqVlFxbll4S1F0WUs2TmJnVlVlcG5hcGRaSGxNYUJoYTN0MGpjd0xib3BELUNjbDBmWDRVN0p2dENLMFZxd1Z2NkxoMmpzd2tuUzYwSGJ2a21PczI2WnVjdzlxNm1xenFaOXNKelltckw5Nk16RmpxdHVZbXRqM1pqOWpRWW11LVFpRkt0NjNINDR0aFR6QXVCQQ",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -1688,6 +2082,8 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX2FNb3gxNHY0TGFRSUp3UFZIQk1OSHZVR3k2ZnFuUlpROFYyblJ6Z3g0ejZfbS1GQW9OdkFXdnp1UWtTSl82YUg5bVdieEx1MndmLUVINUR5MWx6dFQ3eDZER0pDSnNaVjZmRlBXRnVzRlFOTmhEbjRic0ZUd0U4M3FPcTJQUjlReGN6VUhjWTF2UnR4RGRWNWQ2cWE1aGwzeW9pbFRVMFJWQ05PWUNXZ3BUcGRjd0NCRHBBZldRWdIBxAFBVV95cUxOMERhTzl1cmhTRHlVM0hRd2tKcXVxMFVZOE90YUgyN1VHRGZ2UUxKZFMzTU12MGgxQ29TYm5HR1AxblBwY2w4MEc1OE1reWRpSGFPUmIyM3hvNThWdGE2dzFuUmdGS0NVTHcxRm9CWXRQY3gzWDdtb0F3MVVuZU0tcDBpT0gzMUxCQzZCVnZwYVZnRjFrQnMzLU1TeWU2N1VMM3k4R3RrUVpiam4ySUZaUVZLa2xrQkpnVGs2dVBkWUNVRTdO?oc=5",
       "publishedAt": "2026-11-07T02:00:00.000Z",
       "source": "Travel and Leisure Asia",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX2FNb3gxNHY0TGFRSUp3UFZIQk1OSHZVR3k2ZnFuUlpROFYyblJ6Z3g0ejZfbS1GQW9OdkFXdnp1UWtTSl82YUg5bVdieEx1MndmLUVINUR5MWx6dFQ3eDZER0pDSnNaVjZmRlBXRnVzRlFOTmhEbjRic0ZUd0U4M3FPcTJQUjlReGN6VUhjWTF2UnR4RGRWNWQ2cWE1aGwzeW9pbFRVMFJWQ05PWUNXZ3BUcGRjd0NCRHBBZldRWdIBxAFBVV95cUxOMERhTzl1cmhTRHlVM0hRd2tKcXVxMFVZOE90YUgyN1VHRGZ2UUxKZFMzTU12MGgxQ29TYm5HR1AxblBwY2w4MEc1OE1reWRpSGFPUmIyM3hvNThWdGE2dzFuUmdGS0NVTHcxRm9CWXRQY3gzWDdtb0F3MVVuZU0tcDBpT0gzMUxCQzZCVnZwYVZnRjFrQnMzLU1TeWU2N1VMM3k4R3RrUVpiam4ySUZaUVZLa2xrQkpnVGs2dVBkWUNVRTdO",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -1708,6 +2104,8 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWW9YSkxXcmcwSVpjdHo0dWJ2WHVDTTVvNmk0ZmVRQklnQjNfbzhJUnZmd3V2WXQ3eUVLTkhWREJCWUFnTHI1dGxfLURqU1hKTEJBV3Y5UDJOWUlPZVBZZmtxTjR3b0F3emJ5Q1ZYVmNLd1dfMmoyN2VkX0NjTTZybjhBMlM1UXpKS1ZDVERmb1Y?oc=5",
       "publishedAt": "2026-11-06T22:46:00.000Z",
       "source": "Newser",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWW9YSkxXcmcwSVpjdHo0dWJ2WHVDTTVvNmk0ZmVRQklnQjNfbzhJUnZmd3V2WXQ3eUVLTkhWREJCWUFnTHI1dGxfLURqU1hKTEJBV3Y5UDJOWUlPZVBZZmtxTjR3b0F3emJ5Q1ZYVmNLd1dfMmoyN2VkX0NjTTZybjhBMlM1UXpKS1ZDVERmb1Y",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -1728,6 +2126,8 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLXFIcko1cDdydkVsd0ZTZ19BT0xqWjBRcHZNamtkYU5hdnpXRGlWUUF5OXV6RVFOb0pwQzNhbmRUNzRoaHktcmZHQUlkTkdXSl9WM3RRSUZhSkRfcW14em84M3lMajlPWUFaQWttQ09jRXRCdTBsbmw3TE5tWU9NcTRQei0xQURYRmo0R09lRQ?oc=5",
       "publishedAt": "2026-11-06T22:30:00.000Z",
       "source": "Yahoo Finance",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLXFIcko1cDdydkVsd0ZTZ19BT0xqWjBRcHZNamtkYU5hdnpXRGlWUUF5OXV6RVFOb0pwQzNhbmRUNzRoaHktcmZHQUlkTkdXSl9WM3RRSUZhSkRfcW14em84M3lMajlPWUFaQWttQ09jRXRCdTBsbmw3TE5tWU9NcTRQei0xQURYRmo0R09lRQ",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -1748,6 +2148,8 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd3FzREM0VUw2YWhrOXlGaXlqdHpvU0VFNnRET2s5YVpXN3dYeWc3NjFuZXRNdENid3U5VTNIWTg5QXJXWE0tR3c3eXpKRnBTNDhWM00zd2RsazZlT0l1MDY5b3E4cjdJZ3lfc1g3ek03TmNZUjliWDF3MzlaLUtEVXBUMHBUMWlKczQxUko1eFY1WHRoamZrQkxhT2tMUVZ5am1KZ1BRSkhqSHBWcnlVUmRkNTVXandkS2F5d2ZUOWs2TGpQUnZLTA?oc=5",
       "publishedAt": "2026-11-06T20:59:03.000Z",
       "source": "Billboard",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd3FzREM0VUw2YWhrOXlGaXlqdHpvU0VFNnRET2s5YVpXN3dYeWc3NjFuZXRNdENid3U5VTNIWTg5QXJXWE0tR3c3eXpKRnBTNDhWM00zd2RsazZlT0l1MDY5b3E4cjdJZ3lfc1g3ek03TmNZUjliWDF3MzlaLUtEVXBUMHBUMWlKczQxUko1eFY1WHRoamZrQkxhT2tMUVZ5am1KZ1BRSkhqSHBWcnlVUmRkNTVXandkS2F5d2ZUOWs2TGpQUnZLTA",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -1768,6 +2170,8 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUjVvMHdoQ2NSMG0yN000YWtUWHlfaFd5dUlvdWdmYWxUSkUwc0JRQjFaQWxJaU5VVEhHdVBwMXRHMGNkNXVwQkkxNjJyVmd2TW84aVRCZ2d3TEVOa3dJUk1vcnQ0ejlid1VIQ1hjQmZUUzZKOXZrS0s0WmxsbjBZVnUxQkowdXJTdzV1aWFScnN4OVNNRE5BclZ1M1l3Zw?oc=5",
       "publishedAt": "2026-11-06T19:13:16.000Z",
       "source": "The New York Times",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUjVvMHdoQ2NSMG0yN000YWtUWHlfaFd5dUlvdWdmYWxUSkUwc0JRQjFaQWxJaU5VVEhHdVBwMXRHMGNkNXVwQkkxNjJyVmd2TW84aVRCZ2d3TEVOa3dJUk1vcnQ0ejlid1VIQ1hjQmZUUzZKOXZrS0s0WmxsbjBZVnUxQkowdXJTdzV1aWFScnN4OVNNRE5BclZ1M1l3Zw",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -1788,6 +2192,8 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa29nZXAzU21KZ2JaMnJLU0lOb1M1cVJGRlZSZ0JxRWhfalJ3SDdiZzUyQnZ5Qk1VYnM1TEVpWjc1bksydHlZeWtLanNMaS1uTDZnWlJrdFBSU0N4YzJrYzc0akU5NG5LeFUzRURBdUlwQ1AxUG1wWm13cjUtTmdNYnlsWFY?oc=5",
       "publishedAt": "2026-11-06T19:01:56.000Z",
       "source": "Complex",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
       "articleUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa29nZXAzU21KZ2JaMnJLU0lOb1M1cVJGRlZSZ0JxRWhfalJ3SDdiZzUyQnZ5Qk1VYnM1TEVpWjc1bksydHlZeWtLanNMaS1uTDZnWlJrdFBSU0N4YzJrYzc0akU5NG5LeFUzRURBdUlwQ1AxUG1wWm13cjUtTmdNYnlsWFY",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -1798,206 +2204,6 @@
           "Category": "HALLYU NEWS",
           "Headline": "GOOGLE NEWS",
           "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "aad591172a3e",
-      "title": "KPOP RENO",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUOUVOTkFDeVNRbWo1OS0xcjBCRW5xT2lYWC0wc2o1eXVNVnJ4cnYzS1oxcEpReWhSVlJ4bDBITnlrRlZVbG10T1hjdFZOU2pqR2Y4T0o4RHM4cVV5a2JFUFF5N3p6ekJWLU1MSTFKWFViOW0w?oc=5",
-      "publishedAt": "2026-11-06T18:38:03.000Z",
-      "source": "KRXI",
-      "articleUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUOUVOTkFDeVNRbWo1OS0xcjBCRW5xT2lYWC0wc2o1eXVNVnJ4cnYzS1oxcEpReWhSVlJ4bDBITnlrRlZVbG10T1hjdFZOU2pqR2Y4T0o4RHM4cVV5a2JFUFF5N3p6ekJWLU1MSTFKWFViOW0w",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "70302e22b24f",
-      "title": "Meet Rescene, the rising K-pop girl group taking over the charts in 2026",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR0xFM01RWWNKbnhPLWR1bkg1WTV5TGs3ZUMwTHBtRzhMckVKTVo3V1hoVGJiVHBxVy1zVGJrbmlNemZOby0wYWpIRmdqSTlzSmkzNmMyVFB3bWYtU2lNcDFQREl6UDIxU0pQTUZxVW9EYkxFWlpDcDNKYnc1VS1GUXQ0WlpRMS00SWxoUVhhdXlBSnI4UnU4MjE4dGlpSFk?oc=5",
-      "publishedAt": "2026-11-06T15:45:44.000Z",
-      "source": "Hashtag Legend Hong Kong",
-      "articleUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR0xFM01RWWNKbnhPLWR1bkg1WTV5TGs3ZUMwTHBtRzhMckVKTVo3V1hoVGJiVHBxVy1zVGJrbmlNemZOby0wYWpIRmdqSTlzSmkzNmMyVFB3bWYtU2lNcDFQREl6UDIxU0pQTUZxVW9EYkxFWlpDcDNKYnc1VS1GUXQ0WlpRMS00SWxoUVhhdXlBSnI4UnU4MjE4dGlpSFk",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "TRENDING",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "TRENDING",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "5915ba44ea68",
-      "title": "What's behind K-pop agencies' Gangnam exodus?",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcVNaUXozUm9XdTBkRnVwa0dWYnREMHBEazhsRkZrRHlPNEVqcWM0alFsSmN3Q2xtak9NbnJwU3hPRmhWRDlCcnlFaVhuRXh5UzBxS0hfYUpNYXE4QnFUZktFRFdmV3czM1ZuekFkUjhPeVE2aFJJNWM0bXpQZllJY0dmeUhjVUdmSVdCRERnZlZJOGo1MVpmV2Zn0gGfAUFVX3lxTE1Td0dHMVJyM1QxcFpmQ1czZTZKVm8zTnQ4ZEZkSHFfY09tRk1hekZnRWplN3Awa3hSQ1Fhd3lwMHVqZnctRHpDT3hidHhTVkUtTmxrZXlxWmVxTW1rSHFScFQ4LTFlYmFNSzFFYVlzcmtINGVnaHhITnFiRUxHbko0RER1SDZESl9URmx5OEtjZXE5TjlLT2tGWTV4amJNMA?oc=5",
-      "publishedAt": "2026-11-06T15:10:00.000Z",
-      "source": "The Korea Times",
-      "articleUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcVNaUXozUm9XdTBkRnVwa0dWYnREMHBEazhsRkZrRHlPNEVqcWM0alFsSmN3Q2xtak9NbnJwU3hPRmhWRDlCcnlFaVhuRXh5UzBxS0hfYUpNYXE4QnFUZktFRFdmV3czM1ZuekFkUjhPeVE2aFJJNWM0bXpQZllJY0dmeUhjVUdmSVdCRERnZlZJOGo1MVpmV2Zn0gGfAUFVX3lxTE1Td0dHMVJyM1QxcFpmQ1czZTZKVm8zTnQ4ZEZkSHFfY09tRk1hekZnRWplN3Awa3hSQ1Fhd3lwMHVqZnctRHpDT3hidHhTVkUtTmxrZXlxWmVxTW1rSHFScFQ4LTFlYmFNSzFFYVlzcmtINGVnaHhITnFiRUxHbko0RER1SDZESl9URmx5OEtjZXE5TjlLT2tGWTV4amJNMA",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "6d0f6ef2e515",
-      "title": "Daft Punk and K-pop Demon Hunters Team Up in Unexpected Crossover",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNckhydnkzVnE1QmF2MmpBcGpUMXdxcTI2c1ZwZ2xEZFN3Z2M4LTNteDQyLUVUZWEtR19pZTBEaEhXVXhzdGZxSm5QbjlTYTVqYnlabTFZS1paa0Q1OHNza29HQTNyWFc2dkowRXRmYndFZEVSdnIycmhKRjlUSGQtbVNjak1mVGlU?oc=5",
-      "publishedAt": "2026-11-06T15:00:01.000Z",
-      "source": "Yahoo",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNckhydnkzVnE1QmF2MmpBcGpUMXdxcTI2c1ZwZ2xEZFN3Z2M4LTNteDQyLUVUZWEtR19pZTBEaEhXVXhzdGZxSm5QbjlTYTVqYnlabTFZS1paa0Q1OHNza29HQTNyWFc2dkowRXRmYndFZEVSdnIycmhKRjlUSGQtbVNjak1mVGlU",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "ca1c4710546e",
-      "title": "From K-pop idols to office workers and business owners: Why former girl group stars are starting over",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQS3UyakJFLS1abjBOdmg4RE1qZjBIam9VdW9yOEpBbG1udUl6N28tOUttR1ZMbC0zdjczbDMzUzVrWlNielQ1QmtwdldNNkRldkl6N1NJVDVpaWZSNHlXNExSb3VNRmlLN3cyUkQ0bU5PdDFtaHAweHhzZ3ZKY3FLU3VWREZsOV9VdFM5VUJnS3Vib0ZPU2Y4SVhySG16Wnh1amcxemt0c19abHJsdHlLdzN1Y0l4VlVZYkUzSlItUVhERFlCVWdkZ3lyUkpkZkk3bENYTUZDWEhVbTN0WUtxdDBIaDVJejdacTJvYmZhQdIB9AFBVV95cUxQQjJyMTlsYTg2NktEZkpFcXZLVGNJYnhHRDRsNXZwcjJDUU5HNXVNUDQwQXZSQm1pNTIyVjZmZzJHUEZUbUZXZjZfS2NiQ2NMYzlKQUI4aDZsdzV4alA4NXNXTU42YlFpaElTMy1oSDMzUGJNUUc0SlU0Vk9NbFFINFZYZUdMVU1icVVZWkRJZjdnbVpKMEVNSVR1MjlocXozUEhIQkR4MTFHMlo0ajZ0bnByMlFBOFFFVEkwZGxCRXVIVzZQb2NzYVpQYkxQcG82QVItc0NISWczZUFnR2hhbFlnSkJXUzVWd1k4cFdqNExCYmVz?oc=5",
-      "publishedAt": "2026-11-06T15:00:00.000Z",
-      "source": "The Korea Times",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQS3UyakJFLS1abjBOdmg4RE1qZjBIam9VdW9yOEpBbG1udUl6N28tOUttR1ZMbC0zdjczbDMzUzVrWlNielQ1QmtwdldNNkRldkl6N1NJVDVpaWZSNHlXNExSb3VNRmlLN3cyUkQ0bU5PdDFtaHAweHhzZ3ZKY3FLU3VWREZsOV9VdFM5VUJnS3Vib0ZPU2Y4SVhySG16Wnh1amcxemt0c19abHJsdHlLdzN1Y0l4VlVZYkUzSlItUVhERFlCVWdkZ3lyUkpkZkk3bENYTUZDWEhVbTN0WUtxdDBIaDVJejdacTJvYmZhQdIB9AFBVV95cUxQQjJyMTlsYTg2NktEZkpFcXZLVGNJYnhHRDRsNXZwcjJDUU5HNXVNUDQwQXZSQm1pNTIyVjZmZzJHUEZUbUZXZjZfS2NiQ2NMYzlKQUI4aDZsdzV4alA4NXNXTU42YlFpaElTMy1oSDMzUGJNUUc0SlU0Vk9NbFFINFZYZUdMVU1icVVZWkRJZjdnbVpKMEVNSVR1MjlocXozUEhIQkR4MTFHMlo0ajZ0bnByMlFBOFFFVEkwZGxCRXVIVzZQb2NzYVpQYkxQcG82QVItc0NISWczZUFnR2hhbFlnSkJXUzVWd1k4cFdqNExCYmVz",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "d966bc79ce74",
-      "title": "New report on NewJeans contracts sparks debate over protections for young K-pop stars",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaVlpVVlHNk00b2Z6aklPV1dLU0NUeWZiYXpSU1QxQTNBQU5aYVRsTld1UWJwQjZSN1lzZVBKb0RnVS1wSW01c1JrZ2lJT2lFQzkyRWxxc0pDS2gxNVZXTFpmN1c3dnlNUzJPb1p4M0RzalFOR2FvM3ZsWjd5ME5FYzVGZ2RjOERaOHVyVjNfcHM1MmRJY3BVMHNWY3hjZzR4Y280c1JsUGVTd2dsNHpQc21yMUJTRUdWTWtzRU01UDlrbXp0QjU3S3JvX1JQXzZz0gHWAUFVX3lxTFAzbkw0OUhZM3pEejQ1UDU0ZHN4WGJjTEFxSDhVTG9DQUEzWUFPS2YyY3ZHbXpiaGR2S3NXUVdySU4ydkx2SEwzRFRvcU5hVDItN0lrd3BzMkRoSXU4NWl5bm0xeEJDeDFiYm9WWUpVMWtRa1d1LTlxMjJGbl9vTmdjU1pNVWxjOVhpb3RqSFNjYmtpdVV5NDFwa3hCWU9memp4Ymt1MHFRdjJleWEyOG5PanNueGE2SFNDX2ptRi1aUjgwenJuRHN0SGhQMGExWWpMQ1hSR0E?oc=5",
-      "publishedAt": "2026-11-06T14:50:14.000Z",
-      "source": "Firstpost",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaVlpVVlHNk00b2Z6aklPV1dLU0NUeWZiYXpSU1QxQTNBQU5aYVRsTld1UWJwQjZSN1lzZVBKb0RnVS1wSW01c1JrZ2lJT2lFQzkyRWxxc0pDS2gxNVZXTFpmN1c3dnlNUzJPb1p4M0RzalFOR2FvM3ZsWjd5ME5FYzVGZ2RjOERaOHVyVjNfcHM1MmRJY3BVMHNWY3hjZzR4Y280c1JsUGVTd2dsNHpQc21yMUJTRUdWTWtzRU01UDlrbXp0QjU3S3JvX1JQXzZz0gHWAUFVX3lxTFAzbkw0OUhZM3pEejQ1UDU0ZHN4WGJjTEFxSDhVTG9DQUEzWUFPS2YyY3ZHbXpiaGR2S3NXUVdySU4ydkx2SEwzRFRvcU5hVDItN0lrd3BzMkRoSXU4NWl5bm0xeEJDeDFiYm9WWUpVMWtRa1d1LTlxMjJGbl9vTmdjU1pNVWxjOVhpb3RqSFNjYmtpdVV5NDFwa3hCWU9memp4Ymt1MHFRdjJleWEyOG5PanNueGE2SFNDX2ptRi1aUjgwenJuRHN0SGhQMGExWWpMQ1hSR0E",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "3da8806e770c",
-      "title": "A2O groups debut with young, multinational lineup and old-school K-pop formula",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5UYkJoUEhfQnVqQUJieUk2Tnh3ZGxRTVRSZkJXdlVBTXJJazl5UmJGNG1OQVByZU5jQzBSWmxHZlhBX1d0bkV6U2w1bnZ3OXB5X2x0Qi1IMA?oc=5",
-      "publishedAt": "2026-11-06T14:34:10.000Z",
-      "source": "The Korea Herald",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5UYkJoUEhfQnVqQUJieUk2Tnh3ZGxRTVRSZkJXdlVBTXJJazl5UmJGNG1OQVByZU5jQzBSWmxHZlhBX1d0bkV6U2w1bnZ3OXB5X2x0Qi1IMA",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "b2185ee0ed69",
-      "title": "Daft Punk and ‘KPop Demon Hunters’ Unite in Lego Holiday Campaign",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV2lKR0VfTmRPMDVXUkJXOGdic1JQZk0yNUwxbjk5TlpMRzFObEFjUW1BbnB0WjNHME9BYVo1VWZVbVJMdEFmWGJhT0Izb2RXM0hpOWhKN01EamUwa0N1WFhPZmpNeXhtT3JuUlVIa1E2UGpXckZzbVRYNkxnbUstN0hpUzZyZ1l3VGVjOEhYMDVtSHRveVY0WFYtTXpUc3I2S21N?oc=5",
-      "publishedAt": "2026-11-06T13:55:00.000Z",
-      "source": "Variety",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV2lKR0VfTmRPMDVXUkJXOGdic1JQZk0yNUwxbjk5TlpMRzFObEFjUW1BbnB0WjNHME9BYVo1VWZVbVJMdEFmWGJhT0Izb2RXM0hpOWhKN01EamUwa0N1WFhPZmpNeXhtT3JuUlVIa1E2UGpXckZzbVRYNkxnbUstN0hpUzZyZ1l3VGVjOEhYMDVtSHRveVY0WFYtTXpUc3I2S21N",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "045cac45a4bf",
-      "title": "How Airplane Scene In KPop Demon Hunters Was Made",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcVlnMS1rbktvSVBKUHpXQWM3c0lIQjM1eWRlemhsWFFMYi1nUkZHLVF6emc2ejUtbWxudndZOExjVDhfeFc2VDY4TnR2Y2xTdXJiX3RRcHFKMWpSNFdEcVpQRG05LVlmM1hrUUp6TlJMM1RsbDZZblNlbnFwT1lPWDRoZ2s?oc=5",
-      "publishedAt": "2026-11-06T13:48:37.000Z",
-      "source": "80 Level",
-      "articleUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcVlnMS1rbktvSVBKUHpXQWM3c0lIQjM1eWRlemhsWFFMYi1nUkZHLVF6emc2ejUtbWxudndZOExjVDhfeFc2VDY4TnR2Y2xTdXJiX3RRcHFKMWpSNFdEcVpQRG05LVlmM1hrUUp6TlJMM1RsbDZZblNlbnFwT1lPWDRoZ2s",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "fc21d882fb86",
-      "title": "Joy And Kim Hyun Jin Talk About Their Roles And Heart-Fluttering Romance In “One Of A Kind Romance”",
-      "url": "https://www.soompi.com/article/1884753wpp/joy-and-kim-hyun-jin-talk-about-their-roles-and-heart-fluttering-romance-in-one-of-a-kind-romance",
-      "publishedAt": "2026-11-06T12:04:44.000Z",
-      "source": "Soompi",
-      "articleUrl": "https://www.soompi.com/article/1884753wpp/joy-and-kim-hyun-jin-talk-about-their-roles-and-heart-fluttering-romance-in-one-of-a-kind-romance",
-      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/06210233/One-of-a-Kind-Romance-1-1.jpg",
-      "social": {
-        "category": "K-DRAMA NEWS",
-        "headline": "JOY AND KIM HYUN JIN TALK ABOUT THEIR ROLES AND HEART-FLUTTERING ROMANCE IN “ONE OF A KIND ROMANCE”:…",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "K-DRAMA NEWS",
-          "Headline": "JOY AND KIM HYUN JIN TALK ABOUT THEIR ROLES AND HEART-FLUTTERING ROMANCE IN “ONE OF A KIND ROMANCE”:…",
-          "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/06210233/One-of-a-Kind-Romance-1-1.jpg"
         },
         "canvaDesignId": null
       }
