@@ -55,3 +55,7 @@ It uses Brevo for subscriber storage. Add these environment variables in Vercel:
 Add them to Production and Preview environments, then redeploy. Do not commit either value to GitHub.
 
 The endpoint validates email addresses, includes a honeypot bot check, keeps credentials server-side, and uses Brevo's `updateEnabled` behavior so repeat signups do not create duplicate contacts.
+
+## Design
+
+Editorial layout in the logo colours (navy #01229a, pink #fe0862) with Archivo type, a navy nav bar and footer, video mood loops in `assets/video/`, and live data rendered by `script.js`. Deploy changes from the latest `main` commit; avoid redeploying older deployments in Vercel.
