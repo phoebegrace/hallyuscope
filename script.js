@@ -1,169 +1,207 @@
-const menuBtn=document.getElementById('menuBtn');
-const mobileMenu=document.getElementById('mobileMenu');
-if(menuBtn&&mobileMenu){
-  menuBtn.addEventListener('click',()=>{const open=mobileMenu.classList.toggle('open');mobileMenu.setAttribute('aria-hidden',String(!open));menuBtn.textContent=open?'Close':'Menu';});
-  mobileMenu.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{mobileMenu.classList.remove('open');menuBtn.textContent='Menu';}));
-}
-const searchPanel=document.getElementById('searchPanel');
-const searchBtn=document.getElementById('searchBtn');
-const closeSearch=document.getElementById('closeSearch');
-if(searchBtn&&searchPanel) searchBtn.addEventListener('click',()=>{searchPanel.classList.add('open');searchPanel.setAttribute('aria-hidden','false');});
-if(closeSearch&&searchPanel) closeSearch.addEventListener('click',()=>{searchPanel.classList.remove('open');searchPanel.setAttribute('aria-hidden','true');});
-document.addEventListener('keydown',e=>{if(e.key==='Escape'&&searchPanel)searchPanel.classList.remove('open');});
+/* HallyuScope — live front page */
+(() => {
+  const $ = (s, r = document) => r.querySelector(s);
+  const $$ = (s, r = document) => [...r.querySelectorAll(s)];
+  const TZ = 'Asia/Manila';
+  const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
 
-const escapeHtml=(value='')=>String(value).replace(/[&<>'"]/g,(char)=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[char]));
+  /* ---------- text helpers ---------- */
+  const decoder = document.createElement('textarea');
+  const decode = (s = '') => { decoder.innerHTML = s; return decoder.value; };
+  const esc = (s = '') => String(s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 
-function relativeTime(iso){
-  if(!iso) return 'LATEST';
-  const t=new Date(iso).getTime();
-  if(Number.isNaN(t)) return 'LATEST';
-  const ms=Math.max(0,Date.now()-t);
-  const mins=Math.max(1,Math.round(ms/60000));
-  if(mins<60) return `${mins} MIN AGO`;
-  const hours=Math.round(mins/60);
-  if(hours<24) return `${hours} HOUR${hours===1?'':'S'} AGO`;
-  const days=Math.round(hours/24);
-  return `${days} DAY${days===1?'':'S'} AGO`;
-}
-
-function publishedDate(iso){
-  if(!iso) return 'RECENT';
-  const d=new Date(iso);
-  if(Number.isNaN(d.getTime())) return 'RECENT';
-  return d.toLocaleDateString('en-PH',{month:'short',day:'numeric'}).toUpperCase();
-}
-
-async function getJson(path){
-  const res=await fetch(`${path}?v=${Date.now()}`,{cache:'no-store'});
-  if(!res.ok) throw new Error(`HTTP ${res.status}`);
-  return res.json();
-}
-
-function bindCard(card,item,index){
-  if(!card||!item) return;
-  const meta=card.querySelector('.story-meta');
-  const title=card.querySelector('h3');
-  const desc=card.querySelector('p');
-  const label=card.querySelector('.story-media span');
-  if(meta) meta.textContent=`${item.source||'K-POP'} · ${relativeTime(item.publishedAt)}`;
-  if(title) title.textContent=item.title;
-  if(desc) desc.textContent='Open the original report for full details and source context.';
-  if(label) label.textContent=index===0?'TOP STORY':'LIVE';
-  card.dataset.href=item.url;
-  card.tabIndex=0;
-  card.setAttribute('role','link');
-  card.setAttribute('aria-label',item.title);
-  const go=()=>window.open(item.url,'_blank','noopener,noreferrer');
-  card.addEventListener('click',go);
-  card.addEventListener('keydown',(e)=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();go();}});
-}
-
-async function loadLiveNews(){
-  try{
-    const data=await getJson('data/latest.json');
-    const items=(data.items||[]).slice(0,5);
-    if(!items.length) return;
-    [...document.querySelectorAll('[data-live-card]')].forEach((card,index)=>bindCard(card,items[index],index));
-    const ticker=document.getElementById('tickerTrack');
-    if(ticker) ticker.innerHTML=items.map((item,i)=>`<span>${escapeHtml(item.title.toUpperCase())}</span>${i<items.length-1?'<i></i>':''}`).join('');
-  }catch(err){console.warn('Live K-pop data unavailable; showing editorial fallback.',err);}
-}
-
-function mediaClassFor(index){return ['media-pink','media-blue','media-white','media-dark','media-gradient'][index%5];}
-
-async function loadLatestArchive(){
-  const root=document.getElementById('latestArchive'); if(!root) return;
-  try{
-    const data=await getJson('data/latest.json');
-    root.innerHTML=(data.items||[]).map((item,i)=>`<a class="archive-card" href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer"><div class="story-media ${mediaClassFor(i)}"><span>${i===0?'TOP STORY':'LIVE'}</span></div><div class="story-meta">${escapeHtml(item.source||'K-POP')} · ${relativeTime(item.publishedAt)}</div><h2>${escapeHtml(item.title)}</h2></a>`).join('');
-  }catch(e){root.innerHTML='<p class="data-note">Live stories are temporarily unavailable.</p>';}
-}
-
-async function loadComebackArchive(){
-  const root=document.getElementById('comebackArchive'); if(!root) return;
-  try{
-    const data=await getJson('data/comeback-candidates.json');
-    const items=data.items||[];
-    root.innerHTML=items.map(item=>`<article class="release-item"><div class="release-date">${publishedDate(item.publishedAt)}</div><div><div class="story-meta">${escapeHtml(item.source||'SOURCE')}</div><h2>${escapeHtml(item.title)}</h2></div><a href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">Source →</a></article>`).join('') || '<p class="data-note">No comeback announcements found right now.</p>';
-  }catch(e){root.innerHTML='<p class="data-note">Comeback data is temporarily unavailable.</p>';}
-}
-
-async function loadConcertArchive(){
-  const root=document.getElementById('concertArchive'); if(!root) return;
-  try{
-    const data=await getJson('data/concert-candidates.json');
-    const items=data.items||[];
-    root.innerHTML=items.map(item=>`<article class="concert-page-card"><div class="date-block"><b>${publishedDate(item.publishedAt).split(' ')[1]||'NEW'}</b><span>${publishedDate(item.publishedAt).split(' ')[0]||''}</span></div><div><span class="story-meta">${escapeHtml(item.source||'SOURCE')}</span><h2>${escapeHtml(item.title)}</h2><p>Live concert announcement matching Manila / Philippines.</p></div><a class="status-chip" href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">SOURCE ↗</a></article>`).join('') || '<p class="data-note">No Philippine K-pop concert announcements found right now.</p>';
-  }catch(e){root.innerHTML='<p class="data-note">Concert data is temporarily unavailable.</p>';}
-}
-
-async function loadHomeConcerts(){
-  const root=document.getElementById('homeConcertList'); if(!root) return;
-  try{
-    const data=await getJson('data/concert-candidates.json');
-    const items=(data.items||[]).slice(0,3);
-    if(!items.length){root.innerHTML='<p class="data-note">No fresh Philippine concert announcements found right now.</p>';return;}
-    root.innerHTML=items.map(item=>`<article class="concert-row"><div class="date-block"><b>${publishedDate(item.publishedAt).split(' ')[1]||'NEW'}</b><span>${publishedDate(item.publishedAt).split(' ')[0]||''}</span></div><div class="concert-name"><span>${escapeHtml(item.source||'LIVE')}</span><h3>${escapeHtml(item.title)}</h3></div><div class="concert-meta">PH concert announcement</div><a href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">Source</a></article>`).join('');
-  }catch(e){root.innerHTML='<p class="data-note">Concert feed is temporarily unavailable.</p>';}
-}
-
-async function loadHomeComebacks(){
-  const root=document.getElementById('comebackGrid'); if(!root) return;
-  try{
-    const data=await getJson('data/comeback-candidates.json');
-    const items=(data.items||[]).slice(0,4);
-    if(!items.length) return;
-    root.innerHTML=items.map((item,i)=>`<a class="calendar-card${i===1?' active':''}" href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer"><span class="calendar-date">${escapeHtml(item.source||'SOURCE')}</span><b>${publishedDate(item.publishedAt).split(' ')[1]||'NEW'}</b><h3>${escapeHtml(item.title)}</h3><p>Announcement published ${relativeTime(item.publishedAt).toLowerCase()}.</p></a>`).join('');
-  }catch(e){console.warn('Comeback feed unavailable',e);}
-}
-
-loadLiveNews();
-loadLatestArchive();
-loadComebackArchive();
-loadConcertArchive();
-loadHomeConcerts();
-loadHomeComebacks();
-
-
-const newsletterForm=document.getElementById('newsletterForm');
-if(newsletterForm){
-  const emailInput=document.getElementById('newsletterEmail');
-  const submitBtn=document.getElementById('newsletterSubmit');
-  const signupMessage=document.getElementById('signupMessage');
-
-  newsletterForm.addEventListener('submit',async(e)=>{
-    e.preventDefault();
-
-    const email=(emailInput?.value||'').trim();
-    const website=(newsletterForm.elements.website?.value||'').trim();
-
-    if(!email||!emailInput.checkValidity()){
-      signupMessage.textContent='Please enter a valid email address.';
-      emailInput?.focus();
-      return;
+  function cleanTitle(item) {
+    let t = decode(item.title || '').replace(/\s+/g, ' ').trim();
+    const src = (item.source || '').trim();
+    if (src) {
+      const tail = new RegExp('\\s+[-–|]\\s+' + src.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '$', 'i');
+      t = t.replace(tail, '');
     }
+    t = t.replace(/\s*\((?:📷|photo|via)[^)]*\)/gi, '')
+         .replace(/\s*\|\s*(?:via\b.*|vi|v)$/i, '')
+         .replace(/\s*\|\s*$/, '').trim();
+    if (t.length > 130) t = t.slice(0, 126).replace(/\s+\S*$/, '') + '…';
+    return t;
+  }
 
-    submitBtn.disabled=true;
-    submitBtn.textContent='Joining…';
-    signupMessage.textContent='Adding you to the list…';
+  const RULES = [
+    ['Concert', /\b(concert|tour|fan ?con|fan ?meeting|fanmeet|encore|arena|stadium|ticket|showcase in|world tour)\b/i],
+    ['Drama', /\b(drama|k-drama|episode|series|netflix|disney\+|tving|film|movie|actor|actress|cast|starring|watch:|webtoon|rom-com|romance|genre|empress|lead roles?|bid farewell)\b/i],
+    ['Music', /\b(comeback|album|single|release|mv|music video|title track|debut|teaser|tracklist|mini|ep|chart|billboard|melon|song|ost)\b/i],
+  ];
+  const tagOf = t => (RULES.find(([, re]) => re.test(t)) || ['News'])[0];
 
-    try{
-      const res=await fetch('/api/subscribe',{
-        method:'POST',
-        headers:{'Content-Type':'application/json'},
-        body:JSON.stringify({email,website})
-      });
+  const normalize = list => (list || []).map(it => {
+    const title = cleanTitle(it);
+    return { ...it, title, tag: tagOf(title), time: new Date(it.publishedAt) };
+  }).filter(it => it.title && it.url);
 
-      const data=await res.json().catch(()=>({}));
-      if(!res.ok) throw new Error(data.error||'Unable to subscribe right now.');
+  function ago(d) {
+    const ms = Date.now() - d.getTime();
+    if (!isFinite(ms)) return 'Recent';
+    const m = Math.max(1, Math.round(ms / 6e4));
+    if (m < 60) return `${m} min ago`;
+    const h = Math.round(m / 60);
+    if (h < 24) return `${h} hr${h > 1 ? 's' : ''} ago`;
+    const dd = Math.round(h / 24);
+    return `${dd} day${dd > 1 ? 's' : ''} ago`;
+  }
+  const fmt = (d, o) => isFinite(d) ? d.toLocaleDateString('en-PH', { timeZone: TZ, ...o }) : '';
+  const dayNum = d => fmt(d, { day: '2-digit' });
+  const mon = d => fmt(d, { month: 'short' }).toUpperCase();
+  const clock = d => isFinite(d) ? d.toLocaleTimeString('en-PH', { timeZone: TZ, hour: 'numeric', minute: '2-digit' }) : '';
+  const dayKey = d => fmt(d, { year: 'numeric', month: '2-digit', day: '2-digit' });
 
-      signupMessage.textContent=data.message||'You’re on the list.';
-      newsletterForm.reset();
-    }catch(err){
-      signupMessage.textContent=err.message||'Something went wrong. Please try again.';
-    }finally{
-      submitBtn.disabled=false;
-      submitBtn.textContent='Join free';
-    }
+  function dayLabel(d) {
+    const k = dayKey(d), today = dayKey(new Date()), yest = dayKey(new Date(Date.now() - 864e5));
+    if (k === today) return 'Today';
+    if (k === yest) return 'Yesterday';
+    return fmt(d, { weekday: 'long' });
+  }
+
+  /* ---------- data ---------- */
+  const cache = {};
+  const get = name => cache[name] ||= fetch(`/data/${name}.json?v=${Math.floor(Date.now() / 6e5)}`, { cache: 'no-store' })
+    .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); });
+
+  /* ---------- chrome: date, updated, nav ---------- */
+  const today = $('[data-today]');
+  if (today) today.textContent = fmt(new Date(), { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
+
+  get('latest').then(d => {
+    const u = new Date(d.updatedAt);
+    $$('[data-updated]').forEach(el => el.textContent = `Updated ${ago(u)}`);
+  }).catch(() => $$('[data-updated]').forEach(el => el.textContent = 'Updated hourly'));
+
+  const nav = $('.nav'), mast = $('.masthead');
+  if (nav && mast && 'IntersectionObserver' in window) {
+    new IntersectionObserver(([e]) => nav.classList.toggle('compact', !e.isIntersecting), { threshold: 0 }).observe(mast);
+  }
+
+  const link = (it, inner, cls = '') => `<a class="${cls}" href="${esc(it.url)}" target="_blank" rel="noopener">${inner}</a>`;
+  const tag = it => `<span class="tag" data-t="${it.tag}">${it.tag}</span>`;
+  const srcMeta = it => `<span class="meta"><b>${esc(it.source || 'Source')}</b> · ${ago(it.time)}</span>`;
+
+  /* ---------- home ---------- */
+  async function home() {
+    const lead = $('#lead'); if (!lead) return;
+    try {
+      const items = normalize((await get('latest')).items);
+      if (!items.length) throw 0;
+      const top = items[0];
+      $('[data-lead-tags]', lead).innerHTML = `${tag(top)}${srcMeta(top)}`;
+      $('.lead-title', lead).innerHTML = link(top, esc(top.title));
+      $$('[data-lead-link]', lead).forEach(a => { a.href = top.url; a.target = '_blank'; a.rel = 'noopener'; });
+      $('[data-lead-src]', lead).textContent = top.source || 'source';
+      $('#also').innerHTML = items.slice(1, 7).map(it => `<li>${link(it, `<h3>${esc(it.title)}</h3>${srcMeta(it)}`)}</li>`).join('');
+      const tick = items.slice(0, 12).map(it => link(it, esc(it.title))).join('');
+      $('#ticker').innerHTML = tick + tick;
+    } catch { $('.lead-title', lead).textContent = 'Live headlines are refreshing — check back in a moment.'; }
+
+    get('concert-candidates').then(d => {
+      const items = normalize(d.items).slice(0, 4);
+      $('#homeConcerts').innerHTML = items.length ? items.map(ledgerRow).join('') : '<li class="empty">No new Philippine concert announcements this hour.</li>';
+    }).catch(() => $('#homeConcerts').innerHTML = '<li class="empty">Concert radar is refreshing.</li>');
+
+    get('comeback-candidates').then(d => {
+      const items = normalize(d.items).filter(i => i.tag !== 'Drama').slice(0, 4);
+      const sameDay = new Set(items.map(i => dayKey(i.time))).size === 1;
+      const big = it => sameDay
+        ? `<div class="d clock">${clock(it.time).replace(/\s?[AP]M/i, '')}<small>${clock(it.time).slice(-2).toUpperCase()} · ${dayLabel(it.time)}</small></div>`
+        : `<div class="d">${dayNum(it.time)}<small>${mon(it.time)}</small></div>`;
+      $('#homeComebacks').innerHTML = items.map(it => link(it,
+        `${big(it)}<span class="meta"><b>${esc(it.source || '')}</b></span><h3>${esc(it.title)}</h3>`, 'cb scope')).join('');
+    }).catch(() => {});
+  }
+
+  const ledgerRow = it => `<li>${link(it,
+    `<div class="d"><b>${dayNum(it.time)}</b><span>${mon(it.time)}</span></div><h3>${esc(it.title)}</h3><span class="meta s"><b>${esc(it.source || '')}</b><br>${ago(it.time)}</span><span class="arrow" aria-hidden="true">↗</span>`)}</li>`;
+
+  /* ---------- stream pages ---------- */
+  const streamRow = it => `<li>${link(it,
+    `<span class="t">${clock(it.time)}</span><div><h3>${esc(it.title)}</h3><div class="src">${tag(it)}<span class="meta"><b>${esc(it.source || '')}</b> · ${ago(it.time)}</span></div></div><span class="go" aria-hidden="true">↗</span>`)}</li>`;
+
+  function grouped(items, row = streamRow) {
+    const groups = [];
+    items.forEach(it => {
+      const k = dayKey(it.time);
+      let g = groups.find(x => x.k === k);
+      if (!g) groups.push(g = { k, d: it.time, list: [] });
+      g.list.push(it);
+    });
+    return groups.map(g => `<section class="day"><div class="day-label"><strong>${dayLabel(g.d)}</strong><span class="meta">${fmt(g.d, { day: 'numeric', month: 'long' })}</span></div><ol class="stream">${g.list.map(row).join('')}</ol></section>`).join('');
+  }
+
+  async function streamPage(root, feed, opts = {}) {
+    try {
+      let items = normalize((await get(feed)).items).sort((a, b) => b.time - a.time);
+      if (opts.filter) items = items.filter(opts.filter);
+      const count = $('[data-count]');
+      if (count) count.textContent = `${items.length} ${opts.noun || 'stories'}`;
+      if (!items.length) { root.innerHTML = `<p class="empty">${opts.empty || 'Nothing new this hour.'}</p>`; return; }
+      const bar = $('#filters');
+      const draw = t => { root.innerHTML = opts.ledger
+        ? `<ol class="ledger light">${items.filter(i => !t || i.tag === t).map(ledgerRow).join('')}</ol>`
+        : grouped(items.filter(i => !t || i.tag === t)); };
+      if (bar) {
+        const tags = ['Music', 'Drama', 'Concert', 'News'].map(t => [t, items.filter(i => i.tag === t).length]).filter(([, n]) => n);
+        bar.innerHTML = [['All', items.length], ...tags].map(([t, n], i) => `<button type="button" data-tag="${t}" aria-pressed="${i === 0}">${t}<span>${n}</span></button>`).join('');
+        bar.addEventListener('click', e => {
+          const b = e.target.closest('button'); if (!b) return;
+          $$('button', bar).forEach(x => x.setAttribute('aria-pressed', x === b));
+          draw(b.dataset.tag === 'All' ? '' : b.dataset.tag);
+        });
+      }
+      draw('');
+    } catch { root.innerHTML = '<p class="empty">Live data is refreshing — try again in a moment.</p>'; }
+  }
+
+  const page = document.body.dataset.page;
+  if (page === 'home') home();
+  if (page === 'latest') streamPage($('#stream'), 'latest');
+  if (page === 'comebacks') streamPage($('#stream'), 'comeback-candidates', { noun: 'announcements' });
+  if (page === 'concerts') streamPage($('#stream'), 'concert-candidates', { ledger: true, noun: 'announcements', empty: 'No new Philippine concert announcements this hour.' });
+
+  /* ---------- search ---------- */
+  const panel = $('#search'), input = $('#q'), out = $('#results');
+  let pool = null;
+  async function loadPool() {
+    if (pool) return pool;
+    const feeds = await Promise.allSettled(['latest', 'concert-candidates', 'comeback-candidates'].map(get));
+    const seen = new Set();
+    pool = feeds.flatMap(f => f.status === 'fulfilled' ? normalize(f.value.items) : [])
+      .filter(i => !seen.has(i.url) && seen.add(i.url)).sort((a, b) => b.time - a.time);
+    return pool;
+  }
+  function render(q) {
+    const words = q.toLowerCase().split(/\s+/).filter(Boolean);
+    const hits = words.length ? pool.filter(i => words.every(w => (i.title + ' ' + i.source + ' ' + i.tag).toLowerCase().includes(w))) : pool.slice(0, 8);
+    out.innerHTML = `<p class="meta">${words.length ? `${hits.length} result${hits.length === 1 ? '' : 's'}` : 'Latest across HallyuScope'}</p>` +
+      (hits.length ? `<ol class="stream">${hits.slice(0, 40).map(streamRow).join('')}</ol>` : '<p class="empty">No matches yet. Try a group, artist or city.</p>');
+  }
+  function openSearch() {
+    if (!panel) return;
+    panel.classList.add('open'); panel.setAttribute('aria-hidden', 'false');
+    document.body.style.overflow = 'hidden';
+    setTimeout(() => input.focus(), 30);
+    loadPool().then(() => render(input.value));
+  }
+  function closeSearch() {
+    if (!panel) return;
+    panel.classList.remove('open'); panel.setAttribute('aria-hidden', 'true');
+    document.body.style.overflow = '';
+  }
+  $$('[data-open-search]').forEach(b => b.addEventListener('click', openSearch));
+  $('#searchClose')?.addEventListener('click', closeSearch);
+  input?.addEventListener('input', () => pool && render(input.value));
+  document.addEventListener('keydown', e => {
+    if (e.key === 'Escape') closeSearch();
+    if (e.key === '/' && !/input|textarea/i.test(document.activeElement.tagName)) { e.preventDefault(); openSearch(); }
   });
-}
+
+  /* ---------- reveal on scroll ---------- */
+  if (!reduce && 'IntersectionObserver' in window) {
+    const io = new IntersectionObserver(es => es.forEach(e => { if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); } }), { rootMargin: '0px 0px -8% 0px' });
+    $$('.rv').forEach(el => io.observe(el));
+  } else $$('.rv').forEach(el => el.classList.add('in'));
+})();
