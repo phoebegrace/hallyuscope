@@ -4,7 +4,7 @@
   const id = new URLSearchParams(location.search).get('id');
   if (!id) { root.innerHTML = '<p class="empty">Story not found.</p>'; return; }
 
-  fetch('/data/article-drafts.json?v=' + Date.now(), {cache:'no-store'})
+  fetch('https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/data/article-drafts.json?v=' + Date.now(), {cache:'no-store'})
     .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
     .then(data => {
       const item = (data.items || []).find(x => x.id === id && x.status === 'published');
