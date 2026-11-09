@@ -1,0 +1,22 @@
+{
+  "updatedAt": "2026-11-09T12:07:01.654Z",
+  "note": "Verified upcoming Philippine K-pop concerts. ticketUrl should only be an official promoter, venue, or ticketing destination.",
+  "items": [
+    {
+      "id": "rocky-manila-fan-concert-2026",
+      "artist": "ROCKY",
+      "tour": "Manila Fan Concert",
+      "date": "2026-12-05",
+      "venue": "TBA",
+      "city": "Metro Manila",
+      "type": "Fan Concert",
+      "status": "Announced",
+      "ticketRange": "TBA",
+      "promoter": "TBA",
+      "ticketProvider": "Official ticketing link pending verification",
+      "ticketUrl": null,
+      "description": "ROCKY is scheduled to hold a fan concert in Manila in December. HallyuScope is tracking the official venue, ticket prices, promoter and ticketing link and will update this entry once those details are confirmed.",
+      "relatedArticles": []
+    }
+  ]
+}
