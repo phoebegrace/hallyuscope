@@ -135,10 +135,11 @@
     <section class="newsletter">
       <div class="section-shell newsletter-inner">
         <div><span class="eyebrow light">GET THE SCOPE</span><h2>One clean K-pop digest.<br>No timeline overload.</h2></div>
-        <form class="signup" onsubmit="event.preventDefault(); document.getElementById('signupMessage').textContent='You’re on the list.';">
-          <input type="email" placeholder="Email address" required aria-label="Email address" />
-          <button type="submit">Join free</button>
-          <small id="signupMessage">Weekly highlights, concerts and comeback alerts.</small>
+        <form class="signup" id="newsletterForm" novalidate>
+          <input id="newsletterEmail" name="email" type="email" placeholder="Email address" required autocomplete="email" aria-label="Email address" />
+          <input name="website" type="text" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;opacity:0;pointer-events:none" />
+          <button type="submit" id="newsletterSubmit">Join free</button>
+          <small id="signupMessage" aria-live="polite">Weekly highlights, concerts and comeback alerts. Unsubscribe anytime.</small>
         </form>
       </div>
     </section>
