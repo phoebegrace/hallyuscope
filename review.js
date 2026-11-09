@@ -11,6 +11,7 @@
   let items = [];
   let current = null;
   let filter = 'pending_review';
+  let autoPublish = false;
 
   const esc = (s='') => String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 
@@ -73,10 +74,20 @@
       <p class="meta" id="reviewActionMessage"></p>`;
   }
 
+  function renderAutoPublish(){
+    const toggle=$('#autoPublishToggle');
+    const label=$('#autoPublishLabel');
+    if(toggle) toggle.checked=autoPublish;
+    if(label) label.textContent=autoPublish?'On':'Off';
+    document.querySelector('.review-autopublish')?.classList.toggle('is-on',autoPublish);
+  }
+
   async function load(){
     const data = await api('list');
     items = data.items || [];
+    autoPublish = data.autoPublish === true;
     counts();
+    renderAutoPublish();
     if(current) current = items.find(x=>x.id===current.id) || null;
     renderList(); renderEditor();
   }
@@ -135,6 +146,21 @@
   });
 
   $('#reviewRefresh').addEventListener('click',()=>load().catch(()=>{}));
+  $('#autoPublishToggle').addEventListener('change',async e=>{
+    const wanted=e.target.checked;
+    const label=$('#autoPublishLabel');
+    if(label) label.textContent='Saving…';
+    e.target.disabled=true;
+    try{
+      const data=await api('set_auto_publish',{enabled:wanted});
+      autoPublish=data.autoPublish===true;
+      renderAutoPublish();
+    }catch(err){
+      e.target.checked=autoPublish;
+      renderAutoPublish();
+      alert(err.message);
+    }finally{e.target.disabled=false;}
+  });
   $('#reviewLogout').addEventListener('click',()=>{
     sessionStorage.removeItem('hallyuscope_review_password'); password=''; desk.hidden=true; login.hidden=false; $('#reviewPassword').value='';
   });
