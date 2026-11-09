@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T12:38:07.063Z",
+  "updatedAt": "2026-11-09T13:10:42.877Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -779,8 +779,8 @@
     {
       "id": "454a9e9230f2",
       "createdAt": "2026-11-09T12:36:25.934Z",
-      "status": "pending_review",
-      "publishedAt": null,
+      "status": "published",
+      "publishedAt": "2026-11-09T13:10:42.877Z",
       "sourcePublishedAt": "2026-11-09T03:30:34.000Z",
       "model": "gpt-6.1-terra",
       "slug": "sbs-gayo-daejeon-reveals-hosts-for-two-day-2026-festival",
@@ -800,7 +800,13 @@
       ],
       "socialCaption": "Six stars will host the 2026 SBS Gayo Daejeon. Read on HallyuScope for the full day-by-day MC lineup.",
       "seoDescription": "The 2026 SBS Gayo Daejeon has announced its six hosts. See who will present each day of the two-day festival at KINTEX in Ilsan, South Korea.",
-      "sourceNote": "Source: Soompi"
+      "sourceNote": "Source: Soompi",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "HallyuScope original editorial cover."
+      },
+      "reviewedAt": "2026-11-09T13:10:42.877Z"
     },
     {
       "id": "83cc7ae8b16d",
