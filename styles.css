@@ -377,3 +377,16 @@ button,input{font:inherit;color:inherit}
   .sec-head::after{transform:none}
   .vid video{display:none}
 }
+
+/* ---------- colour frame: tinted top bar, navy nav bar + navy footer ---------- */
+.topbar{background:var(--tint);border-bottom:0}
+.nav{background:var(--navy);color:#fff;border-top:0;border-bottom:0}
+.nav-links a::after{bottom:0}
+.nav-logo img,.foot-logo img{filter:url(#logo-light)}
+.search-btn kbd{border-color:rgba(255,255,255,.35);color:rgba(255,255,255,.75)}
+.foot{background:var(--navy);color:#fff;border-top:0}
+.foot p,.foot-bottom{color:rgba(255,255,255,.72)}
+.foot h4{color:rgba(255,255,255,.55)}
+.foot-top{border-bottom-color:rgba(255,255,255,.18)}
+.foot ul a:hover{color:#fff;text-decoration:underline;text-decoration-color:var(--pink);text-decoration-thickness:2px;text-underline-offset:5px}
+.foot-mark{color:rgba(255,255,255,.07)}
