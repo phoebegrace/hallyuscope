@@ -58,7 +58,20 @@ export default async function handler(req,res){
     const {file,json}=await readQueue();
     const items=json.items||[];
 
-    if(action==='list') return reply(res,200,{updatedAt:json.updatedAt,items});
+    if(action==='list') return reply(res,200,{updatedAt:json.updatedAt,autoPublish:json.autoPublish===true,items});
+
+    if(action==='set_auto_publish'){
+      const enabled=req.body?.enabled===true;
+      const nextJson={...json,autoPublish:enabled,updatedAt:new Date().toISOString()};
+      const body={
+        message:'editorial: auto-publish '+(enabled?'on':'off'),
+        content:Buffer.from(JSON.stringify(nextJson,null,2)+'\n').toString('base64'),
+        sha:file.sha,
+        branch:'main'
+      };
+      await github('/repos/'+OWNER+'/'+REPO+'/contents/'+PATH,{method:'PUT',body:JSON.stringify(body)});
+      return reply(res,200,{autoPublish:enabled,items});
+    }
 
     if(action!=='update'||!id) return reply(res,400,{error:'Invalid action'});
     const index=items.findIndex(x=>x.id===id);
