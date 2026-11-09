@@ -600,3 +600,19 @@ button,input{font:inherit;color:inherit}
 .review-image-meta select{display:block;width:100%;margin-top:9px;border:1px solid var(--hair);background:#fff;padding:12px;font:600 14px/1.4 var(--f)}
 .review-image-reference{margin-top:10px;border-top:1px solid var(--hair);padding-top:10px}
 .review-image-reference .meta{word-break:break-all}
+
+
+/* ---------- Meta social review ---------- */
+.review-social{margin:28px 0;padding:22px;background:#f7f8fc;border-top:3px solid var(--navy)}
+.review-social-head{display:flex;align-items:flex-start;justify-content:space-between;gap:16px;margin-bottom:18px}
+.review-social-head h3{margin:6px 0 0;font:800 24px/1.05 var(--f)}
+.review-social-status{padding:6px 9px;background:#fff;border:1px solid var(--hair);font:750 10px/1 var(--f);text-transform:uppercase;letter-spacing:.06em}
+.review-social-platforms{display:flex;gap:18px;flex-wrap:wrap;margin:0 0 18px}
+.review-editor .review-check{display:flex;align-items:center;gap:8px;margin:0;font-size:13px;letter-spacing:0;text-transform:none}
+.review-editor .review-check input{width:auto;margin:0}
+.review-social-actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:10px}
+.review-social-actions button{border:0;padding:11px 14px;font-weight:800;cursor:pointer}
+.review-save-social{background:var(--ink);color:#fff}
+.review-post-meta{background:var(--navy);color:#fff}
+.review-post-meta:disabled{opacity:.55;cursor:wait}
+@media(max-width:640px){.review-social-head{flex-direction:column}.review-social-actions button{width:100%}}
