@@ -137,7 +137,7 @@
       let items = normalize((await get(feed)).items).sort((a, b) => b.time - a.time);
       if (opts.filter) items = items.filter(opts.filter);
       const count = $('[data-count]');
-      if (count) count.textContent = `${items.length} ${opts.noun || 'stories'}`;
+      if (count) { count.innerHTML = `<span>0</span> ${opts.noun || 'stories'}`; countUp(count, items.length); }
       if (!items.length) { root.innerHTML = `<p class="empty">${opts.empty || 'Nothing new this hour.'}</p>`; return; }
       const bar = $('#filters');
       const draw = t => { root.innerHTML = opts.ledger
@@ -154,6 +154,26 @@
       }
       draw('');
     } catch { root.innerHTML = '<p class="empty">Live data is refreshing — try again in a moment.</p>'; }
+  }
+
+  /* ---------- staggered lists ---------- */
+  function stagger(root) {
+    if (!root) return;
+    [...root.children].forEach((c, i) => c.style.setProperty('--i', Math.min(i, 12)));
+    root.classList.add('stg');
+    if (reduce || !io) { root.classList.add('in'); return; }
+    root.classList.remove('in');
+    requestAnimationFrame(() => io.observe(root));
+  }
+  const watch = sel => { const el = $(sel); if (!el) return;
+    new MutationObserver(() => { stagger(el); $$('.stream, .ledger', el).forEach(stagger); }).observe(el, { childList: true }); };
+  ['#also', '#homeConcerts', '#homeComebacks', '#stream', '#results'].forEach(watch);
+
+  function countUp(el, to) {
+    if (reduce) { el.firstChild.textContent = to; return; }
+    const t0 = performance.now(), dur = 900;
+    const step = t => { const k = Math.min(1, (t - t0) / dur); el.firstChild.textContent = Math.round(to * (1 - Math.pow(1 - k, 3))); if (k < 1) requestAnimationFrame(step); };
+    requestAnimationFrame(step);
   }
 
   const page = document.body.dataset.page;
@@ -200,8 +220,67 @@
   });
 
   /* ---------- reveal on scroll ---------- */
-  if (!reduce && 'IntersectionObserver' in window) {
-    const io = new IntersectionObserver(es => es.forEach(e => { if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); } }), { rootMargin: '0px 0px -8% 0px' });
-    $$('.rv').forEach(el => io.observe(el));
-  } else $$('.rv').forEach(el => el.classList.add('in'));
+  const io = (!reduce && 'IntersectionObserver' in window)
+    ? new IntersectionObserver(es => es.forEach(e => { if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); } }), { rootMargin: '0px 0px -8% 0px' })
+    : null;
+  const reveal = el => io ? io.observe(el) : el.classList.add('in');
+  $$('.rv').forEach(reveal);
+
+  // split statement lines into words that rise in one by one
+  $$('.words').forEach(el => {
+    let i = 0;
+    const walk = node => [...node.childNodes].forEach(n => {
+      if (n.nodeType === 3) {
+        const frag = document.createDocumentFragment();
+        n.textContent.split(/(\s+)/).forEach(part => {
+          if (!part) return;
+          if (/^\s+$/.test(part)) { frag.appendChild(document.createTextNode(part)); return; }
+          const w = document.createElement('span'); w.className = 'w';
+          const inner = document.createElement('span'); inner.textContent = part; inner.style.setProperty('--i', i++);
+          w.appendChild(inner); frag.appendChild(w);
+        });
+        n.replaceWith(frag);
+      } else walk(n);
+    });
+    walk(el); reveal(el);
+  });
+
+  /* ---------- mood loops: play only when on screen ---------- */
+  $$('.vid').forEach(fig => {
+    const v = $('video', fig); if (!v || reduce) return;
+    v.addEventListener('loadeddata', () => fig.classList.add('ready'), { once: true });
+    v.addEventListener('error', () => fig.classList.add('no-video'), true);
+    if ('IntersectionObserver' in window) {
+      new IntersectionObserver(([e]) => {
+        if (e.isIntersecting) { if (v.preload !== 'auto') { v.preload = 'auto'; v.load(); } v.play().catch(() => {}); }
+        else v.pause();
+      }, { threshold: .15 }).observe(fig);
+    } else { v.autoplay = true; v.load(); }
+  });
+})();
+
+/* ---------- newsletter (posts to /api/subscribe → Brevo) ---------- */
+(() => {
+  const form = document.getElementById('newsletterForm');
+  if (!form) return;
+  const input = document.getElementById('newsletterEmail');
+  const btn = document.getElementById('newsletterSubmit');
+  const msg = document.getElementById('signupMessage');
+  const say = (text, state = '') => { msg.textContent = text; msg.className = 'meta' + (state ? ' ' + state : ''); };
+  form.addEventListener('submit', async e => {
+    e.preventDefault();
+    const email = (input.value || '').trim();
+    const website = (form.elements.website?.value || '').trim();
+    if (!email || !input.checkValidity()) { say('Please enter a valid email address.', 'err'); input.focus(); return; }
+    btn.disabled = true; btn.textContent = 'Joining…'; say('Adding you to the list…');
+    try {
+      const res = await fetch('/api/subscribe', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ email, website }) });
+      const data = await res.json().catch(() => ({}));
+      if (!res.ok) throw new Error(data.error || 'Unable to subscribe right now.');
+      say(data.message || 'You’re on the list.', 'ok');
+      form.reset();
+    } catch (err) {
+      say(err.message || 'Something went wrong. Please try again.', 'err');
+    } finally { btn.disabled = false; btn.textContent = 'Join free'; }
+  });
 })();

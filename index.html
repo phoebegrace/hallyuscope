@@ -53,8 +53,8 @@
 
 <section class="wrap front">
   <article class="lead" id="lead">
+    <figure class="vid lead-media scope" data-vid="seoul"><video muted loop playsinline preload="metadata" poster="/assets/video/seoul.jpg"><source src="/assets/video/seoul.webm" type="video/webm"><source src="/assets/video/seoul.mp4" type="video/mp4"></video></figure>
     <div class="lead-top" data-lead-tags><span class="tag">Top story</span></div>
-    <div class="lead-num" aria-hidden="true">01</div>
     <h1 class="lead-title"><span class="sk" style="width:95%"></span><span class="sk" style="width:80%"></span><span class="sk" style="width:55%"></span></h1>
     <div class="lead-foot">
       <a class="cta" data-lead-link href="/latest">Read on <span data-lead-src>source</span> <span class="arr">↗</span></a>
@@ -68,7 +68,8 @@
   </aside>
 </section>
 
-<section class="on-navy section rv" aria-labelledby="concert-h">
+<section class="on-navy section rv band-vid" aria-labelledby="concert-h">
+  <figure class="vid band-bg" data-vid="crowd"><video muted loop playsinline preload="metadata" poster="/assets/video/crowd.jpg"><source src="/assets/video/crowd.webm" type="video/webm"><source src="/assets/video/crowd.mp4" type="video/mp4"></video></figure>
   <div class="wrap">
     <header class="sec-head">
       <div><span class="kr">콘서트</span><h2 id="concert-h">Concert radar <em>PH</em></h2></div>
@@ -89,17 +90,30 @@
 </section>
 
 <section class="wrap statement rv">
-  <p>Seoul moves fast. <span>We keep</span> <em>Manila</em> in the loop.</p>
-  <svg class="mark" viewBox="0 0 64 64" aria-hidden="true">
+  <p class="words">Seoul moves fast. <span>We keep</span> <em>Manila</em> in the loop.</p>
+  <div class="frame-wrap">
+    <figure class="vid frame" data-vid="manila"><video muted loop playsinline preload="metadata" poster="/assets/video/manila.jpg"><source src="/assets/video/manila.webm" type="video/webm"><source src="/assets/video/manila.mp4" type="video/mp4"></video></figure>
+  <svg class="mark mark-over" viewBox="0 0 64 64" aria-hidden="true">
     <g fill="none" stroke="#01229a" stroke-width="2.4" stroke-linecap="square"><path class="br b1" d="M4 16V4h12"/><path class="br b2" d="M48 4h12v12"/><path class="br b3" d="M60 48v12H48"/><path class="br b4" d="M16 60H4V48"/></g>
     <circle cx="32" cy="32" r="15.5" fill="none" stroke="#fe0862" stroke-width="7"/>
     <g stroke="#fff" stroke-width="1.6"><path d="M32 12v10M32 42v10M12 32h10M42 32h10"/></g>
     <path class="star" fill="#fe0862" d="M32 23Q33.1 30.9 41 32Q33.1 33.1 32 41Q30.9 33.1 23 32Q30.9 30.9 32 23Z"/>
   </svg>
+  </div>
   <div class="statement-foot">
     <p>HallyuScope scans Korean entertainment news every hour — music, dramas, concerts and culture — and puts the stories Filipino fans care about in one clean place.</p>
     <a class="cta" href="/latest">Start reading <span class="arr">→</span></a>
   </div>
+</section>
+
+<section class="wrap news-sign rv" aria-labelledby="nl-h">
+  <div class="nl-copy"><span class="kr">팬 뉴스</span><h2 id="nl-h">The weekly <em>scope</em></h2><p>One email a week: the biggest comebacks, Philippine concert dates and the stories worth your time. No spam. Unsubscribe anytime.</p></div>
+  <form class="nl-form" id="newsletterForm" novalidate>
+    <label class="sr-only" for="newsletterEmail">Email address</label>
+    <div class="nl-row"><input id="newsletterEmail" name="email" type="email" placeholder="you@email.com" autocomplete="email" required><button id="newsletterSubmit" type="submit">Join free</button></div>
+    <div class="hp" aria-hidden="true"><label>Website <input name="website" tabindex="-1" autocomplete="off"></label></div>
+    <p class="meta" id="signupMessage" role="status" aria-live="polite">Free · Weekly · Straight to your inbox</p>
+  </form>
 </section>
 
 <section class="wrap section rv" aria-labelledby="g-h" style="padding-top:0">
