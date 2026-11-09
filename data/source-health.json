@@ -1,40 +1,40 @@
 {
-  "updatedAt": "2026-11-09T12:07:03.346Z",
+  "updatedAt": "2026-11-09T12:33:33.511Z",
   "sources": [
     {
       "source": "Soompi",
       "url": "https://www.soompi.com/feed",
       "ok": true,
       "count": 60,
-      "ms": 340
+      "ms": 304
     },
     {
       "source": "Kpopmap",
       "url": "https://www.kpopmap.com/en/feed/",
       "ok": true,
       "count": 0,
-      "ms": 154
+      "ms": 190
     },
     {
       "source": "Google News · K-pop",
       "url": "https://news.google.com/rss/search?q=K-pop+when%3A7d&hl=en-PH&gl=PH&ceid=PH%3Aen",
       "ok": true,
       "count": 100,
-      "ms": 497
+      "ms": 612
     },
     {
       "source": "Google News · PH concerts",
       "url": "https://news.google.com/rss/search?q=%28K-pop+OR+Kpop%29+%28Manila+OR+Philippines%29+%28concert+OR+tour+OR+fancon+OR+%22fan+meeting%22%29+when%3A60d&hl=en-PH&gl=PH&ceid=PH%3Aen",
       "ok": true,
-      "count": 24,
-      "ms": 411
+      "count": 25,
+      "ms": 370
     },
     {
       "source": "Google News · comebacks",
       "url": "https://news.google.com/rss/search?q=%28K-pop+OR+Kpop%29+%28comeback+OR+album+OR+single+OR+teaser%29+when%3A21d&hl=en-PH&gl=PH&ceid=PH%3Aen",
       "ok": true,
-      "count": 47,
-      "ms": 433
+      "count": 46,
+      "ms": 372
     }
   ]
 }

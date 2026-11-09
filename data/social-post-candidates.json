@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-11-09T12:07:17.156Z",
+  "updatedAt": "2026-11-09T12:33:45.792Z",
   "note": "Additive social review queue. Existing live site data files are unchanged.",
   "items": [
+    {
+      "id": "245b1d169f48",
+      "title": "K-pop association pushes back on New York Times report over NewJeans contract protections",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYU9UZDVpOEV2QzlYR3M1b0t5RjJNZ3pRTHZIVV9Ld2tKVlhDVWJFcERvY3NINmxmbUNtWVNMeTB4ampMSHRoOFpfU1JlSUwta1c4bmNZM21TQ2VMSFNKM3lGUDBZRE1CVGJELU1rR2I0ZlkyeEE1RE9RNFF5d2QxRUlLd1pGNmVVTVZrcTBqcUxodDI0cXFkUmV3S01wb01EMTNtLVdMdjY0S1F5a3V1VW54VV85LWcwYU0yUmdGU0tpdFphckpucTJ1Rk5rZjhEdVVOS3ZLN3BRbHhwdWtN?oc=5",
+      "publishedAt": "2026-11-09T12:18:27.000Z",
+      "source": "Korea JoongAng Daily",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYU9UZDVpOEV2QzlYR3M1b0t5RjJNZ3pRTHZIVV9Ld2tKVlhDVWJFcERvY3NINmxmbUNtWVNMeTB4ampMSHRoOFpfU1JlSUwta1c4bmNZM21TQ2VMSFNKM3lGUDBZRE1CVGJELU1rR2I0ZlkyeEE1RE9RNFF5d2QxRUlLd1pGNmVVTVZrcTBqcUxodDI0cXFkUmV3S01wb01EMTNtLVdMdjY0S1F5a3V1VW54VV85LWcwYU0yUmdGU0tpdFphckpucTJ1Rk5rZjhEdVVOS3ZLN3BRbHhwdWtN",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "13dae289d3eb",
+      "title": "HAPPY BIRTHDAY, MOMO! 🐻🩷 TWICE member Sana greeted fellow Japanese member Momo on her birthday, sharing charming photos on social media. “Happy birthday to my twin” Sana wrote. TWICE is set to premiere its concert film, “This Is For…You,” on",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVmNtU2x1bmRERzZNVTZLR2lYUVd5akpiSlpSY0IxRGRxMjc2VENLMlRJMXhWS3lLRk5VSmFtVGoxUlJPdVZxd3dlcmtuVi1leS1tUEltX3NKSW1reXVxR25SRFh6M092ZVg1RDlQTU1ZeVFVdWd5YzJ0YjBfUmlYUHJDdFgxMUZuMjRCMnhncDhjckl5alNnR09FQVFSbHdsMjV2MmtLME14eVVVbUtHSXQ0WTl2cXd3MWg4RS1LMkRPSFprWUVlNEh5VEpTTFhDb0lLTk5RMXc2Njk0?oc=5",
+      "publishedAt": "2026-11-09T11:50:31.000Z",
+      "source": "Facebook",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVmNtU2x1bmRERzZNVTZLR2lYUVd5akpiSlpSY0IxRGRxMjc2VENLMlRJMXhWS3lLRk5VSmFtVGoxUlJPdVZxd3dlcmtuVi1leS1tUEltX3NKSW1reXVxR25SRFh6M092ZVg1RDlQTU1ZeVFVdWd5YzJ0YjBfUmlYUHJDdFgxMUZuMjRCMnhncDhjckl5alNnR09FQVFSbHdsMjV2MmtLME14eVVVbUtHSXQ0WTl2cXd3MWg4RS1LMkRPSFprWUVlNEh5VEpTTFhDb0lLTk5RMXc2Njk0",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "CONCERT NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "CONCERT NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
     {
       "id": "b1c3a55ae26c",
       "title": "K-pop industry group pushes back on NYT report over artist contracts",
@@ -28,7 +68,7 @@
       "url": "https://www.soompi.com/article/1885347wpp/watch-illit-takes-2nd-win-for-youre-under-arrest-on-new-music-show-show-k-pop",
       "publishedAt": "2026-11-09T11:02:26.000Z",
       "source": "Soompi",
-      "articleUrl": "https://www.soompi.com",
+      "articleUrl": "https://www.soompi.com/article/1885347wpp/watch-illit-takes-2nd-win-for-youre-under-arrest-on-new-music-show-show-k-pop",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09200206/illit-show-kpop.jpg",
       "social": {
         "category": "TRENDING",
@@ -68,7 +108,7 @@
       "url": "https://www.soompi.com/article/1885324wpp/lee-joon-gi-and-sakaguchi-kentaro-are-drawn-into-a-new-stage-of-the-deadly-game-in-kidnap-game",
       "publishedAt": "2026-11-09T09:59:11.000Z",
       "source": "Soompi",
-      "articleUrl": "https://www.soompi.com",
+      "articleUrl": "https://www.soompi.com/article/1885324wpp/lee-joon-gi-and-sakaguchi-kentaro-are-drawn-into-a-new-stage-of-the-deadly-game-in-kidnap-game",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09185903/kidnap-game-6.jpg",
       "social": {
         "category": "HALLYU NEWS",
@@ -128,7 +168,7 @@
       "url": "https://www.soompi.com/article/1885290wpp/joy-and-kim-hyun-jins-repeated-chance-encounters-lead-to-a-misunderstanding-in-one-of-a-kind-romance",
       "publishedAt": "2026-11-09T08:44:05.000Z",
       "source": "Soompi",
-      "articleUrl": "https://www.soompi.com",
+      "articleUrl": "https://www.soompi.com/article/1885290wpp/joy-and-kim-hyun-jins-repeated-chance-encounters-lead-to-a-misunderstanding-in-one-of-a-kind-romance",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09174359/one-of-a-kind-romance-01.jpg",
       "social": {
         "category": "K-DRAMA NEWS",
@@ -143,32 +183,12 @@
       }
     },
     {
-      "id": "0c269e4af33e",
-      "title": "BLACKPINK’s Jisoo signs with WME for global representation",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ0tpTkdwbVRqSG1haXNOUXN0Z2dBbVNaUjFVckJKM0xkRkR6NzViOVdoVXdSQ2JTS19JandkM0hTaGNxRnl2aFBCb3hSdU9sY3ptMndNcFcxZmVrNEJTSThtT3daLVFXVmw0U2VGZkpMbVkzdTh0bjRSV0xCdkxVemN6N3NBWVltMG5paDJkTVFkYTBiYkHSAZYBQVVfeXFMTXJycDlVbTkwU3BJR0d4YjhLN0g4NVVWNmVRN0lORFllanhQcUVyQkc3TTU3SlJHdk1PYWhWNUljVWc0aXdhSWlya1AtUG5EVkZDZzk3UjA2UjhJaFVWbEVVWGRpd2E2MDVIME90eVFWRkppVWkzSENIZW8tV0tiOW1kNmduaVBqM0dBazhwYlFkWDVwNGVn?oc=5",
-      "publishedAt": "2026-11-09T08:35:21.000Z",
-      "source": "Qazinform",
-      "articleUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ0tpTkdwbVRqSG1haXNOUXN0Z2dBbVNaUjFVckJKM0xkRkR6NzViOVdoVXdSQ2JTS19JandkM0hTaGNxRnl2aFBCb3hSdU9sY3ptMndNcFcxZmVrNEJTSThtT3daLVFXVmw0U2VGZkpMbVkzdTh0bjRSV0xCdkxVemN6N3NBWVltMG5paDJkTVFkYTBiYkHSAZYBQVVfeXFMTXJycDlVbTkwU3BJR0d4YjhLN0g4NVVWNmVRN0lORFllanhQcUVyQkc3TTU3SlJHdk1PYWhWNUljVWc0aXdhSWlya1AtUG5EVkZDZzk3UjA2UjhJaFVWbEVVWGRpd2E2MDVIME90eVFWRkppVWkzSENIZW8tV0tiOW1kNmduaVBqM0dBazhwYlFkWDVwNGVn",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
       "id": "59bb35192591",
       "title": "Shin Min Ah, Ju Ji Hoon, Lee Jong Suk, And Lee Se Young Embody The Fantasy Romance Genre In &#8220;The Remarried Empress&#8221;",
       "url": "https://www.soompi.com/article/1885259wpp/shin-min-ah-ju-ji-hoon-lee-jong-suk-and-lee-se-young-embody-the-fantasy-romance-genre-in-the-remarried-empress",
       "publishedAt": "2026-11-09T08:30:54.000Z",
       "source": "Soompi",
-      "articleUrl": "https://www.soompi.com",
+      "articleUrl": "https://www.soompi.com/article/1885259wpp/shin-min-ah-ju-ji-hoon-lee-jong-suk-and-lee-se-young-embody-the-fantasy-romance-genre-in-the-remarried-empress",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09171517/remarried-empress.png",
       "social": {
         "category": "K-DRAMA NEWS",
@@ -263,6 +283,26 @@
       }
     },
     {
+      "id": "bec70cf51873",
+      "title": "“Concern over distortion of the K-pop industry”... Korea Popmusic Industry Association regrets NYT report on NewJeans contract",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ydTltU0JqRXdDNklHMFY1dHdEZlgwMVZaZmhocVVPRUU3SXZUSFdqaEFwUlR6ejZSbDhzeFBhWDllT0F1YXY5NlJyMXhZWHFNTXc?oc=5",
+      "publishedAt": "2026-11-09T07:19:32.000Z",
+      "source": "매일경제",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ydTltU0JqRXdDNklHMFY1dHdEZlgwMVZaZmhocVVPRUU3SXZUSFdqaEFwUlR6ejZSbDhzeFBhWDllT0F1YXY5NlJyMXhZWHFNTXc",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
       "id": "844e9f844336",
       "title": "From Bollywood to K-pop, AACC celebrates breadth of student talent",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQckVrSUEzalZiQ1ZOeE1WQk9SeTRhbzgzU096d0V4dnNIZGtmdGl5RUpHSlAzOWVTNV9uOFAxWE5mNnJVT2lkczk1X1Uyc1M4c0ZGOFAwSzBjUkl6ckhncWNYbDFNRzFxUjB5MUZPOVdFLUZVT0d1dzFBVjgtbkZyY3JOQ2dvQV9YUzhQc09HWWhha1hlS0t6N0IyQVhTbTFqd2c?oc=5",
@@ -323,12 +363,32 @@
       }
     },
     {
+      "id": "e5cf8f9bc4c7",
+      "title": "“Don’t cast this as a problem with all of K-pop” ... Pop Music Industry Association rebuts NYT report on NewJeans contract",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YMXd4UUs4ZmNCMzMzbWJYaThGTEMxSE5vZHJNV3pIN1FmeTh3eGVzUDJ2SFdCYWlvbU8wQ1hwWm5ZZ1ZTcWlTaUpvWXphNXlEMkdUYV9B?oc=5",
+      "publishedAt": "2026-11-09T07:04:12.000Z",
+      "source": "매일경제",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YMXd4UUs4ZmNCMzMzbWJYaThGTEMxSE5vZHJNV3pIN1FmeTh3eGVzUDJ2SFdCYWlvbU8wQ1hwWm5ZZ1ZTcWlTaUpvWXphNXlEMkdUYV9B",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "K-DRAMA NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "K-DRAMA NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
       "id": "24bdcd82475a",
       "title": "Watch: Nam Ji Hyun And Kim Jae Yeong Bid Farewell To &#8220;Make Me Tingle&#8221; On Heartwarming Set Of Final Filming",
       "url": "https://www.soompi.com/article/1885189wpp/watch-nam-ji-hyun-and-kim-jae-yeong-bid-farewell-to-make-me-tingle-on-heartwarming-set-of-final-filming",
       "publishedAt": "2026-11-09T06:57:49.000Z",
       "source": "Soompi",
-      "articleUrl": "https://www.soompi.com",
+      "articleUrl": "https://www.soompi.com/article/1885189wpp/watch-nam-ji-hyun-and-kim-jae-yeong-bid-farewell-to-make-me-tingle-on-heartwarming-set-of-final-filming",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09155010/make-me-tingle-1-.png",
       "social": {
         "category": "HALLYU NEWS",
@@ -383,26 +443,6 @@
       }
     },
     {
-      "id": "1215087ad499",
-      "title": "K-pop boy band BigBang halt Bangkok concert midway due to heavy rain",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVGxwbS15c2dzdWp5b2RGQ21UMzRwS0ItRVdDanJfWVdUODhZOGdXRzJ5bkJXY25CeDZBZmFzeWt4OEMyc1Z3NTdVQ3lVd01aQlYxR29KOWJ6dVdDaTZoclAwWVJKUTRZNEk4cUVGQlBRanMtMlBTa0RRLVZtaXBIcDJXYi1uSFdWOXliamJHTnVPVkpIY0VDcDgyU21DN3QxNEN4MDVvdEF6SWdWUjVHREFB?oc=5",
-      "publishedAt": "2026-11-09T06:20:00.000Z",
-      "source": "The Straits Times",
-      "articleUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVGxwbS15c2dzdWp5b2RGQ21UMzRwS0ItRVdDanJfWVdUODhZOGdXRzJ5bkJXY25CeDZBZmFzeWt4OEMyc1Z3NTdVQ3lVd01aQlYxR29KOWJ6dVdDaTZoclAwWVJKUTRZNEk4cUVGQlBRanMtMlBTa0RRLVZtaXBIcDJXYi1uSFdWOXliamJHTnVPVkpIY0VDcDgyU21DN3QxNEN4MDVvdEF6SWdWUjVHREFB",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "CONCERT NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "CONCERT NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
       "id": "c79fc5b2e50e",
       "title": "Small agencies launch 90% of K-pop groups, but struggle to keep them alive: study",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxNGRxMG5JZTQ0WVZSR3JzcjkxYk5HZGd6SmM0MFNYN081cDVldHY0WXp6ZkpRSnpROU9EbllIMHE4dU9xUU9tZnVvVC1pYlIwR3VvUks3dw?oc=5",
@@ -423,12 +463,32 @@
       }
     },
     {
+      "id": "1cecc7a22fd8",
+      "title": "Exo proves experience counts in hit-packed tour finale",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zMkx0UGU1UE1oVl9DUWQ5R1hXYzhkbWhoN0pHSHdHUGR2bDN0aWJHVVhoOGhkWjdZby1mZTRwdzJvOFdOZU1DNTVGMFJZc1IycHN3d0VjVQ?oc=5",
+      "publishedAt": "2026-11-09T06:04:46.000Z",
+      "source": "The Korea Herald",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zMkx0UGU1UE1oVl9DUWQ5R1hXYzhkbWhoN0pHSHdHUGR2bDN0aWJHVVhoOGhkWjdZby1mZTRwdzJvOFdOZU1DNTVGMFJZc1IycHN3d0VjVQ",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "CONCERT NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "CONCERT NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
       "id": "e6b521706d0f",
       "title": "6 Workplace C-Dramas Where Women Took Charge",
       "url": "https://www.soompi.com/article/1883950wpp/6-workplace-c-dramas-where-women-took-charge",
       "publishedAt": "2026-11-09T05:56:28.000Z",
       "source": "Soompi",
-      "articleUrl": "https://www.soompi.com",
+      "articleUrl": "https://www.soompi.com/article/1883950wpp/6-workplace-c-dramas-where-women-took-charge",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/08002700/As-Beautiful-As-You-Irreplaceable.jpg",
       "social": {
         "category": "K-DRAMA NEWS",
@@ -548,7 +608,7 @@
       "url": "https://www.soompi.com/article/1885162wpp/2026-sbs-gayo-daejeon-announces-mc-lineup",
       "publishedAt": "2026-11-09T03:30:34.000Z",
       "source": "Soompi",
-      "articleUrl": "https://www.soompi.com",
+      "articleUrl": "https://www.soompi.com/article/1885162wpp/2026-sbs-gayo-daejeon-announces-mc-lineup",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09121124/sbs-gayo-daejeon-mc.png",
       "social": {
         "category": "HALLYU NEWS",
@@ -568,7 +628,7 @@
       "url": "https://www.soompi.com/article/1885150wpp/kim-woo-bin-and-seo-eun-soo-test-if-talent-or-effort-is-more-important-in-new-drama-gift-teaser",
       "publishedAt": "2026-11-09T03:16:12.000Z",
       "source": "Soompi",
-      "articleUrl": "https://www.soompi.com",
+      "articleUrl": "https://www.soompi.com/article/1885150wpp/kim-woo-bin-and-seo-eun-soo-test-if-talent-or-effort-is-more-important-in-new-drama-gift-teaser",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09115525/gift-drama_c8017b.jpg",
       "social": {
         "category": "COMEBACK NEWS",
@@ -703,12 +763,32 @@
       }
     },
     {
+      "id": "4c5bba5d6457",
+      "title": "Chinese actor and former PENTAGON member Yan An has steadily transitioned from K-pop to acting, building his screen presence with each new project. Read more in the comments section.",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbVNidkE0ekFhNHNjTlFkdmNEYlpBcUlTNnU2cjlvODhCSmRIVGdEbHIySEJHWDdYQ3hVXzdVTkNNZzFvT21SYXlGN3ViVmNiSXdub1A3bHpMTzAyc215UXRkWFdxb3J1UW1QUU5jeVZSMXgyRWhwRTgxSm5GZUJCS0pDZ01wcF9KaXd1aHpfb0w2SDdTUVpqUll4Ty0yLVhNdU01OFc0U2EwbVR1azctYlc1XzNMaW1xbTBZMDd2bzY4aEM5c2FhRGZZVy0xR1pCckhEM0dtOA?oc=5",
+      "publishedAt": "2026-11-09T00:10:03.000Z",
+      "source": "Facebook",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbVNidkE0ekFhNHNjTlFkdmNEYlpBcUlTNnU2cjlvODhCSmRIVGdEbHIySEJHWDdYQ3hVXzdVTkNNZzFvT21SYXlGN3ViVmNiSXdub1A3bHpMTzAyc215UXRkWFdxb3J1UW1QUU5jeVZSMXgyRWhwRTgxSm5GZUJCS0pDZ01wcF9KaXd1aHpfb0w2SDdTUVpqUll4Ty0yLVhNdU01OFc0U2EwbVR1azctYlc1XzNMaW1xbTBZMDd2bzY4aEM5c2FhRGZZVy0xR1pCckhEM0dtOA",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "K-DRAMA NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "K-DRAMA NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
       "id": "c778da60f638",
       "title": "CORTIS, Stray Kids, NMIXX, SEVENTEEN’s JxJ, K/DA, ILLIT, ENHYPEN, BTS, And More Sweep Top Spots On Billboard World Albums Chart",
       "url": "https://www.soompi.com/article/1885130wpp/cortis-stray-kids-nmixx-seventeens-jxj-k-da-illit-enhypen-bts-and-more-sweep-top-spots-on-billboard-world-albums-chart",
       "publishedAt": "2026-11-08T22:49:00.000Z",
       "source": "Soompi",
-      "articleUrl": "https://www.soompi.com",
+      "articleUrl": "https://www.soompi.com/article/1885130wpp/cortis-stray-kids-nmixx-seventeens-jxj-k-da-illit-enhypen-bts-and-more-sweep-top-spots-on-billboard-world-albums-chart",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09083205/CORTIS-Stray-Kids-NMIXX-JxJ.jpg",
       "social": {
         "category": "COMEBACK NEWS",
@@ -748,7 +828,7 @@
       "url": "https://www.soompi.com/article/1885123wpp/watch-xlov-takes-off-their-makeup-in-the-manager-preview",
       "publishedAt": "2026-11-08T21:30:00.000Z",
       "source": "Soompi",
-      "articleUrl": "https://www.soompi.com",
+      "articleUrl": "https://www.soompi.com/article/1885123wpp/watch-xlov-takes-off-their-makeup-in-the-manager-preview",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09073009/XLOV-The-Manager.jpg",
       "social": {
         "category": "HALLYU NEWS",
@@ -768,7 +848,7 @@
       "url": "https://www.soompi.com/article/1885120wpp/watch-ateez-takes-knowing-bros-by-storm-in-fun-preview",
       "publishedAt": "2026-11-08T21:06:00.000Z",
       "source": "Soompi",
-      "articleUrl": "https://www.soompi.com",
+      "articleUrl": "https://www.soompi.com/article/1885120wpp/watch-ateez-takes-knowing-bros-by-storm-in-fun-preview",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09070452/ATEEZ-Knowing-Bros.jpg",
       "social": {
         "category": "TRENDING",
@@ -788,7 +868,7 @@
       "url": "https://www.soompi.com/article/1885116wpp/illit-debuts-at-no-1-on-billboard-top-album-sales-chart-no-6-on-billboard-200-with-break-even",
       "publishedAt": "2026-11-08T20:23:00.000Z",
       "source": "Soompi",
-      "articleUrl": "https://www.soompi.com",
+      "articleUrl": "https://www.soompi.com/article/1885116wpp/illit-debuts-at-no-1-on-billboard-top-album-sales-chart-no-6-on-billboard-200-with-break-even",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09062158/ILLIT_aa5c07.jpeg",
       "social": {
         "category": "COMEBACK NEWS",
@@ -808,7 +888,7 @@
       "url": "https://www.soompi.com/article/1885113wpp/xikers-achieves-career-high-with-1st-week-sales-for-route-zero-the-calling",
       "publishedAt": "2026-11-08T19:31:00.000Z",
       "source": "Soompi",
-      "articleUrl": "https://www.soompi.com",
+      "articleUrl": "https://www.soompi.com/article/1885113wpp/xikers-achieves-career-high-with-1st-week-sales-for-route-zero-the-calling",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09053023/xikers.jpeg",
       "social": {
         "category": "HALLYU NEWS",
@@ -828,7 +908,7 @@
       "url": "https://www.soompi.com/article/1885108wpp/illit-breaks-their-1st-week-sales-record-with-break-even",
       "publishedAt": "2026-11-08T19:04:00.000Z",
       "source": "Soompi",
-      "articleUrl": "https://www.soompi.com",
+      "articleUrl": "https://www.soompi.com/article/1885108wpp/illit-breaks-their-1st-week-sales-record-with-break-even",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09051751/ILLIT_3c0580.jpeg",
       "social": {
         "category": "HALLYU NEWS",
@@ -848,7 +928,7 @@
       "url": "https://www.soompi.com/article/1885104wpp/cortiss-greengreen-re-enters-billboard-200-6-months-after-its-release",
       "publishedAt": "2026-11-08T18:42:00.000Z",
       "source": "Soompi",
-      "articleUrl": "https://www.soompi.com",
+      "articleUrl": "https://www.soompi.com/article/1885104wpp/cortiss-greengreen-re-enters-billboard-200-6-months-after-its-release",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09050143/CORTIS.jpg",
       "social": {
         "category": "COMEBACK NEWS",
@@ -868,7 +948,7 @@
       "url": "https://www.soompi.com/article/1885099wpp/blackpinks-lisa-debuts-in-top-35-of-billboard-200-with-press-play",
       "publishedAt": "2026-11-08T18:06:00.000Z",
       "source": "Soompi",
-      "articleUrl": "https://www.soompi.com",
+      "articleUrl": "https://www.soompi.com/article/1885099wpp/blackpinks-lisa-debuts-in-top-35-of-billboard-200-with-press-play",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09043714/Lisa.jpeg",
       "social": {
         "category": "TRENDING",
@@ -888,7 +968,7 @@
       "url": "https://www.soompi.com/article/1885066wpp/red-velvets-wendy-announces-november-comeback-with-schedule-for-gleam-hour",
       "publishedAt": "2026-11-08T16:01:23.000Z",
       "source": "Soompi",
-      "articleUrl": "https://www.soompi.com",
+      "articleUrl": "https://www.soompi.com/article/1885066wpp/red-velvets-wendy-announces-november-comeback-with-schedule-for-gleam-hour",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09005948/Wendy.jpeg",
       "social": {
         "category": "COMEBACK NEWS",
@@ -928,7 +1008,7 @@
       "url": "https://www.soompi.com/article/1885060wpp/exos-doh-kyung-soo-d-o-announces-november-return-with-1st-teasers-for-darling",
       "publishedAt": "2026-11-08T15:41:31.000Z",
       "source": "Soompi",
-      "articleUrl": "https://www.soompi.com",
+      "articleUrl": "https://www.soompi.com/article/1885060wpp/exos-doh-kyung-soo-d-o-announces-november-return-with-1st-teasers-for-darling",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09003942/Doh-Kyung-Soo.jpeg",
       "social": {
         "category": "COMEBACK NEWS",
@@ -948,7 +1028,7 @@
       "url": "https://www.soompi.com/article/1885057wpp/watch-girls-generations-taeyeon-announces-comeback-date-with-teaser-for-unspecial",
       "publishedAt": "2026-11-08T15:23:44.000Z",
       "source": "Soompi",
-      "articleUrl": "https://www.soompi.com",
+      "articleUrl": "https://www.soompi.com/article/1885057wpp/watch-girls-generations-taeyeon-announces-comeback-date-with-teaser-for-unspecial",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09002210/Taeyeon.jpg",
       "social": {
         "category": "COMEBACK NEWS",
@@ -968,7 +1048,7 @@
       "url": "https://www.soompi.com/article/1885054wpp/watch-a2o-lite-takes-11th-win-and-triple-crown-for-neon-on-inkigayo-performances-by-blackpinks-jisoo-and-more",
       "publishedAt": "2026-11-08T15:09:07.000Z",
       "source": "Soompi",
-      "articleUrl": "https://www.soompi.com",
+      "articleUrl": "https://www.soompi.com/article/1885054wpp/watch-a2o-lite-takes-11th-win-and-triple-crown-for-neon-on-inkigayo-performances-by-blackpinks-jisoo-and-more",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/08235947/A2O-LITE-1.jpeg",
       "social": {
         "category": "TRENDING",
@@ -1008,7 +1088,7 @@
       "url": "https://www.soompi.com/article/1885017wpp/winners-of-2026-korea-grand-music-awards-music-day",
       "publishedAt": "2026-11-08T14:14:39.000Z",
       "source": "Soompi",
-      "articleUrl": "https://www.soompi.com",
+      "articleUrl": "https://www.soompi.com/article/1885017wpp/winners-of-2026-korea-grand-music-awards-music-day",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/08231130/kgma-day-2.png",
       "social": {
         "category": "TRENDING",
@@ -1048,7 +1128,7 @@
       "url": "https://www.soompi.com/article/1884993wpp/stars-rock-the-red-carpet-at-2026-korea-grand-music-awards-music-day",
       "publishedAt": "2026-11-08T09:02:52.000Z",
       "source": "Soompi",
-      "articleUrl": "https://www.soompi.com",
+      "articleUrl": "https://www.soompi.com/article/1884993wpp/stars-rock-the-red-carpet-at-2026-korea-grand-music-awards-music-day",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/08180043/kgma_46f868.jpg",
       "social": {
         "category": "TRENDING",
@@ -1068,7 +1148,7 @@
       "url": "https://www.soompi.com/article/1885052wpp/soompis-k-pop-music-chart-2026-november-week-2",
       "publishedAt": "2026-11-08T08:39:00.000Z",
       "source": "Soompi",
-      "articleUrl": "https://www.soompi.com",
+      "articleUrl": "https://www.soompi.com/article/1885052wpp/soompis-k-pop-music-chart-2026-november-week-2",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09022801/music-chart-1.jpg",
       "social": {
         "category": "TRENDING",
@@ -1088,7 +1168,7 @@
       "url": "https://www.soompi.com/article/1884981wpp/ahn-hyo-seop-resorts-to-drastic-measures-to-help-hong-hwa-yeon-overcome-her-cooking-phobia-in-final-table",
       "publishedAt": "2026-11-08T06:55:00.000Z",
       "source": "Soompi",
-      "articleUrl": "https://www.soompi.com",
+      "articleUrl": "https://www.soompi.com/article/1884981wpp/ahn-hyo-seop-resorts-to-drastic-measures-to-help-hong-hwa-yeon-overcome-her-cooking-phobia-in-final-table",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/08155321/Ahn-Hyo-Seop-Hong-Hwa-Yeon-1.jpeg",
       "social": {
         "category": "HALLYU NEWS",
@@ -1108,7 +1188,7 @@
       "url": "https://www.soompi.com/article/1884928wpp/watch-a2o-soul-unveils-mv-teaser-for-debut-track-dancing-in-the-dark",
       "publishedAt": "2026-11-08T04:48:00.000Z",
       "source": "Soompi",
-      "articleUrl": "https://www.soompi.com",
+      "articleUrl": "https://www.soompi.com/article/1884928wpp/watch-a2o-soul-unveils-mv-teaser-for-debut-track-dancing-in-the-dark",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09180916/vlcsnap-2026-11-09-18h06m40s326.jpg",
       "social": {
         "category": "COMEBACK NEWS",
@@ -1148,7 +1228,7 @@
       "url": "https://www.soompi.com/article/1885061wpp/plave-stray-kids-cortis-twice-enhypen-illit-bts-boynextdoor-and-more-sweep-top-spots-on-billboard-world-albums-chart",
       "publishedAt": "2026-11-08T04:01:00.000Z",
       "source": "Soompi",
-      "articleUrl": "https://www.soompi.com",
+      "articleUrl": "https://www.soompi.com/article/1885061wpp/plave-stray-kids-cortis-twice-enhypen-illit-bts-boynextdoor-and-more-sweep-top-spots-on-billboard-world-albums-chart",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09030428/PLAVE-Stray-Kids-CORTIS-TWICE.jpg",
       "social": {
         "category": "COMEBACK NEWS",
@@ -1188,7 +1268,7 @@
       "url": "https://www.soompi.com/article/1884917wpp/watch-a2o-lite-takes-10th-win-for-neon-on-music-core-performances-by-blackpinks-jisoo-rescene-treasure-and-more",
       "publishedAt": "2026-11-08T01:48:26.000Z",
       "source": "Soompi",
-      "articleUrl": "https://www.soompi.com",
+      "articleUrl": "https://www.soompi.com/article/1884917wpp/watch-a2o-lite-takes-10th-win-for-neon-on-music-core-performances-by-blackpinks-jisoo-rescene-treasure-and-more",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/08103936/A2O-LITE-Music-Core.jpg",
       "social": {
         "category": "TRENDING",
@@ -1208,7 +1288,7 @@
       "url": "https://www.soompi.com/article/1884912wpp/illits-tick-tack-becomes-their-5th-mv-to-hit-100-million-views",
       "publishedAt": "2026-11-08T01:13:03.000Z",
       "source": "Soompi",
-      "articleUrl": "https://www.soompi.com",
+      "articleUrl": "https://www.soompi.com/article/1884912wpp/illits-tick-tack-becomes-their-5th-mv-to-hit-100-million-views",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/08101440/ILLIT.jpeg",
       "social": {
         "category": "COMEBACK NEWS",
@@ -1248,7 +1328,7 @@
       "url": "https://www.soompi.com/article/1884909wpp/watch-le-sserafim-illit-and-katseyes-iconic-by-mistake-mv-surpasses-200-million-views",
       "publishedAt": "2026-11-08T00:37:21.000Z",
       "source": "Soompi",
-      "articleUrl": "https://www.soompi.com",
+      "articleUrl": "https://www.soompi.com/article/1884909wpp/watch-le-sserafim-illit-and-katseyes-iconic-by-mistake-mv-surpasses-200-million-views",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/08093529/LE-SSERAFIM-ILLIT-KATSEYE.jpeg",
       "social": {
         "category": "COMEBACK NEWS",
@@ -1308,7 +1388,7 @@
       "url": "https://www.soompi.com/article/1884897wpp/winners-of-2026-korea-grand-music-awards-artist-day",
       "publishedAt": "2026-11-07T18:18:01.000Z",
       "source": "Soompi",
-      "articleUrl": "https://www.soompi.com",
+      "articleUrl": "https://www.soompi.com/article/1884897wpp/winners-of-2026-korea-grand-music-awards-artist-day",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/08025003/kgma.jpg",
       "social": {
         "category": "TRENDING",
@@ -1318,26 +1398,6 @@
           "Category": "TRENDING",
           "Headline": "WINNERS OF 2026 KOREA GRAND MUSIC AWARDS",
           "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/08025003/kgma.jpg"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "0cf9340b4334",
-      "title": "'KPop Demon Hunters' fans get big news as Netflix plans next chapter - ABC News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWUg0MXFuaER4Z2V3bTBTcnFuUW1xREstdTNfalIyX0JYazlvN1ByZ1FJQ2duNllyTm94MThvLVI0TG5QeFRoNmlaV0JiSk5QS2ItYzhRLXhhcU1RckZfb3VCeFpvUExDdmlob3pEb1dCZXRqb0x3NlJtaUNmdS1XN202dEN6TlZsRU92WVlVdWFLZnRXUlRSTW9RZXlTcGVzVHlseHFVRHlnU0kzME5EeXFB0gG3AUFVX3lxTFBDUEthRzFiVHZMQzJ6ZzBLRVVGMWUtMzBPLVgwZmlwc0w2Z0hTMDNJQW1MSHlKSE5KMzdpaU1pLXFsU2JNSDF4X0hJY1NaV2lvZC0wLXJGU25JeEhUMEhXRTF5THlhVV9EWV9Ic1U3NHhVdHNtdFNnVHBqdXlDWnRvY2RNTWhqNmxkUVVFNXZLNU8wY1ZBRjBycm9WMkUzTGI5X3dXOVJaTXVqUXlidjBSQ1ZtQzd0MA?oc=5",
-      "publishedAt": "2026-11-07T18:07:34.000Z",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "articleUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWUg0MXFuaER4Z2V3bTBTcnFuUW1xREstdTNfalIyX0JYazlvN1ByZ1FJQ2duNllyTm94MThvLVI0TG5QeFRoNmlaV0JiSk5QS2ItYzhRLXhhcU1RckZfb3VCeFpvUExDdmlob3pEb1dCZXRqb0x3NlJtaUNmdS1XN202dEN6TlZsRU92WVlVdWFLZnRXUlRSTW9RZXlTcGVzVHlseHFVRHlnU0kzME5EeXFB0gG3AUFVX3lxTFBDUEthRzFiVHZMQzJ6ZzBLRVVGMWUtMzBPLVgwZmlwc0w2Z0hTMDNJQW1MSHlKSE5KMzdpaU1pLXFsU2JNSDF4X0hJY1NaV2lvZC0wLXJGU25JeEhUMEhXRTF5THlhVV9EWV9Ic1U3NHhVdHNtdFNnVHBqdXlDWnRvY2RNTWhqNmxkUVVFNXZLNU8wY1ZBRjBycm9WMkUzTGI5X3dXOVJaTXVqUXlidjBSQ1ZtQzd0MA",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         "canvaDesignId": null
       }
@@ -1408,7 +1468,7 @@
       "url": "https://www.soompi.com/article/1884853wpp/kim-ji-won-and-lee-jung-eun-revisit-the-past-as-they-team-up-for-surgery-in-doctor-x",
       "publishedAt": "2026-11-07T11:28:36.000Z",
       "source": "Soompi",
-      "articleUrl": "https://www.soompi.com",
+      "articleUrl": "https://www.soompi.com/article/1884853wpp/kim-ji-won-and-lee-jung-eun-revisit-the-past-as-they-team-up-for-surgery-in-doctor-x",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/07201812/doctor-x-2.png",
       "social": {
         "category": "HALLYU NEWS",
@@ -1548,7 +1608,7 @@
       "url": "https://www.soompi.com/article/1884792wpp/november-boy-group-brand-reputation-rankings-announced-9",
       "publishedAt": "2026-11-07T03:56:11.000Z",
       "source": "Soompi",
-      "articleUrl": "https://www.soompi.com",
+      "articleUrl": "https://www.soompi.com/article/1884792wpp/november-boy-group-brand-reputation-rankings-announced-9",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/07125441/BTS-ATEEZ-CORTIS.jpg",
       "social": {
         "category": "TRENDING",
@@ -1588,7 +1648,7 @@
       "url": "https://www.soompi.com/article/1884609wpp/4-things-we-loved-about-the-finale-of-dive-into-you",
       "publishedAt": "2026-11-07T02:46:01.000Z",
       "source": "Soompi",
-      "articleUrl": "https://www.soompi.com",
+      "articleUrl": "https://www.soompi.com/article/1884609wpp/4-things-we-loved-about-the-finale-of-dive-into-you",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/06234258/Dive-into-You-1.jpg",
       "social": {
         "category": "HALLYU NEWS",
@@ -1629,26 +1689,6 @@
       "publishedAt": "2026-11-07T02:00:00.000Z",
       "source": "Travel and Leisure Asia",
       "articleUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX2FNb3gxNHY0TGFRSUp3UFZIQk1OSHZVR3k2ZnFuUlpROFYyblJ6Z3g0ejZfbS1GQW9OdkFXdnp1UWtTSl82YUg5bVdieEx1MndmLUVINUR5MWx6dFQ3eDZER0pDSnNaVjZmRlBXRnVzRlFOTmhEbjRic0ZUd0U4M3FPcTJQUjlReGN6VUhjWTF2UnR4RGRWNWQ2cWE1aGwzeW9pbFRVMFJWQ05PWUNXZ3BUcGRjd0NCRHBBZldRWdIBxAFBVV95cUxOMERhTzl1cmhTRHlVM0hRd2tKcXVxMFVZOE90YUgyN1VHRGZ2UUxKZFMzTU12MGgxQ29TYm5HR1AxblBwY2w4MEc1OE1reWRpSGFPUmIyM3hvNThWdGE2dzFuUmdGS0NVTHcxRm9CWXRQY3gzWDdtb0F3MVVuZU0tcDBpT0gzMUxCQzZCVnZwYVZnRjFrQnMzLU1TeWU2N1VMM3k4R3RrUVpiam4ySUZaUVZLa2xrQkpnVGs2dVBkWUNVRTdO",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "80d845f42eda",
-      "title": "Blackpink’s Jisoo Signs With WME for Worldwide Representation",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZXIyYlJzalRlUXJjMUY4d3JQNDQtaDAtZmQwRlM5V3NmaEJTU2stZmtEa1NuemwtWmFBN1FmTWs0X0h2QWlRM2VkRDdqZ2R2NVExREc1QW80bnBnMWh2Qmg2RHJvdE55Z1ZrUEV5dUUwUGIzcXdTOXVQb3YxeUIwV0pBLWtOQ0tnYktXYUtjX3ZlYkdld2NQYzgzVW5YV2c?oc=5",
-      "publishedAt": "2026-11-06T22:57:00.000Z",
-      "source": "Variety",
-      "articleUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZXIyYlJzalRlUXJjMUY4d3JQNDQtaDAtZmQwRlM5V3NmaEJTU2stZmtEa1NuemwtWmFBN1FmTWs0X0h2QWlRM2VkRDdqZ2R2NVExREc1QW80bnBnMWh2Qmg2RHJvdE55Z1ZrUEV5dUUwUGIzcXdTOXVQb3YxeUIwV0pBLWtOQ0tnYktXYUtjX3ZlYkdld2NQYzgzVW5YV2c",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
         "category": "HALLYU NEWS",
@@ -1903,6 +1943,26 @@
       }
     },
     {
+      "id": "b2185ee0ed69",
+      "title": "Daft Punk and ‘KPop Demon Hunters’ Unite in Lego Holiday Campaign",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV2lKR0VfTmRPMDVXUkJXOGdic1JQZk0yNUwxbjk5TlpMRzFObEFjUW1BbnB0WjNHME9BYVo1VWZVbVJMdEFmWGJhT0Izb2RXM0hpOWhKN01EamUwa0N1WFhPZmpNeXhtT3JuUlVIa1E2UGpXckZzbVRYNkxnbUstN0hpUzZyZ1l3VGVjOEhYMDVtSHRveVY0WFYtTXpUc3I2S21N?oc=5",
+      "publishedAt": "2026-11-06T13:55:00.000Z",
+      "source": "Variety",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV2lKR0VfTmRPMDVXUkJXOGdic1JQZk0yNUwxbjk5TlpMRzFObEFjUW1BbnB0WjNHME9BYVo1VWZVbVJMdEFmWGJhT0Izb2RXM0hpOWhKN01EamUwa0N1WFhPZmpNeXhtT3JuUlVIa1E2UGpXckZzbVRYNkxnbUstN0hpUzZyZ1l3VGVjOEhYMDVtSHRveVY0WFYtTXpUc3I2S21N",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
       "id": "045cac45a4bf",
       "title": "How Airplane Scene In KPop Demon Hunters Was Made",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcVlnMS1rbktvSVBKUHpXQWM3c0lIQjM1eWRlemhsWFFMYi1nUkZHLVF6emc2ejUtbWxudndZOExjVDhfeFc2VDY4TnR2Y2xTdXJiX3RRcHFKMWpSNFdEcVpQRG05LVlmM1hrUUp6TlJMM1RsbDZZblNlbnFwT1lPWDRoZ2s?oc=5",
@@ -1928,7 +1988,7 @@
       "url": "https://www.soompi.com/article/1884753wpp/joy-and-kim-hyun-jin-talk-about-their-roles-and-heart-fluttering-romance-in-one-of-a-kind-romance",
       "publishedAt": "2026-11-06T12:04:44.000Z",
       "source": "Soompi",
-      "articleUrl": "https://www.soompi.com",
+      "articleUrl": "https://www.soompi.com/article/1884753wpp/joy-and-kim-hyun-jin-talk-about-their-roles-and-heart-fluttering-romance-in-one-of-a-kind-romance",
       "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/06210233/One-of-a-Kind-Romance-1-1.jpg",
       "social": {
         "category": "K-DRAMA NEWS",
@@ -1938,66 +1998,6 @@
           "Category": "K-DRAMA NEWS",
           "Headline": "JOY AND KIM HYUN JIN TALK ABOUT THEIR ROLES AND HEART-FLUTTERING ROMANCE IN “ONE OF A KIND ROMANCE”:…",
           "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/06210233/One-of-a-Kind-Romance-1-1.jpg"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "c5f8b7fd1621",
-      "title": "Watch: ILLIT Takes 1st Win For “You’re Under Arrest” On &#8220;Music Bank&#8221;; Performances By RESCENE, TWS, And More",
-      "url": "https://www.soompi.com/article/1884749wpp/watch-nmixx-takes-1st-win-for-birthday-wish-on-music-bank-performances-by-ateez-illit-and-more-2",
-      "publishedAt": "2026-11-06T11:33:42.000Z",
-      "source": "Soompi",
-      "articleUrl": "https://www.soompi.com",
-      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/06203326/illit-music-bank.jpg",
-      "social": {
-        "category": "TRENDING",
-        "headline": "WATCH: ILLIT TAKES 1ST WIN FOR “YOU’RE UNDER ARREST” ON \"MUSIC BANK\"; PERFORMANCES BY RESCENE, TWS,…",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "TRENDING",
-          "Headline": "WATCH: ILLIT TAKES 1ST WIN FOR “YOU’RE UNDER ARREST” ON \"MUSIC BANK\"; PERFORMANCES BY RESCENE, TWS,…",
-          "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/06203326/illit-music-bank.jpg"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "4baaa25e9310",
-      "title": "Netflix launches ‘K-Pop Demon Hunters’ content hub, includes new series, choreography lessons and more",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNY0Jud1AwdWFpREppM2xPeFJZQWt4azVvMGhSYXlaRllwVElmSGpCV0ZKZUhkNTR6N1p0bGdZRnJZT09ERkFoMHFlNUdXclU1MXBCUDlKdjljSS1KMzhqWTNtMzNsQmQ3al8zUmw5TVF5RXBYc3pOaFpoRlJ6U2cyYTZDYWI3b2JrM2gyYWtkRUtEQWgxU19WSUZ1UWU2eEozaWJNMldXWVU4c0dqVmRuNmJOVE4zTEZlcm1FTUVGYTBQWk56bTdxZ2ZLSnVIVWtpSUlLcVlpY3JwdVBtbFhaOEZGclNUWDFiZVBVUk5Od9IB9AFBVV95cUxOVEE5VmFIcDY5QzJUeVR3VUR4djJHZEVaZG4wM08wZEJlZWlzRWVra0tLRjg5T0Jkb1lPNVVoU1UxRkxlM0ZwdThTVkZWVEN4alhxRlRBcU1OekdTTGcwNFQ3a0d2VFpuNFo3UVMxRE4wQTJ6Y0FMQnRBN1plakNTUm5tRWV1ZkFXX0RtNjVPYkF4Zm83eHBDYWlIbjlUc2xaVndiZVpubk9pWlBLOWZscXZ1MWw5SE5BeTF1RmJpWjFFM3kxaEsyd3hnaWZVS0ZoMGZqbWw3QU9GNWg0LXlISDNyRXpSSnBTWUhNX3Rvd2pVSXhF?oc=5",
-      "publishedAt": "2026-11-06T11:33:01.000Z",
-      "source": "Telegraph India",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNY0Jud1AwdWFpREppM2xPeFJZQWt4azVvMGhSYXlaRllwVElmSGpCV0ZKZUhkNTR6N1p0bGdZRnJZT09ERkFoMHFlNUdXclU1MXBCUDlKdjljSS1KMzhqWTNtMzNsQmQ3al8zUmw5TVF5RXBYc3pOaFpoRlJ6U2cyYTZDYWI3b2JrM2gyYWtkRUtEQWgxU19WSUZ1UWU2eEozaWJNMldXWVU4c0dqVmRuNmJOVE4zTEZlcm1FTUVGYTBQWk56bTdxZ2ZLSnVIVWtpSUlLcVlpY3JwdVBtbFhaOEZGclNUWDFiZVBVUk5Od9IB9AFBVV95cUxOVEE5VmFIcDY5QzJUeVR3VUR4djJHZEVaZG4wM08wZEJlZWlzRWVra0tLRjg5T0Jkb1lPNVVoU1UxRkxlM0ZwdThTVkZWVEN4alhxRlRBcU1OekdTTGcwNFQ3a0d2VFpuNFo3UVMxRE4wQTJ6Y0FMQnRBN1plakNTUm5tRWV1ZkFXX0RtNjVPYkF4Zm83eHBDYWlIbjlUc2xaVndiZVpubk9pWlBLOWZscXZ1MWw5SE5BeTF1RmJpWjFFM3kxaEsyd3hnaWZVS0ZoMGZqbWw3QU9GNWg0LXlISDNyRXpSSnBTWUhNX3Rvd2pVSXhF",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "K-DRAMA NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "K-DRAMA NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "df00ca9abfd8",
-      "title": "‘Baby Shark Boy' releases first single as K-pop singer",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nTExXVmtKcGo1Si10S1BoOVVNT2JlVkZGU1BmWEQ0VzhYbE9rYVBBSUFBcEpEWWhYU2toOG9nVG9JX0JHaHh4LWNPUklvR1lRYVV4QlpFbHMwb19maVE?oc=5",
-      "publishedAt": "2026-11-06T11:20:52.000Z",
-      "source": "The Straits Times",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nTExXVmtKcGo1Si10S1BoOVVNT2JlVkZGU1BmWEQ0VzhYbE9rYVBBSUFBcEpEWWhYU2toOG9nVG9JX0JHaHh4LWNPUklvR1lRYVV4QlpFbHMwb19maVE",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "COMEBACK NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "COMEBACK NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         "canvaDesignId": null
       }

@@ -1,5 +1,1305 @@
 {
-  "updatedAt": "2026-11-09T12:07:24.579Z",
-  "note": "Original HallyuScope web articles generated from discovered reporting. Social publishing remains approval-based.",
-  "items": []
+  "updatedAt": "2026-11-09T12:38:07.063Z",
+  "autoPublish": false,
+  "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
+  "items": [
+    {
+      "id": "245b1d169f48",
+      "createdAt": "2026-11-09T12:33:50.590Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T12:18:27.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "k-pop-association-challenges-new-york-times-report-on-newjeans-contracts",
+      "source": {
+        "publisher": "Korea JoongAng Daily",
+        "title": "K-pop association pushes back on New York Times report over NewJeans contract protections",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYU9UZDVpOEV2QzlYR3M1b0t5RjJNZ3pRTHZIVV9Ld2tKVlhDVWJFcERvY3NINmxmbUNtWVNMeTB4ampMSHRoOFpfU1JlSUwta1c4bmNZM21TQ2VMSFNKM3lGUDBZRE1CVGJELU1rR2I0ZlkyeEE1RE9RNFF5d2QxRUlLd1pGNmVVTVZrcTBqcUxodDI0cXFkUmV3S01wb01EMTNtLVdMdjY0S1F5a3V1VW54VV85LWcwYU0yUmdGU0tpdFphckpucTJ1Rk5rZjhEdVVOS3ZLN3BRbHhwdWtN"
+      },
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "category": "HALLYU NEWS",
+      "headline": "K-pop Association Challenges New York Times Report on NewJeans Contracts",
+      "dek": "A K-pop association has pushed back against a New York Times report concerning contract protections for NewJeans.",
+      "body": [
+        "A K-pop association has challenged a New York Times report about contract protections for NewJeans, according to Korea JoongAng Daily.",
+        "The available headline does not specify the association’s objections or the details of the New York Times report."
+      ],
+      "socialCaption": "A K-pop association has challenged a report on NewJeans’ contract protections. Read the confirmed details on HallyuScope.",
+      "seoDescription": "A K-pop association has pushed back on a New York Times report about NewJeans’ contract protections, according to Korea JoongAng Daily.",
+      "sourceNote": "Source: Korea JoongAng Daily"
+    },
+    {
+      "id": "13dae289d3eb",
+      "createdAt": "2026-11-09T12:33:55.940Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T11:50:31.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "twice-s-sana-celebrates-momo-s-birthday-with-social-media-photos",
+      "source": {
+        "publisher": "Facebook",
+        "title": "HAPPY BIRTHDAY, MOMO! 🐻🩷 TWICE member Sana greeted fellow Japanese member Momo on her birthday, sharing charming photos on social media. “Happy birthday to my twin” Sana wrote. TWICE is set to premiere its concert film, “This Is For…You,” on",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVmNtU2x1bmRERzZNVTZLR2lYUVd5akpiSlpSY0IxRGRxMjc2VENLMlRJMXhWS3lLRk5VSmFtVGoxUlJPdVZxd3dlcmtuVi1leS1tUEltX3NKSW1reXVxR25SRFh6M092ZVg1RDlQTU1ZeVFVdWd5YzJ0YjBfUmlYUHJDdFgxMUZuMjRCMnhncDhjckl5alNnR09FQVFSbHdsMjV2MmtLME14eVVVbUtHSXQ0WTl2cXd3MWg4RS1LMkRPSFprWUVlNEh5VEpTTFhDb0lLTk5RMXc2Njk0"
+      },
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "category": "CONCERT NEWS",
+      "headline": "TWICE’s Sana Celebrates Momo’s Birthday With Social Media Photos",
+      "dek": "Sana shared photos of her fellow TWICE member and Japanese bandmate Momo alongside a birthday message.",
+      "body": [
+        "TWICE member Sana marked Momo’s birthday with a social media post featuring photos of her fellow group member.",
+        "“Happy birthday to my twin,” Sana wrote in her greeting, according to a Facebook post. Both Sana and Momo are Japanese members of TWICE.",
+        "The birthday message comes as TWICE is set to premiere its concert film, “This Is For…You.” The available source does not provide a premiere date."
+      ],
+      "socialCaption": "Sana shared a birthday message and photos for fellow TWICE member Momo. Read the details on HallyuScope.",
+      "seoDescription": "TWICE’s Sana celebrated fellow Japanese member Momo’s birthday with a social media message and photos. Here’s what she shared for her bandmate.",
+      "sourceNote": "Source: Facebook"
+    },
+    {
+      "id": "b1c3a55ae26c",
+      "createdAt": "2026-11-09T12:33:59.826Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T11:07:13.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "k-pop-industry-group-disputes-new-york-times-report-on-artist-contracts",
+      "source": {
+        "publisher": "The Korea Herald",
+        "title": "K-pop industry group pushes back on NYT report over artist contracts",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBibEFIajZoY2hvM2ZONWY2SDJiWGMyVmVmcEkzejlZdEFxTjRDUzBSYmZCbjdoOU01WC1teTJ3enJmSll5UDNqUG4xS0o3SHRIbnItay13UQ"
+      },
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "category": "HALLYU NEWS",
+      "headline": "K-pop Industry Group Disputes New York Times Report on Artist Contracts",
+      "dek": "A K-pop industry group has pushed back against a New York Times report about artist contracts, The Korea Herald reported.",
+      "body": [
+        "A K-pop industry group has pushed back against a New York Times report concerning artist contracts, according to The Korea Herald.",
+        "The available source headline does not identify the group or specify which aspects of the report it disputed."
+      ],
+      "socialCaption": "A K-pop industry group has challenged a New York Times report on artist contracts. Read what’s confirmed on HallyuScope.",
+      "seoDescription": "A K-pop industry group has pushed back on a New York Times report about artist contracts, according to a headline from The Korea Herald.",
+      "sourceNote": "Source: The Korea Herald"
+    },
+    {
+      "id": "de31cd823f28",
+      "createdAt": "2026-11-09T12:34:04.606Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T11:02:26.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "illit-earns-second-win-for-you-re-under-arrest-on-show-k-pop",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: ILLIT Takes 2nd Win For “You’re Under Arrest” On New Music Show &#8220;SHOW K-POP&#8221;",
+        "url": "https://www.soompi.com/article/1885347wpp/watch-illit-takes-2nd-win-for-youre-under-arrest-on-new-music-show-show-k-pop"
+      },
+      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09200206/illit-show-kpop.jpg",
+      "category": "TRENDING",
+      "headline": "ILLIT Earns Second Win for “You’re Under Arrest” on SHOW K-POP",
+      "dek": "The group took first place with 7,957 points on the fourth episode of Arirang TV’s music show.",
+      "body": [
+        "ILLIT has picked up a second music show trophy for “You’re Under Arrest,” taking first place on the November 9 episode of Arirang TV’s “SHOW K-POP.”",
+        "The group’s song was nominated alongside A2O LITE’s “NEON” in the show’s fourth episode. ILLIT won with 7,957 points.",
+        "Hosted by ZEROBASEONE’s Seok Matthew, “SHOW K-POP” is a weekly music show that premiered on October 19 and airs every Monday."
+      ],
+      "socialCaption": "ILLIT has another trophy for “You’re Under Arrest.” Read on HallyuScope for the result and details from SHOW K-POP.",
+      "seoDescription": "ILLIT wins its second music show trophy for “You’re Under Arrest” on Arirang TV’s SHOW K-POP, earning 7,957 points in the show’s fourth episode.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "384efcfae14b",
+      "createdAt": "2026-11-09T12:34:08.948Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T10:25:03.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "stanford-to-offer-bts-inspired-well-being-program",
+      "source": {
+        "publisher": "Facebook",
+        "title": "'NAMJOONING' PRO MAX! Stanford University will be offering the \"Namjooning, and other well-being inspiration from BTS,\" which will explore and focus on mental health and well-being. Read more in the comments section.",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUklfOFF5VlNjSFpLaWpYc0o1dkpvNVlHX01FQkNnRTZYSWp0N0dsbWlyeFllZi1vRnRaNDlTa3hIZzJnSGV6RGROZlltaG1MWVQ2bFZuNmdvMEJHT1pqTUs1dElFTkNHM1VzUFhjTF9SR2ZxdkZRbWxrcFJCQ29CalVIc3dpWGs4bUhpb0l6X0RMbXFzMXFGMEFUNTBMczZEczdHZDI0Ym1fTTl1MXBDaGpaZkkzUXBNQkVKU0pPQUZzLWJMdm90ZTVkYUJISE5Fc29vNkhUVQ"
+      },
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "category": "HALLYU NEWS",
+      "headline": "Stanford to Offer BTS-Inspired Well-Being Program",
+      "dek": "The offering will explore mental health and well-being through inspiration from BTS and Namjooning.",
+      "body": [
+        "Stanford University will offer “Namjooning, and other well-being inspiration from BTS,” according to a Facebook headline. The offering will focus on mental health and well-being.",
+        "The title connects Namjooning with other sources of well-being inspiration drawn from BTS. The available source does not provide further details about the offering, including when it will take place or how it will be structured."
+      ],
+      "socialCaption": "Stanford will offer a BTS-inspired program focused on well-being. Read on HallyuScope for the details available so far.",
+      "seoDescription": "Stanford University will offer a BTS-inspired program exploring mental health and well-being, including inspiration from Namjooning.",
+      "sourceNote": "Source: Facebook"
+    },
+    {
+      "id": "9822876a266a",
+      "createdAt": "2026-11-09T12:34:19.683Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T09:59:11.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "lee-joon-gi-and-sakaguchi-kentaro-face-new-clues-in-kidnap-game",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Lee Joon Gi And Sakaguchi Kentaro Are Drawn Into A New Stage Of The Deadly Game In “kiDnap GAME”",
+        "url": "https://www.soompi.com/article/1885324wpp/lee-joon-gi-and-sakaguchi-kentaro-are-drawn-into-a-new-stage-of-the-deadly-game-in-kidnap-game"
+      },
+      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09185903/kidnap-game-6.jpg",
+      "category": "HALLYU NEWS",
+      "headline": "Lee Joon Gi and Sakaguchi Kentaro Face New Clues in ‘kiDnap GAME’",
+      "dek": "New stills preview another threat for detective Niide Toshiro as the thriller reveals a possible link to doctor Han Ki Joo.",
+      "body": [
+        "Channel A’s “kiDnap GAME” has released new stills ahead of episode 6, as its survival game takes another turn for characters played by Lee Joon Gi and Sakaguchi Kentaro.",
+        "The thriller follows seven people caught in a kidnapping case spanning Seoul, Tokyo, Taipei, Singapore, Bangkok, Naha and Manila. Each participant must complete a different mission ahead of the others to survive and save a loved one.",
+        "In the previous episode, objects found near eliminated participants added another layer to the mystery. A one-peso coin was placed in the hand of the granddaughter of Manila participant Miguel Garcia, played by Joel Torre, after he failed to prepare 10 million pesos in cash.",
+        "Bangkok participant Am Thanawan, played by Narupornkamol Chaisang, failed to expose a drug cartel; bread soaked in wine was used to gag her lover. Lipstick was also found on the lips of the deceased husband of Taipei participant Christina Lin, played by Alice Ko, after she failed to release a private video.",
+        "The objects connect to images in the show’s opening sequence: gold coins, a wine glass and a red apple. The ending scenes have shown the coins, glass or apple being destroyed or decaying when a participant is eliminated. Red rose petals have also been left alongside the clues.",
+        "The series is beginning to reveal how some participants may be connected. Seoul doctor Han Ki Joo, played by Lee Joon Gi, remembers an incident in Tokyo five years earlier after seeing Christina’s son. Han had been working at a Tokyo hospital at the time and treated a child with burn injuries.",
+        "Tokyo detective Niide Toshiro, played by Sakaguchi Kentaro, also reacts to the reference to Tokyo five years ago, suggesting a connection between the two men.",
+        "A young man played by Sho Kasamatsu adds to the uncertainty. After ambushing Niide’s junior detective, he appears at a Tokyo broadcasting station and offers reporter Isobe Akina, played by Sae Okazaki, an exclusive story.",
+        "Meanwhile, Niide is in Taipei when the perpetrator sends him a message saying a new stage has been prepared for him. Episode 6 airs November 10 at 10 p.m. KST."
+      ],
+      "socialCaption": "New clues and a threat await in ‘kiDnap GAME.’ Read on HallyuScope for what the latest stills reveal ahead of episode 6.",
+      "seoDescription": "New ‘kiDnap GAME’ stills preview a threat for Sakaguchi Kentaro’s detective and clues about his possible connection to Lee Joon Gi’s doctor.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "2302b38040d1",
+      "createdAt": "2026-11-09T12:34:23.755Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T09:36:00.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "rocky-to-bring-fan-concert-to-manila-in-december",
+      "source": {
+        "publisher": "ABS-CBN",
+        "title": "K-pop star Rocky to hold Manila fan concert in December - ABS-CBN",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS29Fc0wtb1pmdzd6dkVjUjk5ZEVXXzduZ1ZLQkVnY0NsTzJIRm1KeDRMQno4bkMtRXY1ZkJVR3FKLUx6SEwzMWp4bjEzX1M4MlJTYmpidGJOLTRVaFpYRWpXSkk1WTlwdXdNbEdjdmtKZ2lHSndIMlVOSjNLcVQ4X3NLN3JhVlB6WUJiNFAteF8zRkYwSU5nZGROQzNmZmJac05yZHI4TzVsRWFYWUxOa3p3"
+      },
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "category": "CONCERT NEWS",
+      "headline": "Rocky to Bring Fan Concert to Manila in December",
+      "dek": "K-pop star Rocky is set to hold a fan concert in Manila in December, ABS-CBN reports.",
+      "body": [
+        "Rocky will hold a fan concert in Manila in December, according to ABS-CBN.",
+        "The report’s headline did not specify a date or venue for the event."
+      ],
+      "socialCaption": "Rocky is headed to Manila for a December fan concert. Read HallyuScope for the announced details.",
+      "seoDescription": "K-pop star Rocky is set to hold a fan concert in Manila in December, according to ABS-CBN. The report's headline did not specify a date or venue.",
+      "sourceNote": "Source: ABS-CBN"
+    },
+    {
+      "id": "089d760f02e3",
+      "createdAt": "2026-11-09T12:34:27.918Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T08:51:07.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "sooyoon-talks-crafting-sonagi-and-reconnecting-with-fans",
+      "source": {
+        "publisher": "When In Manila",
+        "title": "From K-Pop Drummer to Global Hitmaker: Sooyoon on Crafting \"Sonagi\" and Reconnecting with Fans",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oaEJkbnhxMWl5NDdVcXBZcDBlSFdvbVJ4YjV4UmVMTEpRNWMxVllsU3pKbzhGR2MyRVlwRnI1OUd4RnpuVEFjbmdMNk5rc21QV2VUT1loX3ZMWTQ0X1JsS3o2bTFMSlc2dXdqc0hDbGFfNVZnWjVUVEd5cTc"
+      },
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "category": "CONCERT NEWS",
+      "headline": "Sooyoon Talks Crafting ‘Sonagi’ and Reconnecting With Fans",
+      "dek": "The K-pop drummer and hitmaker discussed the making of “Sonagi” and reconnecting with fans in a feature from When In Manila.",
+      "body": [
+        "Sooyoon has spoken about crafting “Sonagi” and reconnecting with fans in a feature published by When In Manila.",
+        "The publication’s headline describes Sooyoon as a K-pop drummer and global hitmaker. The article itself was not available for review, so further details of the conversation could not be verified."
+      ],
+      "socialCaption": "Sooyoon discusses “Sonagi” and reconnecting with fans. Read the verified details on HallyuScope.",
+      "seoDescription": "K-pop drummer and hitmaker Sooyoon discusses crafting “Sonagi” and reconnecting with fans in a feature published by When In Manila.",
+      "sourceNote": "Source: When In Manila"
+    },
+    {
+      "id": "fead16e2b965",
+      "createdAt": "2026-11-09T12:34:35.557Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T08:44:05.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "joy-and-kim-hyun-jin-get-off-on-the-wrong-foot-in-one-of-a-kind-romance",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Joy And Kim Hyun Jin’s Repeated Chance Encounters Lead To A Misunderstanding In “One-Of-A-Kind Romance”",
+        "url": "https://www.soompi.com/article/1885290wpp/joy-and-kim-hyun-jins-repeated-chance-encounters-lead-to-a-misunderstanding-in-one-of-a-kind-romance"
+      },
+      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09174359/one-of-a-kind-romance-01.jpg",
+      "category": "K-DRAMA NEWS",
+      "headline": "Joy and Kim Hyun Jin Get Off on the Wrong Foot in ‘One-of-a-Kind Romance’",
+      "dek": "A string of chance meetings leaves a job seeker under a top star’s suspicion in the drama’s first two episodes.",
+      "body": [
+        "Red Velvet’s Joy and Kim Hyun Jin are set for an uneasy first encounter in “One-of-a-Kind Romance,” whose first two episodes will be released on November 9 at 6 p.m. KST.",
+        "Based on a webtoon, the drama stars Joy as Gong Yu Il, a college graduate struggling to find work. She takes on jobs to make ends meet, including a night shift at a convenience store on the day of an interview.",
+        "It is at the store that she first meets Tak Mu I, a top star played by Kim Hyun Jin. When they cross paths again at a filming location, Tak Mu I, who is already dealing with a stalker, becomes suspicious of her.",
+        "For Gong Yu Il, the meetings are coincidences. For Tak Mu I, they raise questions, setting up a misunderstanding between the pair.",
+        "The drama follows their developing romance after Gong Yu Il unexpectedly becomes Tak Mu I’s manager. He is carrying emotional scars from a stalking incident and previously found strength in a novel she wrote years earlier.",
+        "Still images from the opening episodes also show Tak Mu I exchanging a glance with his manager, Kim Young Soo, played by Choi Kwon, after spotting Gong Yu Il. Na Hyun Young plays Gong Yu Il’s friend Yoo Yeon Joo, a drama production PD."
+      ],
+      "socialCaption": "Joy and Kim Hyun Jin’s characters keep crossing paths—and not everyone thinks it’s a coincidence. Read on HallyuScope for a look at the drama’s opening episodes.",
+      "seoDescription": "Joy and Kim Hyun Jin play a job seeker and a suspicious top star in ‘One-of-a-Kind Romance,’ premiering with two episodes on November 9.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "59bb35192591",
+      "createdAt": "2026-11-09T12:34:41.522Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T08:30:54.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "the-remarried-empress-unveils-palace-stills-of-its-four-leads",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Shin Min Ah, Ju Ji Hoon, Lee Jong Suk, And Lee Se Young Embody The Fantasy Romance Genre In &#8220;The Remarried Empress&#8221;",
+        "url": "https://www.soompi.com/article/1885259wpp/shin-min-ah-ju-ji-hoon-lee-jong-suk-and-lee-se-young-embody-the-fantasy-romance-genre-in-the-remarried-empress"
+      },
+      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09171517/remarried-empress.png",
+      "category": "K-DRAMA NEWS",
+      "headline": "‘The Remarried Empress’ Unveils Palace Stills of Its Four Leads",
+      "dek": "Shin Min Ah, Ju Ji Hoon, Lee Jong Suk and Lee Se Young appear in new images from the fantasy romance.",
+      "body": [
+        "“The Remarried Empress” has released new palace stills featuring its four leads, offering a look at the fantasy romance’s royal setting and costumes.",
+        "Based on the web novel of the same name, the series follows Navier, played by Shin Min Ah, the empress of the Eastern Empire. After her husband Sovieshu (Ju Ji Hoon) cheats on her with runaway slave Rashta (Lee Se Young) and divorces her, Navier marries Heinrey (Lee Jong Suk), a prince of the Western Empire.",
+        "The images, unveiled on November 9, include Navier and Sovieshu together in a garden, as well as a scene of Sovieshu on horseback. Other stills show Heinrey against a scenic backdrop and Rashta in colorful dresses.",
+        "The series released four episodes on November 3 and will continue with two new episodes every Wednesday."
+      ],
+      "socialCaption": "The leads of “The Remarried Empress” step into the palace in new stills. Read on HallyuScope for a look at their characters and the release schedule.",
+      "seoDescription": "See what new palace stills reveal about the four leads of “The Remarried Empress,” starring Shin Min Ah, Ju Ji Hoon, Lee Jong Suk and Lee Se Young.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "774dc8c28625",
+      "createdAt": "2026-11-09T12:34:46.060Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T08:30:30.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "five-exo-members-take-the-stage-for-final-exhorizon-concert",
+      "source": {
+        "publisher": "Korea JoongAng Daily",
+        "title": "Five out of 12 EXO members defend their title as 'Kings of K-pop' at final 'EXhOrizon' concert",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRDV3QVZBZzZFSE9PVXhhUDZMSGprSTdVZzNmTFN6aHFLQktsaXJ1X25jVzc5TDgzbzlwTWlTRmZibWhqakd1dFZXQWFDdU8wNGVyWmpRejF6ZERCMHdVMjNMR3YyRHp3anlDeEFsYTJUTno2Mnp1TE1wNVF5U01Pc1lWaTBxQnYwNTRJaUpiRDROWUhteS05WW9EU0I1NktaTjUxSTNPUDAxWTVCcnllY1JPVWsxV0hTU3BmUVdVcnNMN0hmaFJmdk5mbElzOTRCbVlPbnNLN3hySlBPQ2FfTA"
+      },
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "category": "CONCERT NEWS",
+      "headline": "Five EXO Members Take the Stage for Final 'EXhOrizon' Concert",
+      "dek": "Korea JoongAng Daily reports that five of EXO’s 12 members performed at the final 'EXhOrizon' concert.",
+      "body": [
+        "Five of EXO’s 12 members performed at the final 'EXhOrizon' concert, according to Korea JoongAng Daily.",
+        "In its report on the show, the publication described the five performers as defending EXO’s title as the “Kings of K-pop.”"
+      ],
+      "socialCaption": "Five EXO members performed at the final 'EXhOrizon' concert. Read HallyuScope’s brief for what was reported about the show.",
+      "seoDescription": "Five of EXO’s 12 members performed at the final 'EXhOrizon' concert, with Korea JoongAng Daily reporting on the group’s “Kings of K-pop” title.",
+      "sourceNote": "Source: Korea JoongAng Daily"
+    },
+    {
+      "id": "cbdda035164e",
+      "createdAt": "2026-11-09T12:34:50.416Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T08:13:03.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "taeyeon-s-fourth-studio-album-unspecial-set-for-nov-30",
+      "source": {
+        "publisher": "The Korea Times",
+        "title": "Taeyeon to release 4th studio album 'Unspecial' on Nov. 30",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTThacDVjRjJzMGpxVkNxTmhnc0thOW5mU243NEdXTXBCN1U0RHg2dTFHTVhNaURnZ3VBU2RWU3pHd0ItRlZrdW9MX0dMVlFhWXUzVmkyV1kxYzZ6Sy1ubE5Zal9qRHZFZkpIbFVzaDVwTmpZLWF4cm5zWUhaZFBGLXlNaEdLSy1Wc0NzUmNJOXh1S3hZZzhBTlNEcTEtY3hiSDB4VjZmUjg5eXNLcUkwWndVSkpOUUJT0gG4AUFVX3lxTFBNOFpwNWNGMnMwanFWQ3FOaGdzS2E5bmZTbjc0R1dNcEI3VTREeDZ1MUdNWE1pRGdndUFTZFZTekd3Qi1GVmt1b0xfR0xWUWFZdTNWaTJXWTFjNnpLLW5sTllqX2pEdkVmSkhsVXNoNXBOalktYXhybnNZSFpkUEYteU1oR0tLLVZzQ3NSY0k5eHVLeFlnOEFOU0RxMS1jeGJIMHhWNmZSODl5c0txSTBad1VKSk5RQlM"
+      },
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "category": "COMEBACK NEWS",
+      "headline": "Taeyeon’s Fourth Studio Album ‘Unspecial’ Set for Nov. 30",
+      "dek": "Taeyeon will release her fourth studio album, titled ‘Unspecial,’ on Nov. 30, according to The Korea Times.",
+      "body": [
+        "Taeyeon’s fourth studio album, ‘Unspecial,’ is set for release on Nov. 30.",
+        "The Korea Times reported the album title and release date in its headline."
+      ],
+      "socialCaption": "Taeyeon’s fourth studio album has a title and release date. Read the details on HallyuScope.",
+      "seoDescription": "Taeyeon is set to release her fourth studio album, ‘Unspecial,’ on Nov. 30. Here’s what The Korea Times reported about the upcoming release.",
+      "sourceNote": "Source: The Korea Times"
+    },
+    {
+      "id": "e4d59cb5795e",
+      "createdAt": "2026-11-09T12:34:54.568Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T08:11:10.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "k-pop-s-influence-reaches-korea-s-wine-market",
+      "source": {
+        "publisher": "The Drinks Business",
+        "title": "How K-pop is lifting wine’s fortunes in Korea",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZVVUWDY0c3hmX0M3alpSWmMtZV9SYXA2Tm1fblJ0NldzOUtNYTc0bjVIUHFqNHNjOVZvMGp3Q1hoLXR1ZG1KNVU0NW4zUVN5SUNkX0ZENXZZOXZiWlhBeVIwX3JQYzk2cjd5UEw5SjlCT3ByRTVIU2tOVzE4di1UWXU0OVhvcGJHSUtGWVRweG0"
+      },
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "category": "TRENDING",
+      "headline": "K-pop’s Influence Reaches Korea’s Wine Market",
+      "dek": "The Drinks Business reports that K-pop is helping improve wine’s fortunes in Korea.",
+      "body": [
+        "K-pop is giving wine a boost in Korea, according to a report from The Drinks Business.",
+        "The report links the genre with improving fortunes for wine in the Korean market. No further details from the article were available for this brief."
+      ],
+      "socialCaption": "K-pop’s influence is reaching Korea’s wine market. Read the brief on HallyuScope for what’s known.",
+      "seoDescription": "K-pop is helping lift wine’s fortunes in Korea, according to The Drinks Business. Read HallyuScope’s brief on the reported connection.",
+      "sourceNote": "Source: The Drinks Business"
+    },
+    {
+      "id": "f951d606febc",
+      "createdAt": "2026-11-09T12:34:59.418Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T07:28:17.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "exo-s-d-o-set-to-release-digital-single-darling-on-wednesday",
+      "source": {
+        "publisher": "Korea JoongAng Daily",
+        "title": "EXO’s D.O. to release new digital single ‘Darling’ on Wednesday",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQXZPWGFOdGZ6M3JaRjNkODMxNDVTU2R2djRwLVhpeDYwVDVpS2N0MC1GQWpXdWhERTVLUXlMQnp4b004ZklSLThlQ01TaVFfQ1lGUUJvLU1STkU3OUJ5eHdoek9kczdwMkJGMTVGMGJUVHFTTVJuLVlZaVZJSkc2YVpkZ3FJTEg0NkVrLU5NSDZOQlliUkRncFVuWG95TTVRVGVBbXo1OTVQVlBDTHRLQzdtMA"
+      },
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "category": "COMEBACK NEWS",
+      "headline": "EXO’s D.O. Set to Release Digital Single ‘Darling’ on Wednesday",
+      "dek": "D.O. will return with a new digital single titled “Darling.”",
+      "body": [
+        "EXO’s D.O. is set to release a new digital single, “Darling,” on Wednesday, according to Korea JoongAng Daily.",
+        "The available source headline did not specify a calendar date or provide further details about the release."
+      ],
+      "socialCaption": "EXO’s D.O. has a new digital single on the way. Read HallyuScope for the confirmed release details.",
+      "seoDescription": "EXO’s D.O. is set to release a new digital single, “Darling,” on Wednesday. Here’s what has been confirmed about the upcoming release so far.",
+      "sourceNote": "Source: Korea JoongAng Daily"
+    },
+    {
+      "id": "bec70cf51873",
+      "createdAt": "2026-11-09T12:35:03.600Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T07:19:32.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "korea-popmusic-industry-association-regrets-nyt-report-on-newjeans-contract",
+      "source": {
+        "publisher": "매일경제",
+        "title": "“Concern over distortion of the K-pop industry”... Korea Popmusic Industry Association regrets NYT report on NewJeans contract",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ydTltU0JqRXdDNklHMFY1dHdEZlgwMVZaZmhocVVPRUU3SXZUSFdqaEFwUlR6ejZSbDhzeFBhWDllT0F1YXY5NlJyMXhZWHFNTXc"
+      },
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "category": "HALLYU NEWS",
+      "headline": "Korea Popmusic Industry Association Regrets NYT Report on NewJeans Contract",
+      "dek": "The association raised concern that the report could distort the K-pop industry, according to 매일경제.",
+      "body": [
+        "The Korea Popmusic Industry Association has expressed regret over a New York Times report concerning NewJeans’ contract, 매일경제 reported.",
+        "According to the 매일경제 headline, the association also raised concern about distortion of the K-pop industry. The available source material does not provide details of the association’s statement or the New York Times report."
+      ],
+      "socialCaption": "A Korean music industry association has expressed regret over an NYT report on NewJeans’ contract. Read what the available report says on HallyuScope.",
+      "seoDescription": "The Korea Popmusic Industry Association expressed regret over an NYT report on NewJeans’ contract and raised concern about K-pop industry distortion.",
+      "sourceNote": "Source: 매일경제"
+    },
+    {
+      "id": "844e9f844336",
+      "createdAt": "2026-11-09T12:35:07.809Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T07:12:50.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "aacc-celebrates-student-talent-from-bollywood-to-k-pop",
+      "source": {
+        "publisher": "Yale Daily News",
+        "title": "From Bollywood to K-pop, AACC celebrates breadth of student talent",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQckVrSUEzalZiQ1ZOeE1WQk9SeTRhbzgzU096d0V4dnNIZGtmdGl5RUpHSlAzOWVTNV9uOFAxWE5mNnJVT2lkczk1X1Uyc1M4c0ZGOFAwSzBjUkl6ckhncWNYbDFNRzFxUjB5MUZPOVdFLUZVT0d1dzFBVjgtbkZyY3JOQ2dvQV9YUzhQc09HWWhha1hlS0t6N0IyQVhTbTFqd2c"
+      },
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "category": "HALLYU NEWS",
+      "headline": "AACC Celebrates Student Talent From Bollywood to K-pop",
+      "dek": "A Yale Daily News report highlights an AACC celebration spanning Bollywood and K-pop.",
+      "body": [
+        "Student talent spanning Bollywood and K-pop was the focus of an AACC celebration, according to Yale Daily News.",
+        "The publication’s headline highlights the breadth of talent featured in the celebration. No further details about the event were available in the supplied source material."
+      ],
+      "socialCaption": "An AACC celebration highlighted student talent from Bollywood to K-pop. Read the brief on HallyuScope.",
+      "seoDescription": "Yale Daily News reports on an AACC celebration highlighting the breadth of student talent, with performances spanning Bollywood to K-pop.",
+      "sourceNote": "Source: Yale Daily News"
+    },
+    {
+      "id": "1e1350c58bb7",
+      "createdAt": "2026-11-09T12:35:11.822Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T07:10:08.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "play-ph-addresses-reactions-to-viral-crush-kita-performance",
+      "source": {
+        "publisher": "Facebook",
+        "title": "P-pop boy group Play Ph addressed the mixed reactions and criticisms they received following their viral performance of their song “Crush Kita”. https://tinyurl.com/223unvpb | via LatestChika.com",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaVFtNFJVaDYwN0ozRWhNcldjODRXNFJDaF9CQmlNZjhmSnVCX3hLeXZFSGZaTmhadjRMb095Mmphd0g0Um8xRzJzbmFsMnA2ZFZJdmVqUGZzNXZoTzh1VTV2NndRb211d3Q3UXo5NzdyeXlkQUNaS0EyTDNnVGtUckxlX0oxX1lqbXJDd3dOQVVwcWl2UWxVLXlFS2FLVjBKVGE0TGpXell5YTVkSy1aa0stNVdyVDlKWm8zS0ZjRVpxTmtNQ3lpeEhLSFhWTm1abTRsU0VSdG01TGhz"
+      },
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "category": "TRENDING",
+      "headline": "Play Ph Addresses Reactions to Viral ‘Crush Kita’ Performance",
+      "dek": "The P-pop boy group responded to mixed reactions and criticism following a viral performance of its song.",
+      "body": [
+        "P-pop boy group Play Ph has addressed the mixed reactions and criticism it received after a performance of “Crush Kita” went viral.",
+        "A Facebook post shared via LatestChika.com reported that the group had responded to the reaction. The available source did not include details of what the members said."
+      ],
+      "socialCaption": "Play Ph has addressed the response to its viral “Crush Kita” performance. Read what’s been reported on HallyuScope.",
+      "seoDescription": "P-pop group Play Ph has addressed mixed reactions and criticism following its viral performance of the song “Crush Kita,” according to a Facebook post.",
+      "sourceNote": "Source: Facebook"
+    },
+    {
+      "id": "7be58e9621e0",
+      "createdAt": "2026-11-09T12:35:17.177Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T07:07:00.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "cortis-takes-three-top-spots-on-spotify-as-redred-nears-300-million-streams",
+      "source": {
+        "publisher": "Yahoo",
+        "title": "Three songs, three top spots: K-pop group CORTIS dominate Spotify as ‘REDRED’ closes in on 300 million streams",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HVXNqVFZzSFROY1ZrQUVKU2tIN2VuU3pyal8zRDB5N0w4N3NtS3F5d1I4bTRiVlZSdmVlWkZqbXgtMm14V2RocVRSalRWckI5V1lkTVgyc1NfQWQ4cGdudkdHLXktN0d5cnFtb3pScGhrQUtFSHVMd0QyNHZZeDg"
+      },
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "category": "HALLYU NEWS",
+      "headline": "CORTIS Takes Three Top Spots on Spotify as ‘REDRED’ Nears 300 Million Streams",
+      "dek": "Three CORTIS songs have claimed top spots on Spotify, while “REDRED” is approaching 300 million streams, Yahoo reports.",
+      "body": [
+        "K-pop group CORTIS has landed three songs in top spots on Spotify, according to a Yahoo report. The report’s headline also says the group’s song “REDRED” is closing in on 300 million streams.",
+        "The headline does not specify which Spotify charts the songs topped or identify the other two tracks. It also does not give an exact stream count for “REDRED.”"
+      ],
+      "socialCaption": "CORTIS has three songs in top spots on Spotify. Read HallyuScope for what’s known about the group’s latest streaming milestone.",
+      "seoDescription": "CORTIS has claimed three top spots on Spotify, according to Yahoo, while the K-pop group’s song “REDRED” approaches 300 million streams.",
+      "sourceNote": "Source: Yahoo"
+    },
+    {
+      "id": "e5cf8f9bc4c7",
+      "createdAt": "2026-11-09T12:35:22.492Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T07:04:12.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "pop-music-industry-association-pushes-back-on-nyt-report-about-newjeans-contract",
+      "source": {
+        "publisher": "매일경제",
+        "title": "“Don’t cast this as a problem with all of K-pop” ... Pop Music Industry Association rebuts NYT report on NewJeans contract",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YMXd4UUs4ZmNCMzMzbWJYaThGTEMxSE5vZHJNV3pIN1FmeTh3eGVzUDJ2SFdCYWlvbU8wQ1hwWm5ZZ1ZTcWlTaUpvWXphNXlEMkdUYV9B"
+      },
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "category": "K-DRAMA NEWS",
+      "headline": "Pop Music Industry Association Pushes Back on NYT Report About NewJeans Contract",
+      "dek": "The association challenged a New York Times report on NewJeans’ contract, arguing against treating it as a problem across all of K-pop.",
+      "body": [
+        "A pop music industry association has rebutted a New York Times report concerning NewJeans’ contract, according to 매일경제.",
+        "The association objected to presenting the matter as a problem affecting K-pop as a whole. The 매일경제 headline does not provide further details about the New York Times report or the association’s response."
+      ],
+      "socialCaption": "A pop music industry association has pushed back on an NYT report about NewJeans’ contract. Read HallyuScope for the verified details.",
+      "seoDescription": "A pop music industry association has rebutted a New York Times report on NewJeans’ contract and objected to framing it as a K-pop-wide problem.",
+      "sourceNote": "Source: 매일경제"
+    },
+    {
+      "id": "24bdcd82475a",
+      "createdAt": "2026-11-09T12:35:28.591Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T06:57:49.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "nam-ji-hyun-and-kim-jae-yeong-say-goodbye-to-make-me-tingle-in-final-filming-video",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: Nam Ji Hyun And Kim Jae Yeong Bid Farewell To &#8220;Make Me Tingle&#8221; On Heartwarming Set Of Final Filming",
+        "url": "https://www.soompi.com/article/1885189wpp/watch-nam-ji-hyun-and-kim-jae-yeong-bid-farewell-to-make-me-tingle-on-heartwarming-set-of-final-filming"
+      },
+      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09155010/make-me-tingle-1-.png",
+      "category": "HALLYU NEWS",
+      "headline": "Nam Ji Hyun and Kim Jae Yeong Say Goodbye to ‘Make Me Tingle’ in Final Filming Video",
+      "dek": "A new behind-the-scenes video follows the stars through romantic rehearsals and their closing remarks as filming wraps.",
+      "body": [
+        "“Make Me Tingle” has released a behind-the-scenes video from episodes 9 and 10, giving fans a look at Nam Ji Hyun and Kim Jae Yeong’s final days on set.",
+        "The video shows the actors rehearsing a couple ring scene, where the cold weather becomes part of their playful exchange. After Nam suggests linking arms, Kim puts his hands in his pockets to keep warm, prompting her to suggest holding hands instead.",
+        "The pair also take photo booth pictures and cook together. Kim later shows the making-of camera his couple rings.",
+        "In their closing remarks, Kim playfully pretends to cry before reflecting on his second project with Nam. He says he is fond of the experience and happy with how filming ended.",
+        "Nam says she is relieved everyone finished filming without getting sick. She also credits Kim with making the set fun and giving her plenty of reasons to laugh. “Make Me Tingle” has recently concluded."
+      ],
+      "socialCaption": "Nam Ji Hyun and Kim Jae Yeong share their final moments on the “Make Me Tingle” set. Read HallyuScope for highlights from the behind-the-scenes video.",
+      "seoDescription": "Nam Ji Hyun and Kim Jae Yeong share final filming moments and closing remarks in a new behind-the-scenes video for “Make Me Tingle.”",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "79f22014219b",
+      "createdAt": "2026-11-09T12:35:33.449Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T06:47:09.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "forbes-introduces-k-pop-group-82major",
+      "source": {
+        "publisher": "Forbes",
+        "title": "Meet 82MAJOR: The K-Pop Group Making Major Moves",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTlM0R0c1OEFDaV9sVXZDU2sycFhSLWMtRmpTTkxYYU53Wng2SExLcVFjS1R3SllfSWk3T0FDVzVKTlNXNHVfcWd1bUVjR3ExMWxOZXZNM1MwWmdLbHoybHpEWXZIMDI2U2VMdTQwc09kaFJMQWZHR1NPd1Zkb2Q5NElvYk4ycEdNX0lMUjhkcUVQLU96UHc4YVc2WVVvSWNjU3lz"
+      },
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "category": "HALLYU NEWS",
+      "headline": "Forbes Introduces K-Pop Group 82MAJOR",
+      "dek": "A Forbes headline spotlights 82MAJOR as a K-pop group making moves.",
+      "body": [
+        "K-pop group 82MAJOR is the subject of a Forbes article introducing the act to readers.",
+        "The headline describes the group as making “major moves,” though no article text was available to verify further details about its activities."
+      ],
+      "socialCaption": "Forbes has put the spotlight on 82MAJOR. Read HallyuScope for what the available headline confirms.",
+      "seoDescription": "Forbes spotlights K-pop group 82MAJOR in a new introduction. Here’s what the available headline confirms about the group and its coverage.",
+      "sourceNote": "Source: Forbes"
+    },
+    {
+      "id": "1dea4dde23f3",
+      "createdAt": "2026-11-09T12:35:37.824Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T06:36:20.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "taeyeon-sets-nov-30-release-for-full-length-album-unspecial",
+      "source": {
+        "publisher": "Korea JoongAng Daily",
+        "title": "Girls' Generation's Taeyeon to release full-length album 'Unspecial' on Nov. 30",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR2R5cXFnXzg5NzMxV1FyazFaSVJXNWxfeVhpTDlLemRGV0RQbzZObVpVTXdSeHU5Yms2TE1HWmN1UnZEaXJCV2lpMjZFOGtCZFAwZTBWLTdiT095bTZxU29mSTNyMXRQLWNIY2docVhoeEJ5NEttVEkzVzRqTGozNEhtWFlWMnpoelhjdzBsV1JxajZkTHFnU2JHYkZ6RjJsMDVQMno5bXI4bVJhcTNvWS1ZZlM5TVJ0enBrLWZSYjRCclBCRVZoYlRoQQ"
+      },
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "category": "COMEBACK NEWS",
+      "headline": "Taeyeon Sets Nov. 30 Release for Full-Length Album ‘Unspecial’",
+      "dek": "The Girls’ Generation member will release a full-length album titled ‘Unspecial’ on Nov. 30.",
+      "body": [
+        "Girls’ Generation’s Taeyeon is set to release her full-length album ‘Unspecial’ on Nov. 30, according to Korea JoongAng Daily.",
+        "The album’s title and release date were included in the publication’s headline. No further details were available in the supplied source material."
+      ],
+      "socialCaption": "Taeyeon’s full-length album ‘Unspecial’ is set for Nov. 30. Read HallyuScope for the confirmed release details.",
+      "seoDescription": "Girls’ Generation member Taeyeon is set to release her full-length album ‘Unspecial’ on Nov. 30, according to Korea JoongAng Daily.",
+      "sourceNote": "Source: Korea JoongAng Daily"
+    },
+    {
+      "id": "c79fc5b2e50e",
+      "createdAt": "2026-11-09T12:35:42.271Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T06:14:22.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "study-finds-small-agencies-launch-90-of-k-pop-groups",
+      "source": {
+        "publisher": "The Korea Herald",
+        "title": "Small agencies launch 90% of K-pop groups, but struggle to keep them alive: study",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxNGRxMG5JZTQ0WVZSR3JzcjkxYk5HZGd6SmM0MFNYN081cDVldHY0WXp6ZkpRSnpROU9EbllIMHE4dU9xUU9tZnVvVC1pYlIwR3VvUks3dw"
+      },
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "category": "HALLYU NEWS",
+      "headline": "Study Finds Small Agencies Launch 90% of K-pop Groups",
+      "dek": "A study reported by The Korea Herald highlights the difficulty small agencies face in keeping K-pop groups active.",
+      "body": [
+        "Small agencies launch 90% of K-pop groups, but they struggle to keep those groups going, according to a study reported by The Korea Herald.",
+        "The finding points to a gap between the number of groups launched by smaller agencies and their ability to sustain them."
+      ],
+      "socialCaption": "Small agencies launch 90% of K-pop groups, a study finds. Read HallyuScope for a brief look at the finding.",
+      "seoDescription": "A study reported by The Korea Herald finds that small agencies launch 90% of K-pop groups, but struggle to keep those groups going.",
+      "sourceNote": "Source: The Korea Herald"
+    },
+    {
+      "id": "1cecc7a22fd8",
+      "createdAt": "2026-11-09T12:35:46.658Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T06:04:46.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "exo-close-tour-with-a-hit-filled-finale",
+      "source": {
+        "publisher": "The Korea Herald",
+        "title": "Exo proves experience counts in hit-packed tour finale",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zMkx0UGU1UE1oVl9DUWQ5R1hXYzhkbWhoN0pHSHdHUGR2bDN0aWJHVVhoOGhkWjdZby1mZTRwdzJvOFdOZU1DNTVGMFJZc1IycHN3d0VjVQ"
+      },
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "category": "CONCERT NEWS",
+      "headline": "EXO Close Tour With a Hit-Filled Finale",
+      "dek": "EXO’s tour finale brought together a selection of hits, according to The Korea Herald.",
+      "body": [
+        "EXO wrapped up their tour with a finale packed with hits, The Korea Herald reported.",
+        "The publication highlighted the group’s experience in its coverage of the closing show. Its headline did not specify the venue, date or setlist."
+      ],
+      "socialCaption": "EXO wrapped up their tour with a hit-filled finale. Read on HallyuScope for what The Korea Herald reported.",
+      "seoDescription": "EXO closed their tour with a hit-filled finale, according to The Korea Herald, which highlighted the group’s experience in its coverage.",
+      "sourceNote": "Source: The Korea Herald"
+    },
+    {
+      "id": "e6b521706d0f",
+      "createdAt": "2026-11-09T12:35:56.990Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T05:56:28.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "6-chinese-workplace-dramas-about-women-finding-their-own-paths",
+      "source": {
+        "publisher": "Soompi",
+        "title": "6 Workplace C-Dramas Where Women Took Charge",
+        "url": "https://www.soompi.com/article/1883950wpp/6-workplace-c-dramas-where-women-took-charge"
+      },
+      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/08002700/As-Beautiful-As-You-Irreplaceable.jpg",
+      "category": "K-DRAMA NEWS",
+      "headline": "6 Chinese Workplace Dramas About Women Finding Their Own Paths",
+      "dek": "From consulting to law and entrepreneurship, these dramas follow women balancing career ambitions with personal challenges.",
+      "body": [
+        "Workplace dramas can put more than office rivalries in the spotlight. These six Chinese series follow women making decisions about their careers, relationships and futures, whether they are navigating a demanding employer or starting a business of their own.",
+        "The Rational Life\nQin Lan plays Shen Ruo Xin, a senior manager in an automobile company’s legal department who faces gender discrimination at work and pressure to marry at home. When optimistic intern Qi Xiao (Dylan Wang) enters her life, his support prompts her to reconsider her views on relationships while she continues to make choices for herself.",
+        "Nothing But Thirty\nSet in Shanghai, this drama follows three women as they enter their thirties. Luxury saleswoman Wang Man Ni (Maggie Jiang) hopes to build a better life, Gu Jia (Tong Yao) balances family responsibilities with helping run her husband’s fireworks business, and Zhong Xiao Qin (Mao Xiao Tong) reassesses her choices amid marital difficulties. Their intersecting stories explore ambition, financial independence and friendship.",
+        "Irreplaceable\nZhao Jin Mai stars as Xu Chi, a newcomer determined to prove herself in the competitive consulting industry. Elite consultant Ye Xin Zhi (Wei Da Xun), who is dealing with the fallout of a former superior’s betrayal, becomes her mentor. Their relationship develops alongside workplace rivalries and career challenges.",
+        "As Beautiful As You\nAfter growing frustrated with her job, technology professional Ji Xing (Tan Song Yun) leaves to launch a medical technology start-up. Building the company brings setbacks, but she eventually gains the backing of investor Han Ting (Xu Kai). Their partnership turns romantic, even as Ji Xing remains intent on pursuing her goals on her own terms.",
+        "Love Has Fireworks\nInvestment banker Qian Fei (Wang Chu Ran) must rethink her future after her fiancé leaves her and she is left with a mortgage. She rents a room to Li Yi Fei (Tan Jian Ci), another investment banking professional, to ease the financial strain. The pair initially clash, but grow closer as they share a home and work on projects together.",
+        "She and Her Perfect Husband\nCareer-focused lawyer Qin Shi (Yang Mi) becomes a candidate for a position at a law firm that requires applicants to be married, unaware that her brother has falsely listed her as a wife. She later meets Yang Hua (Xu Kai), and the two agree to marry. Their arrangement brings professional and family pressures into focus as their relationship develops."
+      ],
+      "socialCaption": "Looking for a C-drama with ambitious women at its center? Explore six workplace stories on HallyuScope.",
+      "seoDescription": "Discover six Chinese workplace dramas following women in law, consulting, banking and business as they navigate careers and relationships.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "8777f1471e7f",
+      "createdAt": "2026-11-09T12:36:01.407Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T05:24:04.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "kbs-world-radio-lists-k-pop-top-ten-chart-for-first-week-of-november-2026",
+      "source": {
+        "publisher": "KBS WORLD Radio",
+        "title": "K-Pop Top Ten Chart 1st Week of November 2026",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS0ZqblBTRGFsWDdISXpRUlpoMVVoQVNsaGF1LVZKUnNOTlMxWVFPWWF1a1dpUnBNbS1ZTzlCQm1HNVJJcFhqb0cyc3Ita05rWGphdnM5MmxtRkZqSVJTV2tqLTFyYXAzdW04MnVYOVVWVzJURmU2SFRwalhCYkJXR0tyUVZEWXZvSjVjaHR0bXVSRFZoM0VpTUZGanpHQQ"
+      },
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "category": "TRENDING",
+      "headline": "KBS WORLD Radio Lists K-Pop Top Ten Chart for First Week of November 2026",
+      "dek": "KBS WORLD Radio has a K-pop top ten chart for the first week of November 2026.",
+      "body": [
+        "KBS WORLD Radio’s K-pop top ten chart covers the first week of November 2026.",
+        "The available source headline identifies the chart and its time period, but does not provide the songs, artists or rankings. No article body was available to confirm further details."
+      ],
+      "socialCaption": "KBS WORLD Radio’s K-pop top ten chart covers the first week of November 2026. Read HallyuScope’s brief for what the available source confirms.",
+      "seoDescription": "KBS WORLD Radio’s K-pop top ten chart covers the first week of November 2026. The available headline does not identify songs, artists or rankings.",
+      "sourceNote": "Source: KBS WORLD Radio"
+    },
+    {
+      "id": "7f1117e35f59",
+      "createdAt": "2026-11-09T12:36:05.985Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T05:22:35.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "four-november-k-pop-releases-put-big-ideas-in-focus",
+      "source": {
+        "publisher": "Character Media",
+        "title": "Four November K-pop Releases Built Around a Big Idea",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLTBFaUk3QmNDWG1Pc1VDd0gwekJCMmpYUlFwR3JvZmVEdGNHcUR0cHJVbm9UblpkOW9ZcVNNQTc5ZE8zamxvdjR2eGEyWXY0QjlBUWZzcUtQU2p6UXVEc2FCRVVfN3FWek44eUFleWJybTZOcV92bDlzUDdldnhfRWlBVkNuVGs"
+      },
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "category": "COMEBACK NEWS",
+      "headline": "Four November K-pop Releases Put Big Ideas in Focus",
+      "dek": "Character Media highlights four November K-pop releases built around a central idea.",
+      "body": [
+        "Four November K-pop releases are the focus of a Character Media feature examining music built around big ideas.",
+        "The available headline does not identify the artists, release titles or concepts included in the feature."
+      ],
+      "socialCaption": "Four November K-pop releases share a focus on big ideas. Read the brief on HallyuScope for what’s confirmed.",
+      "seoDescription": "Character Media highlights four November K-pop releases built around big ideas. Here’s what the available headline confirms about the feature.",
+      "sourceNote": "Source: Character Media"
+    },
+    {
+      "id": "864eecd51b8d",
+      "createdAt": "2026-11-09T12:36:10.692Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T05:13:02.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "the-korea-times-examines-k-pop-stars-losing-devoted-fans",
+      "source": {
+        "publisher": "The Korea Times",
+        "title": "'Taken for granted': When K-pop stars lose devoted supporters",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcTY0SHdReFA0NERlYXVIQXhFU2ZSZW4xT1RBaXFPOWJOeFgxdlNJcW9FVVRfc2VrTjRMeXhtSnM1VzZXbDdyZmFCeVNWOFlkb043dmdHNkRoRXBmQldnUVdORFdZOGVHcGVUR2hSeVY4eXo3a2dZb2R1amd0dXZULUs3RlFVMTZXWDB2blphVFhZRjF6TDRxcmVZclpOZ0JIdEtPd1doU1VxVk4xN21R0gG0AUFVX3lxTE9sR2NCeEd4ZGFBRFNwdXFfc0xzcFFlZ3NyS2JoWWlXZnlvTjFVeW1JREozc2JkZ3JZT29jY2UyYnNyWGxVem5WS1VqaGJoanB2U0tsbVpwYlVfUTQ1dTRFYXZDZ2pQM0dLdTRtZmV2UVpiTWxxLU10dHRJMDVkWTFGV1Z1UjdiTHp1aTRnWTZUVUtHQWVoYjNLNWNFV1p3dFRDZmYtM0YwWDdDajBjem5Pa2JEMw"
+      },
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "category": "HALLYU NEWS",
+      "headline": "The Korea Times Examines K-pop Stars Losing Devoted Fans",
+      "dek": "A Korea Times report looks at what happens when K-pop stars lose the support of devoted fans.",
+      "body": [
+        "The Korea Times has explored the loss of devoted supporters by K-pop stars, framing the issue around fans being taken for granted.",
+        "The article’s headline does not identify any artists or give details about the circumstances behind fans withdrawing their support."
+      ],
+      "socialCaption": "A Korea Times report examines K-pop stars losing devoted fans. Read HallyuScope’s brief for what the headline tells us.",
+      "seoDescription": "The Korea Times examines K-pop stars losing devoted supporters in a report framed around fans being taken for granted. Read HallyuScope’s brief.",
+      "sourceNote": "Source: The Korea Times"
+    },
+    {
+      "id": "761fd222c466",
+      "createdAt": "2026-11-09T12:36:15.104Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T04:19:03.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "blackpink-s-jisoo-signs-with-wme",
+      "source": {
+        "publisher": "The Korea Times",
+        "title": "BLACKPINK's Jisoo signs with Hollywood agency WME",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb0U0REVubFBzM1FkM093TzcxWEZIeWFxLXRpNW11TXpxRnc1alM3VDJNdTlMLTNJWE5icG82LThkY1ZtNWt5SkZFVjBOangzTjA2dl9ubXlwZ3I3MGFxVC13RzV3MVZONkxMclV1N3JUTlpOWnM3d1dfUlVScFVWX28yYzlaNEl1amEyck1jcWp6T3hwRkRJMUxrdXlmRTQzMVA4UFU1NENOZ9IBrwFBVV95cUxPallpQ2FLRmNhb0g2cFo5OE05ZEFITVNSTkRqaXVVX2VkcFBsbkdsMXFzNno4V1BLWE1OekRneWxVaEsxakoza0tTOU11clc3dGNlWXZyWXRTQWlzdmN6YjNXUDh0dTJjWno5dFJRYXR4Y2RNOVJNc2tFSG50TDVBY0hHWFBJQTdZeC1lbGJvekJsVWp2bjlQdlRMWGdwMEQ4dVVVVDJUaHpQSGlONTVZ"
+      },
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "category": "HALLYU NEWS",
+      "headline": "BLACKPINK’s Jisoo Signs With WME",
+      "dek": "The BLACKPINK member has signed with Hollywood agency WME, according to The Korea Times.",
+      "body": [
+        "BLACKPINK’s Jisoo has signed with Hollywood agency WME, The Korea Times reports.",
+        "The report’s headline confirms the signing but does not specify the terms of the agreement."
+      ],
+      "socialCaption": "BLACKPINK’s Jisoo has signed with WME. Read the confirmed details on HallyuScope.",
+      "seoDescription": "BLACKPINK member Jisoo has signed with Hollywood agency WME, according to The Korea Times. Here’s what the report’s headline confirms.",
+      "sourceNote": "Source: The Korea Times"
+    },
+    {
+      "id": "64c096daa560",
+      "createdAt": "2026-11-09T12:36:19.559Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T04:06:58.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "bts-rm-inspires-stanford-course-on-well-being",
+      "source": {
+        "publisher": "Daily Tribune",
+        "title": "\"Namjooning\" at Stanford: BTS' RM Inspires a Course on Well-Being",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObmNvbUJHUUNFNWM5bmxYS0RCRl9oSzJXXzJRbmxBR2F6emZqTkZwN1pad1I5NjNkLUlTSEhpaTNLVFYweHFFWEFGZ2hWOURoRFctd0ZMamVKV1RGUTlKMW9XT0NvRmVzcGJtaXlFWDVGMFQzZXFWNEFEdFNQY3o2RmNaOXIya0pTMG1NLUFnamxtc0JLQWVkTTRaQQ"
+      },
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "category": "HALLYU NEWS",
+      "headline": "BTS’ RM Inspires Stanford Course on Well-Being",
+      "dek": "A Stanford course on well-being draws inspiration from BTS member RM, according to Daily Tribune.",
+      "body": [
+        "BTS’ RM has inspired a course on well-being at Stanford, Daily Tribune reports.",
+        "The publication’s headline connects the course to “Namjooning,” a term associated with RM, whose name is Kim Nam-joon. The available source material does not provide further details about the course."
+      ],
+      "socialCaption": "A Stanford well-being course takes inspiration from BTS’ RM. Read on HallyuScope for what’s been reported.",
+      "seoDescription": "BTS member RM has inspired a Stanford course on well-being, according to Daily Tribune. Here’s what the available source headline says.",
+      "sourceNote": "Source: Daily Tribune"
+    },
+    {
+      "id": "454a9e9230f2",
+      "createdAt": "2026-11-09T12:36:25.934Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T03:30:34.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "sbs-gayo-daejeon-reveals-hosts-for-two-day-2026-festival",
+      "source": {
+        "publisher": "Soompi",
+        "title": "2026 SBS Gayo Daejeon Announces MC Lineup",
+        "url": "https://www.soompi.com/article/1885162wpp/2026-sbs-gayo-daejeon-announces-mc-lineup"
+      },
+      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09121124/sbs-gayo-daejeon-mc.png",
+      "category": "HALLYU NEWS",
+      "headline": "SBS Gayo Daejeon Reveals Hosts for Two-Day 2026 Festival",
+      "dek": "Six K-pop stars will host the festival across December 24 and 25 at KINTEX in Ilsan.",
+      "body": [
+        "The 2026 SBS Gayo Daejeon has named its hosts for both days of the year-end music festival, which will take place on December 24 and 25 at KINTEX in Ilsan, South Korea.",
+        "TXT’s Yeonjun, IVE’s An Yu Jin and RIIZE’s Sungchan will host the first day on December 24. BOYNEXTDOOR’s Woonhak, BLACKPINK’s Jisoo and TWS’s Shinyu will take over hosting duties on December 25.",
+        "The MC lineup was announced on November 9. This year marks the annual festival’s 30th anniversary and the first time it will be held over two days."
+      ],
+      "socialCaption": "Six stars will host the 2026 SBS Gayo Daejeon. Read on HallyuScope for the full day-by-day MC lineup.",
+      "seoDescription": "The 2026 SBS Gayo Daejeon has announced its six hosts. See who will present each day of the two-day festival at KINTEX in Ilsan, South Korea.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "83cc7ae8b16d",
+      "createdAt": "2026-11-09T12:36:31.215Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T03:16:12.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "kim-woo-bin-and-seo-eun-soo-weigh-talent-against-effort-in-new-gift-teaser",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: Kim Woo Bin And Seo Eun Soo Test If Talent Or Effort Is More Important In New Drama “GIFT” Teaser",
+        "url": "https://www.soompi.com/article/1885150wpp/kim-woo-bin-and-seo-eun-soo-test-if-talent-or-effort-is-more-important-in-new-drama-gift-teaser"
+      },
+      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09115525/gift-drama_c8017b.jpg",
+      "category": "COMEBACK NEWS",
+      "headline": "Kim Woo Bin and Seo Eun Soo Weigh Talent Against Effort in New ‘GIFT’ Teaser",
+      "dek": "The upcoming tvN sports drama follows a former professional baseball coach who takes charge of the nation’s lowest-ranked high school team.",
+      "body": [
+        "Kim Woo Bin and Seo Eun Soo explore a baseball question in a new teaser for tvN’s upcoming drama “GIFT”: does natural talent or effort offer a better chance of winning?",
+        "Based on a webtoon, the sports drama stars Kim as Jung Min Yong, a former professional baseball pitching coach. After an unexpected accident gives him a special ability, he becomes head coach of the high school team ranked last in the nation.",
+        "In the teaser, Jung Min Yong presents innate talent and detailed statistics gained through effort as two routes to victory. Seo Eun Soo’s character, Yoon Seo Jin, asks which has the higher probability of winning.",
+        "“GIFT” premieres December 5 at 9:10 p.m. KST."
+      ],
+      "socialCaption": "Talent or effort? Kim Woo Bin and Seo Eun Soo take on the question in the new “GIFT” teaser. Read more about the drama on HallyuScope.",
+      "seoDescription": "Kim Woo Bin and Seo Eun Soo consider talent versus effort in a new teaser for tvN sports drama “GIFT,” premiering December 5 at 9:10 p.m. KST.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "f4aa8a7f60fc",
+      "createdAt": "2026-11-09T12:36:37.051Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T02:56:00.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "rescene-and-disney-s-hexed-unveil-with-music-video-teaser",
+      "source": {
+        "publisher": "씨네플레이",
+        "title": "Disney’s ‘Hexed’ and K-pop Group RESCENE Unveil Teaser for New Song ‘With’ Music Video",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84eTNBV3hWRlpvUDdTWVF5c2lwSGNzazZkRVZwb01fZ0lTdUZnUGFrcHJiS1ZaNDNHSF9VVmZPakI3TjJQRUFnQVRRMkxudklPbldUU1lWSG5jY2c"
+      },
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "category": "COMEBACK NEWS",
+      "headline": "RESCENE and Disney’s ‘Hexed’ Unveil ‘With’ Music Video Teaser",
+      "dek": "A teaser for the music video for the new song “With” has been unveiled by Disney’s “Hexed” and K-pop group RESCENE.",
+      "body": [
+        "K-pop group RESCENE and Disney’s “Hexed” have unveiled a teaser for the music video for “With,” a new song.",
+        "The teaser’s release was reported by Korean entertainment publisher 씨네플레이. No further details about the song or full music video were available in the supplied source material."
+      ],
+      "socialCaption": "RESCENE and Disney’s “Hexed” have unveiled a teaser for “With.” Read HallyuScope for the details available so far.",
+      "seoDescription": "RESCENE and Disney’s “Hexed” have unveiled a teaser for the music video for the new song “With,” according to Korean publisher 씨네플레이.",
+      "sourceNote": "Source: 씨네플레이"
+    },
+    {
+      "id": "24d4348bf33a",
+      "createdAt": "2026-11-09T12:36:41.098Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T02:50:59.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "wendy-sets-nov-23-release-for-fourth-solo-ep-gleam-hour",
+      "source": {
+        "publisher": "Korea JoongAng Daily",
+        "title": "Red Velvet’s Wendy to release fourth solo EP ‘Gleam Hour’ on Nov. 23",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQajhxejRWdjJGd0ljb2k5SDNXTzJjR2xtWllnYWZqR2M4NjhCSDIzb2cwblhWZHNmdGI4Z1EtVFZPWnQ5V1VwRlNGTm55blRJblhVcHFDMFJ1Q1pwcmdLSzB0R1FrZ3locEw2N3dKZ0pnZUtRN0hnQ0hFSGJ5SDlTanZlc2dRWS1sUnhEcy1TTjVYQ3hmMzNGWXd2VDFWNDk5LWhiR1RCa0hMRTR0YU11MGFNcHpIeGdpZGFtVkFXaw"
+      },
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "category": "COMEBACK NEWS",
+      "headline": "Wendy Sets Nov. 23 Release for Fourth Solo EP ‘Gleam Hour’",
+      "dek": "The Red Velvet member’s upcoming release will be her fourth solo EP.",
+      "body": [
+        "Red Velvet’s Wendy is set to release her fourth solo EP, “Gleam Hour,” on Nov. 23, according to Korea JoongAng Daily.",
+        "The release will mark Wendy’s fourth EP as a solo artist. Further details about the project were not available in the supplied source material."
+      ],
+      "socialCaption": "Wendy’s fourth solo EP, “Gleam Hour,” is set for Nov. 23. Read HallyuScope for the release details.",
+      "seoDescription": "Red Velvet’s Wendy is set to release “Gleam Hour” on Nov. 23. The upcoming project will be the K-pop singer’s fourth solo EP.",
+      "sourceNote": "Source: Korea JoongAng Daily"
+    },
+    {
+      "id": "f22b93958fea",
+      "createdAt": "2026-11-09T12:36:44.789Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T02:30:24.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "stanford-offers-namjooning-course-inspired-by-bts-rm",
+      "source": {
+        "publisher": "Facebook",
+        "title": "Stanford University offers 'Namjooning' course inspired by BTS' RM https://www.gmanetwork.com/news/showbiz/showbizabroad/1008792/stanford-university-offers-namjooning-course-inspired-by-bts-rm/story/",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMUd4MEVrZGJLV0hGam1sczFadkQzOGQtTXAxaEFpT1dEa0F2SW56MW9jZlNNLVp1aF9KTXR6blB1YzRpRnB0ajQwYXdvX0VSVEZ1R0hPc25rT0I1bjlRTnFXeXk3ajBNVE5YMUtINVVoMEJSUks4OE5GRVRhbEMtMGpCWHNWS1NIbHZMaE80d2t5QzIwZ3l1X0YxUzZ2dzllRzJyRXZLUlFQNTJjT2dFaEhyc2hlNnE2VUoxcw"
+      },
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "category": "HALLYU NEWS",
+      "headline": "Stanford Offers ‘Namjooning’ Course Inspired by BTS’ RM",
+      "dek": "A course at Stanford University takes inspiration from BTS member RM.",
+      "body": [
+        "Stanford University is offering a course inspired by BTS’ RM, according to a headline shared on Facebook.",
+        "The course is titled “Namjooning.” The available source material does not provide further details about its content or schedule."
+      ],
+      "socialCaption": "Stanford is offering a course inspired by BTS’ RM. Read HallyuScope for what’s confirmed so far.",
+      "seoDescription": "Stanford University is offering a ‘Namjooning’ course inspired by BTS member RM. Here’s what the available source headline confirms so far.",
+      "sourceNote": "Source: Facebook"
+    },
+    {
+      "id": "78c532874de0",
+      "createdAt": "2026-11-09T12:36:48.608Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T02:11:13.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "stray-kids-concert-film-reaches-australian-box-office-top-10",
+      "source": {
+        "publisher": "Rolling Stone Australia",
+        "title": "Australian Box Office: Stray Kids Concert Film Lands in Top 10",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV2htYjM4REpkVldLaDZrZ3ZNWmxHSkQ1aUU3c29KZXdRYXJoX1ozWlFMREg2X3JQZlNUNEd2Ny16U3B3QmZtQ19HSzlibmJXOHRPclVkUW9VdDBqUlVuUHJmOW1HbkdGX3QyeFRPQnBnM09wZjhoc000ekUySTUzYWc3NFJnaGtTOHNIcVZBMWdwOUMtNGJuT0RuUTV1ZVlua01CbDQ0R3N4UEd5OTFsSTZR"
+      },
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "category": "CONCERT NEWS",
+      "headline": "Stray Kids Concert Film Reaches Australian Box Office Top 10",
+      "dek": "A Stray Kids concert film has landed among the top 10 titles at the Australian box office, according to Rolling Stone Australia.",
+      "body": [
+        "Stray Kids have made the Australian box office top 10 with a concert film, Rolling Stone Australia reports.",
+        "The report’s headline does not specify the film’s title, its exact ranking or its box office earnings."
+      ],
+      "socialCaption": "A Stray Kids concert film has reached Australia’s box office top 10. Read HallyuScope’s brief for the confirmed details.",
+      "seoDescription": "A Stray Kids concert film has landed in the Australian box office top 10, according to a report from Rolling Stone Australia. Read the brief.",
+      "sourceNote": "Source: Rolling Stone Australia"
+    },
+    {
+      "id": "0405ba86440b",
+      "createdAt": "2026-11-09T12:36:52.646Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T01:20:06.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "jyp-boy-band-oftheblue-set-to-debut-next-year",
+      "source": {
+        "publisher": "The Korea Times",
+        "title": "JYP's new K-pop boy band oftheblue to debut next year",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY0U5OE9KUDlTWGNRakRPcDRlY2FfcXlkTDdNMlQxZi1HWHlBR0NIWnNSUjFRZlJqbXdSTVFiU20yek80ZE5tYmlIbDJSTzBOXy00STJHdXI1aHUxeG1UU1dXZUhIcUwwX2Ytd1ZXeFhmZVJhTkZsX2FrTUJxYUVJUzJmRWFKbGdZZTJua2RmTl9aSW11X1pYWXZBdU1LaldvT2NZc3Zla3h5aGhvd1VF0gG0AUFVX3lxTFA5YUFjUWNMY0RTX0Z3R1czSUNMUWxoeEtVcEx6ZllRZlFJMHg1WUIyUkxLNEhZYW41VmRmanRZclBDVEFnT1k2VGpGdzB1ZTRnUE80emE1NHVjSnhEXzlpSjg4LUh6Qlp0cnpxRkpMR01lOHR2Zk0wVkFVRmg0LURXTkc2SjVGUDU3VjdkYkdRQzVNU0plLXlLVkNKa3F6ZEh3d2xaM2VxSy1mZW5jOTVhQnhtVQ"
+      },
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "category": "HALLYU NEWS",
+      "headline": "JYP Boy Band oftheblue Set to Debut Next Year",
+      "dek": "JYP’s new K-pop boy band oftheblue is set to make its debut next year, according to The Korea Times.",
+      "body": [
+        "JYP is preparing to debut a new K-pop boy band called oftheblue next year, The Korea Times reports.",
+        "The report’s headline identifies oftheblue as a new JYP group but does not specify a debut date. The available source material also does not include further details about the group."
+      ],
+      "socialCaption": "JYP’s new boy band oftheblue is set to debut next year. Read HallyuScope for what the report confirms.",
+      "seoDescription": "JYP’s new K-pop boy band oftheblue is set to debut next year, according to The Korea Times. Here’s what the report’s headline confirms.",
+      "sourceNote": "Source: The Korea Times"
+    },
+    {
+      "id": "fda01cece13c",
+      "createdAt": "2026-11-09T12:36:56.870Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T01:00:00.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "crosswalk-and-upcg-acquire-twice-concert-film",
+      "source": {
+        "publisher": "Variety",
+        "title": "Concert Film 'Twice: This Is For... You' Acquired by Crosswalk, UPCG",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTEhhZGI2eU5vWnhUbURhWVFlSW14anZrc0NTd2ZoNFdEeGlWbTFOY2M2M2FOMjBZR2FfaUZJUkYyY0h6OC11cl9wbnREMEMwc09FM3Yxb1I1WHhJa21KYjFWOVN6d1YzOUd4ZmFEal84c1ZMZnliOC1pX2E2TVNlLXBwOEQwQmNGOFVPallIZ3dPcVN2cTRHNWVvcFY3Qzlt"
+      },
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "category": "CONCERT NEWS",
+      "headline": "Crosswalk and UPCG Acquire TWICE Concert Film",
+      "dek": "Variety reports that Crosswalk and UPCG have acquired the concert film “Twice: This Is For... You.”",
+      "body": [
+        "Crosswalk and UPCG have acquired “Twice: This Is For... You,” a concert film featuring TWICE, according to Variety.",
+        "No further details about the acquisition or the film’s release were available in the supplied source material."
+      ],
+      "socialCaption": "Crosswalk and UPCG have acquired a TWICE concert film. Read HallyuScope’s brief for what has been confirmed.",
+      "seoDescription": "Crosswalk and UPCG have acquired the TWICE concert film “Twice: This Is For... You,” according to a report from entertainment publication Variety.",
+      "sourceNote": "Source: Variety"
+    },
+    {
+      "id": "4c5bba5d6457",
+      "createdAt": "2026-11-09T12:37:02.412Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-09T00:10:03.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "former-pentagon-member-yan-an-builds-acting-career",
+      "source": {
+        "publisher": "Facebook",
+        "title": "Chinese actor and former PENTAGON member Yan An has steadily transitioned from K-pop to acting, building his screen presence with each new project. Read more in the comments section.",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbVNidkE0ekFhNHNjTlFkdmNEYlpBcUlTNnU2cjlvODhCSmRIVGdEbHIySEJHWDdYQ3hVXzdVTkNNZzFvT21SYXlGN3ViVmNiSXdub1A3bHpMTzAyc215UXRkWFdxb3J1UW1QUU5jeVZSMXgyRWhwRTgxSm5GZUJCS0pDZ01wcF9KaXd1aHpfb0w2SDdTUVpqUll4Ty0yLVhNdU01OFc0U2EwbVR1azctYlc1XzNMaW1xbTBZMDd2bzY4aEM5c2FhRGZZVy0xR1pCckhEM0dtOA"
+      },
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "category": "K-DRAMA NEWS",
+      "headline": "Former PENTAGON Member Yan An Builds Acting Career",
+      "dek": "Chinese actor Yan An has been developing his screen career after his time in K-pop group PENTAGON.",
+      "body": [
+        "Yan An, the Chinese actor and former PENTAGON member, has been making the transition from K-pop to acting, according to a Facebook post.",
+        "The post says he has steadily built his screen presence with each new project. It did not name the projects in the available text.",
+        "Yan An’s work on screen follows his time as a member of PENTAGON. No further details about his acting projects were available in the supplied source material."
+      ],
+      "socialCaption": "Former PENTAGON member Yan An is building his screen career. Read HallyuScope’s brief for the details available so far.",
+      "seoDescription": "Former PENTAGON member Yan An is building his acting career. Here’s what the available source says about the Chinese actor’s move from K-pop to the screen.",
+      "sourceNote": "Source: Facebook"
+    },
+    {
+      "id": "c778da60f638",
+      "createdAt": "2026-11-09T12:37:12.160Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-08T22:49:00.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "cortis-returns-to-no-1-on-billboard-world-albums-chart-as-nmixx-and-jxj-debut",
+      "source": {
+        "publisher": "Soompi",
+        "title": "CORTIS, Stray Kids, NMIXX, SEVENTEEN’s JxJ, K/DA, ILLIT, ENHYPEN, BTS, And More Sweep Top Spots On Billboard World Albums Chart",
+        "url": "https://www.soompi.com/article/1885130wpp/cortis-stray-kids-nmixx-seventeens-jxj-k-da-illit-enhypen-bts-and-more-sweep-top-spots-on-billboard-world-albums-chart"
+      },
+      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09083205/CORTIS-Stray-Kids-NMIXX-JxJ.jpg",
+      "category": "COMEBACK NEWS",
+      "headline": "CORTIS Returns to No. 1 on Billboard World Albums Chart as NMIXX and JxJ Debut",
+      "dek": "GREENGREEN leads the chart for a sixth week, while new releases from NMIXX, SEVENTEEN’s JxJ, K/DA and ILLIT enter the top 10.",
+      "body": [
+        "CORTIS is back at No. 1 on Billboard’s World Albums chart for the week ending November 7. The group’s EP “GREENGREEN” returned to the top for its sixth week in the position and re-entered the Billboard 200 six months after its release.",
+        "CORTIS also charted with debut EP “COLOR OUTSIDE THE LINES,” which placed No. 22 in its 60th week on the World Albums chart.",
+        "Stray Kids held three spots, led by “THIS & THAT” at No. 2 in its 12th week. “KARMA” ranked No. 9 in its 59th week, while “DO IT” came in at No. 18 in its 41st.",
+        "Two new releases followed at Nos. 3 and 4: NMIXX’s EP “Strange Muse” and “DREAMSCAPE,” the debut mini album from SEVENTEEN unit JxJ, made up of Jeonghan and Joshua.",
+        "ENHYPEN’s “THE SIN : BLISS” placed No. 5 in its 10th week. League of Legends virtual group K/DA debuted at No. 6 with “FIRESTARTER,” while ILLIT’s “BREAK EVEN” entered at No. 7 ahead of its U.S. physical release. ILLIT’s earlier mini album “MAMIHLAPINATAPAI” ranked No. 13 in its 26th week.",
+        "BTS also had two albums on the chart: “Map of the Soul: 7 ~The Journey~” at No. 12 and “Love Yourself: Answer,” which re-entered at No. 15 for its 206th week.",
+        "Further down, ATEEZ’s “GOLDEN HOUR : Part.5” ranked No. 16, followed by NewJeans’ “Get Up” at No. 17 and BOYNEXTDOOR’s “HOME” at No. 19. LE SSERAFIM’s “PUREFLOW” placed No. 21, and EVAN (Heeseung)’s “DEATH OF ME” came in at No. 24."
+      ],
+      "socialCaption": "CORTIS is back at No. 1, with NMIXX and JxJ among the chart’s new arrivals. Read HallyuScope for the full rundown.",
+      "seoDescription": "CORTIS leads Billboard’s World Albums chart as NMIXX, SEVENTEEN’s JxJ, K/DA and ILLIT debut in the top 10. See where other albums ranked.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "9d079c908a31",
+      "createdAt": "2026-11-09T12:37:16.430Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-08T22:01:00.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "exo-brings-growl-to-kspo-dome-in-school-uniforms",
+      "source": {
+        "publisher": "스포츠조선",
+        "title": "'Growl' in school uniforms? That's just unfair... EXO shakes KSPO Dome with K-pop's national anthem (Full report)",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43VWR5cktpdW10QW5WVUNDOEN1U2kwZW05Q0hvRDRyZUZZN2tiWlJlc0laWnNzeUhiVDJpSU9KNUxxXzFyM3BGX3J5bGVOeUFGcHhLSmhEUnVzWV9lT3daRVRKYTd2X0RhN0VCRXdXMFJ2TXktdUo3NEs0dDZQUQ"
+      },
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "category": "HALLYU NEWS",
+      "headline": "EXO Brings ‘Growl’ to KSPO Dome in School Uniforms",
+      "dek": "EXO performed its hit “Growl” at KSPO Dome wearing school uniforms, 스포츠조선 reported.",
+      "body": [
+        "EXO took “Growl” to the KSPO Dome stage in school uniforms, according to a report from 스포츠조선.",
+        "The publication described the song as a K-pop “national anthem” in its headline."
+      ],
+      "socialCaption": "EXO brought “Growl” to KSPO Dome in school uniforms. Read HallyuScope’s brief for what was reported.",
+      "seoDescription": "EXO performed “Growl” in school uniforms at KSPO Dome, according to 스포츠조선. Read HallyuScope’s brief on the reported performance.",
+      "sourceNote": "Source: 스포츠조선"
+    },
+    {
+      "id": "6e12e6c21172",
+      "createdAt": "2026-11-09T12:37:21.758Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-08T21:30:00.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "xlov-remove-their-makeup-in-preview-for-mbc-s-the-manager",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: XLOV Takes Off Their Makeup In &#8220;The Manager&#8221; Preview",
+        "url": "https://www.soompi.com/article/1885123wpp/watch-xlov-takes-off-their-makeup-in-the-manager-preview"
+      },
+      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09073009/XLOV-The-Manager.jpg",
+      "category": "HALLYU NEWS",
+      "headline": "XLOV Remove Their Makeup in Preview for MBC’s ‘The Manager’",
+      "dek": "The group will appear as guests on the reality show, with their episode set to air on November 14.",
+      "body": [
+        "XLOV will give viewers a look at their everyday lives in an upcoming episode of MBC’s “The Manager.” A newly released preview shows the members removing their makeup, offering a glimpse of the group away from the stage.",
+        "In voice-over, the members reflect on the different ways they express themselves, asking why they cannot wear both a suit and a dress. They also speak about becoming freer and not knowing what they might become interested in next.",
+        "XLOV’s episode of “The Manager” is scheduled to air on November 14 at 11:10 p.m. KST."
+      ],
+      "socialCaption": "XLOV show a glimpse of life away from the stage in a new “The Manager” preview. Read on HallyuScope for the episode details.",
+      "seoDescription": "XLOV remove their makeup and reflect on self-expression in a preview for MBC’s “The Manager.” Find out when the group’s episode will air.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "0c40e3daab95",
+      "createdAt": "2026-11-09T12:37:27.949Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-08T21:06:00.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "ateez-previews-knowing-bros-appearance-without-hongjoong-and-wooyoung",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: ATEEZ Takes &#8220;Knowing Bros&#8221; By Storm In Fun Preview",
+        "url": "https://www.soompi.com/article/1885120wpp/watch-ateez-takes-knowing-bros-by-storm-in-fun-preview"
+      },
+      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09070452/ATEEZ-Knowing-Bros.jpg",
+      "category": "TRENDING",
+      "headline": "ATEEZ Previews ‘Knowing Bros’ Appearance Without Hongjoong and Wooyoung",
+      "dek": "ATEEZ joins the JTBC variety show for dancing and games in a preview of the November 14 episode.",
+      "body": [
+        "ATEEZ will appear on “Knowing Bros” in an upcoming episode, with a new preview showing the members performing and playing games with the cast.",
+        "The group had originally been scheduled to appear in full, but Hongjoong and Wooyoung sat out for health reasons, Soompi reported.",
+        "In the preview, the members enter the show’s classroom and perform choreography to their latest song, “BAD.” They also joke about how long they had waited for an invitation, with Seonghwa saying they had wanted to appear for a long time.",
+        "Mingi shares that his nickname is “princess” and shows off his dancing, while Yunho jokes around with the cast. The preview closes with the members taking part in games.",
+        "The episode of “Knowing Bros,” also known as “Ask Us Anything,” is scheduled to air on November 14 at 9 p.m. KST."
+      ],
+      "socialCaption": "ATEEZ is heading to “Knowing Bros.” Read on HallyuScope for the preview highlights and broadcast time.",
+      "seoDescription": "ATEEZ brings dancing and games to a new ‘Knowing Bros’ preview. Hongjoong and Wooyoung sat out the appearance for health reasons.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "ed8de4e4dd9d",
+      "createdAt": "2026-11-09T12:37:33.583Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-08T20:23:00.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "illit-earns-first-billboard-200-top-10-entry-with-break-even",
+      "source": {
+        "publisher": "Soompi",
+        "title": "ILLIT Debuts At No. 1 On Billboard Top Album Sales Chart + No. 6 On Billboard 200 With &#8220;BREAK EVEN&#8221;",
+        "url": "https://www.soompi.com/article/1885116wpp/illit-debuts-at-no-1-on-billboard-top-album-sales-chart-no-6-on-billboard-200-with-break-even"
+      },
+      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09062158/ILLIT_aa5c07.jpeg",
+      "category": "COMEBACK NEWS",
+      "headline": "ILLIT Earns First Billboard 200 Top 10 Entry With ‘BREAK EVEN’",
+      "dek": "The mini album also opened at No. 1 on Billboard’s Top Album Sales chart, marking another first for the group.",
+      "body": [
+        "ILLIT has landed its first top 10 entry on the Billboard 200 with “BREAK EVEN,” which debuted at No. 6 on the U.S. albums chart.",
+        "The mini album also entered Billboard’s Top Album Sales chart at No. 1, becoming the group’s first release to lead that ranking. Billboard announced the results on November 8 local time.",
+        "According to Luminate, “BREAK EVEN” earned 37,000 equivalent album units in the week ending November 5. That total included 32,500 traditional album sales—ILLIT’s biggest U.S. sales week to date—and 4,500 streaming equivalent album units, representing 4.87 million on-demand audio streams.",
+        "“BREAK EVEN” is ILLIT’s fifth Billboard 200 entry. Its predecessor on the chart, “MAMIHLAPINATAPAI,” peaked at No. 26."
+      ],
+      "socialCaption": "ILLIT has reached the Billboard 200 top 10 for the first time. Read HallyuScope for the chart and sales breakdown.",
+      "seoDescription": "ILLIT’s “BREAK EVEN” debuts at No. 6 on the Billboard 200 and No. 1 on Top Album Sales, giving the group two new chart milestones in the U.S.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "470b81f69755",
+      "createdAt": "2026-11-09T12:37:38.798Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-08T19:31:00.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "xikers-sets-new-first-week-sales-record-with-route-zero-the-calling",
+      "source": {
+        "publisher": "Soompi",
+        "title": "xikers Achieves Career High With 1st-Week Sales For &#8220;ROUTE ZERO : The CALLING&#8221;",
+        "url": "https://www.soompi.com/article/1885113wpp/xikers-achieves-career-high-with-1st-week-sales-for-route-zero-the-calling"
+      },
+      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09053023/xikers.jpeg",
+      "category": "HALLYU NEWS",
+      "headline": "xikers Sets New First-Week Sales Record With ‘ROUTE ZERO : The CALLING’",
+      "dek": "The mini album sold 370,935 copies in its first week, surpassing xikers’ previous personal best.",
+      "body": [
+        "xikers has reached a new first-week sales high with its mini album “ROUTE ZERO : The CALLING,” according to Hanteo Chart.",
+        "The release sold 370,935 copies from November 2 through November 8, Soompi reported. That total exceeds the KQ Entertainment boy group’s previous first-week record of 364,152 copies, set by its preceding mini album, “ROUTE ZERO : The ORA,” earlier this year.",
+        "“ROUTE ZERO : The CALLING” was released on November 2 alongside its title track, “DIENAMITE.” The new total puts the group’s first-week sales 6,783 copies above its previous record."
+      ],
+      "socialCaption": "xikers has a new first-week sales high. Read HallyuScope for the numbers behind the group’s latest record.",
+      "seoDescription": "xikers sets a new first-week sales record with 370,935 copies of “ROUTE ZERO : The CALLING,” topping its previous mini album’s total.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "47e7378c211b",
+      "createdAt": "2026-11-09T12:37:44.069Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-08T19:04:00.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "illit-sets-new-first-week-sales-best-with-break-even",
+      "source": {
+        "publisher": "Soompi",
+        "title": "ILLIT Breaks Their 1st-Week Sales Record With &#8220;BREAK EVEN&#8221;",
+        "url": "https://www.soompi.com/article/1885108wpp/illit-breaks-their-1st-week-sales-record-with-break-even"
+      },
+      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09051751/ILLIT_3c0580.jpeg",
+      "category": "HALLYU NEWS",
+      "headline": "ILLIT Sets New First-Week Sales Best With ‘BREAK EVEN’",
+      "dek": "The group’s fifth mini album sold 444,072 copies in its first week, according to Hanteo Chart.",
+      "body": [
+        "ILLIT has set a new personal first-week sales record with its fifth mini album, “BREAK EVEN.”",
+        "The album sold 444,072 copies during its first week of release, from October 26 to November 1, according to Hanteo Chart. That total puts it 32,418 copies ahead of the group’s previous first-week best.",
+        "The earlier record was held by ILLIT’s previous mini album, “MAMIHLAPINATAPAI,” which sold 411,654 copies in its first week. The group released that album earlier this year.",
+        "“BREAK EVEN” marks ILLIT’s latest comeback and features the title track “You’re Under Arrest.”"
+      ],
+      "socialCaption": "ILLIT has a new first-week sales record with “BREAK EVEN.” Read HallyuScope for the numbers behind the group’s latest milestone.",
+      "seoDescription": "ILLIT’s fifth mini album, BREAK EVEN, sold 444,072 copies in its first week, surpassing the K-pop group’s previous personal record on Hanteo Chart.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "d5ac332d7305",
+      "createdAt": "2026-11-09T12:37:49.882Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-08T18:42:00.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "cortis-greengreen-returns-to-billboard-200-at-no-90",
+      "source": {
+        "publisher": "Soompi",
+        "title": "CORTIS&#8217;s &#8220;GREENGREEN&#8221; Re-Enters Billboard 200 6 Months After Its Release",
+        "url": "https://www.soompi.com/article/1885104wpp/cortiss-greengreen-re-enters-billboard-200-6-months-after-its-release"
+      },
+      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09050143/CORTIS.jpg",
+      "category": "COMEBACK NEWS",
+      "headline": "CORTIS’ ‘GREENGREEN’ Returns to Billboard 200 at No. 90",
+      "dek": "The group’s second EP re-entered the U.S. albums chart six months after its release and returned to No. 1 on World Albums.",
+      "body": [
+        "CORTIS’ second EP, “GREENGREEN,” is back on the Billboard 200 six months after its release.",
+        "The EP re-entered the chart at No. 90 for the week ending November 7, according to Soompi. It previously debuted at No. 3 in May.",
+        "The return marks the album’s 19th non-consecutive week on the Billboard 200, extending its record as CORTIS’ longest-charting album.",
+        "“GREENGREEN” also reclaimed the No. 1 spot on Billboard’s World Albums chart, where it has now spent six non-consecutive weeks at the top. On the Top Album Sales chart, it climbed to No. 5.",
+        "CORTIS rose to No. 59 on the Artist 100, marking the group’s 25th overall week on that chart."
+      ],
+      "socialCaption": "CORTIS’ “GREENGREEN” is back on the Billboard 200. Read HallyuScope for its latest chart results.",
+      "seoDescription": "CORTIS’ second EP, GREENGREEN, re-enters the Billboard 200 at No. 90 and returns to No. 1 on World Albums six months after its release.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "516e2d94eca4",
+      "createdAt": "2026-11-09T12:37:54.928Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-08T18:06:00.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "blackpink-s-lisa-lands-second-billboard-200-entry-with-press-play",
+      "source": {
+        "publisher": "Soompi",
+        "title": "BLACKPINK&#8217;s Lisa Debuts In Top 35 Of Billboard 200 With &#8220;PRESS PLAY&#8221;",
+        "url": "https://www.soompi.com/article/1885099wpp/blackpinks-lisa-debuts-in-top-35-of-billboard-200-with-press-play"
+      },
+      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09043714/Lisa.jpeg",
+      "category": "TRENDING",
+      "headline": "BLACKPINK’s Lisa Lands Second Billboard 200 Entry With ‘PRESS PLAY’",
+      "dek": "The solo EP opened at No. 35 on the Billboard 200, while Lisa also returned to the Artist 100.",
+      "body": [
+        "BLACKPINK’s Lisa has earned her second solo entry on the Billboard 200, with her new EP “PRESS PLAY” debuting at No. 35.",
+        "The release follows her full-length solo album “Alter Ego,” which reached No. 7 on the chart last year. The Billboard 200 ranks the most popular albums in the United States.",
+        "“PRESS PLAY” also debuted at No. 6 on Top Album Sales and No. 15 on Vinyl Albums. Its title track, “Tarantino,” entered the Global Excl. U.S. chart at No. 79 and the Global 200 at No. 98.",
+        "Pre-release single “SaWaDiKa” returned to those charts at No. 113 and No. 126, respectively. Lisa also re-entered the Artist 100 at No. 34, marking her sixth non-consecutive week on the chart as a soloist."
+      ],
+      "socialCaption": "Lisa’s ‘PRESS PLAY’ has debuted on the Billboard 200. Read on HallyuScope for the EP’s chart results.",
+      "seoDescription": "BLACKPINK’s Lisa debuts at No. 35 on the Billboard 200 with ‘PRESS PLAY.’ See where the EP and its singles landed on other Billboard charts.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "1935815b3164",
+      "createdAt": "2026-11-09T12:38:00.807Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-08T16:01:23.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "red-velvet-s-wendy-sets-november-release-for-fourth-solo-mini-album-gleam-hour",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Red Velvet&#8217;s Wendy Announces November Comeback With Schedule For &#8220;Gleam Hour&#8221;",
+        "url": "https://www.soompi.com/article/1885066wpp/red-velvets-wendy-announces-november-comeback-with-schedule-for-gleam-hour"
+      },
+      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09005948/Wendy.jpeg",
+      "category": "COMEBACK NEWS",
+      "headline": "Red Velvet’s Wendy Sets November Release for Fourth Solo Mini Album ‘Gleam Hour’",
+      "dek": "Wendy will release her fourth solo mini album, “Gleam Hour,” on November 23.",
+      "body": [
+        "Red Velvet’s Wendy is returning as a solo artist with a new mini album this month.",
+        "The singer announced “Gleam Hour,” her fourth solo mini album, on November 9 at midnight KST. It is scheduled for release on November 23 at 6 p.m. KST.",
+        "Wendy also shared a schedule for the upcoming comeback alongside the announcement."
+      ],
+      "socialCaption": "Wendy’s fourth solo mini album is on the way. Read on HallyuScope for the release details.",
+      "seoDescription": "Red Velvet’s Wendy has announced her fourth solo mini album, “Gleam Hour,” along with a comeback schedule. The album arrives on November 23 at 6 p.m. KST.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "9a99197f587f",
+      "createdAt": "2026-11-09T12:38:07.063Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-08T15:54:38.000Z",
+      "model": "gpt-6.1-terra",
+      "slug": "the-bias-list-ranks-k-pop-releases-from-november-1-7",
+      "source": {
+        "publisher": "https://thebiaslist.com/",
+        "title": "THIS WEEK IN K-POP: Ranking the New Releases from November 1 – 7",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWlAyMkhMeVVLVHhhVkdUV216eXpVajhKeTN5bkRaNEpkR3N4UjJDWDFHdlpyZE94VWhRa3JvVWh2QmtMWnVJMlhrQTlOVGVsNGVfN0pmajhXaGFGMTNyT1B6TXVIM09qYWlXM2hqM0JEMENZNXUwdHItRkxrTTNpWW9haTM4U2dyUGE3WlFDeWN3cVdMQjFBVzJyRktPZw"
+      },
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "category": "COMEBACK NEWS",
+      "headline": "The Bias List Ranks K-Pop Releases From November 1–7",
+      "dek": "The weekly roundup covers new K-pop releases from the first week of November.",
+      "body": [
+        "The Bias List has published a weekly ranking of new K-pop releases covering November 1 through 7.",
+        "The roundup brings that week’s releases together in a ranked format. The available source information does not identify the artists or songs included, or reveal their positions.",
+        "For fans following new music, the ranking offers a look at how The Bias List assessed releases during that seven-day period. The publication’s headline does not specify a year for the roundup."
+      ],
+      "socialCaption": "The Bias List has ranked new K-pop releases from November 1–7. Read HallyuScope’s brief for what’s confirmed about the roundup.",
+      "seoDescription": "The Bias List has published a ranking of new K-pop releases from November 1–7. Here’s what is confirmed about the weekly music roundup.",
+      "sourceNote": "Source: The Bias List"
+    }
+  ]
 }
