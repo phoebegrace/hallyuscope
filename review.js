@@ -79,6 +79,28 @@
         <label>Category<input id="editCategory" value="${esc(current.category||'HALLYU NEWS')}"></label>
         <label>SEO description<textarea id="editSeo" rows="4">${esc(current.seoDescription||'')}</textarea></label>
       </div>
+      <section class="review-social">
+        <div class="review-social-head">
+          <div>
+            <span class="eyebrow">META SOCIAL</span>
+            <h3>Facebook + Instagram</h3>
+          </div>
+          <span class="review-social-status">${esc(current.socialStatus||'Not posted')}</span>
+        </div>
+        <div class="review-social-platforms">
+          <label class="review-check"><input id="socialFacebook" type="checkbox" ${current.socialPlatforms?.facebook!==false?'checked':''}> Facebook</label>
+          <label class="review-check"><input id="socialInstagram" type="checkbox" ${current.socialPlatforms?.instagram!==false?'checked':''}> Instagram</label>
+        </div>
+        <label>Social caption<textarea id="editSocialCaption" rows="6">${esc(current.socialCaption||current.dek||'')}</textarea></label>
+        <label>Social image URL<input id="editSocialImageUrl" value="${esc(current.socialImageUrl||'')}" placeholder="https://...jpg or ...png"></label>
+        <p class="meta">Instagram requires a publicly reachable image URL. Use the exported HallyuScope/Canva social graphic here.</p>
+        <div class="review-social-actions">
+          <button type="button" class="review-save-social" data-action="save">Save social draft</button>
+          <button type="button" class="review-post-meta" data-meta-post="1">Post to selected Meta accounts</button>
+        </div>
+        <p class="meta" id="reviewSocialMessage"></p>
+      </section>
+
       <details class="review-source"><summary>Source used for reporting</summary>
         <p><strong>${esc(current.source?.publisher||'Unknown')}</strong></p>
         <p>${esc(current.source?.title||'')}</p>
@@ -153,7 +175,13 @@
       category:$('#editCategory').value.trim(),
       seoDescription:$('#editSeo').value.trim(),
       imageUrl:$('#editImageUrl')?.value.trim() || '',
-      imageType:$('#editImageType')?.value || 'hallyuscope_original'
+      imageType:$('#editImageType')?.value || 'hallyuscope_original',
+      socialCaption:$('#editSocialCaption')?.value.trim() || '',
+      socialImageUrl:$('#editSocialImageUrl')?.value.trim() || '',
+      socialPlatforms:{
+        facebook:$('#socialFacebook')?.checked !== false,
+        instagram:$('#socialInstagram')?.checked !== false
+      }
     };
     note.textContent='Saving…';
     try{
@@ -163,6 +191,34 @@
       note.textContent=action==='publish'?'Published.':action==='skip'?'Skipped.':'Saved.';
       counts(); renderList(); renderEditor();
     }catch(err){ note.textContent=err.message; }
+  });
+
+  editor.addEventListener('click',async e=>{
+    const b=e.target.closest('[data-meta-post]'); if(!b||!current)return;
+    const note=$('#reviewSocialMessage');
+    const payload={
+      id:current.id,
+      caption:$('#editSocialCaption')?.value.trim() || current.socialCaption || current.dek || '',
+      imageUrl:$('#editSocialImageUrl')?.value.trim() || '',
+      facebook:$('#socialFacebook')?.checked === true,
+      instagram:$('#socialInstagram')?.checked === true
+    };
+    if(!payload.facebook&&!payload.instagram){ note.textContent='Choose Facebook and/or Instagram first.'; return; }
+    if(payload.instagram&&!payload.imageUrl){ note.textContent='Instagram needs a public JPG/PNG image URL first.'; return; }
+    note.textContent='Posting…';
+    b.disabled=true;
+    try{
+      const r=await fetch('/api/meta-publish',{
+        method:'POST',
+        headers:{'Content-Type':'application/json','x-review-password':password},
+        body:JSON.stringify(payload)
+      });
+      const data=await r.json().catch(()=>({}));
+      if(!r.ok) throw new Error(data.error||'Meta publish failed');
+      note.textContent='Posted'+(data.facebook?.id?' to Facebook':'')+(data.instagram?.id?' to Instagram':'')+'.';
+      await load();
+    }catch(err){ note.textContent=err.message; }
+    finally{ b.disabled=false; }
   });
 
   $('#reviewRefresh').addEventListener('click',()=>load().catch(()=>{}));
