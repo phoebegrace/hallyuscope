@@ -35,11 +35,90 @@
               <button type="button" data-reaction="sad"><span>↓</span><b>Sad</b><small>0</small></button>
             </div>
           </section>
+          <section class="article-share" data-share>
+            <div class="article-share-copy">
+              <span class="eyebrow">SHARE THIS STORY</span>
+              <h2>Send it to your group chat.</h2>
+            </div>
+            <div class="article-share-actions">
+              <button type="button" class="share-main" data-share-native>Share article</button>
+              <button type="button" data-share-facebook>Facebook</button>
+              <button type="button" data-share-x>X</button>
+              <button type="button" data-share-copy>Copy link</button>
+            </div>
+            <p class="meta share-status" aria-live="polite"></p>
+          </section>
           <p class="article-back"><a class="cta" href="/latest">← Back to this week's news</a></p>
         </article>`;
       setupReactions(id);
+      setupShare(item);
     })
     .catch(() => { root.innerHTML = '<p class="empty">This story is still being prepared. <a href="/latest">Back to latest news.</a></p>'; });
+
+  function setupShare(item){
+    const wrap=root.querySelector('[data-share]');
+    if(!wrap) return;
+    const url=new URL(location.href);
+    url.hash='';
+    const shareUrl=url.toString();
+    const title=item.headline || document.title;
+    const text=(item.dek || 'Read the full story on HallyuScope.').trim();
+    const status=wrap.querySelector('.share-status');
+    const nativeBtn=wrap.querySelector('[data-share-native]');
+    const fbBtn=wrap.querySelector('[data-share-facebook]');
+    const xBtn=wrap.querySelector('[data-share-x]');
+    const copyBtn=wrap.querySelector('[data-share-copy]');
+
+    function openPopup(href){
+      window.open(href,'hallyuscope-share','width=720,height=640,noopener,noreferrer');
+    }
+
+    if(nativeBtn){
+      nativeBtn.addEventListener('click',async()=>{
+        if(navigator.share){
+          try{
+            await navigator.share({title,text,url:shareUrl});
+            if(status) status.textContent='Shared.';
+          }catch(err){
+            if(err?.name!=='AbortError' && status) status.textContent='Sharing was cancelled.';
+          }
+        }else{
+          try{
+            await navigator.clipboard.writeText(shareUrl);
+            if(status) status.textContent='Link copied.';
+          }catch{
+            if(status) status.textContent='Copy the page URL from your browser.';
+          }
+        }
+      });
+    }
+
+    if(fbBtn){
+      fbBtn.addEventListener('click',()=>{
+        openPopup('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(shareUrl));
+      });
+    }
+
+    if(xBtn){
+      xBtn.addEventListener('click',()=>{
+        const copy=title+' — '+shareUrl;
+        openPopup('https://twitter.com/intent/tweet?text='+encodeURIComponent(copy));
+      });
+    }
+
+    if(copyBtn){
+      copyBtn.addEventListener('click',async()=>{
+        try{
+          await navigator.clipboard.writeText(shareUrl);
+          copyBtn.textContent='Copied';
+          if(status) status.textContent='Article link copied to clipboard.';
+          setTimeout(()=>{copyBtn.textContent='Copy link';},1800);
+        }catch{
+          if(status) status.textContent='Copy the page URL from your browser.';
+        }
+      });
+    }
+  }
 
   async function setupReactions(articleId){
     const wrap=root.querySelector('[data-reactions]');
