@@ -123,3 +123,47 @@ loadComebackArchive();
 loadConcertArchive();
 loadHomeConcerts();
 loadHomeComebacks();
+
+
+const newsletterForm=document.getElementById('newsletterForm');
+if(newsletterForm){
+  const emailInput=document.getElementById('newsletterEmail');
+  const submitBtn=document.getElementById('newsletterSubmit');
+  const signupMessage=document.getElementById('signupMessage');
+
+  newsletterForm.addEventListener('submit',async(e)=>{
+    e.preventDefault();
+
+    const email=(emailInput?.value||'').trim();
+    const website=(newsletterForm.elements.website?.value||'').trim();
+
+    if(!email||!emailInput.checkValidity()){
+      signupMessage.textContent='Please enter a valid email address.';
+      emailInput?.focus();
+      return;
+    }
+
+    submitBtn.disabled=true;
+    submitBtn.textContent='Joining…';
+    signupMessage.textContent='Adding you to the list…';
+
+    try{
+      const res=await fetch('/api/subscribe',{
+        method:'POST',
+        headers:{'Content-Type':'application/json'},
+        body:JSON.stringify({email,website})
+      });
+
+      const data=await res.json().catch(()=>({}));
+      if(!res.ok) throw new Error(data.error||'Unable to subscribe right now.');
+
+      signupMessage.textContent=data.message||'You’re on the list.';
+      newsletterForm.reset();
+    }catch(err){
+      signupMessage.textContent=err.message||'Something went wrong. Please try again.';
+    }finally{
+      submitBtn.disabled=false;
+      submitBtn.textContent='Join free';
+    }
+  });
+}
