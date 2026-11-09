@@ -1,0 +1,21 @@
+{
+  "updatedAt": "2026-11-10T00:00:00.000Z",
+  "note": "Fan/community posts are discovery leads, never publishable facts by themselves. A lead must be corroborated by an official source or multiple reliable independent sources before it can enter the article pipeline.",
+  "policy": {
+    "defaultStatus": "unverified",
+    "allowedStatuses": [
+      "unverified",
+      "corroborating",
+      "verified",
+      "rejected"
+    ],
+    "autoPublish": false,
+    "rules": [
+      "Never treat a fan post as confirmation of schedules, health, relationships, legal issues, private information, or allegations.",
+      "Preserve the original post URL for editorial review.",
+      "Do not copy fan photos, videos, translations, or text into published HallyuScope content without permission or a clear lawful basis.",
+      "Verified fan-origin leads may become articles only after the claim is independently corroborated."
+    ]
+  },
+  "items": []
+}
