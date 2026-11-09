@@ -1,0 +1,70 @@
+{
+  "updatedAt": "2026-11-09T12:07:29.264Z",
+  "note": "Upcoming Philippine K-pop events seeded only from currently verified official ticketing or venue sources. ticketUrl must remain an official promoter, venue, or ticketing destination.",
+  "items": [
+    {
+      "id": "lee-minhyuk-huta-heat-max-manila-2026",
+      "artist": "LEE MINHYUK (HUTA)",
+      "tour": "HEAT MAX in Manila",
+      "date": "2026-11-21",
+      "venue": "TBA",
+      "city": "Metro Manila",
+      "type": "Concert",
+      "status": "On Sale",
+      "ticketRange": "See official ticketing page",
+      "promoter": "TBA",
+      "ticketProvider": "Ticketmaster Philippines",
+      "ticketUrl": "https://ticketmaster.ph/",
+      "description": "LEE MINHYUK (HUTA) is scheduled to bring the 2026 concert HEAT MAX to Manila on November 21, 2026. HallyuScope will update venue, pricing and promoter details as official information is confirmed.",
+      "relatedArticles": []
+    },
+    {
+      "id": "pentagon-101010-manila-2026",
+      "artist": "PENTAGON",
+      "tour": "10th Anniversary Tour <101010> in Manila",
+      "date": "2026-11-29",
+      "venue": "TBA",
+      "city": "Metro Manila",
+      "type": "Concert",
+      "status": "On Sale",
+      "ticketRange": "See official ticketing page",
+      "promoter": "TBA",
+      "ticketProvider": "Ticketmaster Philippines",
+      "ticketUrl": "https://ticketmaster.ph/",
+      "description": "PENTAGON's 10th Anniversary Tour <101010> is scheduled for Manila on November 29, 2026. Official ticketing is listed through Ticketmaster Philippines.",
+      "relatedArticles": []
+    },
+    {
+      "id": "park-jinyoung-code-manila-2026",
+      "artist": "PARK JINYOUNG",
+      "tour": "1st Concert Tour [CODE#] in Manila",
+      "date": "2026-12-05",
+      "venue": "TBA",
+      "city": "Metro Manila",
+      "type": "Concert",
+      "status": "On Sale",
+      "ticketRange": "See official ticketing page",
+      "promoter": "TBA",
+      "ticketProvider": "Tap Your Tickets",
+      "ticketUrl": "https://www.tapyourtickets.com/en",
+      "description": "PARK JINYOUNG's 1st Concert Tour [CODE#] is scheduled for Manila on December 5, 2026. Ticket sales are handled through Tap Your Tickets.",
+      "relatedArticles": []
+    },
+    {
+      "id": "doh-kyung-soo-day-off-manila-2027",
+      "artist": "DOH KYUNG SOO",
+      "tour": "2026-2027 Concert Tour [DAY OFF] in Manila",
+      "date": "2027-01-23",
+      "venue": "Smart Araneta Coliseum",
+      "city": "Quezon City",
+      "type": "Concert",
+      "status": "Announced",
+      "ticketRange": "TBA",
+      "promoter": "Wilbros Live",
+      "ticketProvider": "Official ticketing details pending",
+      "ticketUrl": "https://smartaranetacoliseum.com/",
+      "description": "DOH KYUNG SOO is scheduled to bring the 2026-2027 concert tour [DAY OFF] to Smart Araneta Coliseum on January 23, 2027 at 6:00 PM. HallyuScope will update the ticketing link and prices once officially posted.",
+      "relatedArticles": []
+    }
+  ]
+}

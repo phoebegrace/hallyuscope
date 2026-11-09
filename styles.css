@@ -404,6 +404,83 @@ button,input{font:inherit;color:inherit}
 .article-source p{margin:0}
 .article-back{margin-top:38px}
 
+/* ---------- concert calendar ---------- */
+.concert-tools{display:flex;align-items:center;gap:18px;flex-wrap:wrap;margin-top:22px}
+.calendar-launch{display:inline-flex;align-items:center;gap:28px;border:0;background:var(--navy);color:#fff;padding:15px 18px;cursor:pointer;font:750 14px/1 var(--f);transition:background .2s,transform .2s}
+.calendar-launch:hover{background:var(--pink);transform:translateY(-1px)}
+.concert-modal{position:fixed;inset:0;z-index:100;display:none}
+.concert-modal.open{display:block}
+.concert-modal-backdrop{position:absolute;inset:0;background:rgba(5,8,20,.56)}
+.concert-modal-panel{position:absolute;inset:4vh 3vw;background:#fff;overflow:auto;box-shadow:0 24px 70px rgba(0,0,0,.22)}
+.concert-modal-head{position:sticky;top:0;z-index:3;background:#fff;display:flex;justify-content:space-between;align-items:flex-end;gap:24px;padding:24px clamp(20px,3vw,42px);border-bottom:1px solid var(--ink)}
+.concert-modal-head h2{margin:7px 0 0;font:800 clamp(28px,3.2vw,48px)/1 var(--f);font-stretch:90%}
+.concert-modal-close,.concert-detail-back,.concert-month-nav button,.concert-view-toggle button{background:none;border:1px solid var(--hair);cursor:pointer}
+.concert-modal-close{padding:10px 14px;font-weight:700}
+.concert-calendar-main{padding:clamp(20px,3vw,42px)}
+.concert-calendar-toolbar{display:flex;justify-content:space-between;align-items:center;gap:18px;margin-bottom:24px}
+.concert-month-nav{display:flex;align-items:center;gap:14px}
+.concert-month-nav strong{min-width:180px;text-align:center;font-size:18px}
+.concert-month-nav button{width:38px;height:38px}
+.concert-view-toggle{display:flex}
+.concert-view-toggle button{padding:9px 13px;margin-left:-1px}
+.concert-view-toggle button[aria-pressed="true"]{background:var(--ink);color:#fff;border-color:var(--ink)}
+.concert-calendar-layout{display:grid;grid-template-columns:minmax(0,1.55fr) minmax(300px,.75fr);gap:34px}
+.concert-weekdays,.concert-month-grid{display:grid;grid-template-columns:repeat(7,1fr)}
+.concert-weekdays{border-bottom:1px solid var(--ink)}
+.concert-weekdays span{padding:0 8px 10px;font:700 10px/1 var(--f);letter-spacing:.08em;text-transform:uppercase;color:var(--mute)}
+.concert-day{position:relative;min-height:104px;border-right:1px solid var(--hair);border-bottom:1px solid var(--hair);padding:9px;background:#fff;text-align:left}
+.concert-day:nth-child(7n+1){border-left:1px solid var(--hair)}
+.concert-day.is-empty{background:#fafafe}
+.concert-day-num{font:700 12px/1 var(--f);color:var(--mute)}
+.concert-day.has-event{cursor:pointer}
+.concert-day.has-event:hover{background:var(--tint)}
+.concert-day.is-today .concert-day-num{color:var(--pink)}
+.concert-dot{display:block;margin-top:12px;padding:7px 8px;background:var(--navy);color:#fff;font:700 10px/1.2 var(--f);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.concert-day.has-many .concert-dot{background:var(--pink)}
+.concert-upcoming{border-top:2px solid var(--ink)}
+.concert-upcoming-head{display:flex;justify-content:space-between;gap:12px;padding:14px 0;border-bottom:1px solid var(--hair)}
+.concert-card{display:grid;grid-template-columns:62px 1fr;gap:16px;padding:18px 0;border-bottom:1px solid var(--hair);cursor:pointer}
+.concert-card:hover h3{color:var(--navy)}
+.concert-card-date{font:800 26px/1 var(--f);color:var(--pink)}
+.concert-card-date small{display:block;margin-top:6px;font:700 10px/1 var(--f);color:var(--mute);letter-spacing:.08em}
+.concert-card h3{margin:0 0 5px;font:700 16px/1.3 var(--f)}
+.concert-card p{margin:0;color:var(--mute);font-size:13px;line-height:1.45}
+.concert-list-mode .concert-calendar-layout{grid-template-columns:1fr}
+.concert-list-mode .concert-calendar-layout>div:first-child{display:none}
+.concert-list-mode .concert-upcoming{max-width:900px}
+.concert-detail{padding:clamp(20px,4vw,56px)}
+.concert-detail-back{padding:10px 13px;margin-bottom:28px;font-weight:700}
+.concert-detail-grid{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(280px,.85fr);gap:42px}
+.concert-detail h3{margin:10px 0 14px;font:800 clamp(34px,4vw,58px)/1.02 var(--f);font-stretch:90%}
+.concert-detail-dek{font-size:18px;line-height:1.65;color:var(--mute);max-width:720px}
+.concert-facts{display:grid;grid-template-columns:repeat(2,1fr);gap:0;margin:30px 0;border-top:1px solid var(--ink)}
+.concert-fact{padding:15px 0;border-bottom:1px solid var(--hair)}
+.concert-fact:nth-child(odd){padding-right:20px}
+.concert-fact b{display:block;font:700 10px/1 var(--f);letter-spacing:.08em;text-transform:uppercase;color:var(--mute);margin-bottom:6px}
+.concert-fact span{font-weight:650}
+.concert-ticket-box{background:var(--navy);color:#fff;padding:28px;align-self:start}
+.concert-ticket-box h4{margin:0 0 10px;font:800 24px/1.1 var(--f)}
+.concert-ticket-box p{margin:0 0 22px;color:rgba(255,255,255,.72);font-size:14px}
+.concert-ticket-btn{display:flex;justify-content:space-between;align-items:center;background:#fff;color:var(--navy);padding:14px 16px;font-weight:800}
+.concert-ticket-btn.is-disabled{opacity:.55;pointer-events:none}
+.concert-calendar-actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:12px}
+.concert-calendar-actions a{display:inline-block;border:1px solid rgba(255,255,255,.35);padding:9px 11px;font-size:12px;font-weight:700}
+.concert-empty{padding:28px 0;color:var(--mute)}
+@media(max-width:900px){
+  .concert-modal-panel{inset:0}
+  .concert-calendar-layout,.concert-detail-grid{grid-template-columns:1fr}
+  .concert-upcoming{margin-top:20px}
+}
+@media(max-width:640px){
+  .concert-modal-head{align-items:center}
+  .concert-calendar-toolbar{align-items:flex-start;flex-direction:column}
+  .concert-weekdays span{padding-inline:3px;font-size:8px}
+  .concert-day{min-height:72px;padding:5px}
+  .concert-dot{font-size:0;width:7px;height:7px;border-radius:50%;padding:0;margin-top:8px}
+  .concert-facts{grid-template-columns:1fr}
+  .concert-fact:nth-child(odd){padding-right:0}
+}
+
 /* ---------- newsletter v2: its own band, clear promise, live issue preview ---------- */
 .news-sign{display:block;background:var(--tint);padding-block:clamp(56px,7vw,104px)}
 .nl-in{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,.9fr);gap:clamp(32px,5vw,88px);align-items:center}
