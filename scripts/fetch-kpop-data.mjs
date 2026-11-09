@@ -1,8 +1,8 @@
 import { writeFile, mkdir, readFile } from 'node:fs/promises';
 
 const OUT = new URL('../data/', import.meta.url);
-const MAX_LATEST = 18;
-const MAX_CANDIDATES = 24;
+const MAX_LATEST = 120;
+const MAX_CANDIDATES = 100;
 
 const decodeXml = (value = '') => value
   .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
@@ -120,7 +120,7 @@ await mkdir(OUT, { recursive: true });
 const feedDefs = [
   ['Soompi', 'https://www.soompi.com/feed'],
   ['Kpopmap', 'https://www.kpopmap.com/en/feed/'],
-  ['Google News · K-pop', googleNewsUrl('K-pop when:2d')],
+  ['Google News · K-pop', googleNewsUrl('K-pop when:7d')],
   ['Google News · PH concerts', googleNewsUrl('(K-pop OR Kpop) (Manila OR Philippines) (concert OR tour OR fancon OR "fan meeting") when:60d')],
   ['Google News · comebacks', googleNewsUrl('(K-pop OR Kpop) (comeback OR album OR single OR teaser) when:21d')]
 ];
