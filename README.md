@@ -59,3 +59,19 @@ The endpoint validates email addresses, includes a honeypot bot check, keeps cre
 ## Design
 
 Editorial layout in the logo colours (navy #01229a, pink #fe0862) with Archivo type, a navy nav bar and footer, video mood loops in `assets/video/`, and live data rendered by `script.js`. Deploy changes from the latest `main` commit; avoid redeploying older deployments in Vercel.
+
+
+## Social post enrichment
+
+The existing live-data fetch remains unchanged. A separate additive script, `scripts/build-social-post-data.mjs`, runs after the normal fetch and writes `data/social-post-candidates.json`.
+
+For up to 12 recent stories it attempts to:
+- resolve the article page
+- read the page's Open Graph/Twitter image
+- classify a social category
+- prepare a compact HallyuScope social headline
+- expose Canva-ready fields: `Category`, `Headline`, and `FeatureImage`
+
+The workflow step uses `continue-on-error: true`, so a source blocking metadata/image extraction cannot break the existing hourly news refresh.
+
+The source image URL is metadata only. Review image usage rights before publishing third-party photography to HallyuScope social channels.
