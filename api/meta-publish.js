@@ -2,6 +2,7 @@ const OWNER='phoebegrace';
 const REPO='hallyuscope';
 const PATH='data/article-drafts.json';
 const GITHUB='https://api.github.com';
+const BRANCH='live-data';
 const GRAPH_VERSION=process.env.META_GRAPH_VERSION||'v26.0';
 const GRAPH='https://graph.facebook.com/'+GRAPH_VERSION;
 
@@ -35,7 +36,7 @@ async function github(path,options={}){
 }
 async function recordResult(id,result){
   if(!process.env.GITHUB_REVIEW_TOKEN) return;
-  const file=await github('/repos/'+OWNER+'/'+REPO+'/contents/'+PATH+'?ref=main');
+  const file=await github('/repos/'+OWNER+'/'+REPO+'/contents/'+PATH+'?ref='+BRANCH);
   const json=JSON.parse(Buffer.from(file.content,'base64').toString('utf8'));
   const items=json.items||[];
   const index=items.findIndex(x=>x.id===id);
@@ -52,7 +53,7 @@ async function recordResult(id,result){
       message:'social: record Meta publish '+id,
       content:Buffer.from(JSON.stringify({...json,updatedAt:new Date().toISOString(),items},null,2)+'\n').toString('base64'),
       sha:file.sha,
-      branch:'main'
+      branch:BRANCH
     })
   });
 }
