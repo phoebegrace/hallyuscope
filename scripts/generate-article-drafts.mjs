@@ -177,8 +177,9 @@ for (const item of candidates.slice(0, MAX_NEW_DRAFTS_PER_RUN)) {
     newlyDrafted.push({
       id: item.id,
       createdAt: new Date().toISOString(),
-      status: 'published_web',
-      publishedAt: item.publishedAt || new Date().toISOString(),
+      status: 'pending_review',
+      publishedAt: null,
+      sourcePublishedAt: item.publishedAt || null,
       model: MODEL,
       slug: slugify(draft.headline),
       source: {
@@ -202,7 +203,7 @@ const merged = [...newlyDrafted, ...(previous.items || [])]
 
 await writeFile(OUTPUT, JSON.stringify({
   updatedAt: new Date().toISOString(),
-  note: 'Original HallyuScope web articles generated from discovered reporting. Social publishing remains approval-based.',
+  note: 'AI-generated HallyuScope drafts. Public pages only render items with status published.'
   items: merged
 }, null, 2) + '\n');
 
