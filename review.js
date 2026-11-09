@@ -54,6 +54,16 @@
         <div><span class="eyebrow">${esc(current.category||'HALLYU NEWS')}</span><span class="review-status">${esc(current.status||'pending_review')}</span></div>
         <a href="/article?id=${encodeURIComponent(current.id)}" target="_blank" rel="noopener">Public preview ↗</a>
       </div>
+      <div class="review-image-block">
+        <div class="review-image-preview">
+          ${current.imageUrl ? '<img src="'+esc(current.imageUrl)+'" alt="Article image preview" referrerpolicy="no-referrer">' : '<div class="review-image-empty">Needs Image</div>'}
+        </div>
+        <div class="review-image-meta">
+          <span class="eyebrow">ARTICLE IMAGE</span>
+          <label>Image URL<input id="editImageUrl" value="${esc(current.imageUrl||'')}" placeholder="https://..."></label>
+          <p class="meta">This image will be used for the article/social preview when available.</p>
+        </div>
+      </div>
       <label>Headline<input id="editHeadline" value="${esc(current.headline||'')}"></label>
       <label>Dek<textarea id="editDek" rows="3">${esc(current.dek||'')}</textarea></label>
       <label>Article body<textarea id="editBody" rows="18">${esc((current.body||[]).join('\n\n'))}</textarea></label>
@@ -133,7 +143,8 @@
       dek:$('#editDek').value.trim(),
       body:$('#editBody').value.split(/\n\s*\n/).map(x=>x.trim()).filter(Boolean),
       category:$('#editCategory').value.trim(),
-      seoDescription:$('#editSeo').value.trim()
+      seoDescription:$('#editSeo').value.trim(),
+      imageUrl:$('#editImageUrl')?.value.trim() || ''
     };
     note.textContent='Saving…';
     try{
