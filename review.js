@@ -60,8 +60,16 @@
         </div>
         <div class="review-image-meta">
           <span class="eyebrow">ARTICLE IMAGE</span>
+          <div class="review-image-status ${current.imageType==='official'?'official':'original'}">${current.imageType==='official'?'Verified Official Asset':'HallyuScope Original'}</div>
+          <label>Image source
+            <select id="editImageType">
+              <option value="hallyuscope_original" ${current.imageType!=='official'?'selected':''}>HallyuScope Original</option>
+              <option value="official" ${current.imageType==='official'?'selected':''}>Verified Official Asset</option>
+            </select>
+          </label>
           <label>Image URL<input id="editImageUrl" value="${esc(current.imageUrl||'')}" placeholder="https://..."></label>
-          <p class="meta">This image will be used for the article/social preview when available.</p>
+          ${current.sourceImageUrl ? '<details class="review-image-reference"><summary>Internal source thumbnail reference</summary><p class="meta">'+esc(current.sourceImageUrl)+'</p></details>' : ''}
+          <p class="meta">Only choose “Verified Official Asset” for an image from the artist, agency, promoter, venue, ticketing partner, or another clearly official source.</p>
         </div>
       </div>
       <label>Headline<input id="editHeadline" value="${esc(current.headline||'')}"></label>
@@ -144,7 +152,8 @@
       body:$('#editBody').value.split(/\n\s*\n/).map(x=>x.trim()).filter(Boolean),
       category:$('#editCategory').value.trim(),
       seoDescription:$('#editSeo').value.trim(),
-      imageUrl:$('#editImageUrl')?.value.trim() || ''
+      imageUrl:$('#editImageUrl')?.value.trim() || '',
+      imageType:$('#editImageType')?.value || 'hallyuscope_original'
     };
     note.textContent='Saving…';
     try{
