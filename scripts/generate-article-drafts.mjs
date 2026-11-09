@@ -5,7 +5,7 @@ const INPUT = new URL('social-post-candidates.json', DATA_DIR);
 const OUTPUT = new URL('article-drafts.json', DATA_DIR);
 
 const MODEL = process.env.OPENAI_DRAFT_MODEL || 'gpt-6.1-terra';
-const MAX_NEW_DRAFTS_PER_RUN = Number(process.env.MAX_NEW_DRAFTS_PER_RUN || 3);
+const MAX_NEW_DRAFTS_PER_RUN = Number(process.env.MAX_NEW_DRAFTS_PER_RUN || 50);
 const MAX_SOURCE_CHARS = 12000;
 
 function cleanText(value = '') {
@@ -154,8 +154,10 @@ const previous = await readFile(OUTPUT, 'utf8')
   .catch(() => ({ items: [] }));
 
 const previousById = new Map((previous.items || []).map(item => [item.id, item]));
+const cutoff = Date.now() - 7 * 24 * 60 * 60 * 1000;
 const candidates = (social.items || []).filter(item =>
   item.id &&
+  (!item.publishedAt || Date.parse(item.publishedAt) >= cutoff) &&
   item.social?.status !== 'published' &&
   !previousById.has(item.id)
 );
@@ -175,7 +177,8 @@ for (const item of candidates.slice(0, MAX_NEW_DRAFTS_PER_RUN)) {
     newlyDrafted.push({
       id: item.id,
       createdAt: new Date().toISOString(),
-      status: 'pending_review',
+      status: 'published_web',
+      publishedAt: item.publishedAt || new Date().toISOString(),
       model: MODEL,
       slug: slugify(draft.headline),
       source: {
@@ -199,7 +202,7 @@ const merged = [...newlyDrafted, ...(previous.items || [])]
 
 await writeFile(OUTPUT, JSON.stringify({
   updatedAt: new Date().toISOString(),
-  note: 'AI-generated HallyuScope article drafts for editorial review. Nothing here is auto-published.',
+  note: 'Original HallyuScope web articles generated from discovered reporting. Social publishing remains approval-based.',
   items: merged
 }, null, 2) + '\n');
 
