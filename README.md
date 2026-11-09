@@ -1,6 +1,8 @@
-# Seoul Signal PH
+# HallyuScope
 
-A static K-pop editorial site with live data refreshed automatically from free public feeds.
+K-pop and Korean culture news for Filipino fans — live at [hallyuscope.com](https://hallyuscope.com).
+
+A static Hallyu editorial site with live data refreshed automatically from free public feeds.
 
 ## Live data
 
