@@ -4,6 +4,7 @@ const DATA_DIR = new URL('../data/', import.meta.url);
 const INPUT = new URL('social-post-candidates.json', DATA_DIR);
 const OUTPUT = new URL('article-drafts.json', DATA_DIR);
 const EDITORIAL_DIR = new URL('../assets/editorial/', import.meta.url);
+const EDITORIAL_PUBLIC_BASE = 'https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/';
 
 const MODEL = process.env.OPENAI_DRAFT_MODEL || 'gpt-6.1-terra';
 const MAX_NEW_DRAFTS_PER_RUN = Number(process.env.MAX_NEW_DRAFTS_PER_RUN || 50);
@@ -82,7 +83,7 @@ async function writeEditorialCover(id, headline, category) {
 </svg>`;
   const filename = `${id}.svg`;
   await writeFile(new URL(filename, EDITORIAL_DIR), svg);
-  return `/assets/editorial/${filename}`;
+  return `${EDITORIAL_PUBLIC_BASE}${filename}`;
 }
 
 function slugify(value = '') {
