@@ -101,7 +101,7 @@ export default async function handler(req,res){
       if(!imageUrl) throw new Error('Facebook photo publishing requires a public social image URL');
       result.facebook=await graph('/'+encodeURIComponent(pageId)+'/photos',{
         url:imageUrl,
-        caption:caption+'\n\nRead more: '+articleUrl,
+        caption:caption+'\n\nRead more at the link in bio.',
         access_token:token
       });
     }
