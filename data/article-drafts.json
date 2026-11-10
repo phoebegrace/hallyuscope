@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T11:01:19.816Z",
+  "updatedAt": "2026-11-10T11:04:07.576Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -524,7 +524,7 @@
     {
       "id": "79d2afb7a050",
       "createdAt": "2026-11-10T06:03:11.144Z",
-      "status": "pending_review",
+      "status": "skipped",
       "publishedAt": null,
       "sourcePublishedAt": "2026-11-10T04:40:40.000Z",
       "model": "gpt-6.1-terra",
@@ -555,7 +555,7 @@
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/04/05060023/seventeen-2025.jpg",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+        "note": "HallyuScope original editorial cover."
       },
       "category": "HALLYU NEWS",
       "headline": "Seven GOING SEVENTEEN Picks, From Water Battles to a Zombie Escape",
@@ -573,7 +573,13 @@
       "seoDescription": "Explore seven GOING SEVENTEEN picks, from SEVENTEEN TV and LIAR LIAR to water-gun battles, Mafiapoly and the zombie-filled horror series TRAP.",
       "sourceNote": "Source: Soompi",
       "socialHashtags": "#HallyuScope #Hallyu #Kpop #KpopNews #Manila",
-      "editedAt": "2026-11-10T09:14:23Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialImageUrl": "",
+      "socialPlatforms": {
+        "facebook": true,
+        "instagram": true
+      },
+      "reviewedAt": "2026-11-10T11:04:07.576Z"
     },
     {
       "id": "13dae289d3eb",
