@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T01:57:28.549Z",
+  "updatedAt": "2026-11-10T03:10:03.905Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -929,12 +929,12 @@
         "title": "PLAVE, Stray Kids, CORTIS, TWICE, ENHYPEN, ILLIT, BTS, BOYNEXTDOOR, And More Sweep Top Spots On Billboard World Albums Chart",
         "url": "https://www.soompi.com/article/1885061wpp/plave-stray-kids-cortis-twice-enhypen-illit-bts-boynextdoor-and-more-sweep-top-spots-on-billboard-world-albums-chart"
       },
-      "imageUrl": "/assets/editorial/9f2e3ffcadfa.svg",
+      "imageUrl": "https://www.billboard.com/wp-content/uploads/2025/08/PLAVE-billboard-group-1200.jpg",
       "imageType": "hallyuscope_original",
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09030428/PLAVE-Stray-Kids-CORTIS-TWICE.jpg",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+        "note": "HallyuScope original editorial cover."
       },
       "category": "COMEBACK NEWS",
       "headline": "PLAVE Debuts at No. 1 on Billboard’s World Albums Chart With ‘HYPERDRIVE’",
@@ -948,7 +948,13 @@
       ],
       "socialCaption": "PLAVE leads the latest World Albums chart, with Stray Kids, CORTIS and more in the rankings. Read the full chart roundup on HallyuScope.",
       "seoDescription": "PLAVE’s “HYPERDRIVE” debuts at No. 1 on Billboard’s World Albums chart, while Stray Kids, CORTIS, ENHYPEN and TWICE land in the top five.",
-      "sourceNote": "Source: Soompi"
+      "sourceNote": "Source: Soompi",
+      "socialImageUrl": "https://hallyuscope.com/api/social-card?image=https%3A%2F%2Fwww.billboard.com%2Fwp-content%2Fuploads%2F2025%2F08%2FPLAVE-billboard-group-1200.jpg&category=COMEBACK+NEWS&headline=PLAVE+Debuts+at+No.+1+on+Billboard%E2%80%99s+World+Albums+Chart+With+%E2%80%98HYPERDRIVE%E2%80%99&description=PLAVE+leads+the+latest+World+Albums+chart%2C+with+Stray+Kids%2C+CORTIS+and+more+in+the+rankings.+Read+the+full+chart+roundup+on+HallyuScope.&ts=1794279908832&sig=c3294b3eb812ba4407e6f1a82849b5f044f033686421f0312f3e98370474e2af",
+      "socialPlatforms": {
+        "facebook": true,
+        "instagram": true
+      },
+      "editedAt": "2026-11-10T03:10:03.905Z"
     },
     {
       "id": "8f9e2bba8edb",
