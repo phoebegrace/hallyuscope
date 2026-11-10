@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T09:00:02.870Z",
+  "updatedAt": "2026-11-10T09:22:39.905Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -2805,8 +2805,8 @@
     {
       "id": "24d4348bf33a",
       "createdAt": "2026-11-09T12:36:41.098Z",
-      "status": "pending_review",
-      "publishedAt": null,
+      "status": "published",
+      "publishedAt": "2026-11-10T09:22:39.905Z",
       "sourcePublishedAt": "2026-11-09T02:50:59.000Z",
       "model": "gpt-6.1-terra",
       "slug": "wendy-sets-nov-23-release-for-fourth-solo-ep-gleam-hour",
@@ -2815,7 +2815,7 @@
         "title": "Red Velvet’s Wendy to release fourth solo EP ‘Gleam Hour’ on Nov. 23",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQajhxejRWdjJGd0ljb2k5SDNXTzJjR2xtWllnYWZqR2M4NjhCSDIzb2cwblhWZHNmdGI4Z1EtVFZPWnQ5V1VwRlNGTm55blRJblhVcHFDMFJ1Q1pwcmdLSzB0R1FrZ3locEw2N3dKZ0pnZUtRN0hnQ0hFSGJ5SDlTanZlc2dRWS1sUnhEcy1TTjVYQ3hmMzNGWXd2VDFWNDk5LWhiR1RCa0hMRTR0YU11MGFNcHpIeGdpZGFtVkFXaw"
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/24d4348bf33a.svg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/24d4348bf33a-article-mwahcmpy.jpg",
       "category": "COMEBACK NEWS",
       "headline": "Wendy Sets Nov. 23 Release for Fourth Solo EP ‘Gleam Hour’",
       "dek": "Wendy returns with her fourth solo EP on November 23, her first new music in a year and two months.",
@@ -2826,14 +2826,14 @@
         "Wendy debuted as a member of Red Velvet in 2014 with Happiness under SM Entertainment. She launched her solo career with the EP Like Water in 2021, followed by Wish You Hell in 2024.",
         "The singer joined her current agency, ASND, last year after signing an exclusive contract. The agency is also home to girl group fromis_9, and Gleam Hour will be her first solo EP under the new label setup since that move."
       ],
-      "socialCaption": "Wendy is back. Her fourth solo EP \"Gleam Hour\" drops November 23, here's the full rollout, from preorders to the fan listening session the day before.",
+      "socialCaption": "Wendy is back. Her fourth solo EP \"Gleam Hour\" drops November 23 — here's the full rollout, from preorders to the fan listening session the day before.",
       "seoDescription": "Red Velvet's Wendy will release her fourth solo EP, \"Gleam Hour,\" on November 23, her first new music since \"Cerulean Verge\" in September 2025.",
       "sourceNote": "Source: Korea JoongAng Daily",
       "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageType": "hallyuscope_original",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+        "note": "HallyuScope original editorial cover."
       },
       "researchSources": [
         {
@@ -2848,7 +2848,13 @@
       "qualityVersion": 3,
       "verification": null,
       "editedAt": "2026-11-10T09:14:23Z",
-      "socialHashtags": "#HallyuScope #Wendy #Comeback #Kpop #KpopNews"
+      "socialHashtags": "#HallyuScope #Wendy #GleamHour #Kpop #SoloComeback",
+      "socialImageUrl": "https://hallyuscope.com/api/social-card?image=https%3A%2F%2Fraw.githubusercontent.com%2Fphoebegrace%2Fhallyuscope%2Flive-data%2Fassets%2Feditorial%2F24d4348bf33a-article-mwahcmpy.jpg&category=COMEBACK+NEWS&headline=Wendy+Sets+Nov.+23+Release+for+Fourth+Solo+EP+%E2%80%98Gleam+Hour%E2%80%99&description=Wendy+is+back.+Her+fourth+solo+EP+%22Gleam+Hour%22+drops+November+23+%E2%80%94+here%27s+the+full+rollout%2C+from+preorders+to+the+fan+listening+session+the+day+before.&ts=1794302542219&sig=61490588726e1f2a64c0e6f95355b4b2b11ca24df5ee60a269c5f5c04bb91e5c",
+      "socialPlatforms": {
+        "facebook": true,
+        "instagram": true
+      },
+      "reviewedAt": "2026-11-10T09:22:39.905Z"
     },
     {
       "id": "f22b93958fea",
