@@ -439,7 +439,7 @@
       "publishedAt": null,
       "sourcePublishedAt": "2026-11-09T19:00:34.000Z",
       "model": "gpt-6.1-terra",
-      "qualityVersion": 2,
+      "qualityVersion": 3,
       "slug": "kpop-demon-hunters-directors-join-animated-short-living-with-a-visionary",
       "source": {
         "publisher": "The Hollywood Reporter",
@@ -455,14 +455,17 @@
       },
       "category": "HALLYU NEWS",
       "headline": "‘KPop Demon Hunters’ Directors Join Animated Short ‘Living With a Visionary’",
-      "dek": "The directors of ‘KPop Demon Hunters’ are executive producers on the animated short, The Hollywood Reporter reports.",
+      "dek": "Maggie Kang and Chris Appelhans have joined Stephen P. Neary's animated documentary short as executive producers, ahead of its premiere through The New York Times Op-Docs.",
       "body": [
-        "The directors of ‘KPop Demon Hunters’ have joined the animated short ‘Living With a Visionary’ as executive producers, according to The Hollywood Reporter.",
-        "The project marks another animation credit for the filmmakers behind ‘KPop Demon Hunters.’"
+        "Maggie Kang and Chris Appelhans, the directors behind KPop Demon Hunters, have joined the animated documentary short Living With a Visionary as executive producers. The short, narrated by James Cromwell, premieres through The New York Times Op-Docs this week.",
+        "Written, directed and animated by Stephen P. Neary, the film adapts a memoir by poet John Matthias. It follows his decades-long marriage to art curator Diana Matthias and how their life together shifts after her Parkinson's diagnosis, including the vivid hallucinations brought on by her medication, which John, now her caregiver, learns to live with alongside her.",
+        "Neary made the film with producer Mireia Vilanova, drawing thousands of illustrations by hand on layered vellum over three years, working on it during evenings and weekends around a full-time job and a teaching post at the California Institute of the Arts. The short has already picked up the grand jury prize for animation at AFI Fest and the short film jury award for animation at Sundance earlier this year.",
+        "Neary previously created and ran The Fungies! for Cartoon Network and HBO Max, supervised production on the Annie-nominated Clarence, and worked as a story artist on KPop Demon Hunters, The Super Mario Galaxy Movie, Ice Age: Dawn of the Dinosaurs, Rio and The Peanuts Movie. Kang and Appelhans said they were drawn to the project despite how different it looks from their own film, and Neary said the two projects share the same concerns underneath. Living With a Visionary is one of nine titles on Op-Docs' 2026 slate being talked about as awards contenders."
       ],
-      "socialCaption": "The ‘KPop Demon Hunters’ directors have joined a new animated short. Read the news on HallyuScope.",
-      "seoDescription": "The directors of ‘KPop Demon Hunters’ have joined the animated short ‘Living With a Visionary’ as executive producers, The Hollywood Reporter reports.",
-      "sourceNote": "Source: The Hollywood Reporter"
+      "socialCaption": "The KPop Demon Hunters directors are executive producers on a new animated documentary short, Living With a Visionary. Read more on HallyuScope.",
+      "seoDescription": "KPop Demon Hunters directors Maggie Kang and Chris Appelhans are executive producers on the animated documentary short Living With a Visionary, premiering through The New York Times Op-Docs.",
+      "sourceNote": "Source: The Hollywood Reporter",
+      "editedAt": "2026-11-10T06:23:20.000Z"
     },
     {
       "id": "9c525233807e",
