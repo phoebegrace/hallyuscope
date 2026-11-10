@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T07:01:15.002Z",
+  "updatedAt": "2026-11-10T08:23:53.320Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -481,13 +481,17 @@
       "seoDescription": "KPop Demon Hunters directors Maggie Kang and Chris Appelhans are executive producers on the animated documentary short Living With a Visionary, premiering through The New York Times Op-Docs.",
       "sourceNote": "Source: The Hollywood Reporter",
       "editedAt": "2026-11-10T06:23:20.000Z",
-      "socialStatus": "failed",
-      "socialPublishedAt": null,
+      "socialStatus": "published",
+      "socialPublishedAt": "2026-11-10T08:23:53.320Z",
       "socialPublishResult": {
-        "ok": false,
-        "facebook": null,
-        "instagram": null,
-        "error": "(#200) The permission(s) publish_actions are not available. It has been deprecated. If you want to provide a way for your app users to share content to Facebook, we encourage you to use our Sharing products instead."
+        "ok": true,
+        "facebook": {
+          "id": "122197161254896088",
+          "post_id": "619676824570166_122197161278896088"
+        },
+        "instagram": {
+          "id": "17910553536577532"
+        }
       },
       "socialImageUrl": "https://hallyuscope.com/api/social-card?image=https%3A%2F%2Fraw.githubusercontent.com%2Fphoebegrace%2Fhallyuscope%2Flive-data%2Fassets%2Feditorial%2Fd97752446bf6-article-mwabjesk.jpg&category=HALLYU+NEWS&headline=%E2%80%98KPop+Demon+Hunters%E2%80%99+Directors+Join+Animated+Short+%E2%80%98Living+With+a+Visionary%E2%80%99&description=The+KPop+Demon+Hunters+directors+are+executive+producers+on+a+new+animated+documentary+short%2C+Living+With+a+Visionary.+Read+more+on+HallyuScope.&ts=1794292695113&sig=679778a7e4f6d18aba321315fdff326ac13ab252fd520103aa7fa58bb60f0a87",
       "socialPlatforms": {
