@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T11:09:00.120Z",
+  "updatedAt": "2026-11-10T11:16:14.429Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -2874,8 +2874,8 @@
     {
       "id": "761fd222c466",
       "createdAt": "2026-11-09T12:36:15.104Z",
-      "status": "pending_review",
-      "publishedAt": null,
+      "status": "published",
+      "publishedAt": "2026-11-10T11:16:14.429Z",
       "sourcePublishedAt": "2026-11-09T04:19:03.000Z",
       "model": "gpt-6.1-terra",
       "slug": "blackpink-s-jisoo-signs-with-wme",
@@ -2884,7 +2884,7 @@
         "title": "BLACKPINK's Jisoo signs with Hollywood agency WME",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb0U0REVubFBzM1FkM093TzcxWEZIeWFxLXRpNW11TXpxRnc1alM3VDJNdTlMLTNJWE5icG82LThkY1ZtNWt5SkZFVjBOangzTjA2dl9ubXlwZ3I3MGFxVC13RzV3MVZONkxMclV1N3JUTlpOWnM3d1dfUlVScFVWX28yYzlaNEl1amEyck1jcWp6T3hwRkRJMUxrdXlmRTQzMVA4UFU1NENOZ9IBrwFBVV95cUxPallpQ2FLRmNhb0g2cFo5OE05ZEFITVNSTkRqaXVVX2VkcFBsbkdsMXFzNno4V1BLWE1OekRneWxVaEsxakoza0tTOU11clc3dGNlWXZyWXRTQWlzdmN6YjNXUDh0dTJjWno5dFJRYXR4Y2RNOVJNc2tFSG50TDVBY0hHWFBJQTdZeC1lbGJvekJsVWp2bjlQdlRMWGdwMEQ4dVVVVDJUaHpQSGlONTVZ"
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/761fd222c466.svg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/761fd222c466-article-mwalekju.jpg",
       "category": "HALLYU NEWS",
       "headline": "BLACKPINK’s Jisoo Signs With WME",
       "dek": "Jisoo has signed with Hollywood agency WME for global representation, adding an international partner to her solo career without changing her existing deals.",
@@ -2902,7 +2902,7 @@
       "imageType": "hallyuscope_original",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+        "note": "HallyuScope original editorial cover."
       },
       "researchSources": [
         {
@@ -2917,7 +2917,13 @@
       "qualityVersion": 3,
       "verification": null,
       "editedAt": "2026-11-10T09:14:23Z",
-      "socialHashtags": "#HallyuScope #BLACKPINK #Jisoo #Hallyu #Kpop"
+      "socialHashtags": "#HallyuScope #BLACKPINK #Jisoo #Hallyu #Kpop",
+      "socialImageUrl": "https://hallyuscope.com/api/social-card?image=https%3A%2F%2Fraw.githubusercontent.com%2Fphoebegrace%2Fhallyuscope%2Flive-data%2Fassets%2Feditorial%2F761fd222c466-article-mwalekju.jpg&category=HALLYU+NEWS&headline=BLACKPINK%E2%80%99s+Jisoo+Signs+With+WME&description=Jisoo+is+going+global+with+WME%2C+while+keeping+Blissoo%2C+Warner+Records+and+YG+in+place.+Here%27s+what+the+deal+covers%2C+and+where+her+first+solo+album+stands.&ts=1794309271457&sig=01d2496506f18ce1a5704519a6e41cdf66f7281a3667d485f9c327a92035e7f9",
+      "socialPlatforms": {
+        "facebook": true,
+        "instagram": true
+      },
+      "reviewedAt": "2026-11-10T11:16:14.429Z"
     },
     {
       "id": "64c096daa560",
