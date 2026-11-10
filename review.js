@@ -93,6 +93,7 @@
           <label class="review-check"><input id="socialInstagram" type="checkbox" ${current.socialPlatforms?.instagram!==false?'checked':''}> Instagram</label>
         </div>
         <label>Social caption<textarea id="editSocialCaption" rows="6">${esc(current.socialCaption||current.dek||'')}</textarea></label>
+        <label>Hashtags<input id="editSocialHashtags" value="${esc(Array.isArray(current.socialHashtags)?current.socialHashtags.join(' '):(current.socialHashtags||''))}" placeholder="#HallyuScope #Kpop #Comeback"></label>
         <label>Social image URL<input id="editSocialImageUrl" value="${esc(current.socialImageUrl||'')}" placeholder="Generate from the HTML/CSS template"></label>
         <div class="review-upload-row"><label class="review-upload-btn">Upload image<input type="file" id="editSocialImageUpload" accept="image/jpeg,image/png,image/webp,image/gif" hidden></label><span class="meta" id="reviewSocialUploadMessage">JPG, PNG, WebP or GIF, up to 3 MB — or generate a social card below.</span></div>
         <p class="meta">The HallyuScope renderer creates a 1080 × 1350 PNG from the article image, category, headline, and description.</p>
@@ -181,6 +182,7 @@
       imageUrl:$('#editImageUrl')?.value.trim() || '',
       imageType:$('#editImageType')?.value || 'hallyuscope_original',
       socialCaption:$('#editSocialCaption')?.value.trim() || '',
+      socialHashtags:$('#editSocialHashtags')?.value.trim() || '',
       socialImageUrl:$('#editSocialImageUrl')?.value.trim() || '',
       socialPlatforms:{
         facebook:$('#socialFacebook')?.checked !== false,
@@ -275,6 +277,7 @@
       id:current.id,
       slug:current.slug || '',
       caption:$('#editSocialCaption')?.value.trim() || current.socialCaption || current.dek || '',
+      hashtags:$('#editSocialHashtags')?.value.trim() || current.socialHashtags || '',
       imageUrl:$('#editSocialImageUrl')?.value.trim() || '',
       facebook:$('#socialFacebook')?.checked === true,
       instagram:$('#socialInstagram')?.checked === true
