@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T06:39:41.092Z",
+  "updatedAt": "2026-11-10T06:39:44.461Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -472,7 +472,7 @@
         "ok": false,
         "facebook": null,
         "instagram": null,
-        "error": "Error validating access token: Session has expired on Monday, 09-Nov-26 21:00:00 PST. The current time is Monday, 09-Nov-26 22:38:51 PST."
+        "error": "Error validating access token: Session has expired on Monday, 09-Nov-26 21:00:00 PST. The current time is Monday, 09-Nov-26 22:39:44 PST."
       },
       "socialImageUrl": "https://hallyuscope.com/api/social-card?image=https%3A%2F%2Fraw.githubusercontent.com%2Fphoebegrace%2Fhallyuscope%2Flive-data%2Fassets%2Feditorial%2Fd97752446bf6-article-mwabjesk.jpg&category=HALLYU+NEWS&headline=%E2%80%98KPop+Demon+Hunters%E2%80%99+Directors+Join+Animated+Short+%E2%80%98Living+With+a+Visionary%E2%80%99&description=The+KPop+Demon+Hunters+directors+are+executive+producers+on+a+new+animated+documentary+short%2C+Living+With+a+Visionary.+Read+more+on+HallyuScope.&ts=1794292695113&sig=679778a7e4f6d18aba321315fdff326ac13ab252fd520103aa7fa58bb60f0a87",
       "socialPlatforms": {
