@@ -1,8 +1,632 @@
 {
-  "updatedAt": "2026-11-10T11:31:07.970Z",
+  "updatedAt": "2026-11-10T19:50:16.846Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
+    {
+      "id": "df3cafc3f1e1",
+      "createdAt": "2026-11-10T19:48:30.362Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-10T19:25:12.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "ive-makes-billboard-200-debut-with-looks-can-kill",
+      "source": {
+        "publisher": "Soompi",
+        "title": "IVE Scores 1st-Ever Entry On Billboard 200 With &#8220;Looks Can Kill&#8221;",
+        "url": "https://www.soompi.com/article/1885647wpp/ive-scores-1st-ever-entry-on-billboard-200-with-looks-can-kill"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1885647wpp/ive-scores-1st-ever-entry-on-billboard-200-with-looks-can-kill",
+          "chars": 898,
+          "depth": 1
+        },
+        {
+          "publisher": "Billboard",
+          "url": "https://www.billboard.com/charts/emerging-artists/",
+          "chars": 9249,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "The Billboard 200 ranks the most popular albums in the United States."
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-10T19:48:30.360Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/df3cafc3f1e1.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/11042208/IVE.jpeg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "TRENDING",
+      "headline": "IVE makes Billboard 200 debut with 'Looks Can Kill'",
+      "dek": "The mini album entered the U.S. albums chart at No. 126 as IVE also topped Billboard's Emerging Artists ranking.",
+      "body": [
+        "IVE has landed its first entry on the Billboard 200 with the mini album \"Looks Can Kill.\" The release debuted at No. 126 on the chart for the week ending November 14, according to Soompi.",
+        "Billboard announced the group's first appearance on the U.S. albums chart on November 10 local time. The Billboard 200 ranks the most popular albums in the United States.",
+        "\"Looks Can Kill\" also opened at No. 2 on Billboard's World Albums chart and No. 6 on Top Album Sales, placing it among the week's 10 best-selling albums in the U.S.",
+        "IVE reached No. 1 on the Emerging Artists chart and returned to the Artist 100 at No. 66. The pre-released title track, also called \"Looks Can Kill,\" ranked No. 98 on the Global Excl. U.S. chart in its second week."
+      ],
+      "socialCaption": "IVE has entered the Billboard 200 for the first time with \"Looks Can Kill.\" Read on HallyuScope for the group's chart results.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#IVE",
+        "#LooksCanKill",
+        "#Billboard200",
+        "#IVECharts"
+      ],
+      "seoDescription": "IVE earns its first Billboard 200 entry with the mini album Looks Can Kill, while topping the Emerging Artists chart and landing on Top Album Sales.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "f019814e27dc",
+      "createdAt": "2026-11-10T19:48:45.065Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-10T11:07:11.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "rescene-s-pulse-sells-over-600-000-copies-in-first-week",
+      "source": {
+        "publisher": "Soompi",
+        "title": "RESCENE Shatters Previous 1st-Week Sales Record By Nearly 6 Times With “PULSE”",
+        "url": "https://www.soompi.com/article/1885599wpp/rescene-shatters-previous-1st-week-sales-record-by-nearly-6-times-with-pulse"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1885599wpp/rescene-shatters-previous-1st-week-sales-record-by-nearly-6-times-with-pulse",
+          "chars": 658,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/home/article/009/0005761392",
+          "chars": 544,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-10T19:48:45.065Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/f019814e27dc.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/10200643/rescene-2026-1.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "RESCENE's PULSE sells over 600,000 copies in first week",
+      "dek": "The group's fourth mini album nearly sextupled its previous first-week sales record, while title track “With” reached No. 1 on several Korean music charts.",
+      "body": [
+        "RESCENE has set a new personal sales record with its fourth mini album, “PULSE,” which sold 602,688 copies in its first week, according to Hanteo Chart.",
+        "The total covers sales from November 3 through November 9 and marks the group's first album to pass half a million sales. Soompi reported that the figure is nearly six times RESCENE's previous first-week record of 104,406 copies, set by its third mini album, “lip bomb.”",
+        "“PULSE” surpassed that earlier benchmark on its first day alone, selling 131,893 copies. By the end of the week, it had become RESCENE's best-selling album to date.",
+        "The release also brought chart success for its title track, “With.” The song reached No. 1 on Melon's Top 100, as well as the real-time charts for Bugs and Genie Music.",
+        "RESCENE debuted in 2024 and drew attention the following spring through the “Geoje Yaho” meme. The group's song “LOVE ATTACK” subsequently climbed the charts, while its remake of “Pretty Girl,” released in August, earned a music show win."
+      ],
+      "socialCaption": "RESCENE's PULSE has set a new sales record. Read on HallyuScope for the first-week numbers and chart highlights.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#RESCENE",
+        "#PULSE",
+        "#With",
+        "#LoveAttack"
+      ],
+      "seoDescription": "RESCENE's PULSE sold 602,688 copies in its first week, setting a group record as title track With reached No. 1 on multiple Korean music charts.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "60ab0c7985c2",
+      "createdAt": "2026-11-10T19:48:55.423Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-10T08:55:43.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "viki-adds-16-k-dramas-for-streaming-in-southeast-asia",
+      "source": {
+        "publisher": "Soompi",
+        "title": "16 Timeless K-Dramas Newly Available On Viki In Southeast Asia",
+        "url": "https://www.soompi.com/article/1884167wpp/16-timeless-k-dramas-newly-available-on-viki-in-southeast-asia"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1884167wpp/16-timeless-k-dramas-newly-available-on-viki-in-southeast-asia",
+          "chars": 5198,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [
+          "In \"Love Your Enemy,\" Ju Ji Hoon and Jung Yu Mi play former classmates."
+        ],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-10T19:48:55.422Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/60ab0c7985c2.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/10153001/October-New-KDrama-SEA.png",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "K-DRAMA NEWS",
+      "headline": "Viki adds 16 K-dramas for streaming in Southeast Asia",
+      "dek": "The newly available lineup includes fantasy romances, legal dramas and thrillers starring Park Bo Young, Lee Dong Wook and Lee Junho.",
+      "body": [
+        "Viki has added 16 K-dramas for viewers in Southeast Asia, according to Soompi. The selection spans supernatural mysteries, workplace stories and romance, with titles including \"He Is Psychometric,\" \"Strangers from Hell\" and \"Doom at Your Service.\"",
+        "In \"He Is Psychometric,\" Park Jin Young plays Lee Ahn, a man who can uncover secrets through touch. His connection with Yoon Jae In, played by Shin Ye Eun, grows as she guards a painful past. \"Memorist\" also pairs supernatural abilities with crime-solving, following a detective played by Yoo Seung Ho and a profiler played by Lee Se Young as they pursue a serial killer.",
+        "For thriller fans, \"Strangers from Hell\" stars Yim Si Wan as an aspiring writer who moves into a sharehouse with unsettling residents, including a dentist played by Lee Dong Wook. \"Kill It\" follows a veterinarian and assassin played by Jang Ki Yong, whose dangerous life intersects with a detective played by Nana.",
+        "The romance options include \"Doom at Your Service,\" starring Park Bo Young as a web novel editor who encounters Seo In Guk's Myul Mang after learning she has 100 days to live. In \"Love Your Enemy,\" Ju Ji Hoon and Jung Yu Mi play former classmates with the same name and feuding families who reunite after 18 years. Sooyoung and Gong Myoung star in \"Second Shot at Love,\" about a woman who decides to quit drinking after reconnecting with her first love.",
+        "The lineup also includes the legal dramas \"Law and The City,\" \"Military Prosecutor Doberman\" and \"Confession,\" as well as \"The Queen Who Crowns,\" \"The Killer's Shopping List,\" \"Way Back Love,\" \"Search,\" \"Search: WWW\" and \"Save Me 2.\""
+      ],
+      "socialCaption": "Viki's Southeast Asia lineup has 16 newly available K-dramas, from fantasy romance to thrillers. Read on HallyuScope for highlights and the full list.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#Viki",
+        "#KDramas",
+        "#DoomAtYourService",
+        "#StrangersFromHell"
+      ],
+      "seoDescription": "Viki has added 16 K-dramas in Southeast Asia, including Doom at Your Service, Strangers from Hell and He Is Psychometric. Explore the full lineup.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "a998f65d246b",
+      "createdAt": "2026-11-10T19:49:07.048Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-10T08:08:22.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "starship-pursues-legal-action-over-malicious-posts-targeting-ive-s-jang-won-young",
+      "source": {
+        "publisher": "Soompi",
+        "title": "STARSHIP Announces Strong Legal Action Against Malicious Posts Targeting IVE’s Jang Won Young",
+        "url": "https://www.soompi.com/article/1885526wpp/starship-announces-strong-legal-action-against-malicious-posts-targeting-ives-jang-won-young"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1885526wpp/starship-announces-strong-legal-action-against-malicious-posts-targeting-ives-jang-won-young",
+          "chars": 2499,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-10T19:49:07.046Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/a998f65d246b.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/10170813/jang-won-young-2026-3.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Starship Pursues Legal Action Over Malicious Posts Targeting IVE's Jang Won Young",
+      "dek": "The agency says it is reviewing evidence from fans and online monitoring as it pursues civil and criminal measures.",
+      "body": [
+        "Starship Entertainment says it is pursuing legal action over malicious online activity targeting IVE member Jang Won Young. In a statement issued November 10, the agency said its response covers alleged false information, defamation, sexual harassment, personal attacks, insults and invasions of privacy.",
+        "According to Soompi, Starship is working with law firm LIWU to review evidence gathered through fan reports and the agency's own monitoring. LIWU previously represented the agency in its lawsuit against the cyberbullying channel Sojang.",
+        "Starship said it had secured evidence of suspected violations across Korean and international platforms, including YouTube, X, Instagram, TikTok, Weibo and several online communities. The agency named two YouTube channels, IVE_NO_LIVE and Dol Jal Al, among the accounts involved and said it was taking legal steps on a case-by-case basis.",
+        "The agency said collected evidence could still be used in legal proceedings if posts are deleted or accounts are made private, renamed or deactivated. It also said it would pursue available civil and criminal measures against confirmed violations without leniency.",
+        "Fans can submit reports and evidence to starship.protect@gmail.com. Starship said reporters' personal information and submitted materials would be handled securely and used only as necessary for legal proceedings."
+      ],
+      "socialCaption": "Starship says it is pursuing legal action over malicious posts targeting IVE's Jang Won Young. Read the agency's response and reporting details on HallyuScope.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#IVE",
+        "#JangWonYoung",
+        "#StarshipEntertainment",
+        "#IVEWonyoung"
+      ],
+      "seoDescription": "Starship Entertainment says it is pursuing civil and criminal action over malicious posts targeting IVE's Jang Won Young and is reviewing fan reports.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "3ca7abb9e76d",
+      "createdAt": "2026-11-10T19:49:19.117Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-10T07:50:56.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "lee-joon-gi-and-sakaguchi-kentaro-face-sho-kasamatsu-s-challenge-in-kidnap-game",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Sho Kasamatsu Challenges Lee Joon Gi And Sakaguchi Kentaro To Solve His Deadly Puzzle In “kiDnap GAME”",
+        "url": "https://www.soompi.com/article/1885515wpp/sho-kasamatsu-challenges-lee-joon-gi-and-sakaguchi-kentaro-to-solve-his-deadly-puzzle-in-kidnap-game"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1885515wpp/sho-kasamatsu-challenges-lee-joon-gi-and-sakaguchi-kentaro-to-solve-his-deadly-puzzle-in-kidnap-game",
+          "chars": 2477,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/home/article/408/0000327328",
+          "chars": 1003,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "a studio surrounded by broadcast cameras",
+          "clues with a notebook in hand",
+          "failed to prevent another participant from being eliminated"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-10T19:49:19.117Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/3ca7abb9e76d.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/10165051/kiDnap-GAME-6-2.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Lee Joon Gi and Sakaguchi Kentaro Face Sho Kasamatsu's Challenge in 'kiDnap GAME'",
+      "dek": "New stills and a preview bring the three characters together at a Tokyo broadcasting station ahead of episode 6.",
+      "body": [
+        "Lee Joon Gi and Sakaguchi Kentaro's characters are drawn into a confrontation with Sho Kasamatsu's mysterious young man in the next episode of 'kiDnap GAME.'",
+        "New stills show Tokyo detective Niide Toshiro, played by Sakaguchi, and Seoul doctor Han Ki Joo, played by Lee, facing the young man in a studio surrounded by broadcast cameras. Kasamatsu's character has summoned them to the station, where he presents them with a challenge.",
+        "In a preview, the young man holds a red rose and tells the pair that solving his puzzle will bring the game to an end. Niide looks for clues with a notebook in hand, while Han analyzes the situation. A video shown on a large screen also carries the perpetrator's claim that each participant has committed a serious sin.",
+        "The previous episode saw the young man appear at the Tokyo station and offer reporter Isobe Akina, played by Sae Okazaki, an exclusive story. He had earlier ambushed Niide's junior detective. Niide and Han, meanwhile, had failed to prevent another participant from being eliminated.",
+        "The thriller follows seven people assigned different missions in a kidnapping case spanning Seoul, Tokyo, Taipei, Singapore, Bangkok, Naha and Manila. They must complete their tasks to survive and protect their loved ones. Episode 6 airs November 10 at 10 p.m. KST."
+      ],
+      "socialCaption": "A new challenge brings three characters face to face in 'kiDnap GAME.' Read HallyuScope for what the episode 6 preview reveals.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#kiDnapGAME",
+        "#LeeJoonGi",
+        "#SakaguchiKentaro",
+        "#ShoKasamatsu"
+      ],
+      "seoDescription": "Lee Joon Gi and Sakaguchi Kentaro face Sho Kasamatsu's challenge in new stills and a preview for episode 6 of the thriller 'kiDnap GAME.'",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "6c05500d10ee",
+      "createdAt": "2026-11-10T19:49:31.518Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-10T07:18:41.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "the-substitute-teaser-puts-three-friends-on-a-collision-course",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: Bae Hyeon Seong, Cha Kang Yoon, And Park Yoon Ho Risk It All For A Dangerous Deal In “The Substitute” Teaser",
+        "url": "https://www.soompi.com/article/1885435wpp/watch-bae-hyeon-seong-cha-kang-yoon-and-park-yoon-ho-risk-it-all-for-a-dangerous-deal-in-the-substitute-teaser"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1885435wpp/watch-bae-hyeon-seong-cha-kang-yoon-and-park-yoon-ho-risk-it-all-for-a-dangerous-deal-in-the-substitute-teaser",
+          "chars": 2665,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/home/article/382/0001303729",
+          "chars": 1126,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "whose desires and personal struggles lead them toward a crime",
+          "his school's top student and a scholarship recipient from a low-income family"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-10T19:49:31.517Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/6c05500d10ee.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/10114818/the-substitute-1_cf0b6b.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "The Substitute Teaser Puts Three Friends on a Collision Course",
+      "dek": "Bae Hyeon Seong, Cha Kang Yoon and Park Yoon Ho star in the upcoming crime thriller, set to premiere on November 23.",
+      "body": [
+        "A dangerous deal threatens to unravel a friendship in the new teaser for The Substitute, an upcoming crime thriller starring Bae Hyeon Seong, Cha Kang Yoon and Park Yoon Ho.",
+        "The series follows three young men whose desires and personal struggles lead them toward a crime tied to the college entrance exam. The teaser introduces the pressures facing each of them as their trust begins to fracture.",
+        "Cha plays Kang Geon Tae, his school's top student and a scholarship recipient from a low-income family. Despite his academic success, Geon Tae struggles with poverty and longs for an ordinary life. His desperation pushes him toward a choice he cannot undo.",
+        "Bae plays Nam Jae Yeop, a wealthy, high-achieving student who appears to have everything. Beneath that image, he feels inadequate and unacknowledged. Jae Yeop enters a risky deal with Geon Tae, with each holding knowledge of the other's weaknesses.",
+        "Park's Joo Hee Dong, Geon Tae's closest friend, is drawn into the conflict as well. The teaser shows his hurt over his place in the friendship, while suspicion grows among the three.",
+        "The TVING original is directed by Park So Yeon and written by Choi Soo. The cast also includes Uhm Ji Won, Park Hyuk Kwon, Baek Ji Won and Park Bo Kyung. The Substitute premieres on November 23."
+      ],
+      "socialCaption": "Three friends face a dangerous deal in the new The Substitute teaser. Read on HallyuScope for the story and cast details.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#TheSubstitute",
+        "#BaeHyeonSeong",
+        "#ChaKangYoon",
+        "#ParkYoonHo"
+      ],
+      "seoDescription": "The Substitute teaser follows Bae Hyeon Seong, Cha Kang Yoon and Park Yoon Ho as three friends caught in a dangerous deal ahead of a crucial exam.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "5b522c7be62b",
+      "createdAt": "2026-11-10T19:49:45.105Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-10T07:01:58.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "choo-young-woo-and-kim-so-hyun-face-hospital-news-in-between-steps-finale",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Choo Young Woo And Kim So Hyun Receive Shocking News At The Hospital In “Between Steps” Finale",
+        "url": "https://www.soompi.com/article/1885487wpp/choo-young-woo-and-kim-so-hyun-receive-shocking-news-at-the-hospital-in-between-steps-finale"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1885487wpp/choo-young-woo-and-kim-so-hyun-receive-shocking-news-at-the-hospital-in-between-steps-finale",
+          "chars": 1286,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [
+          "The tension between the couple occurs before the hospital appointment.",
+          "Yoo Jin sits with her head bowed."
+        ],
+        "copiedPhrases": [
+          "a former swimmer who lost his right leg due to illness",
+          "a graduate student who finds a new direction after losing her way"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-10T19:49:45.104Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/5b522c7be62b.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/10152120/between-steps_bef670.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Choo Young Woo and Kim So Hyun Face Hospital News in ‘Between Steps’ Finale",
+      "dek": "New stills from the romance drama show Park Min Jae and Im Yoo Jin at a tense hospital appointment ahead of the final episode.",
+      "body": [
+        "Choo Young Woo and Kim So Hyun’s characters face an unsettling moment together in the finale of “Between Steps.” Newly released stills show Park Min Jae and Im Yoo Jin reacting with shock after hearing results from a doctor during a hospital visit, Soompi reported.",
+        "The images also hint at tension between the couple before the appointment. Min Jae looks at Yoo Jin with concern, while she sits with her head bowed.",
+        "The finale follows an emotional turning point in the previous episode, when Min Jae spoke honestly about fears and anxieties he had struggled to express. His confession helped Yoo Jin understand how he truly felt.",
+        "Choo plays Min Jae, a former swimmer who lost his right leg due to illness. Kim stars as Yoo Jin, a graduate student who finds a new direction after losing her way. The drama follows their romance and is directed by the late Ahn Pan Seok, whose credits include “Something in the Rain,” “One Spring Night” and “The Midnight Romance in Hagwon.”",
+        "The final episode of “Between Steps” airs November 10 at 10 p.m. KST."
+      ],
+      "socialCaption": "Choo Young Woo and Kim So Hyun face an emotional hospital visit in the “Between Steps” finale. Read on HallyuScope for the latest preview.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#BetweenSteps",
+        "#ChooYoungWoo",
+        "#KimSoHyun",
+        "#BetweenStepsFinale"
+      ],
+      "seoDescription": "New Between Steps finale stills show Choo Young Woo and Kim So Hyun at a hospital after an emotional turning point. The final episode airs November 10.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "3e1d8c2d3a03",
+      "createdAt": "2026-11-10T19:49:56.043Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-10T02:58:11.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "park-min-young-yook-sungjae-and-go-soo-team-up-in-new-nine-to-six-poster",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Park Min Young, Yook Sungjae, And Go Soo Put Their Heads Together At Work In &#8220;Nine To Six&#8221; Poster",
+        "url": "https://www.soompi.com/article/1885413wpp/park-min-young-yook-sungjae-and-go-soo-put-their-heads-together-at-work-in-nine-to-six-poster"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1885413wpp/park-min-young-yook-sungjae-and-go-soo-put-their-heads-together-at-work-in-nine-to-six-poster",
+          "chars": 1280,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/241/0003540951",
+          "chars": 753,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-10T19:49:56.042Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/3e1d8c2d3a03.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/10113211/nine-to-six-6.jpeg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Park Min Young, Yook Sungjae and Go Soo Team Up in New 'Nine to Six' Poster",
+      "dek": "The SBS romance drama brings three colleagues together over a document ahead of its November 25 premiere.",
+      "body": [
+        "Park Min Young, Yook Sungjae and Go Soo are getting down to business in a new group poster for the SBS drama “Nine to Six.”",
+        "Unveiled on November 10, the poster shows the three actors gathered around a document at work. Park, who plays legal team deputy manager Kang Ji Yi, smiles at the center while Yook and Go Soo look at the paper she is holding.",
+        "The romance follows Kang Ji Yi, a workaholic who has spent years putting her career ahead of her love life. Her outlook begins to change when she meets the warm and thoughtful Han Seon Woo, played by Yook. As their relationship develops, the pair grow both professionally and personally.",
+        "Han Seon Woo is an intern whose friendly presence brings energy to the office. Go Soo plays Park Hyun Tae, a capable division head. Together with Kang Ji Yi, the three make up the workplace team featured in the poster.",
+        "The image offers a glimpse of how the colleagues work together, with each focused on the same piece of paperwork. “Nine to Six” premieres on November 25 at 9 p.m. KST on SBS."
+      ],
+      "socialCaption": "Park Min Young, Yook Sungjae and Go Soo gather for an office assignment in the new “Nine to Six” poster. Read on HallyuScope for the character details and premiere time.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#NineToSix",
+        "#ParkMinYoung",
+        "#YookSungjae",
+        "#GoSoo"
+      ],
+      "seoDescription": "Park Min Young, Yook Sungjae and Go Soo appear in a new group poster for SBS romance drama Nine to Six, premiering November 25 at 9 p.m. KST.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "a1762f87268f",
+      "createdAt": "2026-11-10T19:50:04.385Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-10T02:05:52.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "kim-jae-yeong-signs-exclusive-contract-with-fantagio",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Kim Jae Yeong Signs With Fantagio",
+        "url": "https://www.soompi.com/article/1885397wpp/kim-jae-yeong-signs-with-fantagio"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1885397wpp/kim-jae-yeong-signs-with-fantagio",
+          "chars": 1108,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/076/0004465264",
+          "chars": 850,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-10T19:50:04.385Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/a1762f87268f.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/10110311/kim-jae-yeong-1-.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Kim Jae Yeong Signs Exclusive Contract With Fantagio",
+      "dek": "The actor joins Fantagio following his role in Make Me Tingle and is set to appear in The Roundup 5.",
+      "body": [
+        "Kim Jae Yeong has signed an exclusive contract with Fantagio, the agency announced on November 10.",
+        "Fantagio said it would support the actor in showing his full potential, praising the acting skills and distinctive charm he has brought to his growing body of work.",
+        "Kim made his acting debut in the 2013 film No Breathing. His screen credits since then have included the dramas 100 Days My Prince, Love in Contract, The Judge From Hell and IDOL I.",
+        "More recently, he played Doko Dal in the TVING original series Make Me Tingle. His next confirmed film is The Roundup 5, in which he is set to play a villain.",
+        "At Fantagio, Kim joins a roster that includes actors Kim Seon Ho, Mun Ka Young, Lee Sung Kyung and Lee Se Young, as well as artists ASTRO, Changsub and LUN8."
+      ],
+      "socialCaption": "Kim Jae Yeong has a new agency. Read on HallyuScope for his latest roles and what's next.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#KimJaeYeong",
+        "#Fantagio",
+        "#MakeMeTingle",
+        "#TheRoundup5"
+      ],
+      "seoDescription": "Kim Jae Yeong has signed with Fantagio. The actor recently appeared in Make Me Tingle and is set to play a villain in the upcoming film The Roundup 5.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "7646d95fe542",
+      "createdAt": "2026-11-10T19:50:16.401Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-10T01:54:04.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "between-steps-hits-ratings-high-with-one-episode-left",
+      "source": {
+        "publisher": "Soompi",
+        "title": "&#8220;Between Steps&#8221; Soars To New All-Time High Ahead Of Finale + &#8220;Love In Disguise&#8221; Enters Second Half On High Ratings",
+        "url": "https://www.soompi.com/article/1885382wpp/between-steps-soars-to-new-all-time-high-ahead-of-finale-love-in-disguise-enters-second-half-on-high-ratings"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1885382wpp/between-steps-soars-to-new-all-time-high-ahead-of-finale-love-in-disguise-enters-second-half-on-high-ratings",
+          "chars": 911,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "Meanwhile, tvN's Love in Disguise began the second half of its run with an average nationwide rating of 5.5 percent."
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-10T19:50:16.401Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/7646d95fe542.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/10104121/rating1109.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Between Steps Hits Ratings High With One Episode Left",
+      "dek": "The ENA drama reached a personal best for episode 11, while tvN's Love in Disguise held steady as it entered the second half of its run.",
+      "body": [
+        "ENA's Between Steps has reached its highest nationwide viewership rating yet, with just one episode remaining.",
+        "Episode 11 earned an average rating of 2.9 percent nationwide, according to Nielsen Korea. Soompi reported that the figure was 0.06 percentage points higher than the previous episode's rating, marking the drama's fourth consecutive episode of ratings growth.",
+        "Meanwhile, tvN's Love in Disguise began the second half of its run with an average nationwide rating of 5.5 percent. That matched the score for its previous episode.",
+        "The latest results put Love in Disguise ahead in nationwide ratings, while Between Steps heads into its finale on a personal high. Kim So Hyun stars in Between Steps, and Seol In Ah stars in Love in Disguise."
+      ],
+      "socialCaption": "Between Steps has set a new ratings high ahead of its finale. Read the latest numbers on HallyuScope.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#BetweenSteps",
+        "#LoveInDisguise",
+        "#KimSoHyun",
+        "#SeolInAh"
+      ],
+      "seoDescription": "Between Steps reaches a personal best of 2.9 percent before its finale, while Love in Disguise holds steady at 5.5 percent in nationwide ratings.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "53266a8b46cf",
       "createdAt": "2026-11-10T09:55:35.043Z",
@@ -56,12 +680,12 @@
           }
         ]
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/53266a8b46cf-article-mwaionji.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/53266a8b46cf.svg",
       "imageType": "hallyuscope_original",
-      "sourceImageUrl": null,
+      "sourceImageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/53266a8b46cf-article-mwaionji.jpg",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
       "category": "COMEBACK NEWS",
       "headline": "EXO’s Kai and Sehun Set December Unit Debut as EXO-KASE",
@@ -151,12 +775,12 @@
           }
         ]
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/87dd3ef213b2-article-mwahxctp.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/87dd3ef213b2.svg",
       "imageType": "hallyuscope_original",
-      "sourceImageUrl": null,
+      "sourceImageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/87dd3ef213b2-article-mwahxctp.jpg",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
       "category": "HALLYU NEWS",
       "headline": "K-Pop’s Big Four Establish FANOMENON Company Ahead of 2027 Festival",
@@ -207,12 +831,12 @@
         "title": "ILLIT's 'Break Even' debuts at 6th on Billboard 200",
         "url": "https://www.soompi.com/article/1885116wpp/illit-debuts-at-no-1-on-billboard-top-album-sales-chart-no-6-on-billboard-200-with-break-even"
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/d11d8fb9fea2-article-mwaiulay.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/d11d8fb9fea2.svg",
       "imageType": "hallyuscope_original",
       "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
       "category": "TRENDING",
       "headline": "ILLIT scores first Billboard 200 top 10 with ‘BREAK EVEN’",
@@ -282,7 +906,7 @@
         "title": "Joy And Kim Hyun Jin’s Repeated Chance Encounters Lead To A Misunderstanding In “One-Of-A-Kind Romance”",
         "url": "https://www.soompi.com/article/1885290wpp/joy-and-kim-hyun-jins-repeated-chance-encounters-lead-to-a-misunderstanding-in-one-of-a-kind-romance"
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/fead16e2b965-article-mwagd9kz.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/fead16e2b965.svg",
       "category": "K-DRAMA NEWS",
       "headline": "Joy and Kim Hyun Jin Get Off to a Rocky Start in ‘One-of-a-Kind Romance’",
       "dek": "Repeated encounters leave a job seeker under suspicion by a top star in the webtoon-based drama's first two episodes.",
@@ -300,7 +924,7 @@
       "imageType": "hallyuscope_original",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
       "qualityVersion": 3,
       "researchSources": [
@@ -348,7 +972,7 @@
         "title": "Shin Min Ah, Ju Ji Hoon, Lee Jong Suk, And Lee Se Young Embody The Fantasy Romance Genre In &#8220;The Remarried Empress&#8221;",
         "url": "https://www.soompi.com/article/1885259wpp/shin-min-ah-ju-ji-hoon-lee-jong-suk-and-lee-se-young-embody-the-fantasy-romance-genre-in-the-remarried-empress"
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/59bb35192591-article-mwag0hem.png",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/59bb35192591.svg",
       "category": "K-DRAMA NEWS",
       "headline": "‘The Remarried Empress’ Unveils Palace Stills of Its Four Leads",
       "dek": "Shin Min Ah, Ju Ji Hoon, Lee Jong Suk and Lee Se Young appear in new images from the Disney+ fantasy romance.",
@@ -366,7 +990,7 @@
       "imageType": "hallyuscope_original",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
       "qualityVersion": 3,
       "researchSources": [
@@ -424,7 +1048,7 @@
         "title": "Watch: Kim Woo Bin And Seo Eun Soo Test If Talent Or Effort Is More Important In New Drama “GIFT” Teaser",
         "url": "https://www.soompi.com/article/1885150wpp/kim-woo-bin-and-seo-eun-soo-test-if-talent-or-effort-is-more-important-in-new-drama-gift-teaser"
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/83cc7ae8b16d-article-mwakvcyz.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/83cc7ae8b16d.svg",
       "category": "K-DRAMA NEWS",
       "headline": "Kim Woo Bin weighs talent against effort in teaser for baseball drama ‘GIFT’",
       "dek": "The tvN series stars Kim Woo Bin as a former professional pitching coach who takes charge of a struggling high school team.",
@@ -442,7 +1066,7 @@
       "imageType": "hallyuscope_original",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
       "qualityVersion": 3,
       "researchSources": [
@@ -555,7 +1179,7 @@
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/04/05060023/seventeen-2025.jpg",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
       "category": "HALLYU NEWS",
       "headline": "Seven GOING SEVENTEEN Picks, From Water Battles to a Zombie Escape",
@@ -611,7 +1235,7 @@
       "imageType": "hallyuscope_original",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
       "qualityVersion": 3,
       "researchSources": [
@@ -648,12 +1272,12 @@
         "title": "Universal Pictures Content Group, Crosswalk acquire K-pop doc ‘Twice: This Is For… You’",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdUlKWjF1VTV2dm1qUDRHSWYzb3gxdXVrbEMtNVRYOVRoajVzVW1NYTM1V2pjSkxHaEUzUFhKS2VWVmJsZU41WXFjT0FhcFlzZ3VrNGNYQ1JHYmRNTWZObkU1R0I3RGREcEpvZVVLbXljaGhTT2FaZUhCN0JIUlBxNnpMTlIzWFo4TGx1UzVBNFh0OEcyUlpPbEpnem1kbGVKUXVsbGc4czNIXzgwZmpDOUpNeVltcjAta2R4aTVSakR2S1FGLUZSTzUxNA"
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/a6a941dacea7-article-mwal6o4j.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/a6a941dacea7.svg",
       "imageType": "hallyuscope_original",
       "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
       "category": "HALLYU NEWS",
       "headline": "Universal Pictures Content Group and Crosswalk Acquire TWICE Documentary",
@@ -765,12 +1389,12 @@
         "title": "‘KPop Demon Hunters’ Directors Board Animated Short ‘Living With a Visionary’ as Exec Producers (Exclusive)",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOUhlS2ZRWlN5OEVKLXNmUU5Xd3Vyc3dUT19ueWJ5eFZ6ZGVQbk4wQ1dRdlBnMlRpYmNaOGl5blNwdjhFdEQ1anhjQnU3MUlQcDhRWVVqUXozYUdhcVZ5NzBYQUl0cVRlc0h5OXpzaFRfbWNIMDRwbGZtTTNvVVlwR3lqempOYVVTZ3FSRXZWU1JNaWFCRHVwRGdkMjYwVzQzeV9ubWhIQnJQZ1loN21iTkFnMlQwNXFnT1RnWDZkbw"
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/d97752446bf6-article-mwabjesk.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/d97752446bf6.svg",
       "imageType": "hallyuscope_original",
       "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
       "category": "HALLYU NEWS",
       "headline": "‘KPop Demon Hunters’ Directors Join Animated Short ‘Living With a Visionary’",
@@ -1061,7 +1685,7 @@
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/10002634/exo-kase_9ec39a.jpeg",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
       "category": "COMEBACK NEWS",
       "headline": "EXO’s Kai and Sehun Reveal EXO-KASE Teaser Ahead of Unit Debut",
@@ -1246,7 +1870,7 @@
       },
       "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/75732f0ea2f2.svg",
       "imageType": "hallyuscope_original",
-      "sourceImageUrl": null,
+      "sourceImageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/75732f0ea2f2.svg",
       "imagePolicy": {
         "type": "hallyuscope_original",
         "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
@@ -1336,7 +1960,7 @@
         "title": "K-pop association pushes back on New York Times report over NewJeans contract protections",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYU9UZDVpOEV2QzlYR3M1b0t5RjJNZ3pRTHZIVV9Ld2tKVlhDVWJFcERvY3NINmxmbUNtWVNMeTB4ampMSHRoOFpfU1JlSUwta1c4bmNZM21TQ2VMSFNKM3lGUDBZRE1CVGJELU1rR2I0ZlkyeEE1RE9RNFF5d2QxRUlLd1pGNmVVTVZrcTBqcUxodDI0cXFkUmV3S01wb01EMTNtLVdMdjY0S1F5a3V1VW54VV85LWcwYU0yUmdGU0tpdFphckpucTJ1Rk5rZjhEdVVOS3ZLN3BRbHhwdWtN"
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/245b1d169f48-article-mwalmrdd.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/245b1d169f48.svg",
       "category": "HALLYU NEWS",
       "headline": "K-Pop Association Challenges New York Times Report on NewJeans Contracts",
       "dek": "The Korea Popmusic Industry Association says the report turned one group's contract dispute into a judgment on the whole K-pop industry.",
@@ -1354,7 +1978,7 @@
       "imageType": "hallyuscope_original",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
       "qualityVersion": 3,
       "researchSources": [
@@ -1400,7 +2024,7 @@
       },
       "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/cf269c78576e.svg",
       "imageType": "hallyuscope_original",
-      "sourceImageUrl": null,
+      "sourceImageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/cf269c78576e.svg",
       "imagePolicy": {
         "type": "hallyuscope_original",
         "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
@@ -2920,7 +3544,7 @@
         "title": "BLACKPINK's Jisoo signs with Hollywood agency WME",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb0U0REVubFBzM1FkM093TzcxWEZIeWFxLXRpNW11TXpxRnc1alM3VDJNdTlMLTNJWE5icG82LThkY1ZtNWt5SkZFVjBOangzTjA2dl9ubXlwZ3I3MGFxVC13RzV3MVZONkxMclV1N3JUTlpOWnM3d1dfUlVScFVWX28yYzlaNEl1amEyck1jcWp6T3hwRkRJMUxrdXlmRTQzMVA4UFU1NENOZ9IBrwFBVV95cUxPallpQ2FLRmNhb0g2cFo5OE05ZEFITVNSTkRqaXVVX2VkcFBsbkdsMXFzNno4V1BLWE1OekRneWxVaEsxakoza0tTOU11clc3dGNlWXZyWXRTQWlzdmN6YjNXUDh0dTJjWno5dFJRYXR4Y2RNOVJNc2tFSG50TDVBY0hHWFBJQTdZeC1lbGJvekJsVWp2bjlQdlRMWGdwMEQ4dVVVVDJUaHpQSGlONTVZ"
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/761fd222c466-article-mwalekju.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/761fd222c466.svg",
       "category": "HALLYU NEWS",
       "headline": "BLACKPINK’s Jisoo Signs With WME",
       "dek": "Jisoo has signed with Hollywood agency WME for global representation, adding an international partner to her solo career without changing her existing deals.",
@@ -2938,7 +3562,7 @@
       "imageType": "hallyuscope_original",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
       "researchSources": [
         {
@@ -3125,7 +3749,7 @@
         "title": "Red Velvet’s Wendy to release fourth solo EP ‘Gleam Hour’ on Nov. 23",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQajhxejRWdjJGd0ljb2k5SDNXTzJjR2xtWllnYWZqR2M4NjhCSDIzb2cwblhWZHNmdGI4Z1EtVFZPWnQ5V1VwRlNGTm55blRJblhVcHFDMFJ1Q1pwcmdLSzB0R1FrZ3locEw2N3dKZ0pnZUtRN0hnQ0hFSGJ5SDlTanZlc2dRWS1sUnhEcy1TTjVYQ3hmMzNGWXd2VDFWNDk5LWhiR1RCa0hMRTR0YU11MGFNcHpIeGdpZGFtVkFXaw"
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/24d4348bf33a-article-mwahcmpy.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/24d4348bf33a.svg",
       "category": "COMEBACK NEWS",
       "headline": "Wendy Sets Nov. 23 Release for Fourth Solo EP ‘Gleam Hour’",
       "dek": "Wendy returns with her fourth solo EP on November 23, her first new music in a year and two months.",
@@ -3143,7 +3767,7 @@
       "imageType": "hallyuscope_original",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
       "researchSources": [
         {
@@ -3295,7 +3919,7 @@
         "title": "JYP's new K-pop boy band oftheblue to debut next year",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY0U5OE9KUDlTWGNRakRPcDRlY2FfcXlkTDdNMlQxZi1HWHlBR0NIWnNSUjFRZlJqbXdSTVFiU20yek80ZE5tYmlIbDJSTzBOXy00STJHdXI1aHUxeG1UU1dXZUhIcUwwX2Ytd1ZXeFhmZVJhTkZsX2FrTUJxYUVJUzJmRWFKbGdZZTJua2RmTl9aSW11X1pYWXZBdU1LaldvT2NZc3Zla3h5aGhvd1VF0gG0AUFVX3lxTFA5YUFjUWNMY0RTX0Z3R1czSUNMUWxoeEtVcEx6ZllRZlFJMHg1WUIyUkxLNEhZYW41VmRmanRZclBDVEFnT1k2VGpGdzB1ZTRnUE80emE1NHVjSnhEXzlpSjg4LUh6Qlp0cnpxRkpMR01lOHR2Zk0wVkFVRmg0LURXTkc2SjVGUDU3VjdkYkdRQzVNU0plLXlLVkNKa3F6ZEh3d2xaM2VxSy1mZW5jOTVhQnhtVQ"
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/0405ba86440b-article-mwalr5e2.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/0405ba86440b.svg",
       "category": "HALLYU NEWS",
       "headline": "JYP Boy Band oftheblue Set to Debut Next Year",
       "dek": "JYP's SQU4D division is launching its first boy group, oftheblue, in 2027, teased so far with a QR code, a crossword and an 18-sound mixer.",
@@ -3313,7 +3937,7 @@
       "imageType": "hallyuscope_original",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
       "researchSources": [
         {
@@ -3513,13 +4137,13 @@
         "url": "https://hallyuscope.com/concerts"
       },
       "sourceNote": "Source: HallyuScope",
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/7e4a9c2b8f51-article-mwag2d9e.png",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/7e4a9c2b8f51.svg",
       "imageType": "hallyuscope_original",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
-      "sourceImageUrl": "",
+      "sourceImageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/7e4a9c2b8f51-article-mwag2d9e.png",
       "category": "CONCERT NEWS",
       "headline": "The Philippine K-pop Concert Guide: Every 2026-2027 Show, Venue and Ticket Link",
       "dek": "Multiple K-pop shows are headed to the Philippines from November 2026 to March 2027, from HUTA's Heat Max to three sold-out BTS nights in Bulacan. Here is every date, venue and official ticket link in one place.",
@@ -3572,13 +4196,13 @@
         "url": "https://hallyuscope.com/concerts"
       },
       "sourceNote": "Source: HallyuScope",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/da6f42bf4b18.svg",
       "imageType": "hallyuscope_original",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "Upload a cover image in the review dashboard."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
-      "sourceImageUrl": "",
+      "sourceImageUrl": null,
       "category": "CONCERT NEWS",
       "headline": "Ticketing day, minus the panic",
       "dek": "The checklist to finish before a Philippine K-pop ticket sale opens, so the queue is the only thing left to worry about.",
@@ -3612,13 +4236,13 @@
         "url": "https://hallyuscope.com/concerts"
       },
       "sourceNote": "Source: HallyuScope",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/1b4b7d65822e.svg",
       "imageType": "hallyuscope_original",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "Upload a cover image in the review dashboard."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
-      "sourceImageUrl": "",
+      "sourceImageUrl": null,
       "category": "CONCERT NEWS",
       "headline": "Your first K-pop concert in Manila",
       "dek": "Venues, entry times, lightsticks, and the etiquette nobody tells you before your first show.",
@@ -3652,13 +4276,13 @@
         "url": "https://hallyuscope.com/comebacks"
       },
       "sourceNote": "Source: HallyuScope",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/9bf1153d28d0.svg",
       "imageType": "hallyuscope_original",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "Upload a cover image in the review dashboard."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
-      "sourceImageUrl": "",
+      "sourceImageUrl": null,
       "category": "HALLYU NEWS",
       "headline": "Album versions, POBs and inclusions",
       "dek": "A plain-language breakdown of versions, pre-order benefits, and what actually comes inside a K-pop album.",
