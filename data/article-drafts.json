@@ -57,7 +57,9 @@
         "copiedPhrases": [],
         "missingKeyFacts": [],
         "checkedAt": "2026-11-10T06:02:16.294Z"
-      }
+      },
+      "socialHashtags": "#HallyuScope #ILLIT #Trending #Kpop #KpopNews",
+      "editedAt": "2026-11-10T09:14:23Z"
     },
     {
       "id": "fead16e2b965",
@@ -104,8 +106,8 @@
         }
       ],
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z",
-      "socialHashtags": "#HallyuScope #OneOfAKindRomance #Joy #KimHyunJin #KDrama",
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #Joy #KimHyunJin #KDrama #Kpop",
       "socialImageUrl": "https://hallyuscope.com/api/social-card?image=https%3A%2F%2Fraw.githubusercontent.com%2Fphoebegrace%2Fhallyuscope%2Flive-data%2Fassets%2Feditorial%2Ffead16e2b965-article-mwagd9kz.jpg&category=K-DRAMA+NEWS&headline=Joy+and+Kim+Hyun+Jin+Get+Off+to+a+Rocky+Start+in+%E2%80%98One-of-a-Kind+Romance%E2%80%99&description=Joy+and+Kim+Hyun+Jin%27s+chance+meetings+spark+suspicion+in+%22One-of-a-Kind+Romance.%22+Read+on+HallyuScope+for+a+look+at+their+characters+and+the+premiere.&ts=1794300850941&sig=136574f3fb0937f82ca2091b25425bcb6695a77990d1b2070728b20814f031cf",
       "socialPlatforms": {
         "facebook": true,
@@ -180,7 +182,7 @@
         "missingKeyFacts": [],
         "checkedAt": "2026-11-10T06:02:39.095Z"
       },
-      "socialHashtags": "#Kpop #KpopConcert #Philippines #KpopConcerts #ConcertGuide",
+      "socialHashtags": "#HallyuScope #KDrama #Kpop #KpopNews #Manila",
       "socialImageUrl": "https://hallyuscope.com/api/social-card?image=https%3A%2F%2Fraw.githubusercontent.com%2Fphoebegrace%2Fhallyuscope%2Flive-data%2Fassets%2Feditorial%2F59bb35192591-article-mwag0hem.png&category=K-DRAMA+NEWS&headline=%E2%80%98The+Remarried+Empress%E2%80%99+Unveils+Palace+Stills+of+Its+Four+Leads&description=The+four+leads+of+%E2%80%9CThe+Remarried+Empress%E2%80%9D+step+into+the+palace+spotlight.+Read+on+HallyuScope+for+a+closer+look+at+the+new+stills.&ts=1794300211163&sig=a6165361adc52a70afd6ccb4560f6688ce5b7cca464ae2d4bb6fc7516843d1a4",
       "socialPlatforms": {
         "facebook": true,
@@ -198,7 +200,8 @@
         "instagram": {
           "id": "18157895107520226"
         }
-      }
+      },
+      "editedAt": "2026-11-10T09:14:23Z"
     },
     {
       "id": "83cc7ae8b16d",
@@ -214,7 +217,7 @@
         "url": "https://www.soompi.com/article/1885150wpp/kim-woo-bin-and-seo-eun-soo-test-if-talent-or-effort-is-more-important-in-new-drama-gift-teaser"
       },
       "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/83cc7ae8b16d.svg",
-      "category": "COMEBACK NEWS",
+      "category": "K-DRAMA NEWS",
       "headline": "Kim Woo Bin weighs talent against effort in teaser for baseball drama ‘GIFT’",
       "dek": "The tvN series stars Kim Woo Bin as a former professional pitching coach who takes charge of a struggling high school team.",
       "body": [
@@ -245,7 +248,8 @@
         }
       ],
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #KimWooBin #Comeback #Teaser #Kpop"
     },
     {
       "id": "cdf02ee086c5",
@@ -275,7 +279,7 @@
         "type": "hallyuscope_original",
         "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
-      "category": "COMEBACK NEWS",
+      "category": "K-DRAMA NEWS",
       "headline": "Jang Nara’s Cha Eun Kyung Promotes Her Law Firm in ‘Good Partner 2’ Teaser",
       "dek": "The SBS drama returns on November 20, with Kim Hye Yoon joining Jang Nara as a fellow divorce lawyer.",
       "body": [
@@ -288,7 +292,8 @@
       "socialCaption": "Jang Nara returns as Cha Eun Kyung in a new \"Good Partner 2\" teaser. Read more about her character's pitch and the new season on HallyuScope.",
       "seoDescription": "Jang Nara returns as divorce lawyer Cha Eun Kyung in a new Good Partner 2 teaser. The SBS drama premieres November 20 and will stream on Viki.",
       "sourceNote": "Source: Soompi",
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #JangNara #Comeback #Teaser #Kpop"
     },
     {
       "id": "79d2afb7a050",
@@ -326,7 +331,7 @@
         "type": "hallyuscope_original",
         "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
-      "category": "K-DRAMA NEWS",
+      "category": "HALLYU NEWS",
       "headline": "Seven GOING SEVENTEEN Picks, From Water Battles to a Zombie Escape",
       "dek": "Soompi’s latest watch list highlights seven SEVENTEEN variety-show adventures for fans looking for laughs, games and a few scares.",
       "body": [
@@ -340,7 +345,9 @@
       ],
       "socialCaption": "From a trainee-dorm reenactment to a zombie escape, see seven GOING SEVENTEEN picks on HallyuScope.",
       "seoDescription": "Explore seven GOING SEVENTEEN picks, from SEVENTEEN TV and LIAR LIAR to water-gun battles, Mafiapoly and the zombie-filled horror series TRAP.",
-      "sourceNote": "Source: Soompi"
+      "sourceNote": "Source: Soompi",
+      "socialHashtags": "#HallyuScope #KDrama #Kpop #KpopNews #Manila",
+      "editedAt": "2026-11-10T09:14:23Z"
     },
     {
       "id": "13dae289d3eb",
@@ -362,7 +369,7 @@
       "body": [
         "TWICE's Sana marked fellow member Momo's 30th birthday on November 9 with a sweet Instagram post, sharing photos of the two together and calling Momo her twin.",
         "The post opened with a close-up selfie of the pair leaning in together, followed by full-length shots of them posing side by side indoors. Momo wore an oversized striped long-sleeve top with denim shorts, while Sana wore a black sleeveless dress and carried a small handbag. Sana captioned the set, 'Happy birthday to my twin,' with butterfly and blue heart emojis, and added a Japanese message wishing Momorin a happy birthday.",
-        "Sana and Momo are both Japanese members of TWICE, and the two also promote together in the group's Japanese unit MISAMO alongside Mina. The birthday post landed during a busy stretch for TWICE, whose concert film 'This Is For…You' — built around their London O2 Arena show — arrives in cinemas worldwide on February 5, 2027.",
+        "Sana and Momo are both Japanese members of TWICE, and the two also promote together in the group's Japanese unit MISAMO alongside Mina. The birthday post landed during a busy stretch for TWICE, whose concert film 'This Is For…You', built around their London O2 Arena show, arrives in cinemas worldwide on February 5, 2027.",
         "Sana is also preparing for her big-screen debut as Nao in the Korea-Japan romantic fantasy 'Meow: Reaching Your World,' where she plays a cat who learns human language before deciding to become a real person, opposite Sato Takeru. For ONCE, the birthday post was a small, warm moment between two members who have been side by side since TWICE's debut in 2015."
       ],
       "socialCaption": "Happy birthday, Momo! 🎂 Sana shared the sweetest twin photos to mark her fellow TWICE member's birthday. 🩷",
@@ -386,7 +393,8 @@
         }
       ],
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #TWICE #Concert #Kpop #KpopNews"
     },
     {
       "id": "a6a941dacea7",
@@ -437,7 +445,8 @@
         }
       ],
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #TWICE #Hallyu #Kpop #KpopNews"
     },
     {
       "id": "6406e64a8773",
@@ -469,7 +478,7 @@
         "The association, whose members include HYBE, SM, JYP and YG, argued that the report judged the deals by individual clauses alone, without weighing supplementary agreements, Korean law, or how the contracts were actually carried out. It pointed to the government's standard contract for popular culture artists and the Popular Culture and Arts Industry Development Act as the framework that protects both companies and artists.",
         "It also said major companies sign the government's standard supplementary agreement for minors with every trainee, covering sleep, education and rest, and appoint youth protection officers. The group described the trainee system as a distinctive model that should not be judged through a Western lens, and raised concern that contract terms under confidentiality obligations were disclosed to foreign media while legal proceedings are still ongoing."
       ],
-      "socialCaption": "The K-pop industry's trade body has fired back at the NYT's NewJeans contract report — calling it a one-sided take on how the industry works.",
+      "socialCaption": "The K-pop industry's trade body has fired back at the NYT's NewJeans contract report, calling it a one-sided take on how the industry works.",
       "seoDescription": "KPIA has responded to the New York Times' report on NewJeans' ADOR contracts, defending the deals as lawful and the K-pop training system as a model in its own right.",
       "sourceNote": "Source: Digital Music News",
       "researchSources": [
@@ -483,7 +492,8 @@
         }
       ],
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #NewJeans #Hallyu #Kpop #KpopNews"
     },
     {
       "id": "d97752446bf6",
@@ -518,7 +528,7 @@
       "socialCaption": "The KPop Demon Hunters directors are executive producers on a new animated documentary short, Living With a Visionary. Read more on HallyuScope.",
       "seoDescription": "KPop Demon Hunters directors Maggie Kang and Chris Appelhans are executive producers on the animated documentary short Living With a Visionary, premiering through The New York Times Op-Docs.",
       "sourceNote": "Source: The Hollywood Reporter",
-      "editedAt": "2026-11-10T06:23:20.000Z",
+      "editedAt": "2026-11-10T09:14:23Z",
       "socialStatus": "published",
       "socialPublishedAt": "2026-11-10T08:23:53.320Z",
       "socialPublishResult": {
@@ -536,7 +546,8 @@
         "facebook": true,
         "instagram": true
       },
-      "reviewedAt": "2026-11-10T07:01:02.112Z"
+      "reviewedAt": "2026-11-10T07:01:02.112Z",
+      "socialHashtags": "#HallyuScope #KPopDemonHunters #Hallyu #Kpop #KpopNews"
     },
     {
       "id": "9c525233807e",
@@ -565,9 +576,9 @@
         "Target's second KPop Demon Hunters x heyday drop arrived on November 8, and this time the focus is squarely on gaming. The 20-piece lineup runs from $4.99 to $49.99, a wider range than the first drop, where every item cost $20.",
         "Leading the release is a $49.99 wireless mechanical keyboard in the Demon Markings print, joined by a $49.99 wireless headset in Demon Markings or Derpy Cat and a $29.99 gaming mouse. Wired headsets in HuntrX or Soda Pop designs come in at $22.99, while an LED desk mat and ramen lights in Rumi, Mira or Zoey designs are $19.99 each.",
         "The rest of the drop covers the smaller details of a setup: Switch cases in Demon Markings, Derpy Cat or HuntrX for $17.99, plain desk mats for $9.99, Joy-Con thumb grips in HuntrX or Saja Boys for $7.99, and figural keycaps for $4.99. The Switch cases fit the Switch 2 as well as the original Switch and Switch OLED.",
-        "The first drop landed on October 11 with chargers, speakers, night lights, headphones and power banks. Fans building the full matching set — keyboard, mouse, wireless headset and LED mat — would spend $149.96 before the add-ons. The collection is sold in Target stores and on Target.com."
+        "The first drop landed on October 11 with chargers, speakers, night lights, headphones and power banks. Fans building the full matching set, keyboard, mouse, wireless headset and LED mat, would spend $149.96 before the add-ons. The collection is sold in Target stores and on Target.com."
       ],
-      "socialCaption": "Gamers, this one's for you 🎮 Target's second KPop Demon Hunters x heyday drop is here — keyboards, headsets, Switch gear and more, from $4.99.",
+      "socialCaption": "Gamers, this one's for you 🎮 Target's second KPop Demon Hunters x heyday drop is here, keyboards, headsets, Switch gear and more, from $4.99.",
       "seoDescription": "The second KPop Demon Hunters x heyday collection arrived at Target on November 8 with 20 gaming accessories priced from $4.99 to $49.99.",
       "sourceNote": "Source: ABC7 Los Angeles",
       "qualityVersion": 3,
@@ -578,7 +589,8 @@
         }
       ],
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #KPopDemonHunters #Comeback #Kpop #KpopNews"
     },
     {
       "id": "534b5f259225",
@@ -602,14 +614,14 @@
       },
       "category": "HALLYU NEWS",
       "headline": "Korean Organizations Reject Claim of Oppressive Control in K-Pop",
-      "dek": "Korea's music industry association says the K-pop system is dedicated management and investment — not oppressive control.",
+      "dek": "Korea's music industry association says the K-pop system is dedicated management and investment, not oppressive control.",
       "body": [
         "A leading Korean music industry body has pushed back on the idea that K-pop runs on oppressive control, after a New York Times report on NewJeans' contracts put the industry's training system under the spotlight. The Korea Popmusic Industry Association said the description dismisses a system built on dedicated management and upfront investment.",
-        "In a statement on November 9, the association argued that the Times report — which said the 2022 ADOR contracts omitted youth protections and kept the company's rights over members' names, likenesses and AI-generated voices after the deals end — judged K-pop through a Western lens instead of on its own terms.",
+        "In a statement on November 9, the association argued that the Times report, which said the 2022 ADOR contracts omitted youth protections and kept the company's rights over members' names, likenesses and AI-generated voices after the deals end, judged K-pop through a Western lens instead of on its own terms.",
         "The group said major companies run artist care programs, some with in-house medical staff, and sign the government's standard supplementary agreements for minors, covering sleep, education and rest. Fairness, it argued, has to be judged with those agreements and Korean law in view, not clause by clause.",
         "It also objected to contract details from an ongoing legal dispute being disclosed to foreign media despite confidentiality obligations, warning that one dispute was being stretched into a verdict on the whole industry. HYBE and ADOR had responded a day earlier, saying the contracts were lawful and negotiated in good faith."
       ],
-      "socialCaption": "K-pop's industry body says don't call it 'oppressive control' — its new statement defends the training system behind the music.",
+      "socialCaption": "K-pop's industry body says don't call it 'oppressive control', its new statement defends the training system behind the music.",
       "seoDescription": "The Korea Popmusic Industry Association has rejected the idea that K-pop is defined by oppressive control, pushing back on the New York Times' NewJeans contract report.",
       "sourceNote": "Source: IQ Magazine",
       "qualityVersion": 3,
@@ -624,7 +636,8 @@
         }
       ],
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #Hallyu #Kpop #KpopNews #Manila"
     },
     {
       "id": "d229c5df4a84",
@@ -650,13 +663,13 @@
       "headline": "AIA gathers 7,000 for K-pop concert in South Korea",
       "dek": "More than 300 Filipinos joined nearly 7,000 guests in Goyang for AIA's K-pop celebration.",
       "body": [
-        "Nearly 7,000 people from across Asia gathered in Goyang, South Korea, on October 24 for AIA's 'K-Pop Together, Give Together' concert — the insurer's first cross-market event and its largest regional gathering to date.",
+        "Nearly 7,000 people from across Asia gathered in Goyang, South Korea, on October 24 for AIA's 'K-Pop Together, Give Together' concert, the insurer's first cross-market event and its largest regional gathering to date.",
         "The lineup brought together K-pop icons PSY, J.Y. Park, ITZY, CHUNG HA and JINUSEAN, with Korean broadcaster Jae Min Park and Girls' Generation member Tiffany Young hosting the night.",
         "More than 300 Filipino customers, agents and partners flew in for the show, joining guests from South Korea, Malaysia and Singapore. Beyond the concert, guests explored Korean culture through a K-Beauty color analysis, found their names written in Hangul, and took home exclusive AIA light sticks.",
         "The event also carried a giving angle: each participating market partnered with a local charity, and AIA Philippines chose Kythe Foundation, which supports children with chronic illnesses and their families. It ties into AIA One Billion, the company's push to inspire one billion people across Asia to live healthier lives by 2030.",
         "AIA Korea chief marketing officer Ji-Ye Hwang and AIA Philippines president and chief executive Melita Teo both attended, with Teo saying the gathering showed how shared experiences can unite communities and strengthen relationships across markets."
       ],
-      "socialCaption": "7,000 fans, one stage 🇰🇷 PSY, ITZY, J.Y. Park and more lit up Goyang for AIA's regional K-pop concert — with 300+ Filipinos in the crowd!",
+      "socialCaption": "7,000 fans, one stage 🇰🇷 PSY, ITZY, J.Y. Park and more lit up Goyang for AIA's regional K-pop concert, with 300+ Filipinos in the crowd!",
       "seoDescription": "AIA gathered nearly 7,000 guests in Goyang, South Korea for its 'K-Pop Together, Give Together' concert, with more than 300 Filipinos in attendance.",
       "sourceNote": "Source: SunStar Publishing Inc.",
       "qualityVersion": 3,
@@ -671,7 +684,8 @@
         }
       ],
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #Concert #Kpop #KpopNews #Manila"
     },
     {
       "id": "048de0386976",
@@ -695,11 +709,11 @@
       },
       "category": "HALLYU NEWS",
       "headline": "NCT Dream’s ‘Boogie Woogie’ Gets a Review From The Bias List",
-      "dek": "The Bias List gave NCT Dream's 'Boogie Woogie' an 8/10 — bright, cheesy, and hard to dislike.",
+      "dek": "The Bias List gave NCT Dream's 'Boogie Woogie' an 8/10, bright, cheesy, and hard to dislike.",
       "body": [
-        "The Bias List has weighed in on NCT Dream's 'Boogie Woogie,' giving the title track an 8 out of 10 and a B- grade — a warm verdict for the group's bright, bubblegum return.",
+        "The Bias List has weighed in on NCT Dream's 'Boogie Woogie,' giving the title track an 8 out of 10 and a B- grade, a warm verdict for the group's bright, bubblegum return.",
         "The review notes that this is the group's first project since founding member Mark Lee left to go solo, and that the song takes NCT Dream back to their upbeat roots, leaning on the members' polished skills to sell a sound that gets harder to carry as a group grows older.",
-        "The reviewer found the track openly cheesy — radio-friendly pop in the vein of BTS's 'Permission to Dance' — but said its distinctly K-pop sparkle keeps it from sounding generic. The big chorus is both the hook that pulls listeners in and the part with the most cringe-worthy lyrics.",
+        "The reviewer found the track openly cheesy, radio-friendly pop in the vein of BTS's 'Permission to Dance', but said its distinctly K-pop sparkle keeps it from sounding generic. The big chorus is both the hook that pulls listeners in and the part with the most cringe-worthy lyrics.",
         "The moments around the chorus won the most praise: a post-chorus with a lighter lift, and short rap verses that ride the groove instead of trying to reinvent it. The reviewer wondered whether such a light song suits a 10th-anniversary release, but concluded it is hard to dislike a track that bursts with energy at every turn.",
         "'Boogie Woogie' leads NCT Dream's sixth album, 'DREAM AFTER DREAM,' released on November 9, with album opener 'The Sun' pre-released last month."
       ],
@@ -718,7 +732,8 @@
         }
       ],
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #NCTDream #Hallyu #Kpop #KpopNews"
     },
     {
       "id": "84f1283e7115",
@@ -744,13 +759,13 @@
       "headline": "NCT Dream Releases ‘Dream’ Album and ‘Boogie Woogie’ Music Video",
       "dek": "NCT Dream mark 10 years together with their sixth album 'DREAM AFTER DREAM' and a disco-funk title track.",
       "body": [
-        "NCT Dream are back with their sixth studio album, 'DREAM AFTER DREAM,' released on November 9 at 6 p.m. KST alongside the music video for title track 'Boogie Woogie' — a comeback that doubles as a 10th-anniversary celebration.",
+        "NCT Dream are back with their sixth studio album, 'DREAM AFTER DREAM,' released on November 9 at 6 p.m. KST alongside the music video for title track 'Boogie Woogie', a comeback that doubles as a 10th-anniversary celebration.",
         "'Boogie Woogie' is an uptempo dance track that blends 1970s disco-funk with modern synths, rhythmic percussion and a grooving bassline. Member Jaemin helped write the lyrics, which celebrate the group's decade together and the people who made ordinary days feel special.",
         "The 10-track album moves across disco-funk, hyperpop, electronic house and pop rock. Alongside opener 'The Sun,' which was pre-released last month, the tracklist includes 'Dream After Dream,' 'Skydive,' 'Pressure,' 'Watch U Watch Me,' 'Cool for Me,' 'Tumbler,' 'Smile for U' and 'This Is Your World.'",
         "The video turns everyday life into a festival, with the members dancing through nostalgic spots like a neighborhood stationery store, a Korean snack bar, a shopping mall and a bowling alley.",
         "It is the group's first release since Mark Lee left to go solo, and the comeback landed at No. 1 on Hanteo Chart and the Circle Retail Album Chart, with 'Boogie Woogie' topping Bugs' real-time chart."
       ],
-      "socialCaption": "NCT Dream are back! 💚 'DREAM AFTER DREAM' is out now with the 'Boogie Woogie' MV — disco-funk, nostalgia and 10 years of Dreamies.",
+      "socialCaption": "NCT Dream are back! 💚 'DREAM AFTER DREAM' is out now with the 'Boogie Woogie' MV, disco-funk, nostalgia and 10 years of Dreamies.",
       "seoDescription": "NCT Dream released their sixth album 'DREAM AFTER DREAM' on November 9 with the music video for title track 'Boogie Woogie.'",
       "sourceNote": "Source: UPI",
       "qualityVersion": 3,
@@ -769,7 +784,8 @@
         }
       ],
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #NCTDream #Comeback #NewAlbum #MusicVideo"
     },
     {
       "id": "52a985c8d93c",
@@ -801,7 +817,9 @@
       "socialCaption": "Kai and Sehun are gearing up to debut as EXO-KASE. Read on HallyuScope for the teaser and album release details.",
       "seoDescription": "EXO’s Kai and Sehun have unveiled a teaser for their new unit, EXO-KASE, ahead of the December release of their first mini album, “Waking Up The City.”",
       "sourceNote": "Source: Soompi",
-      "qualityVersion": 2
+      "qualityVersion": 2,
+      "socialHashtags": "#HallyuScope #EXO #EXOKASE #Comeback #Teaser",
+      "editedAt": "2026-11-10T09:14:23Z"
     },
     {
       "id": "b19c99320baf",
@@ -828,12 +846,12 @@
       "dek": "KEYVITUP are back with their second EP 'NA-GARI,' turning a word for failed plans into a fresh-start anthem.",
       "body": [
         "Rookie boy group KEYVITUP have made their first comeback since debut, releasing their second EP, 'NA-GARI,' on November 9 at 6 p.m. KST with a music video for title track 'NAGARI.'",
-        "The five-track EP — 'CHEMISTRY,' 'NAGARI,' 'TA,' 'ALRIGHT' and 'LOVE ME DON'T LEAVE ME ALONE' — arrives about seven months after their self-titled debut EP in April. Every member helped write the title track's lyrics, and the members also hold lyricist and composer credits across the EP.",
-        "'NAGARI' is a hip-hop-based hybrid dance track built on a racing synth bass, a heavy hip-hop beat and unpredictable sound shifts. The title comes from a Korean slang term from hwatu, a traditional card game, for a round that ends with no winner — now used for plans falling apart. The group flips it into a message of perseverance: start again and forge your own path.",
+        "The five-track EP, 'CHEMISTRY,' 'NAGARI,' 'TA,' 'ALRIGHT' and 'LOVE ME DON'T LEAVE ME ALONE', arrives about seven months after their self-titled debut EP in April. Every member helped write the title track's lyrics, and the members also hold lyricist and composer credits across the EP.",
+        "'NAGARI' is a hip-hop-based hybrid dance track built on a racing synth bass, a heavy hip-hop beat and unpredictable sound shifts. The title comes from a Korean slang term from hwatu, a traditional card game, for a round that ends with no winner, now used for plans falling apart. The group flips it into a message of perseverance: start again and forge your own path.",
         "The EP ranges from opener 'CHEMISTRY,' about the members' synergy and confidence, to 'TA,' about ambition, and 'ALRIGHT,' about the excitement of new romance, before closing track 'LOVE ME DON'T LEAVE ME ALONE' shows a more vulnerable side.",
-        "KEYVITUP — TAEHWAN, HYUNMIN, SENA, JAEIN and RUKIA — are the first boy group from iNKODE Entertainment, produced under the creative direction of Kim Jae Joong. Their debut year included an appearance at KCON LA 2026, and they teased the comeback with 'KVP Cloud,' a behind-the-scenes series following the making of the EP."
+        "KEYVITUP, TAEHWAN, HYUNMIN, SENA, JAEIN and RUKIA, are the first boy group from iNKODE Entertainment, produced under the creative direction of Kim Jae Joong. Their debut year included an appearance at KCON LA 2026, and they teased the comeback with 'KVP Cloud,' a behind-the-scenes series following the making of the EP."
       ],
-      "socialCaption": "KEYVITUP are back! 🙌 The rookies dropped their second EP 'NA-GARI' — a fresh start after a debut year that took them to KCON LA.",
+      "socialCaption": "KEYVITUP are back! 🙌 The rookies dropped their second EP 'NA-GARI', a fresh start after a debut year that took them to KCON LA.",
       "seoDescription": "KEYVITUP released their second EP 'NA-GARI' on November 9, marking their first comeback since their April debut.",
       "sourceNote": "Source: BroadwayWorld",
       "qualityVersion": 3,
@@ -848,7 +866,8 @@
         }
       ],
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #KEYVITUP #Comeback #Kpop #KpopNews"
     },
     {
       "id": "6a8d7892dc47",
@@ -880,7 +899,7 @@
         "The industry association weighed in on November 9, saying a single contract dispute was being stretched into a structural verdict on the whole industry, and that fairness must be judged with supplementary agreements, Korean law and actual practice in view. It also objected to confidential contract terms being disclosed to foreign media while legal proceedings continue.",
         "The dispute itself goes back to 2024, when the members announced they were ending their ADOR contracts; a Seoul court later upheld the contracts' validity."
       ],
-      "socialCaption": "The NewJeans contract story isn't over — the K-pop industry body has now responded to the NYT report, and HYBE and ADOR already answered too.",
+      "socialCaption": "The NewJeans contract story isn't over, the K-pop industry body has now responded to the NYT report, and HYBE and ADOR already answered too.",
       "seoDescription": "The Korea Popmusic Industry Association pushed back after the New York Times revealed details of NewJeans' contracts with ADOR, calling the report one-sided.",
       "sourceNote": "Source: Music Ally",
       "qualityVersion": 3,
@@ -899,7 +918,8 @@
         }
       ],
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #NewJeans #Hallyu #Kpop #KpopNews"
     },
     {
       "id": "15052ea46a6e",
@@ -946,7 +966,8 @@
         }
       ],
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #KEYVITUP #Hallyu #Kpop #KpopNews"
     },
     {
       "id": "75732f0ea2f2",
@@ -993,7 +1014,8 @@
         }
       ],
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #ENHYPEN #Hallyu #Film #Kpop"
     },
     {
       "id": "3c5b73581d1c",
@@ -1036,7 +1058,8 @@
         }
       ],
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #HYBE #NewJeans #Hallyu #Kpop"
     },
     {
       "id": "245b1d169f48",
@@ -1079,7 +1102,8 @@
         }
       ],
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #NewJeans #Hallyu #Kpop #KpopNews"
     },
     {
       "id": "cf269c78576e",
@@ -1116,7 +1140,9 @@
       "socialCaption": "TOMORROW X TOGETHER’s ‘STEAL THE WIND’ tour starts in Seoul in November 2026. Read on HallyuScope for the full announced schedule.",
       "seoDescription": "TOMORROW X TOGETHER announces its ‘STEAL THE WIND’ world tour, beginning in Seoul in November 2026. See the announced cities and dates.",
       "sourceNote": "Source: HYBE LABELS",
-      "qualityVersion": 2
+      "qualityVersion": 2,
+      "socialHashtags": "#HallyuScope #TXT #Concert #Kpop #KpopNews",
+      "editedAt": "2026-11-10T09:14:23Z"
     },
     {
       "id": "b1c3a55ae26c",
@@ -1159,7 +1185,8 @@
         }
       ],
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #Hallyu #Kpop #KpopNews #Manila"
     },
     {
       "id": "de31cd823f28",
@@ -1193,7 +1220,9 @@
         "type": "hallyuscope_original",
         "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
-      "qualityVersion": 2
+      "qualityVersion": 2,
+      "socialHashtags": "#HallyuScope #ILLIT #Trending #Kpop #KpopNews",
+      "editedAt": "2026-11-10T09:14:23Z"
     },
     {
       "id": "a63cf87b071f",
@@ -1225,7 +1254,7 @@
         "For audio, there are two headset options. The wireless headset, in Demon Markings or Derpy Cat, costs 49.99 dollars and comes with RGB earcups, a detachable mic, on-ear mute, and both USB-A and USB-C receivers in the box. The wired headset, in HuntrX or Soda Pop, costs 22.99 dollars and uses a 3.5mm plug, which also adds Xbox support that the wireless version does not list.",
         "The rest of the drop fills out the desk and the console bag. An LED desk mat in Demon Markings costs 19.99 dollars, while plain desk mats in Derpy Cat or HuntrX cost 9.99 dollars. A Switch case in Demon Markings, Derpy Cat, or HuntrX costs 17.99 dollars and fits a Switch 2, original Switch, or Switch OLED while holding 10 game cards, and Joy-Con thumb grips in HuntrX or Saja Boys cost 7.99 dollars. Figural keycaps cost 4.99 dollars, and a ramen light shaped like a cup, in Rumi, Mira, or Zoey, costs 19.99 dollars. Buying the keyboard, mouse, wireless headset, and LED mat together comes to 149.96 dollars before the add-ons."
       ],
-      "socialCaption": "Your KPop Demon Hunters desk setup just levelled up. The second heyday drop is here with a mechanical keyboard, headsets, and Switch gear — which piece are you grabbing first?",
+      "socialCaption": "Your KPop Demon Hunters desk setup just levelled up. The second heyday drop is here with a mechanical keyboard, headsets, and Switch gear, which piece are you grabbing first?",
       "seoDescription": "The second heyday x KPop Demon Hunters drop lands at Target with gaming keyboards, headsets, and Switch gear from $4.99 to $49.99.",
       "sourceNote": "Source: Mashable",
       "qualityVersion": 3,
@@ -1240,7 +1269,8 @@
         }
       ],
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #KPopDemonHunters #Hallyu #Kpop #KpopNews"
     },
     {
       "id": "2302b38040d1",
@@ -1287,7 +1317,8 @@
         }
       ],
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #ROCKY #Concert #Kpop #KpopNews"
     },
     {
       "id": "089d760f02e3",
@@ -1330,7 +1361,8 @@
         }
       ],
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #Sooyoon #Concert #Kpop #KpopNews"
     },
     {
       "id": "774dc8c28625",
@@ -1356,7 +1388,7 @@
         "A segment called Club Time turned the concert into a rave, with ‘Lucky One,’ ‘Power,’ and ‘Don't Fight the Feeling’ building up to ‘Run,’ which the members performed three times at the fans' request, jumping and running across the stage each time. Later, with the cold weather settling in, they treated the crowd to their signature winter songs, ‘Sing for You,’ ‘For Life,’ ‘Universe,’ and the fan favourite ‘The First Snow.’ They closed the main set with ‘History,’ ‘Love Me Right,’ and ‘Growl,’ then returned for an encore of ‘Paradise,’ ‘Tender Love,’ and ‘Peter Pan.’",
         "The night was full of gratitude on both sides. The members invited fans to sing along to every track and traded jokes between performances, visibly moved as they listened to the audience sing. Chanyeol said the tour reminded him how happy he is to see fans' faces from the stage and hear his fellow members' voices, and promised they would come back with an even better version of themselves. D.O. called the final night one he would remember for the rest of his life, Kai said he would carry the happiness from the moment through their upcoming activities, and Sehun teased upcoming unit activities with Kai starting from the following week. EXO made its comeback in January with its eighth full-length album, Reverxe, its first release in two years and six months, which became its eighth million-selling album."
       ],
-      "socialCaption": "Five members, 33,000 fans, and a finale seven months in the making. EXO closed EXhOrizon at the KSPO Dome — and EXO-L weren't ready to let the night end.",
+      "socialCaption": "Five members, 33,000 fans, and a finale seven months in the making. EXO closed EXhOrizon at the KSPO Dome, and EXO-L weren't ready to let the night end.",
       "seoDescription": "Five EXO members closed the EXhOrizon tour at Seoul's KSPO Dome, ending a 27-show run across 14 regions.",
       "sourceNote": "Source: Korea JoongAng Daily",
       "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -1377,7 +1409,8 @@
         }
       ],
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #EXO #Concert #Kpop #KpopNews"
     },
     {
       "id": "cbdda035164e",
@@ -1424,7 +1457,8 @@
         }
       ],
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #Taeyeon #Comeback #NewAlbum #Kpop"
     },
     {
       "id": "e4d59cb5795e",
@@ -1450,7 +1484,7 @@
         "The change has deeper roots. Wine was long treated as an imported luxury in Korea, held back by a complicated tax system. When the pandemic kept people home, supermarkets and convenience stores began stocking wine, and younger drinkers started picking up bottles on their way home. Import volume jumped 42.7 percent between 2020 and 2021, and import value climbed 76 percent to 570 million dollars by 2022.",
         "Figures for the first eight months of 2026 already sit above pre-pandemic levels, at around 270 million dollars. The report also credits a wider effect it calls the K-halo: as Korean music, film and food travel further around the world, brands that win over Korean shoppers gain attention far beyond the country."
       ],
-      "socialCaption": "A K-drama star's wine pick sold out in convenience stores — and it's part of a much bigger story about K-pop's halo effect on Korea's wine scene. 🍷",
+      "socialCaption": "A K-drama star's wine pick sold out in convenience stores, and it's part of a much bigger story about K-pop's halo effect on Korea's wine scene. 🍷",
       "seoDescription": "A Drinks Business report shows how celebrity posts and convenience store sales are lifting Korea's wine market, with imports already above pre-pandemic levels in 2026.",
       "sourceNote": "Source: The Drinks Business",
       "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -1467,7 +1501,8 @@
         }
       ],
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #Trending #Kpop #KpopNews #Manila"
     },
     {
       "id": "844e9f844336",
@@ -1499,7 +1534,9 @@
         "type": "hallyuscope_original",
         "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
-      "qualityVersion": 2
+      "qualityVersion": 2,
+      "socialHashtags": "#HallyuScope #Hallyu #Kpop #KpopNews #Manila",
+      "editedAt": "2026-11-10T09:14:23Z"
     },
     {
       "id": "bec70cf51873",
@@ -1525,7 +1562,7 @@
         "The association said it regretted that the newspaper had treated a single contract as evidence of a structural problem across the industry, without acknowledging regulatory progress or the industry's own efforts to improve. It also raised concern that details from a contract at the centre of an ongoing legal dispute had been made public through foreign media, despite confidentiality obligations between the parties.",
         "HYBE and ADOR had already responded to the report, saying the leaked contracts were being used to attack the K-pop industry. The dispute behind it dates back to 2024, when the members announced they were ending their contracts with ADOR; a Seoul court upheld the contracts' validity in October 2025."
       ],
-      "socialCaption": "K-pop's industry body is pushing back on the NYT's NewJeans contract report — saying one group's dispute shouldn't define the whole industry.",
+      "socialCaption": "K-pop's industry body is pushing back on the NYT's NewJeans contract report, saying one group's dispute shouldn't define the whole industry.",
       "seoDescription": "The Korea Popmusic Industry Association says the New York Times report on NewJeans' ADOR contract unfairly turned one dispute into a verdict on the whole K-pop industry.",
       "sourceNote": "Source: 매일경제",
       "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -1550,7 +1587,8 @@
         }
       ],
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #NewJeans #Hallyu #Kpop #KpopNews"
     },
     {
       "id": "7be58e9621e0",
@@ -1570,13 +1608,13 @@
       "headline": "CORTIS Claim Three Top Spotify Spots as ‘REDRED’ Nears 300 Million Streams",
       "dek": "REDRED, GO! and FaSHioN now hold the top three Spotify spots among boy groups that debuted in the past five years.",
       "body": [
-        "CORTIS are not just having a hit — they are holding the entire top three. The five-member group has swept the most-streamed songs on Spotify among boy groups that debuted in the past five years.",
+        "CORTIS are not just having a hit, they are holding the entire top three. The five-member group has swept the most-streamed songs on Spotify among boy groups that debuted in the past five years.",
         "Leading the pack is REDRED, the title track of their second EP, which passed 274 million streams as of November 7, according to figures shared by Big Hit Music. The song is still pulling in more than 800,000 streams a day, putting it on course to pass 300 million before the year is out.",
         "The other two spots belong to songs from the group's debut album. GO! sits in second place with around 266 million streams, while FaSHioN follows in third with about 247 million. Together, the three tracks have racked up roughly 787 million streams, showing that listeners are sticking with the group across more than one song.",
         "REDRED has moved fast from the start. It reached 100 million streams in 57 days and 200 million in 128 days, more than twice as quickly as the group's earlier tracks. It has also topped Spotify's Daily Top Songs Korea chart 121 times, a record for a K-pop group song, and spent 96 days at number one on Apple Music's Top 100 in Korea, the longest run for any song released this year.",
         "The group has also stayed near the top of Melon's monthly chart for five months running. With REDRED still climbing daily, the 300 million milestone looks like a matter of when, not if."
       ],
-      "socialCaption": "Three songs, three top spots. 🎧 CORTIS just swept Spotify's most-streamed ranking for recent boy groups — and REDRED is racing toward 300 million streams.",
+      "socialCaption": "Three songs, three top spots. 🎧 CORTIS just swept Spotify's most-streamed ranking for recent boy groups, and REDRED is racing toward 300 million streams.",
       "seoDescription": "CORTIS hold Spotify's top three spots among recent boy groups as REDRED passes 274 million streams and closes in on 300 million.",
       "sourceNote": "Source: Yahoo",
       "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -1597,7 +1635,8 @@
         }
       ],
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #CORTIS #Hallyu #Kpop #KpopNews"
     },
     {
       "id": "e5cf8f9bc4c7",
@@ -1613,7 +1652,7 @@
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YMXd4UUs4ZmNCMzMzbWJYaThGTEMxSE5vZHJNV3pIN1FmeTh3eGVzUDJ2SFdCYWlvbU8wQ1hwWm5ZZ1ZTcWlTaUpvWXphNXlEMkdUYV9B"
       },
       "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/e5cf8f9bc4c7.svg",
-      "category": "K-DRAMA NEWS",
+      "category": "HALLYU NEWS",
       "headline": "Music Industry Association Rebuts NYT Report on NewJeans Contract",
       "dek": "The association says the NewJeans contract issue should not be framed as a problem with all of K-pop.",
       "body": [
@@ -1648,7 +1687,8 @@
         }
       ],
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #NewJeans #KDrama #Kpop #KpopNews"
     },
     {
       "id": "24bdcd82475a",
@@ -1684,7 +1724,9 @@
         "type": "hallyuscope_original",
         "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
-      "qualityVersion": 2
+      "qualityVersion": 2,
+      "socialHashtags": "#HallyuScope #Hallyu #Kpop #KpopNews #Manila",
+      "editedAt": "2026-11-10T09:14:23Z"
     },
     {
       "id": "79f22014219b",
@@ -1716,7 +1758,9 @@
         "type": "hallyuscope_original",
         "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
-      "qualityVersion": 2
+      "qualityVersion": 2,
+      "socialHashtags": "#HallyuScope #82MAJOR #Hallyu #Kpop #KpopNews",
+      "editedAt": "2026-11-10T09:14:23Z"
     },
     {
       "id": "1dea4dde23f3",
@@ -1742,7 +1786,7 @@
         "Taeyeon kicked off the rollout at midnight on November 9 with a teaser video titled Curtain Raiser, shared across her official social media accounts. A full promotion schedule followed a day later, building toward the November 30 release at 6 p.m. Korean time.",
         "The wait has been a long one for her fans. INVU topped iTunes album charts in 21 regions when it arrived in 2022 and earned her eight wins on television music programmes. Unspecial now gives her a chance to open a new chapter after almost five years away from the full-length format."
       ],
-      "socialCaption": "It's official: Taeyeon is back with a full album. 💿 Unspecial drops November 30 — her first full-length in nearly five years.",
+      "socialCaption": "It's official: Taeyeon is back with a full album. 💿 Unspecial drops November 30, her first full-length in nearly five years.",
       "seoDescription": "Girls' Generation's Taeyeon returns with her fourth solo album Unspecial on November 30, her first full-length album in nearly five years.",
       "sourceNote": "Source: Korea JoongAng Daily",
       "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -1767,7 +1811,8 @@
         }
       ],
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #Taeyeon #Comeback #NewAlbum #Kpop"
     },
     {
       "id": "1215087ad499",
@@ -1795,12 +1840,12 @@
       "dek": "The trio stopped their second night in Bangkok after a storm made the stage too dangerous to continue, with full refunds promised.",
       "body": [
         "BIGBANG's second night in Bangkok ended early on November 8, after a heavy storm forced the group to stop their concert midway through.",
-        "The trio — G-Dragon, Taeyang and Daesung — were performing at Rajamangala National Stadium as part of their XX: Cosmos world tour, which began in Goyang, South Korea, in August. The first night on November 7 went ahead as planned, but the weather turned on the second night, with rain growing heavier and thunder and lightning closing in.",
+        "The trio, G-Dragon, Taeyang and Daesung, were performing at Rajamangala National Stadium as part of their XX: Cosmos world tour, which began in Goyang, South Korea, in August. The first night on November 7 went ahead as planned, but the weather turned on the second night, with rain growing heavier and thunder and lightning closing in.",
         "The members kept performing in the downpour for a time, even as the storm brought down some stage equipment. In the end, they told the crowd that continuing had become too dangerous, bowing to the audience as they apologised for cutting the show short.",
         "The group later said on social media that they were sorry they could not finish the performance, and G-Dragon added that he was disappointed but that everyone's safety came first, promising they would meet fans again. The promoter said tickets for the interrupted show would be refunded in full.",
-        "The tour, which marks the group's 20th anniversary, is set to resume in Hong Kong on November 13. For the Bangkok crowd, the night ended in the rain — but with a promise of a return."
+        "The tour, which marks the group's 20th anniversary, is set to resume in Hong Kong on November 13. For the Bangkok crowd, the night ended in the rain, but with a promise of a return."
       ],
-      "socialCaption": "BIGBANG kept singing in the Bangkok rain — until the storm made it too dangerous to go on. 🌧️ Full refunds are on the way, and the tour picks up in Hong Kong on November 13.",
+      "socialCaption": "BIGBANG kept singing in the Bangkok rain, until the storm made it too dangerous to go on. 🌧️ Full refunds are on the way, and the tour picks up in Hong Kong on November 13.",
       "seoDescription": "BIGBANG cut their second Bangkok show short on November 8 after heavy rain and lightning made the stage unsafe, with full refunds for ticket holders.",
       "sourceNote": "Source: The Straits Times",
       "researchSources": [
@@ -1818,7 +1863,8 @@
         }
       ],
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #BIGBANG #Concert #Kpop #KpopNews"
     },
     {
       "id": "c79fc5b2e50e",
@@ -1838,13 +1884,13 @@
       "headline": "Study Finds Small Agencies Launch 90% of K-Pop Groups",
       "dek": "Small agencies launch nearly nine in ten K-pop groups, but their acts last about half as long as those from the majors.",
       "body": [
-        "Small agencies launch almost every K-pop group — but they rarely get to keep them. A new study of more than 1,100 idol groups has put numbers on a gap the industry has long talked about.",
-        "The study, led by Professor Kim Jung-seop of Sungshin Women's University and published in the Journal of the Korea Entertainment Industry Association, looked at 1,159 groups that debuted between 1996 and 2025. Of those, 1,042 — or 89.9 percent — came from small and mid-sized agencies, while just 117 debuted under the major companies.",
+        "Small agencies launch almost every K-pop group, but they rarely get to keep them. A new study of more than 1,100 idol groups has put numbers on a gap the industry has long talked about.",
+        "The study, led by Professor Kim Jung-seop of Sungshin Women's University and published in the Journal of the Korea Entertainment Industry Association, looked at 1,159 groups that debuted between 1996 and 2025. Of those, 1,042, or 89.9 percent, came from small and mid-sized agencies, while just 117 debuted under the major companies.",
         "The difference shows up in how long groups last. Acts from major agencies stayed active for an average of 7.4 years, more than double the 3.6 years managed by groups from smaller companies. Five years after debut, 65.2 percent of major-agency groups were still active, compared with just 28.7 percent of the rest. After ten years, the figures stood at 49.8 percent against 13.2 percent.",
         "The study counted HYBE, SM, JYP, YG, CJ ENM and Kakao, along with their subsidiaries, as major agencies. It also found that the share of groups selling at least a million copies of a single album was more than 30 times higher for major-agency acts.",
         "Kim proposed ten policy measures to help smaller agencies, including investment funds tied to intellectual property, digital marketing support and help with overseas showcases. The message of the study is that the industry needs support for keeping groups alive after debut, not just for launching new ones."
       ],
-      "socialCaption": "Small agencies launch 90% of K-pop groups — but most of those groups don't survive. A new study shows just how wide the gap really is.",
+      "socialCaption": "Small agencies launch 90% of K-pop groups, but most of those groups don't survive. A new study shows just how wide the gap really is.",
       "seoDescription": "A study of 1,159 K-pop groups finds small agencies launch 89.9% of them, but their acts stay active about half as long as groups from major companies.",
       "sourceNote": "Source: The Korea Herald",
       "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -1869,7 +1915,8 @@
         }
       ],
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #Hallyu #Kpop #KpopNews #Manila"
     },
     {
       "id": "c13f1d8e4541",
@@ -1895,13 +1942,13 @@
       "headline": "ENHYPEN to Make Three Comebacks in One Year",
       "dek": "The November single THE SIN : PARALLEL WORLD closes out a year that already took ENHYPEN to the top of the Billboard 200.",
       "body": [
-        "ENHYPEN are closing out the year the way they started it — with new music. The group will release a spin-off single, THE SIN : PARALLEL WORLD, on November 20, completing a year with three comebacks.",
+        "ENHYPEN are closing out the year the way they started it, with new music. The group will release a spin-off single, THE SIN : PARALLEL WORLD, on November 20, completing a year with three comebacks.",
         "The new single follows their seventh EP, THE SIN : VANISH, in January, and their eighth, THE SIN : BLISS, in August. It also serves as the finale to the THE SIN series, which has run through all three releases this year.",
         "The music video for the title track, I Want You, will be unveiled on November 13, a week ahead of the release. The single is built as a thank-you to ENGENE, the group's fandom, with the label BELIFT LAB saying it reflects the members' wish to show gratitude for their fans' support through a year of milestones.",
         "It has been a big year by any measure. Both EPs passed two million copies in first-week sales, and the group reached number one on Billboard's Artist 100 with the seventh EP before topping the Billboard 200 with the eighth, their first time at the summit of the main albums chart.",
         "The group is now a six-member lineup after Heeseung, now known as EVAN, left in March, and they have kept up a packed schedule, including their BLOOD SAGA world tour. The November single gives them one more chapter to close out a year that has already taken them to the top of the charts."
       ],
-      "socialCaption": "Three comebacks in one year. 🔥 ENHYPEN close out 2026 with THE SIN : PARALLEL WORLD on November 20 — and the I Want You MV drops November 13.",
+      "socialCaption": "Three comebacks in one year. 🔥 ENHYPEN close out 2026 with THE SIN : PARALLEL WORLD on November 20, and the I Want You MV drops November 13.",
       "seoDescription": "ENHYPEN will release spin-off single THE SIN : PARALLEL WORLD on November 20, their third comeback of 2026 and the finale of the THE SIN series.",
       "sourceNote": "Source: The Korea Times",
       "qualityVersion": 3,
@@ -1916,7 +1963,8 @@
         }
       ],
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #ENHYPEN #Comeback #Kpop #KpopNews"
     },
     {
       "id": "7f1117e35f59",
@@ -1934,7 +1982,7 @@
       "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/7f1117e35f59.svg",
       "category": "COMEBACK NEWS",
       "headline": "Character Media Highlights Four November K-Pop Releases With Big Ideas",
-      "dek": "Four November releases stand out because each one is built around a clear idea — a hero saga, a lore-heavy storm, a vampire finale and an EP about anxiety.",
+      "dek": "Four November releases stand out because each one is built around a clear idea, a hero saga, a lore-heavy storm, a vampire finale and an EP about anxiety.",
       "body": [
         "November is shaping up to be a month where the story behind the music matters as much as the songs themselves. Character Media has picked out four releases that stand out because each one is built around a clear idea, from a hero saga to a record about anxiety.",
         "P1Harmony open the month with their tenth mini album, BLOW UP, which arrived on November 6. The group return as heroes in a storyline that continues from their earlier albums UNIQUE and DUH!, giving longtime fans a new chapter instead of a fresh start. It is also their first comeback in eight months.",
@@ -1943,7 +1991,7 @@
         "Yves rounds out the same day with her fifth EP, Cute & Anxiety, a record whose title pairs two feelings that rarely sit together. Two pre-release tracks arrived on October 27: Hysteric, built on a dark house groove, and Adam, which leans more experimental and spacey."
       ],
       "socialCaption": "November's K-pop calendar is packed, but these four releases stand out for the stories behind them. Which one are you most excited for?",
-      "seoDescription": "Character Media spotlights four November 2026 K-pop releases — P1Harmony, TOMORROW X TOGETHER, ENHYPEN and Yves — where the concept does the heavy lifting.",
+      "seoDescription": "Character Media spotlights four November 2026 K-pop releases, P1Harmony, TOMORROW X TOGETHER, ENHYPEN and Yves, where the concept does the heavy lifting.",
       "sourceNote": "Source: Character Media",
       "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageType": "hallyuscope_original",
@@ -1959,7 +2007,8 @@
         }
       ],
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #Comeback #Kpop #KpopNews #Manila"
     },
     {
       "id": "511d08572eba",
@@ -1990,7 +2039,7 @@
         "Fans had already heard the song before it had a name. GIRLSET performed it live and unreleased at a festival in October, and the trailer leans into the same carefree mood, with late-night footage of the members dancing outdoors under the lights.",
         "The release comes nearly six months after the group's most recent comeback, the July single 'CHAT,' and follows a collaboration single with American singer Kylie Cantrall, 'Glown Up.' GIRLSET debuted under JYP in August 2025, after previously promoting as VCHA, and have built a run of catchy singles including 'Commas,' 'Tweak' and 'Little Miss.'"
       ],
-      "socialCaption": "GIRLSET's \"young & dumb\" is out November 13 — and the trailer is here. Ready to sing along?",
+      "socialCaption": "GIRLSET's \"young & dumb\" is out November 13, and the trailer is here. Ready to sing along?",
       "seoDescription": "GIRLSET have dropped a music video trailer for their new digital single \"young & dumb,\" out November 13 at midnight KST.",
       "sourceNote": "Source: JYP Entertainment",
       "researchSources": [
@@ -2005,7 +2054,8 @@
       ],
       "qualityVersion": 3,
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #GIRLSET #Comeback #MusicVideo #Kpop"
     },
     {
       "id": "957376a0ec70",
@@ -2035,9 +2085,9 @@
         "The film was shot during the group's sold-out run at London's O2 Arena, pairing full live performances with behind-the-scenes moments that fans have not seen before. It will screen in cinemas around the world, including IMAX locations, giving fans a front-row seat to the tour without leaving their city.",
         "The release is a team effort between Universal Pictures Content Group and Crosswalk, the event cinema division of Bleecker Street, with Live Nation Studios producing. It follows the same partnership's earlier success with Stray Kids: The dominATE Experience, and director Paul Dugdale returns to helm the project.",
         "The film takes its name from the This Is For world tour, which began in Incheon in July 2025 and ran for 81 dates before closing in Seoul a year later. The tour supported the album This Is For, which topped South Korea's Circle Album Chart and reached the top ten of the US Billboard 200.",
-        "For a group that debuted through JYP Entertainment in 2015 and has since become one of K-pop's biggest names, the film is a chance to relive a tour that spanned a full year — and for fans who missed it live, the closest thing to being there."
+        "For a group that debuted through JYP Entertainment in 2015 and has since become one of K-pop's biggest names, the film is a chance to relive a tour that spanned a full year, and for fans who missed it live, the closest thing to being there."
       ],
-      "socialCaption": "ONCE, mark your calendars — TWICE's This Is For world tour is coming to the big screen on February 5, 2027. Who's watching in cinemas?",
+      "socialCaption": "ONCE, mark your calendars, TWICE's This Is For world tour is coming to the big screen on February 5, 2027. Who's watching in cinemas?",
       "seoDescription": "TWICE: This Is For… You, a concert film shot at London's O2 Arena, hits cinemas worldwide on February 5, 2027.",
       "sourceNote": "Source: Contactmusic.com",
       "researchSources": [
@@ -2052,7 +2102,8 @@
       ],
       "qualityVersion": 3,
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #TWICE #Concert #Film #Kpop"
     },
     {
       "id": "6108bece0261",
@@ -2084,7 +2135,7 @@
         "The debut comes about seven years after Chaeryeong first appeared with ITZY in February 2019, where she became known for her steady live vocals and a dance style all her own. She is the third member of the group to release a solo album, following Yeji and Yuna.",
         "The album and the music video for the title track go live together at 6 p.m. KST on November 9, with the countdown live setting the scene an hour earlier. An English version of the title song is set to follow on November 13."
       ],
-      "socialCaption": "MIDZY, the countdown is on — Chaeryeong goes live at 5 p.m. KST on November 9, one hour before Lovesick drops. Will you be watching?",
+      "socialCaption": "MIDZY, the countdown is on, Chaeryeong goes live at 5 p.m. KST on November 9, one hour before Lovesick drops. Will you be watching?",
       "seoDescription": "ITZY's Chaeryeong hosts a countdown live at 5 p.m. KST on November 9, an hour before her solo debut mini album Lovesick arrives.",
       "sourceNote": "Source: JYP Entertainment",
       "researchSources": [
@@ -2099,7 +2150,8 @@
       ],
       "qualityVersion": 3,
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #Chaeryeong #JYP #Hallyu #Kpop"
     },
     {
       "id": "71befc2ad8c0",
@@ -2131,7 +2183,7 @@
         "The debut arrives about seven years after Chaeryeong first stepped out with ITZY in February 2019. In that time she has become known for her steady live vocals and a distinctive dance line, qualities that now carry her first solo release.",
         "She is the third ITZY member to go solo, following Yeji and Yuna, and the video is the centrepiece of the launch: the album, the title track and its music video all land at the same moment, with a countdown live one hour earlier to bring fans along for it."
       ],
-      "socialCaption": "Chaeryeong's solo era starts now — the \"Lovesick\" music video drops November 9 at 6 p.m. KST. MIDZY, are you ready?",
+      "socialCaption": "Chaeryeong's solo era starts now, the \"Lovesick\" music video drops November 9 at 6 p.m. KST. MIDZY, are you ready?",
       "seoDescription": "Chaeryeong's \"Lovesick\" music video drops with her first solo mini album on November 9 at 6 p.m. KST.",
       "sourceNote": "Source: JYP Entertainment",
       "researchSources": [
@@ -2146,7 +2198,8 @@
       ],
       "qualityVersion": 3,
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #Chaeryeong #JYP #Hallyu #MusicVideo"
     },
     {
       "id": "9f2e3ffcadfa",
@@ -2174,7 +2227,7 @@
       "body": [
         "PLAVE’s new mini album “HYPERDRIVE” has opened at No. 1 on Billboard’s World Albums chart for the week ending October 31. The release also gave PLAVE its first top 40 entry on the Billboard 200.",
         "Stray Kids placed three albums on the World Albums chart. “THIS & THAT” ranked No. 2 in its 11th week, while “KARMA” came in at No. 8 in its 58th week and “DO IT” reached No. 18 in its 40th. “THIS & THAT” also spent its 11th week on the Billboard 200, at No. 93.",
-        "CORTIS held No. 3 with “GREENGREEN,” now in its 25th week, and took No. 20 with debut EP “COLOR OUTSIDE THE LINES.” ENHYPEN’s “THE SIN : BLISS” remained at No. 4, followed by TWICE’s live album “THIS IS FOR: WORLD TOUR FINALE in SEOUL – LIVE,” which debuted at No. 5.",
+        "CORTIS held No. 3 with “GREENGREEN,” now in its 25th week, and took No. 20 with debut EP “COLOR OUTSIDE THE LINES.” ENHYPEN’s “THE SIN : BLISS” remained at No. 4, followed by TWICE’s live album “THIS IS FOR: WORLD TOUR FINALE in SEOUL - LIVE,” which debuted at No. 5.",
         "Elsewhere, ILLIT’s “MAMIHLAPINATAPAI” rose to No. 7, BTS’s “Map of the Soul: 7 ~The Journey~” ranked No. 11 and BOYNEXTDOOR’s “HOME” placed No. 12. EVAN (Heeseung)’s “DEATH OF ME” climbed to No. 14.",
         "ATEEZ’s “GOLDEN HOUR : Part.5” held No. 15, while NewJeans’ “Get Up” rose to No. 17 in its 163rd week. LE SSERAFIM’s “PUREFLOW” ranked No. 19, and aespa’s “LEMONADE” came in at No. 25."
       ],
@@ -2186,7 +2239,7 @@
         "facebook": true,
         "instagram": true
       },
-      "editedAt": "2026-11-10T03:10:06.499Z",
+      "editedAt": "2026-11-10T09:14:23Z",
       "socialStatus": "published",
       "socialPublishedAt": "2026-11-10T03:35:35.135Z",
       "socialPublishResult": {
@@ -2199,7 +2252,8 @@
           "id": "17953494654281607"
         }
       },
-      "reviewedAt": "2026-11-10T03:10:15.581Z"
+      "reviewedAt": "2026-11-10T03:10:15.581Z",
+      "socialHashtags": "#HallyuScope #PLAVE #Comeback #NewAlbum #Kpop"
     },
     {
       "id": "384efcfae14b",
@@ -2225,7 +2279,7 @@
         "The approach is deliberately evidence-based. Rather than simply copying RM's habits, students are asked to weigh what research actually shows about each practice, including how much sleep people need and whether naps help. Their final project takes its inspiration from RM's 2022 solo album, Indigo.",
         "The course arrives months after BTS played sold-out shows at Stanford Stadium in May 2026, a visit that also led to a separate summer K-pop course through Stanford Continuing Studies."
       ],
-      "socialCaption": "Stanford is now teaching a course on \"Namjooning\" — RM's museum visits, bike rides and slow mornings, studied through real science. ARMY, would you enroll?",
+      "socialCaption": "Stanford is now teaching a course on \"Namjooning\", RM's museum visits, bike rides and slow mornings, studied through real science. ARMY, would you enroll?",
       "seoDescription": "Stanford University's new freshman seminar, PSYC 65N, explores mental health and well-being through \"Namjooning,\" inspired by BTS leader RM.",
       "sourceNote": "Source: Facebook",
       "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -2246,7 +2300,8 @@
       ],
       "qualityVersion": 3,
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #BTS #Hallyu #Kpop #KpopNews"
     },
     {
       "id": "9822876a266a",
@@ -2290,7 +2345,9 @@
         "facebook": true,
         "instagram": true
       },
-      "reviewedAt": "2026-11-10T01:57:28.549Z"
+      "reviewedAt": "2026-11-10T01:57:28.549Z",
+      "socialHashtags": "#HallyuScope #Hallyu #Kpop #KpopNews #Manila",
+      "editedAt": "2026-11-10T09:14:23Z"
     },
     {
       "id": "f951d606febc",
@@ -2316,7 +2373,7 @@
         "'Darling' is D.O.'s first new music in about two months, following his fourth EP, Dopamine, which came out in September. The singer, who also records and acts under his full name, Doh Kyung-soo, debuted with EXO in 2012 and has since built a solo catalogue including 'I'm Gonna Love You,' 'I Do' and 'Mars.'",
         "The single lands while D.O. is on the road for his 2026-2027 'Day Off' Asia tour. He wrapped his Seoul and Macau shows in late October and will continue through Bangkok, Jakarta, Singapore, Hong Kong, Manila, Tokyo, Taipei and Kaohsiung into March next year."
       ],
-      "socialCaption": "D.O. is back — \"Darling\" drops Wednesday, November 11 at 6 p.m. KST. EXO-L, are you ready for this one?",
+      "socialCaption": "D.O. is back, \"Darling\" drops Wednesday, November 11 at 6 p.m. KST. EXO-L, are you ready for this one?",
       "seoDescription": "EXO's D.O. releases the digital single \"Darling\" on Wednesday, November 11 at 6 p.m. KST, his first new music since Dopamine.",
       "sourceNote": "Source: Korea JoongAng Daily",
       "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -2337,7 +2394,8 @@
       ],
       "qualityVersion": 3,
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #EXO #DO #Comeback #NewSingle"
     },
     {
       "id": "1e1350c58bb7",
@@ -2357,13 +2415,13 @@
       "headline": "Play Ph Addresses Reactions to Viral ‘Crush Kita’ Performance",
       "dek": "P-pop boy group Play Ph spoke about the mixed reactions to their viral \"Crush Kita\" performance, saying they are using the criticism as motivation.",
       "body": [
-        "P-pop boy group Play Ph have broken their silence on the viral performance that put them in the spotlight. The six-member group — Travis, Gab, James, Kenji, Wesley and Sean — addressed the mixed reactions to their performance of 'Crush Kita' during an appearance on GMA's Unang Hirit.",
-        "Play Ph first performed the song on the October 28 episode of PTV's morning show Rise and Shine Pilipinas. Clips of the performance spread quickly online, drawing criticism of the members' vocals, choreography and coordination, while one lyric — 'Kaya mo 'yan, kaya ko ba, kaya ko na' — was turned into memes about everyday struggles.",
+        "P-pop boy group Play Ph have broken their silence on the viral performance that put them in the spotlight. The six-member group, Travis, Gab, James, Kenji, Wesley and Sean, addressed the mixed reactions to their performance of 'Crush Kita' during an appearance on GMA's Unang Hirit.",
+        "Play Ph first performed the song on the October 28 episode of PTV's morning show Rise and Shine Pilipinas. Clips of the performance spread quickly online, drawing criticism of the members' vocals, choreography and coordination, while one lyric, 'Kaya mo 'yan, kaya ko ba, kaya ko na', was turned into memes about everyday struggles.",
         "Speaking on Unang Hirit, Gab admitted the group had mixed feelings about going viral. The attention was welcome, he said, but it also brought a wave of critical comments. Rather than dwell on them, the members said they are treating the criticism as motivation to improve.",
         "The group also gave some context for the performance: it was their first time singing live on television, and some members were feeling unwell at the time. They have not officially debuted yet, having trained for about three months, with a debut planned for around January 12.",
-        "Their Unang Hirit appearance gave them a second chance. After warming up with vocal exercises for the hosts, they performed 'Crush Kita' again, this time to a much warmer reception — and Kenji took a moment to thank even the critics, saying they were teaching the group how to stay humble."
+        "Their Unang Hirit appearance gave them a second chance. After warming up with vocal exercises for the hosts, they performed 'Crush Kita' again, this time to a much warmer reception, and Kenji took a moment to thank even the critics, saying they were teaching the group how to stay humble."
       ],
-      "socialCaption": "Play Ph finally spoke up about their viral \"Crush Kita\" performance — and they came back to Unang Hirit with an improved version. What did you think of the second take?",
+      "socialCaption": "Play Ph finally spoke up about their viral \"Crush Kita\" performance, and they came back to Unang Hirit with an improved version. What did you think of the second take?",
       "seoDescription": "Play Ph addressed the mixed reactions to their viral \"Crush Kita\" performance on Unang Hirit, saying they are taking the criticism as motivation to improve.",
       "sourceNote": "Source: Facebook",
       "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -2380,7 +2438,8 @@
       ],
       "qualityVersion": 3,
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #PlayPh #Trending #Kpop #KpopNews"
     },
     {
       "id": "1cecc7a22fd8",
@@ -2400,11 +2459,11 @@
       "headline": "EXO Close Tour With a Hit-Filled Finale",
       "dek": "EXO closed their sixth tour with a 32-song finale at Seoul's KSPO Dome, drawing around 33,000 fans across three sold-out nights.",
       "body": [
-        "Fourteen years into their career, EXO closed their sixth tour the way they built their name: with a long night of hits. The finale of EXO PLANET #6 — EXhOrizon [dot] took place on Sunday at the KSPO Dome in Seoul, with Suho, Chanyeol, D.O., Kai and Sehun on stage for a 32-song set spanning the group's career.",
+        "Fourteen years into their career, EXO closed their sixth tour the way they built their name: with a long night of hits. The finale of EXO PLANET #6, EXhOrizon [dot] took place on Sunday at the KSPO Dome in Seoul, with Suho, Chanyeol, D.O., Kai and Sehun on stage for a 32-song set spanning the group's career.",
         "The tour began in April and covered 14 cities across 27 shows before returning home for the encore run, which drew around 33,000 fans across three sold-out nights, including restricted-view seats.",
         "The closing show opened with 'Crown' and 'Suffocate' from the group's latest album, Reverxe, alongside their 2016 hit 'Monster,' and the members held their live vocals steady through demanding choreography for about three hours. The loudest moments came with longtime favourites including 'The Eve,' 'Love Shot,' 'Tempo,' 'Lotto,' 'Ko Ko Bop' and 'Call Me Baby.'",
         "The set moved between moods, from softer songs like 'Moonlight Shadows' and '24/7' to a signature EDM medley of 'Lucky One,' 'Power,' 'Don't Fight the Feeling' and 'Run,' then a winter medley of 'Sing for You,' 'For Life,' 'Universe' and 'The First Snow,' before closing out with early hits 'History,' 'Love Me Right' and 'Growl.'",
-        "As the night wound down, the members hinted at what comes next. Sehun teased an upcoming unit project with Kai, while Suho promised EXO would return with new music and performances as soon as possible — and D.O. is already keeping that promise, with his digital single 'Darling' due on Wednesday."
+        "As the night wound down, the members hinted at what comes next. Sehun teased an upcoming unit project with Kai, while Suho promised EXO would return with new music and performances as soon as possible, and D.O. is already keeping that promise, with his digital single 'Darling' due on Wednesday."
       ],
       "socialCaption": "EXO closed their sixth tour with 32 songs, three sold-out nights and a promise of more to come. EXO-L, which moment from the finale was your favourite?",
       "seoDescription": "EXO wrapped their sixth tour with a hit-packed 32-song finale at Seoul's KSPO Dome, closing a run of 27 shows across 14 cities.",
@@ -2423,7 +2482,8 @@
       ],
       "qualityVersion": 3,
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #EXO #Concert #Kpop #KpopNews"
     },
     {
       "id": "e6b521706d0f",
@@ -2459,7 +2519,9 @@
       "imagePolicy": {
         "type": "hallyuscope_original",
         "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
-      }
+      },
+      "socialHashtags": "#HallyuScope #KDrama #Kpop #KpopNews #Manila",
+      "editedAt": "2026-11-10T09:14:23Z"
     },
     {
       "id": "8777f1471e7f",
@@ -2483,9 +2545,9 @@
         "IVE follow at No. 2 with 'LOOKS CAN KILL,' while AND2BLE take third place with 'French Kissing.' A2O LITE's 'NEON' is at No. 4, and RIIZE's 'Insomnia' rounds out the top five.",
         "The rest of the top ten is a mix of established names and rising acts. SOYEON's 'I'm gonna TOESA' sits at No. 6, ahead of RESCENE's 'LOVE ATTACK' at No. 7 and NMIXX's 'Birthday Wish' at No. 8.",
         "ILLIT appear twice in the chart: alongside their No. 1, 'It's Me' holds the No. 9 spot. ATEEZ close out the top ten with 'BAD' at No. 10.",
-        "The ranking lines up with the week's Music Bank K-Chart, where 'You're Under Arrest' also took the top spot. For fans tracking the month's releases, the chart is a snapshot of a busy November — and a reminder that the newest songs are already making their mark."
+        "The ranking lines up with the week's Music Bank K-Chart, where 'You're Under Arrest' also took the top spot. For fans tracking the month's releases, the chart is a snapshot of a busy November, and a reminder that the newest songs are already making their mark."
       ],
-      "socialCaption": "The first K-pop top ten of November is here — ILLIT take No. 1 (and No. 9!) with \"You're Under Arrest.\" Did your fave make the list?",
+      "socialCaption": "The first K-pop top ten of November is here, ILLIT take No. 1 (and No. 9!) with \"You're Under Arrest.\" Did your fave make the list?",
       "seoDescription": "ILLIT's \"You're Under Arrest\" leads KBS WORLD Radio's K-pop top ten for the first week of November 2026, ahead of IVE, AND2BLE and A2O LITE.",
       "sourceNote": "Source: KBS WORLD Radio",
       "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -2506,7 +2568,8 @@
       ],
       "qualityVersion": 3,
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #Trending #Kpop #KpopNews #Manila"
     },
     {
       "id": "864eecd51b8d",
@@ -2532,7 +2595,7 @@
         "The Heo Young-saeng fan said they had spent about six months preparing a birthday cafe event at their own expense and had asked the agency in advance whether he could visit. According to the fan, the agency replied that it would be difficult for him to visit only one particular cafe. The fan said Heo then rented a separate venue to meet supporters on his birthday and mentioned the birthday cafe during that gathering in a way that left them feeling embarrassed and dismissed.",
         "Other fans offered a different version of events, sharing a video of Heo attending a cafe gathering after returning from Japan and finishing dance practice. The two closures have sparked wide online discussion, with many sympathising with the exhausted fans while others debated how the situations were handled. The episode is a reminder that fan loyalty is not unconditional, and that long years of support still need honest communication and mutual respect in return."
       ],
-      "socialCaption": "Two veteran fan pages closed in the same week after decades of support. Here's what T.O.P and Heo Young-saeng's longtime fans said went wrong — and how both artists responded.",
+      "socialCaption": "Two veteran fan pages closed in the same week after decades of support. Here's what T.O.P and Heo Young-saeng's longtime fans said went wrong, and how both artists responded.",
       "seoDescription": "Two longtime fan pages for T.O.P and Heo Young-saeng closed after 20 and 16 years, both citing poor communication and a feeling that their devotion was taken for granted.",
       "sourceNote": "Source: The Korea Times",
       "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -2549,7 +2612,8 @@
       ],
       "qualityVersion": 3,
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #Hallyu #Kpop #KpopNews #Manila"
     },
     {
       "id": "761fd222c466",
@@ -2575,7 +2639,7 @@
         "Jisoo is the third BLACKPINK member to sign with WME. Lisa joined the agency in September 2025 for film and television work, while Rosé signed that December for representation across all areas of her music career.",
         "The signing comes as Jisoo prepares her first full-length solo album. She has already released two songs ahead of it, with the first arriving on September 4 and the second, ADDICTED, following on October 30. According to Blissoo, ADDICTED reached No. 1 on iTunes Top Songs charts in 28 regions. The album's title and release date have not been announced yet. Jisoo debuted with BLACKPINK in 2016 and launched her solo career in 2023, and she has also built an acting career, starring in the 2025 series Newtopia and film Omniscient Reader: The Prophecy."
       ],
-      "socialCaption": "Jisoo is going global with WME — while keeping Blissoo, Warner Records and YG in place. Here's what the deal covers, and where her first solo album stands.",
+      "socialCaption": "Jisoo is going global with WME, while keeping Blissoo, Warner Records and YG in place. Here's what the deal covers, and where her first solo album stands.",
       "seoDescription": "BLACKPINK's Jisoo has signed with Hollywood agency WME for worldwide representation as she prepares her first full-length solo album.",
       "sourceNote": "Source: The Korea Times",
       "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -2596,7 +2660,8 @@
       ],
       "qualityVersion": 3,
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #BLACKPINK #Jisoo #Hallyu #Kpop"
     },
     {
       "id": "64c096daa560",
@@ -2614,7 +2679,7 @@
       "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/64c096daa560.svg",
       "category": "HALLYU NEWS",
       "headline": "BTS’ RM Inspires Stanford Course on Well-Being",
-      "dek": "Stanford's new freshman seminar turns RM's everyday habits — museums, books, bike rides and time in nature — into a serious study of mental health.",
+      "dek": "Stanford's new freshman seminar turns RM's everyday habits, museums, books, bike rides and time in nature, into a serious study of mental health.",
       "body": [
         "BTS leader RM has inspired a new course at Stanford University, where students are studying well-being through the everyday habits he is known for. The three-unit freshman seminar is titled Namjooning, and Other Well-Being Inspiration from BTS, and it runs through Stanford's Department of Psychiatry and Behavioral Sciences for the fall 2026 semester.",
         "Namjooning is a term coined by fans from RM's Korean name, Kim Namjoon. It describes the slower, more reflective activities he enjoys, including visiting museums, reading, cycling and spending time in nature. Rather than focusing on his music or career, the course uses those habits as a starting point for questions about mental health.",
@@ -2647,7 +2712,8 @@
       ],
       "qualityVersion": 3,
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #BTS #Hallyu #Kpop #KpopNews"
     },
     {
       "id": "454a9e9230f2",
@@ -2680,7 +2746,9 @@
         "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
       "reviewedAt": "2026-11-09T13:10:42.877Z",
-      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09121124/sbs-gayo-daejeon-mc.png"
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09121124/sbs-gayo-daejeon-mc.png",
+      "socialHashtags": "#HallyuScope #Hallyu #Kpop #KpopNews #Manila",
+      "editedAt": "2026-11-10T09:14:23Z"
     },
     {
       "id": "f4aa8a7f60fc",
@@ -2698,7 +2766,7 @@
       "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/f4aa8a7f60fc.svg",
       "category": "COMEBACK NEWS",
       "headline": "RESCENE and Disney’s ‘Hexed’ Unveil ‘With’ Music Video Teaser",
-      "dek": "RESCENE teased the music video for \"With\" days before the song topped the Melon chart — and Disney then picked it to close out its new film Hexed.",
+      "dek": "RESCENE teased the music video for \"With\" days before the song topped the Melon chart, and Disney then picked it to close out its new film Hexed.",
       "body": [
         "RESCENE raised anticipation for their comeback by unveiling a music video teaser for their new title track, With, through the group's official social media at 6 p.m. on October 30. The preview opens with the five members enjoying a free-spirited moment on a dark stage as confetti falls around them, with bright lighting cutting through the darkness.",
         "The teaser then shows the group running powerfully toward somewhere, alongside an unidentified presence. The soaring melody heard in that moment blends with the members' footsteps, giving the preview a sense of excitement and forward motion. The scenes of the group sharing time on stage and running together were designed to reflect the song's message of connection and companionship.",
@@ -2731,7 +2799,8 @@
       ],
       "qualityVersion": 3,
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #RESCENE #Comeback #Teaser #MusicVideo"
     },
     {
       "id": "24d4348bf33a",
@@ -2757,7 +2826,7 @@
         "Wendy debuted as a member of Red Velvet in 2014 with Happiness under SM Entertainment. She launched her solo career with the EP Like Water in 2021, followed by Wish You Hell in 2024.",
         "The singer joined her current agency, ASND, last year after signing an exclusive contract. The agency is also home to girl group fromis_9, and Gleam Hour will be her first solo EP under the new label setup since that move."
       ],
-      "socialCaption": "Wendy is back. Her fourth solo EP \"Gleam Hour\" drops November 23 — here's the full rollout, from preorders to the fan listening session the day before.",
+      "socialCaption": "Wendy is back. Her fourth solo EP \"Gleam Hour\" drops November 23, here's the full rollout, from preorders to the fan listening session the day before.",
       "seoDescription": "Red Velvet's Wendy will release her fourth solo EP, \"Gleam Hour,\" on November 23, her first new music since \"Cerulean Verge\" in September 2025.",
       "sourceNote": "Source: Korea JoongAng Daily",
       "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -2778,7 +2847,8 @@
       ],
       "qualityVersion": 3,
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #Wendy #Comeback #Kpop #KpopNews"
     },
     {
       "id": "f22b93958fea",
@@ -2796,7 +2866,7 @@
       "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/f22b93958fea.svg",
       "category": "HALLYU NEWS",
       "headline": "Stanford Offers ‘Namjooning’ Course Inspired by BTS’ RM",
-      "dek": "A Stanford psychology seminar is putting RM's approach to slowing down under a scientific microscope — and asking students to test it, not just admire it.",
+      "dek": "A Stanford psychology seminar is putting RM's approach to slowing down under a scientific microscope, and asking students to test it, not just admire it.",
       "body": [
         "Stanford University is offering an undergraduate course inspired by Kim Namjoon, better known as RM, the leader of BTS. Listed as PSYC 65N and titled Namjooning, and Other Well-Being Inspiration from BTS, the three-unit seminar is open to first-year students and runs in the autumn 2026 term, from September 22 to December 4.",
         "The class takes its name from Namjooning, a fan-created term for the way RM recharges: visiting art museums, reading, cycling, journaling and spending time in nature. Stanford describes RM as someone frequently quoted for his approaches to mental health and well-being, and the course uses those habits as its entry point rather than his music.",
@@ -2804,7 +2874,7 @@
         "The syllabus covers nature, biking, art and literature, alongside sleep, anxiety and creative blocks, self-love and self-awareness, diet, exercise, nutritional supplements, psychotherapy and coaching. Assignments include short presentations and brief writing work, and the capstone is a final project inspired by Indigo, RM's 2022 solo album.",
         "The class is led by James R. Jacobs, an associate professor of psychiatry and behavioral sciences who also serves as Stanford's associate vice provost for health and well-being. Its prerequisites are memorable in themselves: students need a desire to flourish at Stanford and in life, an appetite for data, and a healthy respect for BTS."
       ],
-      "socialCaption": "Stanford turned Namjooning into a real psychology seminar — museums, bike rides and books included, with the science to back it up. Here's what students actually study.",
+      "socialCaption": "Stanford turned Namjooning into a real psychology seminar, museums, bike rides and books included, with the science to back it up. Here's what students actually study.",
       "seoDescription": "Stanford's PSYC 65N seminar, \"Namjooning, and Other Well-Being Inspiration from BTS,\" tests RM's everyday habits against scientific research on mental health.",
       "sourceNote": "Source: Facebook",
       "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -2829,7 +2899,8 @@
       ],
       "qualityVersion": 3,
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #BTS #Hallyu #Kpop #KpopNews"
     },
     {
       "id": "78c532874de0",
@@ -2855,7 +2926,7 @@
         "For a concert film, a top-ten finish in a general box office chart is a notable result, since these releases compete directly against major new films rather than in a separate category. The No. 8 placing puts Stray Kids alongside the weekend's biggest theatrical titles in Australia, not just among music releases.",
         "The showing adds to a strong year for K-pop on the big screen in Australia, where concert films have become a regular way for fans to experience tours they could not attend in person. With the film's opening weekend now counted, Australian STAYs helped push a live performance into the country's top ten."
       ],
-      "socialCaption": "STAYs did that. Stray Kids' RUN IT Live Viewing just cracked the Australian box office top 10 at No. 8 — here's the full weekend chart.",
+      "socialCaption": "STAYs did that. Stray Kids' RUN IT Live Viewing just cracked the Australian box office top 10 at No. 8, here's the full weekend chart.",
       "seoDescription": "Stray Kids' concert film \"Stray Kids World Tour RUN IT Live Viewing\" reached No. 8 at the Australian box office with $387,057 in its opening weekend.",
       "sourceNote": "Source: Rolling Stone Australia",
       "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -2880,7 +2951,8 @@
       ],
       "qualityVersion": 3,
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #StrayKids #Concert #Film #Kpop"
     },
     {
       "id": "0405ba86440b",
@@ -2898,7 +2970,7 @@
       "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/0405ba86440b.svg",
       "category": "HALLYU NEWS",
       "headline": "JYP Boy Band oftheblue Set to Debut Next Year",
-      "dek": "JYP's SQU4D division is launching its first boy group, oftheblue, in 2027 — teased so far with a QR code, a crossword and an 18-sound mixer.",
+      "dek": "JYP's SQU4D division is launching its first boy group, oftheblue, in 2027, teased so far with a QR code, a crossword and an 18-sound mixer.",
       "body": [
         "JYP Entertainment has confirmed it will debut a new boy band, oftheblue, next year. The company announced the plan on November 9, with the group set to launch in 2027 under SQU4D, the JYP division behind girl group NMIXX.",
         "The debut makes oftheblue the first boy group from SQU4D, and JYP's first new boy group in two years since KickFlip debuted in 2025. SQU4D was set up around Lee Ji-young, JYP's first female inside director, and introduced its first act, NMIXX, in February 2022. The new group is described as the product of the producing and management approach that helped establish NMIXX.",
@@ -2906,7 +2978,7 @@
         "Promotion is already running, and it leans heavily on mystery. SQU4D opened oftheblue's official social media accounts at midnight KST on November 6 with two images: a portrait with a QR code covering the face, and a crossword with the English words BLIND and BLUE filled in. A group logo followed on November 7, with a flyer-style image on November 8.",
         "The QR code leads to a promotional website filled with sky, sunset, field and tidal-shore scenes, along with city objects such as a camcorder, an MP3 player and earphones. The site also includes film photos the members shot around Seoul and a digital mixer with 18 everyday sounds, including footsteps on sand, that visitors can layer into their own mix. The lineup and exact debut date have not been announced, and the four men visible on the promotional site have fuelled fan guesses about a four-member lineup, but no official member count has been given."
       ],
-      "socialCaption": "JYP has a new boy group coming — oftheblue, debuting in 2027. So far we've got a QR code, a crossword and a sound mixer. Here's what we know.",
+      "socialCaption": "JYP has a new boy group coming, oftheblue, debuting in 2027. So far we've got a QR code, a crossword and a sound mixer. Here's what we know.",
       "seoDescription": "JYP Entertainment will debut new boy group oftheblue in 2027 under SQU4D, the division behind NMIXX, with teaser content already running on the group's official channels.",
       "sourceNote": "Source: The Korea Times",
       "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -2931,7 +3003,8 @@
       ],
       "qualityVersion": 3,
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #JYP #Hallyu #Debut #Kpop"
     },
     {
       "id": "fda01cece13c",
@@ -2957,7 +3030,7 @@
         "Paul Dugdale and Hannah Lux Davis directed the film, which was produced by Live Nation Studios. Dugdale previously directed Stray Kids: The dominATE Experience, along with Adele: One Night Only and Taylor Swift: Reputation Stadium Tour, while Davis has directed music videos including Ariana Grande's thank you, next.",
         "The acquisition continues a partnership that already brought a K-pop concert film to cinemas earlier this year. Crosswalk and Universal Pictures Content Group previously worked together on Stray Kids: The dominATE Experience, and the TWICE release reunites the companies with Dugdale. TWICE are among the best-selling K-pop recording artists of all time, with a No. 1 album on the Billboard 200, seven consecutive entries in that chart's top 10, and two Gold certifications and one Platinum certification from the Recording Industry Association of America."
       ],
-      "socialCaption": "ONCE, mark your calendars: TWICE's O2 Arena concert film is coming to cinemas worldwide on February 5, 2027 — including IMAX.",
+      "socialCaption": "ONCE, mark your calendars: TWICE's O2 Arena concert film is coming to cinemas worldwide on February 5, 2027, including IMAX.",
       "seoDescription": "Crosswalk and Universal Pictures Content Group have acquired TWICE concert film \"Twice: This Is For... You,\" set for worldwide theatrical release on February 5, 2027.",
       "sourceNote": "Source: Variety",
       "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -2978,7 +3051,8 @@
       ],
       "qualityVersion": 3,
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #TWICE #Concert #Film #Kpop"
     },
     {
       "id": "4c5bba5d6457",
@@ -2996,7 +3070,7 @@
       "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/4c5bba5d6457.svg",
       "category": "K-DRAMA NEWS",
       "headline": "Former PENTAGON Member Yan An Builds Acting Career",
-      "dek": "A decade after debuting with PENTAGON, Yan An is now leading a Chinese costume drama — his first major starring role.",
+      "dek": "A decade after debuting with PENTAGON, Yan An is now leading a Chinese costume drama, his first major starring role.",
       "body": [
         "Yan An is steadily building a second career as an actor in China, a decade after first making his name in K-pop. The Chinese singer and actor debuted in South Korea in 2016 as a member of boy group PENTAGON, serving as the group's vocalist and visual after coming through a survival show run by Cube Entertainment.",
         "After taking a hiatus due to health issues and seeing his contract with Cube expire in 2023, he chose to return to China to pursue his career there. His acting work began in 2021, when he took on the role of Shi Junjie in the Chinese drama Use for My Talent, his first step into screen acting.",
@@ -3029,7 +3103,8 @@
       ],
       "qualityVersion": 3,
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #PENTAGON #YanAn #KDrama #Kpop"
     },
     {
       "id": "c778da60f638",
@@ -3072,7 +3147,8 @@
         "instagram": true
       },
       "reviewedAt": "2026-11-10T01:25:36.805Z",
-      "editedAt": "2026-11-10T01:28:36.806Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialHashtags": "#HallyuScope #CORTIS #NMIXX #Comeback #NewAlbum"
     },
     {
       "id": "7e4a9c2b8f51",
@@ -3099,20 +3175,20 @@
       },
       "sourceImageUrl": "",
       "category": "CONCERT NEWS",
-      "headline": "The Philippine K-pop Concert Guide: Every 2026–2027 Show, Venue and Ticket Link",
+      "headline": "The Philippine K-pop Concert Guide: Every 2026-2027 Show, Venue and Ticket Link",
       "dek": "Multiple K-pop shows are headed to the Philippines from November 2026 to March 2027, from HUTA's Heat Max to three sold-out BTS nights in Bulacan. Here is every date, venue and official ticket link in one place.",
       "body": [
-        "Fourteen K-pop concerts are on the calendar for the Philippines between November 2026 and March 2027, and the HallyuScope concert calendar tracks every one of them — with the poster, seat plan and official ticket link for each show. Here is the full rundown, month by month.",
+        "Fourteen K-pop concerts are on the calendar for the Philippines between November 2026 and March 2027, and the HallyuScope concert calendar tracks every one of them, with the poster, seat plan and official ticket link for each show. Here is the full rundown, month by month.",
         "November opens with LEE MINHYUK (HUTA), who brings his HEAT MAX tour to the SM North EDSA Skydome in Quezon City on November 21, then PENTAGON's 10th anniversary tour, 101010, at the Aliw Theater in Pasay on November 29. Both shows are on sale through Ticketmaster Philippines. One date fans should cross off: OMEGA X's November 28 Manila show was cancelled in September, and the promoter is processing refunds.",
-        "December has a genuine clash. PARK JINYOUNG plays his first concert tour, CODE, at the FYM Hall in the EVM Convention Center, Quezon City, on December 5, and LE SSERAFIM plays the SM Mall of Asia Arena the same night — both at 7:00 PM, so it is a one-or-the-other decision. LE SSERAFIM's December 6 show was cancelled and its ticket holders were moved to December 5. NCT 127 closes the month with NEO CITY — THE REDLINE at the MOA Arena on December 12 at 5:00 PM.",
-        "January brings three different flavours. JACOB of THE BOYZ plays his More Than Words fan concert at the Music Museum in San Juan on January 19 at 8:00 PM, DOH KYUNG SOO brings his DAY OFF fan concert to the Smart Araneta Coliseum on January 23 at 6:00 PM — tickets go on sale November 20 at 2:00 PM through TicketNet — and KATSEYE's Beautiful Chaos world tour reaches the MOA Arena on January 29. The Manila date is already sold out on Ticketmaster, so the Cebu stop is the one to watch.",
+        "December has a genuine clash. PARK JINYOUNG plays his first concert tour, CODE, at the FYM Hall in the EVM Convention Center, Quezon City, on December 5, and LE SSERAFIM plays the SM Mall of Asia Arena the same night, both at 7:00 PM, so it is a one-or-the-other decision. LE SSERAFIM's December 6 show was cancelled and its ticket holders were moved to December 5. NCT 127 closes the month with NEO CITY, THE REDLINE at the MOA Arena on December 12 at 5:00 PM.",
+        "January brings three different flavours. JACOB of THE BOYZ plays his More Than Words fan concert at the Music Museum in San Juan on January 19 at 8:00 PM, DOH KYUNG SOO brings his DAY OFF fan concert to the Smart Araneta Coliseum on January 23 at 6:00 PM, tickets go on sale November 20 at 2:00 PM through TicketNet, and KATSEYE's Beautiful Chaos world tour reaches the MOA Arena on January 29. The Manila date is already sold out on Ticketmaster, so the Cebu stop is the one to watch.",
         "February is the month of the double booking. KATSEYE plays the SM Seaside Cebu Arena on February 7, and on February 20 BIGBANG returns to the Philippines for the first time since 2015 with XX: COSMOS at the SMDC Festival Grounds in Parañaque, while Young K of DAY6 plays The Youngest at the New Frontier Theater in Quezon City the same night at 6:00 PM.",
-        "March belongs to BTS. The group's ARIRANG world tour plays three nights at the Philippine Sports Stadium in Bulacan — March 13, 14 and 16 — and all three are sold out. The March 16 date was added after the first two sold out in June 2026.",
-        "Two things worth knowing before you buy. First, every ticket link on the HallyuScope concert calendar goes to the official seller for that show — Ticketmaster Philippines, SM Tickets, TicketNet, Tap Your Tickets or Megatix — so a link that is not on the calendar is not one we have verified. Second, prices and statuses change: the ranges in this guide are the prices as announced, and the calendar is updated as shows sell out, move or are added."
+        "March belongs to BTS. The group's ARIRANG world tour plays three nights at the Philippine Sports Stadium in Bulacan, March 13, 14 and 16, and all three are sold out. The March 16 date was added after the first two sold out in June 2026.",
+        "Two things worth knowing before you buy. First, every ticket link on the HallyuScope concert calendar goes to the official seller for that show, Ticketmaster Philippines, SM Tickets, TicketNet, Tap Your Tickets or Megatix, so a link that is not on the calendar is not one we have verified. Second, prices and statuses change: the ranges in this guide are the prices as announced, and the calendar is updated as shows sell out, move or are added."
       ],
-      "socialCaption": "Upcoming K-pop shows. Nov 2026–Mar 2027. Every date, venue and official ticket link, in one guide.",
+      "socialCaption": "Upcoming K-pop shows. Nov 2026-Mar 2027. Every date, venue and official ticket link, in one guide.",
       "seoDescription": "Every K-pop concert in the Philippines from November 2026 to March 2027: dates, venues, ticket prices and official ticket links for HUTA, PENTAGON, LE SSERAFIM, NCT 127, KATSEYE, BIGBANG, BTS and more.",
-      "socialHashtags": "#Kpop #KpopConcert #Philippines #KpopConcerts #ConcertGuide",
+      "socialHashtags": "#HallyuScope #Concert #Kpop #KpopNews #Manila",
       "socialImageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/7e4a9c2b8f51-social-mwag462k.png",
       "socialPlatforms": {
         "facebook": true,
@@ -3130,7 +3206,8 @@
         "instagram": {
           "id": "18114544850164546"
         }
-      }
+      },
+      "editedAt": "2026-11-10T09:14:23Z"
     }
   ]
 }
