@@ -107,8 +107,9 @@ export default async function handler(req,res){
     await page.setViewport({width:WIDTH,height:HEIGHT,deviceScaleFactor:1});
     await page.setContent(html({image,category,headline,description,logoUrl}),{waitUntil:'networkidle0',timeout:30000});
     await page.evaluate(async()=>{if(document.fonts?.ready) await document.fonts.ready;});
-    const buffer=await page.screenshot({type:'png',fullPage:false});
-    res.setHeader('Content-Type','image/png');
+    const screenshot=await page.screenshot({type:'jpeg',quality:94,fullPage:false});
+    const buffer=Buffer.from(screenshot);
+    res.setHeader('Content-Type','image/jpeg');
     res.setHeader('Cache-Control','public, max-age=3600, s-maxage=86400, stale-while-revalidate=604800');
     return res.status(200).send(buffer);
   }catch(error){

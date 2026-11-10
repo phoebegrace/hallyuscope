@@ -1,7 +1,7 @@
 const OWNER='phoebegrace';
 const REPO='hallyuscope';
 const PATH='data/reactions.json';
-const BRANCH='reactions-data';
+const BRANCH='live-data';
 const API='https://api.github.com';
 const ALLOWED=new Set(['love','omg','congrats','interesting','sad']);
 

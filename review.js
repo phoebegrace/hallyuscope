@@ -52,7 +52,7 @@
     editor.innerHTML = `
       <div class="review-editor-head">
         <div><span class="eyebrow">${esc(current.category||'HALLYU NEWS')}</span><span class="review-status">${esc(current.status||'pending_review')}</span></div>
-        <a href="/article?id=${encodeURIComponent(current.id)}" target="_blank" rel="noopener">Public preview ↗</a>
+        <a href="/article/${encodeURIComponent(current.slug || current.id)}" target="_blank" rel="noopener">Public preview ↗</a>
       </div>
       <div class="review-image-block">
         <div class="review-image-preview">
@@ -198,7 +198,9 @@
   editor.addEventListener('click',async e=>{
     const b=e.target.closest('[data-generate-card]'); if(!b||!current)return;
     const note=$('#reviewSocialMessage');
-    const image=$('#editImageUrl')?.value.trim() || current.imageUrl || '';
+    const rawImage=$('#editImageUrl')?.value.trim() || '';
+    const fallbackImage=current.imageUrl || '';
+    const image=rawImage.includes('/api/social-card') ? fallbackImage : (rawImage || fallbackImage);
     const headline=$('#editHeadline')?.value.trim() || current.headline || '';
     const category=$('#editCategory')?.value.trim() || current.category || 'HALLYU NEWS';
     const description=$('#editSocialCaption')?.value.trim() || $('#editDek')?.value.trim() || current.dek || '';
@@ -228,6 +230,7 @@
     const note=$('#reviewSocialMessage');
     const payload={
       id:current.id,
+      slug:current.slug || '',
       caption:$('#editSocialCaption')?.value.trim() || current.socialCaption || current.dek || '',
       imageUrl:$('#editSocialImageUrl')?.value.trim() || '',
       facebook:$('#socialFacebook')?.checked === true,

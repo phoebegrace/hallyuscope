@@ -2,6 +2,7 @@ const OWNER = 'phoebegrace';
 const REPO = 'hallyuscope';
 const PATH = 'data/article-drafts.json';
 const API = 'https://api.github.com';
+const BRANCH = 'live-data';
 
 function reply(res, status, data) {
   res.status(status).json(data);
@@ -34,7 +35,7 @@ async function github(path, options={}) {
 }
 
 async function readQueue(){
-  const file=await github('/repos/'+OWNER+'/'+REPO+'/contents/'+PATH+'?ref=main');
+  const file=await github('/repos/'+OWNER+'/'+REPO+'/contents/'+PATH+'?ref='+BRANCH);
   const json=JSON.parse(Buffer.from(file.content,'base64').toString('utf8'));
   return {file,json};
 }
@@ -73,7 +74,7 @@ export default async function handler(req,res){
         message:'editorial: auto-publish '+(enabled?'on':'off'),
         content:Buffer.from(JSON.stringify(nextJson,null,2)+'\n').toString('base64'),
         sha:file.sha,
-        branch:'main'
+        branch:BRANCH
       };
       await github('/repos/'+OWNER+'/'+REPO+'/contents/'+PATH,{method:'PUT',body:JSON.stringify(body)});
       return reply(res,200,{autoPublish:enabled,items});
@@ -107,7 +108,7 @@ export default async function handler(req,res){
       message:'editorial: '+operation+' '+id,
       content:Buffer.from(JSON.stringify({...json,updatedAt:new Date().toISOString(),items},null,2)+'\n').toString('base64'),
       sha:file.sha,
-      branch:'main'
+      branch:BRANCH
     };
     await github('/repos/'+OWNER+'/'+REPO+'/contents/'+PATH,{method:'PUT',body:JSON.stringify(body)});
     return reply(res,200,{items});

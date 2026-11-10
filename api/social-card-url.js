@@ -12,14 +12,16 @@ function sign(params,secret){
 export default async function handler(req,res){
   if(req.method!=='POST') return reply(res,405,{error:'Method not allowed'});
   if(!authorized(req)) return reply(res,401,{error:'Incorrect review password'});
-  const {image='',category='K-POP',headline='',description=''}=req.body||{};
+  let {image='',category='K-POP',headline='',description=''}=req.body||{};
   if(!headline) return reply(res,400,{error:'Headline is required'});
   if(!image) return reply(res,400,{error:'Feature image is required'});
+  const origin='https://hallyuscope.com';
+  if(String(image).includes('/api/social-card')) return reply(res,400,{error:'Generated social-card URLs cannot be used as source images'});
+  if(String(image).startsWith('/')) image=origin+image;
   const ts=Date.now().toString();
   const params=new URLSearchParams({image,category,headline,description,ts});
   const sig=sign(params,process.env.REVIEW_PASSWORD);
   params.set('sig',sig);
-  const origin='https://hallyuscope.com';
   return reply(res,200,{
     imageUrl:origin+'/api/social-card?'+params.toString(),
     previewUrl:origin+'/social-card.html?'+new URLSearchParams({image,category,headline,description}).toString()

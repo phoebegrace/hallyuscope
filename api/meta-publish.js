@@ -2,6 +2,7 @@ const OWNER='phoebegrace';
 const REPO='hallyuscope';
 const PATH='data/article-drafts.json';
 const GITHUB='https://api.github.com';
+const BRANCH='live-data';
 const GRAPH_VERSION=process.env.META_GRAPH_VERSION||'v26.0';
 const GRAPH='https://graph.facebook.com/'+GRAPH_VERSION;
 
@@ -17,6 +18,28 @@ async function graph(path,params){
   const data=await r.json().catch(()=>({}));
   if(!r.ok||data.error) throw new Error(data.error?.message||('Meta request failed ('+r.status+')'));
   return data;
+}
+async function graphGet(path,params){
+  const qs=new URLSearchParams(params);
+  const r=await fetch(GRAPH+path+'?'+qs.toString());
+  const data=await r.json().catch(()=>({}));
+  if(!r.ok||data.error) throw new Error(data.error?.message||('Meta request failed ('+r.status+')'));
+  return data;
+}
+const sleep=ms=>new Promise(resolve=>setTimeout(resolve,ms));
+async function waitForInstagramContainer(containerId,token){
+  for(let i=0;i<12;i++){
+    const status=await graphGet('/'+encodeURIComponent(containerId),{
+      fields:'status_code,status',
+      access_token:token
+    });
+    if(status.status_code==='FINISHED') return status;
+    if(status.status_code==='ERROR'||status.status_code==='EXPIRED'){
+      throw new Error(status.status||('Instagram media container '+status.status_code.toLowerCase()));
+    }
+    await sleep(1000);
+  }
+  throw new Error('Instagram media is still processing. Please retry in a moment.');
 }
 async function github(path,options={}){
   const token=process.env.GITHUB_REVIEW_TOKEN;
@@ -35,7 +58,7 @@ async function github(path,options={}){
 }
 async function recordResult(id,result){
   if(!process.env.GITHUB_REVIEW_TOKEN) return;
-  const file=await github('/repos/'+OWNER+'/'+REPO+'/contents/'+PATH+'?ref=main');
+  const file=await github('/repos/'+OWNER+'/'+REPO+'/contents/'+PATH+'?ref='+BRANCH);
   const json=JSON.parse(Buffer.from(file.content,'base64').toString('utf8'));
   const items=json.items||[];
   const index=items.findIndex(x=>x.id===id);
@@ -52,7 +75,7 @@ async function recordResult(id,result){
       message:'social: record Meta publish '+id,
       content:Buffer.from(JSON.stringify({...json,updatedAt:new Date().toISOString(),items},null,2)+'\n').toString('base64'),
       sha:file.sha,
-      branch:'main'
+      branch:BRANCH
     })
   });
 }
@@ -65,19 +88,23 @@ export default async function handler(req,res){
   const igId=process.env.META_IG_USER_ID;
   if(!token||!pageId||!igId) return reply(res,503,{error:'Meta connection is not configured yet.'});
 
-  const {id,caption='',imageUrl='',facebook=true,instagram=true}=req.body||{};
+  const {id,slug='',caption='',imageUrl='',facebook=true,instagram=true}=req.body||{};
   if(!id) return reply(res,400,{error:'Missing article id'});
   if(!facebook&&!instagram) return reply(res,400,{error:'Choose at least one Meta account'});
   if(instagram&&!imageUrl) return reply(res,400,{error:'Instagram requires a public image URL'});
 
-  const articleUrl='https://hallyuscope.com/article?id='+encodeURIComponent(id);
+  // Canonical article URLs use words from the headline: /article/<slug>.
+  const articleUrl=slug
+    ? 'https://hallyuscope.com/article/'+encodeURIComponent(slug)
+    : 'https://hallyuscope.com/article?id='+encodeURIComponent(id);
   const result={ok:false,facebook:null,instagram:null};
 
   try{
     if(facebook){
-      result.facebook=await graph('/'+encodeURIComponent(pageId)+'/feed',{
-        message:caption,
-        link:articleUrl,
+      if(!imageUrl) throw new Error('Facebook photo publishing requires a public social image URL');
+      result.facebook=await graph('/'+encodeURIComponent(pageId)+'/photos',{
+        url:imageUrl,
+        caption:caption+'\n\nRead more at the link in bio.',
         access_token:token
       });
     }
@@ -87,6 +114,8 @@ export default async function handler(req,res){
         caption:caption+'\n\nRead more: '+articleUrl,
         access_token:token
       });
+      if(!media.id) throw new Error('Instagram did not return a media container ID.');
+      await waitForInstagramContainer(media.id,token);
       result.instagram=await graph('/'+encodeURIComponent(igId)+'/media_publish',{
         creation_id:media.id,
         access_token:token

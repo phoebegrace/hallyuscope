@@ -1,17 +1,50 @@
 (() => {
   const root = document.getElementById('article');
   const esc = (s='') => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-  const id = new URLSearchParams(location.search).get('id');
-  if (!id) { root.innerHTML = '<p class="empty">Story not found.</p>'; return; }
+  const params = new URLSearchParams(location.search);
+  // Canonical article URLs are words from the headline: /article/<slug>.
+  // Old ?id=<hex> links keep working as a fallback.
+  const pathSlug = decodeURIComponent(location.pathname.replace(/^\/article\/?/, '')).replace(/\/$/, '');
+  const slug = pathSlug || params.get('slug') || '';
+  const id = params.get('id') || '';
+  if (!slug && !id) { root.innerHTML = '<p class="empty">Story not found.</p>'; return; }
 
-  fetch('/data/article-drafts.json?v=' + Date.now(), {cache:'no-store'})
+  fetch('https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/data/article-drafts.json?v=' + Date.now(), {cache:'no-store'})
     .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
     .then(data => {
-      const item = (data.items || []).find(x => x.id === id && x.status === 'published');
+      const item = (data.items || []).find(x => x.status === 'published' && ((slug && x.slug === slug) || (id && x.id === id)));
       if (!item) throw new Error('missing');
       document.title = item.headline + ' | HallyuScope';
+      const canonicalUrl = 'https://hallyuscope.com/article/' + encodeURIComponent(item.slug || item.id);
+      // If we arrived on an old ?id= link, quietly move the address bar to the slug URL.
+      if (item.slug && location.pathname !== '/article/' + item.slug) {
+        try { history.replaceState(null, '', '/article/' + encodeURIComponent(item.slug)); } catch {}
+      }
+      const descText = item.seoDescription || item.dek || 'K-pop and Korean entertainment news from HallyuScope.';
+      // Editorial covers are SVGs, which Facebook/X cannot use as og:image.
+      const imageUrl = item.imageUrl && !/\.svg(\?|$)/i.test(item.imageUrl)
+        ? new URL(item.imageUrl, 'https://hallyuscope.com').href
+        : 'https://hallyuscope.com/assets/og-image.png';
+
       const desc = document.querySelector('meta[name="description"]');
-      if (desc && item.seoDescription) desc.setAttribute('content', item.seoDescription);
+      if (desc) desc.setAttribute('content', descText);
+
+      const canonical = document.querySelector('link[rel="canonical"]');
+      if (canonical) canonical.setAttribute('href', canonicalUrl);
+
+      const metaMap = {
+        'meta[property="og:title"]': item.headline,
+        'meta[property="og:description"]': descText,
+        'meta[property="og:url"]': canonicalUrl,
+        'meta[property="og:image"]': imageUrl,
+        'meta[name="twitter:title"]': item.headline,
+        'meta[name="twitter:description"]': descText,
+        'meta[name="twitter:image"]': imageUrl
+      };
+      for (const [selector,value] of Object.entries(metaMap)) {
+        const el = document.querySelector(selector);
+        if (el && value) el.setAttribute('content', value);
+      }
       const date = new Date(item.publishedAt || item.createdAt);
       const dateText = isFinite(date) ? date.toLocaleDateString('en-PH',{year:'numeric',month:'long',day:'numeric',timeZone:'Asia/Manila'}) : '';
       root.innerHTML = `
@@ -50,7 +83,7 @@
           </section>
           <p class="article-back"><a class="cta" href="/latest">← Back to this week's news</a></p>
         </article>`;
-      setupReactions(id);
+      setupReactions(item.id);
       setupShare(item);
     })
     .catch(() => { root.innerHTML = '<p class="empty">This story is still being prepared. <a href="/latest">Back to latest news.</a></p>'; });

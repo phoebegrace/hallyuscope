@@ -72,6 +72,12 @@ function canonicalUrl(html) {
 }
 
 async function fetchPageMeta(url) {
+  // YouTube blocks automated fetches (429 / consent pages), so resolving its
+  // URLs only produces garbage like https://www.youtube.com/undefined.
+  // Keep the original watch URL instead — it is already the correct link.
+  if (/^(?:https?:\/\/)?(?:www\.|m\.)?(?:youtube\.com|youtu\.be)\//i.test(url)) {
+    throw new Error('YouTube URLs are used as-is; page metadata is not fetched');
+  }
   const controller = new AbortController();
   const timeout = setTimeout(() => controller.abort(), 9000);
 
@@ -108,6 +114,7 @@ async function fetchPageMeta(url) {
     const html = Buffer.concat(chunks.map(v => Buffer.from(v))).toString('utf8');
     const imageUrl = metaContent(html, ['og:image:secure_url', 'og:image', 'twitter:image', 'twitter:image:src']);
     const pageTitle = metaContent(html, ['og:title', 'twitter:title']);
+    const siteName = metaContent(html, ['og:site_name', 'application-name']);
     const canonical = canonicalUrl(html);
 
     const original = new URL(url);
@@ -123,7 +130,8 @@ async function fetchPageMeta(url) {
     return {
       finalUrl: resolved,
       pageTitle,
-      imageUrl
+      imageUrl,
+      siteName
     };
   } finally {
     clearTimeout(timeout);
@@ -165,21 +173,47 @@ const baseItems = merged.filter(item => {
   return true;
 }).slice(0, MAX_ITEMS);
 
+function validResolvedUrl(value = '') {
+  // A "resolved" URL is only trusted if it is a real article link. Bot-check
+  // pages, consent redirects and broken reconstructions (…/undefined) must
+  // never replace the original URL.
+  try {
+    const u = new URL(value);
+    if (u.protocol !== 'http:' && u.protocol !== 'https:') return '';
+    if (/undefined/.test(u.href)) return '';
+    if (/google\.com\/sorry/i.test(u.href)) return '';
+    if (/consent\.youtube\.com|consent\.google\.com|accounts\.google\.com/i.test(u.hostname)) return '';
+    return u.href;
+  } catch { return ''; }
+}
+
 const enriched = [];
 for (const item of baseItems) {
-  let meta = { finalUrl: item.url, pageTitle: '', imageUrl: '' };
+  let meta = { finalUrl: item.url, pageTitle: '', imageUrl: '', siteName: '' };
   try {
     meta = await fetchPageMeta(item.url);
   } catch (error) {
     console.warn(`[social-meta] ${item.source || 'source'}: ${error.message}`);
   }
+  meta = { ...meta, finalUrl: validResolvedUrl(meta.finalUrl) || item.url };
 
   const category = socialCategory(item);
   const headline = socialHeadline(meta.pageTitle || item.title);
 
+  let resolvedPublisher = item.source || null;
+  try {
+    const u = new URL(meta.finalUrl || item.url);
+    const host = u.hostname.replace(/^www\./, '');
+    if (meta.siteName && !/google news/i.test(meta.siteName)) resolvedPublisher = meta.siteName;
+    else if (/billboard\.com$/i.test(host)) resolvedPublisher = 'Billboard';
+    else if (/soompi\.com$/i.test(host)) resolvedPublisher = 'Soompi';
+    else if (/kpopmap\.com$/i.test(host)) resolvedPublisher = 'Kpopmap';
+  } catch {}
+
   enriched.push({
     id: storyId(item),
     ...item,
+    source: resolvedPublisher,
     articleUrl: meta.finalUrl || item.url,
     imageUrl: meta.imageUrl || null,
     social: {

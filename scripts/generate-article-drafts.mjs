@@ -4,10 +4,12 @@ const DATA_DIR = new URL('../data/', import.meta.url);
 const INPUT = new URL('social-post-candidates.json', DATA_DIR);
 const OUTPUT = new URL('article-drafts.json', DATA_DIR);
 const EDITORIAL_DIR = new URL('../assets/editorial/', import.meta.url);
+const EDITORIAL_PUBLIC_BASE = 'https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/';
 
 const MODEL = process.env.OPENAI_DRAFT_MODEL || 'gpt-6.1-terra';
 const MAX_NEW_DRAFTS_PER_RUN = Number(process.env.MAX_NEW_DRAFTS_PER_RUN || 50);
-const MAX_SOURCE_CHARS = 12000;
+const MAX_SOURCE_CHARS = 16000;
+const QUALITY_VERSION = 2;
 
 function cleanText(value = '') {
   return String(value)
@@ -82,7 +84,7 @@ async function writeEditorialCover(id, headline, category) {
 </svg>`;
   const filename = `${id}.svg`;
   await writeFile(new URL(filename, EDITORIAL_DIR), svg);
-  return `/assets/editorial/${filename}`;
+  return `${EDITORIAL_PUBLIC_BASE}${filename}`;
 }
 
 function slugify(value = '') {
@@ -91,6 +93,30 @@ function slugify(value = '') {
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/^-+|-+$/g, '')
     .slice(0, 90);
+}
+
+// Never let a broken "resolved" link (…/undefined, bot-check / consent pages)
+// become the stored source URL. Anything suspicious falls back to the caller.
+function validSourceUrl(value = '') {
+  try {
+    const u = new URL(value);
+    if (u.protocol !== 'http:' && u.protocol !== 'https:') return '';
+    if (/undefined/.test(u.href)) return '';
+    if (/google\.com\/sorry/i.test(u.href)) return '';
+    if (/consent\.youtube\.com|consent\.google\.com|accounts\.google\.com/i.test(u.hostname)) return '';
+    return u.href;
+  } catch { return ''; }
+}
+
+// Slugs are words from the headline, never random ids. A regenerated draft
+// keeps its existing slug so published links never break; a brand-new draft
+// gets the next free slug if its headline collides with another story.
+function uniqueSlug(base, taken) {
+  let slug = base || 'hallyu-story';
+  let n = 2;
+  while (taken.has(slug)) slug = `${base}-${n++}`;
+  taken.add(slug);
+  return slug;
 }
 
 async function fetchSourceText(url) {
@@ -131,7 +157,6 @@ function parseJson(text) {
 }
 
 async function generateDraft(item, sourceText) {
-  const thinSource = sourceText.length < 180;
   const prompt = `You are an editor for HallyuScope, an independent Korean entertainment and K-pop publication.
 
 Write an ORIGINAL news article based only on the supplied source material and verified headline metadata. Do not copy sentences or distinctive phrasing from the source. Facts can be retained. Do not invent quotes, dates, locations, prices, names, motivations, context, or details that are not explicitly supported.
@@ -141,10 +166,14 @@ Editorial style:
 - readable for global K-pop/Hallyu fans
 - concise, human, not AI-sounding
 - avoid clickbait and exaggerated claims
-- 350-650 words only when the source material supports it
-- when source material is thin or unavailable, write a SHORT NEWS BRIEF of about 90-180 words using only facts explicitly present in the verified source headline, publisher name, date/category metadata, and any supplied text
-- never pad a thin brief with background facts from memory
-- mention the original source naturally in a short Sources note, but do not make the competitor the main CTA
+- aim for 300-550 words when there is enough verified material
+- if the source is limited, still write a useful, polished 180-300 word news brief using only verified facts
+- NEVER write meta-commentary about missing information or the limitations of the source
+- NEVER write phrases such as "the report does not specify", "details were not included in the supplied source material", "the source did not provide", or similar filler
+- if a fact is unavailable, simply omit it and move on to the strongest verified details
+- do not pad with background facts from memory
+- attribution must name the actual publisher of the article URL, not a discovery feed or aggregator
+- keep the source note factual and minimal
 - no emojis
 
 Return ONLY valid JSON with this exact shape:
@@ -160,8 +189,11 @@ Return ONLY valid JSON with this exact shape:
 SOURCE PUBLISHER: ${item.source || 'Unknown'}
 SOURCE TITLE: ${item.title || ''}
 SOURCE URL: ${item.articleUrl || item.url || ''}
+SOURCE SUMMARY:
+${item.sourceSummary || '[No RSS summary available.]'}
+
 SOURCE MATERIAL:
-${sourceText || '[No extractable article body. Use only the verified headline and metadata above.]'}`;
+${sourceText || '[No extractable article body. Use only the verified headline, publisher, source summary, and metadata above.]'}`;
 
   const res = await fetch('https://api.openai.com/v1/responses', {
     method: 'POST',
@@ -212,49 +244,70 @@ const previous = await readFile(OUTPUT, 'utf8')
 const autoPublish = previous.autoPublish === true;
 const previousById = new Map((previous.items || []).map(item => [item.id, item]));
 const cutoff = Date.now() - 7 * 24 * 60 * 60 * 1000;
-const candidates = (social.items || []).filter(item =>
-  item.id &&
-  (!item.publishedAt || Date.parse(item.publishedAt) >= cutoff) &&
-  item.social?.status !== 'published' &&
-  !previousById.has(item.id)
-);
+function bodyWordCount(item={}) {
+  return (item.body || []).join(' ').trim().split(/\s+/).filter(Boolean).length;
+}
+function needsQualityRefresh(item={}) {
+  if (item.status !== 'pending_review') return false;
+  if ((item.qualityVersion || 0) >= QUALITY_VERSION) return false;
+  const text = (item.body || []).join(' ').toLowerCase();
+  const weakPhrases = [
+    'does not specify',
+    'details such as',
+    'were not included in the supplied source material',
+    'the supplied source material',
+    'the source did not provide',
+    'the report identifies'
+  ];
+  return bodyWordCount(item) < 220 || weakPhrases.some(p => text.includes(p));
+}
+const candidates = (social.items || []).filter(item => {
+  if (!item.id || (item.publishedAt && Date.parse(item.publishedAt) < cutoff) || item.social?.status === 'published') return false;
+  const old = previousById.get(item.id);
+  return !old || needsQualityRefresh(old);
+});
 
 const newlyDrafted = [];
+const takenSlugs = new Set((previous.items || []).map(x => x.slug).filter(Boolean));
 
 for (const item of candidates.slice(0, MAX_NEW_DRAFTS_PER_RUN)) {
   try {
+    const sourceUrl = validSourceUrl(item.articleUrl) || validSourceUrl(item.url) || item.url || null;
     let sourceText = '';
     try {
-      sourceText = await fetchSourceText(item.articleUrl || item.url);
+      sourceText = await fetchSourceText(sourceUrl);
     } catch (error) {
       console.warn(`[source fetch failed] ${item.id}: ${error.message}`);
     }
 
-    const draft = await generateDraft(item, sourceText);
+    const draft = await generateDraft({ ...item, articleUrl: sourceUrl }, sourceText);
 
     const originalCover = await writeEditorialCover(item.id, draft.headline, item.social?.category || 'HALLYU NEWS');
 
+    const old = previousById.get(item.id);
     newlyDrafted.push({
+      ...(old || {}),
       id: item.id,
       createdAt: new Date().toISOString(),
       status: autoPublish ? 'published' : 'pending_review',
       publishedAt: autoPublish ? new Date().toISOString() : null,
       sourcePublishedAt: item.publishedAt || null,
       model: MODEL,
-      slug: slugify(draft.headline),
+      qualityVersion: QUALITY_VERSION,
+      slug: old?.slug || uniqueSlug(slugify(draft.headline), takenSlugs),
       source: {
         publisher: item.source || null,
         title: item.title || null,
-        url: item.articleUrl || item.url || null
+        url: sourceUrl
       },
-      imageUrl: originalCover,
-      imageType: 'hallyuscope_original',
-      sourceImageUrl: item.imageUrl || null,
+      imageUrl: old?.imageUrl || originalCover,
+      imageType: old?.imageType || 'hallyuscope_original',
+      sourceImageUrl: old?.sourceImageUrl || item.imageUrl || null,
       imagePolicy: {
         type: 'hallyuscope_original',
         note: 'Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset.'
       },
-      category: item.social?.category || 'HALLYU NEWS',
+      category: item.social?.category || old?.category || 'HALLYU NEWS',
       ...draft
     });
 

@@ -52,7 +52,7 @@
       tag: tagMap[category] || tagOf(title),
       category,
       source: 'HallyuScope',
-      url: '/article?id=' + encodeURIComponent(it.id),
+      url: '/article/' + encodeURIComponent(it.slug || it.id),
       time: new Date(it.publishedAt || it.sourcePublishedAt || it.createdAt)
     };
   }).filter(it => it.id && it.title);
@@ -86,8 +86,9 @@
   }
 
   /* ---------- data ---------- */
+  const LIVE_DATA_BASE = 'https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/data/';
   const cache = {};
-  const get = name => cache[name] ||= fetch(`/data/${name}.json?v=${Math.floor(Date.now() / 6e5)}`, { cache: 'no-store' })
+  const get = name => cache[name] ||= fetch(`${LIVE_DATA_BASE}${name}.json?v=${Math.floor(Date.now() / 6e5)}`, { cache: 'no-store' })
     .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); });
 
   /* ---------- chrome: date, updated, nav ---------- */
@@ -326,7 +327,7 @@
   const tagOf = t => /concert|tour|fan ?con|fan ?meeting|arena|ticket/i.test(t) ? 'Concert'
     : /comeback|album|single|release|mv|title track|debut|teaser/i.test(t) ? 'Music'
     : /drama|episode|series|netflix|film|actor|actress|cast/i.test(t) ? 'Drama' : 'News';
-  fetch('/data/latest.json?v=' + Math.floor(Date.now() / 6e5), { cache: 'no-store' })
+  fetch('https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/data/latest.json?v=' + Math.floor(Date.now() / 6e5), { cache: 'no-store' })
     .then(r => r.json())
     .then(d => {
       const items = (d.items || []).slice(0, 4);
