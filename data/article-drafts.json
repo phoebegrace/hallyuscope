@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T22:55:24.499Z",
+  "updatedAt": "2026-11-10T22:55:31.029Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -65,7 +65,15 @@
         "facebook": true,
         "instagram": true
       },
-      "reviewedAt": "2026-11-10T22:55:24.499Z"
+      "reviewedAt": "2026-11-10T22:55:24.499Z",
+      "socialStatus": "failed",
+      "socialPublishedAt": null,
+      "socialPublishResult": {
+        "ok": false,
+        "facebook": null,
+        "instagram": null,
+        "error": "API access blocked."
+      }
     },
     {
       "id": "f019814e27dc",
