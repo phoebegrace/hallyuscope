@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T08:48:17.077Z",
+  "updatedAt": "2026-11-10T08:54:36.055Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -62,8 +62,8 @@
     {
       "id": "fead16e2b965",
       "createdAt": "2026-11-10T06:02:29.801Z",
-      "status": "pending_review",
-      "publishedAt": null,
+      "status": "published",
+      "publishedAt": "2026-11-10T08:54:36.055Z",
       "sourcePublishedAt": "2026-11-09T08:44:05.000Z",
       "model": "gpt-6.1-terra",
       "slug": "joy-and-kim-hyun-jin-get-off-on-the-wrong-foot-in-one-of-a-kind-romance",
@@ -72,7 +72,7 @@
         "title": "Joy And Kim Hyun Jin’s Repeated Chance Encounters Lead To A Misunderstanding In “One-Of-A-Kind Romance”",
         "url": "https://www.soompi.com/article/1885290wpp/joy-and-kim-hyun-jins-repeated-chance-encounters-lead-to-a-misunderstanding-in-one-of-a-kind-romance"
       },
-      "imageUrl": "/assets/editorial/fead16e2b965.svg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/fead16e2b965-article-mwagd9kz.jpg",
       "category": "K-DRAMA NEWS",
       "headline": "Joy and Kim Hyun Jin Get Off to a Rocky Start in ‘One-of-a-Kind Romance’",
       "dek": "Repeated encounters leave a job seeker under suspicion by a top star in the webtoon-based drama's first two episodes.",
@@ -90,7 +90,7 @@
       "imageType": "hallyuscope_original",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+        "note": "HallyuScope original editorial cover."
       },
       "qualityVersion": 3,
       "researchSources": [
@@ -104,7 +104,14 @@
         }
       ],
       "verification": null,
-      "editedAt": "2026-11-10T06:44:47.000Z"
+      "editedAt": "2026-11-10T06:44:47.000Z",
+      "socialHashtags": "#HallyuScope #OneOfAKindRomance #Joy #KimHyunJin #KDrama",
+      "socialImageUrl": "https://hallyuscope.com/api/social-card?image=https%3A%2F%2Fraw.githubusercontent.com%2Fphoebegrace%2Fhallyuscope%2Flive-data%2Fassets%2Feditorial%2Ffead16e2b965-article-mwagd9kz.jpg&category=K-DRAMA+NEWS&headline=Joy+and+Kim+Hyun+Jin+Get+Off+to+a+Rocky+Start+in+%E2%80%98One-of-a-Kind+Romance%E2%80%99&description=Joy+and+Kim+Hyun+Jin%27s+chance+meetings+spark+suspicion+in+%22One-of-a-Kind+Romance.%22+Read+on+HallyuScope+for+a+look+at+their+characters+and+the+premiere.&ts=1794300850941&sig=136574f3fb0937f82ca2091b25425bcb6695a77990d1b2070728b20814f031cf",
+      "socialPlatforms": {
+        "facebook": true,
+        "instagram": true
+      },
+      "reviewedAt": "2026-11-10T08:54:36.055Z"
     },
     {
       "id": "59bb35192591",
