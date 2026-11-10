@@ -198,7 +198,9 @@
   editor.addEventListener('click',async e=>{
     const b=e.target.closest('[data-generate-card]'); if(!b||!current)return;
     const note=$('#reviewSocialMessage');
-    const image=$('#editImageUrl')?.value.trim() || current.imageUrl || '';
+    const rawImage=$('#editImageUrl')?.value.trim() || '';
+    const fallbackImage=current.imageUrl || '';
+    const image=rawImage.includes('/api/social-card') ? fallbackImage : (rawImage || fallbackImage);
     const headline=$('#editHeadline')?.value.trim() || current.headline || '';
     const category=$('#editCategory')?.value.trim() || current.category || 'HALLYU NEWS';
     const description=$('#editSocialCaption')?.value.trim() || $('#editDek')?.value.trim() || current.dek || '';
