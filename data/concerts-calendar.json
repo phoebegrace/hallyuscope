@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T06:13:41.000Z",
+  "updatedAt": "2026-11-10T06:29:03.000Z",
   "note": "Upcoming Philippine K-pop events seeded only from currently verified official ticketing or venue sources. ticketUrl must remain an official promoter, venue, or ticketing destination.",
   "items": [
     {
@@ -14,25 +14,11 @@
       "ticketRange": "₱3,800–₱10,500",
       "promoter": "SBTown",
       "ticketProvider": "Ticketmaster Philippines",
-      "ticketUrl": "https://ticketmaster.ph/",
+      "ticketUrl": "https://ticketmaster.ph/activity/detail/26ph_leeminhyuk",
       "description": "LEE MINHYUK (HUTA) brings the 2026 concert HEAT MAX to the SM North EDSA Skydome on November 21, 2026 at 7:00 PM. Tickets via SM Ticketmaster.",
-      "relatedArticles": []
-    },
-    {
-      "id": "omega-x-beyond-manila-2026",
-      "artist": "OMEGA X",
-      "tour": "1st ASIA TOUR [BEYOND] in Manila",
-      "date": "2026-11-28",
-      "venue": "Solaire Resort City",
-      "city": "Parañaque",
-      "type": "Concert",
-      "status": "On Sale",
-      "ticketRange": "₱3,500–₱8,900",
-      "promoter": "Zero Zero Four Asia Entertainment",
-      "ticketProvider": "Ticketmelon",
-      "ticketUrl": "https://www.ticketmelon.com",
-      "description": "OMEGA X brings their first Asia tour [BEYOND] to Solaire Resort City on November 28, 2026. Tickets via Ticketmelon.",
-      "relatedArticles": []
+      "relatedArticles": [],
+      "poster": "https://www.wheninmanila.com/wp-content/uploads/2026/10/HTX16VpaUAAn8Ro.jpg",
+      "seatPlan": "https://www.wheninmanila.com/wp-content/uploads/2026/10/HTX16VpaUAAn8Ro.jpg"
     },
     {
       "id": "pentagon-101010-manila-2026",
@@ -46,9 +32,11 @@
       "ticketRange": "₱3,966–₱13,375",
       "promoter": "SBTown",
       "ticketProvider": "Ticketmaster Philippines",
-      "ticketUrl": "https://ticketmaster.ph/",
+      "ticketUrl": "https://ticketmaster.ph/activity/detail/26ph_pentagon",
       "description": "PENTAGON's 10th Anniversary Tour <101010> comes to the Aliw Theater on November 29, 2026 at 7:00 PM. Tickets via Ticketmaster Philippines.",
-      "relatedArticles": []
+      "relatedArticles": [],
+      "poster": "https://assets.billboardphilippines.com/wp-content/uploads/2026/10/pentagon-square-1280x1280.jpg",
+      "seatPlan": null
     },
     {
       "id": "park-jinyoung-code-manila-2026",
@@ -62,9 +50,11 @@
       "ticketRange": "₱5,000–₱12,500",
       "promoter": "Three Angles Production",
       "ticketProvider": "Tap Your Tickets",
-      "ticketUrl": "https://www.tapyourtickets.com/en",
+      "ticketUrl": "https://www.tapyourtickets.com/en/events/park-jinyoung-1st-concert-tour-code-in-manila/PJYMNL26",
       "description": "PARK JINYOUNG's 1st Concert Tour [CODE#] comes to FYM Hall, EVM Convention Center on December 5, 2026 at 7:00 PM. Tickets via Tap Your Tickets.",
-      "relatedArticles": []
+      "relatedArticles": [],
+      "poster": "https://cdn-sea.bookmyshow.com/prod/images/202610/bf73b3fc-962c-4859-81c5-7fabeb170f1d/og/1280x500/CODE__MANILA_-_1280_x_500_.png",
+      "seatPlan": "https://cdn-sea.bookmyshow.com/prod/images/202610/cb331c14-3e47-4d91-9324-76c96abe29a4/og/1798x2396/PJY_MNL_-_SEATMAP.png"
     },
     {
       "id": "le-sserafim-pureflow-manila-2026",
@@ -78,9 +68,11 @@
       "ticketRange": "₱4,000–₱15,500",
       "promoter": "PULP Live World",
       "ticketProvider": "SM Tickets",
-      "ticketUrl": "https://www.smtickets.com",
-      "description": "LE SSERAFIM brings the PUREFLOW tour to the SM Mall of Asia Arena on December 5, 2026. The December 6 show was cancelled and its ticket holders were moved to this date. Tickets via SM Tickets.",
-      "relatedArticles": []
+      "ticketUrl": "https://www.smtickets.com/events/view/18350",
+      "description": "LE SSERAFIM brings the PUREFLOW tour to the SM Mall of Asia Arena on December 5, 2026 at 7:00 PM. The December 6 show was cancelled and its ticket holders were moved to this date. Tickets via SM Tickets.",
+      "relatedArticles": [],
+      "poster": "https://images1.smtickets.com/images/portrait_26102026170614.jpg",
+      "seatPlan": "https://images1.smtickets.com/images/seatplan_26102026170625.jpg"
     },
     {
       "id": "nct-127-neo-city-redline-manila-2026",
@@ -94,9 +86,11 @@
       "ticketRange": "₱4,500–₱16,000",
       "promoter": "PULP Live World",
       "ticketProvider": "SM Tickets",
-      "ticketUrl": "https://www.smtickets.com",
+      "ticketUrl": "https://www.smtickets.com/events/view/18436",
       "description": "NCT 127 brings the 5th tour NEO CITY : THE REDLINE to the SM Mall of Asia Arena on December 12, 2026 at 5:00 PM. Tickets via SM Tickets.",
-      "relatedArticles": []
+      "relatedArticles": [],
+      "poster": "https://images1.smtickets.com/images/portrait_11092026174449.jpg",
+      "seatPlan": null
     },
     {
       "id": "jacob-more-than-words-manila-2027",
@@ -112,7 +106,9 @@
       "ticketProvider": "Megatix",
       "ticketUrl": "https://megatix.asia/events/jacobmorethanwordsph",
       "description": "THE BOYZ member JACOB brings his solo showcase More Than Words to the Music Museum on January 19, 2027 at 8:00 PM. Every ticket includes hi-touch and a postcard. Tickets via Megatix.",
-      "relatedArticles": []
+      "relatedArticles": [],
+      "poster": "https://media.megatix.com.au/e/77096/GHDjAreXrMKJG5d7uYpgi4QeNoNNSS9s6Ym67AW2.jpg",
+      "seatPlan": "https://media.megatix.com.au/ckeditor/krrbEGMzv4QhenuRtvgTKYBYrzL2RlrxWkR9V9X3.png"
     },
     {
       "id": "doh-kyung-soo-day-off-manila-2027",
@@ -126,9 +122,11 @@
       "ticketRange": "₱3,200–₱16,800",
       "promoter": "Wilbros Live",
       "ticketProvider": "TicketNet",
-      "ticketUrl": "https://ticketnet.com.ph/",
+      "ticketUrl": "https://ticketnet.com.ph/event-detail/DO2026Manila",
       "description": "DOH KYUNG SOO is scheduled to bring the 2026-2027 concert tour [DAY OFF] to Smart Araneta Coliseum on January 23, 2027 at 6:00 PM. Tickets go on sale November 20 at 2:00 PM via TicketNet.",
-      "relatedArticles": []
+      "relatedArticles": [],
+      "poster": "https://dohyi8q62t82e.cloudfront.net/files/events/poster/DO2026EventPoster.jpg",
+      "seatPlan": "https://dohyi8q62t82e.cloudfront.net/files/events/seatmap/DO2026EventMap.jpg"
     },
     {
       "id": "katseye-wildworld-manila-2027",
@@ -138,13 +136,15 @@
       "venue": "SM Mall of Asia Arena",
       "city": "Pasay",
       "type": "Concert",
-      "status": "Announced",
-      "ticketRange": "TBA",
+      "status": "Sold Out",
+      "ticketRange": "₱4,500–₱21,000",
       "promoter": "Live Nation Philippines",
       "ticketProvider": "Ticketmaster Philippines",
-      "ticketUrl": "https://ticketmaster.ph/",
+      "ticketUrl": "https://ticketmaster.ph/activity/detail/27ph_katseye",
       "description": "KATSEYE brings THE WILDWORLD TOUR to the SM Mall of Asia Arena on January 29, 2027. Presales run November 10–12, with general sale on November 13 via Ticketmaster Philippines.",
-      "relatedArticles": []
+      "relatedArticles": [],
+      "poster": "https://blog.ticketmaster.ph/wp-content/uploads/2026/10/KATSEYE-TICKETMASTER-1150X500-2.jpg",
+      "seatPlan": "https://www.wheninmanila.com/wp-content/uploads/2026/11/HWYAJyta4AAA6xa.jpg"
     },
     {
       "id": "katseye-wildworld-cebu-2027",
@@ -155,12 +155,14 @@
       "city": "Cebu City",
       "type": "Concert",
       "status": "Announced",
-      "ticketRange": "TBA",
+      "ticketRange": "₱4,000–₱21,000",
       "promoter": "Live Nation Philippines",
       "ticketProvider": "Ticketmaster Philippines",
-      "ticketUrl": "https://ticketmaster.ph/",
+      "ticketUrl": "https://ticketmaster.ph/activity/detail/27ph_katseye",
       "description": "KATSEYE brings THE WILDWORLD TOUR to the SM Seaside Cebu Arena on February 7, 2027, the group's second Philippine stop. Presales run November 10–12, with general sale on November 13 via Ticketmaster Philippines.",
-      "relatedArticles": []
+      "relatedArticles": [],
+      "poster": "https://blog.ticketmaster.ph/wp-content/uploads/2026/10/KATSEYE-TICKETMASTER-1150X500-2.jpg",
+      "seatPlan": "https://www.wheninmanila.com/wp-content/uploads/2026/11/HWYAJzTa8AAE9HW.jpg"
     },
     {
       "id": "bigbang-xx-cosmos-manila-2027",
@@ -176,7 +178,9 @@
       "ticketProvider": "Ticketmaster Philippines",
       "ticketUrl": "https://ticketmaster.ph/activity/detail/27ph_bigbang2027",
       "description": "BIGBANG returns to Manila for the 20th-anniversary world tour <XX : COSMOS> at the SMDC Festival Grounds on February 20, 2027, the group's first Philippine show since 2015. Tickets via Ticketmaster Philippines.",
-      "relatedArticles": []
+      "relatedArticles": [],
+      "poster": null,
+      "seatPlan": null
     },
     {
       "id": "young-k-youngest-manila-2027",
@@ -190,9 +194,11 @@
       "ticketRange": "₱2,500–₱14,350",
       "promoter": "Live Nation Philippines",
       "ticketProvider": "TicketNet",
-      "ticketUrl": "https://ticketnet.com.ph/",
+      "ticketUrl": "https://ticketnet.com.ph/event-detail/Young-K-2026",
       "description": "DAY6's Young K brings his solo tour <YOUNGEST> to the New Frontier Theater on February 20, 2027 at 6:00 PM. Tickets via TicketNet.",
-      "relatedArticles": []
+      "relatedArticles": [],
+      "poster": "https://dohyi8q62t82e.cloudfront.net/files/events/poster/YoungK2027EventPoster.jpg",
+      "seatPlan": "https://dohyi8q62t82e.cloudfront.net/files/events/seatmap/YoungKRevMap.jpg"
     },
     {
       "id": "bts-arirang-bulacan-2027-03-13",
@@ -208,7 +214,9 @@
       "ticketProvider": "SM Ticketmaster",
       "ticketUrl": "https://ticketmaster.ph/",
       "description": "BTS brings the WORLD TOUR 'ARIRANG' to the Philippine Sports Stadium on March 13, 2027. Sold out; tickets were sold exclusively via SM Ticketmaster.",
-      "relatedArticles": []
+      "relatedArticles": [],
+      "poster": null,
+      "seatPlan": null
     },
     {
       "id": "bts-arirang-bulacan-2027-03-14",
@@ -224,7 +232,9 @@
       "ticketProvider": "SM Ticketmaster",
       "ticketUrl": "https://ticketmaster.ph/",
       "description": "BTS brings the WORLD TOUR 'ARIRANG' to the Philippine Sports Stadium on March 14, 2027. Sold out; tickets were sold exclusively via SM Ticketmaster.",
-      "relatedArticles": []
+      "relatedArticles": [],
+      "poster": null,
+      "seatPlan": null
     },
     {
       "id": "bts-arirang-bulacan-2027-03-16",
@@ -240,7 +250,9 @@
       "ticketProvider": "SM Ticketmaster",
       "ticketUrl": "https://ticketmaster.ph/",
       "description": "BTS brings the WORLD TOUR 'ARIRANG' to the Philippine Sports Stadium on March 16, 2027 — a third date added June 17, 2026 after the first two nights sold out. Tickets were sold exclusively via SM Ticketmaster.",
-      "relatedArticles": []
+      "relatedArticles": [],
+      "poster": null,
+      "seatPlan": null
     }
   ]
 }
