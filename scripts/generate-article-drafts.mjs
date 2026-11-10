@@ -414,6 +414,7 @@ Return ONLY valid JSON with this exact shape:
   "dek": "one-sentence summary",
   "body": ["paragraph 1", "paragraph 2"],
   "socialCaption": "short social caption ending with a reason to read on HallyuScope",
+  "socialHashtags": ["5-8 relevant hashtags including #HallyuScope, artist/group/topic tags, and no spammy generic tags"],
   "seoDescription": "140-160 character meta description",
   "sourceNote": "Source: <publisher>"
 }
@@ -456,6 +457,9 @@ ${material}`;
     dek: String(draft.dek || '').trim(),
     body: draft.body.map(x => String(x).trim()).filter(Boolean),
     socialCaption: String(draft.socialCaption || '').trim(),
+    socialHashtags: Array.isArray(draft.socialHashtags)
+      ? draft.socialHashtags.map(x => String(x).trim()).filter(x => /^#[\p{L}\p{N}_]+$/u.test(x)).slice(0,8)
+      : ['#HallyuScope','#Kpop'],
     seoDescription: String(draft.seoDescription || '').trim(),
     sourceNote: String(draft.sourceNote || `Source: ${reference.publisher}`).trim()
   };
