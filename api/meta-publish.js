@@ -88,15 +88,18 @@ export default async function handler(req,res){
   const igId=process.env.META_IG_USER_ID;
   if(!token||!pageId||!igId) return reply(res,503,{error:'Meta connection is not configured yet.'});
 
-  const {id,slug='',caption='',imageUrl='',facebook=true,instagram=true}=req.body||{};
+  const {id,caption='',hashtags='',imageUrl='',facebook=true,instagram=true}=req.body||{};
   if(!id) return reply(res,400,{error:'Missing article id'});
   if(!facebook&&!instagram) return reply(res,400,{error:'Choose at least one Meta account'});
   if(instagram&&!imageUrl) return reply(res,400,{error:'Instagram requires a public image URL'});
 
-  // Canonical article URLs use words from the headline: /article/<slug>.
-  const articleUrl=slug
-    ? 'https://hallyuscope.com/article/'+encodeURIComponent(slug)
-    : 'https://hallyuscope.com/article?id='+encodeURIComponent(id);
+  const articleUrl='https://hallyuscope.com/article?id='+encodeURIComponent(id);
+  const tags=String(hashtags||'')
+    .split(/\s+/)
+    .map(x=>x.trim())
+    .filter(x=>/^#[\p{L}\p{N}_]+$/u.test(x));
+  const fbTags=tags.slice(0,3).join(' ');
+  const igTags=tags.slice(0,8).join(' ');
   const result={ok:false,facebook:null,instagram:null};
 
   try{
@@ -104,14 +107,14 @@ export default async function handler(req,res){
       if(!imageUrl) throw new Error('Facebook photo publishing requires a public social image URL');
       result.facebook=await graph('/'+encodeURIComponent(pageId)+'/photos',{
         url:imageUrl,
-        caption:caption+'\n\nRead more at the link in bio.',
+        caption:[caption,'Read more: '+articleUrl,fbTags].filter(Boolean).join('\n\n'),
         access_token:token
       });
     }
     if(instagram){
       const media=await graph('/'+encodeURIComponent(igId)+'/media',{
         image_url:imageUrl,
-        caption:caption+'\n\nRead more: '+articleUrl,
+        caption:[caption,'Link in bio.',igTags].filter(Boolean).join('\n\n'),
         access_token:token
       });
       if(!media.id) throw new Error('Instagram did not return a media container ID.');
