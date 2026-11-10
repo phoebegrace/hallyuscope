@@ -116,7 +116,6 @@
       '<div class="concert-detail-grid"><div>' +
       '<span class="eyebrow">'+esc((e.type||'Concert').toUpperCase())+'</span>' +
       '<h3>'+esc(e.artist||e.title||'Concert')+(e.tour?' — '+esc(e.tour):'')+'</h3>' +
-      poster +
       '<p class="concert-detail-dek">'+esc(e.description||'More details will be added as official information is confirmed.')+'</p>' +
       '<div class="concert-facts">' +
         fact('Date',fmt(d,{weekday:'long',month:'long',day:'numeric',year:'numeric'})) +
@@ -125,9 +124,10 @@
         fact('Status',e.status||'Tracking') +
         fact('Ticket range',e.ticketRange||'TBA') +
         fact('Promoter',e.promoter||'TBA') +
-      '</div>' + seatPlan + '</div>' +
+      '</div></div>' +
+      '<div class="concert-detail-side">' + poster + seatPlan +
       '<aside class="concert-ticket-box"><span class="eyebrow">OFFICIAL TICKETING</span><h4>'+esc(e.ticketProvider||'Ticket details')+'</h4><p>HallyuScope links only to verified official ticketing or promoter destinations when available.</p>'+ticket+
-      '<div class="concert-calendar-actions"><a href="'+googleCalendarUrl(e)+'" target="_blank" rel="noopener">Google Calendar</a><a href="#" data-download-ics="'+esc(e.id)+'">Apple / Outlook</a></div></aside></div>';
+      '<div class="concert-calendar-actions"><a href="'+googleCalendarUrl(e)+'" target="_blank" rel="noopener">Google Calendar</a><a href="#" data-download-ics="'+esc(e.id)+'">Apple / Outlook</a></div></aside></div></div>';
 
     main.hidden=true; detail.hidden=false;
   }

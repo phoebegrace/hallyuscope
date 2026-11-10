@@ -391,7 +391,7 @@ async function generateDraft(item, researchSources) {
     .join('\n\n');
   const prompt = `You are an editor for HallyuScope, an independent Korean entertainment and K-pop publication.
 
-Write an ORIGINAL news article from the research material below. Source 1 is the reference report that surfaced the story; the other sources are independent reports of the same story, or sources the reference report itself cited. Synthesize across them — do not reword any single source. Do not copy sentences or distinctive phrasing from any source. Facts can be retained. Do not invent quotes, dates, locations, prices, names, motivations, context, or details that are not explicitly supported by at least one source. If sources disagree on a detail, use the version the majority supports, or omit the detail.
+Write an ORIGINAL news article from the research material below. Source 1 is the reference report that surfaced the story; the other sources are independent reports of the same story, or sources the reference report itself cited. Synthesize across them — do not reword any single source. Do not copy sentences or distinctive phrasing from any source. Facts can be retained. Do not invent quotes, dates, locations, prices, names, motivations, context, or details that are not explicitly supported by at least one source. If sources disagree on a detail, use the version the majority supports, or omit the detail. Never use em dashes (—) or en dashes (–) anywhere in the article, dek, caption, or descriptions. Use commas, periods, or short hyphens (-) instead.
 
 Editorial style:
 - clean, modern entertainment-news voice
@@ -413,8 +413,8 @@ Return ONLY valid JSON with this exact shape:
   "headline": "original HallyuScope headline",
   "dek": "one-sentence summary",
   "body": ["paragraph 1", "paragraph 2"],
-  "socialCaption": "short social caption ending with a reason to read on HallyuScope",
-  "socialHashtags": ["5-8 relevant hashtags including #HallyuScope, artist/group/topic tags, and no spammy generic tags"],
+  "socialCaption": "short social caption ending with a reason to read on HallyuScope. Do not include hashtags in the caption, hashtags go in socialHashtags.",
+  "socialHashtags": ["exactly 5 relevant hashtags including #HallyuScope, artist/group/topic tags, and no spammy generic tags"],
   "seoDescription": "140-160 character meta description",
   "sourceNote": "Source: <publisher>"
 }
@@ -458,8 +458,8 @@ ${material}`;
     body: draft.body.map(x => String(x).trim()).filter(Boolean),
     socialCaption: String(draft.socialCaption || '').trim(),
     socialHashtags: Array.isArray(draft.socialHashtags)
-      ? draft.socialHashtags.map(x => String(x).trim()).filter(x => /^#[\p{L}\p{N}_]+$/u.test(x)).slice(0,8)
-      : ['#HallyuScope','#Kpop'],
+      ? draft.socialHashtags.map(x => String(x).trim()).filter(x => /^#[\p{L}\p{N}_]+$/u.test(x)).slice(0,5)
+      : ['#HallyuScope','#Kpop','#KpopNews','#Manila','#KoreanCulture'],
     seoDescription: String(draft.seoDescription || '').trim(),
     sourceNote: String(draft.sourceNote || `Source: ${reference.publisher}`).trim()
   };

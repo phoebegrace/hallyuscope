@@ -50,6 +50,13 @@
   <span class="kr">컴백</span>
   <h1>Comebacks</h1>
   <div class="page-sub"><p>New albums, singles, teasers and release dates as they are announced, grouped by day.</p><span class="meta live"><i></i><span data-updated>Updated hourly</span> · <span data-count></span></span></div>
+  <div class="concert-tools">
+    <button class="calendar-launch" id="openCbCalendar" type="button">
+      <span>View Comeback Calendar</span>
+      <span aria-hidden="true">→</span>
+    </button>
+    <span class="meta">Every upcoming K-pop comeback and release date</span>
+  </div>
 </section>
 <div class="filters" id="filters" role="toolbar" aria-label="Filter by topic"></div>
 <div id="stream" class="section" style="padding-top:0"><span class="sk" style="width:90%"></span><span class="sk" style="width:70%"></span><span class="sk" style="width:80%"></span></div>
@@ -99,6 +106,50 @@
   <div class="search-bar"><div class="wrap"><label class="sr-only" for="q">Search</label><input id="q" type="search" placeholder="Search artists, groups, cities" autocomplete="off"><button class="search-close" id="searchClose" type="button">Close · Esc</button></div></div>
   <div class="search-body"><div class="wrap" id="results"></div></div>
 </div>
+<div class="concert-modal" id="cbCalendarModal" aria-hidden="true">
+  <div class="concert-modal-backdrop" data-calendar-close></div>
+  <section class="concert-modal-panel" role="dialog" aria-modal="true" aria-labelledby="cbCalendarTitle">
+    <header class="concert-modal-head">
+      <div>
+        <span class="eyebrow">HALLYUSCOPE COMEBACK TRACKER</span>
+        <h2 id="cbCalendarTitle">Upcoming comebacks</h2>
+      </div>
+      <button class="concert-modal-close" type="button" data-calendar-close aria-label="Close comeback calendar">Close</button>
+    </header>
+
+    <div class="concert-calendar-main" id="cbCalendarMain">
+      <div class="concert-calendar-toolbar">
+        <div class="concert-month-nav">
+          <button type="button" id="cbPrevMonth" aria-label="Previous month">←</button>
+          <strong id="cbMonthLabel">Month</strong>
+          <button type="button" id="cbNextMonth" aria-label="Next month">→</button>
+        </div>
+        <div class="concert-view-toggle" role="group" aria-label="Comeback view">
+          <button type="button" data-cb-view="calendar" aria-pressed="true">Calendar</button>
+          <button type="button" data-cb-view="list" aria-pressed="false">List</button>
+        </div>
+      </div>
+
+      <div class="concert-calendar-layout">
+        <div>
+          <div class="concert-weekdays" aria-hidden="true"><span>Sun</span><span>Mon</span><span>Tue</span><span>Wed</span><span>Thu</span><span>Fri</span><span>Sat</span></div>
+          <div class="concert-month-grid" id="cbMonthGrid"></div>
+        </div>
+        <aside class="concert-upcoming">
+          <div class="concert-upcoming-head"><span class="eyebrow">UPCOMING</span><span class="meta" id="cbEventCount"></span></div>
+          <div id="cbUpcomingList"></div>
+        </aside>
+      </div>
+    </div>
+
+    <div class="concert-detail" id="cbDetail" hidden>
+      <button class="concert-detail-back" id="cbDetailBack" type="button">← Back to calendar</button>
+      <div id="cbDetailBody"></div>
+    </div>
+  </section>
+</div>
+
 <script src="/script.js" defer></script>
+<script src="/comebacks-calendar.js" defer></script>
 </body>
 </html>

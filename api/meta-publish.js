@@ -88,18 +88,22 @@ export default async function handler(req,res){
   const igId=process.env.META_IG_USER_ID;
   if(!token||!pageId||!igId) return reply(res,503,{error:'Meta connection is not configured yet.'});
 
-  const {id,caption='',hashtags='',imageUrl='',facebook=true,instagram=true}=req.body||{};
+  const {id,slug='',caption='',hashtags='',imageUrl='',facebook=true,instagram=true}=req.body||{};
   if(!id) return reply(res,400,{error:'Missing article id'});
   if(!facebook&&!instagram) return reply(res,400,{error:'Choose at least one Meta account'});
   if(instagram&&!imageUrl) return reply(res,400,{error:'Instagram requires a public image URL'});
 
-  const articleUrl='https://hallyuscope.com/article?id='+encodeURIComponent(id);
+  // Canonical article URLs use words from the headline: /article/<slug>.
+  const articleUrl=slug
+    ? 'https://hallyuscope.com/article/'+encodeURIComponent(slug)
+    : 'https://hallyuscope.com/article?id='+encodeURIComponent(id);
   const tags=String(hashtags||'')
     .split(/\s+/)
     .map(x=>x.trim())
     .filter(x=>/^#[\p{L}\p{N}_]+$/u.test(x));
-  const fbTags=tags.slice(0,3).join(' ');
-  const igTags=tags.slice(0,8).join(' ');
+  // Exactly five hashtags, from the review editor's hashtags form.
+  const fbTags=tags.slice(0,5).join(' ');
+  const igTags=tags.slice(0,5).join(' ');
   const result={ok:false,facebook:null,instagram:null};
 
   try{
