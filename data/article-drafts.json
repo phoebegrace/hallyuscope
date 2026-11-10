@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T11:16:40.267Z",
+  "updatedAt": "2026-11-10T11:21:06.173Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -1320,8 +1320,8 @@
     {
       "id": "245b1d169f48",
       "createdAt": "2026-11-10T03:57:39.589Z",
-      "status": "pending_review",
-      "publishedAt": null,
+      "status": "published",
+      "publishedAt": "2026-11-10T11:21:06.173Z",
       "sourcePublishedAt": "2026-11-09T12:18:27.000Z",
       "model": "gpt-6.1-terra",
       "slug": "k-pop-association-challenges-new-york-times-report-on-newjeans-contracts",
@@ -1330,7 +1330,7 @@
         "title": "K-pop association pushes back on New York Times report over NewJeans contract protections",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYU9UZDVpOEV2QzlYR3M1b0t5RjJNZ3pRTHZIVV9Ld2tKVlhDVWJFcERvY3NINmxmbUNtWVNMeTB4ampMSHRoOFpfU1JlSUwta1c4bmNZM21TQ2VMSFNKM3lGUDBZRE1CVGJELU1rR2I0ZlkyeEE1RE9RNFF5d2QxRUlLd1pGNmVVTVZrcTBqcUxodDI0cXFkUmV3S01wb01EMTNtLVdMdjY0S1F5a3V1VW54VV85LWcwYU0yUmdGU0tpdFphckpucTJ1Rk5rZjhEdVVOS3ZLN3BRbHhwdWtN"
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/245b1d169f48.svg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/245b1d169f48-article-mwalmrdd.webp",
       "category": "HALLYU NEWS",
       "headline": "K-Pop Association Challenges New York Times Report on NewJeans Contracts",
       "dek": "The Korea Popmusic Industry Association says the report turned one group's contract dispute into a judgment on the whole K-pop industry.",
@@ -1348,7 +1348,7 @@
       "imageType": "hallyuscope_original",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+        "note": "HallyuScope original editorial cover."
       },
       "qualityVersion": 3,
       "researchSources": [
@@ -1359,7 +1359,13 @@
       ],
       "verification": null,
       "editedAt": "2026-11-10T09:14:23Z",
-      "socialHashtags": "#HallyuScope #NewJeans #Hallyu #Kpop #KpopNews"
+      "socialHashtags": "#HallyuScope #NewJeans #Hallyu #Kpop #KpopNews",
+      "socialImageUrl": "https://hallyuscope.com/api/social-card?image=https%3A%2F%2Fraw.githubusercontent.com%2Fphoebegrace%2Fhallyuscope%2Flive-data%2Fassets%2Feditorial%2F245b1d169f48-article-mwalmrdd.webp&category=HALLYU+NEWS&headline=K-Pop+Association+Challenges+New+York+Times+Report+on+NewJeans+Contracts&description=A+K-pop+industry+association+says+the+New+York+Times+report+on+NewJeans+missed+Korea%27s+legal+safeguards+for+artists.+Here%27s+their+side+of+the+story.&ts=1794309653876&sig=6a7127271944a09ce2ec773d04fa63d1cad34d6926b0bec2c85ed4d6f7a4c8bd",
+      "socialPlatforms": {
+        "facebook": true,
+        "instagram": true
+      },
+      "reviewedAt": "2026-11-10T11:21:06.173Z"
     },
     {
       "id": "cf269c78576e",
