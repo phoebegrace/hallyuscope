@@ -19,6 +19,28 @@ async function graph(path,params){
   if(!r.ok||data.error) throw new Error(data.error?.message||('Meta request failed ('+r.status+')'));
   return data;
 }
+async function graphGet(path,params){
+  const qs=new URLSearchParams(params);
+  const r=await fetch(GRAPH+path+'?'+qs.toString());
+  const data=await r.json().catch(()=>({}));
+  if(!r.ok||data.error) throw new Error(data.error?.message||('Meta request failed ('+r.status+')'));
+  return data;
+}
+const sleep=ms=>new Promise(resolve=>setTimeout(resolve,ms));
+async function waitForInstagramContainer(containerId,token){
+  for(let i=0;i<12;i++){
+    const status=await graphGet('/'+encodeURIComponent(containerId),{
+      fields:'status_code,status',
+      access_token:token
+    });
+    if(status.status_code==='FINISHED') return status;
+    if(status.status_code==='ERROR'||status.status_code==='EXPIRED'){
+      throw new Error(status.status||('Instagram media container '+status.status_code.toLowerCase()));
+    }
+    await sleep(1000);
+  }
+  throw new Error('Instagram media is still processing. Please retry in a moment.');
+}
 async function github(path,options={}){
   const token=process.env.GITHUB_REVIEW_TOKEN;
   const r=await fetch(GITHUB+path,{
@@ -88,6 +110,8 @@ export default async function handler(req,res){
         caption:caption+'\n\nRead more: '+articleUrl,
         access_token:token
       });
+      if(!media.id) throw new Error('Instagram did not return a media container ID.');
+      await waitForInstagramContainer(media.id,token);
       result.instagram=await graph('/'+encodeURIComponent(igId)+'/media_publish',{
         creation_id:media.id,
         access_token:token
