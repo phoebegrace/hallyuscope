@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T19:52:27.217Z",
+  "updatedAt": "2026-11-10T03:55:08.721Z",
   "sources": [
     {
       "source": "HYBE LABELS",
@@ -8,16 +8,17 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3IZKseVpdzPSBaWxBxundA",
       "ok": true,
       "count": 15,
-      "ms": 100
+      "ms": 103
     },
     {
       "source": "JYP Entertainment",
       "sourceId": "jyp-entertainment-youtube",
       "sourceClass": "official",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaO6TYtlC8U5ttz62hTrZgg",
-      "ok": true,
-      "count": 15,
-      "ms": 98
+      "ok": false,
+      "count": 0,
+      "ms": 159,
+      "error": "404 Not Found for https://www.youtube.com/feeds/videos.xml?channel_id=UCaO6TYtlC8U5ttz62hTrZgg"
     },
     {
       "source": "Soompi",
@@ -25,7 +26,7 @@
       "sourceClass": "publisher",
       "ok": true,
       "count": 60,
-      "ms": 270
+      "ms": 324
     },
     {
       "source": "Kpopmap",
@@ -33,7 +34,7 @@
       "sourceClass": "publisher",
       "ok": true,
       "count": 0,
-      "ms": 225
+      "ms": 168
     },
     {
       "source": "Google News · K-pop",
@@ -41,23 +42,23 @@
       "sourceClass": "publisher",
       "ok": true,
       "count": 100,
-      "ms": 539
+      "ms": 576
     },
     {
       "source": "Google News · PH concerts",
       "url": "https://news.google.com/rss/search?q=%28K-pop+OR+Kpop%29+%28Manila+OR+Philippines%29+%28concert+OR+tour+OR+fancon+OR+%22fan+meeting%22%29+when%3A60d&hl=en-PH&gl=PH&ceid=PH%3Aen",
       "sourceClass": "publisher",
       "ok": true,
-      "count": 24,
-      "ms": 373
+      "count": 22,
+      "ms": 396
     },
     {
       "source": "Google News · comebacks",
       "url": "https://news.google.com/rss/search?q=%28K-pop+OR+Kpop%29+%28comeback+OR+album+OR+single+OR+teaser%29+when%3A21d&hl=en-PH&gl=PH&ceid=PH%3Aen",
       "sourceClass": "publisher",
       "ok": true,
-      "count": 48,
-      "ms": 493
+      "count": 47,
+      "ms": 502
     }
   ]
 }
