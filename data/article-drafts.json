@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T11:08:40.431Z",
+  "updatedAt": "2026-11-10T11:09:00.120Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -690,7 +690,19 @@
         "facebook": true,
         "instagram": true
       },
-      "reviewedAt": "2026-11-10T11:08:40.431Z"
+      "reviewedAt": "2026-11-10T11:08:40.431Z",
+      "socialStatus": "published",
+      "socialPublishedAt": "2026-11-10T11:09:00.120Z",
+      "socialPublishResult": {
+        "ok": true,
+        "facebook": {
+          "id": "122197200428896088",
+          "post_id": "619676824570166_122197200452896088"
+        },
+        "instagram": {
+          "id": "18454432333124707"
+        }
+      }
     },
     {
       "id": "6406e64a8773",
