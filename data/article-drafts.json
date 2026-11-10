@@ -3208,6 +3208,126 @@
         }
       },
       "editedAt": "2026-11-10T09:14:23Z"
+    },
+    {
+      "id": "da6f42bf4b18",
+      "createdAt": "2026-11-10T09:17:19Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": null,
+      "model": "manual",
+      "qualityVersion": 3,
+      "verification": null,
+      "researchSources": null,
+      "slug": "ticketing-day-minus-the-panic",
+      "source": {
+        "publisher": "HallyuScope",
+        "title": "Ticketing day, minus the panic",
+        "url": "https://hallyuscope.com/concerts"
+      },
+      "sourceNote": "Source: HallyuScope",
+      "imageUrl": "",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Upload a cover image in the review dashboard."
+      },
+      "sourceImageUrl": "",
+      "category": "CONCERT NEWS",
+      "headline": "Ticketing day, minus the panic",
+      "dek": "The checklist to finish before a Philippine K-pop ticket sale opens, so the queue is the only thing left to worry about.",
+      "body": [
+        "A ticket sale is won before it opens. The fans who get in are usually the ones who did the boring prep the night before, and this guide is that prep, in order.",
+        "Start with the official seller. Every Philippine show on the HallyuScope concert calendar links to the exact official ticketing page, and the sellers are the same names every time: Ticketmaster PH, SM Tickets, TicketNet, Tap Your Tickets, and Megatix. If a link is not one of those, or not the promoter's own page, do not trust it. Resellers and random social media sellers are where fans lose money.",
+        "Make the account the night before. Create an account on the seller's site, save your payment method, and log in once so you know the password works. SM Tickets runs a queue system, so expect a waiting room and do not refresh it. Ticketmaster PH and TicketNet also queue during big sales, and refreshing usually sends you to the back of the line.",
+        "Know the sale time in Manila time. Sales open at a specific hour, and the big ones sell out fast. KATSEYE's Manila general sale opened November 13, after presales on November 10 to 12. DOH KYUNG SOO's Manila tickets went on sale November 20 at 2 PM. The calendar lists the sale date for every show, so check it before the day.",
+        "Have a backup plan, not a backup seller. Decide your section and your price ceiling before the queue opens, so you are not deciding while the clock runs. If your first choice sells out, take the next best seat in the same sale rather than chasing a second site. And keep the confirmation email and the ticket QR somewhere you can reach them without signal, because venue gates are not kind to dead batteries."
+      ],
+      "socialCaption": "Ticketing day does not have to be a panic. The checklist is short, do it the night before, and the queue is the only thing left. Read the guide on HallyuScope.",
+      "seoDescription": "Ticketing day, minus the panic: the official sellers, the account prep, and the queue rules for Philippine K-pop shows.",
+      "socialHashtags": "#HallyuScope #Concert #Kpop #KpopNews #Manila",
+      "socialImageUrl": "",
+      "editedAt": "2026-11-10T09:17:19Z"
+    },
+    {
+      "id": "1b4b7d65822e",
+      "createdAt": "2026-11-10T09:17:19Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": null,
+      "model": "manual",
+      "qualityVersion": 3,
+      "verification": null,
+      "researchSources": null,
+      "slug": "your-first-k-pop-concert-in-manila",
+      "source": {
+        "publisher": "HallyuScope",
+        "title": "Your first K-pop concert in Manila",
+        "url": "https://hallyuscope.com/concerts"
+      },
+      "sourceNote": "Source: HallyuScope",
+      "imageUrl": "",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Upload a cover image in the review dashboard."
+      },
+      "sourceImageUrl": "",
+      "category": "CONCERT NEWS",
+      "headline": "Your first K-pop concert in Manila",
+      "dek": "Venues, entry times, lightsticks, and the etiquette nobody tells you before your first show.",
+      "body": [
+        "Your first K-pop concert in Manila is equal parts show and logistics, and the logistics are the part nobody warns you about. This is the short version of what to know before the day.",
+        "The shows are mostly in the same venues. SM Mall of Asia Arena in Pasay hosts the biggest tours, Smart Araneta Coliseum in Quezon City hosts the mid-size ones, and New Frontier Theater, Aliw Theater, SM North EDSA Skydome, FYM Hall, and Music Museum cover the rest. Check the venue on the calendar before you plan the trip, because the same artist can play a different venue each tour.",
+        "Evening shows start between 5 and 8 PM, and doors usually open an hour or two before that. Leave early. Manila traffic does not care about your lightstick, and the queues for entry, merch, and the official lightstick booth are all longer than you expect. Bring a valid ID and your ticket, digital or printed, and keep both where you can reach them.",
+        "The lightstick is the uniform. If the group has one, bring it, charged, with spare batteries. The crowd will do the rest: fan chants during the songs, banners during the ballads, and a sea of light during the encore. If you do not know the chants, listen for a song or two first. Nobody minds a quiet first-timer, and everyone minds a camera flash in a dark arena.",
+        "After the show, the venue empties slowly. Plan your ride home before the encore, not after it. Ride hailing surges around the arena, so a pre-booked car or a meetup point a short walk away saves the wait. And keep your ticket stub. First concerts become the one you measure every other concert against."
+      ],
+      "socialCaption": "First K-pop concert in Manila? Venues, entry times, lightsticks, and the etiquette nobody tells you. Read the guide on HallyuScope.",
+      "seoDescription": "Your first K-pop concert in Manila: venues, entry times, lightsticks, and the etiquette nobody tells you.",
+      "socialHashtags": "#HallyuScope #Concert #Kpop #KpopNews #Manila",
+      "socialImageUrl": "",
+      "editedAt": "2026-11-10T09:17:19Z"
+    },
+    {
+      "id": "9bf1153d28d0",
+      "createdAt": "2026-11-10T09:17:19Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": null,
+      "model": "manual",
+      "qualityVersion": 3,
+      "verification": null,
+      "researchSources": null,
+      "slug": "album-versions-pobs-and-inclusions",
+      "source": {
+        "publisher": "HallyuScope",
+        "title": "Album versions, POBs and inclusions",
+        "url": "https://hallyuscope.com/comebacks"
+      },
+      "sourceNote": "Source: HallyuScope",
+      "imageUrl": "",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Upload a cover image in the review dashboard."
+      },
+      "sourceImageUrl": "",
+      "category": "HALLYU NEWS",
+      "headline": "Album versions, POBs and inclusions",
+      "dek": "A plain-language breakdown of versions, pre-order benefits, and what actually comes inside a K-pop album.",
+      "body": [
+        "A K-pop album is not one product. It is a set of versions, each with different covers, different photocards, and sometimes different extras, and the pre-order benefit is a whole second layer on top. Here is what each part means.",
+        "Versions are the choices. Most releases come in two or more versions, usually a different cover and a different photocard set per version. Some are member versions, where each version is dedicated to one member. Buying every version is a collector's choice, not a requirement. One version gets you the album, the songs, and a full set of inclusions.",
+        "POB stands for pre-order benefit. It is an extra photocard, or a small set of extras, given only to fans who order before the release date, and only from the shop that offers it. Each shop has its own POB, so the same album pre-ordered from two shops comes with two different extra photocards. That is why fans compare shops before they buy.",
+        "Inclusions are what comes inside the album. The standard set is a photobook, a CD, and a random photocard, plus extras that change by release: a poster, stickers, a lyrics booklet, or a postcard. The random photocard is the part fans trade. It is one member out of the group, pulled at random, and trading is half the hobby.",
+        "Where you buy matters. Official shops and the group's own store are the safe baseline. Local Philippine sellers, both online shops and physical stores, often carry the same versions and run group orders that split shipping. Check the version name, the shop's POB, and the release date before you pay, and keep the order confirmation until the album is in your hands."
+      ],
+      "socialCaption": "Versions, POBs, inclusions, what are you actually buying when you order a K-pop album? The plain-language breakdown is on HallyuScope.",
+      "seoDescription": "Album versions, POBs and inclusions: a plain-language breakdown of what you are actually buying when you order a K-pop album.",
+      "socialHashtags": "#HallyuScope #Kpop #KpopNews #Manila #KoreanCulture",
+      "socialImageUrl": "",
+      "editedAt": "2026-11-10T09:17:19Z"
     }
   ]
 }
