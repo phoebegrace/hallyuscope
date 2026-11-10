@@ -45,6 +45,13 @@
         const el = document.querySelector(selector);
         if (el && value) el.setAttribute('content', value);
       }
+      // "Source: Soompi" links to the original article when we have a real
+      // publisher name and URL; otherwise it stays plain text.
+      const sourceUrl = item.source?.url && /^https?:\/\//.test(item.source.url) && !/undefined/.test(item.source.url) ? item.source.url : '';
+      const sourceName = item.source?.publisher && !/^https?:\/\//.test(item.source.publisher) ? item.source.publisher : '';
+      const sourceHtml = sourceUrl && sourceName
+        ? `Source: <a href="${esc(sourceUrl)}" target="_blank" rel="noopener">${esc(sourceName)} ↗</a>`
+        : esc(item.sourceNote || ('Source: ' + (sourceName || 'original reporting')));
       const date = new Date(item.publishedAt || item.createdAt);
       const dateText = isFinite(date) ? date.toLocaleDateString('en-PH',{year:'numeric',month:'long',day:'numeric',timeZone:'Asia/Manila'}) : '';
       root.innerHTML = `
@@ -54,7 +61,7 @@
           <p class="article-dek">${esc(item.dek || '')}</p>
           <div class="article-meta"><span>HallyuScope</span><span>${esc(dateText)}</span></div>
           <div class="article-body">${(item.body || []).map(p => `<p>${esc(p)}</p>`).join('')}</div>
-          <aside class="article-source"><strong>Reporting source</strong><p>${esc(item.sourceNote || ('Source: ' + (item.source?.publisher || 'original reporting')))}</p></aside>
+          <aside class="article-source"><strong>Reporting source</strong><p>${sourceHtml}</p></aside>
           <section class="article-reactions" data-reactions>
             <div class="article-reactions-head">
               <div><span class="eyebrow">YOUR REACTION</span><h2>What do you think?</h2></div>
