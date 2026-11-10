@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T03:10:14.184Z",
+  "updatedAt": "2026-11-10T03:10:15.581Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -919,8 +919,8 @@
     {
       "id": "9f2e3ffcadfa",
       "createdAt": "2026-11-09T19:55:25.407Z",
-      "status": "pending_review",
-      "publishedAt": null,
+      "status": "published",
+      "publishedAt": "2026-11-10T03:10:15.581Z",
       "sourcePublishedAt": "2026-11-08T04:01:00.000Z",
       "model": "gpt-6.1-terra",
       "slug": "plave-debuts-at-no-1-on-billboard-s-world-albums-chart-with-hyperdrive",
@@ -962,7 +962,8 @@
         "facebook": null,
         "instagram": null,
         "error": "Error validating access token: Session has expired on Monday, 09-Nov-26 19:00:00 PST. The current time is Monday, 09-Nov-26 19:10:13 PST."
-      }
+      },
+      "reviewedAt": "2026-11-10T03:10:15.581Z"
     },
     {
       "id": "8f9e2bba8edb",
