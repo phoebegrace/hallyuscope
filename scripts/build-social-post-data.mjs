@@ -108,6 +108,7 @@ async function fetchPageMeta(url) {
     const html = Buffer.concat(chunks.map(v => Buffer.from(v))).toString('utf8');
     const imageUrl = metaContent(html, ['og:image:secure_url', 'og:image', 'twitter:image', 'twitter:image:src']);
     const pageTitle = metaContent(html, ['og:title', 'twitter:title']);
+    const siteName = metaContent(html, ['og:site_name', 'application-name']);
     const canonical = canonicalUrl(html);
 
     const original = new URL(url);
@@ -123,7 +124,8 @@ async function fetchPageMeta(url) {
     return {
       finalUrl: resolved,
       pageTitle,
-      imageUrl
+      imageUrl,
+      siteName
     };
   } finally {
     clearTimeout(timeout);
@@ -167,7 +169,7 @@ const baseItems = merged.filter(item => {
 
 const enriched = [];
 for (const item of baseItems) {
-  let meta = { finalUrl: item.url, pageTitle: '', imageUrl: '' };
+  let meta = { finalUrl: item.url, pageTitle: '', imageUrl: '', siteName: '' };
   try {
     meta = await fetchPageMeta(item.url);
   } catch (error) {
@@ -177,9 +179,20 @@ for (const item of baseItems) {
   const category = socialCategory(item);
   const headline = socialHeadline(meta.pageTitle || item.title);
 
+  let resolvedPublisher = item.source || null;
+  try {
+    const u = new URL(meta.finalUrl || item.url);
+    const host = u.hostname.replace(/^www\./, '');
+    if (meta.siteName && !/google news/i.test(meta.siteName)) resolvedPublisher = meta.siteName;
+    else if (/billboard\.com$/i.test(host)) resolvedPublisher = 'Billboard';
+    else if (/soompi\.com$/i.test(host)) resolvedPublisher = 'Soompi';
+    else if (/kpopmap\.com$/i.test(host)) resolvedPublisher = 'Kpopmap';
+  } catch {}
+
   enriched.push({
     id: storyId(item),
     ...item,
+    source: resolvedPublisher,
     articleUrl: meta.finalUrl || item.url,
     imageUrl: meta.imageUrl || null,
     social: {
