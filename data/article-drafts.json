@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T03:10:15.581Z",
+  "updatedAt": "2026-11-10T03:10:22.652Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -961,7 +961,7 @@
         "ok": false,
         "facebook": null,
         "instagram": null,
-        "error": "Error validating access token: Session has expired on Monday, 09-Nov-26 19:00:00 PST. The current time is Monday, 09-Nov-26 19:10:13 PST."
+        "error": "Error validating access token: Session has expired on Monday, 09-Nov-26 19:00:00 PST. The current time is Monday, 09-Nov-26 19:10:22 PST."
       },
       "reviewedAt": "2026-11-10T03:10:15.581Z"
     },
