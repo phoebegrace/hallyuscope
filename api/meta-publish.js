@@ -98,9 +98,10 @@ export default async function handler(req,res){
 
   try{
     if(facebook){
-      result.facebook=await graph('/'+encodeURIComponent(pageId)+'/feed',{
-        message:caption,
-        link:articleUrl,
+      if(!imageUrl) throw new Error('Facebook photo publishing requires a public social image URL');
+      result.facebook=await graph('/'+encodeURIComponent(pageId)+'/photos',{
+        url:imageUrl,
+        caption:caption+'\n\nRead more: '+articleUrl,
         access_token:token
       });
     }
