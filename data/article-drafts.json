@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T08:45:36.542Z",
+  "updatedAt": "2026-11-10T08:47:58.513Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -3047,7 +3047,7 @@
       "id": "7e4a9c2b8f51",
       "createdAt": "2026-11-10T06:30:53.000Z",
       "status": "published",
-      "publishedAt": "2026-11-10T08:45:36.542Z",
+      "publishedAt": "2026-11-10T08:47:58.513Z",
       "sourcePublishedAt": "2026-11-10T06:30:53.000Z",
       "model": "manual",
       "qualityVersion": 3,
@@ -3069,7 +3069,7 @@
       "sourceImageUrl": "",
       "category": "CONCERT NEWS",
       "headline": "The Philippine K-pop Concert Guide: Every 2026–2027 Show, Venue and Ticket Link",
-      "dek": "Fourteen K-pop shows are headed to the Philippines from November 2026 to March 2027, from HUTA's Heat Max to three sold-out BTS nights in Bulacan. Here is every date, venue and official ticket link in one place.",
+      "dek": "Multiple K-pop shows are headed to the Philippines from November 2026 to March 2027, from HUTA's Heat Max to three sold-out BTS nights in Bulacan. Here is every date, venue and official ticket link in one place.",
       "body": [
         "Fourteen K-pop concerts are on the calendar for the Philippines between November 2026 and March 2027, and the HallyuScope concert calendar tracks every one of them — with the poster, seat plan and official ticket link for each show. Here is the full rundown, month by month.",
         "November opens with LEE MINHYUK (HUTA), who brings his HEAT MAX tour to the SM North EDSA Skydome in Quezon City on November 21, then PENTAGON's 10th anniversary tour, 101010, at the Aliw Theater in Pasay on November 29. Both shows are on sale through Ticketmaster Philippines. One date fans should cross off: OMEGA X's November 28 Manila show was cancelled in September, and the promoter is processing refunds.",
@@ -3079,15 +3079,15 @@
         "March belongs to BTS. The group's ARIRANG world tour plays three nights at the Philippine Sports Stadium in Bulacan — March 13, 14 and 16 — and all three are sold out. The March 16 date was added after the first two sold out in June 2026.",
         "Two things worth knowing before you buy. First, every ticket link on the HallyuScope concert calendar goes to the official seller for that show — Ticketmaster Philippines, SM Tickets, TicketNet, Tap Your Tickets or Megatix — so a link that is not on the calendar is not one we have verified. Second, prices and statuses change: the ranges in this guide are the prices as announced, and the calendar is updated as shows sell out, move or are added."
       ],
-      "socialCaption": "14 K-pop shows. Nov 2026–Mar 2027. Every date, venue and official ticket link, in one guide. #Kpop #Manila #HallyuScope",
+      "socialCaption": "Upcoming K-pop shows. Nov 2026–Mar 2027. Every date, venue and official ticket link, in one guide.",
       "seoDescription": "Every K-pop concert in the Philippines from November 2026 to March 2027: dates, venues, ticket prices and official ticket links for HUTA, PENTAGON, LE SSERAFIM, NCT 127, KATSEYE, BIGBANG, BTS and more.",
       "socialHashtags": "#Kpop #KpopConcert #Philippines #KpopConcerts #ConcertGuide",
-      "socialImageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/7e4a9c2b8f51-social-mwag2h27.png",
+      "socialImageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/7e4a9c2b8f51-social-mwag462k.png",
       "socialPlatforms": {
         "facebook": true,
         "instagram": true
       },
-      "reviewedAt": "2026-11-10T08:45:36.542Z"
+      "reviewedAt": "2026-11-10T08:47:58.513Z"
     }
   ]
 }
