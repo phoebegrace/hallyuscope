@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T19:57:15.733Z",
+  "updatedAt": "2026-11-10T01:25:36.805Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -2830,8 +2830,8 @@
     {
       "id": "c778da60f638",
       "createdAt": "2026-11-09T12:37:12.160Z",
-      "status": "pending_review",
-      "publishedAt": null,
+      "status": "published",
+      "publishedAt": "2026-11-10T01:25:36.805Z",
       "sourcePublishedAt": "2026-11-08T22:49:00.000Z",
       "model": "gpt-6.1-terra",
       "slug": "cortis-returns-to-no-1-on-billboard-world-albums-chart-as-nmixx-and-jxj-debut",
@@ -2860,8 +2860,14 @@
       "imageType": "hallyuscope_original",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
-      }
+        "note": "HallyuScope original editorial cover."
+      },
+      "socialImageUrl": "",
+      "socialPlatforms": {
+        "facebook": true,
+        "instagram": true
+      },
+      "reviewedAt": "2026-11-10T01:25:36.805Z"
     },
     {
       "id": "9d079c908a31",
