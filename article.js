@@ -60,11 +60,13 @@
       if (!sources.length && validName(item.source?.publisher) && validUrl(item.source?.url)) {
         sources.push({ name: item.source.publisher, url: item.source.url });
       }
-      const sourceHtml = sources.length
-        ? (sources.length > 1 ? 'Sources: ' : 'Source: ') + sources.map(s =>
+      const strongerThanSoompi = sources.some(s => !/^soompi$/i.test(s.name));
+      const publicSources = strongerThanSoompi ? sources.filter(s => !/^soompi$/i.test(s.name)) : sources;
+      const sourceHtml = publicSources.length
+        ? (publicSources.length > 1 ? 'Sources: ' : 'Source: ') + publicSources.map(s =>
             `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)} ↗</a>`).join(' · ')
         : esc(item.sourceNote || ('Source: ' + (validName(item.source?.publisher) ? item.source.publisher : 'original reporting')));
-      const sourceLabel = sources.length > 1 ? 'Sources' : 'Reporting source';
+      const sourceLabel = publicSources.length > 1 ? 'Sources' : 'Reporting source';
       const date = new Date(item.publishedAt || item.createdAt);
       const dateText = isFinite(date) ? date.toLocaleDateString('en-PH',{year:'numeric',month:'long',day:'numeric',timeZone:'Asia/Manila'}) : '';
       root.innerHTML = `
@@ -73,6 +75,7 @@
           <h1>${esc(item.headline || '')}</h1>
           <p class="article-dek">${esc(item.dek || '')}</p>
           <div class="article-meta"><span>HallyuScope</span><span>${esc(dateText)}</span></div>
+          ${item.imageUrl ? `<figure class="article-banner"><img src="${esc(new URL(item.imageUrl,'https://hallyuscope.com').href)}" alt="${esc(item.headline||'')}" loading="eager" decoding="async"></figure>` : ''}
           <div class="article-body">${(item.body || []).map(p => `<p>${esc(p)}</p>`).join('')}</div>
           <aside class="article-source"><strong>${sourceLabel}</strong><p>${sourceHtml}</p></aside>
           <section class="article-reactions" data-reactions>
