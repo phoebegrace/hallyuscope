@@ -12,8 +12,21 @@
   let current = null;
   let filter = 'pending_review';
   let autoPublish = false;
+  let queueUpdatedAt = '';
 
   const esc = (s='') => String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  function ago(value){
+    const t=Date.parse(value||'');
+    if(!Number.isFinite(t)) return 'recently';
+    const seconds=Math.max(0,Math.round((Date.now()-t)/1000));
+    if(seconds<60) return 'just now';
+    const mins=Math.floor(seconds/60);
+    if(mins<60) return mins+' min'+(mins===1?'':'s')+' ago';
+    const hours=Math.floor(mins/60);
+    if(hours<24) return hours+' hr'+(hours===1?'':'s')+' ago';
+    const days=Math.floor(hours/24);
+    return days+' day'+(days===1?'':'s')+' ago';
+  }
 
   async function api(action='list', body={}) {
     const r = await fetch('/api/review', {
@@ -43,7 +56,7 @@
       <button type="button" class="review-story ${current?.id===x.id?'active':''}" data-id="${esc(x.id)}">
         <span class="review-story-tag">${esc(x.category||'HALLYU NEWS')}</span>
         <strong>${esc(x.headline||'Untitled draft')}</strong>
-        <small>${esc(x.source?.publisher||'Source')} · ${esc(x.status||'pending_review')}</small>
+        <small>${esc(x.source?.publisher||'Source')} · ${esc(x.status||'pending_review')} · Pulled ${esc(ago(x.createdAt||x.sourcePublishedAt||queueUpdatedAt))}</small>
       </button>`).join('') : '<p class="review-empty">Nothing in this stage yet.</p>';
   }
 
@@ -131,6 +144,9 @@
     const data = await api('list');
     items = data.items || [];
     autoPublish = data.autoPublish === true;
+    queueUpdatedAt = data.updatedAt || '';
+    const pulled=$('#reviewPulledAt');
+    if(pulled) pulled.textContent='Last data pull '+ago(queueUpdatedAt);
     counts();
     renderAutoPublish();
     if(current) current = items.find(x=>x.id===current.id) || null;
