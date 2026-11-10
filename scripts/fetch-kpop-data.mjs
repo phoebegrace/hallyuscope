@@ -120,9 +120,10 @@ function looksLikeComeback(item) {
 }
 
 function clean(items, limit) {
-  return sortNewest(dedupe(items)).slice(0, limit).map(({ description, ...item }) => ({
+  return sortNewest(dedupe(items)).slice(0, limit).map((item) => ({
     ...item,
-    title: normalizeTitle(item.title)
+    title: normalizeTitle(item.title),
+    sourceSummary: String(item.description || '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim().slice(0, 1200)
   }));
 }
 
