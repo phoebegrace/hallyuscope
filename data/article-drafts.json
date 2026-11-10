@@ -1,8 +1,89 @@
 {
-  "updatedAt": "2026-11-10T09:23:51.298Z",
+  "updatedAt": "2026-11-10T09:35:56.787Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
+    {
+      "id": "87dd3ef213b2",
+      "createdAt": "2026-11-10T09:35:56.787Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": null,
+      "model": "gpt-6.1-terra",
+      "qualityVersion": "ai-center-1",
+      "slug": "k-pop-s-big-four-establish-fanomenon-company-ahead-of-2027-festival",
+      "source": {
+        "publisher": "Korea.net",
+        "title": "Massive K-pop-focused event Fanomenon to debut in December 2027",
+        "url": "https://www.korea.net/NewsFocus/Culture/view?articleId=296715"
+      },
+      "aiResearch": {
+        "seed": "HYBE, SM Entertainment, JYP Entertainment, and YG Entertainment have jointly established a new company, FANOMENON Co., Ltd. \nThe company will oversee the planning, production, and operation of FANOMENON, scheduled for December 2027.",
+        "notes": "",
+        "researchSummary": "The Korea Herald and The Asia Business Daily report that FANOMENON Co., Ltd., a joint venture involving HYBE, SM, JYP and YG, was registered on October 26, 2026. South Korea’s official Korea.net confirms that the first FANOMENON event is planned for December 2–12, 2027, at Seoul Arena and KINTEX.",
+        "facts": [
+          "FANOMENON Co., Ltd. was registered on October 26, 2026.",
+          "HYBE, SM Entertainment, JYP Entertainment and YG Entertainment participate in the joint venture.",
+          "The company launched with 4 billion won in paid-in capital, according to The Korea Herald.",
+          "The inaugural FANOMENON is planned for December 2–12, 2027, at Seoul Arena and KINTEX in Goyang.",
+          "The event plan includes concerts, fandom awards, exhibitions and interactive programs.",
+          "A revised agreement reportedly divides trademark rights equally between the Culture Ministry and the joint venture."
+        ],
+        "sources": [
+          {
+            "publisher": "Korea.net",
+            "title": "Massive K-pop-focused event Fanomenon to debut in December 2027",
+            "url": "https://www.korea.net/NewsFocus/Culture/view?articleId=296715",
+            "kind": "official"
+          },
+          {
+            "publisher": "The Korea Herald",
+            "title": "Fanomenon company launches with W4b, board seats for Hybe, SM, JYP, YG",
+            "url": "https://www.koreaherald.com/article/10932591",
+            "kind": "publisher"
+          },
+          {
+            "publisher": "The Asia Business Daily",
+            "title": "K-pop Festival 'FANOMENON': Joint Venture of Four Major Agencies Established in October",
+            "url": "https://www.asiae.co.kr/en/article/2026111015285667845",
+            "kind": "publisher"
+          },
+          {
+            "publisher": "Yonhap News Agency",
+            "title": "Big 4 K-pop agencies pushing for joint venture to launch global festival",
+            "url": "https://en.yna.co.kr/view/AEN20260416009400315",
+            "kind": "publisher"
+          }
+        ]
+      },
+      "imageUrl": "",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": null,
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Add or generate a HallyuScope editorial image during review."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "K-Pop’s Big Four Establish FANOMENON Company Ahead of 2027 Festival",
+      "dek": "HYBE, SM, JYP and YG have joined forces on a company for the K-culture event planned across Seoul and Goyang in December 2027.",
+      "body": [
+        "HYBE, SM Entertainment, JYP Entertainment and YG Entertainment have established a joint venture for FANOMENON, bringing four of K-pop’s largest agencies together ahead of the planned December 2027 festival.",
+        "FANOMENON Co., Ltd. was registered on October 26, 2026, according to corporate registry information reported by The Korea Herald. The company will oversee the event’s planning, production and operation, marking a step forward for a project the agencies began preparing earlier this year.",
+        "The inaugural FANOMENON is scheduled for December 2–12, 2027, at Seoul Arena in Seoul and KINTEX in Goyang, Gyeonggi Province. According to Korea.net, the plan combines K-pop concerts and fandom awards with exhibitions and interactive programs from Korean culture companies.",
+        "At Seoul Arena, the awards are envisioned as a mix of performances and honors for fan communities, with artists accepting awards on their fans’ behalf. KINTEX is planned to host multi-artist performances alongside exhibitions and hands-on experiences.",
+        "The Korea Herald reports that FANOMENON Co. launched with 4 billion won in paid-in capital. Park Yun-suh, who previously worked at HYBE and JYP, will serve as CEO, while each of the four participating agencies has a non-executive director on the board.",
+        "The company’s stated business scope extends beyond staging performances to areas including ticket sales, venue operating rights, merchandise and intellectual-property licensing. Its formation follows an April announcement by the agencies that they were preparing a collaborative company to advance the event.",
+        "The FANOMENON name combines “fan” and “phenomenon.” The project has also drawn scrutiny over its trademark, which JYP initially filed. The Korea Herald reports that a revised agreement submitted to the National Assembly divides the rights equally between the Culture Ministry and the joint venture."
+      ],
+      "seoDescription": "HYBE, SM, JYP and YG establish FANOMENON Co. ahead of the K-culture festival planned for Seoul and Goyang from December 2–12, 2027.",
+      "socialCaption": "K-pop’s Big Four have established the company behind FANOMENON, ahead of its planned 2027 debut.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#FANOMENON",
+        "#Kpop"
+      ],
+      "sourceNote": "Sources: Korea.net, The Korea Herald, The Asia Business Daily, Yonhap News Agency"
+    },
     {
       "id": "d11d8fb9fea2",
       "createdAt": "2026-11-10T06:02:16.295Z",
