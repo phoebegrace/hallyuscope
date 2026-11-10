@@ -10,8 +10,29 @@
       const item = (data.items || []).find(x => x.id === id && x.status === 'published');
       if (!item) throw new Error('missing');
       document.title = item.headline + ' | HallyuScope';
+      const canonicalUrl = 'https://hallyuscope.com/article?id=' + encodeURIComponent(item.id);
+      const descText = item.seoDescription || item.dek || 'K-pop and Korean entertainment news from HallyuScope.';
+      const imageUrl = item.imageUrl ? new URL(item.imageUrl, 'https://hallyuscope.com').href : 'https://hallyuscope.com/assets/hallyuscope-logo.png';
+
       const desc = document.querySelector('meta[name="description"]');
-      if (desc && item.seoDescription) desc.setAttribute('content', item.seoDescription);
+      if (desc) desc.setAttribute('content', descText);
+
+      const canonical = document.querySelector('link[rel="canonical"]');
+      if (canonical) canonical.setAttribute('href', canonicalUrl);
+
+      const metaMap = {
+        'meta[property="og:title"]': item.headline,
+        'meta[property="og:description"]': descText,
+        'meta[property="og:url"]': canonicalUrl,
+        'meta[property="og:image"]': imageUrl,
+        'meta[name="twitter:title"]': item.headline,
+        'meta[name="twitter:description"]': descText,
+        'meta[name="twitter:image"]': imageUrl
+      };
+      for (const [selector,value] of Object.entries(metaMap)) {
+        const el = document.querySelector(selector);
+        if (el && value) el.setAttribute('content', value);
+      }
       const date = new Date(item.publishedAt || item.createdAt);
       const dateText = isFinite(date) ? date.toLocaleDateString('en-PH',{year:'numeric',month:'long',day:'numeric',timeZone:'Asia/Manila'}) : '';
       root.innerHTML = `
