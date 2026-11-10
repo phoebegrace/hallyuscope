@@ -53,12 +53,12 @@
       ].join('-');
       const dayEvents = events.filter(e => String(e.date).slice(0,10)===key);
       const isToday = new Date().toDateString()===d.toDateString();
-      cells += '<button type="button" class="concert-day ' +
+      cells += '<div class="concert-day ' +
         (dayEvents.length?'has-event ':'') + (dayEvents.length>1?'has-many ':'') + (isToday?'is-today':'') +
-        '" data-date="'+key+'" '+(!dayEvents.length?'disabled':'')+'>' +
+        '" data-date="'+key+'">' +
         '<span class="concert-day-num">'+day+'</span>' +
-        (dayEvents.length?'<span class="concert-dot">'+esc(dayEvents[0].artist || dayEvents[0].title || 'Concert')+(dayEvents.length>1?' +'+(dayEvents.length-1):'')+'</span>':'') +
-        '</button>';
+        dayEvents.map(ev=>'<button type="button" class="concert-dot" data-event-id="'+esc(ev.id)+'">'+esc(ev.artist||ev.title||'Concert')+'</button>').join('') +
+        '</div>';
     }
     grid.innerHTML=cells;
 
@@ -106,11 +106,17 @@
     const ticket = e.ticketUrl
       ? '<a class="concert-ticket-btn" href="'+esc(e.ticketUrl)+'" target="_blank" rel="noopener"><span>Buy Official Tickets</span><span>↗</span></a>'
       : '<span class="concert-ticket-btn is-disabled"><span>Ticket link coming soon</span><span>—</span></span>';
+    const validImg = u => typeof u === 'string' && /^https?:\/\//.test(u);
+    const poster = validImg(e.poster)
+      ? '<figure class="concert-poster"><img src="'+esc(e.poster)+'" alt="'+esc((e.artist||'Concert')+' official poster')+'" loading="lazy"></figure>' : '';
+    const seatPlan = validImg(e.seatPlan)
+      ? '<figure class="concert-seatplan"><figcaption>Seat plan</figcaption><img src="'+esc(e.seatPlan)+'" alt="'+esc((e.artist||'Concert')+' seat plan')+'" loading="lazy"></figure>' : '';
 
     detailBody.innerHTML =
       '<div class="concert-detail-grid"><div>' +
       '<span class="eyebrow">'+esc((e.type||'Concert').toUpperCase())+'</span>' +
       '<h3>'+esc(e.artist||e.title||'Concert')+(e.tour?' — '+esc(e.tour):'')+'</h3>' +
+      poster +
       '<p class="concert-detail-dek">'+esc(e.description||'More details will be added as official information is confirmed.')+'</p>' +
       '<div class="concert-facts">' +
         fact('Date',fmt(d,{weekday:'long',month:'long',day:'numeric',year:'numeric'})) +
@@ -119,7 +125,7 @@
         fact('Status',e.status||'Tracking') +
         fact('Ticket range',e.ticketRange||'TBA') +
         fact('Promoter',e.promoter||'TBA') +
-      '</div></div>' +
+      '</div>' + seatPlan + '</div>' +
       '<aside class="concert-ticket-box"><span class="eyebrow">OFFICIAL TICKETING</span><h4>'+esc(e.ticketProvider||'Ticket details')+'</h4><p>HallyuScope links only to verified official ticketing or promoter destinations when available.</p>'+ticket+
       '<div class="concert-calendar-actions"><a href="'+googleCalendarUrl(e)+'" target="_blank" rel="noopener">Google Calendar</a><a href="#" data-download-ics="'+esc(e.id)+'">Apple / Outlook</a></div></aside></div>';
 

@@ -68,6 +68,7 @@
             </select>
           </label>
           <label>Image URL<input id="editImageUrl" value="${esc(current.imageUrl||'')}" placeholder="https://..."></label>
+          <div class="review-upload-row"><label class="review-upload-btn">Upload image<input type="file" id="editImageUpload" accept="image/jpeg,image/png,image/webp,image/gif" hidden></label><span class="meta" id="reviewImageUploadMessage">JPG, PNG, WebP or GIF, up to 3 MB. The file is saved to the site's editorial images.</span></div>
           ${current.sourceImageUrl ? '<details class="review-image-reference"><summary>Internal source thumbnail reference</summary><p class="meta">'+esc(current.sourceImageUrl)+'</p></details>' : ''}
           <p class="meta">Only choose “Verified Official Asset” for an image from the artist, agency, promoter, venue, ticketing partner, or another clearly official source.</p>
         </div>
@@ -93,6 +94,7 @@
         </div>
         <label>Social caption<textarea id="editSocialCaption" rows="6">${esc(current.socialCaption||current.dek||'')}</textarea></label>
         <label>Social image URL<input id="editSocialImageUrl" value="${esc(current.socialImageUrl||'')}" placeholder="Generate from the HTML/CSS template"></label>
+        <div class="review-upload-row"><label class="review-upload-btn">Upload image<input type="file" id="editSocialImageUpload" accept="image/jpeg,image/png,image/webp,image/gif" hidden></label><span class="meta" id="reviewSocialUploadMessage">JPG, PNG, WebP or GIF, up to 3 MB — or generate a social card below.</span></div>
         <p class="meta">The HallyuScope renderer creates a 1080 × 1350 PNG from the article image, category, headline, and description.</p>
         <div class="review-social-actions">
           <button type="button" class="review-generate-card" data-generate-card="1">Generate social card</button>
@@ -223,6 +225,47 @@
       note.textContent='Social card ready. Preview it before posting.';
     }catch(err){ note.textContent=err.message; }
     finally{ b.disabled=false; }
+  });
+
+  async function uploadImage(file, kind){
+    const inputId = kind==='social' ? '#editSocialImageUrl' : '#editImageUrl';
+    const msgId = kind==='social' ? '#reviewSocialUploadMessage' : '#reviewImageUploadMessage';
+    const msg = $(msgId);
+    const allowed = ['image/jpeg','image/png','image/webp','image/gif'];
+    if(!file) return;
+    if(!allowed.includes(file.type)){ if(msg) msg.textContent='Only JPG, PNG, WebP or GIF images.'; return; }
+    if(file.size > 3*1024*1024){ if(msg) msg.textContent='Image must be under 3 MB.'; return; }
+    if(msg) msg.textContent='Uploading…';
+    try{
+      const data = await new Promise((resolve,reject)=>{
+        const reader=new FileReader();
+        reader.onload=()=>resolve(String(reader.result).split(',')[1]||'');
+        reader.onerror=()=>reject(new Error('Could not read the image file'));
+        reader.readAsDataURL(file);
+      });
+      const r=await fetch('/api/upload-image',{
+        method:'POST',
+        headers:{'Content-Type':'application/json','x-review-password':password},
+        body:JSON.stringify({id:current?.id||'',kind,mime:file.type,data})
+      });
+      const res=await r.json().catch(()=>({}));
+      if(!r.ok) throw new Error(res.error||'Upload failed');
+      const input=$(inputId);
+      if(input) input.value=res.imageUrl||'';
+      if(kind==='article'){
+        const prev=document.querySelector('.review-image-preview');
+        if(prev) prev.innerHTML='<img src="'+esc(res.imageUrl)+'" alt="Article image preview" referrerpolicy="no-referrer">';
+      }else{
+        const preview=$('#reviewPreviewCard');
+        if(preview&&res.imageUrl){ preview.href=res.imageUrl; preview.hidden=false; }
+      }
+      if(msg) msg.textContent='Uploaded. Save the draft to keep it.';
+    }catch(err){ if(msg) msg.textContent=err.message; }
+  }
+
+  editor.addEventListener('change',e=>{
+    if(e.target.id==='editImageUpload') uploadImage(e.target.files[0],'article');
+    if(e.target.id==='editSocialImageUpload') uploadImage(e.target.files[0],'social');
   });
 
   editor.addEventListener('click',async e=>{
