@@ -9,6 +9,23 @@ const OPENAI='https://api.openai.com/v1/responses';
 const MODEL=process.env.AI_CENTER_MODEL||process.env.OPENAI_DRAFT_MODEL||'gpt-6.1-terra';
 
 function reply(res,status,data){res.status(status).json(data);}
+
+// Long dashes are never allowed in HallyuScope articles. The model is
+// told not to use them, and this strips any that slip through anyway, so
+// a draft can never contain one no matter which model wrote it.
+function cleanDashes(value = '') {
+  return String(value)
+    .replace(/ —\./g, '.')
+    .replace(/ —/g, ',')
+    .replace(/ — /g, ', ')
+    .replace(/— /g, ', ')
+    .replace(/—/g, ', ')
+    .replace(/–/g, '-')
+    .replace(/,\s*,/g, ',')
+    .replace(/\s+,/g, ',')
+    .replace(/ +/g, ' ')
+    .trim();
+}
 function authorized(req){
   const expected=process.env.REVIEW_PASSWORD||'';
   const supplied=req.headers['x-review-password']||'';
@@ -115,7 +132,7 @@ Do not treat Google News, search result pages, repost aggregators, or social fan
 
 Cross-check names, dates, venues, release details, chart positions, ticket information and other factual claims. Do not invent missing information. If a detail is not verified, omit it rather than writing meta-commentary like "the report does not specify" or "details were not included."
 
-Write an original HallyuScope article, not a rewrite of one source. Aim for 300-550 words when the research supports it. A short story may be 180-300 words, but it must still feel complete and useful.
+Write an original HallyuScope article, not a rewrite of one source. Aim for 300-550 words when the research supports it. A short story may be 180-300 words, but it must still feel complete and useful. Never use em dashes (—) or en dashes (–) anywhere in the article, dek, caption, or descriptions. Use commas, periods, or short hyphens (-) instead.
 
 Return ONLY valid JSON with exactly this shape:
 {
@@ -194,11 +211,11 @@ async function saveDraft(payload){
     sourceImageUrl:null,
     imagePolicy:{type:'hallyuscope_original',note:'Add or generate a HallyuScope editorial image during review.'},
     category:String(draft.category||'HALLYU NEWS').trim(),
-    headline:String(draft.headline).trim(),
-    dek:String(draft.dek||'').trim(),
-    body:draft.body.map(x=>String(x).trim()).filter(Boolean),
-    seoDescription:String(draft.seoDescription||'').trim(),
-    socialCaption:String(draft.socialCaption||'').trim(),
+    headline:cleanDashes(draft.headline),
+    dek:cleanDashes(draft.dek||''),
+    body:draft.body.map(x=>cleanDashes(x)).filter(Boolean),
+    seoDescription:cleanDashes(draft.seoDescription||''),
+    socialCaption:cleanDashes(draft.socialCaption||''),
     socialHashtags:(draft.socialHashtags||[]).map(x=>String(x).trim()).filter(x=>/^#[\p{L}\p{N}_]+$/u.test(x)).slice(0,5),
     sourceNote:sources.length?'Sources: '+sources.map(s=>s.publisher).filter((x,i,a)=>a.indexOf(x)===i).join(', '):'AI-assisted research'
   };

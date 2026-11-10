@@ -44,6 +44,23 @@ function cleanText(value = '') {
     .trim();
 }
 
+// Long dashes are never allowed in HallyuScope articles. The model is
+// told not to use them, and this strips any that slip through anyway, so
+// a draft can never contain one no matter which model wrote it.
+function cleanDashes(value = '') {
+  return String(value)
+    .replace(/ —\./g, '.')
+    .replace(/ —/g, ',')
+    .replace(/ — /g, ', ')
+    .replace(/— /g, ', ')
+    .replace(/—/g, ', ')
+    .replace(/–/g, '-')
+    .replace(/,\s*,/g, ',')
+    .replace(/\s+,/g, ',')
+    .replace(/ +/g, ' ')
+    .trim();
+}
+
 function extractArticleText(html = '') {
   const paragraphMatches = [...html.matchAll(/<p\b[^>]*>([\s\S]*?)<\/p>/gi)]
     .map(match => cleanText(match[1]))
@@ -453,15 +470,15 @@ ${material}`;
   }
 
   return {
-    headline: String(draft.headline).trim(),
-    dek: String(draft.dek || '').trim(),
-    body: draft.body.map(x => String(x).trim()).filter(Boolean),
-    socialCaption: String(draft.socialCaption || '').trim(),
+    headline: cleanDashes(draft.headline),
+    dek: cleanDashes(draft.dek || ''),
+    body: draft.body.map(x => cleanDashes(x)).filter(Boolean),
+    socialCaption: cleanDashes(draft.socialCaption || ''),
     socialHashtags: Array.isArray(draft.socialHashtags)
       ? draft.socialHashtags.map(x => String(x).trim()).filter(x => /^#[\p{L}\p{N}_]+$/u.test(x)).slice(0,5)
       : ['#HallyuScope','#Kpop','#KpopNews','#Manila','#KoreanCulture'],
-    seoDescription: String(draft.seoDescription || '').trim(),
-    sourceNote: String(draft.sourceNote || `Source: ${reference.publisher}`).trim()
+    seoDescription: cleanDashes(draft.seoDescription || ''),
+    sourceNote: cleanDashes(draft.sourceNote || `Source: ${reference.publisher}`)
   };
 }
 

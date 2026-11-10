@@ -40,12 +40,29 @@ async function readQueue(){
   return {file,json};
 }
 
+// Long dashes are never allowed in HallyuScope articles. The model is
+// told not to use them, and this strips any that slip through anyway, so
+// a draft can never contain one no matter which model wrote it.
+function cleanDashes(value = '') {
+  return String(value)
+    .replace(/ —\./g, '.')
+    .replace(/ —/g, ',')
+    .replace(/ — /g, ', ')
+    .replace(/— /g, ', ')
+    .replace(/—/g, ', ')
+    .replace(/–/g, '-')
+    .replace(/,\s*,/g, ',')
+    .replace(/\s+,/g, ',')
+    .replace(/ +/g, ' ')
+    .trim();
+}
+
 function cleanPatch(patch={}){
   const out={};
   for(const key of ['headline','dek','category','seoDescription','socialCaption','socialHashtags','socialImageUrl','imageUrl','imageType']){
-    if(typeof patch[key]==='string') out[key]=patch[key].trim();
+    if(typeof patch[key]==='string') out[key]=cleanDashes(patch[key]);
   }
-  if(Array.isArray(patch.body)) out.body=patch.body.map(x=>String(x).trim()).filter(Boolean);
+  if(Array.isArray(patch.body)) out.body=patch.body.map(x=>cleanDashes(x)).filter(Boolean);
   if(patch.socialPlatforms && typeof patch.socialPlatforms==='object'){
     out.socialPlatforms={
       facebook:patch.socialPlatforms.facebook!==false,
