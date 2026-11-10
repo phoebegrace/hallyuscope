@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T11:21:25.773Z",
+  "updatedAt": "2026-11-10T11:22:46.888Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -1046,7 +1046,7 @@
     {
       "id": "52a985c8d93c",
       "createdAt": "2026-11-10T03:57:13.108Z",
-      "status": "pending_review",
+      "status": "skipped",
       "publishedAt": null,
       "sourcePublishedAt": "2026-11-09T15:26:59.000Z",
       "model": "gpt-6.1-terra",
@@ -1061,7 +1061,7 @@
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/10002634/exo-kase_9ec39a.jpeg",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+        "note": "HallyuScope original editorial cover."
       },
       "category": "COMEBACK NEWS",
       "headline": "EXO’s Kai and Sehun Reveal EXO-KASE Teaser Ahead of Unit Debut",
@@ -1075,7 +1075,13 @@
       "sourceNote": "Source: Soompi",
       "qualityVersion": 2,
       "socialHashtags": "#HallyuScope #EXO #EXOKASE #Comeback #Teaser",
-      "editedAt": "2026-11-10T09:14:23Z"
+      "editedAt": "2026-11-10T09:14:23Z",
+      "socialImageUrl": "",
+      "socialPlatforms": {
+        "facebook": true,
+        "instagram": true
+      },
+      "reviewedAt": "2026-11-10T11:22:46.888Z"
     },
     {
       "id": "b19c99320baf",
