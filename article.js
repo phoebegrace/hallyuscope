@@ -21,10 +21,17 @@
         try { history.replaceState(null, '', '/article/' + encodeURIComponent(item.slug)); } catch {}
       }
       const descText = item.seoDescription || item.dek || 'K-pop and Korean entertainment news from HallyuScope.';
-      // Editorial covers are SVGs, which Facebook/X cannot use as og:image.
-      const imageUrl = item.imageUrl && !/\.svg(\?|$)/i.test(item.imageUrl)
-        ? new URL(item.imageUrl, 'https://hallyuscope.com').href
+      // Social previews need a real PNG. The generated social card wins;
+      // the editorial cover is an SVG, which Facebook/X cannot use.
+      const usableImage = u => typeof u === 'string' && /^https?:\/\//.test(u) && !/\.svg(\?|$)/i.test(u) && !/undefined/.test(u);
+      const imageUrl = usableImage(item.socialImageUrl) ? item.socialImageUrl
+        : usableImage(item.imageUrl) ? new URL(item.imageUrl, 'https://hallyuscope.com').href
         : 'https://hallyuscope.com/assets/og-image.png';
+      // The editorial cover shows on the article page itself. SVGs render
+      // fine in an <img>, so any cover format works here.
+      const coverHtml = (typeof item.imageUrl === 'string' && /^https?:\/\//.test(item.imageUrl) && !/undefined/.test(item.imageUrl))
+        ? `<figure class="article-cover"><img src="${esc(item.imageUrl)}" alt="${esc(item.headline || 'HallyuScope story')}"></figure>`
+        : '';
 
       const desc = document.querySelector('meta[name="description"]');
       if (desc) desc.setAttribute('content', descText);
@@ -45,13 +52,26 @@
         const el = document.querySelector(selector);
         if (el && value) el.setAttribute('content', value);
       }
-      // "Source: Soompi" links to the original article when we have a real
-      // publisher name and URL; otherwise it stays plain text.
-      const sourceUrl = item.source?.url && /^https?:\/\//.test(item.source.url) && !/undefined/.test(item.source.url) ? item.source.url : '';
-      const sourceName = item.source?.publisher && !/^https?:\/\//.test(item.source.publisher) ? item.source.publisher : '';
-      const sourceHtml = sourceUrl && sourceName
-        ? `Source: <a href="${esc(sourceUrl)}" target="_blank" rel="noopener">${esc(sourceName)} ↗</a>`
-        : esc(item.sourceNote || ('Source: ' + (sourceName || 'original reporting')));
+      // "Sources:" lists every outlet the research actually used, each
+      // linked; duplicates by publisher collapse to the first URL.
+      // Drafts written before research existed fall back to the single
+      // reference source; with no usable link it stays plain text.
+      const validUrl = u => typeof u === 'string' && /^https?:\/\//.test(u) && !/undefined/.test(u);
+      const validName = n => typeof n === 'string' && n.trim() && !/^https?:\/\//.test(n);
+      const sources = [];
+      for (const s of (Array.isArray(item.researchSources) ? item.researchSources : [])) {
+        if (validName(s?.publisher) && validUrl(s?.url) && !sources.some(x => x.name.toLowerCase() === s.publisher.toLowerCase())) {
+          sources.push({ name: s.publisher, url: s.url });
+        }
+      }
+      if (!sources.length && validName(item.source?.publisher) && validUrl(item.source?.url)) {
+        sources.push({ name: item.source.publisher, url: item.source.url });
+      }
+      const sourceHtml = sources.length
+        ? (sources.length > 1 ? 'Sources: ' : 'Source: ') + sources.map(s =>
+            `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)} ↗</a>`).join(' · ')
+        : esc(item.sourceNote || ('Source: ' + (validName(item.source?.publisher) ? item.source.publisher : 'original reporting')));
+      const sourceLabel = sources.length > 1 ? 'Sources' : 'Reporting source';
       const date = new Date(item.publishedAt || item.createdAt);
       const dateText = isFinite(date) ? date.toLocaleDateString('en-PH',{year:'numeric',month:'long',day:'numeric',timeZone:'Asia/Manila'}) : '';
       root.innerHTML = `
@@ -60,8 +80,9 @@
           <h1>${esc(item.headline || '')}</h1>
           <p class="article-dek">${esc(item.dek || '')}</p>
           <div class="article-meta"><span>HallyuScope</span><span>${esc(dateText)}</span></div>
+          ${coverHtml}
           <div class="article-body">${(item.body || []).map(p => `<p>${esc(p)}</p>`).join('')}</div>
-          <aside class="article-source"><strong>Reporting source</strong><p>${sourceHtml}</p></aside>
+          <aside class="article-source"><strong>${sourceLabel}</strong><p>${sourceHtml}</p></aside>
           <section class="article-reactions" data-reactions>
             <div class="article-reactions-head">
               <div><span class="eyebrow">YOUR REACTION</span><h2>What do you think?</h2></div>

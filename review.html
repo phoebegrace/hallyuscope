@@ -27,7 +27,7 @@
     <header class="review-top">
       <a href="/" class="review-brand"><img src="/assets/hallyuscope-logo.png" alt="HallyuScope"></a>
       <div><span class="eyebrow">EDITORIAL DESK</span><h1>Review queue</h1></div>
-      <button id="reviewLogout" type="button">Log out</button>
+      <div class="review-top-actions"><a href="/ai-center">AI Center</a><button id="reviewLogout" type="button">Log out</button></div>
     </header>
 
     <div class="review-pipeline" id="reviewPipeline"></div>
@@ -47,7 +47,7 @@
 
     <div class="review-layout">
       <aside class="review-queue">
-        <div class="review-queue-head"><strong>Stories</strong><button id="reviewRefresh" type="button">Refresh</button></div>
+        <div class="review-queue-head"><div><strong>Stories</strong><small class="meta" id="reviewPulledAt">Pulled just now</small></div><button id="reviewRefresh" type="button">Refresh</button></div>
         <div class="review-filters" id="reviewFilters">
           <button type="button" data-filter="pending_review" aria-pressed="true">Pending</button>
           <button type="button" data-filter="published">Published</button>

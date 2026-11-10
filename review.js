@@ -12,8 +12,21 @@
   let current = null;
   let filter = 'pending_review';
   let autoPublish = false;
+  let queueUpdatedAt = '';
 
   const esc = (s='') => String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  function ago(value){
+    const t=Date.parse(value||'');
+    if(!Number.isFinite(t)) return 'recently';
+    const seconds=Math.max(0,Math.round((Date.now()-t)/1000));
+    if(seconds<60) return 'just now';
+    const mins=Math.floor(seconds/60);
+    if(mins<60) return mins+' min'+(mins===1?'':'s')+' ago';
+    const hours=Math.floor(mins/60);
+    if(hours<24) return hours+' hr'+(hours===1?'':'s')+' ago';
+    const days=Math.floor(hours/24);
+    return days+' day'+(days===1?'':'s')+' ago';
+  }
 
   async function api(action='list', body={}) {
     const r = await fetch('/api/review', {
@@ -43,7 +56,7 @@
       <button type="button" class="review-story ${current?.id===x.id?'active':''}" data-id="${esc(x.id)}">
         <span class="review-story-tag">${esc(x.category||'HALLYU NEWS')}</span>
         <strong>${esc(x.headline||'Untitled draft')}</strong>
-        <small>${esc(x.source?.publisher||'Source')} · ${esc(x.status||'pending_review')}</small>
+        <small>${esc(x.source?.publisher||'Source')} · ${esc(x.status||'pending_review')} · Pulled ${esc(ago(x.createdAt||x.sourcePublishedAt||queueUpdatedAt))}</small>
       </button>`).join('') : '<p class="review-empty">Nothing in this stage yet.</p>';
   }
 
@@ -68,6 +81,7 @@
             </select>
           </label>
           <label>Image URL<input id="editImageUrl" value="${esc(current.imageUrl||'')}" placeholder="https://..."></label>
+          <div class="review-upload-row"><label class="review-upload-btn">Upload image<input type="file" id="editImageUpload" accept="image/jpeg,image/png,image/webp,image/gif" hidden></label><span class="meta" id="reviewImageUploadMessage">JPG, PNG, WebP or GIF, up to 3 MB. The file is saved to the site's editorial images.</span></div>
           ${current.sourceImageUrl ? '<details class="review-image-reference"><summary>Internal source thumbnail reference</summary><p class="meta">'+esc(current.sourceImageUrl)+'</p></details>' : ''}
           <p class="meta">Only choose “Verified Official Asset” for an image from the artist, agency, promoter, venue, ticketing partner, or another clearly official source.</p>
         </div>
@@ -92,7 +106,9 @@
           <label class="review-check"><input id="socialInstagram" type="checkbox" ${current.socialPlatforms?.instagram!==false?'checked':''}> Instagram</label>
         </div>
         <label>Social caption<textarea id="editSocialCaption" rows="6">${esc(current.socialCaption||current.dek||'')}</textarea></label>
+        <label>Hashtags<input id="editSocialHashtags" value="${esc(Array.isArray(current.socialHashtags)?current.socialHashtags.join(' '):(current.socialHashtags||''))}" placeholder="#HallyuScope #Kpop #KpopNews #Manila #KoreanCulture"></label>
         <label>Social image URL<input id="editSocialImageUrl" value="${esc(current.socialImageUrl||'')}" placeholder="Generate from the HTML/CSS template"></label>
+        <div class="review-upload-row"><label class="review-upload-btn">Upload image<input type="file" id="editSocialImageUpload" accept="image/jpeg,image/png,image/webp,image/gif" hidden></label><span class="meta" id="reviewSocialUploadMessage">JPG, PNG, WebP or GIF, up to 3 MB — or generate a social card below.</span></div>
         <p class="meta">The HallyuScope renderer creates a 1080 × 1350 PNG from the article image, category, headline, and description.</p>
         <div class="review-social-actions">
           <button type="button" class="review-generate-card" data-generate-card="1">Generate social card</button>
@@ -128,6 +144,9 @@
     const data = await api('list');
     items = data.items || [];
     autoPublish = data.autoPublish === true;
+    queueUpdatedAt = data.updatedAt || '';
+    const pulled=$('#reviewPulledAt');
+    if(pulled) pulled.textContent='Last data pull '+ago(queueUpdatedAt);
     counts();
     renderAutoPublish();
     if(current) current = items.find(x=>x.id===current.id) || null;
@@ -179,6 +198,7 @@
       imageUrl:$('#editImageUrl')?.value.trim() || '',
       imageType:$('#editImageType')?.value || 'hallyuscope_original',
       socialCaption:$('#editSocialCaption')?.value.trim() || '',
+      socialHashtags:$('#editSocialHashtags')?.value.trim() || '',
       socialImageUrl:$('#editSocialImageUrl')?.value.trim() || '',
       socialPlatforms:{
         facebook:$('#socialFacebook')?.checked !== false,
@@ -225,6 +245,47 @@
     finally{ b.disabled=false; }
   });
 
+  async function uploadImage(file, kind){
+    const inputId = kind==='social' ? '#editSocialImageUrl' : '#editImageUrl';
+    const msgId = kind==='social' ? '#reviewSocialUploadMessage' : '#reviewImageUploadMessage';
+    const msg = $(msgId);
+    const allowed = ['image/jpeg','image/png','image/webp','image/gif'];
+    if(!file) return;
+    if(!allowed.includes(file.type)){ if(msg) msg.textContent='Only JPG, PNG, WebP or GIF images.'; return; }
+    if(file.size > 3*1024*1024){ if(msg) msg.textContent='Image must be under 3 MB.'; return; }
+    if(msg) msg.textContent='Uploading…';
+    try{
+      const data = await new Promise((resolve,reject)=>{
+        const reader=new FileReader();
+        reader.onload=()=>resolve(String(reader.result).split(',')[1]||'');
+        reader.onerror=()=>reject(new Error('Could not read the image file'));
+        reader.readAsDataURL(file);
+      });
+      const r=await fetch('/api/upload-image',{
+        method:'POST',
+        headers:{'Content-Type':'application/json','x-review-password':password},
+        body:JSON.stringify({id:current?.id||'',kind,mime:file.type,data})
+      });
+      const res=await r.json().catch(()=>({}));
+      if(!r.ok) throw new Error(res.error||'Upload failed');
+      const input=$(inputId);
+      if(input) input.value=res.imageUrl||'';
+      if(kind==='article'){
+        const prev=document.querySelector('.review-image-preview');
+        if(prev) prev.innerHTML='<img src="'+esc(res.imageUrl)+'" alt="Article image preview" referrerpolicy="no-referrer">';
+      }else{
+        const preview=$('#reviewPreviewCard');
+        if(preview&&res.imageUrl){ preview.href=res.imageUrl; preview.hidden=false; }
+      }
+      if(msg) msg.textContent='Uploaded. Save the draft to keep it.';
+    }catch(err){ if(msg) msg.textContent=err.message; }
+  }
+
+  editor.addEventListener('change',e=>{
+    if(e.target.id==='editImageUpload') uploadImage(e.target.files[0],'article');
+    if(e.target.id==='editSocialImageUpload') uploadImage(e.target.files[0],'social');
+  });
+
   editor.addEventListener('click',async e=>{
     const b=e.target.closest('[data-meta-post]'); if(!b||!current)return;
     const note=$('#reviewSocialMessage');
@@ -232,6 +293,7 @@
       id:current.id,
       slug:current.slug || '',
       caption:$('#editSocialCaption')?.value.trim() || current.socialCaption || current.dek || '',
+      hashtags:$('#editSocialHashtags')?.value.trim() || current.socialHashtags || '',
       imageUrl:$('#editSocialImageUrl')?.value.trim() || '',
       facebook:$('#socialFacebook')?.checked === true,
       instagram:$('#socialInstagram')?.checked === true

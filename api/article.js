@@ -21,9 +21,11 @@ const esc = (s = '') => String(s)
   .replace(/>/g, '&gt;')
   .replace(/"/g, '&quot;');
 
-// Editorial covers are SVGs, which Facebook/X cannot use as og:image.
-// Use the real 1200x630 site card until per-article PNG covers exist.
+// Social previews need a real PNG. The generated social card wins;
+// the editorial cover is an SVG, which Facebook/X cannot use as og:image.
 function shareImage(item) {
+  const social = item?.socialImageUrl || '';
+  if (social && !/\.svg(\?|$)/i.test(social) && /^https?:\/\//.test(social)) return social;
   const raw = item?.imageUrl || '';
   if (raw && !/\.svg(\?|$)/i.test(raw)) {
     try { return new URL(raw, SITE).href; } catch { /* fall through */ }

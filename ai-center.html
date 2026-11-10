@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#ffffff">
+<title>HallyuScope AI Center</title>
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,300..900&display=swap">
+<link rel="stylesheet" href="/styles.css">
+</head>
+<body class="review-body">
+<main class="ai-center">
+  <header class="ai-center-top">
+    <a href="/review" class="review-brand"><img src="/assets/hallyuscope-logo.png" alt="HallyuScope"></a>
+    <div><span class="eyebrow">EDITORIAL AI</span><h1>AI Center</h1><p>Bring in a story you spotted. Research it, verify it, then turn it into a HallyuScope draft.</p></div>
+    <a class="ai-back" href="/review">Back to Review</a>
+  </header>
+
+  <section class="ai-login" id="aiLogin">
+    <h2>Unlock editorial tools</h2>
+    <p class="meta">Uses the same password as the Review dashboard.</p>
+    <form id="aiLoginForm">
+      <label>Review password<input id="aiPassword" type="password" autocomplete="current-password" required></label>
+      <button type="submit">Enter AI Center</button>
+      <p class="meta" id="aiLoginMessage"></p>
+    </form>
+  </section>
+
+  <section class="ai-workspace" id="aiWorkspace" hidden>
+    <section class="ai-intake">
+      <span class="eyebrow">01 · PULL A STORY</span>
+      <h2>What did you see?</h2>
+      <label>News URL or headline<textarea id="aiSeed" rows="4" placeholder="Paste the article URL, post URL, or headline you saw."></textarea></label>
+      <label>Editorial notes <textarea id="aiNotes" rows="3" placeholder="Optional: PH angle, focus on ticketing, verify date, avoid rumors, etc."></textarea></label>
+      <div class="ai-intake-foot">
+        <p class="meta">AI will search for corroborating coverage and prioritize official/primary sources where available.</p>
+        <button id="aiResearch" type="button">Research + Draft</button>
+      </div>
+      <p class="ai-status meta" id="aiStatus"></p>
+    </section>
+
+    <section class="ai-result" id="aiResult" hidden>
+      <div class="ai-result-head"><div><span class="eyebrow">02 · RESEARCH</span><h2>Research pack</h2></div><span class="ai-source-count" id="aiSourceCount"></span></div>
+      <p id="aiResearchSummary"></p>
+      <div class="ai-facts" id="aiFacts"></div>
+      <div class="ai-sources" id="aiSources"></div>
+
+      <div class="ai-draft">
+        <span class="eyebrow">03 · DRAFT</span>
+        <h2>Edit before queueing</h2>
+        <div class="ai-grid">
+          <label>Category<input id="aiCategory"></label>
+          <label>Hashtags<input id="aiHashtags" placeholder="#HallyuScope #Kpop"></label>
+        </div>
+        <label>Headline<input id="aiHeadline"></label>
+        <label>Dek<textarea id="aiDek" rows="3"></textarea></label>
+        <label>Article body<textarea id="aiBody" rows="18"></textarea></label>
+        <label>SEO description<textarea id="aiSeo" rows="3"></textarea></label>
+        <label>Social caption<textarea id="aiSocial" rows="4"></textarea></label>
+        <div class="ai-save-row">
+          <p class="meta">Saving sends this to Pending Review only. It will not publish or post to Meta.</p>
+          <button id="aiSave" type="button">Send to Pending Review</button>
+        </div>
+        <p class="ai-status meta" id="aiSaveStatus"></p>
+      </div>
+    </section>
+  </section>
+</main>
+<script src="/ai-center.js" defer></script>
+</body>
+</html>

@@ -55,9 +55,9 @@ function html({image,category,headline,description,logoUrl}){
   .card{position:relative;width:${WIDTH}px;height:${HEIGHT}px;overflow:hidden;isolation:isolate;background:#01229a;color:white}
   .photo{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center;z-index:0}
   .fade{position:absolute;inset:0;z-index:1;background:linear-gradient(180deg,rgba(1,34,154,0) 0%,rgba(1,34,154,0) 34%,rgba(1,34,154,.10) 46%,rgba(1,34,154,.36) 58%,rgba(1,34,154,.72) 72%,rgba(1,34,154,.94) 89%,#01229a 100%)}
-  .logo{position:absolute;top:54px;left:58px;z-index:3;width:260px;height:auto;filter:drop-shadow(0 2px 0 rgba(1,34,154,.95)) drop-shadow(0 3px 8px rgba(0,0,0,.35))}
+  .logo{position:absolute;top:54px;left:58px;z-index:3;width:260px;height:auto;filter:drop-shadow(0 0 2px rgba(255,255,255,.98)) drop-shadow(0 0 5px rgba(255,255,255,.92)) drop-shadow(0 2px 7px rgba(0,0,0,.18))}
   .content{position:absolute;z-index:3;left:70px;right:70px;bottom:74px;display:flex;flex-direction:column;align-items:flex-start}
-  .category{margin:0 0 20px;color:#fe0862;font-size:24px;line-height:1;font-weight:800;letter-spacing:.12em;text-transform:uppercase;text-shadow:0 2px 10px rgba(0,0,0,.35)}
+  .category{margin:0 0 20px;color:#fe0862;font-size:24px;line-height:1;font-weight:800;letter-spacing:.12em;text-transform:uppercase;text-shadow:0 0 2px rgba(255,255,255,.98),0 0 5px rgba(255,255,255,.92),0 2px 10px rgba(0,0,0,.30)}
   h1{max-width:950px;margin:0;color:white;font-size:${hs}px;line-height:.91;font-weight:800;letter-spacing:-.035em;text-shadow:0 2px 12px rgba(0,0,0,.28)}
   p{max-width:880px;margin:22px 0 0;color:rgba(255,255,255,.92);font-size:${ds}px;line-height:1.22;font-weight:500;letter-spacing:-.01em;text-shadow:0 2px 10px rgba(0,0,0,.25)}
   </style></head><body><article class="card">

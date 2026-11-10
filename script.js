@@ -52,7 +52,7 @@
       tag: tagMap[category] || tagOf(title),
       category,
       source: 'HallyuScope',
-      url: '/article/' + encodeURIComponent(it.slug || it.id),
+      url: '/article?id=' + encodeURIComponent(it.id),
       time: new Date(it.publishedAt || it.sourcePublishedAt || it.createdAt)
     };
   }).filter(it => it.id && it.title);
@@ -118,7 +118,12 @@
       const top = items[0];
       $('[data-lead-tags]', lead).innerHTML = `${tag(top)}${srcMeta(top)}`;
       $('.lead-title', lead).innerHTML = link(top, esc(top.title));
-      $('[data-lead-link]', lead).forEach(a => { a.href = top.url; a.removeAttribute('target'); a.removeAttribute('rel'); });
+      const leadLink = $('[data-lead-link]', lead);
+      if (leadLink) {
+        leadLink.href = top.url;
+        leadLink.removeAttribute('target');
+        leadLink.removeAttribute('rel');
+      }
       const leadSrc = $('[data-lead-src]', lead); if (leadSrc) leadSrc.textContent = 'HallyuScope';
       $('#also').innerHTML = items.slice(1, 7).map(it => `<li>${link(it, `<h3>${esc(it.title)}</h3>${srcMeta(it)}`)}</li>`).join('');
       const tick = items.slice(0, 12).map(it => link(it, esc(it.title))).join('');
