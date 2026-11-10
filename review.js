@@ -92,9 +92,11 @@
           <label class="review-check"><input id="socialInstagram" type="checkbox" ${current.socialPlatforms?.instagram!==false?'checked':''}> Instagram</label>
         </div>
         <label>Social caption<textarea id="editSocialCaption" rows="6">${esc(current.socialCaption||current.dek||'')}</textarea></label>
-        <label>Social image URL<input id="editSocialImageUrl" value="${esc(current.socialImageUrl||'')}" placeholder="https://...jpg or ...png"></label>
-        <p class="meta">Instagram requires a publicly reachable image URL. Use the exported HallyuScope/Canva social graphic here.</p>
+        <label>Social image URL<input id="editSocialImageUrl" value="${esc(current.socialImageUrl||'')}" placeholder="Generate from the HTML/CSS template"></label>
+        <p class="meta">The HallyuScope renderer creates a 1080 × 1350 PNG from the article image, category, headline, and description.</p>
         <div class="review-social-actions">
+          <button type="button" class="review-generate-card" data-generate-card="1">Generate social card</button>
+          <a class="review-preview-card" id="reviewPreviewCard" href="${esc(current.socialImageUrl||'#')}" target="_blank" rel="noopener" ${current.socialImageUrl?'':'hidden'}>Preview card</a>
           <button type="button" class="review-save-social" data-action="save">Save social draft</button>
           <button type="button" class="review-post-meta" data-meta-post="1">Post to selected Meta accounts</button>
         </div>
@@ -191,6 +193,34 @@
       note.textContent=action==='publish'?'Published.':action==='skip'?'Skipped.':'Saved.';
       counts(); renderList(); renderEditor();
     }catch(err){ note.textContent=err.message; }
+  });
+
+  editor.addEventListener('click',async e=>{
+    const b=e.target.closest('[data-generate-card]'); if(!b||!current)return;
+    const note=$('#reviewSocialMessage');
+    const image=$('#editImageUrl')?.value.trim() || current.imageUrl || '';
+    const headline=$('#editHeadline')?.value.trim() || current.headline || '';
+    const category=$('#editCategory')?.value.trim() || current.category || 'HALLYU NEWS';
+    const description=$('#editSocialCaption')?.value.trim() || $('#editDek')?.value.trim() || current.dek || '';
+    if(!image){ note.textContent='Add an article image first.'; return; }
+    if(!headline){ note.textContent='Add a headline first.'; return; }
+    note.textContent='Generating social card…';
+    b.disabled=true;
+    try{
+      const r=await fetch('/api/social-card-url',{
+        method:'POST',
+        headers:{'Content-Type':'application/json','x-review-password':password},
+        body:JSON.stringify({image,category,headline,description})
+      });
+      const data=await r.json().catch(()=>({}));
+      if(!r.ok) throw new Error(data.error||'Could not generate social card');
+      const input=$('#editSocialImageUrl');
+      if(input) input.value=data.imageUrl||'';
+      const preview=$('#reviewPreviewCard');
+      if(preview&&data.imageUrl){ preview.href=data.imageUrl; preview.hidden=false; }
+      note.textContent='Social card ready. Preview it before posting.';
+    }catch(err){ note.textContent=err.message; }
+    finally{ b.disabled=false; }
   });
 
   editor.addEventListener('click',async e=>{
