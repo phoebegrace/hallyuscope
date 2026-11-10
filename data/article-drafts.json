@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T11:05:10.291Z",
+  "updatedAt": "2026-11-10T11:08:40.431Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -637,8 +637,8 @@
     {
       "id": "a6a941dacea7",
       "createdAt": "2026-11-10T03:56:37.528Z",
-      "status": "pending_review",
-      "publishedAt": null,
+      "status": "published",
+      "publishedAt": "2026-11-10T11:08:40.431Z",
       "sourcePublishedAt": "2026-11-09T22:41:56.000Z",
       "model": "gpt-6.1-terra",
       "qualityVersion": 3,
@@ -648,12 +648,12 @@
         "title": "Universal Pictures Content Group, Crosswalk acquire K-pop doc ‘Twice: This Is For… You’",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdUlKWjF1VTV2dm1qUDRHSWYzb3gxdXVrbEMtNVRYOVRoajVzVW1NYTM1V2pjSkxHaEUzUFhKS2VWVmJsZU41WXFjT0FhcFlzZ3VrNGNYQ1JHYmRNTWZObkU1R0I3RGREcEpvZVVLbXljaGhTT2FaZUhCN0JIUlBxNnpMTlIzWFo4TGx1UzVBNFh0OEcyUlpPbEpnem1kbGVKUXVsbGc4czNIXzgwZmpDOUpNeVltcjAta2R4aTVSakR2S1FGLUZSTzUxNA"
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/a6a941dacea7.svg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/a6a941dacea7-article-mwal6o4j.jpg",
       "imageType": "hallyuscope_original",
       "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+        "note": "HallyuScope original editorial cover."
       },
       "category": "HALLYU NEWS",
       "headline": "Universal Pictures Content Group and Crosswalk Acquire TWICE Documentary",
@@ -684,7 +684,13 @@
       ],
       "verification": null,
       "editedAt": "2026-11-10T09:14:23Z",
-      "socialHashtags": "#HallyuScope #TWICE #Hallyu #Kpop #KpopNews"
+      "socialHashtags": "#HallyuScope #TWICE #Hallyu #Kpop #KpopNews",
+      "socialImageUrl": "https://hallyuscope.com/api/social-card?image=https%3A%2F%2Fraw.githubusercontent.com%2Fphoebegrace%2Fhallyuscope%2Flive-data%2Fassets%2Feditorial%2Fa6a941dacea7-article-mwal6o4j.jpg&category=HALLYU+NEWS&headline=Universal+Pictures+Content+Group+and+Crosswalk+Acquire+TWICE+Documentary&description=ONCE%2C+it%27s+happening%21+%F0%9F%8E%AC+TWICE%27s+O2+Arena+concert+film+%27This+Is+For%E2%80%A6+You%27+is+coming+to+cinemas+worldwide+on+February+5%2C+2027.&ts=1794308901559&sig=ef7aad069ef06cef5e578cc000b1baef929ccc3361c9f3d8fbcadd1844d48b26",
+      "socialPlatforms": {
+        "facebook": true,
+        "instagram": true
+      },
+      "reviewedAt": "2026-11-10T11:08:40.431Z"
     },
     {
       "id": "6406e64a8773",
