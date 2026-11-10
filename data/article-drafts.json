@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T08:43:37.781Z",
+  "updatedAt": "2026-11-10T08:45:36.542Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -3046,8 +3046,8 @@
     {
       "id": "7e4a9c2b8f51",
       "createdAt": "2026-11-10T06:30:53.000Z",
-      "status": "pending_review",
-      "publishedAt": null,
+      "status": "published",
+      "publishedAt": "2026-11-10T08:45:36.542Z",
       "sourcePublishedAt": "2026-11-10T06:30:53.000Z",
       "model": "manual",
       "qualityVersion": 3,
@@ -3060,7 +3060,7 @@
         "url": "https://hallyuscope.com/concerts"
       },
       "sourceNote": "Source: HallyuScope",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/7e4a9c2b8f51-article-mwag2d9e.png",
       "imageType": "hallyuscope_original",
       "imagePolicy": {
         "type": "hallyuscope_original",
@@ -3080,7 +3080,14 @@
         "Two things worth knowing before you buy. First, every ticket link on the HallyuScope concert calendar goes to the official seller for that show — Ticketmaster Philippines, SM Tickets, TicketNet, Tap Your Tickets or Megatix — so a link that is not on the calendar is not one we have verified. Second, prices and statuses change: the ranges in this guide are the prices as announced, and the calendar is updated as shows sell out, move or are added."
       ],
       "socialCaption": "14 K-pop shows. Nov 2026–Mar 2027. Every date, venue and official ticket link, in one guide. #Kpop #Manila #HallyuScope",
-      "seoDescription": "Every K-pop concert in the Philippines from November 2026 to March 2027: dates, venues, ticket prices and official ticket links for HUTA, PENTAGON, LE SSERAFIM, NCT 127, KATSEYE, BIGBANG, BTS and more."
+      "seoDescription": "Every K-pop concert in the Philippines from November 2026 to March 2027: dates, venues, ticket prices and official ticket links for HUTA, PENTAGON, LE SSERAFIM, NCT 127, KATSEYE, BIGBANG, BTS and more.",
+      "socialHashtags": "#Kpop #KpopConcert #Philippines #KpopConcerts #ConcertGuide",
+      "socialImageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/7e4a9c2b8f51-social-mwag2h27.png",
+      "socialPlatforms": {
+        "facebook": true,
+        "instagram": true
+      },
+      "reviewedAt": "2026-11-10T08:45:36.542Z"
     }
   ]
 }
