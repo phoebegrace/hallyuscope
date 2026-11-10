@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T06:03:11.168Z",
+  "updatedAt": "2026-11-10T06:30:53.000Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -2297,6 +2297,45 @@
       },
       "reviewedAt": "2026-11-10T01:25:36.805Z",
       "editedAt": "2026-11-10T01:28:36.806Z"
+    },
+    {
+      "id": "7e4a9c2b8f51",
+      "createdAt": "2026-11-10T06:30:53.000Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-10T06:30:53.000Z",
+      "model": "manual",
+      "qualityVersion": 3,
+      "verification": null,
+      "researchSources": null,
+      "slug": "philippine-k-pop-concert-guide-2026-2027",
+      "source": {
+        "publisher": "HallyuScope",
+        "title": "The Philippine K-pop Concert Guide: Every 2026–2027 Show, Venue and Ticket Link",
+        "url": "https://hallyuscope.com/concerts"
+      },
+      "sourceNote": "Source: HallyuScope",
+      "imageUrl": "",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "HallyuScope original editorial cover."
+      },
+      "sourceImageUrl": "",
+      "category": "CONCERT NEWS",
+      "headline": "The Philippine K-pop Concert Guide: Every 2026–2027 Show, Venue and Ticket Link",
+      "dek": "Fourteen K-pop shows are headed to the Philippines from November 2026 to March 2027, from HUTA's Heat Max to three sold-out BTS nights in Bulacan. Here is every date, venue and official ticket link in one place.",
+      "body": [
+        "Fourteen K-pop concerts are on the calendar for the Philippines between November 2026 and March 2027, and the HallyuScope concert calendar tracks every one of them — with the poster, seat plan and official ticket link for each show. Here is the full rundown, month by month.",
+        "November opens with LEE MINHYUK (HUTA), who brings his HEAT MAX tour to the SM North EDSA Skydome in Quezon City on November 21, then PENTAGON's 10th anniversary tour, 101010, at the Aliw Theater in Pasay on November 29. Both shows are on sale through Ticketmaster Philippines. One date fans should cross off: OMEGA X's November 28 Manila show was cancelled in September, and the promoter is processing refunds.",
+        "December has a genuine clash. PARK JINYOUNG plays his first concert tour, CODE, at the FYM Hall in the EVM Convention Center, Quezon City, on December 5, and LE SSERAFIM plays the SM Mall of Asia Arena the same night — both at 7:00 PM, so it is a one-or-the-other decision. LE SSERAFIM's December 6 show was cancelled and its ticket holders were moved to December 5. NCT 127 closes the month with NEO CITY — THE REDLINE at the MOA Arena on December 12 at 5:00 PM.",
+        "January brings three different flavours. JACOB of THE BOYZ plays his More Than Words fan concert at the Music Museum in San Juan on January 19 at 8:00 PM, DOH KYUNG SOO brings his DAY OFF fan concert to the Smart Araneta Coliseum on January 23 at 6:00 PM — tickets go on sale November 20 at 2:00 PM through TicketNet — and KATSEYE's Beautiful Chaos world tour reaches the MOA Arena on January 29. The Manila date is already sold out on Ticketmaster, so the Cebu stop is the one to watch.",
+        "February is the month of the double booking. KATSEYE plays the SM Seaside Cebu Arena on February 7, and on February 20 BIGBANG returns to the Philippines for the first time since 2015 with XX: COSMOS at the SMDC Festival Grounds in Parañaque, while Young K of DAY6 plays The Youngest at the New Frontier Theater in Quezon City the same night at 6:00 PM.",
+        "March belongs to BTS. The group's ARIRANG world tour plays three nights at the Philippine Sports Stadium in Bulacan — March 13, 14 and 16 — and all three are sold out. The March 16 date was added after the first two sold out in June 2026.",
+        "Two things worth knowing before you buy. First, every ticket link on the HallyuScope concert calendar goes to the official seller for that show — Ticketmaster Philippines, SM Tickets, TicketNet, Tap Your Tickets or Megatix — so a link that is not on the calendar is not one we have verified. Second, prices and statuses change: the ranges in this guide are the prices as announced, and the calendar is updated as shows sell out, move or are added."
+      ],
+      "socialCaption": "14 K-pop shows. Nov 2026–Mar 2027. Every date, venue and official ticket link, in one guide. #Kpop #Manila #HallyuScope",
+      "seoDescription": "Every K-pop concert in the Philippines from November 2026 to March 2027: dates, venues, ticket prices and official ticket links for HUTA, PENTAGON, LE SSERAFIM, NCT 127, KATSEYE, BIGBANG, BTS and more."
     }
   ]
 }
