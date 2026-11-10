@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T11:22:46.888Z",
+  "updatedAt": "2026-11-10T11:24:42.302Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -3273,8 +3273,8 @@
     {
       "id": "0405ba86440b",
       "createdAt": "2026-11-09T12:36:52.646Z",
-      "status": "pending_review",
-      "publishedAt": null,
+      "status": "published",
+      "publishedAt": "2026-11-10T11:24:42.302Z",
       "sourcePublishedAt": "2026-11-09T01:20:06.000Z",
       "model": "gpt-6.1-terra",
       "slug": "jyp-boy-band-oftheblue-set-to-debut-next-year",
@@ -3283,7 +3283,7 @@
         "title": "JYP's new K-pop boy band oftheblue to debut next year",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY0U5OE9KUDlTWGNRakRPcDRlY2FfcXlkTDdNMlQxZi1HWHlBR0NIWnNSUjFRZlJqbXdSTVFiU20yek80ZE5tYmlIbDJSTzBOXy00STJHdXI1aHUxeG1UU1dXZUhIcUwwX2Ytd1ZXeFhmZVJhTkZsX2FrTUJxYUVJUzJmRWFKbGdZZTJua2RmTl9aSW11X1pYWXZBdU1LaldvT2NZc3Zla3h5aGhvd1VF0gG0AUFVX3lxTFA5YUFjUWNMY0RTX0Z3R1czSUNMUWxoeEtVcEx6ZllRZlFJMHg1WUIyUkxLNEhZYW41VmRmanRZclBDVEFnT1k2VGpGdzB1ZTRnUE80emE1NHVjSnhEXzlpSjg4LUh6Qlp0cnpxRkpMR01lOHR2Zk0wVkFVRmg0LURXTkc2SjVGUDU3VjdkYkdRQzVNU0plLXlLVkNKa3F6ZEh3d2xaM2VxSy1mZW5jOTVhQnhtVQ"
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/0405ba86440b.svg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/0405ba86440b-article-mwalr5e2.jpg",
       "category": "HALLYU NEWS",
       "headline": "JYP Boy Band oftheblue Set to Debut Next Year",
       "dek": "JYP's SQU4D division is launching its first boy group, oftheblue, in 2027, teased so far with a QR code, a crossword and an 18-sound mixer.",
@@ -3301,7 +3301,7 @@
       "imageType": "hallyuscope_original",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+        "note": "HallyuScope original editorial cover."
       },
       "researchSources": [
         {
@@ -3320,7 +3320,13 @@
       "qualityVersion": 3,
       "verification": null,
       "editedAt": "2026-11-10T09:14:23Z",
-      "socialHashtags": "#HallyuScope #JYP #Hallyu #Debut #Kpop"
+      "socialHashtags": "#HallyuScope #JYP #Hallyu #Debut #Kpop",
+      "socialImageUrl": "https://hallyuscope.com/api/social-card?image=https%3A%2F%2Fraw.githubusercontent.com%2Fphoebegrace%2Fhallyuscope%2Flive-data%2Fassets%2Feditorial%2F0405ba86440b-article-mwalr5e2.jpg&category=HALLYU+NEWS&headline=JYP+Boy+Band+oftheblue+Set+to+Debut+Next+Year&description=JYP+has+a+new+boy+group+coming%2C+oftheblue%2C+debuting+in+2027.+So+far+we%27ve+got+a+QR+code%2C+a+crossword+and+a+sound+mixer.+Here%27s+what+we+know.&ts=1794309857064&sig=956fcd2c74ac15b03dff7d42e26c7e3a55d92409ead767767c97aa57bb34af9e",
+      "socialPlatforms": {
+        "facebook": true,
+        "instagram": true
+      },
+      "reviewedAt": "2026-11-10T11:24:42.302Z"
     },
     {
       "id": "fda01cece13c",
