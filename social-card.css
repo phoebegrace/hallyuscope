@@ -77,7 +77,10 @@ body{font-family:"Archivo",Arial,sans-serif}
   font-weight:800;
   letter-spacing:.12em;
   text-transform:uppercase;
-  text-shadow:0 2px 10px rgba(0,0,0,.35);
+  text-shadow:
+    0 0 2px rgba(255,255,255,.98),
+    0 0 5px rgba(255,255,255,.92),
+    0 2px 10px rgba(0,0,0,.30);
 }
 .social-card__headline{
   max-width:950px;
