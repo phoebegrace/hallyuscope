@@ -21,10 +21,17 @@
         try { history.replaceState(null, '', '/article/' + encodeURIComponent(item.slug)); } catch {}
       }
       const descText = item.seoDescription || item.dek || 'K-pop and Korean entertainment news from HallyuScope.';
-      // Editorial covers are SVGs, which Facebook/X cannot use as og:image.
-      const imageUrl = item.imageUrl && !/\.svg(\?|$)/i.test(item.imageUrl)
-        ? new URL(item.imageUrl, 'https://hallyuscope.com').href
+      // Social previews need a real PNG. The generated social card wins;
+      // the editorial cover is an SVG, which Facebook/X cannot use.
+      const usableImage = u => typeof u === 'string' && /^https?:\/\//.test(u) && !/\.svg(\?|$)/i.test(u) && !/undefined/.test(u);
+      const imageUrl = usableImage(item.socialImageUrl) ? item.socialImageUrl
+        : usableImage(item.imageUrl) ? new URL(item.imageUrl, 'https://hallyuscope.com').href
         : 'https://hallyuscope.com/assets/og-image.png';
+      // The editorial cover shows on the article page itself. SVGs render
+      // fine in an <img>, so any cover format works here.
+      const coverHtml = (typeof item.imageUrl === 'string' && /^https?:\/\//.test(item.imageUrl) && !/undefined/.test(item.imageUrl))
+        ? `<figure class="article-cover"><img src="${esc(item.imageUrl)}" alt="${esc(item.headline || 'HallyuScope story')}"></figure>`
+        : '';
 
       const desc = document.querySelector('meta[name="description"]');
       if (desc) desc.setAttribute('content', descText);
@@ -60,13 +67,11 @@
       if (!sources.length && validName(item.source?.publisher) && validUrl(item.source?.url)) {
         sources.push({ name: item.source.publisher, url: item.source.url });
       }
-      const strongerThanSoompi = sources.some(s => !/^soompi$/i.test(s.name));
-      const publicSources = strongerThanSoompi ? sources.filter(s => !/^soompi$/i.test(s.name)) : sources;
-      const sourceHtml = publicSources.length
-        ? (publicSources.length > 1 ? 'Sources: ' : 'Source: ') + publicSources.map(s =>
+      const sourceHtml = sources.length
+        ? (sources.length > 1 ? 'Sources: ' : 'Source: ') + sources.map(s =>
             `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)} ↗</a>`).join(' · ')
         : esc(item.sourceNote || ('Source: ' + (validName(item.source?.publisher) ? item.source.publisher : 'original reporting')));
-      const sourceLabel = publicSources.length > 1 ? 'Sources' : 'Reporting source';
+      const sourceLabel = sources.length > 1 ? 'Sources' : 'Reporting source';
       const date = new Date(item.publishedAt || item.createdAt);
       const dateText = isFinite(date) ? date.toLocaleDateString('en-PH',{year:'numeric',month:'long',day:'numeric',timeZone:'Asia/Manila'}) : '';
       root.innerHTML = `
@@ -75,7 +80,7 @@
           <h1>${esc(item.headline || '')}</h1>
           <p class="article-dek">${esc(item.dek || '')}</p>
           <div class="article-meta"><span>HallyuScope</span><span>${esc(dateText)}</span></div>
-          ${item.imageUrl ? `<figure class="article-banner"><img src="${esc(new URL(item.imageUrl,'https://hallyuscope.com').href)}" alt="${esc(item.headline||'')}" loading="eager" decoding="async"></figure>` : ''}
+          ${coverHtml}
           <div class="article-body">${(item.body || []).map(p => `<p>${esc(p)}</p>`).join('')}</div>
           <aside class="article-source"><strong>${sourceLabel}</strong><p>${sourceHtml}</p></aside>
           <section class="article-reactions" data-reactions>
