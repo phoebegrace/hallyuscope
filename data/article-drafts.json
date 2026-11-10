@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T11:25:04.545Z",
+  "updatedAt": "2026-11-10T11:31:07.970Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -1738,7 +1738,19 @@
       ],
       "verification": null,
       "editedAt": "2026-11-10T09:14:23Z",
-      "socialHashtags": "#HallyuScope #Taeyeon #Comeback #NewAlbum #Kpop"
+      "socialHashtags": "#HallyuScope #Taeyeon #Comeback #NewAlbum #Kpop",
+      "socialStatus": "published",
+      "socialPublishedAt": "2026-11-10T11:31:07.970Z",
+      "socialPublishResult": {
+        "ok": true,
+        "facebook": {
+          "id": "122197202360896088",
+          "post_id": "619676824570166_122197202384896088"
+        },
+        "instagram": {
+          "id": "18170727547414264"
+        }
+      }
     },
     {
       "id": "e4d59cb5795e",
