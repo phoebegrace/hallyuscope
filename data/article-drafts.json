@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-10T09:35:56.787Z",
+  "updatedAt": "2026-11-10T09:37:36.331Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
     {
       "id": "87dd3ef213b2",
       "createdAt": "2026-11-10T09:35:56.787Z",
-      "status": "pending_review",
-      "publishedAt": null,
+      "status": "published",
+      "publishedAt": "2026-11-10T09:37:36.331Z",
       "sourcePublishedAt": null,
       "model": "gpt-6.1-terra",
       "qualityVersion": "ai-center-1",
@@ -56,12 +56,12 @@
           }
         ]
       },
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/87dd3ef213b2-article-mwahxctp.jpg",
       "imageType": "hallyuscope_original",
       "sourceImageUrl": null,
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "Add or generate a HallyuScope editorial image during review."
+        "note": "HallyuScope original editorial cover."
       },
       "category": "HALLYU NEWS",
       "headline": "K-Pop’s Big Four Establish FANOMENON Company Ahead of 2027 Festival",
@@ -77,12 +77,14 @@
       ],
       "seoDescription": "HYBE, SM, JYP and YG establish FANOMENON Co. ahead of the K-culture festival planned for Seoul and Goyang from December 2–12, 2027.",
       "socialCaption": "K-pop’s Big Four have established the company behind FANOMENON, ahead of its planned 2027 debut.",
-      "socialHashtags": [
-        "#HallyuScope",
-        "#FANOMENON",
-        "#Kpop"
-      ],
-      "sourceNote": "Sources: Korea.net, The Korea Herald, The Asia Business Daily, Yonhap News Agency"
+      "socialHashtags": "#HallyuScope #FANOMENON #Kpop",
+      "sourceNote": "Sources: Korea.net, The Korea Herald, The Asia Business Daily, Yonhap News Agency",
+      "socialImageUrl": "https://hallyuscope.com/api/social-card?image=https%3A%2F%2Fraw.githubusercontent.com%2Fphoebegrace%2Fhallyuscope%2Flive-data%2Fassets%2Feditorial%2F87dd3ef213b2-article-mwahxctp.jpg&category=HALLYU+NEWS&headline=K-Pop%E2%80%99s+Big+Four+Establish+FANOMENON+Company+Ahead+of+2027+Festival&description=K-pop%E2%80%99s+Big+Four+have+established+the+company+behind+FANOMENON%2C+ahead+of+its+planned+2027+debut.&ts=1794303432406&sig=eecd804f07f078a6e30506e1c44ba0cef2fb39e58c8215290fb468d294098ec6",
+      "socialPlatforms": {
+        "facebook": true,
+        "instagram": true
+      },
+      "reviewedAt": "2026-11-10T09:37:36.331Z"
     },
     {
       "id": "d11d8fb9fea2",
