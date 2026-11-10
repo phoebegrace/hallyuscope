@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-10T09:55:35.043Z",
+  "updatedAt": "2026-11-10T09:57:01.594Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
     {
       "id": "53266a8b46cf",
       "createdAt": "2026-11-10T09:55:35.043Z",
-      "status": "pending_review",
-      "publishedAt": null,
+      "status": "published",
+      "publishedAt": "2026-11-10T09:57:01.594Z",
       "sourcePublishedAt": null,
       "model": "gpt-6.1-terra",
       "qualityVersion": "ai-center-1",
@@ -61,7 +61,7 @@
       "sourceImageUrl": null,
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "Add or generate a HallyuScope editorial image during review."
+        "note": "HallyuScope original editorial cover."
       },
       "category": "COMEBACK NEWS",
       "headline": "EXO’s Kai and Sehun Set December Unit Debut as EXO-KASE",
@@ -76,14 +76,14 @@
       ],
       "seoDescription": "EXO’s Kai and Sehun will debut as EXO-KASE on December 1 with Waking Up The City, a seven-track mini album. Here’s what to know.",
       "socialCaption": "Kai and Sehun are teaming up as EXO-KASE. Their first mini album, Waking Up The City, arrives December 1.",
-      "socialHashtags": [
-        "#EXOKASE",
-        "#EXO",
-        "#KAI",
-        "#SEHUN",
-        "#HallyuScope"
-      ],
-      "sourceNote": "Sources: SMTOWN &STORE, Top Star News, Medcom"
+      "socialHashtags": "#EXOKASE #EXO #KAI #SEHUN #HallyuScope",
+      "sourceNote": "Sources: SMTOWN &STORE, Top Star News, Medcom",
+      "socialImageUrl": "",
+      "socialPlatforms": {
+        "facebook": true,
+        "instagram": true
+      },
+      "reviewedAt": "2026-11-10T09:57:01.594Z"
     },
     {
       "id": "87dd3ef213b2",
