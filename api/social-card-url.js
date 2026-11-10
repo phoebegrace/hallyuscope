@@ -16,6 +16,7 @@ export default async function handler(req,res){
   if(!headline) return reply(res,400,{error:'Headline is required'});
   if(!image) return reply(res,400,{error:'Feature image is required'});
   const origin='https://hallyuscope.com';
+  if(String(image).includes('/api/social-card')) return reply(res,400,{error:'Generated social-card URLs cannot be used as source images'});
   if(String(image).startsWith('/')) image=origin+image;
   const ts=Date.now().toString();
   const params=new URLSearchParams({image,category,headline,description,ts});
