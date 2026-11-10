@@ -52,7 +52,7 @@
       tag: tagMap[category] || tagOf(title),
       category,
       source: 'HallyuScope',
-      url: '/article?id=' + encodeURIComponent(it.id),
+      url: '/article/' + encodeURIComponent(it.slug || it.id),
       time: new Date(it.publishedAt || it.sourcePublishedAt || it.createdAt)
     };
   }).filter(it => it.id && it.title);

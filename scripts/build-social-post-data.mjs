@@ -72,6 +72,12 @@ function canonicalUrl(html) {
 }
 
 async function fetchPageMeta(url) {
+  // YouTube blocks automated fetches (429 / consent pages), so resolving its
+  // URLs only produces garbage like https://www.youtube.com/undefined.
+  // Keep the original watch URL instead — it is already the correct link.
+  if (/^(?:https?:\/\/)?(?:www\.|m\.)?(?:youtube\.com|youtu\.be)\//i.test(url)) {
+    throw new Error('YouTube URLs are used as-is; page metadata is not fetched');
+  }
   const controller = new AbortController();
   const timeout = setTimeout(() => controller.abort(), 9000);
 
@@ -167,6 +173,20 @@ const baseItems = merged.filter(item => {
   return true;
 }).slice(0, MAX_ITEMS);
 
+function validResolvedUrl(value = '') {
+  // A "resolved" URL is only trusted if it is a real article link. Bot-check
+  // pages, consent redirects and broken reconstructions (…/undefined) must
+  // never replace the original URL.
+  try {
+    const u = new URL(value);
+    if (u.protocol !== 'http:' && u.protocol !== 'https:') return '';
+    if (/undefined/.test(u.href)) return '';
+    if (/google\.com\/sorry/i.test(u.href)) return '';
+    if (/consent\.youtube\.com|consent\.google\.com|accounts\.google\.com/i.test(u.hostname)) return '';
+    return u.href;
+  } catch { return ''; }
+}
+
 const enriched = [];
 for (const item of baseItems) {
   let meta = { finalUrl: item.url, pageTitle: '', imageUrl: '', siteName: '' };
@@ -175,6 +195,7 @@ for (const item of baseItems) {
   } catch (error) {
     console.warn(`[social-meta] ${item.source || 'source'}: ${error.message}`);
   }
+  meta = { ...meta, finalUrl: validResolvedUrl(meta.finalUrl) || item.url };
 
   const category = socialCategory(item);
   const headline = socialHeadline(meta.pageTitle || item.title);

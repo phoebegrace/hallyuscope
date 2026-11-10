@@ -88,12 +88,15 @@ export default async function handler(req,res){
   const igId=process.env.META_IG_USER_ID;
   if(!token||!pageId||!igId) return reply(res,503,{error:'Meta connection is not configured yet.'});
 
-  const {id,caption='',imageUrl='',facebook=true,instagram=true}=req.body||{};
+  const {id,slug='',caption='',imageUrl='',facebook=true,instagram=true}=req.body||{};
   if(!id) return reply(res,400,{error:'Missing article id'});
   if(!facebook&&!instagram) return reply(res,400,{error:'Choose at least one Meta account'});
   if(instagram&&!imageUrl) return reply(res,400,{error:'Instagram requires a public image URL'});
 
-  const articleUrl='https://hallyuscope.com/article?id='+encodeURIComponent(id);
+  // Canonical article URLs use words from the headline: /article/<slug>.
+  const articleUrl=slug
+    ? 'https://hallyuscope.com/article/'+encodeURIComponent(slug)
+    : 'https://hallyuscope.com/article?id='+encodeURIComponent(id);
   const result={ok:false,facebook:null,instagram:null};
 
   try{

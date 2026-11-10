@@ -95,6 +95,30 @@ function slugify(value = '') {
     .slice(0, 90);
 }
 
+// Never let a broken "resolved" link (…/undefined, bot-check / consent pages)
+// become the stored source URL. Anything suspicious falls back to the caller.
+function validSourceUrl(value = '') {
+  try {
+    const u = new URL(value);
+    if (u.protocol !== 'http:' && u.protocol !== 'https:') return '';
+    if (/undefined/.test(u.href)) return '';
+    if (/google\.com\/sorry/i.test(u.href)) return '';
+    if (/consent\.youtube\.com|consent\.google\.com|accounts\.google\.com/i.test(u.hostname)) return '';
+    return u.href;
+  } catch { return ''; }
+}
+
+// Slugs are words from the headline, never random ids. A regenerated draft
+// keeps its existing slug so published links never break; a brand-new draft
+// gets the next free slug if its headline collides with another story.
+function uniqueSlug(base, taken) {
+  let slug = base || 'hallyu-story';
+  let n = 2;
+  while (taken.has(slug)) slug = `${base}-${n++}`;
+  taken.add(slug);
+  return slug;
+}
+
 async function fetchSourceText(url) {
   const controller = new AbortController();
   const timeout = setTimeout(() => controller.abort(), 10000);
@@ -244,17 +268,19 @@ const candidates = (social.items || []).filter(item => {
 });
 
 const newlyDrafted = [];
+const takenSlugs = new Set((previous.items || []).map(x => x.slug).filter(Boolean));
 
 for (const item of candidates.slice(0, MAX_NEW_DRAFTS_PER_RUN)) {
   try {
+    const sourceUrl = validSourceUrl(item.articleUrl) || validSourceUrl(item.url) || item.url || null;
     let sourceText = '';
     try {
-      sourceText = await fetchSourceText(item.articleUrl || item.url);
+      sourceText = await fetchSourceText(sourceUrl);
     } catch (error) {
       console.warn(`[source fetch failed] ${item.id}: ${error.message}`);
     }
 
-    const draft = await generateDraft(item, sourceText);
+    const draft = await generateDraft({ ...item, articleUrl: sourceUrl }, sourceText);
 
     const originalCover = await writeEditorialCover(item.id, draft.headline, item.social?.category || 'HALLYU NEWS');
 
@@ -268,11 +294,11 @@ for (const item of candidates.slice(0, MAX_NEW_DRAFTS_PER_RUN)) {
       sourcePublishedAt: item.publishedAt || null,
       model: MODEL,
       qualityVersion: QUALITY_VERSION,
-      slug: slugify(draft.headline),
+      slug: old?.slug || uniqueSlug(slugify(draft.headline), takenSlugs),
       source: {
         publisher: item.source || null,
         title: item.title || null,
-        url: item.articleUrl || item.url || null
+        url: sourceUrl
       },
       imageUrl: old?.imageUrl || originalCover,
       imageType: old?.imageType || 'hallyuscope_original',

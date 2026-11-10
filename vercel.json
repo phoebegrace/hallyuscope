@@ -8,6 +8,16 @@
       "reactions-data": false
     }
   },
+  "rewrites": [
+    {
+      "source": "/article/:slug",
+      "destination": "/api/article?slug=:slug"
+    },
+    {
+      "source": "/article",
+      "destination": "/api/article"
+    }
+  ],
   "headers": [
     {
       "source": "/data/(.*)",

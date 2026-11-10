@@ -1,18 +1,30 @@
 (() => {
   const root = document.getElementById('article');
   const esc = (s='') => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-  const id = new URLSearchParams(location.search).get('id');
-  if (!id) { root.innerHTML = '<p class="empty">Story not found.</p>'; return; }
+  const params = new URLSearchParams(location.search);
+  // Canonical article URLs are words from the headline: /article/<slug>.
+  // Old ?id=<hex> links keep working as a fallback.
+  const pathSlug = decodeURIComponent(location.pathname.replace(/^\/article\/?/, '')).replace(/\/$/, '');
+  const slug = pathSlug || params.get('slug') || '';
+  const id = params.get('id') || '';
+  if (!slug && !id) { root.innerHTML = '<p class="empty">Story not found.</p>'; return; }
 
   fetch('https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/data/article-drafts.json?v=' + Date.now(), {cache:'no-store'})
     .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
     .then(data => {
-      const item = (data.items || []).find(x => x.id === id && x.status === 'published');
+      const item = (data.items || []).find(x => x.status === 'published' && ((slug && x.slug === slug) || (id && x.id === id)));
       if (!item) throw new Error('missing');
       document.title = item.headline + ' | HallyuScope';
-      const canonicalUrl = 'https://hallyuscope.com/article?id=' + encodeURIComponent(item.id);
+      const canonicalUrl = 'https://hallyuscope.com/article/' + encodeURIComponent(item.slug || item.id);
+      // If we arrived on an old ?id= link, quietly move the address bar to the slug URL.
+      if (item.slug && location.pathname !== '/article/' + item.slug) {
+        try { history.replaceState(null, '', '/article/' + encodeURIComponent(item.slug)); } catch {}
+      }
       const descText = item.seoDescription || item.dek || 'K-pop and Korean entertainment news from HallyuScope.';
-      const imageUrl = item.imageUrl ? new URL(item.imageUrl, 'https://hallyuscope.com').href : 'https://hallyuscope.com/assets/hallyuscope-logo.png';
+      // Editorial covers are SVGs, which Facebook/X cannot use as og:image.
+      const imageUrl = item.imageUrl && !/\.svg(\?|$)/i.test(item.imageUrl)
+        ? new URL(item.imageUrl, 'https://hallyuscope.com').href
+        : 'https://hallyuscope.com/assets/og-image.png';
 
       const desc = document.querySelector('meta[name="description"]');
       if (desc) desc.setAttribute('content', descText);
@@ -71,7 +83,7 @@
           </section>
           <p class="article-back"><a class="cta" href="/latest">← Back to this week's news</a></p>
         </article>`;
-      setupReactions(id);
+      setupReactions(item.id);
       setupShare(item);
     })
     .catch(() => { root.innerHTML = '<p class="empty">This story is still being prepared. <a href="/latest">Back to latest news.</a></p>'; });
