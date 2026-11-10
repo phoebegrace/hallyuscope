@@ -1,8 +1,90 @@
 {
-  "updatedAt": "2026-11-10T09:38:03.553Z",
+  "updatedAt": "2026-11-10T09:55:35.043Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
+    {
+      "id": "53266a8b46cf",
+      "createdAt": "2026-11-10T09:55:35.043Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": null,
+      "model": "gpt-6.1-terra",
+      "qualityVersion": "ai-center-1",
+      "slug": "exo-s-kai-and-sehun-set-december-unit-debut-as-exo-kase",
+      "source": {
+        "publisher": "SMTOWN &STORE",
+        "title": "EXO-KASE The 1st Mini Album [Waking Up The City] (SMini Ver.)(SMART ALBUM)",
+        "url": "https://www.smtownandstore.com/product/exo-kase-the-1st-mini-album-waking-up-the-city-smini-versmart-album/29714/category/646/display/1/"
+      },
+      "aiResearch": {
+        "seed": "EXO's Kai and Sehun announce their unit debut, as EXO KASE. \nFirst mini album, Waking Up The City, set for release on December 1st.",
+        "notes": "",
+        "researchSummary": "SMTOWN &STORE identifies EXO-KASE as Kai and Sehun’s new unit and confirms that their first mini album, Waking Up The City, will contain seven tracks and arrive on December 1, 2026. Top Star News corroborates the unit announcement and reports a 6 p.m. Korea time release, while Medcom provides context on the members’ earlier projects.",
+        "facts": [
+          "EXO members Kai and Sehun will debut as the unit EXO-KASE.",
+          "Their first mini album, Waking Up The City, is scheduled for December 1, 2026, at 6 p.m. KST.",
+          "The mini album will contain seven tracks.",
+          "Both members were born in 1994 and are known together as the 94z.",
+          "Sehun previously debuted in the EXO-SC unit with Chanyeol in 2019.",
+          "SMTOWN &STORE lists photobook and SMini editions of the album."
+        ],
+        "sources": [
+          {
+            "publisher": "SMTOWN &STORE",
+            "title": "EXO-KASE The 1st Mini Album [Waking Up The City] (SMini Ver.)(SMART ALBUM)",
+            "url": "https://www.smtownandstore.com/product/exo-kase-the-1st-mini-album-waking-up-the-city-smini-versmart-album/29714/category/646/display/1/",
+            "kind": "official"
+          },
+          {
+            "publisher": "SMTOWN &STORE",
+            "title": "EXO-KASE The 1st Mini Album [Waking Up The City] (Photobook Ver.) SET",
+            "url": "https://www.smtownandstore.com/product/exo-kase-the-1st-mini-album-waking-up-the-city-photobook-ver-set/29712/category/646/display/1/",
+            "kind": "official"
+          },
+          {
+            "publisher": "Top Star News",
+            "title": "EXO 카이, 세훈과 유닛 EXO-KASE 출격…‘Waking Up The City’로 강렬 예고",
+            "url": "https://www.topstarnews.net/news/articleView.html?idxno=16272817",
+            "kind": "publisher"
+          },
+          {
+            "publisher": "Medcom",
+            "title": "Kai dan Sehun EXO Bentuk Subunit Baru EXO-KASE, Siap Debut Lewat EP Waking Up The City",
+            "url": "https://www.medcom.id/hiburan/musik/lKY3j3Wb-kai-dan-sehun-exo-bentuk-subunit-baru-exo-kase-siap-debut-lewat-ep-waking-up-the-city",
+            "kind": "publisher"
+          }
+        ]
+      },
+      "imageUrl": "",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": null,
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Add or generate a HallyuScope editorial image during review."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "EXO’s Kai and Sehun Set December Unit Debut as EXO-KASE",
+      "dek": "The EXO members will introduce their new duo with the seven-track mini album Waking Up The City on December 1.",
+      "body": [
+        "EXO’s Kai and Sehun are joining forces as EXO-KASE. The duo will make its unit debut with the mini album Waking Up The City on December 1, 2026, at 6 p.m. KST.",
+        "The announcement arrived with a teaser featuring the two members against a neon-lit city backdrop. It gives the pair’s first project as an official duo a metropolitan setting to match its title.",
+        "According to SMTOWN &STORE, Waking Up The City will contain seven tracks with varied moods. The official store has listed both photobook and SMini editions; the latter uses an NFC CD and includes photocards of the two members.",
+        "Kai and Sehun are both part of EXO’s 1994 line, a pairing known to fans as the 94z. EXO-KASE gives them a new format to work together after years of performing as members of the group.",
+        "Both artists also bring experience from projects outside EXO’s full-group releases. Kai made his solo debut in 2020 with the mini album KAI, while Sehun teamed up with Chanyeol in EXO-SC, which debuted with What a Life in 2019.",
+        "For fans following the release from the United States, the 6 p.m. Korea time launch falls on the morning of December 1: 4 a.m. Eastern and 1 a.m. Pacific."
+      ],
+      "seoDescription": "EXO’s Kai and Sehun will debut as EXO-KASE on December 1 with Waking Up The City, a seven-track mini album. Here’s what to know.",
+      "socialCaption": "Kai and Sehun are teaming up as EXO-KASE. Their first mini album, Waking Up The City, arrives December 1.",
+      "socialHashtags": [
+        "#EXOKASE",
+        "#EXO",
+        "#KAI",
+        "#SEHUN",
+        "#HallyuScope"
+      ],
+      "sourceNote": "Sources: SMTOWN &STORE, Top Star News, Medcom"
+    },
     {
       "id": "87dd3ef213b2",
       "createdAt": "2026-11-10T09:35:56.787Z",
