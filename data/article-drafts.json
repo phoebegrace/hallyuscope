@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T11:04:07.576Z",
+  "updatedAt": "2026-11-10T11:05:10.291Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -584,7 +584,7 @@
     {
       "id": "13dae289d3eb",
       "createdAt": "2026-11-10T03:56:28.919Z",
-      "status": "pending_review",
+      "status": "skipped",
       "publishedAt": null,
       "sourcePublishedAt": "2026-11-09T23:38:57.000Z",
       "model": "gpt-6.1-terra",
@@ -611,7 +611,7 @@
       "imageType": "hallyuscope_original",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+        "note": "HallyuScope original editorial cover."
       },
       "qualityVersion": 3,
       "researchSources": [
@@ -626,7 +626,13 @@
       ],
       "verification": null,
       "editedAt": "2026-11-10T09:14:23Z",
-      "socialHashtags": "#HallyuScope #TWICE #Concert #Kpop #KpopNews"
+      "socialHashtags": "#HallyuScope #TWICE #Concert #Kpop #KpopNews",
+      "socialImageUrl": "",
+      "socialPlatforms": {
+        "facebook": true,
+        "instagram": true
+      },
+      "reviewedAt": "2026-11-10T11:05:10.291Z"
     },
     {
       "id": "a6a941dacea7",
