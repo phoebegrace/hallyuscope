@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T01:32:55.173Z",
+  "updatedAt": "2026-11-11T03:20:56.593Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -4641,7 +4641,7 @@
       "imageType": "hallyuscope_original",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+        "note": "HallyuScope original editorial cover."
       },
       "sourceImageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/da6f42bf4b18.svg",
       "category": "CONCERT NEWS",
@@ -4649,16 +4649,22 @@
       "dek": "The checklist to finish before a Philippine K-pop ticket sale opens, so the queue is the only thing left to worry about.",
       "body": [
         "A ticket sale is won before it opens. The fans who get in are usually the ones who did the boring prep the night before, and this guide is that prep, in order.",
-        "Start with the official seller. Every Philippine show on the HallyuScope concert calendar links to the exact official ticketing page, and the sellers are the same names every time: Ticketmaster PH, SM Tickets, TicketNet, Tap Your Tickets, and Megatix. If a link is not one of those, or not the promoter's own page, do not trust it. Resellers and random social media sellers are where fans lose money.",
-        "Make the account the night before. Create an account on the seller's site, save your payment method, and log in once so you know the password works. SM Tickets runs a queue system, so expect a waiting room and do not refresh it. Ticketmaster PH and TicketNet also queue during big sales, and refreshing usually sends you to the back of the line.",
-        "Know the sale time in Manila time. Sales open at a specific hour, and the big ones sell out fast. KATSEYE's Manila general sale opened November 13, after presales on November 10 to 12. DOH KYUNG SOO's Manila tickets went on sale November 20 at 2 PM. The calendar lists the sale date for every show, so check it before the day.",
-        "Have a backup plan, not a backup seller. Decide your section and your price ceiling before the queue opens, so you are not deciding while the clock runs. If your first choice sells out, take the next best seat in the same sale rather than chasing a second site. And keep the confirmation email and the ticket QR somewhere you can reach them without signal, because venue gates are not kind to dead batteries."
+        "Start with the official seller. The promoter's announcement always names it, and every show on the HallyuScope concert calendar links straight to that page. In the Philippines it is usually Ticketmaster PH, SM Tickets or TicketNet, with Tap Your Tickets and Megatix handling some shows. If a link does not lead to the named seller or the promoter's own page, do not trust it. Resellers and random social media sellers are where fans lose money.",
+        "Check for presales. Many tours open a fan club or membership presale a few days before the general sale, and some promoters or card partners run their own. Presales usually need a code or a verified membership, and that verification can close days before the sale itself, so read the promoter's announcement as soon as the tour is posted.",
+        "Make the account the night before. Create an account on the seller's site, save your details, and log in once so you know the password works. Big sales put everyone in an online queue or waiting room. Stay on one tab and do not refresh, because refreshing usually sends you to the back of the line.",
+        "Sort out payment early. Check which cards and e-wallets the seller accepts, make sure your card works for online payments, and know your daily limit. Many failed checkouts are a declined payment, not a sold-out section, and a timed-out cart usually goes back into the pool.",
+        "Know the sale time in Manila time, and the ticket limit per account. Sales open at a set hour and the big ones sell out fast. Be in the queue a few minutes early with your device charged and on a stable connection.",
+        "Have a backup plan, not a backup seller. Decide your section and your price ceiling before the queue opens, so you are not deciding while the clock runs. If your first choice sells out, take the next best seat in the same sale rather than chasing a second site. Keep the confirmation email and the ticket QR somewhere you can reach without signal, because venue gates are not kind to dead batteries."
       ],
       "socialCaption": "Ticketing day does not have to be a panic. The checklist is short, do it the night before, and the queue is the only thing left. Read the guide on HallyuScope.",
       "seoDescription": "Ticketing day, minus the panic: the official sellers, the account prep, and the queue rules for Philippine K-pop shows.",
       "socialHashtags": "#HallyuScope #Concert #Kpop #KpopNews #Manila",
       "socialImageUrl": "",
-      "editedAt": "2026-11-10T09:17:19Z"
+      "editedAt": "2026-11-11T03:20:56.593Z",
+      "socialPlatforms": {
+        "facebook": true,
+        "instagram": true
+      }
     },
     {
       "id": "1b4b7d65822e",
