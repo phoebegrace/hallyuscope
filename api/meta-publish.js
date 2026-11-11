@@ -59,7 +59,7 @@ async function github(path,options={}){
 // ---------- posting limits (protects the Page from Meta's anti-spam blocks) ----------
 // New Pages that post in fast bursts get flagged ("API access blocked").
 const MIN_GAP_MIN=30;        // at least 30 minutes between successful posts
-const MAX_PER_DAY=6;         // at most 6 successful posts in any rolling 24 hours
+const MAX_PER_DAY=10;        // at most 10 successful posts in any rolling 24 hours
 const FAIL_COOLDOWN_MIN=10;  // after Meta rejects a post, wait before trying again
 const MIN=60*1000;
 const manilaDay=t=>new Date(t).toLocaleDateString('en-PH',{timeZone:'Asia/Manila'});
