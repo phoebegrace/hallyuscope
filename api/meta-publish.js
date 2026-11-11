@@ -56,10 +56,47 @@ async function github(path,options={}){
   if(!r.ok) throw new Error('GitHub '+r.status+': '+(await r.text()).slice(0,180));
   return r.json();
 }
-async function recordResult(id,result){
-  if(!process.env.GITHUB_REVIEW_TOKEN) return;
+// ---------- posting limits (protects the Page from Meta's anti-spam blocks) ----------
+// New Pages that post in fast bursts get flagged ("API access blocked").
+const MIN_GAP_MIN=30;        // at least 30 minutes between successful posts
+const MAX_PER_DAY=6;         // at most 6 successful posts in any rolling 24 hours
+const FAIL_COOLDOWN_MIN=10;  // after Meta rejects a post, wait before trying again
+const MIN=60*1000;
+const manilaDay=t=>new Date(t).toLocaleDateString('en-PH',{timeZone:'Asia/Manila'});
+const manila=t=>{
+  const time=new Date(t).toLocaleTimeString('en-PH',{timeZone:'Asia/Manila',hour:'numeric',minute:'2-digit'});
+  return manilaDay(t)===manilaDay(Date.now())?time:(manilaDay(t)===manilaDay(Date.now()+864e5)?'tomorrow at '+time:new Date(t).toLocaleDateString('en-PH',{timeZone:'Asia/Manila',month:'short',day:'numeric'})+' at '+time);
+};
+const when=t=>{ const m=manila(t); return /^\d/.test(m)?'at '+m:m;
+};
+const span=m=>m<60?m+' min':Math.floor(m/60)+' hr'+(m%60?' '+(m%60)+' min':'');
+
+async function readDrafts(){
   const file=await github('/repos/'+OWNER+'/'+REPO+'/contents/'+PATH+'?ref='+BRANCH);
   const json=JSON.parse(Buffer.from(file.content,'base64').toString('utf8'));
+  return {file,json};
+}
+function postingLimit(items,now=Date.now()){
+  const pubs=items.filter(x=>x.socialStatus==='published'&&x.socialPublishedAt)
+    .map(x=>Date.parse(x.socialPublishedAt)).filter(Number.isFinite).sort((a,b)=>a-b);
+  const lastPub=pubs.length?pubs[pubs.length-1]:0;
+  const lastFail=items.filter(x=>x.socialStatus==='failed'&&x.socialLastAttemptAt)
+    .map(x=>Date.parse(x.socialLastAttemptAt)).filter(Number.isFinite).sort((a,b)=>b-a)[0]||0;
+  const today=pubs.filter(t=>now-t<24*60*MIN);
+  const waits=[];
+  if(lastPub&&now-lastPub<MIN_GAP_MIN*MIN) waits.push({until:lastPub+MIN_GAP_MIN*MIN,why:'Posts need '+MIN_GAP_MIN+' minutes between them (last post '+manila(lastPub)+')'});
+  if(today.length>=MAX_PER_DAY) waits.push({until:today[today.length-MAX_PER_DAY]+24*60*MIN,why:'Daily limit reached ('+MAX_PER_DAY+' posts in 24 hours)'});
+  if(lastFail&&lastFail>lastPub&&now-lastFail<FAIL_COOLDOWN_MIN*MIN) waits.push({until:lastFail+FAIL_COOLDOWN_MIN*MIN,why:'Meta rejected the last attempt, so retries are paused for '+FAIL_COOLDOWN_MIN+' minutes'});
+  if(!waits.length){
+    const next=Math.max(now+MIN_GAP_MIN*MIN, today.length+1>=MAX_PER_DAY?today[today.length+1-MAX_PER_DAY]+24*60*MIN:0);
+    return {ok:true,postsToday:today.length,nextAfterPost:next};
+  }
+  const w=waits.sort((a,b)=>b.until-a.until)[0];
+  return {ok:false,until:w.until,minutes:Math.max(1,Math.ceil((w.until-now)/MIN)),why:w.why,postsToday:today.length};
+}
+async function recordResult(id,result){
+  if(!process.env.GITHUB_REVIEW_TOKEN) return;
+  const {file,json}=await readDrafts();
   const items=json.items||[];
   const index=items.findIndex(x=>x.id===id);
   if(index<0) return;
@@ -67,6 +104,7 @@ async function recordResult(id,result){
     ...items[index],
     socialStatus:result.ok?'published':'failed',
     socialPublishedAt:result.ok?new Date().toISOString():items[index].socialPublishedAt||null,
+    socialLastAttemptAt:new Date().toISOString(),
     socialPublishResult:result
   };
   await github('/repos/'+OWNER+'/'+REPO+'/contents/'+PATH,{
@@ -104,6 +142,26 @@ export default async function handler(req,res){
   // Exactly five hashtags, from the review editor's hashtags form.
   const fbTags=tags.slice(0,5).join(' ');
   const igTags=tags.slice(0,5).join(' ');
+  // Enforce posting limits before calling Meta. Fail closed if the history can't be read.
+  if(!process.env.GITHUB_REVIEW_TOKEN) return reply(res,503,{error:'Posting history is unavailable, so posting is paused to protect the Page.'});
+  let limit;
+  try{
+    const {json}=await readDrafts();
+    const items=json.items||[];
+    const prev=items.find(x=>x.id===id)?.socialPublishResult;
+    const dupFb=facebook&&prev?.facebook?.id, dupIg=instagram&&prev?.instagram?.id;
+    if((!facebook||dupFb)&&(!instagram||dupIg)&&(dupFb||dupIg)){
+      return reply(res,409,{error:'This article is already posted to '+[dupFb&&'Facebook',dupIg&&'Instagram'].filter(Boolean).join(' and ')+'. Untick that channel to avoid a duplicate post.'});
+    }
+    limit=postingLimit(items);
+  }catch(e){
+    return reply(res,503,{error:'Could not check the posting limit right now. Please try again in a minute.'});
+  }
+  if(!limit.ok){
+    res.setHeader('Retry-After',String(limit.minutes*60));
+    return reply(res,429,{error:limit.why+'. You can post again '+when(limit.until)+' (in '+span(limit.minutes)+').',retryAt:new Date(limit.until).toISOString(),postsToday:limit.postsToday});
+  }
+
   const result={ok:false,facebook:null,instagram:null};
 
   try{
@@ -130,7 +188,7 @@ export default async function handler(req,res){
     }
     result.ok=true;
     await recordResult(id,result).catch(()=>{});
-    return reply(res,200,result);
+    return reply(res,200,{...result,postsToday:limit.postsToday+1,nextAllowedAt:new Date(limit.nextAfterPost).toISOString()});
   }catch(error){
     result.error=error.message||'Meta publish failed';
     await recordResult(id,result).catch(()=>{});
