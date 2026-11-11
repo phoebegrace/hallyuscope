@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T03:32:49.614Z",
+  "updatedAt": "2026-11-11T03:33:18.400Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -4684,7 +4684,7 @@
         "url": "https://hallyuscope.com/concerts"
       },
       "sourceNote": "Source: HallyuScope",
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/1b4b7d65822e.svg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/1b4b7d65822e-article-mwbkdiuj.jpg",
       "imageType": "hallyuscope_original",
       "imagePolicy": {
         "type": "hallyuscope_original",
@@ -4707,7 +4707,7 @@
       "seoDescription": "Your first K-pop concert in Manila: venues, entry times, lightsticks, and the etiquette nobody tells you.",
       "socialHashtags": "#HallyuScope #Concert #Kpop #KpopNews #Manila",
       "socialImageUrl": "",
-      "editedAt": "2026-11-11T03:20:59.154Z",
+      "editedAt": "2026-11-11T03:33:18.400Z",
       "socialPlatforms": {
         "facebook": true,
         "instagram": true
