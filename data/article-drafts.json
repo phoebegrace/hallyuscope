@@ -1,8 +1,318 @@
 {
-  "updatedAt": "2026-11-11T13:59:23.408Z",
+  "updatedAt": "2026-11-11T16:16:26.683Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
+    {
+      "id": "ca362a332981",
+      "createdAt": "2026-11-11T16:15:21.877Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-11T12:12:40.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "twice-s-jeongyeon-and-monsta-x-s-joohoney-join-friends-on-a-getaway-in-new-variety-show-te",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: TWICE’s Jeongyeon, MONSTA X’s Joohoney, And More Enjoy A Friendship-Filled Getaway In New Show “Just Human Friends”",
+        "url": "https://www.soompi.com/article/1886061wpp/watch-twices-jeongyeon-monsta-xs-joohoney-and-more-enjoy-a-friendship-filled-getaway-in-new-show-just-human-friends"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1886061wpp/watch-twices-jeongyeon-monsta-xs-joohoney-and-more-enjoy-a-friendship-filled-getaway-in-new-show-just-human-friends",
+          "chars": 2337,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/home/article/382/0001304164",
+          "chars": 1062,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-11T16:15:21.876Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/ca362a332981.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/11210721/just-human-friends-01.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "TWICE's Jeongyeon and MONSTA X's Joohoney join friends on a getaway in new variety show teaser",
+      "dek": "The six-member cast of \"Just Human Friends\" splits up for daytime adventures before gathering for dinner in a newly released highlight video.",
+      "body": [
+        "TWICE's Jeongyeon and MONSTA X's Joohoney are hitting the road with four fellow entertainers in \"Just Human Friends,\" a new travel variety show premiering November 27 at 8:35 p.m. KST on tvN.",
+        "The show brings together three pairs of longtime friends: Jeongyeon and Joohoney, Lee Seo Jin and Han Ji Min, and Kim Yong Gun and Park Jung Soo. A new poster and highlight video offer a look at the six cast members spending time together on their trip, Soompi reported.",
+        "Their itinerary comes with one shared rule: everyone is free to choose how to spend the day, but the group must reunite for dinner. The arrangement creates smaller outings, including a workout with Park Jung Soo and Joohoney and a breakfast with Lee Seo Jin, Kim Yong Gun and Jeongyeon.",
+        "The teaser also shows Lee Seo Jin looking after his fellow travelers and their luggage. When he gets up to guide Park Jung Soo to her seat, Han Ji Min reacts with surprise at his change in posture. Han takes on practical tasks for the trip, including checking accommodations and tickets.",
+        "Park Jung Soo keeps busy on outings to an art museum with Lee Seo Jin and a shopping trip with Jeongyeon. Meanwhile, the two youngest cast members help with navigation and driving. Joohoney approaches Lee Seo Jin playfully, while Jeongyeon responds with delight to compliments from Park Jung Soo.",
+        "\"Just Human Friends\" is directed by producing directors Na Young Suk and Shin Gun Joon."
+      ],
+      "socialCaption": "Jeongyeon and Joohoney are traveling with four fellow entertainers in \"Just Human Friends.\" Read on HallyuScope for a look at the cast's new teaser.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#TWICE",
+        "#Jeongyeon",
+        "#MONSTAX",
+        "#Joohoney"
+      ],
+      "seoDescription": "TWICE's Jeongyeon and MONSTA X's Joohoney join four fellow entertainers on a trip in the new teaser for tvN variety show Just Human Friends.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "9cfbe9ac5bef",
+      "createdAt": "2026-11-11T16:15:35.092Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-11T11:18:05.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "jisoo-nct-and-babymonster-join-coachella-2027-lineup-2",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Jisoo, NCT, Babymonster among Korean acts for Coachella 2027",
+        "url": "https://www.soompi.com/article/1885928wpp/blackpinks-jisoo-nct-and-babymonster-announced-for-coachella-2027-lineup"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1885928wpp/blackpinks-jisoo-nct-and-babymonster-announced-for-coachella-2027-lineup",
+          "chars": 822,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "NCT 127 and NCT DREAM shared the lineup on their Instagram Stories, confirming their attendance",
+          "South Korean DJ and singer-songwriter Peggy Gou and South Korean pansori pop band LEENALCHI"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-11T16:15:35.091Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/9cfbe9ac5bef.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Jisoo, NCT and BABYMONSTER Join Coachella 2027 Lineup",
+      "dek": "The festival has scheduled the K-pop acts across both weekends in April, with Peggy Gou and LEENALCHI also on the bill.",
+      "body": [
+        "BLACKPINK's Jisoo, NCT and BABYMONSTER are headed to Coachella in 2027, according to the festival lineup announced on November 11.",
+        "Jisoo is listed for Friday performances on April 9 and 16, while NCT is scheduled for Saturdays, April 10 and 17. BABYMONSTER will perform on Sundays, April 11 and 18, closing out the K-pop acts' appearances across the two weekends.",
+        "NCT 127 and NCT DREAM shared the lineup on their Instagram Stories, confirming their attendance, Soompi reported. The festival lineup lists NCT under the group's name.",
+        "South Korean DJ and singer-songwriter Peggy Gou and South Korean pansori pop band LEENALCHI are also part of the Friday lineup, alongside Jisoo. Their appearances add to the Korean artists represented on both weekends.",
+        "Dua Lipa, Tame Impala and SZA were announced as headliners, with Daddy Yankee also featured on the lineup. The 2027 festival will run across the weekends of April 9 to 11 and April 16 to 18."
+      ],
+      "socialCaption": "Jisoo, NCT and BABYMONSTER are on the Coachella 2027 bill. Read HallyuScope for their performance dates and more Korean artists joining the lineup.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#Jisoo",
+        "#NCT",
+        "#BABYMONSTER",
+        "#Coachella2027"
+      ],
+      "seoDescription": "Jisoo, NCT and BABYMONSTER will perform at Coachella 2027. See their scheduled dates and the other Korean artists joining the festival lineup.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "cab7119f4cdb",
+      "createdAt": "2026-11-11T16:15:51.224Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-11T09:10:14.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "7-k-pop-idol-makeup-tutorials-to-explore-from-wonhee-s-blush-to-jihyo-s-pro-tips",
+      "source": {
+        "publisher": "Soompi",
+        "title": "7 Makeup Tutorials Straight From Your Fave K-Pop Idols To Get That Gorgeous Glow!",
+        "url": "https://www.soompi.com/article/1884787wpp/7-makeup-tutorials-straight-from-your-fave-k-pop-idols-to-get-that-gorgeous-glow"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1884787wpp/7-makeup-tutorials-straight-from-your-fave-k-pop-idols-to-get-that-gorgeous-glow",
+          "chars": 2886,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-11T16:15:51.223Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/cab7119f4cdb.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/11174854/wonhee-miyeon-yoonchae.png",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "7 K-pop idol makeup tutorials to explore, from Wonhee's blush to Jihyo's pro tips",
+      "dek": "Soompi highlights seven idol-led tutorials covering everything from quick pink cheeks to detailed makeup techniques.",
+      "body": [
+        "Looking for a new approach to everyday makeup? Seven idol tutorials highlighted by Soompi offer ideas ranging from a quick blush look to a full step-by-step routine.",
+        "ILLIT's Wonhee focuses on her favorite cheek products and the pink blush that has become part of her signature look. KATSEYE's Yoonchae takes viewers through a basic skincare routine before moving on to a simple makeup look.",
+        "For a subtle finish, aespa's Giselle shares her approach to choosing colors and adding a small flick of eyeliner. LE SSERAFIM's Huh Yun Jin also keeps eyeliner understated, pairing a soft brown line with a pop of blush.",
+        "Soloist Jeon Somi's tutorial offers a more glamorous look and covers a range of techniques. Meanwhile, TWICE's Jihyo passes along tips she has picked up from the group's makeup artists.",
+        "For viewers who want a more detailed walkthrough, i-dle's Miyeon demonstrates the products and techniques behind her look in a 20-minute tutorial."
+      ],
+      "socialCaption": "From Wonhee's pink cheeks to Jihyo's makeup artist tips, find seven idol tutorials to explore on HallyuScope.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#ILLIT",
+        "#KATSEYE",
+        "#TWICE",
+        "#KpopMakeup"
+      ],
+      "seoDescription": "Explore seven K-pop idol makeup tutorials, from ILLIT's Wonhee and aespa's Giselle to TWICE's Jihyo, Jeon Somi and i-dle's Miyeon.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "c957fd1825ad",
+      "createdAt": "2026-11-11T16:16:08.363Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-11T08:38:58.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "ahn-bo-hyun-leads-an-uneasy-escort-team-in-new-sacred-jewel-stills",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Ahn Bo Hyun Leads A Diverse Team Of Warriors On A Dangerous Mission In “Sacred Jewel”",
+        "url": "https://www.soompi.com/article/1885971wpp/ahn-bo-hyun-leads-a-diverse-team-of-warriors-on-a-dangerous-mission-in-sacred-jewel"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1885971wpp/ahn-bo-hyun-leads-a-diverse-team-of-warriors-on-a-dangerous-mission-in-sacred-jewel",
+          "chars": 3560,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/382/0001304104",
+          "chars": 1058,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "Set in 1258, the drama takes place as Goryeo stands close to defeat after 30 years of war with Mongolia.",
+          "a former member of the elite Gyeollyonggun",
+          "a shield-bearer who handles carrier pigeons"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-11T16:16:08.362Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/c957fd1825ad.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/11173852/sacred-jewel-01.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Ahn Bo Hyun Leads an Uneasy Escort Team in New Sacred Jewel Stills",
+      "dek": "The upcoming JTBC historical drama follows a group of warriors sent to recover a sacred relic as Goryeo faces defeat.",
+      "body": [
+        "New stills from JTBC's upcoming drama \"Sacred Jewel\" introduce Ahn Bo Hyun and the warriors joining his character on a mission to recover a relic believed to protect their kingdom.",
+        "Set in 1258, the drama takes place as Goryeo stands close to defeat after 30 years of war with Mongolia. The story follows an expedition searching for the Avalokitesvara Bead and a princess who sets out to save its members.",
+        "Ahn plays Baek Gyeol, a former member of the elite Gyeollyonggun who is ordered to lead the escort team. His assignment requires him to work with warriors from Yabyeolcho, a group he once despised, including their leader Choi Gu, played by Lee Sung Min.",
+        "Ha Yun Kyung plays Geol Seung, the team's only female member and its guide. A former tavern owner from Ganghwa Island's market district, she joins the journey at Baek Gyeol's request. Hyun Bong Sik plays Mu Saeng, a powerful senior soldier and trusted associate of Choi Gu, while Kim Do Hyun plays Jap Son, an outspoken archer with a hunter's background.",
+        "The team also includes two assassins with contrasting personalities: Han Dam, played by Son Woo Hyun, is a formidable close-quarters fighter who lost family members in the war, while Bae Jung Nam's Ado Eul Chi is friendly and optimistic.",
+        "Ryu Yeon Seok, Ahn Do Gyu, Han Sang Jo and Gi Yoon round out the escort as Song Mu Jin, Hong Bong Yi, Sam Do and Beop Hang. Their characters include a cook, a shield-bearer who handles carrier pigeons, and a monk.",
+        "\"Sacred Jewel,\" written by Jung Hyun Min and directed by Jung Dae Yoon, premieres December 5 at 10:40 p.m. KST."
+      ],
+      "socialCaption": "Ahn Bo Hyun's new historical drama brings together an unlikely escort team. Read on HallyuScope for a closer look at the characters.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#SacredJewel",
+        "#AhnBoHyun",
+        "#LeeSungMin",
+        "#HaYunKyung"
+      ],
+      "seoDescription": "Ahn Bo Hyun leads a mission to recover a sacred relic in new Sacred Jewel stills. Meet the escort team ahead of the JTBC drama's December 5 premiere.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "edc2d27af1a4",
+      "createdAt": "2026-11-11T16:16:25.872Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-11T07:46:03.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "the-remarried-empress-cast-shares-rehearsals-and-rose-choices-in-new-video",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: Shin Min Ah, Ju Ji Hoon, Lee Jong Suk, And Lee Se Young Exude Elegance On Set Of &#8220;The Remarried Empress&#8221;",
+        "url": "https://www.soompi.com/article/1885914wpp/watch-shin-min-ah-ju-ji-hoon-lee-jong-suk-and-lee-se-young-exude-elegance-on-set-of-the-remarried-empress"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1885914wpp/watch-shin-min-ah-ju-ji-hoon-lee-jong-suk-and-lee-se-young-exude-elegance-on-set-of-the-remarried-empress",
+          "chars": 1561,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "bed scene partner"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-11T16:16:25.872Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/edc2d27af1a4.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/11164453/remarried-empress-1-.png",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "The Remarried Empress Cast Shares Rehearsals and Rose Choices in New Video",
+      "dek": "Shin Min Ah, Ju Ji Hoon, Lee Jong Suk and Lee Se Young take viewers behind the scenes of the drama's latest making-of video.",
+      "body": [
+        "The cast of The Remarried Empress is giving fans a closer look at the work behind the drama, from rehearsals and action filming to elaborate costumes and a carefully chosen rose.",
+        "In the newly released making-of video, Shin Min Ah and Ju Ji Hoon offer suggestions as they rehearse together before filming their scenes, according to Soompi. The footage also follows Lee Jong Suk through an action sequence and showcases Lee Se Young's styling.",
+        "Shin has a playful moment with a stand-in bird, cuddling up to it and calling it her “bed scene partner.” During a party scene, she shows off her tiara and talks about the weight of her dress, comparing it to dragging three grown people.",
+        "Lee Jong Suk faces a different decision while choosing a rose for Shin's character, Navier. He considers a white rose, representing a new beginning, and a blue one, symbolizing the overcoming of the impossible, before settling on blue.",
+        "After filming a dance with Ju Ji Hoon, Lee Se Young praises her co-star's moves. She says he had claimed to have two left feet, but adds that he was good at dancing and that she found the scene difficult.",
+        "The drama released four episodes on November 3, with two new episodes scheduled to follow each Wednesday."
+      ],
+      "socialCaption": "A stand-in bird, a blue rose and a challenging dance all feature in The Remarried Empress making-of video. Read more on HallyuScope.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#TheRemarriedEmpress",
+        "#ShinMinAh",
+        "#JuJiHoon",
+        "#LeeJongSuk"
+      ],
+      "seoDescription": "The Remarried Empress cast shares rehearsals, costume moments and a rose selection in a new behind-the-scenes video featuring Shin Min Ah.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "1c5eacc177cc",
       "createdAt": "2026-11-11T09:01:06.575Z",
@@ -55,12 +365,12 @@
           }
         ]
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/1c5eacc177cc-article-mwbw502a.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/1c5eacc177cc.svg",
       "imageType": "hallyuscope_original",
-      "sourceImageUrl": null,
+      "sourceImageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/1c5eacc177cc-article-mwbw502a.jpg",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
       "category": "HALLYU NEWS",
       "headline": "aespa's Karina Shares Message After Criticism of Friend Han Su-a",
@@ -198,12 +508,12 @@
         "missingKeyFacts": [],
         "checkedAt": "2026-11-11T07:47:41.562Z"
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/92304963fa50-article-mwc6pdwc.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/92304963fa50.svg",
       "imageType": "hallyuscope_original",
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/11155827/coachella-1.png",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
       "category": "HALLYU NEWS",
       "headline": "Jisoo, NCT and BABYMONSTER join Coachella 2027 lineup",
@@ -632,12 +942,12 @@
         "missingKeyFacts": [],
         "checkedAt": "2026-11-11T00:42:42.543Z"
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/0c40e3daab95-article-mwbtm6kr.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/0c40e3daab95.svg",
       "imageType": "hallyuscope_original",
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09070452/ATEEZ-Knowing-Bros.jpg",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
       "category": "TRENDING",
       "headline": "ATEEZ Brings ‘BAD’ Choreography and Games to ‘Knowing Bros’ Preview",

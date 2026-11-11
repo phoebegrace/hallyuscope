@@ -1,25 +1,23 @@
 {
-  "updatedAt": "2026-11-11T07:47:04.327Z",
+  "updatedAt": "2026-11-11T16:14:48.916Z",
   "sources": [
     {
       "source": "HYBE LABELS",
       "sourceId": "hybe-labels-youtube",
       "sourceClass": "official",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3IZKseVpdzPSBaWxBxundA",
-      "ok": false,
-      "count": 0,
-      "ms": 112,
-      "error": "404 Not Found for https://www.youtube.com/feeds/videos.xml?channel_id=UC3IZKseVpdzPSBaWxBxundA"
+      "ok": true,
+      "count": 15,
+      "ms": 201
     },
     {
       "source": "JYP Entertainment",
       "sourceId": "jyp-entertainment-youtube",
       "sourceClass": "official",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaO6TYtlC8U5ttz62hTrZgg",
-      "ok": false,
-      "count": 0,
-      "ms": 186,
-      "error": "404 Not Found for https://www.youtube.com/feeds/videos.xml?channel_id=UCaO6TYtlC8U5ttz62hTrZgg"
+      "ok": true,
+      "count": 15,
+      "ms": 91
     },
     {
       "source": "Soompi",
@@ -27,7 +25,7 @@
       "sourceClass": "publisher",
       "ok": true,
       "count": 60,
-      "ms": 333
+      "ms": 340
     },
     {
       "source": "Kpopmap",
@@ -35,7 +33,7 @@
       "sourceClass": "publisher",
       "ok": true,
       "count": 0,
-      "ms": 161
+      "ms": 163
     },
     {
       "source": "Google News · K-pop",
@@ -43,23 +41,23 @@
       "sourceClass": "publisher",
       "ok": true,
       "count": 100,
-      "ms": 529
+      "ms": 599
     },
     {
       "source": "Google News · PH concerts",
       "url": "https://news.google.com/rss/search?q=%28K-pop+OR+Kpop%29+%28Manila+OR+Philippines%29+%28concert+OR+tour+OR+fancon+OR+%22fan+meeting%22%29+when%3A60d&hl=en-PH&gl=PH&ceid=PH%3Aen",
       "sourceClass": "publisher",
       "ok": true,
-      "count": 21,
-      "ms": 369
+      "count": 24,
+      "ms": 392
     },
     {
       "source": "Google News · comebacks",
       "url": "https://news.google.com/rss/search?q=%28K-pop+OR+Kpop%29+%28comeback+OR+album+OR+single+OR+teaser%29+when%3A21d&hl=en-PH&gl=PH&ceid=PH%3Aen",
       "sourceClass": "publisher",
       "ok": true,
-      "count": 48,
-      "ms": 363
+      "count": 49,
+      "ms": 441
     }
   ]
 }
