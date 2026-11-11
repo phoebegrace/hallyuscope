@@ -1,8 +1,89 @@
 {
-  "updatedAt": "2026-11-11T07:52:27.392Z",
+  "updatedAt": "2026-11-11T09:01:06.575Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
+    {
+      "id": "1c5eacc177cc",
+      "createdAt": "2026-11-11T09:01:06.575Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": null,
+      "model": "gpt-6.1-terra",
+      "qualityVersion": "ai-center-1",
+      "slug": "aespa-s-karina-shares-message-after-criticism-of-friend-han-su-a",
+      "source": {
+        "publisher": "Maeil Business Newspaper",
+        "title": "Karina speaks out amid controversy over Han Su-a “trading on their friendship”: “I hope no one gets hurt”",
+        "url": "https://www.mk.co.kr/en/hot-issues/12205491"
+      },
+      "aiResearch": {
+        "seed": "aespa karina's fans hating her best friend because of the yt video where she made a letter. karina sent a message on bubble addressing this",
+        "notes": "",
+        "researchSummary": "On November 10, 2026, actress Han Su-a discussed her friendship with aespa's Karina and wrote her a letter on a YouTube show. Korean outlets reported hostile comments directed at Han afterward, followed by a Bubble message from Karina expressing hope that no one would be hurt. Karina did not name Han in the reported message.",
+        "facts": [
+          "Han Su-a appeared on episode 11 of Letters Between Us 2, released on November 10, 2026.",
+          "Han said she met Karina through ITZY's Ryujin and that the two became close over roughly a year.",
+          "Han said she asked Karina for permission to discuss her on the show and that Karina selected photos for the episode.",
+          "Money Today and Hankook Ilbo reported criticism directed at Han after the episode, including comments on her social media.",
+          "On November 11, Karina wrote on Bubble that her fans, members, family and friends were precious to her and that she hoped no one would be hurt."
+        ],
+        "sources": [
+          {
+            "publisher": "Maeil Business Newspaper",
+            "title": "Karina speaks out amid controversy over Han Su-a “trading on their friendship”: “I hope no one gets hurt”",
+            "url": "https://www.mk.co.kr/en/hot-issues/12205491",
+            "kind": "publisher"
+          },
+          {
+            "publisher": "Hankook Ilbo",
+            "title": "'카리나 팔이'라니… 한수아, 절친 언급했다가 악플 세례",
+            "url": "https://www.hankookilbo.com/news/article/A2026111108520005794",
+            "kind": "publisher"
+          },
+          {
+            "publisher": "Money Today",
+            "title": "\"카리나 팔이 그만해\"…절친 언급했다가 악플 폭탄 맞은 여배우",
+            "url": "https://www.mt.co.kr/entertainment/2026/11/11/2026111105282015575",
+            "kind": "publisher"
+          },
+          {
+            "publisher": "TopStarNews",
+            "title": "Han Su-a and aespa’s Karina Call Each Other “Honey,” Joke About Dating",
+            "url": "https://global.topstarnews.net/en/articleView.html?idxno=16273346",
+            "kind": "publisher"
+          }
+        ]
+      },
+      "imageUrl": "",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": null,
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Add or generate a HallyuScope editorial image during review."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "aespa's Karina Shares Message After Criticism of Friend Han Su-a",
+      "dek": "Karina told fans she hoped no one would be hurt after actress Han Su-a faced hostile comments over a YouTube appearance about their friendship.",
+      "body": [
+        "aespa's Karina has shared a message about the people close to her after actress Han Su-a received hostile comments for discussing their friendship on a YouTube show.",
+        "In a November 11 post on fan communication platform Bubble, Karina said she had considered whether to speak up. She described MYs, aespa's members, her family and friends as precious to her, and said she hoped no one would be hurt.",
+        "Karina added that she felt she received as much love as she gave and hoped no one would become a target. She did not name Han in the reported message, which came after criticism of the actress's appearance.",
+        "Han had spoken about Karina on the November 10 episode of Letters Between Us 2, where she wrote a letter to her friend. She recalled a time when Karina comforted her as she cried and thanked the singer for helping her through difficult moments, according to TopStarNews.",
+        "The actress said the pair met through ITZY's Ryujin and grew close over roughly a year, often spending time together. She also said she had previously been careful about mentioning Karina publicly, but asked her permission before appearing on the letter-writing show. Han said Karina agreed and chose photos for the episode.",
+        "After the video appeared, some commenters accused Han of using the singer's name for attention. Money Today reported that hostile messages appeared on Han's Instagram, including calls for her to stop mentioning Karina. Hankook Ilbo also reported that others considered the criticism an excessive intrusion into the friends' private relationship.",
+        "Karina's Bubble message closed with an affectionate note to fans, expressing her wish that they continue to see one another and share their stories for a long time."
+      ],
+      "seoDescription": "aespa's Karina shared a Bubble message after actress Han Su-a faced hostile comments for discussing their friendship and writing her a letter on YouTube.",
+      "socialCaption": "Karina shared a message for fans after her friend Han Su-a faced criticism over a YouTube appearance.",
+      "socialHashtags": [
+        "#aespa",
+        "#Karina",
+        "#HanSua",
+        "#HallyuScope"
+      ],
+      "sourceNote": "Sources: Maeil Business Newspaper, Hankook Ilbo, Money Today, TopStarNews"
+    },
     {
       "id": "842ae1d1f38a",
       "createdAt": "2026-11-11T07:47:30.333Z",
