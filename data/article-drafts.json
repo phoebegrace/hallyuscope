@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T03:20:56.593Z",
+  "updatedAt": "2026-11-11T03:20:59.154Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -4687,7 +4687,7 @@
       "imageType": "hallyuscope_original",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+        "note": "HallyuScope original editorial cover."
       },
       "sourceImageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/1b4b7d65822e.svg",
       "category": "CONCERT NEWS",
@@ -4695,16 +4695,22 @@
       "dek": "Venues, entry times, lightsticks, and the etiquette nobody tells you before your first show.",
       "body": [
         "Your first K-pop concert in Manila is equal parts show and logistics, and the logistics are the part nobody warns you about. This is the short version of what to know before the day.",
-        "The shows are mostly in the same venues. SM Mall of Asia Arena in Pasay hosts the biggest tours, Smart Araneta Coliseum in Quezon City hosts the mid-size ones, and New Frontier Theater, Aliw Theater, SM North EDSA Skydome, FYM Hall, and Music Museum cover the rest. Check the venue on the calendar before you plan the trip, because the same artist can play a different venue each tour.",
-        "Evening shows start between 5 and 8 PM, and doors usually open an hour or two before that. Leave early. Manila traffic does not care about your lightstick, and the queues for entry, merch, and the official lightstick booth are all longer than you expect. Bring a valid ID and your ticket, digital or printed, and keep both where you can reach them.",
-        "The lightstick is the uniform. If the group has one, bring it, charged, with spare batteries. The crowd will do the rest: fan chants during the songs, banners during the ballads, and a sea of light during the encore. If you do not know the chants, listen for a song or two first. Nobody minds a quiet first-timer, and everyone minds a camera flash in a dark arena.",
-        "After the show, the venue empties slowly. Plan your ride home before the encore, not after it. Ride hailing surges around the arena, so a pre-booked car or a meetup point a short walk away saves the wait. And keep your ticket stub. First concerts become the one you measure every other concert against."
+        "The shows rotate through the same venues. SM Mall of Asia Arena in Pasay hosts most big arena tours, and the Philippine Sports Stadium in Bulacan takes the stadium-sized ones. Smart Araneta Coliseum in Quezon City hosts mid-size shows, while New Frontier Theater, Aliw Theater, SM North EDSA Skydome, FYM Hall at EVM Convention Center and Music Museum cover the rest. Check the venue on the calendar before you plan the trip, because the same artist can play a different venue each tour.",
+        "Read the house rules before you pack. The promoter posts them a few days before the show: bag size, what you can bring in, and whether cameras are allowed. Professional cameras and big power banks are often not allowed, and food and drinks usually are not. If a bag check is listed, pack light.",
+        "Evening shows start between 5 and 8 PM, and doors usually open an hour or two before that. Leave early. Manila traffic does not care about your lightstick, and the queues for entry, merch and the official lightstick booth are all longer than you expect. Bring a valid ID and your ticket, digital or printed, and keep both where you can reach them.",
+        "The lightstick is the uniform. If the group has one, bring it, charged, with spare batteries, and pair it with the official app before you arrive if it syncs to the show. The crowd does the rest: fan chants during the songs, banners during the ballads, and a sea of light during the encore. If you do not know the chants, listen for a song or two first. Nobody minds a quiet first-timer, and everyone minds a camera flash in a dark arena.",
+        "Look out for fan freebies. Fan clubs often hand out banners, photocards or slogans near the venue before doors open. They are free and run by fans, so be patient in line, and say thank you.",
+        "After the show, the venue empties slowly. Plan your ride home before the encore, not after it. Ride hailing surges around the arena, so a pre-booked car or a meetup point a short walk away saves the wait. And keep your ticket stub. Your first concert becomes the one you measure every other concert against."
       ],
       "socialCaption": "First K-pop concert in Manila? Venues, entry times, lightsticks, and the etiquette nobody tells you. Read the guide on HallyuScope.",
       "seoDescription": "Your first K-pop concert in Manila: venues, entry times, lightsticks, and the etiquette nobody tells you.",
       "socialHashtags": "#HallyuScope #Concert #Kpop #KpopNews #Manila",
       "socialImageUrl": "",
-      "editedAt": "2026-11-10T09:17:19Z"
+      "editedAt": "2026-11-11T03:20:59.154Z",
+      "socialPlatforms": {
+        "facebook": true,
+        "instagram": true
+      }
     },
     {
       "id": "9bf1153d28d0",
