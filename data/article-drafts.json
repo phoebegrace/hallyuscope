@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T07:48:17.175Z",
+  "updatedAt": "2026-11-11T07:52:27.392Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -498,8 +498,8 @@
     {
       "id": "0c40e3daab95",
       "createdAt": "2026-11-11T00:42:42.543Z",
-      "status": "pending_review",
-      "publishedAt": null,
+      "status": "published",
+      "publishedAt": "2026-11-11T07:52:27.392Z",
       "sourcePublishedAt": "2026-11-08T21:06:00.000Z",
       "model": "gpt-6.1-terra",
       "qualityVersion": 3,
@@ -524,12 +524,12 @@
         "missingKeyFacts": [],
         "checkedAt": "2026-11-11T00:42:42.543Z"
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/0c40e3daab95.svg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/0c40e3daab95-article-mwbtm6kr.jpg",
       "imageType": "hallyuscope_original",
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09070452/ATEEZ-Knowing-Bros.jpg",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+        "note": "HallyuScope original editorial cover."
       },
       "category": "TRENDING",
       "headline": "ATEEZ Brings ‘BAD’ Choreography and Games to ‘Knowing Bros’ Preview",
@@ -542,15 +542,15 @@
         "ATEEZ was originally scheduled to appear as a full group, but Hongjoong and Wooyoung sat out for health reasons, Soompi reported. The episode airs November 14 at 9 p.m. KST. “Knowing Bros” is also known as “Ask Us Anything.”"
       ],
       "socialCaption": "ATEEZ takes its “BAD” choreography to the “Knowing Bros” classroom. Read on HallyuScope for what to expect from the preview.",
-      "socialHashtags": [
-        "#HallyuScope",
-        "#ATEEZ",
-        "#KnowingBros",
-        "#AskUsAnything",
-        "#ATEEZBAD"
-      ],
+      "socialHashtags": "#HallyuScope #ATEEZ #KnowingBros #AskUsAnything #ATEEZBAD",
       "seoDescription": "ATEEZ previews its upcoming Knowing Bros appearance with BAD choreography, games and jokes. The episode airs November 14 at 9 p.m. KST.",
-      "sourceNote": "Source: Soompi"
+      "sourceNote": "Source: Soompi",
+      "socialImageUrl": "https://hallyuscope.com/api/social-card?image=https%3A%2F%2Fraw.githubusercontent.com%2Fphoebegrace%2Fhallyuscope%2Flive-data%2Fassets%2Feditorial%2F0c40e3daab95-article-mwbtm6kr.jpg&category=TRENDING&headline=ATEEZ+Brings+%E2%80%98BAD%E2%80%99+Choreography+and+Games+to+%E2%80%98Knowing+Bros%E2%80%99+Preview&description=ATEEZ+takes+its+%E2%80%9CBAD%E2%80%9D+choreography+to+the+%E2%80%9CKnowing+Bros%E2%80%9D+classroom.+Read+on+HallyuScope+for+what+to+expect+from+the+preview.&ts=1794383527871&sig=d724ab24e29819142364ad68a1ee8d17d397941202b610b72a93aeae0c6bb694",
+      "socialPlatforms": {
+        "facebook": true,
+        "instagram": true
+      },
+      "reviewedAt": "2026-11-11T07:52:27.392Z"
     },
     {
       "id": "ed8de4e4dd9d",
