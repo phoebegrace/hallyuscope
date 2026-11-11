@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T16:14:48.916Z",
+  "updatedAt": "2026-11-11T22:47:46.198Z",
   "sources": [
     {
       "source": "HYBE LABELS",
@@ -8,7 +8,7 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3IZKseVpdzPSBaWxBxundA",
       "ok": true,
       "count": 15,
-      "ms": 201
+      "ms": 194
     },
     {
       "source": "JYP Entertainment",
@@ -17,7 +17,7 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaO6TYtlC8U5ttz62hTrZgg",
       "ok": true,
       "count": 15,
-      "ms": 91
+      "ms": 384
     },
     {
       "source": "Soompi",
@@ -25,7 +25,7 @@
       "sourceClass": "publisher",
       "ok": true,
       "count": 60,
-      "ms": 340
+      "ms": 318
     },
     {
       "source": "Kpopmap",
@@ -33,7 +33,7 @@
       "sourceClass": "publisher",
       "ok": true,
       "count": 0,
-      "ms": 163
+      "ms": 161
     },
     {
       "source": "Google News · K-pop",
@@ -41,23 +41,23 @@
       "sourceClass": "publisher",
       "ok": true,
       "count": 100,
-      "ms": 599
+      "ms": 566
     },
     {
       "source": "Google News · PH concerts",
       "url": "https://news.google.com/rss/search?q=%28K-pop+OR+Kpop%29+%28Manila+OR+Philippines%29+%28concert+OR+tour+OR+fancon+OR+%22fan+meeting%22%29+when%3A60d&hl=en-PH&gl=PH&ceid=PH%3Aen",
       "sourceClass": "publisher",
       "ok": true,
-      "count": 24,
-      "ms": 392
+      "count": 23,
+      "ms": 436
     },
     {
       "source": "Google News · comebacks",
       "url": "https://news.google.com/rss/search?q=%28K-pop+OR+Kpop%29+%28comeback+OR+album+OR+single+OR+teaser%29+when%3A21d&hl=en-PH&gl=PH&ceid=PH%3Aen",
       "sourceClass": "publisher",
       "ok": true,
-      "count": 49,
-      "ms": 441
+      "count": 47,
+      "ms": 471
     }
   ]
 }
