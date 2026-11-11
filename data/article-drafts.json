@@ -1,8 +1,325 @@
 {
-  "updatedAt": "2026-11-11T03:33:18.400Z",
+  "updatedAt": "2026-11-11T07:48:17.175Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
+    {
+      "id": "842ae1d1f38a",
+      "createdAt": "2026-11-11T07:47:30.333Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-11T07:15:47.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "seo-kang-jun-declines-role-in-martial-arts-film-nambeol",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Seo Kang Jun Turns Down Offer To Star In New Film",
+        "url": "https://www.soompi.com/article/1885929wpp/seo-kang-jun-turns-down-offer-to-star-in-new-film"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1885929wpp/seo-kang-jun-turns-down-offer-to-star-in-new-film",
+          "chars": 985,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/311/0002079384",
+          "chars": 782,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "follows nine warriors from different social ranks as they travel to Tsushima Island. Their mission is to rescue captives abducted by Japanese pirates."
+        ],
+        "missingKeyFacts": [
+          "The reason Seo Kang Jun declined the role has not been disclosed."
+        ],
+        "checkedAt": "2026-11-11T07:47:30.332Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/842ae1d1f38a.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/11162019/manofcreation_349802.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Seo Kang Jun Declines Role in Martial Arts Film 'Nambeol'",
+      "dek": "The actor will not join the early Joseon-era film, which features Lee Byung Hun as the leader of a nine-warrior mission.",
+      "body": [
+        "Seo Kang Jun has turned down an offer to appear in the upcoming martial arts action film 'Nambeol,' according to his representative.",
+        "The representative confirmed the actor's decision on November 11, Soompi reported. Seo had previously been in talks to play the right-hand man to the character played by Lee Byung Hun, who leads the film's group of warriors.",
+        "'Nambeol,' a literal title, is set in the early Joseon dynasty and follows nine warriors from different social ranks as they travel to Tsushima Island. Their mission is to rescue captives abducted by Japanese pirates.",
+        "The previously confirmed cast includes Lee Byung Hun, Go Youn Jung, Lee Do Hyun, WOODZ, also known as Cho Seung Youn, Park Hae Joon and Lee Kwang Soo.",
+        "The film marks the directorial debut of Lee Mo Gae, the cinematographer behind films including 'Exhuma' and '12.12: The Day.' Hive Media Corp, whose productions include '12.12: The Day' and 'Inside Men,' is producing the project.",
+        "Seo Kang Jun's screen credits include the dramas 'Cheese in the Trap,' 'Are You Human?' and 'Undercover High School.'"
+      ],
+      "socialCaption": "Seo Kang Jun has declined a role in 'Nambeol.' Read on HallyuScope for the film's story and confirmed cast.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#SeoKangJun",
+        "#Nambeol",
+        "#LeeByungHun",
+        "#GoYounJung"
+      ],
+      "seoDescription": "Seo Kang Jun has declined a role in 'Nambeol,' the Joseon-era martial arts film starring Lee Byung Hun, Go Youn Jung and Lee Do Hyun.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "92304963fa50",
+      "createdAt": "2026-11-11T07:47:41.563Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-11T06:59:35.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "jisoo-nct-and-babymonster-join-coachella-2027-lineup",
+      "source": {
+        "publisher": "Soompi",
+        "title": "BLACKPINK&#8217;s Jisoo, NCT, And BABYMONSTER Announced For Coachella 2027 Lineup",
+        "url": "https://www.soompi.com/article/1885928wpp/blackpinks-jisoo-nct-and-babymonster-announced-for-coachella-2027-lineup"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1885928wpp/blackpinks-jisoo-nct-and-babymonster-announced-for-coachella-2027-lineup",
+          "chars": 822,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "NCT 127 and NCT DREAM also shared the lineup on their Instagram Stories, confirming their attendance.",
+          "South Korean DJ and singer-songwriter Peggy Gou and South Korean pansori pop band LEENALCHI"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-11T07:47:41.562Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/92304963fa50.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/11155827/coachella-1.png",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Jisoo, NCT and BABYMONSTER join Coachella 2027 lineup",
+      "dek": "The Korean acts are scheduled across all three days of both festival weekends, with Peggy Gou and LEENALCHI also on the bill.",
+      "body": [
+        "BLACKPINK’s Jisoo, NCT and BABYMONSTER are heading to Coachella in 2027, with performances scheduled across both weekends of the U.S. music festival.",
+        "Coachella unveiled its lineup on November 11, naming Dua Lipa, Tame Impala and SZA as headliners alongside Daddy Yankee, Soompi reported. Jisoo is on the Friday bill for April 9 and 16, while NCT is scheduled for Saturday, April 10 and 17. BABYMONSTER will perform on Sunday, April 11 and 18.",
+        "NCT 127 and NCT DREAM also shared the lineup on their Instagram Stories, confirming their attendance. The announcement places Jisoo on the first day of each weekend, followed by NCT and then BABYMONSTER.",
+        "South Korean DJ and singer-songwriter Peggy Gou and South Korean pansori pop band LEENALCHI are also part of the Friday lineup. They join Jisoo on the bill for the opening day of each weekend."
+      ],
+      "socialCaption": "Jisoo, NCT and BABYMONSTER are on the Coachella 2027 lineup. Read HallyuScope for their scheduled performance dates.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#Jisoo",
+        "#NCT",
+        "#BABYMONSTER",
+        "#Coachella2027"
+      ],
+      "seoDescription": "Jisoo, NCT and BABYMONSTER join the Coachella 2027 lineup, with Peggy Gou and LEENALCHI also set to perform across both festival weekends.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "a132c50fde20",
+      "createdAt": "2026-11-11T07:47:54.372Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-11T06:23:05.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "the-boyz-s-younghoon-reveals-new-profile-photos-ahead-of-film-debut",
+      "source": {
+        "publisher": "Soompi",
+        "title": "THE BOYZ’s Younghoon Unveils Stunning New Profile Photos",
+        "url": "https://www.soompi.com/article/1885844wpp/the-boyzs-younghoon-unveils-stunning-new-profile-photos"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1885844wpp/the-boyzs-younghoon-unveils-stunning-new-profile-photos",
+          "chars": 1141,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/437/0000520186",
+          "chars": 614,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "Younghoon debuted with the group in 2017 and made his acting debut in the 2020 drama \"Love Revolution.\"",
+          "Younghoon plays Tae Pung, a webtoon artist who has never been in a relationship.",
+          "He finds himself giving romance advice to So Hyang, a Joseon-era court lady who dreams of becoming a royal concubine."
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-11T07:47:54.371Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/a132c50fde20.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/11124924/yoonghoon.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "THE BOYZ's Younghoon Reveals New Profile Photos Ahead of Film Debut",
+      "dek": "Namoo Actors has released new photos of Younghoon as the singer and actor prepares to lead the romantic comedy \"Wi-Fi Love in the Palace.\"",
+      "body": [
+        "THE BOYZ's Younghoon has unveiled a new set of profile photos through Namoo Actors, ahead of his first film appearance in \"Wi-Fi Love in the Palace.\"",
+        "Released on November 11, the photos show Younghoon in casual styling, with a gentle smile and a more mature look. The images arrive as he continues to build his acting career alongside his work as a member of THE BOYZ.",
+        "Younghoon debuted with the group in 2017 and made his acting debut in the 2020 drama \"Love Revolution.\" His subsequent drama credits include \"One the Woman\" and \"Tale of the Nine-Tailed 1938.\"",
+        "His next project, \"Wi-Fi Love in the Palace,\" is scheduled for release on December 2. Based on a webtoon, the time-crossing romantic comedy also marks his first leading role in a film.",
+        "Younghoon plays Tae Pung, a webtoon artist who has never been in a relationship. He finds himself giving romance advice to So Hyang, a Joseon-era court lady who dreams of becoming a royal concubine. WJSN's Luda plays So Hyang."
+      ],
+      "socialCaption": "Younghoon has shared new profile photos ahead of his first film role. Read more about his upcoming romantic comedy on HallyuScope.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#THEBOYZ",
+        "#Younghoon",
+        "#WiFiLoveInThePalace",
+        "#Luda"
+      ],
+      "seoDescription": "THE BOYZ's Younghoon reveals new profile photos ahead of his film debut in the romantic comedy Wi-Fi Love in the Palace, starring alongside WJSN's Luda.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "d5434d61ad73",
+      "createdAt": "2026-11-11T07:48:04.513Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-11T06:01:26.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "baek-yerin-s-here-i-am-again-music-video-passes-100-million-youtube-views",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Baek Yerin&#8217;s &#8220;Crash Landing On You&#8221; OST &#8220;Here I Am Again&#8221; MV Surpasses 100 Million Views",
+        "url": "https://www.soompi.com/article/1885865wpp/baek-yerins-crash-landing-on-you-ost-here-i-am-again-mv-surpasses-100-million-views"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1885865wpp/baek-yerins-crash-landing-on-you-ost-here-i-am-again-mv-surpasses-100-million-views",
+          "chars": 901,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "\"Crash Landing on You\" premiered in December 2019 and stars Son Ye Jin as Yoon Se Ri, a wealthy heiress who becomes stranded in North Korea after a paragliding incident."
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-11T07:48:04.513Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/d5434d61ad73.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/11145244/CLOY-.png",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "Baek Yerin's 'Here I Am Again' Music Video Passes 100 Million YouTube Views",
+      "dek": "The singer's song for the hit drama 'Crash Landing on You' reached the milestone nearly seven years after its music video was released.",
+      "body": [
+        "Baek Yerin's music video for \"Here I Am Again,\" a song from the \"Crash Landing on You\" soundtrack, has surpassed 100 million views on YouTube.",
+        "The video reached the milestone at approximately 2 p.m. KST on November 11, Soompi reported. It was released on January 12, 2020, putting its journey to 100 million views at approximately six years, nine months and 30 days.",
+        "\"Crash Landing on You\" premiered in December 2019 and stars Son Ye Jin as Yoon Se Ri, a wealthy heiress who becomes stranded in North Korea after a paragliding incident. Hyun Bin plays North Korean soldier Ri Jung Hyuk, who helps her hide and falls in love with her.",
+        "\"Here I Am Again\" is part of the drama's original soundtrack. Its music video is available to watch on YouTube."
+      ],
+      "socialCaption": "Baek Yerin's \"Here I Am Again\" has crossed 100 million YouTube views. Read on HallyuScope for the milestone and its connection to \"Crash Landing on You.\"",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#BaekYerin",
+        "#HereIAmAgain",
+        "#CrashLandingOnYou",
+        "#KDramaOST"
+      ],
+      "seoDescription": "Baek Yerin's 'Here I Am Again' music video from the 'Crash Landing on You' soundtrack has surpassed 100 million views on YouTube.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "360b88bb4b97",
+      "createdAt": "2026-11-11T07:48:16.340Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-11T02:22:22.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "han-hyo-joo-and-gong-myoung-take-the-field-in-your-ground-script-reading",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: Han Hyo Joo, Gong Myoung, And More Show Dedication At Script Reading For &#8220;Your Ground&#8221;",
+        "url": "https://www.soompi.com/article/1885767wpp/watch-han-hyo-joo-gong-myoung-and-more-show-dedication-at-script-reading-for-your-ground"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1885767wpp/watch-han-hyo-joo-gong-myoung-and-more-show-dedication-at-script-reading-for-your-ground",
+          "chars": 3016,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/241/0003541123",
+          "chars": 1870,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [
+          "Your Ground is scheduled to air on Fridays and Saturdays."
+        ],
+        "checkedAt": "2026-11-11T07:48:16.340Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/360b88bb4b97.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/11105258/your-ground-1-1.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Han Hyo Joo and Gong Myoung Take the Field in Your Ground Script Reading",
+      "dek": "The upcoming MBC romance follows a pitcher seeking a comeback and the former lawyer who becomes his agent.",
+      "body": [
+        "Han Hyo Joo and Gong Myoung have joined their Your Ground co-stars for a script reading ahead of the baseball romance's planned December premiere on MBC, Soompi reported.",
+        "Gong Myoung plays Kang Hae Hwan, a right-handed pitcher for the Miracles whose career stalls after a setback. Han plays Seo Hee Seung, a former law firm ace who enters the world of professional baseball as an agent. The two characters were each other's first loves and reunite after 11 years.",
+        "Hee Seung leaves behind an offer to become the youngest team leader at her firm to take on her new career. Hae Hwan, once celebrated as a future ace, faces the challenge of returning to the field while carrying the emotional weight of his setback.",
+        "Sung Joon plays fellow Miracles pitcher Yoon Yi Seok, a rival who has never beaten Hae Hwan but becomes the team's ace after he leaves the mound. Kim Shin Rock plays influential agent Dong Chi Young, who negotiates between clubs and players and works toward Hae Hwan's return.",
+        "Director Lee Sang Yeob, whose previous work includes the Yumi's Cells series and My Youth, attended the reading alongside cast members Jo Han Chul, Hong Woo Jin, Kim Joong Gi, Kim Young Sung, Jo Eun Sol and Jung Soon Won. Your Ground is written by Hwang Hae Yeon."
+      ],
+      "socialCaption": "Han Hyo Joo and Gong Myoung reunite as first loves in Your Ground. Read on HallyuScope for a look at their roles and the cast.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#YourGround",
+        "#HanHyoJoo",
+        "#GongMyoung",
+        "#KimShinRock"
+      ],
+      "seoDescription": "Han Hyo Joo and Gong Myoung lead the script reading for Your Ground, an MBC baseball romance about a pitcher's comeback and a reunion with his first love.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "1dd833d042a5",
       "createdAt": "2026-11-11T00:42:10.851Z",
@@ -4637,11 +4954,11 @@
         "url": "https://hallyuscope.com/concerts"
       },
       "sourceNote": "Source: HallyuScope",
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/da6f42bf4b18-article-mwbkco7z.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/da6f42bf4b18.svg",
       "imageType": "hallyuscope_original",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
       "sourceImageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/da6f42bf4b18.svg",
       "category": "CONCERT NEWS",
@@ -4684,11 +5001,11 @@
         "url": "https://hallyuscope.com/concerts"
       },
       "sourceNote": "Source: HallyuScope",
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/1b4b7d65822e-article-mwbkdiuj.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/1b4b7d65822e.svg",
       "imageType": "hallyuscope_original",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
       "sourceImageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/1b4b7d65822e.svg",
       "category": "CONCERT NEWS",
@@ -4731,11 +5048,11 @@
         "url": "https://hallyuscope.com/comebacks"
       },
       "sourceNote": "Source: HallyuScope",
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/9bf1153d28d0-article-mwbkcws8.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/9bf1153d28d0.svg",
       "imageType": "hallyuscope_original",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
       "sourceImageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/9bf1153d28d0.svg",
       "category": "HALLYU NEWS",

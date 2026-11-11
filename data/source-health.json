@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T00:41:38.977Z",
+  "updatedAt": "2026-11-11T07:47:04.327Z",
   "sources": [
     {
       "source": "HYBE LABELS",
@@ -8,7 +8,7 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3IZKseVpdzPSBaWxBxundA",
       "ok": false,
       "count": 0,
-      "ms": 166,
+      "ms": 112,
       "error": "404 Not Found for https://www.youtube.com/feeds/videos.xml?channel_id=UC3IZKseVpdzPSBaWxBxundA"
     },
     {
@@ -18,8 +18,8 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaO6TYtlC8U5ttz62hTrZgg",
       "ok": false,
       "count": 0,
-      "ms": 206,
-      "error": "500 Internal Server Error for https://www.youtube.com/feeds/videos.xml?channel_id=UCaO6TYtlC8U5ttz62hTrZgg"
+      "ms": 186,
+      "error": "404 Not Found for https://www.youtube.com/feeds/videos.xml?channel_id=UCaO6TYtlC8U5ttz62hTrZgg"
     },
     {
       "source": "Soompi",
@@ -27,7 +27,7 @@
       "sourceClass": "publisher",
       "ok": true,
       "count": 60,
-      "ms": 303
+      "ms": 333
     },
     {
       "source": "Kpopmap",
@@ -35,7 +35,7 @@
       "sourceClass": "publisher",
       "ok": true,
       "count": 0,
-      "ms": 260
+      "ms": 161
     },
     {
       "source": "Google News · K-pop",
@@ -43,7 +43,7 @@
       "sourceClass": "publisher",
       "ok": true,
       "count": 100,
-      "ms": 660
+      "ms": 529
     },
     {
       "source": "Google News · PH concerts",
@@ -51,7 +51,7 @@
       "sourceClass": "publisher",
       "ok": true,
       "count": 21,
-      "ms": 418
+      "ms": 369
     },
     {
       "source": "Google News · comebacks",
@@ -59,7 +59,7 @@
       "sourceClass": "publisher",
       "ok": true,
       "count": 48,
-      "ms": 532
+      "ms": 363
     }
   ]
 }
