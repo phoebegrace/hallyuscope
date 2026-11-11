@@ -1,8 +1,436 @@
 {
-  "updatedAt": "2026-11-10T23:51:06.658Z",
+  "updatedAt": "2026-11-11T00:43:13.212Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
+    {
+      "id": "1dd833d042a5",
+      "createdAt": "2026-11-11T00:42:10.851Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-10T23:46:20.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "kim-ji-hun-and-park-ju-hyun-join-a-cast-dance-in-first-sigor-amour-teaser",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: Kim Ji Hun And Park Ju Hyun&#8217;s New Rom-Com Drama Unveils 1st Teaser",
+        "url": "https://www.soompi.com/article/1885674wpp/watch-kim-ji-hun-and-park-ju-hyuns-new-rom-com-drama-unveils-1st-teaser"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1885674wpp/watch-kim-ji-hun-and-park-ju-hyuns-new-rom-com-drama-unveils-1st-teaser",
+          "chars": 1175,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "walking arm in arm through the center of the stage",
+          "their bickering eventually develops into something more"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-11T00:42:10.849Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/1dd833d042a5.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/11084415/Sigor-Amour-1.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "Kim Ji Hun and Park Ju Hyun Join a Cast Dance in First 'Sigor Amour' Teaser",
+      "dek": "TV Chosun's upcoming romantic comedy introduces its ensemble ahead of a planned January 2027 premiere.",
+      "body": [
+        "TV Chosun has released the first teaser for its upcoming romantic comedy “Sigor Amour,” bringing stars Kim Ji Hun and Park Ju Hyun together with their castmates for a group dance.",
+        "According to Soompi, the teaser is set to the hit song “Amor Fati,” with Yewon leading the ensemble. Jo Jae Yoon, Im Won Hee and Park Joon Myun are among the cast members joining the synchronized performance.",
+        "The clip closes with Kim and Park walking arm in arm through the center of the stage, then posing alongside the rest of the cast. Their characters will have a more contentious start in the drama.",
+        "Kim plays Ki Ho Tae, a debt collection lawyer focused on money who inherits a run-down building in the countryside. As he adjusts to rural life, he begins to change and grow.",
+        "Park plays Hong Ji Min, the resourceful acting manager of Jinmi Butcher Shop. She frequently clashes with Ki Ho Tae, though their bickering eventually develops into something more.",
+        "“Sigor Amour,” a literal title, is scheduled to premiere in January 2027."
+      ],
+      "socialCaption": "Kim Ji Hun and Park Ju Hyun step into the spotlight in the first “Sigor Amour” teaser. Read more on HallyuScope for the story behind their characters.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#SigorAmour",
+        "#KimJiHun",
+        "#ParkJuHyun",
+        "#KDrama"
+      ],
+      "seoDescription": "Kim Ji Hun and Park Ju Hyun lead TV Chosun's romantic comedy Sigor Amour, which has released its first teaser ahead of a January 2027 premiere.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "91ba03fa34ae",
+      "createdAt": "2026-11-11T00:42:22.465Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-10T21:56:37.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "ahn-bo-hyun-and-lee-sung-min-clash-before-joining-forces-in-sacred-jewel-teaser",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: Ahn Bo Hyun And Lee Sung Min Join Forces Despite Hating Each Other In &#8220;Sacred Jewel&#8221; Teaser",
+        "url": "https://www.soompi.com/article/1885656wpp/watch-ahn-bo-hyun-and-lee-sung-min-join-forces-despite-hating-each-other-in-sacred-jewel-teaser"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1885656wpp/watch-ahn-bo-hyun-and-lee-sung-min-join-forces-despite-hating-each-other-in-sacred-jewel-teaser",
+          "chars": 1520,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "a sacred relic believed to have the power to protect the nation"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-11T00:42:22.464Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/91ba03fa34ae.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/11065436/Sacred-Jewel-4.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "Ahn Bo Hyun and Lee Sung Min Clash Before Joining Forces in 'Sacred Jewel' Teaser",
+      "dek": "The JTBC historical drama follows a dangerous search for a sacred relic during the Goryeo Dynasty.",
+      "body": [
+        "Ahn Bo Hyun and Lee Sung Min are reluctant allies in the new teaser for JTBC's upcoming drama “Sacred Jewel,” premiering December 5 at 10:40 p.m. KST.",
+        "Set in 1258, the drama takes place after 30 years of war with Mongolia have left Goryeo on the verge of defeat. An expedition heads onto the battlefield to find the Avalokitesvara Bead, a sacred relic believed to have the power to protect the nation. A princess also sets out to save the expedition.",
+        "Ahn plays Baek Gyeol, a young commander in the royal guard unit charged with protecting the emperor. In the teaser, he receives an order to lead the team searching for the bead, but the mission requires him to work with Yabyeolcho, a special military unit he has long despised.",
+        "That resentment quickly comes to the surface when Baek Gyeol meets Choi Gu, played by Lee Sung Min. The Yabyeolcho's top warrior mocks the royal guards, prompting Baek Gyeol to challenge him.",
+        "Despite their clash, Choi Gu later asks Baek Gyeol to put their differences aside and stand with his unit. Their uneasy partnership forms part of the expedition's fight to secure the relic."
+      ],
+      "socialCaption": "Ahn Bo Hyun and Lee Sung Min face off in the new Sacred Jewel teaser. Read on HallyuScope for more on their characters and the drama's premiere.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#SacredJewel",
+        "#AhnBoHyun",
+        "#LeeSungMin",
+        "#JTBCDrama"
+      ],
+      "seoDescription": "Ahn Bo Hyun and Lee Sung Min clash in the new teaser for JTBC's Sacred Jewel, a Goryeo-era drama premiering December 5 at 10:40 p.m. KST.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "6e12e6c21172",
+      "createdAt": "2026-11-11T00:42:32.475Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-08T21:30:00.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "xlov-shares-a-glimpse-of-life-offstage-in-the-manager-preview",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: XLOV Takes Off Their Makeup In &#8220;The Manager&#8221; Preview",
+        "url": "https://www.soompi.com/article/1885123wpp/watch-xlov-takes-off-their-makeup-in-the-manager-preview"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1885123wpp/watch-xlov-takes-off-their-makeup-in-the-manager-preview",
+          "chars": 888,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-11T00:42:32.474Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/6e12e6c21172.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09073009/XLOV-The-Manager.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "XLOV Shares a Glimpse of Life Offstage in ‘The Manager’ Preview",
+      "dek": "The group will appear on MBC’s reality show in an episode airing November 14.",
+      "body": [
+        "XLOV is set to give viewers a look at their everyday lives on MBC’s “The Manager.” A newly released preview shows the members taking off their makeup, offering a contrast to their glamorous stage appearances.",
+        "In voice-over, the members reflect on expressing different sides of themselves and question why a cool suit and a dress cannot both be part of their style. They also speak about becoming freer and not knowing what they might be drawn to next.",
+        "The preview aired during the show’s weekend broadcast, ahead of XLOV’s guest appearance. Their episode of “The Manager” is scheduled to air on November 14 at 11:10 p.m. KST."
+      ],
+      "socialCaption": "XLOV goes from stage looks to downtime in a new “The Manager” preview. Read more on HallyuScope.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#XLOV",
+        "#TheManager",
+        "#MBC",
+        "#XLOVTheManager"
+      ],
+      "seoDescription": "XLOV takes off their makeup and reflects on personal style in a preview of their upcoming appearance on MBC reality show The Manager, airing November 14.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "0c40e3daab95",
+      "createdAt": "2026-11-11T00:42:42.543Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-08T21:06:00.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "ateez-brings-bad-choreography-and-games-to-knowing-bros-preview",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: ATEEZ Takes &#8220;Knowing Bros&#8221; By Storm In Fun Preview",
+        "url": "https://www.soompi.com/article/1885120wpp/watch-ateez-takes-knowing-bros-by-storm-in-fun-preview"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1885120wpp/watch-ateez-takes-knowing-bros-by-storm-in-fun-preview",
+          "chars": 1627,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-11T00:42:42.543Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/0c40e3daab95.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09070452/ATEEZ-Knowing-Bros.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "TRENDING",
+      "headline": "ATEEZ Brings ‘BAD’ Choreography and Games to ‘Knowing Bros’ Preview",
+      "dek": "The JTBC variety show has previewed its upcoming ATEEZ episode, airing November 14 at 9 p.m. KST.",
+      "body": [
+        "ATEEZ is heading to the classroom on JTBC’s “Knowing Bros,” and a new preview offers a look at the group dancing, joking with the cast and competing in games.",
+        "The clip opens with the members performing choreography from their latest song, “BAD.” They also joke about how long it took to receive an invitation to the show. Seonghwa says they had been waiting for a long time, while San jokes that the group had worked for eight years to make it onto the program.",
+        "San also tells the cast that coming from a small-to-midsized agency means the members have no restrictions on what they can do on the show. Yunho then starts joking around, prompting San to ask whether their enthusiasm for “Knowing Bros” is clear.",
+        "Mingi gets a reaction from the cast when he reveals that his nickname is “princess.” He later shows off his dancing, while the end of the preview brings the members and cast together for a series of games.",
+        "ATEEZ was originally scheduled to appear as a full group, but Hongjoong and Wooyoung sat out for health reasons, Soompi reported. The episode airs November 14 at 9 p.m. KST. “Knowing Bros” is also known as “Ask Us Anything.”"
+      ],
+      "socialCaption": "ATEEZ takes its “BAD” choreography to the “Knowing Bros” classroom. Read on HallyuScope for what to expect from the preview.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#ATEEZ",
+        "#KnowingBros",
+        "#AskUsAnything",
+        "#ATEEZBAD"
+      ],
+      "seoDescription": "ATEEZ previews its upcoming Knowing Bros appearance with BAD choreography, games and jokes. The episode airs November 14 at 9 p.m. KST.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "ed8de4e4dd9d",
+      "createdAt": "2026-11-11T00:42:51.940Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-08T20:23:00.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "illit-scores-first-billboard-200-top-10-with-break-even",
+      "source": {
+        "publisher": "Soompi",
+        "title": "ILLIT Debuts At No. 1 On Billboard Top Album Sales Chart + No. 6 On Billboard 200 With &#8220;BREAK EVEN&#8221;",
+        "url": "https://www.soompi.com/article/1885116wpp/illit-debuts-at-no-1-on-billboard-top-album-sales-chart-no-6-on-billboard-200-with-break-even"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1885116wpp/illit-debuts-at-no-1-on-billboard-top-album-sales-chart-no-6-on-billboard-200-with-break-even",
+          "chars": 1218,
+          "depth": 1
+        },
+        {
+          "publisher": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/olivia-rodrigo-you-seem-pretty-sad-back-no-1-billboard-200-1236377042/",
+          "chars": 9153,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-11T00:42:51.940Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/ed8de4e4dd9d.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09062158/ILLIT_aa5c07.jpeg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "ILLIT Scores First Billboard 200 Top 10 With 'BREAK EVEN'",
+      "dek": "The mini album also gives ILLIT its first No. 1 on Billboard's Top Album Sales chart.",
+      "body": [
+        "ILLIT has earned its first top 10 entry on the Billboard 200 with “BREAK EVEN,” which debuted at No. 6 on the U.S. albums chart dated November 14.",
+        "The mini album also opened at No. 1 on Top Album Sales, making it ILLIT's first release to lead the sales chart, Soompi reported. Billboard announced the chart results on November 8.",
+        "According to Luminate, “BREAK EVEN” earned 37,000 equivalent album units in the United States during the tracking week ending November 5. That total included 32,500 traditional album sales, the group's biggest U.S. sales week yet, and 4,500 streaming equivalent units, representing 4.87 million on-demand audio streams.",
+        "The Billboard 200 ranks albums by overall consumption, including sales and streaming, while Top Album Sales focuses on traditional album purchases. “BREAK EVEN” was the week's best-selling album in the United States.",
+        "The release is ILLIT's fifth entry on the Billboard 200. Their previous albums on the chart were “SUPER REAL ME,” which peaked at No. 93, “I'LL LIKE YOU” at No. 94, “bomb” at No. 171 and “MAMIHLAPINATAPAI” at No. 26."
+      ],
+      "socialCaption": "ILLIT's “BREAK EVEN” has reached a new Billboard milestone. Read on HallyuScope for the chart numbers and the group's previous peaks.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#ILLIT",
+        "#BREAKEVEN",
+        "#Billboard200",
+        "#TopAlbumSales"
+      ],
+      "seoDescription": "ILLIT's BREAK EVEN debuts at No. 6 on the Billboard 200 and No. 1 on Top Album Sales, marking two firsts for the group. See its first-week numbers.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "d5ac332d7305",
+      "createdAt": "2026-11-11T00:43:02.729Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-08T18:42:00.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "cortis-greengreen-returns-to-billboard-200-at-no-90",
+      "source": {
+        "publisher": "Soompi",
+        "title": "CORTIS&#8217;s &#8220;GREENGREEN&#8221; Re-Enters Billboard 200 6 Months After Its Release",
+        "url": "https://www.soompi.com/article/1885104wpp/cortiss-greengreen-re-enters-billboard-200-6-months-after-its-release"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1885104wpp/cortiss-greengreen-re-enters-billboard-200-6-months-after-its-release",
+          "chars": 931,
+          "depth": 1
+        },
+        {
+          "publisher": "Billboard",
+          "url": "https://www.billboard.com/charts/world-albums",
+          "chars": 8658,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "extending its run as CORTIS' longest-charting album to date",
+          "making it the fifth best-selling album of the week in the United States"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-11T00:43:02.729Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/d5ac332d7305.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09050143/CORTIS.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "CORTIS' GREENGREEN Returns to Billboard 200 at No. 90",
+      "dek": "The group's second EP also reclaimed the top spot on Billboard's World Albums chart six months after its release.",
+      "body": [
+        "CORTIS' second EP, \"GREENGREEN,\" is back on the Billboard 200 six months after its release. The album re-entered the U.S. chart at No. 90 for the week ending November 7, Soompi reported.",
+        "The return brings \"GREENGREEN\" to 19 non-consecutive weeks on the Billboard 200, extending its run as CORTIS' longest-charting album to date. It first entered the chart at No. 3 in May.",
+        "The EP also returned to No. 1 on Billboard's World Albums chart, where it has now spent six non-consecutive weeks at the top. On the Top Album Sales chart, \"GREENGREEN\" climbed to No. 5, making it the fifth best-selling album of the week in the United States.",
+        "CORTIS also rose to No. 59 on the Artist 100, marking the group's 25th overall week on that chart."
+      ],
+      "socialCaption": "CORTIS' GREENGREEN is back on the Billboard 200. Read on HallyuScope for its latest chart milestones.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#CORTIS",
+        "#GREENGREEN",
+        "#Billboard200",
+        "#WorldAlbums"
+      ],
+      "seoDescription": "CORTIS' GREENGREEN returns to the Billboard 200 at No. 90, extending its chart run as the EP also reclaims No. 1 on the World Albums chart.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "516e2d94eca4",
+      "createdAt": "2026-11-11T00:43:12.783Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-08T18:06:00.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "blackpink-s-lisa-lands-second-solo-top-40-album-on-billboard-200-with-press-play",
+      "source": {
+        "publisher": "Soompi",
+        "title": "BLACKPINK&#8217;s Lisa Debuts In Top 35 Of Billboard 200 With &#8220;PRESS PLAY&#8221;",
+        "url": "https://www.soompi.com/article/1885099wpp/blackpinks-lisa-debuts-in-top-35-of-billboard-200-with-press-play"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1885099wpp/blackpinks-lisa-debuts-in-top-35-of-billboard-200-with-press-play",
+          "chars": 973,
+          "depth": 1
+        },
+        {
+          "publisher": "Billboard",
+          "url": "https://www.billboard.com/charts/top-album-sales/",
+          "chars": 8550,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "which ranks the most popular albums in the United States",
+          "the sixth best-selling album of the week in the United States",
+          "Title track \"Tarantino\" debuted at No. 79 on the Global Excl. U.S. chart and No. 98 on the Global 200.",
+          "Lisa also re-entered the Artist 100 at No. 34, marking her sixth non-consecutive week on the chart as a soloist."
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-11T00:43:12.782Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/516e2d94eca4.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09043714/Lisa.jpeg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "TRENDING",
+      "headline": "BLACKPINK's Lisa lands second solo top 40 album on Billboard 200 with 'PRESS PLAY'",
+      "dek": "The EP debuted at No. 35 on the U.S. albums chart, while its title track and pre-release single appeared on Billboard's global charts.",
+      "body": [
+        "BLACKPINK's Lisa has returned to the Billboard 200 as a solo artist, with her EP \"PRESS PLAY\" debuting at No. 35.",
+        "The release is Lisa's second solo entry on the chart, which ranks the most popular albums in the United States, Soompi reported. Her full-length album \"Alter Ego\" previously reached No. 7, giving her two solo top 40 entries.",
+        "\"PRESS PLAY\" also opened at No. 6 on Billboard's Top Album Sales chart, making it the sixth best-selling album of the week in the United States. It entered the Vinyl Albums chart at No. 15.",
+        "Two songs from the EP appeared on Billboard's global rankings. Title track \"Tarantino\" debuted at No. 79 on the Global Excl. U.S. chart and No. 98 on the Global 200. Pre-release single \"SaWaDiKa\" returned to both charts, at No. 113 and No. 126, respectively.",
+        "Lisa also re-entered the Artist 100 at No. 34, marking her sixth non-consecutive week on the chart as a soloist."
+      ],
+      "socialCaption": "Lisa's \"PRESS PLAY\" has entered the Billboard 200. Read on HallyuScope for the EP's chart results and where its songs landed.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#LISA",
+        "#BLACKPINK",
+        "#PRESSPLAY",
+        "#Tarantino"
+      ],
+      "seoDescription": "BLACKPINK's Lisa debuts at No. 35 on the Billboard 200 with PRESS PLAY, as Tarantino and SaWaDiKa appear on Billboard's global charts.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "df3cafc3f1e1",
       "createdAt": "2026-11-10T19:48:30.362Z",
@@ -40,12 +468,12 @@
         "missingKeyFacts": [],
         "checkedAt": "2026-11-10T19:48:30.360Z"
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/df3cafc3f1e1-article-mwbafopt.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/df3cafc3f1e1.svg",
       "imageType": "hallyuscope_original",
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/11042208/IVE.jpeg",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
       "category": "TRENDING",
       "headline": "IVE makes Billboard 200 debut with 'Looks Can Kill'",
@@ -4211,7 +4639,7 @@
         "type": "hallyuscope_original",
         "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
-      "sourceImageUrl": null,
+      "sourceImageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/da6f42bf4b18.svg",
       "category": "CONCERT NEWS",
       "headline": "Ticketing day, minus the panic",
       "dek": "The checklist to finish before a Philippine K-pop ticket sale opens, so the queue is the only thing left to worry about.",
@@ -4251,7 +4679,7 @@
         "type": "hallyuscope_original",
         "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
-      "sourceImageUrl": null,
+      "sourceImageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/1b4b7d65822e.svg",
       "category": "CONCERT NEWS",
       "headline": "Your first K-pop concert in Manila",
       "dek": "Venues, entry times, lightsticks, and the etiquette nobody tells you before your first show.",
@@ -4291,7 +4719,7 @@
         "type": "hallyuscope_original",
         "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
-      "sourceImageUrl": null,
+      "sourceImageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/9bf1153d28d0.svg",
       "category": "HALLYU NEWS",
       "headline": "Album versions, POBs and inclusions",
       "dek": "A plain-language breakdown of versions, pre-order benefits, and what actually comes inside a K-pop album.",
