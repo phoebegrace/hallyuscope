@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T03:23:48.835Z",
+  "updatedAt": "2026-11-11T03:32:39.482Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -4637,7 +4637,7 @@
         "url": "https://hallyuscope.com/concerts"
       },
       "sourceNote": "Source: HallyuScope",
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/da6f42bf4b18.svg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/da6f42bf4b18-article-mwbkco7z.jpg",
       "imageType": "hallyuscope_original",
       "imagePolicy": {
         "type": "hallyuscope_original",
@@ -4660,7 +4660,7 @@
       "seoDescription": "Ticketing day, minus the panic: the official sellers, the account prep, and the queue rules for Philippine K-pop shows.",
       "socialHashtags": "#HallyuScope #Concert #Kpop #KpopNews #Manila",
       "socialImageUrl": "",
-      "editedAt": "2026-11-11T03:20:56.593Z",
+      "editedAt": "2026-11-11T03:32:39.482Z",
       "socialPlatforms": {
         "facebook": true,
         "instagram": true
