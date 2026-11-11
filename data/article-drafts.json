@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T03:20:59.154Z",
+  "updatedAt": "2026-11-11T03:21:01.521Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -4733,24 +4733,29 @@
       "imageType": "hallyuscope_original",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+        "note": "HallyuScope original editorial cover."
       },
       "sourceImageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/9bf1153d28d0.svg",
       "category": "HALLYU NEWS",
       "headline": "Album versions, POBs and inclusions",
       "dek": "A plain-language breakdown of versions, pre-order benefits, and what actually comes inside a K-pop album.",
       "body": [
-        "A K-pop album is not one product. It is a set of versions, each with different covers, different photocards, and sometimes different extras, and the pre-order benefit is a whole second layer on top. Here is what each part means.",
-        "Versions are the choices. Most releases come in two or more versions, usually a different cover and a different photocard set per version. Some are member versions, where each version is dedicated to one member. Buying every version is a collector's choice, not a requirement. One version gets you the album, the songs, and a full set of inclusions.",
+        "A K-pop album is not one product. It is a set of versions, each with different covers, different photocards and sometimes different extras, and the pre-order benefit is a whole second layer on top. Here is what each part means.",
+        "Versions are the choices. Most releases come in two or more versions, usually a different cover and a different photocard set per version. Some are member versions, where each version is dedicated to one member. Buying every version is a collector's choice, not a requirement. One version gets you the album, the songs and a full set of inclusions.",
+        "Formats change what is in the box. A photobook version is the big one, with the most inclusions. Jewel case and digipack versions are smaller and cheaper, with fewer extras. Platform albums, such as Weverse Albums or Nemo albums, come with no CD at all: you get a card or a small package with a code that unlocks the music and digital photos in an app.",
+        "Inclusions are what comes inside the album. The standard set is a photobook, a CD and a random photocard, plus extras that change by release: a poster, stickers, a lyrics booklet or a postcard. The random photocard is the part fans trade. It is one member out of the group, pulled at random, and trading is half the hobby.",
         "POB stands for pre-order benefit. It is an extra photocard, or a small set of extras, given only to fans who order before the release date, and only from the shop that offers it. Each shop has its own POB, so the same album pre-ordered from two shops comes with two different extra photocards. That is why fans compare shops before they buy.",
-        "Inclusions are what comes inside the album. The standard set is a photobook, a CD, and a random photocard, plus extras that change by release: a poster, stickers, a lyrics booklet, or a postcard. The random photocard is the part fans trade. It is one member out of the group, pulled at random, and trading is half the hobby.",
-        "Where you buy matters. Official shops and the group's own store are the safe baseline. Local Philippine sellers, both online shops and physical stores, often carry the same versions and run group orders that split shipping. Check the version name, the shop's POB, and the release date before you pay, and keep the order confirmation until the album is in your hands."
+        "Where you buy matters. Official shops and the group's own store are the safe baseline. Local Philippine sellers, both online shops and physical stores, often carry the same versions and run group orders that split international shipping. Check the version name, the shop's POB and the release date before you pay, ask whether the POB is guaranteed or while supplies last, and keep the order confirmation until the album is in your hands."
       ],
       "socialCaption": "Versions, POBs, inclusions, what are you actually buying when you order a K-pop album? The plain-language breakdown is on HallyuScope.",
       "seoDescription": "Album versions, POBs and inclusions: a plain-language breakdown of what you are actually buying when you order a K-pop album.",
       "socialHashtags": "#HallyuScope #Kpop #KpopNews #Manila #KoreanCulture",
       "socialImageUrl": "",
-      "editedAt": "2026-11-10T09:17:19Z"
+      "editedAt": "2026-11-11T03:21:01.521Z",
+      "socialPlatforms": {
+        "facebook": true,
+        "instagram": true
+      }
     }
   ]
 }
