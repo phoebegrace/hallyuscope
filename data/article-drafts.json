@@ -1,8 +1,259 @@
 {
-  "updatedAt": "2026-11-11T22:48:00.271Z",
+  "updatedAt": "2026-11-12T03:53:06.712Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
+    {
+      "id": "2d9caf475af7",
+      "createdAt": "2026-11-12T03:52:30.343Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-12T02:13:46.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "jang-nara-and-kim-hye-yoon-go-from-opposing-lawyers-to-partners-in-good-partner-2",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Jang Nara And Kim Hye Yoon&#8217;s Relationship Shifts From Rivals To Comrades In &#8220;Good Partner 2&#8221;",
+        "url": "https://www.soompi.com/article/1886186wpp/jang-nara-and-kim-hye-yoons-relationship-shifts-from-rivals-to-comrades-in-good-partner-2"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1886186wpp/jang-nara-and-kim-hye-yoons-relationship-shifts-from-rivals-to-comrades-in-good-partner-2",
+          "chars": 2066,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/410/0001147035",
+          "chars": 1127,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-12T03:52:30.342Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/2d9caf475af7.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/12110846/good-partner-2-still5-1.jpeg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Jang Nara and Kim Hye Yoon Go From Opposing Lawyers to Partners in Good Partner 2",
+      "dek": "New stills preview a changing relationship between the two divorce lawyers ahead of the SBS drama's November 20 premiere.",
+      "body": [
+        "Jang Nara and Kim Hye Yoon are set to face off in court before joining forces in Good Partner 2. New stills from the SBS drama show their characters at different stages of a relationship that begins with a divorce case.",
+        "Jang Nara returns as Cha Eun Kyung, a star divorce lawyer, while Kim Hye Yoon plays Kang Hye Sung, an experienced lawyer committed to her clients. The two first meet as opposing counsel, representing different firms in the same suit.",
+        "In the newly released images, the lawyers confront each other in court. Other stills show a warmer side of their relationship, with the pair smiling at one another. Their path from conflict to trust will be a focus of the new season, as they navigate different personalities and approaches to work.",
+        "Jang Nara described their dynamic in terms of experience and passion. She said Kang Hye Sung reminded her of a younger Cha Eun Kyung, adding that it was fun to play characters who seemed both different and alike.",
+        "Kim Hye Yoon encouraged viewers to watch how the two lawyers support each other and grow together. P.O also returns as Jeon Eun Ho, now a more seasoned lawyer.",
+        "Good Partner 2 premieres November 20 at 9:50 p.m. KST on SBS and will be available on Viki."
+      ],
+      "socialCaption": "Jang Nara and Kim Hye Yoon start on opposite sides of a divorce case in Good Partner 2. Read more about their characters on HallyuScope.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#GoodPartner2",
+        "#JangNara",
+        "#KimHyeYoon",
+        "#PO"
+      ],
+      "seoDescription": "Jang Nara and Kim Hye Yoon play lawyers who go from rivals to partners in Good Partner 2. See what the new stills reveal ahead of the premiere.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "b21e345c664e",
+      "createdAt": "2026-11-12T03:52:41.923Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-12T01:36:11.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "jisoo-nct-and-babymonster-join-coachella-2027-lineup-3",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Blackpink’s Jisoo, Babymonster, NCT to perform at 2027 Coachella",
+        "url": "https://www.soompi.com/article/1885928wpp/blackpinks-jisoo-nct-and-babymonster-announced-for-coachella-2027-lineup"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1885928wpp/blackpinks-jisoo-nct-and-babymonster-announced-for-coachella-2027-lineup",
+          "chars": 822,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "NCT 127 and NCT DREAM also shared the festival lineup on their Instagram Stories, confirming their attendance.",
+          "South Korean DJ and singer-songwriter Peggy Gou and South Korean pansori pop band LEENALCHI"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-12T03:52:41.923Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/b21e345c664e.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Jisoo, NCT and BABYMONSTER join Coachella 2027 lineup",
+      "dek": "The festival's 2027 bill also features Peggy Gou and LEENALCHI, with performances scheduled across two April weekends.",
+      "body": [
+        "BLACKPINK's Jisoo, NCT and BABYMONSTER are set to perform at Coachella in 2027, joining a lineup announced by the US music festival on November 11.",
+        "Jisoo is on the Friday bill for April 9 and 16. NCT is scheduled for the following Saturdays, April 10 and 17, while BABYMONSTER will perform on Sundays, April 11 and 18, according to Soompi.",
+        "NCT 127 and NCT DREAM also shared the festival lineup on their Instagram Stories, confirming their attendance.",
+        "South Korean DJ and singer-songwriter Peggy Gou and South Korean pansori pop band LEENALCHI are on the Friday lineup alongside Jisoo. The announcement also named Dua Lipa, Tame Impala and SZA as headliners, alongside Daddy Yankee.",
+        "The schedule places the three K-pop acts across different days of both festival weekends, with fans able to see Jisoo on Friday, NCT on Saturday and BABYMONSTER on Sunday."
+      ],
+      "socialCaption": "Jisoo, NCT and BABYMONSTER are headed to Coachella 2027. Read HallyuScope for their performance dates and more lineup details.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#Jisoo",
+        "#NCT",
+        "#BABYMONSTER",
+        "#Coachella2027"
+      ],
+      "seoDescription": "Jisoo, NCT and BABYMONSTER join the Coachella 2027 lineup. See their April performance dates and the other Korean acts on the festival bill.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "adc9f1cfc2e1",
+      "createdAt": "2026-11-12T03:52:52.516Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-11T23:54:56.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "what-a-boss-wants-and-happy-anding-make-their-ratings-debuts",
+      "source": {
+        "publisher": "Soompi",
+        "title": "&#8220;What A Boss Wants&#8221; And &#8220;Happy Anding&#8221; Premiere To Promising Ratings",
+        "url": "https://www.soompi.com/article/1886147wpp/what-a-boss-wants-and-happy-anding-premiere-to-promising-ratings"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1886147wpp/what-a-boss-wants-and-happy-anding-premiere-to-promising-ratings",
+          "chars": 1021,
+          "depth": 1
+        },
+        {
+          "publisher": "Joynews24",
+          "url": "http://www.joynews24.com/view/2025276",
+          "chars": 999,
+          "depth": 2
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/home/article/465/0000020921",
+          "chars": 2283,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-12T03:52:52.515Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/adc9f1cfc2e1.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/12085227/What-a-Boss-Wants-Happy-Anding.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "What a Boss Wants and Happy Anding Make Their Ratings Debuts",
+      "dek": "The MBN romance and tvN coming-of-age drama premiered on November 11 with nationwide ratings of 1.3 percent and 1.7 percent, respectively.",
+      "body": [
+        "Two new Korean dramas entered the ratings race on November 11, with tvN's \"Happy Anding\" opening at 1.7 percent and MBN's \"What a Boss Wants\" recording 1.3 percent nationwide, according to Nielsen Korea figures reported by Soompi.",
+        "\"What a Boss Wants\" stars Sung Hoon as Kwon Do Hyuk, a chaebol boss searching for a woman whose voice he heard on an album. Oh Se Young plays Lee Eun Chae, the lead singer of an indie band whose path repeatedly crosses his.",
+        "In the premiere, Do Hyuk and Eun Chae first meet in a medical office, where she ends up pretending to be a doctor. They encounter each other again at a job interview, before Do Hyuk discovers the band and sees its vocalist performing at a club. The singer, known as Su, is Eun Chae.",
+        "Over on tvN, \"Happy Anding\" follows three comedians who have spent a decade trying to build their careers. Kang Hoon, Cho Hyun Chul and Kim Jung Jin play Kang Tae Gu, Kim Nam Il and Han Jun Seo, respectively.",
+        "The first episode traces the friends' journey from a high school performance to their years as the comedy trio Asura. A new producer offers them a chance to develop a comedy segment, while a mysterious woman keeps an eye on the group. She is revealed to be Go Eun Young, a worker at their regular cafe, played by Lee Yi Dam."
+      ],
+      "socialCaption": "Two new Korean dramas have arrived with different stories and close premiere ratings. Read on HallyuScope for a look at both debuts.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#WhatABossWants",
+        "#HappyAnding",
+        "#SungHoon",
+        "#KangHoon"
+      ],
+      "seoDescription": "What a Boss Wants and Happy Anding premiered with nationwide ratings of 1.3 and 1.7 percent. Here's what happened in their first episodes.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "63575739f218",
+      "createdAt": "2026-11-12T03:53:05.835Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-11T23:13:13.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "ive-and-riize-lead-circle-weekly-charts-as-a2o-lite-keeps-triple-crown",
+      "source": {
+        "publisher": "Soompi",
+        "title": "IVE, RIIZE, And ILLIT Top Circle Weekly Charts + A2O LITE Earns Triple Crown",
+        "url": "https://www.soompi.com/article/1886133wpp/ive-riize-and-illit-top-circle-weekly-charts-a2o-earns-triple-crown"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1886133wpp/ive-riize-and-illit-top-circle-weekly-charts-a2o-earns-triple-crown",
+          "chars": 2461,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-12T03:53:05.835Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/63575739f218.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/12080334/IVE-RIIZE-ILLIT-A2O-LITE.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "TRENDING",
+      "headline": "IVE and RIIZE Lead Circle Weekly Charts as A2O LITE Keeps Triple Crown",
+      "dek": "IVE topped the album chart, RIIZE led downloads and A2O LITE held three No. 1 spots for the week of October 18 to 24.",
+      "body": [
+        "IVE, RIIZE and A2O LITE claimed top spots on Circle Chart’s weekly rankings for October 18 to 24, while ILLIT led the social chart and landed in the top three on several music charts.",
+        "IVE’s EP “Looks Can Kill” debuted at No. 1 on the physical album chart, followed by ILLIT’s “BREAK EVEN” at No. 2. AND2BLE’s “Sequence 02: Attraction” took the next two places, with its regular edition at No. 3 and POCA version at No. 4. XLOV’s “i=!” completed the top five.",
+        "On the digital download chart, RIIZE’s new single “Insomnia” debuted at No. 1. IVE’s “Looks Can Kill” moved to No. 2 after leading the previous week, while ILLIT’s “You’re Under Arrest” and AND2BLE’s “French Kissing” entered at Nos. 3 and 4, respectively. A2O LITE’s “NEON” placed fifth.",
+        "A2O LITE maintained a triple crown with “NEON,” which led the overall digital, streaming and global K-pop charts. It marked the song’s third consecutive week at No. 1 on both the overall digital and global K-pop rankings.",
+        "MEOMURU’s “The Adult I Dreamed Of” and i-dle member Soyeon’s “I’m gonna TOESA” followed “NEON” on the overall digital chart. On the global K-pop chart, HUNTR/X’s “Golden” returned to No. 2, ahead of ILLIT’s “You’re Under Arrest” and BTS’s “SWIM.”",
+        "ILLIT rose to No. 1 on the social chart, followed by BTS, A2O LITE, PSY and BABYMONSTER."
+      ],
+      "socialCaption": "IVE, RIIZE and A2O LITE lead Circle’s weekly rankings. Read the full chart roundup on HallyuScope.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#IVE",
+        "#RIIZE",
+        "#ILLIT",
+        "#A2OLITE"
+      ],
+      "seoDescription": "IVE and RIIZE lead Circle’s album and download charts, while A2O LITE’s “NEON” holds three No. 1 spots and ILLIT tops the social chart.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "ca362a332981",
       "createdAt": "2026-11-11T16:15:21.877Z",
