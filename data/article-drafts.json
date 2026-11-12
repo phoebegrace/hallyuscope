@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T03:53:06.712Z",
+  "updatedAt": "2026-11-12T12:41:16.707Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -70,7 +70,7 @@
     {
       "id": "b21e345c664e",
       "createdAt": "2026-11-12T03:52:41.923Z",
-      "status": "pending_review",
+      "status": "skipped",
       "publishedAt": null,
       "sourcePublishedAt": "2026-11-12T01:36:11.000Z",
       "model": "gpt-6.1-terra",
@@ -104,7 +104,7 @@
       "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+        "note": "HallyuScope original editorial cover."
       },
       "category": "HALLYU NEWS",
       "headline": "Jisoo, NCT and BABYMONSTER join Coachella 2027 lineup",
@@ -117,15 +117,15 @@
         "The schedule places the three K-pop acts across different days of both festival weekends, with fans able to see Jisoo on Friday, NCT on Saturday and BABYMONSTER on Sunday."
       ],
       "socialCaption": "Jisoo, NCT and BABYMONSTER are headed to Coachella 2027. Read HallyuScope for their performance dates and more lineup details.",
-      "socialHashtags": [
-        "#HallyuScope",
-        "#Jisoo",
-        "#NCT",
-        "#BABYMONSTER",
-        "#Coachella2027"
-      ],
+      "socialHashtags": "#HallyuScope #Jisoo #NCT #BABYMONSTER #Coachella2027",
       "seoDescription": "Jisoo, NCT and BABYMONSTER join the Coachella 2027 lineup. See their April performance dates and the other Korean acts on the festival bill.",
-      "sourceNote": "Source: Soompi"
+      "sourceNote": "Source: Soompi",
+      "socialImageUrl": "",
+      "socialPlatforms": {
+        "facebook": true,
+        "instagram": true
+      },
+      "reviewedAt": "2026-11-12T12:41:16.707Z"
     },
     {
       "id": "adc9f1cfc2e1",
