@@ -1,8 +1,529 @@
 {
-  "updatedAt": "2026-11-12T12:45:13.453Z",
+  "updatedAt": "2026-11-12T12:51:41.374Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
+    {
+      "id": "a5bf413ff50c",
+      "createdAt": "2026-11-12T12:50:07.290Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-12T12:34:39.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "five-ryan-cheng-dramas-to-watch-from-the-lament-of-autumn-to-my-journey-to-you",
+      "source": {
+        "publisher": "Soompi",
+        "title": "5 Ryan Cheng (Cheng Lei) C-Dramas Which Showcase His Intense Charm",
+        "url": "https://www.soompi.com/article/1885495wpp/5-ryan-cheng-cheng-lei-c-dramas-which-showcase-his-intense-charm"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1885495wpp/5-ryan-cheng-cheng-lei-c-dramas-which-showcase-his-intense-charm",
+          "chars": 7529,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [
+          "Cheng plays a fictional villain who crosses from fiction into the real world.",
+          "Cheng's roles include fantasy romances.",
+          "The Gong Shang Jue role is in My Journey to You.",
+          "The Killers Is Also Romantic stars Cheng as fictional antagonist Lu Zi Ye alongside novelist Hua Qing Ge, played by Song Yi Ren.",
+          "Lu Zi Ye enters the real world and investigates a murder case with Hua Qing Ge."
+        ],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-12T12:50:07.289Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/a5bf413ff50c.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/11092132/The-Lament-of-Autumn-The-Legend-of-the-Female-General.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "K-DRAMA NEWS",
+      "headline": "Five Ryan Cheng dramas to watch, from The Lament of Autumn to My Journey to You",
+      "dek": "The actor, also known as Cheng Lei, takes on commanders, a prince and a fictional villain in five dramas highlighted by Soompi.",
+      "body": [
+        "Ryan Cheng has played characters driven by ambition, loyalty and revenge across historical dramas and fantasy romances. A Soompi roundup highlights five roles that show different sides of the actor, from a ruthless commander to a villain who crosses from fiction into the real world.",
+        "In The Lament of Autumn, Cheng plays Yu Chang Xuan, commander-in-chief of the Yu army's Nine Corps. His pursuit of student Ye Ping Jun, played by Xu Ruo Han, becomes increasingly obsessive despite her clear dislike of him.",
+        "Legend of the Female General casts Cheng as Xiao Jue, a disciplined military leader seeking justice for his family. He grows close to He Yan, played by Zhou Ye, after she joins his camp disguised as a male recruit.",
+        "In The First Jasmine, Cheng's Prince Mo Xiu Yao is a former war hero whose marriage to Ye Li, played by Bai Lu, begins as a reluctant alliance. As they live together, both pursue plans to avenge past wrongs.",
+        "My Journey to You sees Cheng play Gong Shang Jue, a strategist protective of the Gong family. His suspicion of his cousin Gong Zi Yu, played by Zhang Ling He, adds to a power struggle complicated by the arrival of people with hidden identities.",
+        "For a change of setting, The Killers Is Also Romantic places Cheng's fictional antagonist Lu Zi Ye alongside novelist Hua Qing Ge, played by Song Yi Ren. After entering the real world, Lu Zi Ye becomes involved in a murder case that leads him and Hua Qing Ge to investigate together."
+      ],
+      "socialCaption": "Looking for a Ryan Cheng drama to watch? Explore five of his roles on HallyuScope.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#RyanCheng",
+        "#ChengLei",
+        "#TheLamentOfAutumn",
+        "#MyJourneyToYou"
+      ],
+      "seoDescription": "Explore five Ryan Cheng dramas, from The Lament of Autumn and Legend of the Female General to My Journey to You and The First Jasmine.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "784ec3411179",
+      "createdAt": "2026-11-12T12:50:21.552Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-12T11:15:26.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "nct-s-jisung-joins-returning-cast-in-new-crash-2-set-photos",
+      "source": {
+        "publisher": "Soompi",
+        "title": "NCT’s Jisung Fits Right In With Lee Min Ki And Team In “Crash 2” Behind-The-Scenes Photos",
+        "url": "https://www.soompi.com/article/1886450wpp/ncts-jisung-fits-right-in-with-lee-min-ki-and-team-in-crash-2-behind-the-scenes-photos"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1886450wpp/ncts-jisung-fits-right-in-with-lee-min-ki-and-team-in-crash-2-behind-the-scenes-photos",
+          "chars": 2285,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/home/article/312/0000784112",
+          "chars": 1194,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [
+          "The original 2024 drama was the first Korean drama to focus on traffic crime investigations."
+        ],
+        "checkedAt": "2026-11-12T12:50:21.552Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/784ec3411179.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/12201509/crash-2-bts.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "NCT's Jisung Joins Returning Cast in New 'Crash 2' Set Photos",
+      "dek": "The rookie officer joins Lee Min Ki and the returning traffic crime investigation team as the drama prepares for its November 16 premiere.",
+      "body": [
+        "NCT's Jisung is joining the investigation in “Crash 2,” with newly released behind-the-scenes photos offering a look at him alongside the drama's returning cast.",
+        "The second season follows the Traffic Crime Investigation team as it moves from Namgang Police Station to a regional unit under the National Office of Investigation. The team will take on traffic crime cases across the country.",
+        "Lee Min Ki returns as T.C.I. ace Cha Yeon Ho, while Kwak Sun Young reprises her role as Min So Hee and Heo Sung Tae plays team leader Jung Chae Man. In the new photos, Lee is focused on filming, Kwak smiles on set and Heo reviews his script.",
+        "Lee Ho Chul is also back as traffic crime analyst Woo Dong Gi, alongside Moon Hee as Eo Hyun Kyung, whose skills include gathering information and martial arts. Jisung joins them as rookie police officer Ji Dae Se.",
+        "The returning actors said they quickly settled back into working together after two years. Lee Min Ki recalled that the cast felt familiar with one another at the first shoot, while Kwak Sun Young and Heo Sung Tae described the reunion as comfortable.",
+        "Jisung said the actors and staff helped him feel at ease on set. He added that he learned a lot from working with the senior actors.",
+        "“Crash 2” premieres November 16 at 10 p.m. KST on ENA. It will also be available on Genie TV and Disney+."
+      ],
+      "socialCaption": "NCT's Jisung joins the returning team in new “Crash 2” set photos. Read on HallyuScope for the cast's reunion and premiere details.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#NCT",
+        "#Jisung",
+        "#Crash2",
+        "#LeeMinKi"
+      ],
+      "seoDescription": "NCT's Jisung joins Lee Min Ki and the returning cast in new Crash 2 set photos ahead of the Korean drama's November 16 premiere on ENA.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "f05c751119c4",
+      "createdAt": "2026-11-12T12:50:37.357Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-12T09:50:33.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "lee-dong-wook-reviewing-offer-for-historical-action-film-nambeol",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Lee Dong Wook In Talks To Replace Seo Kang Jun In Upcoming Historical Action Film",
+        "url": "https://www.soompi.com/article/1886430wpp/lee-dong-wook-in-talks-to-replace-seo-kang-jun-in-upcoming-historical-action-film"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1886430wpp/lee-dong-wook-in-talks-to-replace-seo-kang-jun-in-upcoming-historical-action-film",
+          "chars": 1008,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/movie/article/117/0004124347",
+          "chars": 554,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-12T12:50:37.356Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/f05c751119c4.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/12185028/lee-dong-wook-seo-kang-jun.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Lee Dong Wook Reviewing Offer for Historical Action Film Nambeol",
+      "dek": "The actor is in talks for a role previously offered to Seo Kang Jun in a Joseon-era film starring Lee Byung Hun.",
+      "body": [
+        "Lee Dong Wook is reviewing an offer to appear in the upcoming historical action film Nambeol, according to its production company, Hive Media Corp.",
+        "The role was previously offered to Seo Kang Jun, whose decision to turn it down was confirmed a day earlier. MyDaily reported on November 12 that Lee Dong Wook would play the right-hand man of Lee Byung Hun's character. Hive Media Corp said the actor was still considering the offer, Soompi reported.",
+        "Set in the early Joseon dynasty, Nambeol, a literal title, follows nine warriors from different social ranks as they travel to Tsushima Island. Their mission is to rescue captives abducted by Japanese pirates. The film combines martial arts and action in a hard-boiled story.",
+        "The previously confirmed cast includes Lee Byung Hun, Go Youn Jung, Lee Do Hyun, WOODZ, also known as Cho Seung Youn, Park Hae Joon and Lee Kwang Soo. MyDaily reported that the part offered to Lee Dong Wook is one of the nine warriors.",
+        "Nambeol would mark another collaboration between Lee Dong Wook and Hive Media Corp. The actor previously worked with the production company on the films A Year-End Medley and Harbin."
+      ],
+      "socialCaption": "Lee Dong Wook is considering a role in Nambeol. Read on HallyuScope for the casting news and the film's premise.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#LeeDongWook",
+        "#Nambeol",
+        "#LeeByungHun",
+        "#SeoKangJun"
+      ],
+      "seoDescription": "Lee Dong Wook is reviewing an offer for Nambeol, a Joseon-era action film starring Lee Byung Hun, after Seo Kang Jun turned down the role.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "ee5f823b11ae",
+      "createdAt": "2026-11-12T12:50:50.333Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-12T09:00:34.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "oh-se-young-and-sung-hoon-begin-a-rocky-office-partnership-in-what-a-boss-wants",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Oh Se Young Falls Into Sung Hoon&#8217;s Arms As She Tries To Eavesdrop On Him In &#8220;What A Boss Wants&#8221;",
+        "url": "https://www.soompi.com/article/1886398wpp/oh-se-young-falls-into-sung-hoons-arms-as-she-tries-to-eavesdrop-on-him-in-what-a-boss-wants"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1886398wpp/oh-se-young-falls-into-sung-hoons-arms-as-she-tries-to-eavesdrop-on-him-in-what-a-boss-wants",
+          "chars": 2150,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/311/0002079882",
+          "chars": 1424,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "Based on a web novel, the romance drama stars Sung Hoon as Kwon Do Hyuk, a chaebol boss with no sense of taste who is searching for a woman whose voice he heard on an album."
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-12T12:50:50.332Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/ee5f823b11ae.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/12172147/what-a-boss-wants-1112-1.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Oh Se Young and Sung Hoon Begin a Rocky Office Partnership in What a Boss Wants",
+      "dek": "New stills preview Lee Eun Chae's first day as Kwon Do Hyuk's assistant, complete with a tense assignment and an accidental embrace.",
+      "body": [
+        "Oh Se Young and Sung Hoon are taking their bickering to the workplace in the second episode of “What a Boss Wants.” New stills show their characters starting a complicated boss and assistant relationship, Soompi reports.",
+        "Based on a web novel, the romance drama stars Sung Hoon as Kwon Do Hyuk, a chaebol boss with no sense of taste who is searching for a woman whose voice he heard on an album. Oh Se Young plays Lee Eun Chae, the lead vocalist of indie band India Red.",
+        "Do Hyuk previously spotted someone called Soo on an India Red CD cover who looked identical to an AI singer he had created. He went to the band's performance venue to find her, but Eun Chae concealed her identity. Her suspicious behavior and a red dress in her bag later convinced him that she was Soo.",
+        "The new stills show Eun Chae arriving for her first day at Do Hyuk's office as his executive assistant. She stands her ground against his demanding requests, while her commitment to performing with India Red adds another complication. According to Xports News, she tries to leave work using an English class as an excuse, only for Do Hyuk to order her back.",
+        "Another scene brings them unexpectedly close. Eun Chae presses her ear against the door of Do Hyuk's laboratory, but the door opens and she falls into his arms. The pair are visibly embarrassed, and Do Hyuk also ends up speaking with her father by phone.",
+        "Episode 2 airs November 12 at 10:20 p.m. KST."
+      ],
+      "socialCaption": "Oh Se Young and Sung Hoon's characters have a rocky first day at the office. Read on HallyuScope for a preview of What a Boss Wants.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#WhatABossWants",
+        "#SungHoon",
+        "#OhSeYoung",
+        "#KDrama"
+      ],
+      "seoDescription": "Oh Se Young and Sung Hoon clash at work in new What a Boss Wants stills, previewing an accidental embrace and a difficult first day.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "a97cbfdff293",
+      "createdAt": "2026-11-12T12:51:03.232Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-12T08:31:35.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "ateez-look-ahead-with-up-after-bad-success",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Exclusive: ATEEZ Reflects On “BAD” Success And Sets Their Sights On “UP” At Comeback Press Conference",
+        "url": "https://www.soompi.com/article/1886248wpp/exclusive-ateez-reflects-on-bad-success-and-sets-their-sights-on-up-at-comeback-press-conference"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1886248wpp/exclusive-ateez-reflects-on-bad-success-and-sets-their-sights-on-up-at-comeback-press-conference",
+          "chars": 4600,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [
+          "Hongjoong said ATEEZ would end the GOLDEN HOUR series once they have a new message to convey."
+        ],
+        "checkedAt": "2026-11-12T12:51:03.231Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/a97cbfdff293.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/12154727/%EB%8B%A8%EC%B2%B43.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "ATEEZ Look Ahead With 'UP' After 'BAD' Success",
+      "dek": "The group discussed their 15th mini album, music video highlights and hopes for future performances at a comeback press conference.",
+      "body": [
+        "ATEEZ are preparing to return with their 15th mini album, “GOLDEN HOUR : Part.6,” and title track “UP,” following the success of “BAD.” At a press conference ahead of the release, the members reflected on their progress and shared what fans can look forward to.",
+        "According to Soompi, leader Hongjoong said the comeback carries a message that ATEEZ are still moving forward eight years into their career. He also described the release as meaningful in connection with the group’s eighth anniversary.",
+        "The members pointed to several moments in the “UP” music video and performance. Hongjoong highlighted a final scene in which San breaks through a wall, while Wooyoung drew attention to Seonghwa’s dance break. Yeosang said he felt some pressure taking on a standout dance moment after San’s performance in “BAD,” but added that every member has a moment to watch in “UP.”",
+        "Jongho singled out “Hollow Victory” as a B-side to anticipate. Meanwhile, the members recalled a break during the video shoot when Yunho and Yeosang discovered a soy-marinated crab restaurant, then brought the rest of the group along. Yunho said they ate there two days in a row.",
+        "Looking beyond the comeback, Seonghwa said the group hopes to deliver strong performances at upcoming events, including awards shows. Yunho credited fans, known as ATINY, as a driving force behind the group’s eight years of promotions, while Hongjoong expressed excitement for an upcoming tour.",
+        "“GOLDEN HOUR : Part.6” and “UP” are set for release on November 13 at 2 p.m. KST."
+      ],
+      "socialCaption": "ATEEZ are ready to move “UP” after the success of “BAD.” Read more on HallyuScope for the members’ comeback highlights.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#ATEEZ",
+        "#ATEEZ_UP",
+        "#GoldenHourPart6",
+        "#ATINY"
+      ],
+      "seoDescription": "ATEEZ discuss their mini album GOLDEN HOUR : Part.6, the meaning behind title track UP and the performance moments fans can watch for.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "f80279b00f05",
+      "createdAt": "2026-11-12T12:51:14.567Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-12T08:20:36.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "han-hyo-joo-and-gong-myoung-s-first-loves-reunite-in-your-ground-stills",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Han Hyo Joo And Gong Myoung Reunite As First Loves Turned Agent And Baseball Player In “Your Ground”",
+        "url": "https://www.soompi.com/article/1886305wpp/han-hyo-joo-and-gong-myoung-reunite-as-first-loves-turned-agent-and-baseball-player-in-your-ground"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1886305wpp/han-hyo-joo-and-gong-myoung-reunite-as-first-loves-turned-agent-and-baseball-player-in-your-ground",
+          "chars": 2029,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/408/0000327626",
+          "chars": 1684,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "a former star lawyer at a major firm who has chosen a new career as a professional baseball agent",
+          "a right-handed pitcher for the Miracles who once reached Major League Baseball",
+          "at Ilseong High School, where Hee Seung was the top student and Hae Hwan was the baseball team's star"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-12T12:51:14.566Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/f80279b00f05.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/12172030/your-ground-1-3.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Han Hyo Joo and Gong Myoung's First Loves Reunite in 'Your Ground' Stills",
+      "dek": "The upcoming MBC romance follows a former lawyer and a baseball pitcher whose paths cross again 11 years after high school.",
+      "body": [
+        "Han Hyo Joo and Gong Myoung are bringing a high school first love story to the baseball field in MBC's upcoming drama \"Your Ground.\" New stills show their characters together years after they first met, with a professional partnership now connecting them.",
+        "Han plays Seo Hee Seung, a former star lawyer at a major firm who has chosen a new career as a professional baseball agent. Gong plays Kang Hae Hwan, a right-handed pitcher for the Miracles who once reached Major League Baseball. After an unexpected incident, he has spent two years in rehabilitation.",
+        "The pair met 11 years earlier at Ilseong High School, where Hee Seung was the top student and Hae Hwan was the baseball team's star. They were each other's first loves, and their reunion comes as Hee Seung works to help Hae Hwan return to his career.",
+        "In one of the newly released images, they sit side by side in the stands at a baseball stadium. Hae Hwan looks ahead while Hee Seung smiles with her arms crossed. Other stills show them in a flower-filled space and on a tree-lined path, where they hold hands.",
+        "\"Your Ground\" is scheduled to premiere in December as an MBC Friday-Saturday drama. Lee Sang Yeob and Kang Chae Won direct the series, with Hwang Hae Yeon writing the script."
+      ],
+      "socialCaption": "Han Hyo Joo and Gong Myoung play first loves reunited in 'Your Ground.' Read on HallyuScope for a closer look at their characters and the new stills.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#YourGround",
+        "#HanHyoJoo",
+        "#GongMyoung",
+        "#MBCDrama"
+      ],
+      "seoDescription": "Han Hyo Joo and Gong Myoung reunite as first loves in new stills from MBC's 'Your Ground,' a baseball romance set to premiere in December.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "6b579a1e10c3",
+      "createdAt": "2026-11-12T12:51:28.368Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-12T06:21:04.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "stray-kids-lee-know-prepares-for-solo-debut-in-early-2027",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Stray Kids’ Lee Know Confirmed To Be Gearing Up For Solo Debut",
+        "url": "https://www.soompi.com/article/1886285wpp/stray-kids-lee-know-confirmed-to-be-gearing-up-for-solo-debut"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1886285wpp/stray-kids-lee-know-confirmed-to-be-gearing-up-for-solo-debut",
+          "chars": 841,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/home/article/609/0001186777",
+          "chars": 776,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "had completed the album jacket shoot and filmed portions of a music video in October",
+          "The release would make Lee Know the first Stray Kids member to make an official solo debut."
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-12T12:51:28.368Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/6b579a1e10c3.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/12152056/lee-know-2.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Stray Kids' Lee Know Prepares for Solo Debut in Early 2027",
+      "dek": "JYP Entertainment has confirmed that Lee Know is working on a solo album, with an early 2027 release as the goal.",
+      "body": [
+        "Stray Kids member Lee Know is preparing to make his official solo debut, with JYP Entertainment targeting an early 2027 release for his first solo album.",
+        "A JYP representative confirmed the plans to Dispatch, Soompi reported on November 12. Dispatch reported that the album is expected in January, although the agency described the timing more broadly as early 2027.",
+        "Earlier on November 12, Newsen reported that Lee Know had completed the album jacket shoot and filmed portions of a music video in October. The outlet said he was in the final stages of preparation for the album.",
+        "The release would make Lee Know the first Stray Kids member to make an official solo debut. He debuted with the group in March 2018 with “District 9.”",
+        "Lee Know is also expected to begin his mandatory military service in the first quarter of 2027, according to Soompi.",
+        "The solo plans follow a busy period for Stray Kids. The group's August mini album “THIS & THAT” earned its ninth No. 1 on the Billboard 200, while the members also performed at festivals including Governors Ball and Rock in Rio."
+      ],
+      "socialCaption": "Lee Know is preparing to become the first Stray Kids member to make an official solo debut. Read on HallyuScope for the release plans and what has been reported so far.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#LeeKnow",
+        "#StrayKids",
+        "#LeeKnowSolo",
+        "#STAY"
+      ],
+      "seoDescription": "Stray Kids' Lee Know is preparing his first solo album for early 2027. JYP Entertainment confirmed the plans as reports point to a January release.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "1edd4e43de84",
+      "createdAt": "2026-11-12T12:51:40.492Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-12T05:56:26.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "kim-woo-bin-sizes-up-two-pitchers-in-new-poster-for-baseball-drama-gift",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Kim Woo Bin Ranks The Talents Of Cha Been And Han Si Hyun In Poster For Upcoming Drama “GIFT”",
+        "url": "https://www.soompi.com/article/1886226wpp/kim-woo-bin-ranks-the-talents-of-cha-been-and-han-si-hyun-in-poster-for-upcoming-drama-gift"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1886226wpp/kim-woo-bin-ranks-the-talents-of-cha-been-and-han-si-hyun-in-poster-for-upcoming-drama-gift",
+          "chars": 1666,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/312/0000784074",
+          "chars": 1162,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "a former professional baseball pitching coach who gains a special ability after an unexpected accident",
+          "a high school team ranked last in the nation"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-12T12:51:40.491Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/1edd4e43de84.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/12122326/gift_2d6d84.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "K-DRAMA NEWS",
+      "headline": "Kim Woo Bin Sizes Up Two Pitchers in New Poster for Baseball Drama 'GIFT'",
+      "dek": "The tvN drama's latest poster puts Cha Been's hardworking pitcher and Han Si Hyun's natural talent on either side of Kim Woo Bin's coach.",
+      "body": [
+        "Kim Woo Bin is heading to the baseball mound in a new poster for tvN's upcoming drama \"GIFT,\" where his character has a unique way of assessing players.",
+        "Based on a webtoon, the sports drama stars Kim as Jung Min Yong, a former professional baseball pitching coach who gains a special ability after an unexpected accident. He goes on to coach a high school team ranked last in the nation.",
+        "In the poster, Jung stands with his arms crossed between pitchers Heo Seung Il, played by Cha Been, and Cha Tae Hoon, played by Han Si Hyun. The two face opposite directions as they prepare to pitch, with letters above their heads indicating the talent grades only their coach can see.",
+        "Seung Il has a C grade and works relentlessly to make up for his lack of natural talent. Tae Hoon, meanwhile, has an S grade and exceptional instincts, even though he knows little about baseball.",
+        "The contrast sets up a question at the heart of the poster: whether natural ability or hard work will make the difference when the players take the field.",
+        "\"GIFT\" premieres December 5 at 9:10 p.m. KST on tvN."
+      ],
+      "socialCaption": "Kim Woo Bin's coach can see his players' talent grades in the new \"GIFT\" poster. Read on HallyuScope for a closer look at the two pitchers.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#GIFT",
+        "#KimWooBin",
+        "#ChaBeen",
+        "#HanSiHyun"
+      ],
+      "seoDescription": "Kim Woo Bin assesses two very different pitchers in a new poster for tvN's baseball drama GIFT, starring Cha Been and Han Si Hyun.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "2d9caf475af7",
       "createdAt": "2026-11-12T03:52:30.343Z",
@@ -104,7 +625,7 @@
       "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
       "category": "HALLYU NEWS",
       "headline": "Jisoo, NCT and BABYMONSTER join Coachella 2027 lineup",
@@ -225,12 +746,12 @@
         "missingKeyFacts": [],
         "checkedAt": "2026-11-12T03:53:05.835Z"
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/63575739f218-article-mwdji9ai.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/63575739f218.svg",
       "imageType": "hallyuscope_original",
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/12080334/IVE-RIIZE-ILLIT-A2O-LITE.jpg",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
       "category": "TRENDING",
       "headline": "IVE and RIIZE Lead Circle Weekly Charts as A2O LITE Keeps Triple Crown",
@@ -368,7 +889,7 @@
       "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
       "category": "HALLYU NEWS",
       "headline": "Jisoo, NCT and BABYMONSTER Join Coachella 2027 Lineup",
