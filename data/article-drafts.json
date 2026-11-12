@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T12:41:16.707Z",
+  "updatedAt": "2026-11-12T12:42:38.048Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -321,7 +321,7 @@
     {
       "id": "9cfbe9ac5bef",
       "createdAt": "2026-11-11T16:15:35.092Z",
-      "status": "pending_review",
+      "status": "skipped",
       "publishedAt": null,
       "sourcePublishedAt": "2026-11-11T11:18:05.000Z",
       "model": "gpt-6.1-terra",
@@ -355,7 +355,7 @@
       "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+        "note": "HallyuScope original editorial cover."
       },
       "category": "HALLYU NEWS",
       "headline": "Jisoo, NCT and BABYMONSTER Join Coachella 2027 Lineup",
@@ -368,15 +368,15 @@
         "Dua Lipa, Tame Impala and SZA were announced as headliners, with Daddy Yankee also featured on the lineup. The 2027 festival will run across the weekends of April 9 to 11 and April 16 to 18."
       ],
       "socialCaption": "Jisoo, NCT and BABYMONSTER are on the Coachella 2027 bill. Read HallyuScope for their performance dates and more Korean artists joining the lineup.",
-      "socialHashtags": [
-        "#HallyuScope",
-        "#Jisoo",
-        "#NCT",
-        "#BABYMONSTER",
-        "#Coachella2027"
-      ],
+      "socialHashtags": "#HallyuScope #Jisoo #NCT #BABYMONSTER #Coachella2027",
       "seoDescription": "Jisoo, NCT and BABYMONSTER will perform at Coachella 2027. See their scheduled dates and the other Korean artists joining the festival lineup.",
-      "sourceNote": "Source: Soompi"
+      "sourceNote": "Source: Soompi",
+      "socialImageUrl": "",
+      "socialPlatforms": {
+        "facebook": true,
+        "instagram": true
+      },
+      "reviewedAt": "2026-11-12T12:42:38.048Z"
     },
     {
       "id": "cab7119f4cdb",
