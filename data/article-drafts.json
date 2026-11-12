@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T12:42:41.270Z",
+  "updatedAt": "2026-11-12T12:44:51.093Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -199,8 +199,8 @@
     {
       "id": "63575739f218",
       "createdAt": "2026-11-12T03:53:05.835Z",
-      "status": "pending_review",
-      "publishedAt": null,
+      "status": "published",
+      "publishedAt": "2026-11-12T12:44:51.093Z",
       "sourcePublishedAt": "2026-11-11T23:13:13.000Z",
       "model": "gpt-6.1-terra",
       "qualityVersion": 3,
@@ -225,12 +225,12 @@
         "missingKeyFacts": [],
         "checkedAt": "2026-11-12T03:53:05.835Z"
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/63575739f218.svg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/63575739f218-article-mwdji9ai.webp",
       "imageType": "hallyuscope_original",
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/12080334/IVE-RIIZE-ILLIT-A2O-LITE.jpg",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+        "note": "HallyuScope original editorial cover."
       },
       "category": "TRENDING",
       "headline": "IVE and RIIZE Lead Circle Weekly Charts as A2O LITE Keeps Triple Crown",
@@ -244,15 +244,15 @@
         "ILLIT rose to No. 1 on the social chart, followed by BTS, A2O LITE, PSY and BABYMONSTER."
       ],
       "socialCaption": "IVE, RIIZE and A2O LITE lead Circle’s weekly rankings. Read the full chart roundup on HallyuScope.",
-      "socialHashtags": [
-        "#HallyuScope",
-        "#IVE",
-        "#RIIZE",
-        "#ILLIT",
-        "#A2OLITE"
-      ],
+      "socialHashtags": "#HallyuScope #IVE #RIIZE #ILLIT #A2OLITE",
       "seoDescription": "IVE and RIIZE lead Circle’s album and download charts, while A2O LITE’s “NEON” holds three No. 1 spots and ILLIT tops the social chart.",
-      "sourceNote": "Source: Soompi"
+      "sourceNote": "Source: Soompi",
+      "socialImageUrl": "https://hallyuscope.com/api/social-card?image=https%3A%2F%2Fraw.githubusercontent.com%2Fphoebegrace%2Fhallyuscope%2Flive-data%2Fassets%2Feditorial%2F63575739f218-article-mwdji9ai.webp&category=TRENDING&headline=IVE+and+RIIZE+Lead+Circle+Weekly+Charts+as+A2O+LITE+Keeps+Triple+Crown&description=IVE%2C+RIIZE+and+A2O+LITE+lead+Circle%E2%80%99s+weekly+rankings.+Read+the+full+chart+roundup+on+HallyuScope.&ts=1794487475673&sig=2f3c1d98ad3d012452108cd31c0586a4ed7d8740f4f5d2fd1f16897015dc282d",
+      "socialPlatforms": {
+        "facebook": true,
+        "instagram": true
+      },
+      "reviewedAt": "2026-11-12T12:44:51.093Z"
     },
     {
       "id": "ca362a332981",
