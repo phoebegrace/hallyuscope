@@ -1,14 +1,15 @@
 {
-  "updatedAt": "2026-11-12T20:52:11.317Z",
+  "updatedAt": "2026-11-13T01:53:04.222Z",
   "sources": [
     {
       "source": "HYBE LABELS",
       "sourceId": "hybe-labels-youtube",
       "sourceClass": "official",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3IZKseVpdzPSBaWxBxundA",
-      "ok": true,
-      "count": 15,
-      "ms": 289
+      "ok": false,
+      "count": 0,
+      "ms": 194,
+      "error": "404 Not Found for https://www.youtube.com/feeds/videos.xml?channel_id=UC3IZKseVpdzPSBaWxBxundA"
     },
     {
       "source": "JYP Entertainment",
@@ -17,7 +18,7 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaO6TYtlC8U5ttz62hTrZgg",
       "ok": true,
       "count": 15,
-      "ms": 596
+      "ms": 123
     },
     {
       "source": "Soompi",
@@ -25,7 +26,7 @@
       "sourceClass": "publisher",
       "ok": true,
       "count": 60,
-      "ms": 372
+      "ms": 358
     },
     {
       "source": "Kpopmap",
@@ -33,7 +34,7 @@
       "sourceClass": "publisher",
       "ok": true,
       "count": 0,
-      "ms": 288
+      "ms": 168
     },
     {
       "source": "Google News · K-pop",
@@ -41,15 +42,15 @@
       "sourceClass": "publisher",
       "ok": true,
       "count": 100,
-      "ms": 622
+      "ms": 565
     },
     {
       "source": "Google News · PH concerts",
       "url": "https://news.google.com/rss/search?q=%28K-pop+OR+Kpop%29+%28Manila+OR+Philippines%29+%28concert+OR+tour+OR+fancon+OR+%22fan+meeting%22%29+when%3A60d&hl=en-PH&gl=PH&ceid=PH%3Aen",
       "sourceClass": "publisher",
       "ok": true,
-      "count": 27,
-      "ms": 406
+      "count": 26,
+      "ms": 400
     },
     {
       "source": "Google News · comebacks",
@@ -57,7 +58,7 @@
       "sourceClass": "publisher",
       "ok": true,
       "count": 44,
-      "ms": 548
+      "ms": 482
     }
   ]
 }

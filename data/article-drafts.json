@@ -1,8 +1,253 @@
 {
-  "updatedAt": "2026-11-12T20:52:24.052Z",
+  "updatedAt": "2026-11-13T01:54:09.379Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
+    {
+      "id": "1550baf47213",
+      "createdAt": "2026-11-13T01:53:29.337Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-13T01:31:24.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "nct-s-jisung-joins-the-team-in-crash-2-first-episode-preview",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: Lee Min Ki, Kwak Sun Young, And The T.C.I. Team Are Shocked By Jisung&#8217;s Enthusiasm In &#8220;Crash 2&#8221; Preview",
+        "url": "https://www.soompi.com/article/1886551wpp/watch-lee-min-ki-kwak-sun-young-and-the-t-c-i-team-are-shocked-by-jisungs-enthusiasm-in-crash-2-preview"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1886551wpp/watch-lee-min-ki-kwak-sun-young-and-the-t-c-i-team-are-shocked-by-jisungs-enthusiasm-in-crash-2-preview",
+          "chars": 1385,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "a regional investigative unit under the National Office of Investigation"
+        ],
+        "missingKeyFacts": [
+          "The original “Crash” was the first Korean drama to focus on traffic crime investigations."
+        ],
+        "checkedAt": "2026-11-13T01:53:29.336Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/1550baf47213.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/13102541/crash-2-leeminki-kwaksunyoung-jisung.png",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "NCT's Jisung Joins the Team in 'Crash 2' First Episode Preview",
+      "dek": "A new preview introduces Jisung as an eager recruit alongside Lee Min Ki and Kwak Sun Young in the traffic crime investigation drama.",
+      "body": [
+        "NCT's Jisung is ready to learn on the job in a new first episode preview for \"Crash 2,\" though his enthusiasm quickly catches his colleagues off guard.",
+        "The preview introduces Jisung as Ji Dae Sae, who promises to observe quietly as he joins the traffic crime investigation team. His resolve is tested when Woo Dong Gi, played by Lee Ho Chul, warns him to watch without listening. Ji Dae Sae laughs, only for Woo Dong Gi to respond sternly.",
+        "Later, as Min So Hee and Cha Yeon Ho, played by Kwak Sun Young and Lee Min Ki, discuss a case, Ji Dae Sae excitedly asks whether it involves a judge's daughter who claims her car suddenly accelerated. His interruption surprises the team, prompting Woo Dong Gi to question why he spoke.",
+        "The sequel to the 2024 drama \"Crash\" follows the Traffic Crime Investigation team as it moves beyond Namgang Police Station. Now a regional investigative unit under the National Office of Investigation, the team takes on traffic crime cases across the country.",
+        "\"Crash 2\" premieres November 16 at 10 p.m. KST."
+      ],
+      "socialCaption": "Jisung's eager new recruit makes an impression in the first \"Crash 2\" preview. Read on HallyuScope for a look at the team and its next chapter.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#Crash2",
+        "#Jisung",
+        "#LeeMinKi",
+        "#KwakSunYoung"
+      ],
+      "seoDescription": "NCT's Jisung joins Lee Min Ki and Kwak Sun Young in a first episode preview for Crash 2, the traffic crime drama premiering November 16.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "1b7ae43700c1",
+      "createdAt": "2026-11-13T01:53:44.044Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-13T00:59:57.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "park-min-young-faces-a-workplace-romance-triangle-in-new-nine-to-six-teaser",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: Park Min Young Is Caught Between Yook Sungjae And Go Soo In &#8220;Nine To Six&#8221; Teaser",
+        "url": "https://www.soompi.com/article/1886558wpp/watch-park-min-young-is-caught-between-yook-sungjae-and-go-soo-in-nine-to-six-teaser"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1886558wpp/watch-park-min-young-is-caught-between-yook-sungjae-and-go-soo-in-nine-to-six-teaser",
+          "chars": 1726,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [
+          "Park Min Young's character is named Kang Ji Yi, also referred to as Kang Yi Ji in the source."
+        ],
+        "checkedAt": "2026-11-13T01:53:44.043Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/1b7ae43700c1.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/13095800/Nine-to-Six-3.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "Park Min Young Faces a Workplace Romance Triangle in New 'Nine to Six' Teaser",
+      "dek": "Yook Sungjae and Go Soo show interest in Park Min Young's character in the latest look at SBS's upcoming romance drama.",
+      "body": [
+        "SBS has released a new teaser for “Nine to Six,” offering a glimpse of Park Min Young's character as she navigates a demanding job and the attention of two men at work.",
+        "Park stars as a workaholic who has put romance aside to focus on her career. BTOB's Yook Sungjae plays Han Seon Woo, a warm and thoughtful colleague who helps her open up to love as they grow together in their personal and professional lives.",
+        "The teaser finds Park's character having a difficult day after being reprimanded for sticking closely to the rules at work. Seon Woo tries to lift her spirits, offering her a chance to have fun with him.",
+        "She also catches the attention of Park Hyun Tae, a new division head played by Go Soo. He tells her that he finds himself doing things he had not planned when they are together.",
+        "The two men's interest leads to a tense exchange. Seon Woo asks Hyun Tae directly whether he likes her, while Hyun Tae questions why Seon Woo is going so far.",
+        "As Park's character grows closer to Seon Woo, she reflects that spending time with him makes her feel like a better person. The teaser closes with an exchange about doing everything together, prompting her to ask whether he means for a lifetime.",
+        "“Nine to Six” premieres on November 25 at 9 p.m. KST."
+      ],
+      "socialCaption": "Park Min Young's work life gets complicated in the new “Nine to Six” teaser. Read more about the romance on HallyuScope.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#NineToSix",
+        "#ParkMinYoung",
+        "#YookSungjae",
+        "#GoSoo"
+      ],
+      "seoDescription": "Park Min Young draws the attention of Yook Sungjae and Go Soo in a new teaser for SBS romance drama “Nine to Six,” premiering November 25 at 9 p.m. KST.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "b29583bc4c60",
+      "createdAt": "2026-11-13T01:53:56.182Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-13T00:25:10.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "happy-anding-holds-ratings-lead-over-what-a-boss-wants-in-second-episodes",
+      "source": {
+        "publisher": "Soompi",
+        "title": "&#8220;What A Boss Wants&#8221; And &#8220;Happy Anding&#8221; Continue Ratings Battle With 2nd Episodes",
+        "url": "https://www.soompi.com/article/1886543wpp/what-a-boss-wants-and-happy-anding-continue-ratings-battle-with-2nd-episodes"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1886543wpp/what-a-boss-wants-and-happy-anding-continue-ratings-battle-with-2nd-episodes",
+          "chars": 1046,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "whose voice he heard on an album"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-13T01:53:56.181Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/b29583bc4c60.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/13092236/What-a-Boss-Wants-Happy-Anding-1.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "K-DRAMA NEWS",
+      "headline": "Happy Anding Holds Ratings Lead Over What a Boss Wants in Second Episodes",
+      "dek": "The tvN coming-of-age drama maintained its premiere rating, while MBN's romance slipped slightly on November 12.",
+      "body": [
+        "Happy Anding kept its lead over What a Boss Wants as the two dramas aired their second episodes on November 12.",
+        "According to Nielsen Korea figures reported by Soompi, tvN's Happy Anding recorded an average nationwide rating of 1.7 percent, unchanged from its premiere the night before. MBN's What a Boss Wants posted 1.0 percent nationwide, dipping slightly from its first episode.",
+        "Happy Anding follows three comedians who have spent a decade struggling to establish themselves. Kang Hoon plays Kang Tae Gu, alongside Cho Hyun Chul as Kim Nam Il and Kim Jung Jin as Han Jun Seo. Their search for new directions begins after they encounter a mysterious woman.",
+        "What a Boss Wants takes a romantic approach, with Sung Hoon playing Kwon Do Hyuk, a chaebol boss searching for a woman whose voice he heard on an album. Oh Se Young stars as Lee Eun Chae, an indie band's lead vocalist who becomes an unexpected presence in his carefully ordered life.",
+        "The first two episodes of What a Boss Wants are available on Viki."
+      ],
+      "socialCaption": "Happy Anding held its ratings lead as What a Boss Wants aired its second episode. Read on HallyuScope for the numbers and a look at both dramas.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#HappyAnding",
+        "#WhatABossWants",
+        "#KangHoon",
+        "#SungHoon"
+      ],
+      "seoDescription": "Happy Anding held a 1.7 percent nationwide rating as What a Boss Wants recorded 1.0 percent with their second episodes on November 12.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "57c8c1e72e59",
+      "createdAt": "2026-11-13T01:54:07.832Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-12T23:39:04.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "cl-signs-with-theblacklabel-plans-november-song-release",
+      "source": {
+        "publisher": "Soompi",
+        "title": "CL Signs With THEBLACKLABEL; To Release New Music In November",
+        "url": "https://www.soompi.com/article/1886533wpp/cl-signs-with-theblacklabel-to-release-new-music-in-november"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1886533wpp/cl-signs-with-theblacklabel-to-release-new-music-in-november",
+          "chars": 1115,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/home/article/144/0001149576",
+          "chars": 738,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-13T01:54:07.832Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/57c8c1e72e59.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/13083601/CL.jpeg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "CL signs with THEBLACKLABEL, plans November song release",
+      "dek": "The 2NE1 member is joining producer Teddy's agency after years of working together, with a new song in preparation.",
+      "body": [
+        "CL has signed an exclusive contract with THEBLACKLABEL and is aiming to release a new song in November, the agency announced on November 13.",
+        "The move brings the 2NE1 member together again with Teddy, THEBLACKLABEL's founder and a longtime musical collaborator. The agency said their new partnership is built on trust developed over years of working together, and that CL is preparing to meet fans around the world.",
+        "CL debuted as 2NE1's leader under YG Entertainment in 2009. Teddy participated in the production of several of the group's best-known songs, including “FIRE,” “I DON'T CARE” and “I AM THE BEST.”",
+        "After leaving YG in 2019, CL established her own agency, Very Cherry, and continued her solo career independently. She released her first full-length solo album, “ALPHA,” in 2021.",
+        "At THEBLACKLABEL, CL joins a roster that includes fellow former YG artists Taeyang of BIGBANG and Rosé of BLACKPINK. Jeon Somi, MEOVV and ALLDAY PROJECT are also among the agency's artists.",
+        "The signing marks a new chapter for CL alongside a producer who helped shape some of 2NE1's most recognizable releases. Her planned November song will follow the announcement of her exclusive contract."
+      ],
+      "socialCaption": "CL is joining THEBLACKLABEL and preparing new music. Read on HallyuScope for more on her reunion with Teddy.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#CL",
+        "#2NE1",
+        "#THEBLACKLABEL",
+        "#Teddy"
+      ],
+      "seoDescription": "CL signs an exclusive contract with THEBLACKLABEL, reuniting with producer Teddy as she prepares to release a new song in November.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "a5bf413ff50c",
       "createdAt": "2026-11-12T12:50:07.290Z",
