@@ -1,8 +1,444 @@
 {
-  "updatedAt": "2026-11-13T01:54:09.379Z",
+  "updatedAt": "2026-11-13T09:40:01.474Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
+    {
+      "id": "0ccf0059e92d",
+      "createdAt": "2026-11-13T09:38:49.077Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-13T08:13:33.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "kim-yun-seok-and-koo-kyo-hwan-face-off-in-new-white-blast-stills",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Koo Kyo Hwan And Kim Yun Seok’s Fight For Survival Takes A Dangerous Turn In “White Blast”",
+        "url": "https://www.soompi.com/article/1886778wpp/koo-kyo-hwan-and-kim-yun-seoks-fight-for-survival-takes-a-dangerous-turn-in-white-blast"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1886778wpp/koo-kyo-hwan-and-kim-yun-seoks-fight-for-survival-takes-a-dangerous-turn-in-white-blast",
+          "chars": 2214,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/home/article/382/0001304338",
+          "chars": 891,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-13T09:38:49.076Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/0ccf0059e92d.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/13171316/White-Blast-2-3.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Kim Yun Seok and Koo Kyo Hwan Face Off in New 'White Blast' Stills",
+      "dek": "The mystery thriller follows two railway workers whose encounter with a body turns a snowbound station into a scene of mounting tension.",
+      "body": [
+        "Kim Yun Seok and Koo Kyo Hwan are at odds in new stills from “White Blast,” a mystery thriller set at a rural train station cut off by heavy snow.",
+        "Kim plays Gap Soo, a stationmaster approaching retirement, while Koo plays his newly appointed successor, Hyun Taek. Their relationship becomes strained after a mysterious body is discovered at Seoloh Station.",
+        "One image shows Gap Soo pointing a rifle at Hyun Taek, who holds a shovel in defense. Another captures the men struggling over the gun, with Hyun Taek bloodied. Other stills show Gap Soo facing the storm and Hyun Taek watching his surroundings warily.",
+        "The tension extends beyond the two station workers. Detective Choi, played by Park Soo Young, and Officer Yang, played by Roh Yoon Seo, are also seen looking suspiciously at Hyun Taek.",
+        "Koo encouraged viewers to follow the story from the characters’ different perspectives, including those of Gap Soo and Hyun Taek. Director Hong Eui Jeong said she hopes audiences enjoy how their judgments change as incidents unfold, and praised the experience the two lead actors brought to their scenes together.",
+        "Kim said he hopes the film meets audiences’ expectations. “White Blast” opens in theaters on November 18."
+      ],
+      "socialCaption": "A mysterious body and a snowbound station put Kim Yun Seok and Koo Kyo Hwan on a collision course. Read more about the new White Blast stills on HallyuScope.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#WhiteBlast",
+        "#KimYunSeok",
+        "#KooKyoHwan",
+        "#RohYoonSeo"
+      ],
+      "seoDescription": "Kim Yun Seok and Koo Kyo Hwan face off in new White Blast stills as a mysterious body unsettles a train station isolated by heavy snow.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "85e32719affc",
+      "createdAt": "2026-11-13T09:39:02.147Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-13T07:36:58.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "crash-2-cast-previews-nationwide-cases-and-nct-s-jisung-s-new-role",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Lee Min Ki, Kwak Sun Young, NCT’s Jisung, And More Tease Bigger Cases And Stronger Teamwork In “Crash 2”",
+        "url": "https://www.soompi.com/article/1886747wpp/lee-min-ki-kwak-sun-young-ncts-jisung-and-more-tease-bigger-cases-and-stronger-teamwork-in-crash-2"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1886747wpp/lee-min-ki-kwak-sun-young-ncts-jisung-and-more-tease-bigger-cases-and-stronger-teamwork-in-crash-2",
+          "chars": 3866,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/home/article/438/0000082250",
+          "chars": 1915,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [
+          "The original “Crash” was the first Korean drama to focus on traffic crime investigations."
+        ],
+        "checkedAt": "2026-11-13T09:39:02.147Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/85e32719affc.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/13163653/crash-2-1.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Crash 2 Cast Previews Nationwide Cases and NCT's Jisung's New Role",
+      "dek": "The traffic crime drama returns with a wider investigative remit, unresolved cases and a new recruit played by NCT's Jisung.",
+      "body": [
+        "The team at the center of \"Crash\" is taking its investigations nationwide in season 2, with NCT's Jisung joining returning stars Lee Min Ki and Kwak Sun Young. The new season premieres November 16 at 10 p.m. KST on ENA.",
+        "According to Soompi, the Traffic Crime Investigation team, known as T.C.I., moves from Namgang Police Station to a regional unit under the National Office of Investigation. The follow-up to the 2024 drama brings the team into cases across the country.",
+        "Lee Min Ki, who plays analytical investigator Cha Yeon Ho, pointed to more intricate crimes and a larger scale as highlights. He also said the season will address cases that began in the first installment and explore the team's chemistry with its newest member.",
+        "That newcomer is Ji Dae Se, a passionate young officer played by Jisung. The NCT member encouraged viewers to watch how his character contributes to the team, alongside the season's broader range of stories.",
+        "Kwak Sun Young returns as Min So Hee, who faces trauma from her past while pursuing criminals. She teased closer teamwork among the investigators and stories about new villains and their secrets. Moon Hee, who plays information gatherer Eo Hyun Kyung, also highlighted the villains and the team members' personal stories.",
+        "Heo Sung Tae reprises his role as team leader Jung Chae Man and drew attention to the evolving forms of traffic crime portrayed in the drama. Lee Ho Chul returns as Woo Dong Gi, the team's car expert and analyst, and described the series as an easy watch. The new season will also be available on Genie TV and Disney+."
+      ],
+      "socialCaption": "The T.C.I. team is going nationwide, and NCT's Jisung is joining the investigation. Read on HallyuScope for the cast's season 2 previews.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#Crash2",
+        "#LeeMinKi",
+        "#KwakSunYoung",
+        "#NCTJisung"
+      ],
+      "seoDescription": "Crash 2 returns with nationwide traffic crime investigations and NCT's Jisung as a new recruit. See what the cast shared ahead of the premiere.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "38cf23d01611",
+      "createdAt": "2026-11-13T09:39:14.712Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-13T05:50:12.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "exo-kase-sets-eight-city-asia-fan-concert-tour-starting-in-seoul",
+      "source": {
+        "publisher": "Soompi",
+        "title": "EXO-KASE Announces Dates And Cities For 1st Fan Concert Tour “SILENT CITY”",
+        "url": "https://www.soompi.com/article/1886712wpp/exo-kase-announces-dates-and-cities-for-1st-fan-concert-tour-silent-city"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1886712wpp/exo-kase-announces-dates-and-cities-for-1st-fan-concert-tour-silent-city",
+          "chars": 1010,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-13T09:39:14.711Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/38cf23d01611.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/13144958/exo-kase_000f66.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "CONCERT NEWS",
+      "headline": "EXO-KASE sets eight-city Asia fan concert tour, starting in Seoul",
+      "dek": "Kai and Sehun will bring their first fan concert tour, SILENT CITY, to eight locations following the release of their debut mini album.",
+      "body": [
+        "EXO-KASE, the new unit featuring EXO members Kai and Sehun, has announced the dates and stops for its first fan concert tour, SILENT CITY.",
+        "The tour will open with two shows on January 9 and 10 at Korea University Hwajeong Tiger Dome in Seoul, Soompi reported. After the Seoul concerts, the duo will visit Kuala Lumpur, Macau, Jakarta, Tokyo, Bangkok, Taipei and Manila.",
+        "Seoul tickets will be sold through Melon Ticket. Members of EXO's official fan club, EXO-L, can take part in the domestic presale on November 23, followed by the global presale on November 24. General sales will open on November 25.",
+        "Before the tour begins, Kai and Sehun will release their debut mini album as EXO-KASE. Titled Waking Up The City, the album is scheduled for December 1.",
+        "EXO-KASE announced the tour dates and destinations on November 13. SILENT CITY marks the duo's first fan concert tour together as a unit."
+      ],
+      "socialCaption": "Kai and Sehun are taking EXO-KASE's SILENT CITY fan concert tour across Asia. Read HallyuScope for the stops and Seoul ticket dates.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#EXOKASE",
+        "#EXO",
+        "#Kai",
+        "#Sehun"
+      ],
+      "seoDescription": "EXO-KASE members Kai and Sehun announce their SILENT CITY fan concert tour across Asia, with Seoul ticket sales starting in November for EXO-L members.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "dd05187a0196",
+      "createdAt": "2026-11-13T09:39:26.470Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-13T04:09:51.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "jang-nara-and-kim-hye-yoon-team-up-in-new-good-partner-2-teaser",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: Jang Nara, Kim Hye Yoon, P.O, And Park Hae Jin Fight For Their Brokenhearted Clients In &#8220;Good Partner 2&#8221; Teaser",
+        "url": "https://www.soompi.com/article/1886669wpp/watch-jang-nara-kim-hye-yoon-p-o-and-park-hae-jin-fight-for-their-brokenhearted-clients-in-good-partner-2-teaser"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1886669wpp/watch-jang-nara-kim-hye-yoon-p-o-and-park-hae-jin-fight-for-their-brokenhearted-clients-in-good-partner-2-teaser",
+          "chars": 2115,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/416/0000328043",
+          "chars": 1334,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [
+          "Eun Kyung asks a client whether they have considered divorce; the sources do not identify whom she is asking."
+        ],
+        "copiedPhrases": [
+          "P.O also reprises his role as Jeon Eun Ho, now a more seasoned lawyer."
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-13T09:39:26.469Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/dd05187a0196.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/13130157/good-partner-2-7.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "Jang Nara and Kim Hye Yoon team up in new Good Partner 2 teaser",
+      "dek": "The SBS divorce drama returns on November 20 with a new legal partnership and a fresh set of difficult cases.",
+      "body": [
+        "Jang Nara and Kim Hye Yoon are joining forces as divorce lawyers in Good Partner 2, which has released a new teaser ahead of its November 20 premiere.",
+        "The SBS drama brings back Jang Nara as star attorney Cha Eun Kyung, who becomes partners with experienced lawyer Kang Hye Sung, played by Kim Hye Yoon. P.O also reprises his role as Jeon Eun Ho, now a more seasoned lawyer. Park Hae Jin appears in the teaser as Park Tae Soo.",
+        "As Soompi reports, the preview begins with Eun Kyung asking a client whether they have considered divorce. It then moves through cases involving infidelity, violence and one-sided open marriages, while the lawyers weigh how to hold people accountable and listen to what their clients want.",
+        "The new season follows the lawyers as they help clients navigate choices about their lives after divorce. Writer Choi Yu Na, who is also a divorce attorney, said she wanted to offer viewers something new while retaining the familiarity that fans of the first season enjoyed.",
+        "Choi identified family and growth as key themes, with the cases exploring relationships as well as divorce. Director Seo Min Jung also said she wanted to show how people can confront their wounds and grow through understanding and relying on others.",
+        "Good Partner 2 premieres at 9:50 p.m. KST on SBS and will be available on Viki."
+      ],
+      "socialCaption": "Jang Nara and Kim Hye Yoon take on divorce cases in a new Good Partner 2 teaser. Read on HallyuScope for the premiere details.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#GoodPartner2",
+        "#JangNara",
+        "#KimHyeYoon",
+        "#ParkHaeJin"
+      ],
+      "seoDescription": "Good Partner 2 stars Jang Nara and Kim Hye Yoon as divorce lawyers in a new teaser. Find out when the SBS drama premieres and where to watch.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "1a614e67cb7d",
+      "createdAt": "2026-11-13T09:39:38.303Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-13T03:33:55.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "5-k-dramas-to-watch-after-dive-into-you",
+      "source": {
+        "publisher": "Soompi",
+        "title": "5 K-Dramas To Watch If You Liked &#8220;Dive Into You&#8221;",
+        "url": "https://www.soompi.com/article/1886470wpp/5-k-dramas-to-watch-if-you-liked-dive-into-you"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1886470wpp/5-k-dramas-to-watch-if-you-liked-dive-into-you",
+          "chars": 6556,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "who repeatedly travels back in time to save her favorite idol, Ryu Seon Jae"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-13T09:39:38.303Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/1a614e67cb7d.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/12212653/dive-into-you-the-haunted-palace-semantic-error.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "K-DRAMA NEWS",
+      "headline": "5 K-dramas to watch after Dive into You",
+      "dek": "From a campus romance to a time-travel love story, these picks offer more of Park Seo Ham and Kim Ji Yeon or a familiar journey into the past.",
+      "body": [
+        "With Dive into You now finished, fans looking for their next watch have options that follow its stars into very different stories. Soompi has highlighted five dramas featuring Park Seo Ham, Kim Ji Yeon or another romance shaped by time travel.",
+        "Semantic Error pairs Park Seo Ham with Jaechan in a campus romance. Jaechan plays computer science student Chu Sang Woo, who submits a group project under his own name after his teammates fail to contribute. Park's Jang Jae Yeong loses credit as a result and sets out to disrupt Sang Woo's orderly life.",
+        "Park also appears in Our Universe as Park Yun Seong, the first love and new boss of Woo Hyeon Jin, played by Roh Jeong Eui. The drama centers on Hyeon Jin and Seon Tae Hyeong, played by Bae In Hyuk, as the in-laws raise the child of their deceased siblings.",
+        "For more of Kim Ji Yeon, The Haunted Palace takes viewers to the Joseon Dynasty. She plays Yeo Ri, a glass artisan from a family of shamans, who faces palace spirits after her first love Yoon Gap, played by Yook Sungjae, becomes possessed.",
+        "Kim takes on a high school thriller in Pyramid Game, based on the webtoon of the same name. Her character, transfer student Sung Su Ji, challenges a popularity ranking system that makes the lowest-ranked student a target of violence.",
+        "Fans drawn to the time-travel element of Dive into You can also try Lovely Runner. Kim Hye Yoon plays Im Sol, who repeatedly travels back in time to save her favorite idol, Ryu Seon Jae, played by Byeon Woo Seok."
+      ],
+      "socialCaption": "Missing Dive into You? Find five dramas to add to your watchlist on HallyuScope.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#DiveIntoYou",
+        "#ParkSeoHam",
+        "#KimJiYeon",
+        "#LovelyRunner"
+      ],
+      "seoDescription": "Find five K-dramas to watch after Dive into You, including Park Seo Ham and Kim Ji Yeon dramas, plus the time-travel romance Lovely Runner.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "0f820a7f9952",
+      "createdAt": "2026-11-13T09:39:49.157Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-13T03:24:19.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "kim-ji-won-and-doctor-x-cast-share-playful-moments-in-new-set-video",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: Kim Ji Won, Kim Woo Seok, Lee Jin Hee, And More &#8220;Doctor X&#8221; Cast Balance Fun And Professionalism On Set",
+        "url": "https://www.soompi.com/article/1886610wpp/watch-kim-ji-won-kim-woo-seok-lee-jin-hee-and-more-doctor-x-cast-balance-fun-and-professionalism-on-set"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1886610wpp/watch-kim-ji-won-kim-woo-seok-lee-jin-hee-and-more-doctor-x-cast-balance-fun-and-professionalism-on-set",
+          "chars": 1080,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-13T09:39:49.157Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/0f820a7f9952.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/13122203/doctor-x5.png",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "K-DRAMA NEWS",
+      "headline": "Kim Ji Won and Doctor X Cast Share Playful Moments in New Set Video",
+      "dek": "A new making-of video follows the SBS drama's cast from surgery scenes to dinner, snacks and on-set pranks.",
+      "body": [
+        "SBS has released a new behind-the-scenes video from “Doctor X,” showing Kim Ji Won and her co-stars at work and enjoying lighter moments between takes.",
+        "According to Soompi, the footage moves from a realistic surgery sequence to a dinner scene, where Kim Ji Won says she is happy to be eating after filming the operation the previous day.",
+        "The dinner shoot also gives the cast a chance to pose for group photos. Lee Jin Hee, Kim Woo Seok and Heo Joon Seok have some fun with Kim Ji Won, taking prank photos while her character is asleep.",
+        "Another scene follows Lee Jung Eun as she carries Kim Ji Won to a bus station. When Lee Jung Eun accidentally drops her microphone, she tries to keep the scene going by saying her wallet fell. The director calls for another take.",
+        "The video also captures the cast filming a serious scene before sharing snacks and posing for more photos off camera. “Doctor X” airs on SBS on Fridays and Saturdays at 9:50 p.m. KST."
+      ],
+      "socialCaption": "The Doctor X cast mixes serious scenes with playful photos on set. Read more about the new making-of video on HallyuScope.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#DoctorX",
+        "#KimJiWon",
+        "#KimWooSeok",
+        "#LeeJungEun"
+      ],
+      "seoDescription": "Kim Ji Won and the Doctor X cast share dinner, prank photos and a missed take in a new behind-the-scenes video from the SBS drama.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "1e78758e6314",
+      "createdAt": "2026-11-13T09:40:00.526Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-13T02:12:17.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "song-hye-kyo-and-gong-yoo-enter-the-music-industry-in-new-tantara-teaser",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: Song Hye Kyo, Gong Yoo, Seolhyun, And Cha Seung Won Strive Toward Success In New Drama &#8220;Tantara&#8221; Teasers",
+        "url": "https://www.soompi.com/article/1886557wpp/watch-song-hye-kyo-gong-yoo-seolhyun-and-cha-seung-won-strive-toward-success-in-new-drama-tantara-teasers"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1886557wpp/watch-song-hye-kyo-gong-yoo-seolhyun-and-cha-seung-won-strive-toward-success-in-new-drama-tantara-teasers",
+          "chars": 2267,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/445/0000489923",
+          "chars": 1054,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-13T09:40:00.526Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/1e78758e6314.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/13103251/tantara-posters.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "Song Hye Kyo and Gong Yoo Enter the Music Industry in New Tantara Teaser",
+      "dek": "Netflix has unveiled character posters and a teaser for the drama, which will roll out in three parts beginning December 11.",
+      "body": [
+        "Song Hye Kyo and Gong Yoo chase success in Korea's entertainment industry in a new teaser for Netflix drama \"Tantara,\" alongside Seolhyun and Cha Seung Won.",
+        "Set in the Korean entertainment world from the 1960s through the 1980s, the series follows people with little to their names as they pursue careers in an industry marked by violence and hardship.",
+        "Song plays Min Ja, while Gong takes the role of Dong Gu. The two characters have relied on each other since facing difficulties together as children. In the teaser, they meet Min Hee, a gifted singer played by Seolhyun, and enter the music industry together.",
+        "The newly released character posters offer a glimpse of what drives the cast. Min Ja sees an opportunity to make money, while Dong Gu appears undaunted by the challenges ahead. Min Hee's poster points to her complicated relationship with Min Ja and her fear of being abandoned.",
+        "Cha plays Seok Gil Yeo, a star composer whose poster hints at the difficult path he took to reach his position.",
+        "\"Tantara\" was written by Noh Hee Kyung and directed by Lee Yoon Jung. Netflix will release the 22-episode series in three parts: episodes 1 through 8 arrive December 11, episodes 9 through 15 follow December 18, and episodes 16 through 22 land December 25."
+      ],
+      "socialCaption": "Song Hye Kyo, Gong Yoo, Seolhyun and Cha Seung Won take on Korea's entertainment industry in Tantara. Read on HallyuScope for the teaser and release schedule.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#Tantara",
+        "#SongHyeKyo",
+        "#GongYoo",
+        "#Seolhyun"
+      ],
+      "seoDescription": "Netflix's Tantara unveils a teaser with Song Hye Kyo, Gong Yoo, Seolhyun and Cha Seung Won. Find out when its three parts will be released.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "1550baf47213",
       "createdAt": "2026-11-13T01:53:29.337Z",

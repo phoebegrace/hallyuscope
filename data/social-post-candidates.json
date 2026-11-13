@@ -1,7 +1,608 @@
 {
-  "updatedAt": "2026-11-13T01:53:17.900Z",
+  "updatedAt": "2026-11-13T09:38:35.529Z",
   "note": "Additive social review queue. Existing live site data files are unchanged.",
   "items": [
+    {
+      "id": "09d7dcfa9fb9",
+      "title": "SEE YOU, EXO-KASE 🫶🇵🇭 EXO’s newest sub-unit EXO-KASE will be having a fan concert in Manila next year! READ: https://www.gmanetwork.com/news/lifestyle/hobbiesandactivities/1009383/exo-kai-sehun-to-hold-fancon-in-manila-on-march-2027/story/",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWDVrMVZIbTAxdDU2QXhlaktKbS12c3FyeVRZMGpsdkdNcmx5M1k0bGhsWjZTNXNvbFRLU3FmdDdqZ1UyTkF4SzUzY0RwX2pMX0hyYWRGLVRjU0RsWEVrWWRvNzhGN1Q0X0FvTkpGTGdKMmRWTWNaTFphVjI3Yl8yWnFFdEdmeTh5a25rSEsxOWhmLVlndnlxS2xPWmV5UkVzUUk4cV9mT1JlcTdjMHhLWEVUd01ZYVhRZFBtSk1CMkJrUmhxS2pENVVTV1BOM2gwbG1Z?oc=5",
+      "publishedAt": "2026-11-13T09:10:20.000Z",
+      "source": "Facebook",
+      "description": "SEE YOU, EXO-KASE 🫶🇵🇭 EXO’s newest sub-unit EXO-KASE will be having a fan concert in Manila next year! READ: https://www.gmanetwork.com/news/lifestyle/hobbiesandactivities/1009383/exo-kai-sehun-to-hold-fancon-in-manila-on-march-2027/story/ &nbsp;&nbsp; Facebook",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "SEE YOU, EXO-KASE 🫶🇵🇭 EXO’s newest sub-unit EXO-KASE will be having a fan concert in Manila next year! READ: https://www.gmanetwork.com/news/lifestyle/hobbiesandactivities/1009383/exo-kai-sehun-to-hold-fancon-in-manila-on-march-2027/story/ &nbsp;&nbsp; Facebook",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWDVrMVZIbTAxdDU2QXhlaktKbS12c3FyeVRZMGpsdkdNcmx5M1k0bGhsWjZTNXNvbFRLU3FmdDdqZ1UyTkF4SzUzY0RwX2pMX0hyYWRGLVRjU0RsWEVrWWRvNzhGN1Q0X0FvTkpGTGdKMmRWTWNaTFphVjI3Yl8yWnFFdEdmeTh5a25rSEsxOWhmLVlndnlxS2xPWmV5UkVzUUk4cV9mT1JlcTdjMHhLWEVUd01ZYVhRZFBtSk1CMkJrUmhxS2pENVVTV1BOM2gwbG1Z",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "CONCERT NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "CONCERT NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "6c3c4bc2396b",
+      "title": "BTS V, Jimin, J-Hope, Jin attend military reserve force training",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLWw3MDhfTjRTYlp1aDVoT1c1VEN6WVk0Q05QQkhndjBJMm1HeDVDNEZQTjd4NjJLcW01a2JSeVd4bjZhTWM0QnRleHg4UGRvNFNGem1yeHhqT1ZobFR2Ymg1MXRXQ0h0WWFfMldGX2JjV01lU2FDWXFhdGlFbDBKR2I4aW9RcGUtdWZ5Qm5Oa056RzFGVkd2OEdBREpfTDlyaFhHQ2FR0gGrAUFVX3lxTE1WWDFoWHBmb1dycGFFa0w3OFU4Qk01d2NybVdCM2F5NjVzQUUxd1dxWERFNDgxNHlGdy1BSDIzVGs4bXB1cW5ZanM0S3lGR3hqaFU0cTJqMFRsbHh1bWJyZ2N4alZvdldScXZMaWI0ay1OZEJneDRiT294ZEVGREk4Vk5vTkRia01JZHo2R2p6d0RESGtENEQ5U0tVN29DMHRFRFpWWjVjVlFmNA?oc=5",
+      "publishedAt": "2026-11-13T09:02:00.000Z",
+      "source": "Inquirer.net",
+      "description": "BTS V, Jimin, J-Hope, Jin attend military reserve force training &nbsp;&nbsp; Inquirer.net",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "BTS V, Jimin, J-Hope, Jin attend military reserve force training &nbsp;&nbsp; Inquirer.net",
+      "articleUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLWw3MDhfTjRTYlp1aDVoT1c1VEN6WVk0Q05QQkhndjBJMm1HeDVDNEZQTjd4NjJLcW01a2JSeVd4bjZhTWM0QnRleHg4UGRvNFNGem1yeHhqT1ZobFR2Ymg1MXRXQ0h0WWFfMldGX2JjV01lU2FDWXFhdGlFbDBKR2I4aW9RcGUtdWZ5Qm5Oa056RzFGVkd2OEdBREpfTDlyaFhHQ2FR0gGrAUFVX3lxTE1WWDFoWHBmb1dycGFFa0w3OFU4Qk01d2NybVdCM2F5NjVzQUUxd1dxWERFNDgxNHlGdy1BSDIzVGs4bXB1cW5ZanM0S3lGR3hqaFU0cTJqMFRsbHh1bWJyZ2N4alZvdldScXZMaWI0ay1OZEJneDRiT294ZEVGREk4Vk5vTkRia01JZHo2R2p6d0RESGtENEQ5U0tVN29DMHRFRFpWWjVjVlFmNA",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "0ccf0059e92d",
+      "title": "Koo Kyo Hwan And Kim Yun Seok’s Fight For Survival Takes A Dangerous Turn In “White Blast”",
+      "url": "https://www.soompi.com/article/1886778wpp/koo-kyo-hwan-and-kim-yun-seoks-fight-for-survival-takes-a-dangerous-turn-in-white-blast",
+      "publishedAt": "2026-11-13T08:13:33.000Z",
+      "source": "Soompi",
+      "description": "The lead actors of “White Blast,” Kim Yun Seok and Koo Kyo Hwan, along with the film’s director, have shared what audiences can look forward to ahead of its release! “White Blast” is a mystery thriller that follows Gap Soo (Kim Yun Seok), a stationmaster nearing retirement, and his newly appointed successor, Hyun Taek (Koo&#8230; Continue reading Koo Kyo Hwan And Kim Yun Seok’s Fight For Survival Takes A Dangerous Turn In “White Blast” The post Koo Kyo Hwan And Kim Yun Seok’s Fight For Survival Takes A Dangerous Turn In “White Blast” appeared first on Soompi .",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "The lead actors of “White Blast,” Kim Yun Seok and Koo Kyo Hwan, along with the film’s director, have shared what audiences can look forward to ahead of its release! “White Blast” is a mystery thriller that follows Gap Soo (Kim Yun Seok), a stationmaster nearing retirement, and his newly appointed successor, Hyun Taek (Koo&#8230; Continue reading Koo Kyo Hwan And Kim Yun Seok’s Fight For Survival Takes A Dangerous Turn In “White Blast” The post Koo Kyo Hwan And Kim Yun Seok’s Fight For Survival Takes A Dangerous Turn In “White Blast” appeared first on Soompi .",
+      "articleUrl": "https://www.soompi.com/article/1886778wpp/koo-kyo-hwan-and-kim-yun-seoks-fight-for-survival-takes-a-dangerous-turn-in-white-blast",
+      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/13171316/White-Blast-2-3.jpg",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "KOO KYO HWAN AND KIM YUN SEOK’S FIGHT FOR SURVIVAL TAKES A DANGEROUS TURN IN “WHITE BLAST”: SOOMPI",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "KOO KYO HWAN AND KIM YUN SEOK’S FIGHT FOR SURVIVAL TAKES A DANGEROUS TURN IN “WHITE BLAST”: SOOMPI",
+          "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/13171316/White-Blast-2-3.jpg"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "85e32719affc",
+      "title": "Lee Min Ki, Kwak Sun Young, NCT’s Jisung, And More Tease Bigger Cases And Stronger Teamwork In “Crash 2”",
+      "url": "https://www.soompi.com/article/1886747wpp/lee-min-ki-kwak-sun-young-ncts-jisung-and-more-tease-bigger-cases-and-stronger-teamwork-in-crash-2",
+      "publishedAt": "2026-11-13T07:36:58.000Z",
+      "source": "Soompi",
+      "description": "The cast of “Crash 2”—Lee Min Ki, Kwak Sun Young, Heo Sung Tae, Lee Ho Chul, Moon Hee, and NCT’s Jisung—has shared what viewers can look forward to in the new season! “Crash 2” is the second installment of the hit 2024 drama “Crash,” which made history as the first Korean drama to focus on&#8230; Continue reading Lee Min Ki, Kwak Sun Young, NCT’s Jisung, And More Tease Bigger Cases And Stronger Teamwork In “Crash 2” The post Lee Min Ki, Kwak Sun Young, NCT’s Jisung, And More Tease Bigger Cases And Stronger Teamwork In “Crash 2” appeared first on Soompi .",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "The cast of “Crash 2”—Lee Min Ki, Kwak Sun Young, Heo Sung Tae, Lee Ho Chul, Moon Hee, and NCT’s Jisung—has shared what viewers can look forward to in the new season! “Crash 2” is the second installment of the hit 2024 drama “Crash,” which made history as the first Korean drama to focus on&#8230; Continue reading Lee Min Ki, Kwak Sun Young, NCT’s Jisung, And More Tease Bigger Cases And Stronger Teamwork In “Crash 2” The post Lee Min Ki, Kwak Sun Young, NCT’s Jisung, And More Tease Bigger Cases And Stronger Teamwork In “Crash 2” appeared first on Soompi .",
+      "articleUrl": "https://www.soompi.com/article/1886747wpp/lee-min-ki-kwak-sun-young-ncts-jisung-and-more-tease-bigger-cases-and-stronger-teamwork-in-crash-2",
+      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/13163653/crash-2-1.jpg",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "LEE MIN KI, KWAK SUN YOUNG, NCT’S JISUNG, AND MORE TEASE BIGGER CASES AND STRONGER TEAMWORK IN “CRASH…",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "LEE MIN KI, KWAK SUN YOUNG, NCT’S JISUNG, AND MORE TEASE BIGGER CASES AND STRONGER TEAMWORK IN “CRASH…",
+          "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/13163653/crash-2-1.jpg"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "ff4f5ebb0786",
+      "title": "After BTS and SEVENTEEN, how will Stray Kids navigate military hiatus?",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ3htenhQSGlYWHJLNUdYZ2lmY2IyVFRuTmw2WXdxVXFub0twekhqT3hhazlRNkN0YzladWxVeXF6OTVwVkt1WTE1b2VXYWkyRlg1R1VHVEY5aTZub2hudE56SzBkY0NxRkpDbWlfd01rUFJlMFhRbWktTlBlNjhDX3ZhX05Fc1M4aHRWb2I1WXJCcW9jMzBreTZ4Qk9pTG00MEZsWFR3X0hhS1g5M29zNWJwTGpUY3dRamppN3dYcFFjOVNI0gHKAUFVX3lxTE1HakwxQlVPeV9iSDdpdDk0blZWNXJMUlp6VEVhUm1zM2VMMFl1OFl0eU5STEJvTUFfUDVoblUzYkZXQVE2WkZtTmVpU2pwOGFFOHpPTVJ5MVUxUHNtam1rU2ZpeEdpQmZ5c0Z1VE93X3dQT3VqQjJQMTZnN0ZadlpaSVlpLUJURVpDYkNXN1RtWnRPSEtuOTlYMnQ0X0lidW5IbEdKek80bWtxY1ZzbmtkU3N5bmxJWGpMdmNqekpoWmdqMXFkcExjdXc?oc=5",
+      "publishedAt": "2026-11-13T07:26:03.000Z",
+      "source": "The Korea Times",
+      "description": "After BTS and SEVENTEEN, how will Stray Kids navigate military hiatus? &nbsp;&nbsp; The Korea Times",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "After BTS and SEVENTEEN, how will Stray Kids navigate military hiatus? &nbsp;&nbsp; The Korea Times",
+      "articleUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ3htenhQSGlYWHJLNUdYZ2lmY2IyVFRuTmw2WXdxVXFub0twekhqT3hhazlRNkN0YzladWxVeXF6OTVwVkt1WTE1b2VXYWkyRlg1R1VHVEY5aTZub2hudE56SzBkY0NxRkpDbWlfd01rUFJlMFhRbWktTlBlNjhDX3ZhX05Fc1M4aHRWb2I1WXJCcW9jMzBreTZ4Qk9pTG00MEZsWFR3X0hhS1g5M29zNWJwTGpUY3dRamppN3dYcFFjOVNI0gHKAUFVX3lxTE1HakwxQlVPeV9iSDdpdDk0blZWNXJMUlp6VEVhUm1zM2VMMFl1OFl0eU5STEJvTUFfUDVoblUzYkZXQVE2WkZtTmVpU2pwOGFFOHpPTVJ5MVUxUHNtam1rU2ZpeEdpQmZ5c0Z1VE93X3dQT3VqQjJQMTZnN0ZadlpaSVlpLUJURVpDYkNXN1RtWnRPSEtuOTlYMnQ0X0lidW5IbEdKek80bWtxY1ZzbmtkU3N5bmxJWGpMdmNqekpoWmdqMXFkcExjdXc",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "635d0964d980",
+      "title": "Live Your KPop Demon Hunters Fantasy in a New Immersive Experience",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV3lsRVFJcVlmV3dvMWNiZFdkUEFLSElIQVhUbXRDdkN6eHltdEoydmF1RDF5dUNFd2RVQ2FBcGd6azRSRVNUcnU4Qms2VkpxTDd6NFdGUVlIcWVLQ1h5WDBCTWF3LThWZlMyUk1uWlZBREwtSl9MQS1WSlVQWWFaNmhSMU4?oc=5",
+      "publishedAt": "2026-11-13T07:15:31.000Z",
+      "source": "Netflix",
+      "description": "Live Your KPop Demon Hunters Fantasy in a New Immersive Experience &nbsp;&nbsp; Netflix",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "Live Your KPop Demon Hunters Fantasy in a New Immersive Experience &nbsp;&nbsp; Netflix",
+      "articleUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV3lsRVFJcVlmV3dvMWNiZFdkUEFLSElIQVhUbXRDdkN6eHltdEoydmF1RDF5dUNFd2RVQ2FBcGd6azRSRVNUcnU4Qms2VkpxTDd6NFdGUVlIcWVLQ1h5WDBCTWF3LThWZlMyUk1uWlZBREwtSl9MQS1WSlVQWWFaNmhSMU4",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "385ecfe94bb0",
+      "title": "Song Review: ATEEZ – Up",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCUVZhUV9CZDFYZFhVNWM3VU8wSGhFNTdURDc0TEFEdndBRkhpSlEzUl9qU28wRjF5X0YwRTNjQW9aRWVQVGFPMUQ2Xy01ekkxZVNhLWNwTGRoTXRDMG96ajFNREU3ck0?oc=5",
+      "publishedAt": "2026-11-13T06:25:13.000Z",
+      "source": "https://thebiaslist.com/",
+      "description": "Song Review: ATEEZ – Up &nbsp;&nbsp; https://thebiaslist.com/",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "Song Review: ATEEZ – Up &nbsp;&nbsp; https://thebiaslist.com/",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCUVZhUV9CZDFYZFhVNWM3VU8wSGhFNTdURDc0TEFEdndBRkhpSlEzUl9qU28wRjF5X0YwRTNjQW9aRWVQVGFPMUQ2Xy01ekkxZVNhLWNwTGRoTXRDMG96ajFNREU3ck0",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "d117df0ed839",
+      "title": "aespa&#8217;s &#8220;LEMONADE&#8221; Becomes Their 12th MV To Hit 100 Million Views",
+      "url": "https://www.soompi.com/article/1886736wpp/aespas-lemonade-becomes-their-12th-mv-to-hit-100-million-views",
+      "publishedAt": "2026-11-13T06:21:08.000Z",
+      "source": "Soompi",
+      "description": "aespa has added another 100-million-view MV to their growing collection! On November 13 at approximately 12:21 p.m. KST, aespa’s music video for “LEMONADE” surpassed 100 million views on YouTube—making it their twelfth music video to do so after “Whiplash,” “Black Mamba,” “Next Level,” “Savage,” “Girls,” “Dreams Come True,” “Spicy,” “Drama,” “Supernova,” “Armageddon,” and “Dirty Work.”&#8230; Continue reading aespa&#8217;s &#8220;LEMONADE&#8221; Becomes Their 12th MV To Hit 100 Million Views The post aespa&#8217;s &#8220;LEMONADE&#8221; Becomes Their 12th MV To Hit 100 Million Views appeared first on Soompi .",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "aespa has added another 100-million-view MV to their growing collection! On November 13 at approximately 12:21 p.m. KST, aespa’s music video for “LEMONADE” surpassed 100 million views on YouTube—making it their twelfth music video to do so after “Whiplash,” “Black Mamba,” “Next Level,” “Savage,” “Girls,” “Dreams Come True,” “Spicy,” “Drama,” “Supernova,” “Armageddon,” and “Dirty Work.”&#8230; Continue reading aespa&#8217;s &#8220;LEMONADE&#8221; Becomes Their 12th MV To Hit 100 Million Views The post aespa&#8217;s &#8220;LEMONADE&#8221; Becomes Their 12th MV To Hit 100 Million Views appeared first on Soompi .",
+      "articleUrl": "https://www.soompi.com/article/1886736wpp/aespas-lemonade-becomes-their-12th-mv-to-hit-100-million-views",
+      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/13153255/aespa-lemonade-100m-1.jpg",
+      "social": {
+        "category": "COMEBACK NEWS",
+        "headline": "AESPA&#039;S \"LEMONADE\" BECOMES THEIR 12TH MV TO HIT 100 MILLION VIEWS: SOOMPI",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "COMEBACK NEWS",
+          "Headline": "AESPA&#039;S \"LEMONADE\" BECOMES THEIR 12TH MV TO HIT 100 MILLION VIEWS: SOOMPI",
+          "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/13153255/aespa-lemonade-100m-1.jpg"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "e470ad9e0e9f",
+      "title": "theIDOL Data: What K-pop Fans in Six Languages Really Want From Lyrics",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONHZENGVTbWJUS2I2bUFfbHFPRGt1UmJReHRjT0E5eWhoQkhPcDhOYUFxdGhuSUt0bUIxVE81YTY2alJmMDZSenNtRWY3NFJud0N0VWE0dUFqOGt4ZUFWS29JanpKOEZUTjZ4T1dhWTBfalMwVC1STGo3ZDFXWTdWNkVfbWo1dVlhRTZyYWRidXdMdWRGTHc?oc=5",
+      "publishedAt": "2026-11-13T06:10:50.000Z",
+      "source": "kpoppost",
+      "description": "theIDOL Data: What K-pop Fans in Six Languages Really Want From Lyrics &nbsp;&nbsp; kpoppost",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "theIDOL Data: What K-pop Fans in Six Languages Really Want From Lyrics &nbsp;&nbsp; kpoppost",
+      "articleUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONHZENGVTbWJUS2I2bUFfbHFPRGt1UmJReHRjT0E5eWhoQkhPcDhOYUFxdGhuSUt0bUIxVE81YTY2alJmMDZSenNtRWY3NFJud0N0VWE0dUFqOGt4ZUFWS29JanpKOEZUTjZ4T1dhWTBfalMwVC1STGo3ZDFXWTdWNkVfbWo1dVlhRTZyYWRidXdMdWRGTHc",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "c740739a8b0f",
+      "title": "Which K-pop idols will take the 2027 CSAT? [Video]",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jcl9qVUhseE82bTJWTl9oYzJqSHd2b1Jhb2xtckxzM1ctNVlfUzFLVV9mZ3ZTbGJ3N3Z2MXpYNXdVRF9Fenk2ZHI0UkstTm9jQnk5MDZzcHhaalhHZDlLOE0xVjZQS3JTcnFPTE9LWHRHSm1KZm9N?oc=5",
+      "publishedAt": "2026-11-13T06:10:15.000Z",
+      "source": "스타뉴스",
+      "description": "Which K-pop idols will take the 2027 CSAT? [Video] &nbsp;&nbsp; 스타뉴스",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "Which K-pop idols will take the 2027 CSAT? [Video] &nbsp;&nbsp; 스타뉴스",
+      "articleUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jcl9qVUhseE82bTJWTl9oYzJqSHd2b1Jhb2xtckxzM1ctNVlfUzFLVV9mZ3ZTbGJ3N3Z2MXpYNXdVRF9Fenk2ZHI0UkstTm9jQnk5MDZzcHhaalhHZDlLOE0xVjZQS3JTcnFPTE9LWHRHSm1KZm9N",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "38cf23d01611",
+      "title": "EXO-KASE Announces Dates And Cities For 1st Fan Concert Tour “SILENT CITY”",
+      "url": "https://www.soompi.com/article/1886712wpp/exo-kase-announces-dates-and-cities-for-1st-fan-concert-tour-silent-city",
+      "publishedAt": "2026-11-13T05:50:12.000Z",
+      "source": "Soompi",
+      "description": "EXO’s Kai and Sehun’s new unit EXO-KASE will embark on their first-ever fan concert tour! On November 13, EXO-KASE announced the dates and stops for their upcoming fan concert tour “SILENT CITY,” which will kick off in January next year and take the duo to eight locations across Asia. The tour will begin with concerts&#8230; Continue reading EXO-KASE Announces Dates And Cities For 1st Fan Concert Tour “SILENT CITY” The post EXO-KASE Announces Dates And Cities For 1st Fan Concert Tour “SILENT CITY” appeared first on Soompi .",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "EXO’s Kai and Sehun’s new unit EXO-KASE will embark on their first-ever fan concert tour! On November 13, EXO-KASE announced the dates and stops for their upcoming fan concert tour “SILENT CITY,” which will kick off in January next year and take the duo to eight locations across Asia. The tour will begin with concerts&#8230; Continue reading EXO-KASE Announces Dates And Cities For 1st Fan Concert Tour “SILENT CITY” The post EXO-KASE Announces Dates And Cities For 1st Fan Concert Tour “SILENT CITY” appeared first on Soompi .",
+      "articleUrl": "https://www.soompi.com/article/1886712wpp/exo-kase-announces-dates-and-cities-for-1st-fan-concert-tour-silent-city",
+      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/13144958/exo-kase_000f66.jpg",
+      "social": {
+        "category": "CONCERT NEWS",
+        "headline": "EXO-KASE ANNOUNCES DATES AND CITIES FOR 1ST FAN CONCERT TOUR “SILENT CITY”: SOOMPI",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "CONCERT NEWS",
+          "Headline": "EXO-KASE ANNOUNCES DATES AND CITIES FOR 1ST FAN CONCERT TOUR “SILENT CITY”: SOOMPI",
+          "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/13144958/exo-kase_000f66.jpg"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "5d2a3feb63d0",
+      "title": "Sandara Park Expresses Desire for Philippine Movie Comeback with Mature Roles",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd3VlT0pJS1ZMT3ViZ0tMTkxzdHFwWlk5RHBDVVUtNzhNNXZzeF9sVEw5U1VVT09wUi1TYk9LdWZ3cjczbTBTMnJPbjJyY04yMTNNVG04dk9MNjVEQ3RVazRnZEhSTlRUZEhyUS1qeUJKUThWa04xdkNBRUZLdGpoa3U2ZjQ3T2taYkhLNENxSDZ1ZTJCT1VzN2xSTmROb1I1VThCSVJ0RXZrMk1BaWpB?oc=5",
+      "publishedAt": "2026-11-13T05:28:23.000Z",
+      "source": "Daily Tribune",
+      "description": "Sandara Park Expresses Desire for Philippine Movie Comeback with Mature Roles &nbsp;&nbsp; Daily Tribune",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "Sandara Park Expresses Desire for Philippine Movie Comeback with Mature Roles &nbsp;&nbsp; Daily Tribune",
+      "articleUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd3VlT0pJS1ZMT3ViZ0tMTkxzdHFwWlk5RHBDVVUtNzhNNXZzeF9sVEw5U1VVT09wUi1TYk9LdWZ3cjczbTBTMnJPbjJyY04yMTNNVG04dk9MNjVEQ3RVazRnZEhSTlRUZEhyUS1qeUJKUThWa04xdkNBRUZLdGpoa3U2ZjQ3T2taYkhLNENxSDZ1ZTJCT1VzN2xSTmROb1I1VThCSVJ0RXZrMk1BaWpB",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "COMEBACK NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "COMEBACK NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "0d17ce311bbb",
+      "title": "K-pop boy band Stray Kids to take Run It tour to North America and Europe in 2027",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVnB3RmRaZlNid2tqTWpVQ3F0ZnVjUFJ3eDNIazd4YzlwVm9JSGRaOFdqM1cxUWI2MjZQQjJkT1ZIZV9QOWlqVFM5cWZvUVJONDZiNXdQSVJNZmRHWElUeTJPZXVXYzdxc0RlVG9hNzZrOFlnNS1USkZOMDFIem1UWWN3S2VjZ09oM3VWb2o3Sjd2WTJxb3h6NHd0aGl5bEM0VUR5dFFxb3l6MUg4a2NuVXBGQ0pjZ2VMdXlOR1IyeXF4MFN4M29kRA?oc=5",
+      "publishedAt": "2026-11-13T05:15:00.000Z",
+      "source": "The Straits Times",
+      "description": "K-pop boy band Stray Kids to take Run It tour to North America and Europe in 2027 &nbsp;&nbsp; The Straits Times",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "K-pop boy band Stray Kids to take Run It tour to North America and Europe in 2027 &nbsp;&nbsp; The Straits Times",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVnB3RmRaZlNid2tqTWpVQ3F0ZnVjUFJ3eDNIazd4YzlwVm9JSGRaOFdqM1cxUWI2MjZQQjJkT1ZIZV9QOWlqVFM5cWZvUVJONDZiNXdQSVJNZmRHWElUeTJPZXVXYzdxc0RlVG9hNzZrOFlnNS1USkZOMDFIem1UWWN3S2VjZ09oM3VWb2o3Sjd2WTJxb3h6NHd0aGl5bEM0VUR5dFFxb3l6MUg4a2NuVXBGQ0pjZ2VMdXlOR1IyeXF4MFN4M29kRA",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "CONCERT NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "CONCERT NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "264e26174c3c",
+      "title": "EXO-KASE, the sub-unit of EXO members Kai and Sehun, will hold a fan concert at the Araneta Coliseum on March 21. (📷: EXO/Weverse) | via Jaehwa Bernardo, ABS-CBN News",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOb2RKUHJuVDFtVzBqd0p1TkJzTjRkVE9PcGdvMmdQSDJNZkVBbzE2VFdEeVlQNVpPM1M3MHFQczVvUS1FWXV0LXppRk9ndHNRN2lpYzBsV05ZRkE0YzZBcWthNDI4T0MxMlRSZDNMRlg3Z0VDZjlvWXY5X0p3UVJZZHA3TWViY3M0VXoxbnEtY0djRGxzb3BkV1VidWJCTzR5QThaQlE1SHpadEp4bFRQR2VSQk9QSFJVUFp1NHVCVVpaMUI0MmswdHBWLUZhMUNGN1ZreFJ4bw?oc=5",
+      "publishedAt": "2026-11-13T05:08:48.000Z",
+      "source": "Facebook",
+      "description": "EXO-KASE, the sub-unit of EXO members Kai and Sehun, will hold a fan concert at the Araneta Coliseum on March 21. (📷: EXO/Weverse) | via Jaehwa Bernardo, ABS-CBN News &nbsp;&nbsp; Facebook",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "EXO-KASE, the sub-unit of EXO members Kai and Sehun, will hold a fan concert at the Araneta Coliseum on March 21. (📷: EXO/Weverse) | via Jaehwa Bernardo, ABS-CBN News &nbsp;&nbsp; Facebook",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOb2RKUHJuVDFtVzBqd0p1TkJzTjRkVE9PcGdvMmdQSDJNZkVBbzE2VFdEeVlQNVpPM1M3MHFQczVvUS1FWXV0LXppRk9ndHNRN2lpYzBsV05ZRkE0YzZBcWthNDI4T0MxMlRSZDNMRlg3Z0VDZjlvWXY5X0p3UVJZZHA3TWViY3M0VXoxbnEtY0djRGxzb3BkV1VidWJCTzR5QThaQlE1SHpadEp4bFRQR2VSQk9QSFJVUFp1NHVCVVpaMUI0MmswdHBWLUZhMUNGN1ZreFJ4bw",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "CONCERT NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "CONCERT NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "152252740703",
+      "title": "ATEEZ San x Airbnb: Welcome to Halmiwood",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTlZJNVZSLWM1WXloQmQxN0hXb0I1YXp6bUVwbVp3MExGQkw0XzF1S2RRcE9lME9sSEVyTUlZNTFFOUFVS0hsb3BUSEhITjZtT3M1c0taT2J0YU9mdWpSSVMzYWR2MWxQRU43QTdlTlVRSWlCTDJ3aFJGdlE1WUZkSzRtWE9ySWw4ZzNqNGlIQ2xzbk40amw2ZFNNRnRqcFFIenBlQzhHYnZKZGxBUlhKQ0l3?oc=5",
+      "publishedAt": "2026-11-13T05:00:38.000Z",
+      "source": "Dojeon Media",
+      "description": "ATEEZ San x Airbnb: Welcome to Halmiwood &nbsp;&nbsp; Dojeon Media",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "ATEEZ San x Airbnb: Welcome to Halmiwood &nbsp;&nbsp; Dojeon Media",
+      "articleUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTlZJNVZSLWM1WXloQmQxN0hXb0I1YXp6bUVwbVp3MExGQkw0XzF1S2RRcE9lME9sSEVyTUlZNTFFOUFVS0hsb3BUSEhITjZtT3M1c0taT2J0YU9mdWpSSVMzYWR2MWxQRU43QTdlTlVRSWlCTDJ3aFJGdlE1WUZkSzRtWE9ySWw4ZzNqNGlIQ2xzbk40amw2ZFNNRnRqcFFIenBlQzhHYnZKZGxBUlhKQ0l3",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "ae670801d8eb",
+      "title": "GIRLSET \"young & dumb\" Music Video",
+      "url": "https://www.youtube.com/watch?v=It1JR0u2eVE",
+      "publishedAt": "2026-11-13T05:00:10.000Z",
+      "source": "JYP Entertainment",
+      "sourceClass": "official",
+      "confidence": "primary",
+      "sourceId": "jyp-entertainment-youtube",
+      "description": "GIRLSET \"young & dumb\" Music Video Listen to \"young & dumb\" on Spotify: https://girlset.lnk.to/younganddumb/spotify GIRLSET Official Website: https://girlset.com GIRLSET Official YouTube: https://www.youtube.com/@GIRLSET GIRLSET Official X: https://www.twitter.com/GIRLSETofficial GIRLSET Official Instagram: https://www.instagram.com/girlset GIRLSET Official TikTok: https://www.tiktok.com/@girlset GIRLSET Official Facebook: https://www.facebook.com/girlset GIRLSET FANS App Store: http://bit.ly/48OILIW GIRLSET FANS Google Play: http://bit.ly/48tBxKE GIRLSET Official Homepage: https://girlset.jype.com Copyrights 2026 ⓒ JYP Entertainment. All Rights Reserved.",
+      "sourceSummary": "GIRLSET \"young & dumb\" Music Video Listen to \"young & dumb\" on Spotify: https://girlset.lnk.to/younganddumb/spotify GIRLSET Official Website: https://girlset.com GIRLSET Official YouTube: https://www.youtube.com/@GIRLSET GIRLSET Official X: https://www.twitter.com/GIRLSETofficial GIRLSET Official Instagram: https://www.instagram.com/girlset GIRLSET Official TikTok: https://www.tiktok.com/@girlset GIRLSET Official Facebook: https://www.facebook.com/girlset GIRLSET FANS App Store: http://bit.ly/48OILIW GIRLSET FANS Google Play: http://bit.ly/48tBxKE GIRLSET Official Homepage: https://girlset.jype.com Copyrights 2026 ⓒ JYP Entertainment. All Rights Reserved.",
+      "articleUrl": "https://www.youtube.com/watch?v=It1JR0u2eVE",
+      "imageUrl": null,
+      "social": {
+        "category": "COMEBACK NEWS",
+        "headline": "GIRLSET \"YOUNG & DUMB\" MUSIC VIDEO",
+        "status": "needs_image",
+        "canvaFields": {
+          "Category": "COMEBACK NEWS",
+          "Headline": "GIRLSET \"YOUNG & DUMB\" MUSIC VIDEO",
+          "FeatureImage": null
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "ce968566df46",
+      "title": "K-pop's Stray Kids to take 'RUN IT' tour to North America and Europe in 2027",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd1NfT2d4ZjBSVE9ubWRvZWdPcUZtT0VJejE1WUx2ZDhXQmJ6Z1hfSkxDYmVEajM4Y19OOFhZdkVCakhBMzZVUTZELUZzUGxxQUxOTnE4d3EzQlp1eVdyTGp4NFJkaXFJUHFzWHEyMEhsSkhFaGhzdWItRS0yU2lSVWw1Y2JHcW52cVFiYUxTMHBmMHhCbWhGMFJMaDFiUVF1eDVvZmNJYzloVk1IM1B6Y1E4bzhWcm1NTEdN?oc=5",
+      "publishedAt": "2026-11-13T04:18:00.000Z",
+      "source": "Reuters",
+      "description": "K-pop's Stray Kids to take 'RUN IT' tour to North America and Europe in 2027 &nbsp;&nbsp; Reuters",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "K-pop's Stray Kids to take 'RUN IT' tour to North America and Europe in 2027 &nbsp;&nbsp; Reuters",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd1NfT2d4ZjBSVE9ubWRvZWdPcUZtT0VJejE1WUx2ZDhXQmJ6Z1hfSkxDYmVEajM4Y19OOFhZdkVCakhBMzZVUTZELUZzUGxxQUxOTnE4d3EzQlp1eVdyTGp4NFJkaXFJUHFzWHEyMEhsSkhFaGhzdWItRS0yU2lSVWw1Y2JHcW52cVFiYUxTMHBmMHhCbWhGMFJMaDFiUVF1eDVvZmNJYzloVk1IM1B6Y1E4bzhWcm1NTEdN",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "CONCERT NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "CONCERT NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "dd05187a0196",
+      "title": "Watch: Jang Nara, Kim Hye Yoon, P.O, And Park Hae Jin Fight For Their Brokenhearted Clients In &#8220;Good Partner 2&#8221; Teaser",
+      "url": "https://www.soompi.com/article/1886669wpp/watch-jang-nara-kim-hye-yoon-p-o-and-park-hae-jin-fight-for-their-brokenhearted-clients-in-good-partner-2-teaser",
+      "publishedAt": "2026-11-13T04:09:51.000Z",
+      "source": "Soompi",
+      "description": "SBS&#8217;s upcoming drama &#8220;Good Partner 2&#8221; has unveiled a new teaser! Following the success of Season 1, the new season of “Good Partner” depicts the cathartic divorce show that unfolds as Cha Eun Kyung (Jang Nara), a star lawyer for whom divorce is her calling, and Kang Hye Sung (Kim Hye Yoon), an experienced lawyer&#8230; Continue reading Watch: Jang Nara, Kim Hye Yoon, P.O, And Park Hae Jin Fight For Their Brokenhearted Clients In &#8220;Good Partner 2&#8221; Teaser The post Watch: Jang Nara, Kim Hye Yoon, P.O, And Park Hae Jin Fight For Their Brokenhearted Clients In &#8220;Good Partner 2&#8221; Teaser appeared first on Soompi .",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "SBS&#8217;s upcoming drama &#8220;Good Partner 2&#8221; has unveiled a new teaser! Following the success of Season 1, the new season of “Good Partner” depicts the cathartic divorce show that unfolds as Cha Eun Kyung (Jang Nara), a star lawyer for whom divorce is her calling, and Kang Hye Sung (Kim Hye Yoon), an experienced lawyer&#8230; Continue reading Watch: Jang Nara, Kim Hye Yoon, P.O, And Park Hae Jin Fight For Their Brokenhearted Clients In &#8220;Good Partner 2&#8221; Teaser The post Watch: Jang Nara, Kim Hye Yoon, P.O, And Park Hae Jin Fight For Their Brokenhearted Clients In &#8220;Good Partner 2&#8221; Teaser appeared first on Soompi .",
+      "articleUrl": "https://www.soompi.com/article/1886669wpp/watch-jang-nara-kim-hye-yoon-p-o-and-park-hae-jin-fight-for-their-brokenhearted-clients-in-good-partner-2-teaser",
+      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/13130157/good-partner-2-7.jpg",
+      "social": {
+        "category": "COMEBACK NEWS",
+        "headline": "WATCH: JANG NARA, KIM HYE YOON, P.O, AND PARK HAE JIN FIGHT FOR THEIR BROKENHEARTED CLIENTS IN \"GOOD…",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "COMEBACK NEWS",
+          "Headline": "WATCH: JANG NARA, KIM HYE YOON, P.O, AND PARK HAE JIN FIGHT FOR THEIR BROKENHEARTED CLIENTS IN \"GOOD…",
+          "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/13130157/good-partner-2-7.jpg"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "e2cf254ca358",
+      "title": "K-pop and warrior suits: Asia hopefuls seek Eurovision glory",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeFFIYkhuQ3dBZ3NyT0VoZUNHMTVZM0QxaUZmWUZZQzVTaHE3SDd4WVJlWmZOYUFyZ2MxWlU4b3MzdkFrNktEay1oX2tKTUllYmRTbUNpdl8wWlVIRUx4MVg2YWFXTVdON2VwemNuY1hicUNqZ3lxSGZtV2NINzNzaGRFbEF0b0VqenBkdGxTS2J4RVZkeVJacw?oc=5",
+      "publishedAt": "2026-11-13T03:37:00.000Z",
+      "source": "The Straits Times",
+      "description": "K-pop and warrior suits: Asia hopefuls seek Eurovision glory &nbsp;&nbsp; The Straits Times",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "K-pop and warrior suits: Asia hopefuls seek Eurovision glory &nbsp;&nbsp; The Straits Times",
+      "articleUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeFFIYkhuQ3dBZ3NyT0VoZUNHMTVZM0QxaUZmWUZZQzVTaHE3SDd4WVJlWmZOYUFyZ2MxWlU4b3MzdkFrNktEay1oX2tKTUllYmRTbUNpdl8wWlVIRUx4MVg2YWFXTVdON2VwemNuY1hicUNqZ3lxSGZtV2NINzNzaGRFbEF0b0VqenBkdGxTS2J4RVZkeVJacw",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "1a614e67cb7d",
+      "title": "5 K-Dramas To Watch If You Liked &#8220;Dive Into You&#8221;",
+      "url": "https://www.soompi.com/article/1886470wpp/5-k-dramas-to-watch-if-you-liked-dive-into-you",
+      "publishedAt": "2026-11-13T03:33:55.000Z",
+      "source": "Soompi",
+      "description": "Some K-dramas leave a lasting impression, and &#8220;Dive into You&#8221; is certainly one of them. Even though the drama has come to an end, it will probably take some time for fans to move on from Park Seo Ham and Kim Ji Yeon&#8217;s outstanding performances and undeniable chemistry. If you&#8217;re already missing the two stars,&#8230; Continue reading 5 K-Dramas To Watch If You Liked &#8220;Dive Into You&#8221; The post 5 K-Dramas To Watch If You Liked &#8220;Dive Into You&#8221; appeared first on Soompi .",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "Some K-dramas leave a lasting impression, and &#8220;Dive into You&#8221; is certainly one of them. Even though the drama has come to an end, it will probably take some time for fans to move on from Park Seo Ham and Kim Ji Yeon&#8217;s outstanding performances and undeniable chemistry. If you&#8217;re already missing the two stars,&#8230; Continue reading 5 K-Dramas To Watch If You Liked &#8220;Dive Into You&#8221; The post 5 K-Dramas To Watch If You Liked &#8220;Dive Into You&#8221; appeared first on Soompi .",
+      "articleUrl": "https://www.soompi.com/article/1886470wpp/5-k-dramas-to-watch-if-you-liked-dive-into-you",
+      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/12212653/dive-into-you-the-haunted-palace-semantic-error.jpg",
+      "social": {
+        "category": "K-DRAMA NEWS",
+        "headline": "5 K-DRAMAS TO WATCH IF YOU LIKED \"DIVE INTO YOU\": SOOMPI",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "K-DRAMA NEWS",
+          "Headline": "5 K-DRAMAS TO WATCH IF YOU LIKED \"DIVE INTO YOU\": SOOMPI",
+          "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/12212653/dive-into-you-the-haunted-palace-semantic-error.jpg"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "0f820a7f9952",
+      "title": "Watch: Kim Ji Won, Kim Woo Seok, Lee Jin Hee, And More &#8220;Doctor X&#8221; Cast Balance Fun And Professionalism On Set",
+      "url": "https://www.soompi.com/article/1886610wpp/watch-kim-ji-won-kim-woo-seok-lee-jin-hee-and-more-doctor-x-cast-balance-fun-and-professionalism-on-set",
+      "publishedAt": "2026-11-13T03:24:19.000Z",
+      "source": "Soompi",
+      "description": "SBS&#8217;s &#8220;Doctor X&#8221; has released another making-of video! After showcasing professionalism with their realistic surgery performance, the &#8220;Doctor X&#8221; cast gather together to film their dinner scene. Kim Ji Won honestly remarks, &#8220;I feel so happy eating this today after filming the surgery scene yesterday.&#8221; The cast gets playful as they pose for group photos,&#8230; Continue reading Watch: Kim Ji Won, Kim Woo Seok, Lee Jin Hee, And More &#8220;Doctor X&#8221; Cast Balance Fun And Professionalism On Set The post Watch: Kim Ji Won, Kim Woo Seok, Lee Jin Hee, And More &#8220;Doctor X&#8221; Cast Balance Fun And Professionalism On Set appeared first on Soompi .",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "SBS&#8217;s &#8220;Doctor X&#8221; has released another making-of video! After showcasing professionalism with their realistic surgery performance, the &#8220;Doctor X&#8221; cast gather together to film their dinner scene. Kim Ji Won honestly remarks, &#8220;I feel so happy eating this today after filming the surgery scene yesterday.&#8221; The cast gets playful as they pose for group photos,&#8230; Continue reading Watch: Kim Ji Won, Kim Woo Seok, Lee Jin Hee, And More &#8220;Doctor X&#8221; Cast Balance Fun And Professionalism On Set The post Watch: Kim Ji Won, Kim Woo Seok, Lee Jin Hee, And More &#8220;Doctor X&#8221; Cast Balance Fun And Professionalism On Set appeared first on Soompi .",
+      "articleUrl": "https://www.soompi.com/article/1886610wpp/watch-kim-ji-won-kim-woo-seok-lee-jin-hee-and-more-doctor-x-cast-balance-fun-and-professionalism-on-set",
+      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/13122203/doctor-x5.png",
+      "social": {
+        "category": "K-DRAMA NEWS",
+        "headline": "WATCH: KIM JI WON, KIM WOO SEOK, LEE JIN HEE, AND MORE \"DOCTOR X\" CAST BALANCE FUN AND…",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "K-DRAMA NEWS",
+          "Headline": "WATCH: KIM JI WON, KIM WOO SEOK, LEE JIN HEE, AND MORE \"DOCTOR X\" CAST BALANCE FUN AND…",
+          "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/13122203/doctor-x5.png"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "0fad56ae4014",
+      "title": "P1Harmony Breaks Their 1st-Week Sales Record With &#8220;BLOW UP&#8221;",
+      "url": "https://www.soompi.com/article/1886627wpp/p1harmony-breaks-their-1st-week-sales-record-with-blow-up",
+      "publishedAt": "2026-11-13T03:22:54.000Z",
+      "source": "Soompi",
+      "description": "P1Harmony has hit a new career high with their latest release! Last week, P1Harmony made their comeback with their 10th mini album “BLOW UP” and its title track of the same name on November 6. By the end of the day, the EP had already sold over 540,000 copies, managing to break P1Harmony’s previous first-week&#8230; Continue reading P1Harmony Breaks Their 1st-Week Sales Record With &#8220;BLOW UP&#8221; The post P1Harmony Breaks Their 1st-Week Sales Record With &#8220;BLOW UP&#8221; appeared first on Soompi .",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "P1Harmony has hit a new career high with their latest release! Last week, P1Harmony made their comeback with their 10th mini album “BLOW UP” and its title track of the same name on November 6. By the end of the day, the EP had already sold over 540,000 copies, managing to break P1Harmony’s previous first-week&#8230; Continue reading P1Harmony Breaks Their 1st-Week Sales Record With &#8220;BLOW UP&#8221; The post P1Harmony Breaks Their 1st-Week Sales Record With &#8220;BLOW UP&#8221; appeared first on Soompi .",
+      "articleUrl": "https://www.soompi.com/article/1886627wpp/p1harmony-breaks-their-1st-week-sales-record-with-blow-up",
+      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/13121823/P1Harmony.jpeg",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "P1HARMONY BREAKS THEIR 1ST-WEEK SALES RECORD WITH \"BLOW UP\": SOOMPI",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "P1HARMONY BREAKS THEIR 1ST-WEEK SALES RECORD WITH \"BLOW UP\": SOOMPI",
+          "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/13121823/P1Harmony.jpeg"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "1762c4f39af8",
+      "title": "CL Signs With THEBLACKLABEL, Reuniting With Longtime Producer Teddy For ‘Full Circle’ Moment",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOUdKMlBBbmctdmNoWnljWGo5ZGRXcjNjd2JDc2tBZWVTbkEydmFQWUJDMlVNOXctSmlGMzliTnU3Nk0wekRSREU5MU0ybHA1MWk0TWRmQUlqNURMaHNCUUFCa0Z2LUs4YWRNYTU2Y0lpa2VxRV9HWEUydXBZQWVNSmpXVGV3d0IxZXlJODByS19qb0J3LTh5RHU2Mk1sZ0MwUndLMXYzYw?oc=5",
+      "publishedAt": "2026-11-13T02:36:36.000Z",
+      "source": "Billboard",
+      "description": "CL Signs With THEBLACKLABEL, Reuniting With Longtime Producer Teddy For ‘Full Circle’ Moment &nbsp;&nbsp; Billboard",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "CL Signs With THEBLACKLABEL, Reuniting With Longtime Producer Teddy For ‘Full Circle’ Moment &nbsp;&nbsp; Billboard",
+      "articleUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOUdKMlBBbmctdmNoWnljWGo5ZGRXcjNjd2JDc2tBZWVTbkEydmFQWUJDMlVNOXctSmlGMzliTnU3Nk0wekRSREU5MU0ybHA1MWk0TWRmQUlqNURMaHNCUUFCa0Z2LUs4YWRNYTU2Y0lpa2VxRV9HWEUydXBZQWVNSmpXVGV3d0IxZXlJODByS19qb0J3LTh5RHU2Mk1sZ0MwUndLMXYzYw",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "TRENDING",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "TRENDING",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "1e78758e6314",
+      "title": "Watch: Song Hye Kyo, Gong Yoo, Seolhyun, And Cha Seung Won Strive Toward Success In New Drama &#8220;Tantara&#8221; Teasers",
+      "url": "https://www.soompi.com/article/1886557wpp/watch-song-hye-kyo-gong-yoo-seolhyun-and-cha-seung-won-strive-toward-success-in-new-drama-tantara-teasers",
+      "publishedAt": "2026-11-13T02:12:17.000Z",
+      "source": "Soompi",
+      "description": "Netflix&#8217;s upcoming drama &#8220;Tantara&#8221; has unveiled new posters and a teaser! Set in the reckless and merciless Korean entertainment industry of the ‘60s and ‘80s, “Tantara” chronicles the rise of those who had almost nothing, yet bet everything on a dream of dazzling success. The posters feature Min Ja (Song Hye Kyo), Dong Gu (Gong&#8230; Continue reading Watch: Song Hye Kyo, Gong Yoo, Seolhyun, And Cha Seung Won Strive Toward Success In New Drama &#8220;Tantara&#8221; Teasers The post Watch: Song Hye Kyo, Gong Yoo, Seolhyun, And Cha Seung Won Strive Toward Success In New Drama &#8220;Tantara&#8221; Teasers appeared first on Soompi .",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "Netflix&#8217;s upcoming drama &#8220;Tantara&#8221; has unveiled new posters and a teaser! Set in the reckless and merciless Korean entertainment industry of the ‘60s and ‘80s, “Tantara” chronicles the rise of those who had almost nothing, yet bet everything on a dream of dazzling success. The posters feature Min Ja (Song Hye Kyo), Dong Gu (Gong&#8230; Continue reading Watch: Song Hye Kyo, Gong Yoo, Seolhyun, And Cha Seung Won Strive Toward Success In New Drama &#8220;Tantara&#8221; Teasers The post Watch: Song Hye Kyo, Gong Yoo, Seolhyun, And Cha Seung Won Strive Toward Success In New Drama &#8220;Tantara&#8221; Teasers appeared first on Soompi .",
+      "articleUrl": "https://www.soompi.com/article/1886557wpp/watch-song-hye-kyo-gong-yoo-seolhyun-and-cha-seung-won-strive-toward-success-in-new-drama-tantara-teasers",
+      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/13103251/tantara-posters.jpg",
+      "social": {
+        "category": "COMEBACK NEWS",
+        "headline": "WATCH: SONG HYE KYO, GONG YOO, SEOLHYUN, AND CHA SEUNG WON STRIVE TOWARD SUCCESS IN NEW DRAMA…",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "COMEBACK NEWS",
+          "Headline": "WATCH: SONG HYE KYO, GONG YOO, SEOLHYUN, AND CHA SEUNG WON STRIVE TOWARD SUCCESS IN NEW DRAMA…",
+          "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/13103251/tantara-posters.jpg"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "b54c4ee82cee",
+      "title": "ENTERTAINMENT HEADLINES (Friday, November 13, 2026) Subscribe to the paper: https://philstarsubscribe.com/ Celebrity ARMYs share their BTS superfan stories https://tinyurl.com/4hhh32ef ‘No contest’: LANY calls Filipino fans the best in the world https://",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQM0s3QmtGUWhEWUg4Uzh4bWxmOUUzZWdBemJlY2dQXzd6S3U3RDZ0MHQtekJyelA1YnBtZ2VPeVF6cmpQWmVDVXFwVXJWektpMl9LMjVja1BITDhURVV3RGItMWZTQnJOQllKMEdyZ1ZtMnZSWTQwUm81SGxIeDRrbjZ0OTQxd0ZDS0NDaG5VSDVJZlVlMk82cHJuZnN5d1cwa1hmeEgwbkQwZVdpTExqRmZ6TXN6YVpJS1lSM3NoQjFnMUh6NTFmYlU2V2V6WGZla1FDazkyeGFCX0Z5?oc=5",
+      "publishedAt": "2026-11-13T02:04:42.000Z",
+      "source": "Facebook",
+      "description": "ENTERTAINMENT HEADLINES (Friday, November 13, 2026) Subscribe to the paper: https://philstarsubscribe.com/ Celebrity ARMYs share their BTS superfan stories https://tinyurl.com/4hhh32ef ‘No contest’: LANY calls Filipino fans the best in the world https:// &nbsp;&nbsp; Facebook",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "ENTERTAINMENT HEADLINES (Friday, November 13, 2026) Subscribe to the paper: https://philstarsubscribe.com/ Celebrity ARMYs share their BTS superfan stories https://tinyurl.com/4hhh32ef ‘No contest’: LANY calls Filipino fans the best in the world https:// &nbsp;&nbsp; Facebook",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQM0s3QmtGUWhEWUg4Uzh4bWxmOUUzZWdBemJlY2dQXzd6S3U3RDZ0MHQtekJyelA1YnBtZ2VPeVF6cmpQWmVDVXFwVXJWektpMl9LMjVja1BITDhURVV3RGItMWZTQnJOQllKMEdyZ1ZtMnZSWTQwUm81SGxIeDRrbjZ0OTQxd0ZDS0NDaG5VSDVJZlVlMk82cHJuZnN5d1cwa1hmeEgwbkQwZVdpTExqRmZ6TXN6YVpJS1lSM3NoQjFnMUh6NTFmYlU2V2V6WGZla1FDazkyeGFCX0Z5",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
     {
       "id": "1550baf47213",
       "title": "Watch: Lee Min Ki, Kwak Sun Young, And The T.C.I. Team Are Shocked By Jisung&#8217;s Enthusiasm In &#8220;Crash 2&#8221; Preview",
@@ -51,6 +652,30 @@
       }
     },
     {
+      "id": "d95f223075f8",
+      "title": "Thai Idol TEN Talks SM Entertainment Departure & Forming His Own Agency: ‘I’m Starting Again From Zero’",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcWZhaWhTMC1VMzlobzZDb2pRekZfY1U5Q1VjWmpzNHExSGREb3FSbDVIclp6a0g2cnlTQUUyTmFtUUJSazlQOHJnRkpoV0hyM1VsWDROTG9nQ3RKT1Jvb2xZSnFoMnRyUnZidUhJaWYzaFNMbXNwTGEzUU5KckZKelgzdHFCQ1NHZ0VuNGdFdkVXTHRBVEh6LVo2WVc?oc=5",
+      "publishedAt": "2026-11-13T00:33:55.000Z",
+      "source": "Billboard",
+      "description": "Thai Idol TEN Talks SM Entertainment Departure & Forming His Own Agency: ‘I’m Starting Again From Zero’ &nbsp;&nbsp; Billboard",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "Thai Idol TEN Talks SM Entertainment Departure & Forming His Own Agency: ‘I’m Starting Again From Zero’ &nbsp;&nbsp; Billboard",
+      "articleUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcWZhaWhTMC1VMzlobzZDb2pRekZfY1U5Q1VjWmpzNHExSGREb3FSbDVIclp6a0g2cnlTQUUyTmFtUUJSazlQOHJnRkpoV0hyM1VsWDROTG9nQ3RKT1Jvb2xZSnFoMnRyUnZidUhJaWYzaFNMbXNwTGEzUU5KckZKelgzdHFCQ1NHZ0VuNGdFdkVXTHRBVEh6LVo2WVc",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "TRENDING",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "TRENDING",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
       "id": "b29583bc4c60",
       "title": "&#8220;What A Boss Wants&#8221; And &#8220;Happy Anding&#8221; Continue Ratings Battle With 2nd Episodes",
       "url": "https://www.soompi.com/article/1886543wpp/what-a-boss-wants-and-happy-anding-continue-ratings-battle-with-2nd-episodes",
@@ -70,30 +695,6 @@
           "Category": "K-DRAMA NEWS",
           "Headline": "\"WHAT A BOSS WANTS\" AND \"HAPPY ANDING\" CONTINUE RATINGS BATTLE WITH 2ND EPISODES: SOOMPI",
           "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/13092236/What-a-Boss-Wants-Happy-Anding-1.jpg"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "635d0964d980",
-      "title": "Live Your KPop Demon Hunters Fantasy in a New Immersive Experience",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV3lsRVFJcVlmV3dvMWNiZFdkUEFLSElIQVhUbXRDdkN6eHltdEoydmF1RDF5dUNFd2RVQ2FBcGd6azRSRVNUcnU4Qms2VkpxTDd6NFdGUVlIcWVLQ1h5WDBCTWF3LThWZlMyUk1uWlZBREwtSl9MQS1WSlVQWWFaNmhSMU4?oc=5",
-      "publishedAt": "2026-11-13T00:03:15.000Z",
-      "source": "Netflix",
-      "description": "Live Your KPop Demon Hunters Fantasy in a New Immersive Experience &nbsp;&nbsp; Netflix",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "Live Your KPop Demon Hunters Fantasy in a New Immersive Experience &nbsp;&nbsp; Netflix",
-      "articleUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV3lsRVFJcVlmV3dvMWNiZFdkUEFLSElIQVhUbXRDdkN6eHltdEoydmF1RDF5dUNFd2RVQ2FBcGd6azRSRVNUcnU4Qms2VkpxTDd6NFdGUVlIcWVLQ1h5WDBCTWF3LThWZlMyUk1uWlZBREwtSl9MQS1WSlVQWWFaNmhSMU4",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         "canvaDesignId": null
       }
@@ -171,15 +772,39 @@
       }
     },
     {
-      "id": "2bcc6e83a0d0",
-      "title": "‘Fanomenon’ K-Pop Super-JV Festival Sets Sail with $3M",
+      "id": "47c7ebb18e4c",
+      "title": "Netflix Is Slowly Revealing the ‘KPop Demon Hunters’ World Tour Cities",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV2pEVGV1VGdmekROSkd1T1BueFEzWkE5TkRLTlNDd3VqcWtaSGlnck1xM3RkYmVhWUdudXBiUGZheDdiOHgxb0F0bFN0ZmRLTnoyRERUY1E0ZzZzRGpoRUl4aFRIcWdQNFFtVEtoX0RzLVhoRlkxaV9rcWpkOHlPbVZUQmlaNS1OemtJRQ?oc=5",
+      "publishedAt": "2026-11-12T22:06:57.000Z",
+      "source": "What's on Netflix",
+      "description": "Netflix Is Slowly Revealing the ‘KPop Demon Hunters’ World Tour Cities &nbsp;&nbsp; What's on Netflix",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "Netflix Is Slowly Revealing the ‘KPop Demon Hunters’ World Tour Cities &nbsp;&nbsp; What's on Netflix",
+      "articleUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV2pEVGV1VGdmekROSkd1T1BueFEzWkE5TkRLTlNDd3VqcWtaSGlnck1xM3RkYmVhWUdudXBiUGZheDdiOHgxb0F0bFN0ZmRLTnoyRERUY1E0ZzZzRGpoRUl4aFRIcWdQNFFtVEtoX0RzLVhoRlkxaV9rcWpkOHlPbVZUQmlaNS1OemtJRQ",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "CONCERT NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "CONCERT NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "b6917500e423",
+      "title": "‘Fanomenon’ K-Pop Super-JV Festival Sets Sail with $3 Million In Fresh Funding",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ081R2F0cGR4MVloUGFYZnhycGc5LTVTWExLajcyUVAwM3FsUl9HWDBTY0xGU1pJVUxOYnhSU2hjZXU5TG9aNUFKV2RhLUNhWl9TanRSamxSU3VTWHNqcHdnRzF1cUNOZmhIcUNGUy1MTE1IYWM1RkZKOXFmZ3RhS2JkbmxZc3Ut?oc=5",
       "publishedAt": "2026-11-12T20:55:07.000Z",
       "source": "Digital Music News",
-      "description": "‘Fanomenon’ K-Pop Super-JV Festival Sets Sail with $3M &nbsp;&nbsp; Digital Music News",
+      "description": "‘Fanomenon’ K-Pop Super-JV Festival Sets Sail with $3 Million In Fresh Funding &nbsp;&nbsp; Digital Music News",
       "sourceClass": "publisher",
       "confidence": "secondary",
-      "sourceSummary": "‘Fanomenon’ K-Pop Super-JV Festival Sets Sail with $3M &nbsp;&nbsp; Digital Music News",
+      "sourceSummary": "‘Fanomenon’ K-Pop Super-JV Festival Sets Sail with $3 Million In Fresh Funding &nbsp;&nbsp; Digital Music News",
       "articleUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ081R2F0cGR4MVloUGFYZnhycGc5LTVTWExLajcyUVAwM3FsUl9HWDBTY0xGU1pJVUxOYnhSU2hjZXU5TG9aNUFKV2RhLUNhWl9TanRSamxSU3VTWHNqcHdnRzF1cUNOZmhIcUNGUy1MTE1IYWM1RkZKOXFmZ3RhS2JkbmxZc3Ut",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
@@ -291,6 +916,31 @@
       }
     },
     {
+      "id": "5b149b7cee5c",
+      "title": "TXT (투모로우바이투게더) 'Angel Bite' Official Teaser 1",
+      "url": "https://www.youtube.com/shorts/WATVWYEOs84",
+      "publishedAt": "2026-11-12T15:00:31.000Z",
+      "source": "HYBE LABELS",
+      "sourceClass": "official",
+      "confidence": "primary",
+      "sourceId": "hybe-labels-youtube",
+      "description": "TXT (투모로우바이투게더) 'Angel Bite' Official Teaser 1 Credits: Director: DQM Assistant Director : MonkeyChicken (Kim Dongkyu, Lee Jinseop), Kim Miseon Production: blue Executive Producer: Euis Producer: Jeong Kiwook, Yoon Damyoung, Choi Hari, Im Chaeryun PA: ASSIST Hwang Chanwon, Lee Hakyoung, Yu Hyeonseok, Kim Taehyeong, Park Seoyoon, Gong Junhyuk, Jang Mingyo, Tak Sangmin, Shin Gyuseop, Lee Dongkeun, Kim Kwanhyung DOP: Kim Kihun 1st: Lee Yeongwoo 2nd: Go Yuntae 3rd: Woo Taemin DIT: Kim Soyul Gaffer: Jo Wooyoun 1st: Cho Heedong, Park Junhwi 2nd: Lim Junhyeong, Yu Jinwoo 3rd: Choi Subin, Park Sehwan, Lee Jungeol Key Grip: Kim Sungeun, Hwang Jiin Grip Dept: Jo Hyeonseok, Lee Jumyeong, Park Beomgi, Park Jaehyuk Art Director: Jeon Eunjung, Cho Jeongyun Art assist director: Shin Hyunkyung Art team: Yoo Jaeeun, Lee Sohyun, Lim Sungyoung, Park Gwangseon, Song Myeongjin, Lee Hoonjae, Shin Hyunjun, Kim Sangjun, Kim Kwangseok, Kim Daeheung Location: Zone system Park Eunjung, Cho Kangyeol, Kim Jaehyeon Edit & 2D Graphic: Jeon Jiae DI: LUCID COLOUR Colorist: Yeom Jiyun DI Crew: Lee Seonyoung, Jeong Subin, Song Inseob DI Producer: Kim Hyunjin DI Manager: Park Heejin 2D: LOCUS Compositor: Lee Sujung, Kim Minjoo Producer: Ham Eunjung AI artwork: Lee Seungyu Sound: PigSoup.wav Kang Onewoo - Artist: TOMORROW X TOGETHER Executive Producer: Seonjeong Shin, Helena Chang Chief Producer: “hitman” bang Producer: Slow Rabbit Head of Creative: Boram Kim Creative Director: Luke Hyowon Choi Visual Creative: Hyesoo Lee, Seon An, Dongmin Yang, LI YANHUA, Jia Lee, Yeji Ha Performance Directing: Kingbear, Kain, HANZIO A&R: Junha Lee, Misa Lee, Sean Lee, Yerin Choi Brand Experience Design: Yeeun Kim, Yeoreum Kim, Rang Choi Creative Operation: Minhee Kim, Jiyeon Lee Hair: Enoc Lee, Kim Ri One Make Up: Seulki Noh Stylist: Jonghyun Lee Connect with TOMORROW X TOGETHER: https://txt.ibighit.com https://x.com/TXT_bighit https://x.com/TXT_members https://x.com/TXT_bighit_jp https://www.facebook.com/TXT.bighit https://www.instagram.com/txt_bighit https://www.tiktok.com/@txt.bighitent https://weverse.io/txt https://www.weibo.com/TXTbighit https://space.bilibili.com/3493085912763265/ https://v.douyin.com/i6BytSNo/ BIGHIT MUSIC. Rights are reserved selectively in the video. Unauthorized reproduction is a violation of applicable laws. Manufactured by BIGHIT MUSIC, Seoul, Korea. #투모로우바이투게더 #TOMORROW_X_TOGETHER #TXT #PERFECTSTORM #AngelBite #TXT_AngelBite",
+      "sourceSummary": "TXT (투모로우바이투게더) 'Angel Bite' Official Teaser 1 Credits: Director: DQM Assistant Director : MonkeyChicken (Kim Dongkyu, Lee Jinseop), Kim Miseon Production: blue Executive Producer: Euis Producer: Jeong Kiwook, Yoon Damyoung, Choi Hari, Im Chaeryun PA: ASSIST Hwang Chanwon, Lee Hakyoung, Yu Hyeonseok, Kim Taehyeong, Park Seoyoon, Gong Junhyuk, Jang Mingyo, Tak Sangmin, Shin Gyuseop, Lee Dongkeun, Kim Kwanhyung DOP: Kim Kihun 1st: Lee Yeongwoo 2nd: Go Yuntae 3rd: Woo Taemin DIT: Kim Soyul Gaffer: Jo Wooyoun 1st: Cho Heedong, Park Junhwi 2nd: Lim Junhyeong, Yu Jinwoo 3rd: Choi Subin, Park Sehwan, Lee Jungeol Key Grip: Kim Sungeun, Hwang Jiin Grip Dept: Jo Hyeonseok, Lee Jumyeong, Park Beomgi, Park Jaehyuk Art Director: Jeon Eunjung, Cho Jeongyun Art assist director: Shin Hyunkyung Art team: Yoo Jaeeun, Lee Sohyun, Lim Sungyoung, Park Gwangseon, Song Myeongjin, Lee Hoonjae, Shin Hyunjun, Kim Sangjun, Kim Kwangseok, Kim Daeheung Location: Zone system Park Eunjung, Cho Kangyeol, Kim Jaehyeon Edit & 2D Graphic: Jeon Jiae DI: LUCID COLOUR Colorist: Yeom Jiyun DI Crew: Lee Seonyoung, Jeong Subin, Song Inseob DI Producer: Kim Hyunjin DI Manager: Park Heejin 2D: LOCUS Compositor: Lee Sujung, ",
+      "articleUrl": "https://www.youtube.com/shorts/WATVWYEOs84",
+      "imageUrl": null,
+      "social": {
+        "category": "COMEBACK NEWS",
+        "headline": "TXT (투모로우바이투게더) 'ANGEL BITE' OFFICIAL TEASER 1",
+        "status": "needs_image",
+        "canvaFields": {
+          "Category": "COMEBACK NEWS",
+          "Headline": "TXT (투모로우바이투게더) 'ANGEL BITE' OFFICIAL TEASER 1",
+          "FeatureImage": null
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
       "id": "c12391c4a074",
       "title": "K-pop and Collecting Culture",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGbEdhNXp4UjA0bGVOQnlZaUF2YzJVZDBKY0tLOTFFdHdVRHlVVUZrRHBoQVhvQ0hrV1RXYjNfVldBQVZOOWhSZ2xVMHpqQ2VDcUVSLUY1LWR5WXVOcmFVeDl4eHFtYXR6XzV5Q3dn?oc=5",
@@ -339,6 +989,31 @@
       }
     },
     {
+      "id": "34ba2fd81cc0",
+      "title": "ENHYPEN (엔하이픈) 'I Want You' Official Teaser",
+      "url": "https://www.youtube.com/watch?v=_pLJBPzp3Fg",
+      "publishedAt": "2026-11-12T13:00:03.000Z",
+      "source": "HYBE LABELS",
+      "sourceClass": "official",
+      "confidence": "primary",
+      "sourceId": "hybe-labels-youtube",
+      "description": "ENHYPEN (엔하이픈) 'I Want You' Official Teaser Welcome to THE SIN : PARALLEL WORLD https://enhypen.lnk.to/THESINPARALLELWORLD EXECUTIVE PRODUCER KIM TAEHO Directed by ZUAE (NOISYROOM) ⓒ BELIFT LAB Inc. All Rights Reserved Connect with ENHYPEN OFFICIAL WEBSITE https://ENHYPEN.com ENHYPEN Weverse https://www.weverse.io/enhypen OFFICIAL YOUTUBE https://www.youtube.com/ENHYPENOFFICIAL OFFICIAL X (TWITTER) https://twitter.com/ENHYPEN ENHYPEN X (TWITTER) https://twitter.com/ENHYPEN_members OFFICIAL JAPAN X (TWITTER) https://twitter.com/ENHYPEN_JP OFFICIAL FACEBOOK https://www.facebook.com/officialENHYPEN OFFICIAL INSTAGRAM https://www.instagram.com/enhypen OFFICIAL TIKTOK https://www.tiktok.com/@enhypen OFFICIAL WEIBO https://weibo.com/ENHYPEN OFFICIAL BILIBILI https://space.bilibili.com/3493119035181246 OFFICIAL DOUYIN https://v.douyin.com/TLfWnNVDBP8/ #ENHYPEN #엔하이픈 #THE_SIN_PARALLEL_WORLD #EN_IWantYou",
+      "sourceSummary": "ENHYPEN (엔하이픈) 'I Want You' Official Teaser Welcome to THE SIN : PARALLEL WORLD https://enhypen.lnk.to/THESINPARALLELWORLD EXECUTIVE PRODUCER KIM TAEHO Directed by ZUAE (NOISYROOM) ⓒ BELIFT LAB Inc. All Rights Reserved Connect with ENHYPEN OFFICIAL WEBSITE https://ENHYPEN.com ENHYPEN Weverse https://www.weverse.io/enhypen OFFICIAL YOUTUBE https://www.youtube.com/ENHYPENOFFICIAL OFFICIAL X (TWITTER) https://twitter.com/ENHYPEN ENHYPEN X (TWITTER) https://twitter.com/ENHYPEN_members OFFICIAL JAPAN X (TWITTER) https://twitter.com/ENHYPEN_JP OFFICIAL FACEBOOK https://www.facebook.com/officialENHYPEN OFFICIAL INSTAGRAM https://www.instagram.com/enhypen OFFICIAL TIKTOK https://www.tiktok.com/@enhypen OFFICIAL WEIBO https://weibo.com/ENHYPEN OFFICIAL BILIBILI https://space.bilibili.com/3493119035181246 OFFICIAL DOUYIN https://v.douyin.com/TLfWnNVDBP8/ #ENHYPEN #엔하이픈 #THE_SIN_PARALLEL_WORLD #EN_IWantYou",
+      "articleUrl": "https://www.youtube.com/watch?v=_pLJBPzp3Fg",
+      "imageUrl": null,
+      "social": {
+        "category": "COMEBACK NEWS",
+        "headline": "ENHYPEN (엔하이픈) 'I WANT YOU' OFFICIAL TEASER",
+        "status": "needs_image",
+        "canvaFields": {
+          "Category": "COMEBACK NEWS",
+          "Headline": "ENHYPEN (엔하이픈) 'I WANT YOU' OFFICIAL TEASER",
+          "FeatureImage": null
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
       "id": "a5bf413ff50c",
       "title": "5 Ryan Cheng (Cheng Lei) C-Dramas Which Showcase His Intense Charm",
       "url": "https://www.soompi.com/article/1885495wpp/5-ryan-cheng-cheng-lei-c-dramas-which-showcase-his-intense-charm",
@@ -358,30 +1033,6 @@
           "Category": "K-DRAMA NEWS",
           "Headline": "5 RYAN CHENG (CHENG LEI) C-DRAMAS WHICH SHOWCASE HIS INTENSE CHARM: SOOMPI",
           "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/11092132/The-Lament-of-Autumn-The-Legend-of-the-Female-General.jpg"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "4bc159dade67",
-      "title": "K-pop’s Game Changers to Ignite MMA2026 with Exclusive Stages In Two-Night Spectacle",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTWVmcTZsZFZvdGx0bFBJbWNYc0M5TzAtV0k4clNxTXFUN1BHeHl4dTVmZkFZT1Q2T2dlSW9UMnBhTTV3TWRVNEI0Mnc3NFJtN1RDdmZsd0IyUlRkVHlOSEkxY0JaWTdDWVpCTVQyOHR6cVRuYlVtWUttR19hSHdzb1dmTndjcUVVaXpGM0Q4bHBTSndzVkQ4OTJ5QVZkd2hzMklRb0tKTHh6TGFaTTdCa0lzZVg?oc=5",
-      "publishedAt": "2026-11-12T12:07:25.000Z",
-      "source": "The Outerhaven",
-      "description": "K-pop’s Game Changers to Ignite MMA2026 with Exclusive Stages In Two-Night Spectacle &nbsp;&nbsp; The Outerhaven",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "K-pop’s Game Changers to Ignite MMA2026 with Exclusive Stages In Two-Night Spectacle &nbsp;&nbsp; The Outerhaven",
-      "articleUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTWVmcTZsZFZvdGx0bFBJbWNYc0M5TzAtV0k4clNxTXFUN1BHeHl4dTVmZkFZT1Q2T2dlSW9UMnBhTTV3TWRVNEI0Mnc3NFJtN1RDdmZsd0IyUlRkVHlOSEkxY0JaWTdDWVpCTVQyOHR6cVRuYlVtWUttR19hSHdzb1dmTndjcUVVaXpGM0Q4bHBTSndzVkQ4OTJ5QVZkd2hzMklRb0tKTHh6TGFaTTdCa0lzZVg",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         "canvaDesignId": null
       }
@@ -627,30 +1278,6 @@
       }
     },
     {
-      "id": "d64b94db7676",
-      "title": "OUR STAR! ⭐️ BLACKPINK's Jisoo shared snaps from the official music video of her song, “Addicted.” (📸: Jisoo/Instagram)",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdmQtMWJBVWUzbDhBZVBMMUFqNDRtNW5zd3pMR3JUSlh2NUZzdkZGUVI3NmtjcjY4clhDY1A1aTJMSWZiczY3UGlLVUF6SWhUU19OaUhPTVBNamR0QXRMODRfZ2Zvb3JPRmFmM0tLYkVxUFhFVkk3OERGNGxibjBCdVg3a3d2WG51SUNWaTVjY09QMzR0bzNpNVYtY2V6cjA4dmhFX0dJT1J3Z2JTVjN4bEtfMFB6MFZTSW5OeTdoNEx4aUh3b0J2dHkyMlJ1SDJPT1hVZnl4cGNLT2JVZUpMX2Fn?oc=5",
-      "publishedAt": "2026-11-12T06:45:26.000Z",
-      "source": "Facebook",
-      "description": "OUR STAR! ⭐️ BLACKPINK's Jisoo shared snaps from the official music video of her song, “Addicted.” (📸: Jisoo/Instagram) &nbsp;&nbsp; Facebook",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "OUR STAR! ⭐️ BLACKPINK's Jisoo shared snaps from the official music video of her song, “Addicted.” (📸: Jisoo/Instagram) &nbsp;&nbsp; Facebook",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdmQtMWJBVWUzbDhBZVBMMUFqNDRtNW5zd3pMR3JUSlh2NUZzdkZGUVI3NmtjcjY4clhDY1A1aTJMSWZiczY3UGlLVUF6SWhUU19OaUhPTVBNamR0QXRMODRfZ2Zvb3JPRmFmM0tLYkVxUFhFVkk3OERGNGxibjBCdVg3a3d2WG51SUNWaTVjY09QMzR0bzNpNVYtY2V6cjA4dmhFX0dJT1J3Z2JTVjN4bEtfMFB6MFZTSW5OeTdoNEx4aUh3b0J2dHkyMlJ1SDJPT1hVZnl4cGNLT2JVZUpMX2Fn",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "COMEBACK NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "COMEBACK NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
       "id": "c42643e476b0",
       "title": "Tomorrow X Together collaborates with Safehouse for literary pop-up ahead of ninth EP's release",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORTlCaWthZUk4cG84MmxvQ1pucjdiRDVZRjNaNXJhTE1LWGF1LUxvdkRFR3NDYU42YTlGcXRPek16UTc5bUlvWVdHdEpoYTNTMElROUhFNlAtMTdFeE92ZFktMVAxWmdkQndMdUNLVmE0bUExQzFBcnBiMzQ2d0hpRDJ4QmhCaDhQUkdlc3FNbmQ5TV9yN3ZEZzVzR29vclFnMmg0SXI3TXIzRVpPSWdBdmtMeXloTHdVUkVmVmw0X1B5Z2lQWVFJNzZUekV3MWpBcU5uQjdhX0RHMEFOWVZLZVozMnZTUQ?oc=5",
@@ -771,6 +1398,30 @@
       }
     },
     {
+      "id": "e517ca17c6a5",
+      "title": "Jisoo at Coachella: BLACKPINK diva, NCT and BABYMONSTER are taking over the desert",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa0dHRXRJdGpMdlUtbzNTcVhHaDBweG9Mekwza0hZTHBYODBGTEp5cmpUU0Q0VG40THd5UjRKaEVKUzFueGZFWnc1RnZQa3RINVlSRHAtcm1oM01DNUV2bEJtSXdjMGhmOXRSUFZMd2NRLURDWjFseTBMU2h0OTNMWlltUUJOOHVkTlFQbjNIYXpVeXRseG9DVEJkN0xKQUQ2TVhmaHpZSE5ja0NETXhnU1JnSUlzSF9xOWRDbWZIYUdqUEVz?oc=5",
+      "publishedAt": "2026-11-12T03:31:00.000Z",
+      "source": "t2ONLINE",
+      "description": "Jisoo at Coachella: BLACKPINK diva, NCT and BABYMONSTER are taking over the desert &nbsp;&nbsp; t2ONLINE",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "Jisoo at Coachella: BLACKPINK diva, NCT and BABYMONSTER are taking over the desert &nbsp;&nbsp; t2ONLINE",
+      "articleUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa0dHRXRJdGpMdlUtbzNTcVhHaDBweG9Mekwza0hZTHBYODBGTEp5cmpUU0Q0VG40THd5UjRKaEVKUzFueGZFWnc1RnZQa3RINVlSRHAtcm1oM01DNUV2bEJtSXdjMGhmOXRSUFZMd2NRLURDWjFseTBMU2h0OTNMWlltUUJOOHVkTlFQbjNIYXpVeXRseG9DVEJkN0xKQUQ2TVhmaHpZSE5ja0NETXhnU1JnSUlzSF9xOWRDbWZIYUdqUEVz",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
       "id": "0c0dec7407a1",
       "title": "Stock tips with a beat: Samsung Securities’ AI K-pop group racks up views",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa052ZXhrdmI5Zm95TllXV3FETzdCcXNuREJsR2dVcl9XQmdfQWxVcm1yR0VVQzJoRUFzcWE5TU1jd3lYRDhyaXNvMkhoZ0JwZzVvY1FLUjZYZnBSYm9BVzRsYTl1M3hPOHhCdDNtYThFdThCTWxLclhTS3QwYmtQTzhkYVk4eC03eFhGOXZsMEhhdHVIV0dSbkQweEUwOUVUNERvaHEzZ1Q?oc=5",
@@ -812,30 +1463,6 @@
         "status": "pending_review",
         "canvaFields": {
           "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "57f49ef3a5e2",
-      "title": "KAYOU “KPop Demon Hunters” Energy Edition Series 2 Trading Cards and Accessories Debut!",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT29HYzlvemc1bmV6aTdMaC1wc0lLMTZYemp2bTVxLU1HdXRLOGNPX1NldmRTT3BWTWR4MXhZUjBTWDJFeDd2c2FPVFJyd0hwR29aYVBmV3lKalJraWs4MlEteUtzRWZubkgybHpLbHJicVAwSXZfRkUzNDdyaDZXYTdCbUdoWDZySDFRX2w4UWE5UlRUOW05TUZNR1ZkWWlJY1lmdmhmZEdMay0zekdPalJsZXJlUQ?oc=5",
-      "publishedAt": "2026-11-12T02:32:28.000Z",
-      "source": "The Geekiary",
-      "description": "KAYOU “KPop Demon Hunters” Energy Edition Series 2 Trading Cards and Accessories Debut! &nbsp;&nbsp; The Geekiary",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "KAYOU “KPop Demon Hunters” Energy Edition Series 2 Trading Cards and Accessories Debut! &nbsp;&nbsp; The Geekiary",
-      "articleUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT29HYzlvemc1bmV6aTdMaC1wc0lLMTZYemp2bTVxLU1HdXRLOGNPX1NldmRTT3BWTWR4MXhZUjBTWDJFeDd2c2FPVFJyd0hwR29aYVBmV3lKalJraWs4MlEteUtzRWZubkgybHpLbHJicVAwSXZfRkUzNDdyaDZXYTdCbUdoWDZySDFRX2w4UWE5UlRUOW05TUZNR1ZkWWlJY1lmdmhmZEdMay0zekdPalJsZXJlUQ",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "K-DRAMA NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "K-DRAMA NEWS",
           "Headline": "GOOGLE NEWS",
           "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
@@ -1012,6 +1639,30 @@
       }
     },
     {
+      "id": "5f24cabd00fc",
+      "title": "UNO KPop Demon Hunters Deck: How Much Does Mattel’s Game Cost and Where to Buy It?",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZjlZUHpiSEtLcUp1aTB5UGU1MWlyTEdLbjJia3BQUWJHRlBmTkltOVJIcE9VanRKcGNDSlgxVW1uZHhsc1BpWnZ4c2ItOGZlV3VlSFdoOFlNS213WjRyVDI2UDRuOTFZZVE2R1FVckd6a3N3VUtkMXNTaUV2eUVpRFJBWHVRU3Z4TGFZNllsOUdnR2pyQXV6R1pUenJEVVZvcTY2aFBhUQ?oc=5",
+      "publishedAt": "2026-11-11T23:32:51.000Z",
+      "source": "Revista Merca2.0",
+      "description": "UNO KPop Demon Hunters Deck: How Much Does Mattel’s Game Cost and Where to Buy It? &nbsp;&nbsp; Revista Merca2.0",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "UNO KPop Demon Hunters Deck: How Much Does Mattel’s Game Cost and Where to Buy It? &nbsp;&nbsp; Revista Merca2.0",
+      "articleUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZjlZUHpiSEtLcUp1aTB5UGU1MWlyTEdLbjJia3BQUWJHRlBmTkltOVJIcE9VanRKcGNDSlgxVW1uZHhsc1BpWnZ4c2ItOGZlV3VlSFdoOFlNS213WjRyVDI2UDRuOTFZZVE2R1FVckd6a3N3VUtkMXNTaUV2eUVpRFJBWHVRU3Z4TGFZNllsOUdnR2pyQXV6R1pUenJEVVZvcTY2aFBhUQ",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
       "id": "0d86015bdec6",
       "title": "KPop Demon Hunter Fans Can't Miss Out On This League Of Legends/Netflix Pop Drop",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZNnFlVDFzSWJLTTAwVzd6b0pMeThvRjI4emdyNm9GdlFjb3dKNi1aUWl3TUUzT3I3bDhYb1pyc1loOUZabnkwZEFFT0V6ZHNBbkRzSG1Ob3EwRDc3OURGTHdnM3RoWnlUamZ1XzBJWFhST0x5bV9GZGhmMkJGUQ?oc=5",
@@ -1084,30 +1735,6 @@
       }
     },
     {
-      "id": "5bbe0fb272bd",
-      "title": "The Coolest 'KPop Demon Hunters' Gifts Exclusively Dropped at Target & Everything Is Less Than $50",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUVZlUnNrQ3FpeVI0dl9kOWNqa2ZsWFJPSm1nNnJGN0pObjlseVNhNU9Ha0xiX3owQW1hZTJQTDE1RkdKT2Vmc3hhNmNCdnpJNHJlLTZIOUlZcVVLMkxQZ241eVFJWnduMktIRXZ4MEFiUjZTTGZpd0ZPOS01QzFCUnhGenF3VUxDUVhxSWpFTHVqeDgxNHJQZVpB?oc=5",
-      "publishedAt": "2026-11-11T20:15:00.000Z",
-      "source": "Yahoo",
-      "description": "The Coolest 'KPop Demon Hunters' Gifts Exclusively Dropped at Target & Everything Is Less Than $50 &nbsp;&nbsp; Yahoo",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "The Coolest 'KPop Demon Hunters' Gifts Exclusively Dropped at Target & Everything Is Less Than $50 &nbsp;&nbsp; Yahoo",
-      "articleUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUVZlUnNrQ3FpeVI0dl9kOWNqa2ZsWFJPSm1nNnJGN0pObjlseVNhNU9Ha0xiX3owQW1hZTJQTDE1RkdKT2Vmc3hhNmNCdnpJNHJlLTZIOUlZcVVLMkxQZ241eVFJWnduMktIRXZ4MEFiUjZTTGZpd0ZPOS01QzFCUnhGenF3VUxDUVhxSWpFTHVqeDgxNHJQZVpB",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
       "id": "7c71b589bf1a",
       "title": "Grading the K-Pop Agencies 2026: HYBE CORPORATION",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORUt0dFdTMTk5MnpSNElpR2l0dkFsRi1LaFNmVndxNUNMOUNfRFlZVjM3enJRUG1qRHF2MGU4VWx5WUU4anVNcElWb2dYTlN2SmdNSGl1cTc0RHpzTEpGQ1paY2hsWTNjQW5STXE4Ry1LRVZMTHo0WjJXdzR5ai1QVnZCdXdDQVZ3OWVGVg?oc=5",
@@ -1149,30 +1776,6 @@
         "status": "pending_review",
         "canvaFields": {
           "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "5a5ded770478",
-      "title": "CJ 4DPlex Brings NMIXX World Tour to Cinemas Worldwide in First-Ever ScreenX Live K-Pop Concert Event",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOFU0VTZ5S2VleGUyXy12X20xb0g1NVQ3Y3MyQXNDNWttUVljSWVyNHNmY0sxR21Oc3Y3UDB1YkdNc3dkUzRSS3ZCU1JIVkNURHJ5VGt0SHlJby1UenR1QzZBUXlfcHNZcTFqT2ZLYWJ6M1ltT1NlQWlqdDUxQVNpVXRMMUhaak44N0JhZDlJeWJXQmdlYU1Kd1J5cGdVbmN3WjJkMllDY3JOUGY2TE9xVjVNQ3U2ZUFvbnk1X1RIdkp6VGYwYk1BbkRNUQ?oc=5",
-      "publishedAt": "2026-11-11T16:21:09.000Z",
-      "source": "Boxoffice Pro",
-      "description": "CJ 4DPlex Brings NMIXX World Tour to Cinemas Worldwide in First-Ever ScreenX Live K-Pop Concert Event &nbsp;&nbsp; Boxoffice Pro",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "CJ 4DPlex Brings NMIXX World Tour to Cinemas Worldwide in First-Ever ScreenX Live K-Pop Concert Event &nbsp;&nbsp; Boxoffice Pro",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOFU0VTZ5S2VleGUyXy12X20xb0g1NVQ3Y3MyQXNDNWttUVljSWVyNHNmY0sxR21Oc3Y3UDB1YkdNc3dkUzRSS3ZCU1JIVkNURHJ5VGt0SHlJby1UenR1QzZBUXlfcHNZcTFqT2ZLYWJ6M1ltT1NlQWlqdDUxQVNpVXRMMUhaak44N0JhZDlJeWJXQmdlYU1Kd1J5cGdVbmN3WjJkMllDY3JOUGY2TE9xVjVNQ3U2ZUFvbnk1X1RIdkp6VGYwYk1BbkRNUQ",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "CONCERT NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "CONCERT NEWS",
           "Headline": "GOOGLE NEWS",
           "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
@@ -1247,30 +1850,6 @@
           "Category": "HALLYU NEWS",
           "Headline": "WATCH: CRUSH AND RED VELVET&#039;S JOY SING \"SEESAW\" COUPLE DUET: SOOMPI",
           "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/11234626/Joy-Crush.jpeg"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "348ad4e1f734",
-      "title": "BTS' 'Swim' makes Apple Music's Best Songs of 2026 list",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS3pucjg3Q2pBRE9COU5ONW9QRHVTclBlazVQc0JpWE1mSjByRENEUzRBaXpacXlZcUtSeGxCVUNLUlFaNXZPSG9SZnMyTzl2OU5qQVRLdXJRbGViZ24za2lPY0NRcTM1dHNhS2lYZDRrNlhPUExjNDJTMUZIV1NnVjBhcldVYWxfTzd1TV9xRXZfdDItS0xFMUJjWHV1Q2ZTMXhocWY4R2dXRHg3OHRoZtIBtgFBVV95cUxPRTZRb0V4ekxIV3hzbXY2OGxiVjA1RmpKMG1saDZORXdfV3lsTVlUX01OZzNOQmVBUWs2S3UwVVFjTU96VjFRMWhtOW5mTW1DNkhRWlBGTXdQR1lpTzFMdXZPNUJzZlpLNVNqbG9ObWItb2JCRUduVHdlVS01YmNGOE40OExHeHlYb2xfZTdkbDBUcmlCU2ZjYTZseXhWbUlZczFMNmJkSDZZMHF1VHc3dTkyaEwyQQ?oc=5",
-      "publishedAt": "2026-11-11T13:25:03.000Z",
-      "source": "The Korea Times",
-      "description": "BTS' 'Swim' makes Apple Music's Best Songs of 2026 list &nbsp;&nbsp; The Korea Times",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "BTS' 'Swim' makes Apple Music's Best Songs of 2026 list &nbsp;&nbsp; The Korea Times",
-      "articleUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS3pucjg3Q2pBRE9COU5ONW9QRHVTclBlazVQc0JpWE1mSjByRENEUzRBaXpacXlZcUtSeGxCVUNLUlFaNXZPSG9SZnMyTzl2OU5qQVRLdXJRbGViZ24za2lPY0NRcTM1dHNhS2lYZDRrNlhPUExjNDJTMUZIV1NnVjBhcldVYWxfTzd1TV9xRXZfdDItS0xFMUJjWHV1Q2ZTMXhocWY4R2dXRHg3OHRoZtIBtgFBVV95cUxPRTZRb0V4ekxIV3hzbXY2OGxiVjA1RmpKMG1saDZORXdfV3lsTVlUX01OZzNOQmVBUWs2S3UwVVFjTU96VjFRMWhtOW5mTW1DNkhRWlBGTXdQR1lpTzFMdXZPNUJzZlpLNVNqbG9ObWItb2JCRUduVHdlVS01YmNGOE40OExHeHlYb2xfZTdkbDBUcmlCU2ZjYTZseXhWbUlZczFMNmJkSDZZMHF1VHc3dTkyaEwyQQ",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         "canvaDesignId": null
       }
@@ -1684,30 +2263,6 @@
       }
     },
     {
-      "id": "346173a980cf",
-      "title": "BTS's 'SWIM' Only Korean Song on Apple Music's '2026 Best Songs'",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2E5bDFzZDBZY0pBR1Uxd1BYTm50ZWFqMHEzY19IeEpYNG1RdEVHLS1HV3JuREVQV0JSQjhrckZRelVfczNwclVyRk02c2x0UFpneDBPZGhjMmRaNzdzMFk0bENHQlRrZWhrQXp1Z19ZU25NSUNjQUpCMF8ybXZScVpITmZjRTZIUWp3bUlB?oc=5",
-      "publishedAt": "2026-11-11T03:45:47.000Z",
-      "source": "조선일보",
-      "description": "BTS's 'SWIM' Only Korean Song on Apple Music's '2026 Best Songs' &nbsp;&nbsp; 조선일보",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "BTS's 'SWIM' Only Korean Song on Apple Music's '2026 Best Songs' &nbsp;&nbsp; 조선일보",
-      "articleUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2E5bDFzZDBZY0pBR1Uxd1BYTm50ZWFqMHEzY19IeEpYNG1RdEVHLS1HV3JuREVQV0JSQjhrckZRelVfczNwclVyRk02c2x0UFpneDBPZGhjMmRaNzdzMFk0bENHQlRrZWhrQXp1Z19ZU25NSUNjQUpCMF8ybXZScVpITmZjRTZIUWp3bUlB",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
       "id": "360b88bb4b97",
       "title": "Watch: Han Hyo Joo, Gong Myoung, And More Show Dedication At Script Reading For &#8220;Your Ground&#8221;",
       "url": "https://www.soompi.com/article/1885767wpp/watch-han-hyo-joo-gong-myoung-and-more-show-dedication-at-script-reading-for-your-ground",
@@ -1727,30 +2282,6 @@
           "Category": "HALLYU NEWS",
           "Headline": "WATCH: HAN HYO JOO, GONG MYOUNG, AND MORE SHOW DEDICATION AT SCRIPT READING FOR \"YOUR GROUND\": SOOMPI",
           "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/11105258/your-ground-1-1.jpg"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "c998e225268d",
-      "title": "EXO's Kai, Sehun to debut as duo EXO-KASE on Dec. 1",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMWdiaDBYcV9hUFpDb05rNVBxdmR1d2FHbkczV2lNUjVBT09BZDRLV2xOMHlDZ3EtdnVHTHVFN0pMcUJZME9YN1JIdllWVWtnd3RBQU5tdWVUZHVHbjBZTVJfQzhjVExZbi1sYnQyMDFkQURGUVpvUzE4MUpSamtPTkplWldISVY0N3JWbkljVkxheVpsNk13RUdUd2pya3ZRZ3lWWEhXdWpLd9IBrwFBVV95cUxONVJwWkN3NlN6WVhpZmxTVjVOQjFrYy1odGhicnMyX0V2V3RhTkJBRDZRRVJWVWhUT2V0VmVLSWtBekpnRTBpVkdiV3A0eHdCRjFOdGV1bkU3cmFmdWN3ZjBQQ09rcXpRenNfS2tfd3V0RFlheEl5UXNXZEZyZndkOTkwTlAtMU1iYk50V0cxTWZqVDZyalR5NG8ycU5kU0NCOFBPMlBpWEFRRExuTlJR?oc=5",
-      "publishedAt": "2026-11-11T02:19:04.000Z",
-      "source": "The Korea Times",
-      "description": "EXO's Kai, Sehun to debut as duo EXO-KASE on Dec. 1 &nbsp;&nbsp; The Korea Times",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "EXO's Kai, Sehun to debut as duo EXO-KASE on Dec. 1 &nbsp;&nbsp; The Korea Times",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMWdiaDBYcV9hUFpDb05rNVBxdmR1d2FHbkczV2lNUjVBT09BZDRLV2xOMHlDZ3EtdnVHTHVFN0pMcUJZME9YN1JIdllWVWtnd3RBQU5tdWVUZHVHbjBZTVJfQzhjVExZbi1sYnQyMDFkQURGUVpvUzE4MUpSamtPTkplWldISVY0N3JWbkljVkxheVpsNk13RUdUd2pya3ZRZ3lWWEhXdWpLd9IBrwFBVV95cUxONVJwWkN3NlN6WVhpZmxTVjVOQjFrYy1odGhicnMyX0V2V3RhTkJBRDZRRVJWVWhUT2V0VmVLSWtBekpnRTBpVkdiV3A0eHdCRjFOdGV1bkU3cmFmdWN3ZjBQQ09rcXpRenNfS2tfd3V0RFlheEl5UXNXZEZyZndkOTkwTlAtMU1iYk50V0cxTWZqVDZyalR5NG8ycU5kU0NCOFBPMlBpWEFRRExuTlJR",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         "canvaDesignId": null
       }
@@ -1852,78 +2383,6 @@
       }
     },
     {
-      "id": "df3cafc3f1e1",
-      "title": "IVE Scores 1st-Ever Entry On Billboard 200 With &#8220;Looks Can Kill&#8221;",
-      "url": "https://www.soompi.com/article/1885647wpp/ive-scores-1st-ever-entry-on-billboard-200-with-looks-can-kill",
-      "publishedAt": "2026-11-10T19:25:12.000Z",
-      "source": "Soompi",
-      "description": "IVE has made their debut on the Billboard 200! On November 10 local time, Billboard officially announced that IVE had entered its Top 200 Albums chart (which ranks the most popular albums in the United States) for the very first time. For the week ending on November 14, IVE’s new mini album “Looks Can Kill”&#8230; Continue reading IVE Scores 1st-Ever Entry On Billboard 200 With &#8220;Looks Can Kill&#8221; The post IVE Scores 1st-Ever Entry On Billboard 200 With &#8220;Looks Can Kill&#8221; appeared first on Soompi .",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "IVE has made their debut on the Billboard 200! On November 10 local time, Billboard officially announced that IVE had entered its Top 200 Albums chart (which ranks the most popular albums in the United States) for the very first time. For the week ending on November 14, IVE’s new mini album “Looks Can Kill”&#8230; Continue reading IVE Scores 1st-Ever Entry On Billboard 200 With &#8220;Looks Can Kill&#8221; The post IVE Scores 1st-Ever Entry On Billboard 200 With &#8220;Looks Can Kill&#8221; appeared first on Soompi .",
-      "articleUrl": "https://www.soompi.com/article/1885647wpp/ive-scores-1st-ever-entry-on-billboard-200-with-looks-can-kill",
-      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/11042208/IVE.jpeg",
-      "social": {
-        "category": "TRENDING",
-        "headline": "IVE SCORES 1ST-EVER ENTRY ON BILLBOARD 200 WITH \"LOOKS CAN KILL\": SOOMPI",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "TRENDING",
-          "Headline": "IVE SCORES 1ST-EVER ENTRY ON BILLBOARD 200 WITH \"LOOKS CAN KILL\": SOOMPI",
-          "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/11042208/IVE.jpeg"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "a88ef0d00810",
-      "title": "Wonho Announces Dates And Cities For 2027 World Tour &#8220;NOCHE&#8221;",
-      "url": "https://www.soompi.com/article/1885646wpp/wonho-announces-dates-and-cities-for-2027-world-tour-noche",
-      "publishedAt": "2026-11-10T17:47:00.000Z",
-      "source": "Soompi",
-      "description": "Wonho is heading abroad on a new world tour! On November 11 at midnight KST, Wonho officially announced his plans for his upcoming 2027 world tour “NOCHE.” After kicking things off in Seattle on January 9, Wonho will perform in San Francisco on January 11, Los Angeles on January 13, Minneapolis on January 16, Chicago&#8230; Continue reading Wonho Announces Dates And Cities For 2027 World Tour &#8220;NOCHE&#8221; The post Wonho Announces Dates And Cities For 2027 World Tour &#8220;NOCHE&#8221; appeared first on Soompi .",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "Wonho is heading abroad on a new world tour! On November 11 at midnight KST, Wonho officially announced his plans for his upcoming 2027 world tour “NOCHE.” After kicking things off in Seattle on January 9, Wonho will perform in San Francisco on January 11, Los Angeles on January 13, Minneapolis on January 16, Chicago&#8230; Continue reading Wonho Announces Dates And Cities For 2027 World Tour &#8220;NOCHE&#8221; The post Wonho Announces Dates And Cities For 2027 World Tour &#8220;NOCHE&#8221; appeared first on Soompi .",
-      "articleUrl": "https://www.soompi.com/article/1885646wpp/wonho-announces-dates-and-cities-for-2027-world-tour-noche",
-      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/11034455/Wonho.jpeg",
-      "social": {
-        "category": "CONCERT NEWS",
-        "headline": "WONHO ANNOUNCES DATES AND CITIES FOR 2027 WORLD TOUR \"NOCHE\": SOOMPI",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "CONCERT NEWS",
-          "Headline": "WONHO ANNOUNCES DATES AND CITIES FOR 2027 WORLD TOUR \"NOCHE\": SOOMPI",
-          "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/11034455/Wonho.jpeg"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "830610a520a7",
-      "title": "Watch: JYP Reveals New Boy Group oftheblue Through Blind Performance Video",
-      "url": "https://www.soompi.com/article/1885634wpp/watch-jyp-reveals-new-boy-group-oftheblue-with-blind-performance-video",
-      "publishedAt": "2026-11-10T15:30:20.000Z",
-      "source": "Soompi",
-      "description": "JYP Entertainment has shared the first glimpse of its upcoming boy group oftheblue! On November 11 at midnight KST, JYP Entertainment released a blind performance video introducing its new group oftheblue. The agency also announced that ahead of the group’s official debut in 2027, oftheblue will be releasing the pre-debut single “Aerotherapy&#8221; on November 11&#8230; Continue reading Watch: JYP Reveals New Boy Group oftheblue Through Blind Performance Video The post Watch: JYP Reveals New Boy Group oftheblue Through Blind Performance Video appeared first on Soompi .",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "JYP Entertainment has shared the first glimpse of its upcoming boy group oftheblue! On November 11 at midnight KST, JYP Entertainment released a blind performance video introducing its new group oftheblue. The agency also announced that ahead of the group’s official debut in 2027, oftheblue will be releasing the pre-debut single “Aerotherapy&#8221; on November 11&#8230; Continue reading Watch: JYP Reveals New Boy Group oftheblue Through Blind Performance Video The post Watch: JYP Reveals New Boy Group oftheblue Through Blind Performance Video appeared first on Soompi .",
-      "articleUrl": "https://www.soompi.com/article/1885634wpp/watch-jyp-reveals-new-boy-group-oftheblue-with-blind-performance-video",
-      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/11002854/oftheblue.jpg",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "WATCH: JYP REVEALS NEW BOY GROUP OFTHEBLUE THROUGH BLIND PERFORMANCE VIDEO: SOOMPI",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "WATCH: JYP REVEALS NEW BOY GROUP OFTHEBLUE THROUGH BLIND PERFORMANCE VIDEO: SOOMPI",
-          "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/11002854/oftheblue.jpg"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
       "id": "950461ccb471",
       "title": "K-pop Star Wonho Announces 2027 Noche World Tour (Exclusive)",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTGV1X1ZEYnZoSmFHNTBtNW1KSUdTME9UcVhMWUE2ZEZYVi1ZaFBiNXUzcmotemI0ck5lcUlXVmFhNmJ6VS1MOFVOQUpTSkprWWVTbjZaNjE3OUpweVU5alV3cnJPc0s2bDNaN05DX0NZRk1SVVk1NGQxRWpaZ2RYNERLQ0ItN3hobWlYZXk5dktXWmVUOExMRVFKUUw?oc=5",
@@ -1934,463 +2393,6 @@
       "confidence": "secondary",
       "sourceSummary": "K-pop Star Wonho Announces 2027 Noche World Tour (Exclusive) &nbsp;&nbsp; The Hollywood Reporter",
       "articleUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTGV1X1ZEYnZoSmFHNTBtNW1KSUdTME9UcVhMWUE2ZEZYVi1ZaFBiNXUzcmotemI0ck5lcUlXVmFhNmJ6VS1MOFVOQUpTSkprWWVTbjZaNjE3OUpweVU5alV3cnJPc0s2bDNaN05DX0NZRk1SVVk1NGQxRWpaZ2RYNERLQ0ItN3hobWlYZXk5dktXWmVUOExMRVFKUUw",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "CONCERT NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "CONCERT NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "ce713e1b516b",
-      "title": "oftheblue(오브더블루) \"풍선인간\" Blind Performance Video",
-      "url": "https://www.youtube.com/watch?v=d1AknDUMAE0",
-      "publishedAt": "2026-11-10T15:00:03.000Z",
-      "source": "JYP Entertainment",
-      "sourceClass": "official",
-      "confidence": "primary",
-      "sourceId": "jyp-entertainment-youtube",
-      "description": "oftheblue(오브더블루) \"풍선인간\" Blind Performance Video oftheblue “풍선인간” ➫ 2026.11.11 6PM (KST) oftheblue Official YouTube ▶ https://www.youtube.com/@oblu_official oftheblue Official Website ▶ https://oftheblue.jype.com/ oftheblue Official X ▶ https://x.com/oblu_official oftheblue Official Instagram ▶ https://www.instagram.com/oftheblue_official/ oftheblue Official Facebook ▶ https://www.facebook.com/oftheblueofficial oftheblue Official TikTok ▶ https://www.tiktok.com/@oftheblue_official ⓒ 2026 JYP Entertainment. All Rights Reserved #oftheblue #풍선인간 #oftheblue_풍선인간 ---------------------------------------------------------- [oftheblue - ‘풍선인간’ Blind Performance Video] HEAD OF LABEL : JIYOUNG LEE GENERAL MANAGER : HANA JANG MUSIC: JEN NAM, CHEONGHA LEE PRODUCTION : SOHYUN KIM, HAEEUN PARK, HAEDEUN LEE VISUAL : SUNYOUNG PARK, JIYOUNG AHN MANAGEMENT : SIHYUNG LEE, SINAE HONG, JINGYEONG HAN, JIYUN HAN, DAHEE KIM, YEWON LIM, YOUNGHO JUNG, SEUNGHWAN LEE MAREKTING : HAESU MOON, LEE SEUNGJU, EUNHYE CHAE, HUIJEONG KWON, GITAE PARK, JIN RYU, SUNYOUNG MOON VIDEO : DONGJIN CHAE, BUMJIN KWAK, DAEUN LEE DESIGN : YESEUL CHOI, INHA HWANG PERFORMANCE DIRECTOR : KYUJIN SIM, HWIGEON LEE @JYP PDL CHOREOGRAPHER : KYUJIN SIM, HWIGEON LEE @JYP PDL DANCER : TAE YEOL, MIN HYEOK, JUNHO, BAO, JAEHONG, SUNWOO, JUN SEONG, DAVIDOPE, KWAN HYO, TAE UK, SEUNG HYUN, JONG WON, DART, HWA LANG, WOONY, SIYU, KANGBYEONG JO, JEONG SEO, E.TAE, SANG JIN, JI SUNG, BYOUNG HOON, YANG HA, D0BERMANN, DIEM, NAVY, DABIN, YOOCHAN, KIHYEON KIM, J KYEONGWON, JOOHO KIM, RICHIE PARK, MAYVIS, HYUN DONG, GO SEHYUN, DO HYEON, NOVA PARK, YOUNGGWANG KIM, JI HYUN, PELLO, JUNGHYUN AHN STYLIST : KYUNGJIB LIM, HAJEONG LEE STYLING ASSITANT : YUSEUNG HAN HAIR : JEONGHYUN KIM (RAW) MAKEUP : YUNHA CHO (RAW) WARDROBE SPONSOR : HELINOX — DIRECTOR : YEJIN AN (@oepasta) PRODUCTION : RIGEND CREATIVE (@rigend.film) EXECUTIVE PRODUCER : SUYEON PARK (@ssoo__p_) 1ST ASSISTANT DIRECTOR : SEOYOUNG YOON 2ND ASSISTANT DIRECTOR : JINWON KIM, JUNGHYE KIM, SEHEE KIM CREATIVE & VISUAL TEAM : RIG.RIG.RIG (@ri9.ri9.ri9) MINYEONG KANG, MYEONGJIN BYEON PRODUCER : HWANHEE OH LINE PRODUCER : NAYOUNG KIM DOP : GIUNG SEO (Line of Sight) FOCUS PULLER : SEUNGJONG LEE 2ND AC : JUNSUNG CHA 3ND AC : DOHOON LEE DIT : HYUKJAE YANG GAFFER : SEONGMIN OH BEST BOY : BEOMYUN AHN LIGHTING CREW : HYUNJUN LEE, DONGYUN SHIN, HYUN KIM, YUNCHEOL SHIN, YONGJIN LEE GENERATOR OPERATOR : TAEHYUN YUN ART DIRECTOR : YUNAH KIM ART TEAM : RHOONEY LEE, HYUNSOO JIN PHOTO DIRECTOR : LIA KWON PHOTOGRAPHER: KYUNGUI HONG 1ST ASSISTNAT : RAYUN YANG 2ND ASSISTANT : MINSEO PARK DRONE : GODFINGER DRONE OPERATOR : MINJAE LEE 1ST AC : YOUNJUN PARK 2ND AC : EUNTAE LEE LINE PRODUCER TEAM : (STEP BY STAFF) YONGHYUN KIM, CHANHYUK PARK, TAEYOON KIM, HYUNHO KIM, TAEIN JUNG, SEUNGYUN KANG, JIHYO KIM LOCATION MANAGER : MINHO KIM, DONGHO CHAE (ZONESYSTEM) [POST PRODUCTION DEPARTMENT] EDITED BY : YEJIN AN POST ASSISTANT DIRECTOR : SEOYOUNG YOON, SEHEE KIM, KYUNGHWAN JI, YUJIN LEE, JUNGHYE KIM RIGEND VFX TEAM : RIG.RIG.RIG (@ri9.ri9.ri9) CG VFX : MINYEONG KANG, YONGHWI JEONG, MYEONGJIN BYEON, EONSOO HAN, JIEUN BAEK, EUNYOUNG CHO COMPOSITOR : SEHEE KIM, YUJIN LEE, KYUNGHWAN JI 2D ARTIST : KYUNGMI SON (SOHO) COMPOSITOR : PIXEL SURGERY 2D COMPOSITOR : CHEN YI ZHI ROTOSCOPE : JACK NG, CHEN YI ZHI AI VFX : MINHYEOK LEE BEAUTY / CLEANUP : JD3C ROTOSCOPE / CLEANUP : NGOC PHAM, MAI NHAT UYEN, CUONG LE, HIEN DANG DI : LUCID COLOUR COLORIST : JIYUN YEOM DI CREW : SEONYOUNG LEE, SUBIN JEONG, INSEOB SONG DI PRODUCER : HYUNJIN KIM DI MANAGER : HEEJIN PARK",
-      "sourceSummary": "oftheblue(오브더블루) \"풍선인간\" Blind Performance Video oftheblue “풍선인간” ➫ 2026.11.11 6PM (KST) oftheblue Official YouTube ▶ https://www.youtube.com/@oblu_official oftheblue Official Website ▶ https://oftheblue.jype.com/ oftheblue Official X ▶ https://x.com/oblu_official oftheblue Official Instagram ▶ https://www.instagram.com/oftheblue_official/ oftheblue Official Facebook ▶ https://www.facebook.com/oftheblueofficial oftheblue Official TikTok ▶ https://www.tiktok.com/@oftheblue_official ⓒ 2026 JYP Entertainment. All Rights Reserved #oftheblue #풍선인간 #oftheblue_풍선인간 ---------------------------------------------------------- [oftheblue - ‘풍선인간’ Blind Performance Video] HEAD OF LABEL : JIYOUNG LEE GENERAL MANAGER : HANA JANG MUSIC: JEN NAM, CHEONGHA LEE PRODUCTION : SOHYUN KIM, HAEEUN PARK, HAEDEUN LEE VISUAL : SUNYOUNG PARK, JIYOUNG AHN MANAGEMENT : SIHYUNG LEE, SINAE HONG, JINGYEONG HAN, JIYUN HAN, DAHEE KIM, YEWON LIM, YOUNGHO JUNG, SEUNGHWAN LEE MAREKTING : HAESU MOON, LEE SEUNGJU, EUNHYE CHAE, HUIJEONG KWON, GITAE PARK, JIN RYU, SUNYOUNG MOON VIDEO : DONGJIN CHAE, BUMJIN KWAK, DAEUN LEE DESIGN : YESEUL CHOI, INHA HWANG PERFORMANCE DIRECTOR : KYUJIN SIM, HWIGEON LEE @JYP PDL CHOREOGRAPHER",
-      "articleUrl": "https://www.youtube.com/watch?v=d1AknDUMAE0",
-      "imageUrl": null,
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "OFTHEBLUE(오브더블루) \"풍선인간\" BLIND PERFORMANCE VIDEO",
-        "status": "needs_image",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "OFTHEBLUE(오브더블루) \"풍선인간\" BLIND PERFORMANCE VIDEO",
-          "FeatureImage": null
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "b88c1902c7eb",
-      "title": "K-pop, K-dramas and kimchi: Inside Judy Joo’s new cookbook",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMkhxZTFtMEd1Z085bVYxbFJyRDhxNm1raE1hSW5MNlBQelM0cnRBRWQ3SjNKTDRNRFBhN0FMd0tnalZWaDQtOWJRdlFBZXM3RGgzLXNBdWVHc0FBS01yQjNHdVJvT0s4bnBpMlUxWXdLUURXYUFpbDYwM01lbkRvV293UQ?oc=5",
-      "publishedAt": "2026-11-10T14:08:02.000Z",
-      "source": "JoySauce",
-      "description": "K-pop, K-dramas and kimchi: Inside Judy Joo’s new cookbook &nbsp;&nbsp; JoySauce",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "K-pop, K-dramas and kimchi: Inside Judy Joo’s new cookbook &nbsp;&nbsp; JoySauce",
-      "articleUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMkhxZTFtMEd1Z085bVYxbFJyRDhxNm1raE1hSW5MNlBQelM0cnRBRWQ3SjNKTDRNRFBhN0FMd0tnalZWaDQtOWJRdlFBZXM3RGgzLXNBdWVHc0FBS01yQjNHdVJvT0s4bnBpMlUxWXdLUURXYUFpbDYwM01lbkRvV293UQ",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "K-DRAMA NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "K-DRAMA NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "76a8929148a8",
-      "title": "Leaked NewJeans Contract Offers Look At K-Pop's 'Dark Side'",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRXlSU293MFdxSS1ZZ1MybF9wWFRoUUhrWExXQzl0MHJkZkRoSjM1OHpKNW40enUzZVNhbE14RUgzNjNmdHFQU3dSYS04NGNSMWx0UmxEN2I5Nm44T1M1TUR1Wk9RQms1S0JFRGUzR21SUmRyc2JzS1ZRSzh6M1ZxWnkxYWxZcmh3?oc=5",
-      "publishedAt": "2026-11-10T11:50:05.000Z",
-      "source": "Hypebot",
-      "description": "Leaked NewJeans Contract Offers Look At K-Pop's 'Dark Side' &nbsp;&nbsp; Hypebot",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "Leaked NewJeans Contract Offers Look At K-Pop's 'Dark Side' &nbsp;&nbsp; Hypebot",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRXlSU293MFdxSS1ZZ1MybF9wWFRoUUhrWExXQzl0MHJkZkRoSjM1OHpKNW40enUzZVNhbE14RUgzNjNmdHFQU3dSYS04NGNSMWx0UmxEN2I5Nm44T1M1TUR1Wk9RQms1S0JFRGUzR21SUmRyc2JzS1ZRSzh6M1ZxWnkxYWxZcmh3",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "6f992967390c",
-      "title": "Watch: RESCENE Takes 1st Win For &#8220;With&#8221; On &#8220;The Show&#8221;",
-      "url": "https://www.soompi.com/article/1885603wpp/watch-rescene-takes-1st-win-for-with-on-the-show",
-      "publishedAt": "2026-11-10T11:25:01.000Z",
-      "source": "Soompi",
-      "description": "RESCENE has won their first music show trophy for their new title track “With”! On the November 10 episode of “The Show,” the candidates for first place were P1Harmony&#8217;s “BLOW UP,” RESCENE&#8217;s “With,” and xikers&#8217;s “DIENAMITE.” RESCENE ultimately took home the win with 8,379. Congratulations to RESCENE! Watch their win and full encore below: The post Watch: RESCENE Takes 1st Win For &#8220;With&#8221; On &#8220;The Show&#8221; appeared first on Soompi .",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "RESCENE has won their first music show trophy for their new title track “With”! On the November 10 episode of “The Show,” the candidates for first place were P1Harmony&#8217;s “BLOW UP,” RESCENE&#8217;s “With,” and xikers&#8217;s “DIENAMITE.” RESCENE ultimately took home the win with 8,379. Congratulations to RESCENE! Watch their win and full encore below: The post Watch: RESCENE Takes 1st Win For &#8220;With&#8221; On &#8220;The Show&#8221; appeared first on Soompi .",
-      "articleUrl": "https://www.soompi.com/article/1885603wpp/watch-rescene-takes-1st-win-for-with-on-the-show",
-      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/10202450/rescene-the-show.jpg",
-      "social": {
-        "category": "TRENDING",
-        "headline": "WATCH: RESCENE TAKES 1ST WIN FOR \"WITH\" ON \"THE SHOW\": SOOMPI",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "TRENDING",
-          "Headline": "WATCH: RESCENE TAKES 1ST WIN FOR \"WITH\" ON \"THE SHOW\": SOOMPI",
-          "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/10202450/rescene-the-show.jpg"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "f019814e27dc",
-      "title": "RESCENE Shatters Previous 1st-Week Sales Record By Nearly 6 Times With “PULSE”",
-      "url": "https://www.soompi.com/article/1885599wpp/rescene-shatters-previous-1st-week-sales-record-by-nearly-6-times-with-pulse",
-      "publishedAt": "2026-11-10T11:07:11.000Z",
-      "source": "Soompi",
-      "description": "RESCENE has achieved a new career high with their latest release! Last week, RESCENE released their fourth mini album “PULSE.” According to Hanteo Chart, RESCENE’s newest album “PULSE” has sold a total of 602,688 copies during its first week of release (from November 3 to 9), making this their highest first-week sales yet. On its&#8230; Continue reading RESCENE Shatters Previous 1st-Week Sales Record By Nearly 6 Times With “PULSE” The post RESCENE Shatters Previous 1st-Week Sales Record By Nearly 6 Times With “PULSE” appeared first on Soompi .",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "RESCENE has achieved a new career high with their latest release! Last week, RESCENE released their fourth mini album “PULSE.” According to Hanteo Chart, RESCENE’s newest album “PULSE” has sold a total of 602,688 copies during its first week of release (from November 3 to 9), making this their highest first-week sales yet. On its&#8230; Continue reading RESCENE Shatters Previous 1st-Week Sales Record By Nearly 6 Times With “PULSE” The post RESCENE Shatters Previous 1st-Week Sales Record By Nearly 6 Times With “PULSE” appeared first on Soompi .",
-      "articleUrl": "https://www.soompi.com/article/1885599wpp/rescene-shatters-previous-1st-week-sales-record-by-nearly-6-times-with-pulse",
-      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/10200643/rescene-2026-1.jpg",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "RESCENE SHATTERS PREVIOUS 1ST-WEEK SALES RECORD BY NEARLY 6 TIMES WITH “PULSE”: SOOMPI",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "RESCENE SHATTERS PREVIOUS 1ST-WEEK SALES RECORD BY NEARLY 6 TIMES WITH “PULSE”: SOOMPI",
-          "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/10200643/rescene-2026-1.jpg"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "6bfb4ce73516",
-      "title": "KAIA makes waves in South Korea with special performance alongside K-pop group Everglow",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ0p5aHRrcnU1ZEpLcnE3Q1BIZkM2blZzeFFDd2l0OUhyWnBJZy1YZ05XVXFRa3VYVlBkYWFWS2d6WC1ZMkliX1NVM2RCcFc2MFFBbWNYNVU1d296Y2gwYTZ0MHV0aHhDZEZjbllYd2FTX1RGZ0p5RXJPU3VVaUg2aVNNMENmU0pYamdWV0Y0eEdTdUxQN21aT3h0R3pwbEE4UXY5eC1CMmhYRXhDM2NOUVY2ZUg4Zmc?oc=5",
-      "publishedAt": "2026-11-10T10:19:20.000Z",
-      "source": "DZRH",
-      "description": "KAIA makes waves in South Korea with special performance alongside K-pop group Everglow &nbsp;&nbsp; DZRH",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "KAIA makes waves in South Korea with special performance alongside K-pop group Everglow &nbsp;&nbsp; DZRH",
-      "articleUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ0p5aHRrcnU1ZEpLcnE3Q1BIZkM2blZzeFFDd2l0OUhyWnBJZy1YZ05XVXFRa3VYVlBkYWFWS2d6WC1ZMkliX1NVM2RCcFc2MFFBbWNYNVU1d296Y2gwYTZ0MHV0aHhDZEZjbllYd2FTX1RGZ0p5RXJPU3VVaUg2aVNNMENmU0pYamdWV0Y0eEdTdUxQN21aT3h0R3pwbEE4UXY5eC1CMmhYRXhDM2NOUVY2ZUg4Zmc",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "60ab0c7985c2",
-      "title": "16 Timeless K-Dramas Newly Available On Viki In Southeast Asia",
-      "url": "https://www.soompi.com/article/1884167wpp/16-timeless-k-dramas-newly-available-on-viki-in-southeast-asia",
-      "publishedAt": "2026-11-10T08:55:43.000Z",
-      "source": "Soompi",
-      "description": "Looking for new K-dramas to watch? Viki has recently released more classic K-dramas for streaming—now available in Southeast Asia! Check out the list below, and pick your next binge-watch. &#8220;He Is Psychometric&#8221; &#8220;He Is Psychometric&#8221; follows Lee Ahn (Park Jin Young), who possesses a unique psychometric ability that allows him to uncover secrets through touch.&#8230; Continue reading 16 Timeless K-Dramas Newly Available On Viki In Southeast Asia The post 16 Timeless K-Dramas Newly Available On Viki In Southeast Asia appeared first on Soompi .",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "Looking for new K-dramas to watch? Viki has recently released more classic K-dramas for streaming—now available in Southeast Asia! Check out the list below, and pick your next binge-watch. &#8220;He Is Psychometric&#8221; &#8220;He Is Psychometric&#8221; follows Lee Ahn (Park Jin Young), who possesses a unique psychometric ability that allows him to uncover secrets through touch.&#8230; Continue reading 16 Timeless K-Dramas Newly Available On Viki In Southeast Asia The post 16 Timeless K-Dramas Newly Available On Viki In Southeast Asia appeared first on Soompi .",
-      "articleUrl": "https://www.soompi.com/article/1884167wpp/16-timeless-k-dramas-newly-available-on-viki-in-southeast-asia",
-      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/10153001/October-New-KDrama-SEA.png",
-      "social": {
-        "category": "K-DRAMA NEWS",
-        "headline": "16 TIMELESS K-DRAMAS NEWLY AVAILABLE ON VIKI IN SOUTHEAST ASIA: SOOMPI",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "K-DRAMA NEWS",
-          "Headline": "16 TIMELESS K-DRAMAS NEWLY AVAILABLE ON VIKI IN SOUTHEAST ASIA: SOOMPI",
-          "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/10153001/October-New-KDrama-SEA.png"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "9c191b5c57d5",
-      "title": "K-pop girl group Blackpink’s Jennie, Jisoo sing animation soundtracks",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM1ZkNWJNSjRjUjdXRHhxTUtTYkpLcTNpV3loTlQxZW1rQTB5NXVBVkdqYzYtYjNyQnRHREJENVNaVTBuLVpMS2ZpeHh2MGI0WF9MS0hXMjFLR1hGeXQzZEdHWjdHTEltZWk0NDJXOURQV0hwWXhsamp6WFBCNlBldk1YZmtqUmIxVGFDQWhYbk5lTFpUczYzMDR2cUxWUEIyZE16NUt4REtsTUdtY3NqaEk1ejQ2R2xOU0tRTXF6UFVhWDVXandUbA?oc=5",
-      "publishedAt": "2026-11-10T08:16:00.000Z",
-      "source": "The Star",
-      "description": "K-pop girl group Blackpink’s Jennie, Jisoo sing animation soundtracks &nbsp;&nbsp; The Star",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "K-pop girl group Blackpink’s Jennie, Jisoo sing animation soundtracks &nbsp;&nbsp; The Star",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM1ZkNWJNSjRjUjdXRHhxTUtTYkpLcTNpV3loTlQxZW1rQTB5NXVBVkdqYzYtYjNyQnRHREJENVNaVTBuLVpMS2ZpeHh2MGI0WF9MS0hXMjFLR1hGeXQzZEdHWjdHTEltZWk0NDJXOURQV0hwWXhsamp6WFBCNlBldk1YZmtqUmIxVGFDQWhYbk5lTFpUczYzMDR2cUxWUEIyZE16NUt4REtsTUdtY3NqaEk1ejQ2R2xOU0tRTXF6UFVhWDVXandUbA",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "ead4636798a9",
-      "title": "Peach Riot x KPop Demon Hunters: Designs, Price, and Details | Outlook Respawn",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa1c1RnBfQlNsVEtRVkg1V0F6Y0cwTzZsZDBUVlIzSjZweDF2OHZkN241dDNiZV9ZUlFBT0tWaERHT294VW50TEl2dW1iUG5SQnE3b3VaYjVZUzZqc1F0WHJuczlENnNBanktZUY3NGtYYUM0M0NvUVdjYVlKLWZZckQ3SUE3bGExa2UtQS14UGdQM2ZxVHJSV3l4S1YyTTgwYVV1a2FUQXpuWWJzcmpJcXU0OVQ4dFd6Wk9v0gHIAUFVX3lxTE5KRWsxRldRN21YaXQ1T24xUHhXeWVsX2diSUhiR0t2aC1CZkdteDVpR2pSeWJMSmJNTTk1UWVJbXU2ME9tbkRyVlJEUnNkdUlMN2xjMHdvRFc5YmdkZzNVdHQwX1drWUk1YmVYaWUxcVBKbHhma1lpbkw3aVVzaFVOSWJ3ZE9jWmxkT0l6ZEk5X2RRTTREeXZJdDg5OGx1WnI2RFFHWFp1aF81TXFqVWdhckhybnlqZGx0bDB4dk9WYUpoc2xqdXFE?oc=5",
-      "publishedAt": "2026-11-10T08:15:00.000Z",
-      "source": "Outlook Respawn",
-      "description": "Peach Riot x KPop Demon Hunters: Designs, Price, and Details | Outlook Respawn &nbsp;&nbsp; Outlook Respawn",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "Peach Riot x KPop Demon Hunters: Designs, Price, and Details | Outlook Respawn &nbsp;&nbsp; Outlook Respawn",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa1c1RnBfQlNsVEtRVkg1V0F6Y0cwTzZsZDBUVlIzSjZweDF2OHZkN241dDNiZV9ZUlFBT0tWaERHT294VW50TEl2dW1iUG5SQnE3b3VaYjVZUzZqc1F0WHJuczlENnNBanktZUY3NGtYYUM0M0NvUVdjYVlKLWZZckQ3SUE3bGExa2UtQS14UGdQM2ZxVHJSV3l4S1YyTTgwYVV1a2FUQXpuWWJzcmpJcXU0OVQ4dFd6Wk9v0gHIAUFVX3lxTE5KRWsxRldRN21YaXQ1T24xUHhXeWVsX2diSUhiR0t2aC1CZkdteDVpR2pSeWJMSmJNTTk1UWVJbXU2ME9tbkRyVlJEUnNkdUlMN2xjMHdvRFc5YmdkZzNVdHQwX1drWUk1YmVYaWUxcVBKbHhma1lpbkw3aVVzaFVOSWJ3ZE9jWmxkT0l6ZEk5X2RRTTREeXZJdDg5OGx1WnI2RFFHWFp1aF81TXFqVWdhckhybnlqZGx0bDB4dk9WYUpoc2xqdXFE",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "e3194cac712b",
-      "title": "Four Top K-Pop Agencies Launch Joint Venture to Run Fanomenon Festival",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOWtVMVBHYnJ6SjkwSzFObnBsX3Eyb1VoUkFfUlpONHN0MzNlMDVaRnltS1pTNjR6ektSNXVDenNwMDhVUUNrYWdXY2MtOTFlbVN2S3JDOFJtSkhhNGY4UDNRNGY5VzRuQlNLVEVRYXNkZjM5X0pQUkJ4bzlRMHFtRTdpSng0MTYzdmNHMnFvYi1HV0l3a1VCOQ?oc=5",
-      "publishedAt": "2026-11-10T08:10:35.000Z",
-      "source": "Seoul Economic Daily",
-      "description": "Four Top K-Pop Agencies Launch Joint Venture to Run Fanomenon Festival &nbsp;&nbsp; Seoul Economic Daily",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "Four Top K-Pop Agencies Launch Joint Venture to Run Fanomenon Festival &nbsp;&nbsp; Seoul Economic Daily",
-      "articleUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOWtVMVBHYnJ6SjkwSzFObnBsX3Eyb1VoUkFfUlpONHN0MzNlMDVaRnltS1pTNjR6ektSNXVDenNwMDhVUUNrYWdXY2MtOTFlbVN2S3JDOFJtSkhhNGY4UDNRNGY5VzRuQlNLVEVRYXNkZjM5X0pQUkJ4bzlRMHFtRTdpSng0MTYzdmNHMnFvYi1HV0l3a1VCOQ",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "a998f65d246b",
-      "title": "STARSHIP Announces Strong Legal Action Against Malicious Posts Targeting IVE’s Jang Won Young",
-      "url": "https://www.soompi.com/article/1885526wpp/starship-announces-strong-legal-action-against-malicious-posts-targeting-ives-jang-won-young",
-      "publishedAt": "2026-11-10T08:08:22.000Z",
-      "source": "Soompi",
-      "description": "STARSHIP Entertainment has announced strong legal action against malicious posts and other acts targeting IVE’s Jang Won Young. On November 10, the agency announced that it is pursuing civil and criminal measures against those responsible for spreading false information, defamation, sexual harassment, and other violations of her rights. Read STARSHIP Entertainment’s full statement below: Hello,&#8230; Continue reading STARSHIP Announces Strong Legal Action Against Malicious Posts Targeting IVE’s Jang Won Young The post STARSHIP Announces Strong Legal Action Against Malicious Posts Targeting IVE’s Jang Won Young appeared first on Soompi .",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "STARSHIP Entertainment has announced strong legal action against malicious posts and other acts targeting IVE’s Jang Won Young. On November 10, the agency announced that it is pursuing civil and criminal measures against those responsible for spreading false information, defamation, sexual harassment, and other violations of her rights. Read STARSHIP Entertainment’s full statement below: Hello,&#8230; Continue reading STARSHIP Announces Strong Legal Action Against Malicious Posts Targeting IVE’s Jang Won Young The post STARSHIP Announces Strong Legal Action Against Malicious Posts Targeting IVE’s Jang Won Young appeared first on Soompi .",
-      "articleUrl": "https://www.soompi.com/article/1885526wpp/starship-announces-strong-legal-action-against-malicious-posts-targeting-ives-jang-won-young",
-      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/10170813/jang-won-young-2026-3.jpg",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "STARSHIP ANNOUNCES STRONG LEGAL ACTION AGAINST MALICIOUS POSTS TARGETING IVE’S JANG WON YOUNG: SOOMPI",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "STARSHIP ANNOUNCES STRONG LEGAL ACTION AGAINST MALICIOUS POSTS TARGETING IVE’S JANG WON YOUNG: SOOMPI",
-          "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/10170813/jang-won-young-2026-3.jpg"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "3ca7abb9e76d",
-      "title": "Sho Kasamatsu Challenges Lee Joon Gi And Sakaguchi Kentaro To Solve His Deadly Puzzle In “kiDnap GAME”",
-      "url": "https://www.soompi.com/article/1885515wpp/sho-kasamatsu-challenges-lee-joon-gi-and-sakaguchi-kentaro-to-solve-his-deadly-puzzle-in-kidnap-game",
-      "publishedAt": "2026-11-10T07:50:56.000Z",
-      "source": "Soompi",
-      "description": "“kiDnap GAME” has unveiled new stills ahead of its upcoming episode. “kiDnap GAME” is a thriller centered on an unprecedented kidnapping case that unfolds simultaneously across seven Asian cities: Seoul, Tokyo, Taipei, Singapore, Bangkok, Naha, and Manila. The story follows seven individuals who are each given different missions and forced into a deadly survival game,&#8230; Continue reading Sho Kasamatsu Challenges Lee Joon Gi And Sakaguchi Kentaro To Solve His Deadly Puzzle In “kiDnap GAME” The post Sho Kasamatsu Challenges Lee Joon Gi And Sakaguchi Kentaro To Solve His Deadly Puzzle In “kiDnap GAME” appeared first on Soompi .",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "“kiDnap GAME” has unveiled new stills ahead of its upcoming episode. “kiDnap GAME” is a thriller centered on an unprecedented kidnapping case that unfolds simultaneously across seven Asian cities: Seoul, Tokyo, Taipei, Singapore, Bangkok, Naha, and Manila. The story follows seven individuals who are each given different missions and forced into a deadly survival game,&#8230; Continue reading Sho Kasamatsu Challenges Lee Joon Gi And Sakaguchi Kentaro To Solve His Deadly Puzzle In “kiDnap GAME” The post Sho Kasamatsu Challenges Lee Joon Gi And Sakaguchi Kentaro To Solve His Deadly Puzzle In “kiDnap GAME” appeared first on Soompi .",
-      "articleUrl": "https://www.soompi.com/article/1885515wpp/sho-kasamatsu-challenges-lee-joon-gi-and-sakaguchi-kentaro-to-solve-his-deadly-puzzle-in-kidnap-game",
-      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/10165051/kiDnap-GAME-6-2.jpg",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "SHO KASAMATSU CHALLENGES LEE JOON GI AND SAKAGUCHI KENTARO TO SOLVE HIS DEADLY PUZZLE IN “KIDNAP…",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "SHO KASAMATSU CHALLENGES LEE JOON GI AND SAKAGUCHI KENTARO TO SOLVE HIS DEADLY PUZZLE IN “KIDNAP…",
-          "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/10165051/kiDnap-GAME-6-2.jpg"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "6c05500d10ee",
-      "title": "Watch: Bae Hyeon Seong, Cha Kang Yoon, And Park Yoon Ho Risk It All For A Dangerous Deal In “The Substitute” Teaser",
-      "url": "https://www.soompi.com/article/1885435wpp/watch-bae-hyeon-seong-cha-kang-yoon-and-park-yoon-ho-risk-it-all-for-a-dangerous-deal-in-the-substitute-teaser",
-      "publishedAt": "2026-11-10T07:18:41.000Z",
-      "source": "Soompi",
-      "description": "Upcoming series “The Substitute” has released a new teaser! “The Substitute” is a crime thriller about three young men Nam Jae Yeop (Bae Hyeon Seong), Kang Geon Tae (Cha Kang Yoon), and Joo Hee Dong (Park Yoon Ho) whose conflicting desires and personal struggles lead them toward an irreversible crime on the day of the&#8230; Continue reading Watch: Bae Hyeon Seong, Cha Kang Yoon, And Park Yoon Ho Risk It All For A Dangerous Deal In “The Substitute” Teaser The post Watch: Bae Hyeon Seong, Cha Kang Yoon, And Park Yoon Ho Risk It All For A Dangerous Deal In “The Substitute” Teaser appeared first on Soompi .",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "Upcoming series “The Substitute” has released a new teaser! “The Substitute” is a crime thriller about three young men Nam Jae Yeop (Bae Hyeon Seong), Kang Geon Tae (Cha Kang Yoon), and Joo Hee Dong (Park Yoon Ho) whose conflicting desires and personal struggles lead them toward an irreversible crime on the day of the&#8230; Continue reading Watch: Bae Hyeon Seong, Cha Kang Yoon, And Park Yoon Ho Risk It All For A Dangerous Deal In “The Substitute” Teaser The post Watch: Bae Hyeon Seong, Cha Kang Yoon, And Park Yoon Ho Risk It All For A Dangerous Deal In “The Substitute” Teaser appeared first on Soompi .",
-      "articleUrl": "https://www.soompi.com/article/1885435wpp/watch-bae-hyeon-seong-cha-kang-yoon-and-park-yoon-ho-risk-it-all-for-a-dangerous-deal-in-the-substitute-teaser",
-      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/10114818/the-substitute-1_cf0b6b.jpg",
-      "social": {
-        "category": "COMEBACK NEWS",
-        "headline": "WATCH: BAE HYEON SEONG, CHA KANG YOON, AND PARK YOON HO RISK IT ALL FOR A DANGEROUS DEAL IN “THE…",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "COMEBACK NEWS",
-          "Headline": "WATCH: BAE HYEON SEONG, CHA KANG YOON, AND PARK YOON HO RISK IT ALL FOR A DANGEROUS DEAL IN “THE…",
-          "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/10114818/the-substitute-1_cf0b6b.jpg"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "5b522c7be62b",
-      "title": "Choo Young Woo And Kim So Hyun Receive Shocking News At The Hospital In “Between Steps” Finale",
-      "url": "https://www.soompi.com/article/1885487wpp/choo-young-woo-and-kim-so-hyun-receive-shocking-news-at-the-hospital-in-between-steps-finale",
-      "publishedAt": "2026-11-10T07:01:58.000Z",
-      "source": "Soompi",
-      "description": "“Between Steps” has unveiled new stills ahead of its upcoming episode! “Between Steps” is a romance drama directed by the late Ahn Pan Seok, who helmed the hit dramas “Something in the Rain,” “One Spring Night,” and “The Midnight Romance in Hagwon.” The drama tells the love story of Park Min Jae (Choo Young Woo),&#8230; Continue reading Choo Young Woo And Kim So Hyun Receive Shocking News At The Hospital In “Between Steps” Finale The post Choo Young Woo And Kim So Hyun Receive Shocking News At The Hospital In “Between Steps” Finale appeared first on Soompi .",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "“Between Steps” has unveiled new stills ahead of its upcoming episode! “Between Steps” is a romance drama directed by the late Ahn Pan Seok, who helmed the hit dramas “Something in the Rain,” “One Spring Night,” and “The Midnight Romance in Hagwon.” The drama tells the love story of Park Min Jae (Choo Young Woo),&#8230; Continue reading Choo Young Woo And Kim So Hyun Receive Shocking News At The Hospital In “Between Steps” Finale The post Choo Young Woo And Kim So Hyun Receive Shocking News At The Hospital In “Between Steps” Finale appeared first on Soompi .",
-      "articleUrl": "https://www.soompi.com/article/1885487wpp/choo-young-woo-and-kim-so-hyun-receive-shocking-news-at-the-hospital-in-between-steps-finale",
-      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/10152120/between-steps_bef670.jpg",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "CHOO YOUNG WOO AND KIM SO HYUN RECEIVE SHOCKING NEWS AT THE HOSPITAL IN “BETWEEN STEPS” FINALE: SOOMPI",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "CHOO YOUNG WOO AND KIM SO HYUN RECEIVE SHOCKING NEWS AT THE HOSPITAL IN “BETWEEN STEPS” FINALE: SOOMPI",
-          "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/10152120/between-steps_bef670.jpg"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "cdf02ee086c5",
-      "title": "Watch: Jang Nara Confidently Draws In Clients In &#8220;Good Partner 2&#8221; Teaser",
-      "url": "https://www.soompi.com/article/1885462wpp/watch-jang-nara-confidently-draws-in-clients-in-good-partner-2-teaser",
-      "publishedAt": "2026-11-10T05:59:30.000Z",
-      "source": "Soompi",
-      "description": "SBS&#8217;s &#8220;Good Partner 2&#8221; has unveiled a new teaser! Following the success of Season 1, the new season of “Good Partner” depicts the cathartic divorce show that unfolds as Cha Eun Kyung (Jang Nara), a star lawyer for whom divorce is her calling, and Kang Hye Sung (Kim Hye Yoon), an experienced lawyer who is&#8230; Continue reading Watch: Jang Nara Confidently Draws In Clients In &#8220;Good Partner 2&#8221; Teaser The post Watch: Jang Nara Confidently Draws In Clients In &#8220;Good Partner 2&#8221; Teaser appeared first on Soompi .",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "SBS&#8217;s &#8220;Good Partner 2&#8221; has unveiled a new teaser! Following the success of Season 1, the new season of “Good Partner” depicts the cathartic divorce show that unfolds as Cha Eun Kyung (Jang Nara), a star lawyer for whom divorce is her calling, and Kang Hye Sung (Kim Hye Yoon), an experienced lawyer who is&#8230; Continue reading Watch: Jang Nara Confidently Draws In Clients In &#8220;Good Partner 2&#8221; Teaser The post Watch: Jang Nara Confidently Draws In Clients In &#8220;Good Partner 2&#8221; Teaser appeared first on Soompi .",
-      "articleUrl": "https://www.soompi.com/article/1885462wpp/watch-jang-nara-confidently-draws-in-clients-in-good-partner-2-teaser",
-      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/10143722/good-partner-2-.png",
-      "social": {
-        "category": "COMEBACK NEWS",
-        "headline": "WATCH: JANG NARA CONFIDENTLY DRAWS IN CLIENTS IN \"GOOD PARTNER 2\" TEASER: SOOMPI",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "COMEBACK NEWS",
-          "Headline": "WATCH: JANG NARA CONFIDENTLY DRAWS IN CLIENTS IN \"GOOD PARTNER 2\" TEASER: SOOMPI",
-          "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/10143722/good-partner-2-.png"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "253e8525bb98",
-      "title": "K-pop boy band BigBang halt Bangkok concert midway due to heavy rain",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOREhfamNYdnUyQnVza095RDJBNFU3X0hsRUlMTHJsQlRBLXBEZ0E4RjM2b09rXzR3Vm5hQ2pLbk0wVXdJRHBSRnI3dFhtcjZhX05TYnZpbVVXNjVRbTdzTTBTd0xrWkRSYlFrNG42cDVZU2stYjNWNmlSY0NiRXhuMVVYTTF3elBUQUlMU2EyZDBtWjVTT3Z5aHJ2ck40WnFJRllTTGplZHVsNDJwbW8zcWV2YzVLZ1g1VzFPYW1Zd0pmanNjTHJjbjRn?oc=5",
-      "publishedAt": "2026-11-10T04:05:00.000Z",
-      "source": "The Star",
-      "description": "K-pop boy band BigBang halt Bangkok concert midway due to heavy rain &nbsp;&nbsp; The Star",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "K-pop boy band BigBang halt Bangkok concert midway due to heavy rain &nbsp;&nbsp; The Star",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOREhfamNYdnUyQnVza095RDJBNFU3X0hsRUlMTHJsQlRBLXBEZ0E4RjM2b09rXzR3Vm5hQ2pLbk0wVXdJRHBSRnI3dFhtcjZhX05TYnZpbVVXNjVRbTdzTTBTd0xrWkRSYlFrNG42cDVZU2stYjNWNmlSY0NiRXhuMVVYTTF3elBUQUlMU2EyZDBtWjVTT3Z5aHJ2ck40WnFJRllTTGplZHVsNDJwbW8zcWV2YzVLZ1g1VzFPYW1Zd0pmanNjTHJjbjRn",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "CONCERT NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "CONCERT NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "a58a29527919",
-      "title": "From SUGA and IRENE to S.COUPS... K-POP Stars Celebrate Samsung Lions' First Championship in 12 Years",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wSDNCYXNpaXBsNDZSUkgwcWhPbDR4T0Y1LU1NeUpyUWpkbDZlUUg5bDdLcS1uVlpydzRaaGcxa3dBQmlBTHF2ckhvZ3pGLTBVcThBalZ3?oc=5",
-      "publishedAt": "2026-11-10T04:03:21.000Z",
-      "source": "Hanteo News",
-      "description": "From SUGA and IRENE to S.COUPS... K-POP Stars Celebrate Samsung Lions' First Championship in 12 Years &nbsp;&nbsp; Hanteo News",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "From SUGA and IRENE to S.COUPS... K-POP Stars Celebrate Samsung Lions' First Championship in 12 Years &nbsp;&nbsp; Hanteo News",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wSDNCYXNpaXBsNDZSUkgwcWhPbDR4T0Y1LU1NeUpyUWpkbDZlUUg5bDdLcS1uVlpydzRaaGcxa3dBQmlBTHF2ckhvZ3pGLTBVcThBalZ3",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "832a7a1caa23",
-      "title": "K-pop glam marries Hollywood nostalgia in Press Play, Lisa’s new solo EP",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV1dfQ3ZGZmpRZG5Xb1F5UHZFeGdBZEpFTUFDZGx1NWx6YndhRjNpaUNac0Y5Z1hWVkstcU1lTS1VY2JnYkl6Ty05bXZ5R0cwd0pJcUpqWDdSRmY3U3gxNjB2aXA5X3d2VlV4Nk5TVmh3dGkwaG9HZEpOMlVlZ29Qd2FxWVVMeVIzdXRQYXdqeGFYaHN0UzZNM3BHTWVVZy1SRTBnZkFiT1FjT3RFSW5TNEh3?oc=5",
-      "publishedAt": "2026-11-10T03:30:00.000Z",
-      "source": "t2ONLINE",
-      "description": "K-pop glam marries Hollywood nostalgia in Press Play, Lisa’s new solo EP &nbsp;&nbsp; t2ONLINE",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "K-pop glam marries Hollywood nostalgia in Press Play, Lisa’s new solo EP &nbsp;&nbsp; t2ONLINE",
-      "articleUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV1dfQ3ZGZmpRZG5Xb1F5UHZFeGdBZEpFTUFDZGx1NWx6YndhRjNpaUNac0Y5Z1hWVkstcU1lTS1VY2JnYkl6Ty05bXZ5R0cwd0pJcUpqWDdSRmY3U3gxNjB2aXA5X3d2VlV4Nk5TVmh3dGkwaG9HZEpOMlVlZ29Qd2FxWVVMeVIzdXRQYXdqeGFYaHN0UzZNM3BHTWVVZy1SRTBnZkFiT1FjT3RFSW5TNEh3",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "b9b3d3e3d8b1",
-      "title": "K-Pop Concert Film ‘Twice: This Is For… You’ From Live Nation Studios Acquired by Bleecker Street’s Crosswalk and Universal Pictures International",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53NHVPdm12dzBVb2ZCUnlrTThINGdJcFpuUjNlUXZuRFR3TGR6TEUtY0kwckhOZnBWQVNDQ1J4WW9hNkZZZnhNOWpyV1dNYndhR2F5bjNXYnliRXFhSDNDZGNlMkxfbVU?oc=5",
-      "publishedAt": "2026-11-10T00:59:15.000Z",
-      "source": "IMDb",
-      "description": "K-Pop Concert Film ‘Twice: This Is For… You’ From Live Nation Studios Acquired by Bleecker Street’s Crosswalk and Universal Pictures International &nbsp;&nbsp; IMDb",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "K-Pop Concert Film ‘Twice: This Is For… You’ From Live Nation Studios Acquired by Bleecker Street’s Crosswalk and Universal Pictures International &nbsp;&nbsp; IMDb",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53NHVPdm12dzBVb2ZCUnlrTThINGdJcFpuUjNlUXZuRFR3TGR6TEUtY0kwckhOZnBWQVNDQ1J4WW9hNkZZZnhNOWpyV1dNYndhR2F5bjNXYnliRXFhSDNDZGNlMkxfbVU",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
         "category": "CONCERT NEWS",
