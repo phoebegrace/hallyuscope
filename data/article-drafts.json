@@ -1,8 +1,73 @@
 {
-  "updatedAt": "2026-11-14T06:34:29.494Z",
+  "updatedAt": "2026-11-14T14:14:00.040Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
+    {
+      "id": "54e2f37f46c5",
+      "createdAt": "2026-11-14T14:13:59.990Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-14T06:44:32.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "riize-and-ejae-join-100th-macy-s-thanksgiving-day-parade-lineup",
+      "source": {
+        "publisher": "Soompi",
+        "title": "RIIZE And EJAE To Perform At 100th Macy&#8217;s Thanksgiving Day Parade In New York",
+        "url": "https://www.soompi.com/article/1886905wpp/riize-and-ejae-to-perform-at-100th-macys-thanksgiving-day-parade-in-new-york"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1886905wpp/riize-and-ejae-to-perform-at-100th-macys-thanksgiving-day-parade-in-new-york",
+          "chars": 672,
+          "depth": 1
+        },
+        {
+          "publisher": "Nbc",
+          "url": "https://www.nbc.com/nbc-insider/2026-macys-thanksgiving-day-parade-everything-to-know",
+          "chars": 6452,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [
+          "The parade takes place in 2026."
+        ],
+        "checkedAt": "2026-11-14T14:13:59.989Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/54e2f37f46c5.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/14154228/RIIZE-EJAE.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "RIIZE and EJAE Join 100th Macy's Thanksgiving Day Parade Lineup",
+      "dek": "The K-pop group and singer will perform at the New York parade on November 26, alongside artists including Queen Latifah and Wyclef Jean.",
+      "body": [
+        "RIIZE and EJAE are set to perform at the 100th Macy's Thanksgiving Day Parade in New York City on November 26, Soompi reports.",
+        "The two acts were named in the parade lineup announced on November 13 local time. Other performers and guests include Queen Latifah, Wyclef Jean, Jimmy Fallon and The Roots, Megan Moroney, Teddy Swims, Natasha Bedingfield, JoJo and Keke Palmer. DEVO, Icona Pop, Smash Mouth and Baha Men are also among the announced names.",
+        "The parade begins at 8:30 a.m. on Thanksgiving Day. NBC will broadcast it at 8:30 a.m. in all time zones, with a simulcast on Peacock and a live broadcast on Telemundo. An encore will air on NBC at 2 p.m. ET and PT.",
+        "Savannah Guthrie, Hoda Kotb and Al Roker will host the broadcast. The 2.5-mile route ends at Macy's flagship store in Herald Square.",
+        "This year's event marks the parade's 100th edition. It began in 1924 and was not held from 1942 through 1944 during World War II. NBC says more than 11,000 volunteers and participants will take part in this year's celebration."
+      ],
+      "socialCaption": "RIIZE and EJAE are headed to the 100th Macy's Thanksgiving Day Parade. Read on HallyuScope for the lineup and viewing details.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#RIIZE",
+        "#EJAE",
+        "#MacysParade",
+        "#ThanksgivingDayParade"
+      ],
+      "seoDescription": "RIIZE and EJAE will perform at the 100th Macy's Thanksgiving Day Parade in New York. Find out who else is on the lineup and how to watch.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "218374f73feb",
       "createdAt": "2026-11-14T06:34:19.320Z",
