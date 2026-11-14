@@ -1,12 +1,132 @@
 {
-  "updatedAt": "2026-11-14T14:13:46.977Z",
+  "updatedAt": "2026-11-14T19:13:58.685Z",
   "note": "Additive social review queue. Existing live site data files are unchanged.",
   "items": [
+    {
+      "id": "14accb13cf1c",
+      "title": "‘KPop Demon Hunters' is going on tour. Here's when it's coming to Chicago",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeXE2bEVUbzU1ZTJ6ZnJCZVlwbXlyUXI2ekl2YlExSEZDSTFRdTYySnBYdllGY0ZiVHQwaXlzX0R1ZFJCY0dwNzE2NlVyOHRmU0FGcU1SVTVVenJZdW94bk9NXy12d1NBM3pUN2ZoUnMyZUhWQ0RHQWRnangzd25Vb0tFRFlXTGQ1REh0RFR2ZzFuX0dOSTZwSUJJZFNlV2VJWTJGQk1vNkJnRmdZQ0ZRVlhPX0pRd9IBvgFBVV95cUxOR2RqMjFzRWhEX2VmaEM2a1hqVzZocF95SG1pQVRENXp4dWZTRENhMk10cXJaQ0xNUHY1cHJnNVN3dGlpMG5Pcl95UkVPakV0M2RWTlRfR3gySExpamRqY3BwbDZZY1VJR1k5QUVONF93Yi1uRjk1enNsTURxVWZidkRiU25sQzl3eUQzZGQ1dkl4RWtGUVNQcXllNFJXQnFXNzhIc1R5cFQ4N2J5OW50cnpkenNqMEd5a1Vpek9n?oc=5",
+      "publishedAt": "2026-11-14T18:38:31.000Z",
+      "source": "NBC 5 Chicago",
+      "description": "‘KPop Demon Hunters' is going on tour. Here's when it's coming to Chicago &nbsp;&nbsp; NBC 5 Chicago",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "‘KPop Demon Hunters' is going on tour. Here's when it's coming to Chicago &nbsp;&nbsp; NBC 5 Chicago",
+      "articleUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeXE2bEVUbzU1ZTJ6ZnJCZVlwbXlyUXI2ekl2YlExSEZDSTFRdTYySnBYdllGY0ZiVHQwaXlzX0R1ZFJCY0dwNzE2NlVyOHRmU0FGcU1SVTVVenJZdW94bk9NXy12d1NBM3pUN2ZoUnMyZUhWQ0RHQWRnangzd25Vb0tFRFlXTGQ1REh0RFR2ZzFuX0dOSTZwSUJJZFNlV2VJWTJGQk1vNkJnRmdZQ0ZRVlhPX0pRd9IBvgFBVV95cUxOR2RqMjFzRWhEX2VmaEM2a1hqVzZocF95SG1pQVRENXp4dWZTRENhMk10cXJaQ0xNUHY1cHJnNVN3dGlpMG5Pcl95UkVPakV0M2RWTlRfR3gySExpamRqY3BwbDZZY1VJR1k5QUVONF93Yi1uRjk1enNsTURxVWZidkRiU25sQzl3eUQzZGQ1dkl4RWtGUVNQcXllNFJXQnFXNzhIc1R5cFQ4N2J5OW50cnpkenNqMEd5a1Vpek9n",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "CONCERT NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "CONCERT NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "c84150536fae",
+      "title": "Netflix Confirms Massive New KPop Demon Hunters Event for 2027",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9aZTc5bHJlMndCZmwzSXdLWE9hY0FaYmZRZnU1Q05xUGkzVERINE9Jd3ZURzUwcGxUV3pvRVg0ZEg5RXlNY0M3LVFOVXBwdTgwREV2R2tYVzNaQzB1Q2J5dVp5aFJXNV85RzYyQWxHdGdHcXdOYjFrbHZR?oc=5",
+      "publishedAt": "2026-11-14T16:21:49.000Z",
+      "source": "Comic Book Resources",
+      "description": "Netflix Confirms Massive New KPop Demon Hunters Event for 2027 &nbsp;&nbsp; Comic Book Resources",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "Netflix Confirms Massive New KPop Demon Hunters Event for 2027 &nbsp;&nbsp; Comic Book Resources",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9aZTc5bHJlMndCZmwzSXdLWE9hY0FaYmZRZnU1Q05xUGkzVERINE9Jd3ZURzUwcGxUV3pvRVg0ZEg5RXlNY0M3LVFOVXBwdTgwREV2R2tYVzNaQzB1Q2J5dVp5aFJXNV85RzYyQWxHdGdHcXdOYjFrbHZR",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "1b64fb0dc802",
+      "title": "Buried Treasure: NCT Dream – Pressure",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBsdXFRcXA2cGNTdWRXcWVkbnR4ZGFsRGw3N2hQbXh6R3pJY0E0TjRQYWhFU1VOeERqYTc2YTJ3empNcGo4ZDlnZDNnRHM5RHZMZ1N1bThVczlXOTczYi1HSFRQUzRMTkNBRHYxT3Q2anNhb1R1TWRydXBn?oc=5",
+      "publishedAt": "2026-11-14T15:37:58.000Z",
+      "source": "https://thebiaslist.com/",
+      "description": "Buried Treasure: NCT Dream – Pressure &nbsp;&nbsp; https://thebiaslist.com/",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "Buried Treasure: NCT Dream – Pressure &nbsp;&nbsp; https://thebiaslist.com/",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBsdXFRcXA2cGNTdWRXcWVkbnR4ZGFsRGw3N2hQbXh6R3pJY0E0TjRQYWhFU1VOeERqYTc2YTJ3empNcGo4ZDlnZDNnRHM5RHZMZ1N1bThVczlXOTczYi1HSFRQUzRMTkNBRHYxT3Q2anNhb1R1TWRydXBn",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "d3727e4d8658",
+      "title": "Winners Of Melon Music Awards 2026 &#8211; DAY 1",
+      "url": "https://www.soompi.com/article/1886965wpp/winners-of-melon-music-awards-2026-day-1",
+      "publishedAt": "2026-11-14T15:21:08.000Z",
+      "source": "Soompi",
+      "description": "This year&#8217;s Melon Music Awards (MMA) has revealed the first set of winners! The first day of MMA 2026 was held at Gocheok Sky Dome on November 14. Two of the five Daesang (Grand Prize) winners were announced, with Album of the Year going to BTS&#8217;s &#8220;ARIRANG&#8221; and Global-K Artist of the Year going to&#8230; Continue reading Winners Of Melon Music Awards 2026 &#8211; DAY 1 The post Winners Of Melon Music Awards 2026 &#8211; DAY 1 appeared first on Soompi .",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "This year&#8217;s Melon Music Awards (MMA) has revealed the first set of winners! The first day of MMA 2026 was held at Gocheok Sky Dome on November 14. Two of the five Daesang (Grand Prize) winners were announced, with Album of the Year going to BTS&#8217;s &#8220;ARIRANG&#8221; and Global-K Artist of the Year going to&#8230; Continue reading Winners Of Melon Music Awards 2026 &#8211; DAY 1 The post Winners Of Melon Music Awards 2026 &#8211; DAY 1 appeared first on Soompi .",
+      "articleUrl": "https://www.soompi.com/article/1886965wpp/winners-of-melon-music-awards-2026-day-1",
+      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/15002022/mma_a6158e.jpg",
+      "social": {
+        "category": "TRENDING",
+        "headline": "WINNERS OF MELON MUSIC AWARDS 2026",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "TRENDING",
+          "Headline": "WINNERS OF MELON MUSIC AWARDS 2026",
+          "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/15002022/mma_a6158e.jpg"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "2c7f89fd87ee",
+      "title": "Watch: Performances From Melon Music Awards 2026 &#8211; DAY 1",
+      "url": "https://www.soompi.com/article/1886966wpp/watch-performances-from-melon-music-awards-2026-day-1",
+      "publishedAt": "2026-11-14T15:06:51.000Z",
+      "source": "Soompi",
+      "description": "Artists have taken to the stage for this year&#8217;s Melon Music Awards (MMA)! Held at Gocheok Sky Dome, the first day of MMA 2026 on November 14 featured performances by Dragon Pony, TUIDE, AEN, IDID, Hearts2Hearts, HANA, RESCENE, TWS, Yena, RIIZE, I.O.I, aespa, ATEEZ, and NCT DREAM. Check out videos of the performances below: Dragon&#8230; Continue reading Watch: Performances From Melon Music Awards 2026 &#8211; DAY 1 The post Watch: Performances From Melon Music Awards 2026 &#8211; DAY 1 appeared first on Soompi .",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "Artists have taken to the stage for this year&#8217;s Melon Music Awards (MMA)! Held at Gocheok Sky Dome, the first day of MMA 2026 on November 14 featured performances by Dragon Pony, TUIDE, AEN, IDID, Hearts2Hearts, HANA, RESCENE, TWS, Yena, RIIZE, I.O.I, aespa, ATEEZ, and NCT DREAM. Check out videos of the performances below: Dragon&#8230; Continue reading Watch: Performances From Melon Music Awards 2026 &#8211; DAY 1 The post Watch: Performances From Melon Music Awards 2026 &#8211; DAY 1 appeared first on Soompi .",
+      "articleUrl": "https://www.soompi.com/article/1886966wpp/watch-performances-from-melon-music-awards-2026-day-1",
+      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/15000731/mma_40275e.jpg",
+      "social": {
+        "category": "TRENDING",
+        "headline": "WATCH: PERFORMANCES FROM MELON MUSIC AWARDS 2026",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "TRENDING",
+          "Headline": "WATCH: PERFORMANCES FROM MELON MUSIC AWARDS 2026",
+          "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/15000731/mma_40275e.jpg"
+        },
+        "canvaDesignId": null
+      }
+    },
     {
       "id": "7614c34465f1",
       "title": "TWICE's Nayeon Has a New Identity in \"NA-sty\" — But Who Is the \"BABY ANGEL\" Taking Over the World?",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTVZJUFlBTkVRdldZdml1X2s0NUczWDJ3Q1dWNDI3N1dKN3J6anZ4bTNzMnNabVYyRGFBQkZxcFNCUENfN2tWQm1zaHFmcGVjRG5IX29WOGh2WEFib1dMQjFiUWE2U0NDSlBzY1NEbVI1RFp4WXFzVWJHWEpwYXlXOXF1c3NGQVV4WndDYk5oZy1qZDlneUh2d3JteGlaUjk5VUowQk9xTW8wVk5mNThsRjhSTjVFZnNGOE1vS1Qtb2xsdw?oc=5",
-      "publishedAt": "2026-11-14T12:00:20.000Z",
+      "publishedAt": "2026-11-14T12:03:22.000Z",
       "source": "Dojeon Media",
       "description": "TWICE's Nayeon Has a New Identity in \"NA-sty\" — But Who Is the \"BABY ANGEL\" Taking Over the World? &nbsp;&nbsp; Dojeon Media",
       "sourceClass": "publisher",
@@ -75,6 +195,30 @@
       }
     },
     {
+      "id": "b9e5f7158f21",
+      "title": "uSMART Securities Singapore Marks Third Branch Opening in Bugis with Lion Dance and K-pop",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTAyVnplbzJjRkpPaGwxdi1xa2tHaHBPWEo5aWFHYzh2dU0xVFdrT3JlZmNOdGNmaC1UVk9waXVROFlNZUNfUnFsSElPUl9HU2xkd1dpc2NFcVh1Z2QxLWo0ZUs1OHo2VElPbHFMS2R3UmFyOGFrQTFKVGk2cW9FbkM4bktWWW1vMTdydVNRUmg4WEVRejA1S00yZjZqd0RwTnNGRlpVZWYwUEFvNW92UWtGa1gwRWM?oc=5",
+      "publishedAt": "2026-11-14T10:13:43.000Z",
+      "source": "Macau Business",
+      "description": "uSMART Securities Singapore Marks Third Branch Opening in Bugis with Lion Dance and K-pop &nbsp;&nbsp; Macau Business",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "uSMART Securities Singapore Marks Third Branch Opening in Bugis with Lion Dance and K-pop &nbsp;&nbsp; Macau Business",
+      "articleUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTAyVnplbzJjRkpPaGwxdi1xa2tHaHBPWEo5aWFHYzh2dU0xVFdrT3JlZmNOdGNmaC1UVk9waXVROFlNZUNfUnFsSElPUl9HU2xkd1dpc2NFcVh1Z2QxLWo0ZUs1OHo2VElPbHFMS2R3UmFyOGFrQTFKVGk2cW9FbkM4bktWWW1vMTdydVNRUmg4WEVRejA1S00yZjZqd0RwTnNGRlpVZWYwUEFvNW92UWtGa1gwRWM",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
       "id": "40593263775b",
       "title": "Costumes, K-pop and tradition: Eurovision Asia sparks big dreams among contestants",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04OXEyZFh1U3BueTJNeElScmVUMGhQbVVYRldZQ0luVmlnTlhVU2JLQWdfbWpMQlRtMjBlc1dldWJBVlBuN1Z5aWtYeUlfSUNCWFN6dnVwajN4X1EwdURlUFdn?oc=5",
@@ -92,30 +236,6 @@
         "status": "pending_review",
         "canvaFields": {
           "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "bbb3829dd39d",
-      "title": "uSMART Securities Singapore Marks Third Branch Opening in Bugis with Lion Dance and K-pop",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbVNyOWdKWW9INkd5b1FJRkhvS19QM3k2VDhQSHRvN3V0bm1ZUXA3ZW9ib3lVclZhX3JGcnc1aElJVmlFRUx0WE9DTmktcXhPNkdYNlVXdUVjZ2pJVUlyelFKaS0tRW56a3pOeEVUa0thejJBUndTeHd3UkJwVjk2ZjhGZERYUUtXR0s1NGdQd09jOVFmYmlKWlA2SWJVQ3NDbU14MmxuVUEwV1JTWUljemg3UnRCamRuclp1cG1BRi1sb3BEbDl4d3BOcUtoU0ZZSHRnYnRNQlV6RVhzb2dPaE52SEwwZE9lVERrc0k4U05CX1nSAfgBQVVfeXFMT0pPdkVUQTJHRUdHQTd5cktEaGgtY0hISHpzQ0pmc1FFWE5USTZNXzNGMmhDakF3QUR6c3NpUFIxNW84OGgtQ0g1Rm14cEZUZFMxanRXWDUwVjVYTFBYSVUzdl9UdlJBWHYybVpnX0FUMFJjUlJPczMtY1ljSnJFUFN5ZHZJREQyQjZXYld4NWlBN3pjbm16ZGc2WTlTQVVnS1cyOG9fTG1ZT0xfWjVQWnZvWnE4OHlSeFJuOTJqUFpTdXhtX1oyQWtIMFBLTnhjRWtQNHI4ejM0Wk5mMmQ5VF9va18xdkdYYVVuRVozM3pVZ1RwakhNOEw?oc=5",
-      "publishedAt": "2026-11-14T09:58:43.000Z",
-      "source": "The Manila Times",
-      "description": "uSMART Securities Singapore Marks Third Branch Opening in Bugis with Lion Dance and K-pop &nbsp;&nbsp; The Manila Times",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "uSMART Securities Singapore Marks Third Branch Opening in Bugis with Lion Dance and K-pop &nbsp;&nbsp; The Manila Times",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbVNyOWdKWW9INkd5b1FJRkhvS19QM3k2VDhQSHRvN3V0bm1ZUXA3ZW9ib3lVclZhX3JGcnc1aElJVmlFRUx0WE9DTmktcXhPNkdYNlVXdUVjZ2pJVUlyelFKaS0tRW56a3pOeEVUa0thejJBUndTeHd3UkJwVjk2ZjhGZERYUUtXR0s1NGdQd09jOVFmYmlKWlA2SWJVQ3NDbU14MmxuVUEwV1JTWUljemg3UnRCamRuclp1cG1BRi1sb3BEbDl4d3BOcUtoU0ZZSHRnYnRNQlV6RVhzb2dPaE52SEwwZE9lVERrc0k4U05CX1nSAfgBQVVfeXFMT0pPdkVUQTJHRUdHQTd5cktEaGgtY0hISHpzQ0pmc1FFWE5USTZNXzNGMmhDakF3QUR6c3NpUFIxNW84OGgtQ0g1Rm14cEZUZFMxanRXWDUwVjVYTFBYSVUzdl9UdlJBWHYybVpnX0FUMFJjUlJPczMtY1ljSnJFUFN5ZHZJREQyQjZXYld4NWlBN3pjbm16ZGc2WTlTQVVnS1cyOG9fTG1ZT0xfWjVQWnZvWnE4OHlSeFJuOTJqUFpTdXhtX1oyQWtIMFBLTnhjRWtQNHI4ejM0Wk5mMmQ5VF9va18xdkdYYVVuRVozM3pVZ1RwakhNOEw",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "CONCERT NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "CONCERT NEWS",
           "Headline": "GOOGLE NEWS",
           "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
@@ -171,16 +291,40 @@
       }
     },
     {
-      "id": "e60fd4064b15",
-      "title": "SINO'NG EXCITED MAKITA SI NABONGS?! Fans gather at the CHAGEE flagship store in Taguig City, hoping to catch a glimpse of TWICE member Nayeon. The K-pop star is set to hold a fan meet on Saturday, November 14. | via Anna Cerezo, ABS-CBN New",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNT3RIVjFjRGJZeUNnaFlPOWFwUWlZUzh1dHcyR1RXLURvNy1EYzl1M0dLSmxOQVFicENrLVh1RHdBUXlyaDlQWUFZdnZjbHRQQmk1LTdaWGQ5cG1tampLV2ZxcWRmZ2FZZ3JnTmUxTWFZdWJWdDRDUXIxY25DMHJGeC1QN25SSl9ZLUpld2xGLWdRRGNwQVEzQmRfblA5WV82VjVpTEhLMk9qSENSMW5uTXpoSlo5LVQ1VV84ZmV1MFFYZi1JR2VzaUZKWWtYTjdFRXEybEtmcw?oc=5",
-      "publishedAt": "2026-11-14T08:54:57.000Z",
-      "source": "Facebook",
-      "description": "SINO'NG EXCITED MAKITA SI NABONGS?! Fans gather at the CHAGEE flagship store in Taguig City, hoping to catch a glimpse of TWICE member Nayeon. The K-pop star is set to hold a fan meet on Saturday, November 14. | via Anna Cerezo, ABS-CBN New &nbsp;&nbsp; Facebook",
+      "id": "daa82139a15f",
+      "title": "KPop Demon Hunters Golden World Tour Announces Over 150 Shows for 2027 and 2028",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcUhjOTR5RmpqYXZ2MzU5OG14ZW4xR0xvSEZwQ2pWSjF6T3BaSFBBN3pwLUhSNF8zanA1R1pPbFQ3UGc1WXN3NmJhWEJuZXRpSktGbFhEX0lDbVN0WXdaOGh2V25admlyQnpGbm9rQXl0VF9qeUIzWlc1U28xOFZwWFcxQWVKbk9MWDF1dDhWRjVYM2k1SWw1Z25HblExZjZ5XzJVRS1seWVPeXN1eVlIYVpsUkZpd2NkMUxn?oc=5",
+      "publishedAt": "2026-11-14T08:57:13.000Z",
+      "source": "Rockum",
+      "description": "KPop Demon Hunters Golden World Tour Announces Over 150 Shows for 2027 and 2028 &nbsp;&nbsp; Rockum",
       "sourceClass": "publisher",
       "confidence": "secondary",
-      "sourceSummary": "SINO'NG EXCITED MAKITA SI NABONGS?! Fans gather at the CHAGEE flagship store in Taguig City, hoping to catch a glimpse of TWICE member Nayeon. The K-pop star is set to hold a fan meet on Saturday, November 14. | via Anna Cerezo, ABS-CBN New &nbsp;&nbsp; Facebook",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNT3RIVjFjRGJZeUNnaFlPOWFwUWlZUzh1dHcyR1RXLURvNy1EYzl1M0dLSmxOQVFicENrLVh1RHdBUXlyaDlQWUFZdnZjbHRQQmk1LTdaWGQ5cG1tampLV2ZxcWRmZ2FZZ3JnTmUxTWFZdWJWdDRDUXIxY25DMHJGeC1QN25SSl9ZLUpld2xGLWdRRGNwQVEzQmRfblA5WV82VjVpTEhLMk9qSENSMW5uTXpoSlo5LVQ1VV84ZmV1MFFYZi1JR2VzaUZKWWtYTjdFRXEybEtmcw",
+      "sourceSummary": "KPop Demon Hunters Golden World Tour Announces Over 150 Shows for 2027 and 2028 &nbsp;&nbsp; Rockum",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcUhjOTR5RmpqYXZ2MzU5OG14ZW4xR0xvSEZwQ2pWSjF6T3BaSFBBN3pwLUhSNF8zanA1R1pPbFQ3UGc1WXN3NmJhWEJuZXRpSktGbFhEX0lDbVN0WXdaOGh2V25admlyQnpGbm9rQXl0VF9qeUIzWlc1U28xOFZwWFcxQWVKbk9MWDF1dDhWRjVYM2k1SWw1Z25HblExZjZ5XzJVRS1seWVPeXN1eVlIYVpsUkZpd2NkMUxn",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "CONCERT NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "CONCERT NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "de72c49d1e66",
+      "title": "K-pop and warrior suits: Asia hopefuls seek Eurovision glory - ABS-CBN",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLVpOQjNTMkhXUjFTVXdBLWg4X1JicXlXU1Niajk4OEhuTHA2QUdEZFcyR1FmTlVPcDQzVjExZ1AxNnNnOE0yLWNUSl80eGhsWnM0bHp3RUE1N2RGLWhQamNla1dtbUdybHNQbzRRY2x0amw0SVBVc3ZXQkh2R1VySkhMQkpxQ0o2Yl9TVGhhcGl6Ni05ajdnM25paHBUdl9VQmxFNW1aYVFZRzQwcjR4d0x2UFF2ZV81NXNoLVBQQnduUGJPTlZr?oc=5",
+      "publishedAt": "2026-11-14T08:01:15.000Z",
+      "source": "ABS-CBN",
+      "description": "K-pop and warrior suits: Asia hopefuls seek Eurovision glory &nbsp;&nbsp; ABS-CBN",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "K-pop and warrior suits: Asia hopefuls seek Eurovision glory &nbsp;&nbsp; ABS-CBN",
+      "articleUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLVpOQjNTMkhXUjFTVXdBLWg4X1JicXlXU1Niajk4OEhuTHA2QUdEZFcyR1FmTlVPcDQzVjExZ1AxNnNnOE0yLWNUSl80eGhsWnM0bHp3RUE1N2RGLWhQamNla1dtbUdybHNQbzRRY2x0amw0SVBVc3ZXQkh2R1VySkhMQkpxQ0o2Yl9TVGhhcGl6Ni05ajdnM25paHBUdl9VQmxFNW1aYVFZRzQwcjR4d0x2UFF2ZV81NXNoLVBQQnduUGJPTlZr",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
         "category": "HALLYU NEWS",
@@ -318,7 +462,7 @@
       "id": "585b988f6d32",
       "title": "G-Dragon Enters K-Beauty: Inside His New Beauty Brand Teaser",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZllXbC0tWXU2S2pXVXgzTi1xSVRHZGpPc0VRNE12dTAwUy1CaUhoQ0l4djROQWJON0VqZVdUZ3Vhak9TMWl5RjQ2SU1ad3hLeklwYzIyWDdqdHM3Sk1iS3VMeVFrR2pjcmU3YkkxU0FhSlFEcmdQN0pxUXBpYXJxSWM1RkJLdlByLWl1Tzd4aVRXTjNOSVJR?oc=5",
-      "publishedAt": "2026-11-14T05:03:54.000Z",
+      "publishedAt": "2026-11-14T05:03:56.000Z",
       "source": "Dojeon Media",
       "description": "G-Dragon Enters K-Beauty: Inside His New Beauty Brand Teaser &nbsp;&nbsp; Dojeon Media",
       "sourceClass": "publisher",
@@ -411,6 +555,30 @@
       }
     },
     {
+      "id": "64897af3b381",
+      "title": "THE CUTEST DUO! 💗 BLACKPINK’s Jisoo and TWICE’s Nayeon delighted fans with a TikTok dance collaboration featuring Jisoo’s song “Addicted” on Wednesday. “Two bunnies, too addicted,” Jisoo captioned her post. (TikTok/Jisoo)",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbXcwSVREQmREUGVSUlNGR1JaUXYxMExnTGEwMGZSOFJINHctMzQ5Z25MZnJvZ0ttYmNNSXVja0VCcXo2WXU0TDVZZy1KczBMMm5TeGhPVnh6cXEyM0tIaUI5UFB1QXhQRjQwZmxyWlhfeFNHdkNTUmRPTTB0a1E0ZHNxOHNyNW9jS2VkaFhOS2pNeGpnQ3puMEhwMjIzNWRFMVgyaXVzcklGLVFsQURtdFZhUXdUbGhJZUUtWk1Wbk1XcmF1TkhMNUVIdUtVLW0wZzZjbGtIOXJXZlRv?oc=5",
+      "publishedAt": "2026-11-14T02:41:49.000Z",
+      "source": "Facebook",
+      "description": "THE CUTEST DUO! 💗 BLACKPINK’s Jisoo and TWICE’s Nayeon delighted fans with a TikTok dance collaboration featuring Jisoo’s song “Addicted” on Wednesday. “Two bunnies, too addicted,” Jisoo captioned her post. (TikTok/Jisoo) &nbsp;&nbsp; Facebook",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "THE CUTEST DUO! 💗 BLACKPINK’s Jisoo and TWICE’s Nayeon delighted fans with a TikTok dance collaboration featuring Jisoo’s song “Addicted” on Wednesday. “Two bunnies, too addicted,” Jisoo captioned her post. (TikTok/Jisoo) &nbsp;&nbsp; Facebook",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbXcwSVREQmREUGVSUlNGR1JaUXYxMExnTGEwMGZSOFJINHctMzQ5Z25MZnJvZ0ttYmNNSXVja0VCcXo2WXU0TDVZZy1KczBMMm5TeGhPVnh6cXEyM0tIaUI5UFB1QXhQRjQwZmxyWlhfeFNHdkNTUmRPTTB0a1E0ZHNxOHNyNW9jS2VkaFhOS2pNeGpnQ3puMEhwMjIzNWRFMVgyaXVzcklGLVFsQURtdFZhUXdUbGhJZUUtWk1Wbk1XcmF1TkhMNUVIdUtVLW0wZzZjbGtIOXJXZlRv",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
       "id": "27258e2f6ae7",
       "title": "SANTOS BRAVOS x &TEAM",
       "url": "https://www.youtube.com/watch?v=jSz4I_m_cPQ",
@@ -453,30 +621,6 @@
         "status": "pending_review",
         "canvaFields": {
           "Category": "COMEBACK NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "2949418cd524",
-      "title": "'KPop Demon Hunters' goes global as Netflix and AEG announce 2027 world tour",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOS3h0TWJfNy1nRE9FTVZ1ZEJaN2dreHJhbUFFci02bTVlSUtSbUpWeWJYR1IyY0xESGhnVDg3cWhaWDF4YWI2d0hfV0dBcmJuMGdtbnQxNGV2QWVLUWNaRllLakNHTVNWbHo3U2d2czFWREc0RWdQbHdzaUhJd1hSOVNOQm5GRWxwekk1N0dvQ0RDeWN5Y0pfRHZhSkhObFRyRktPR3NqdlhyeTdLaFZkVGdTYnkwazlQQXBrSy1CZW5kZnEzeXlETUtn?oc=5",
-      "publishedAt": "2026-11-13T23:51:06.000Z",
-      "source": "THV11",
-      "description": "'KPop Demon Hunters' goes global as Netflix and AEG announce 2027 world tour &nbsp;&nbsp; THV11",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "'KPop Demon Hunters' goes global as Netflix and AEG announce 2027 world tour &nbsp;&nbsp; THV11",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOS3h0TWJfNy1nRE9FTVZ1ZEJaN2dreHJhbUFFci02bTVlSUtSbUpWeWJYR1IyY0xESGhnVDg3cWhaWDF4YWI2d0hfV0dBcmJuMGdtbnQxNGV2QWVLUWNaRllLakNHTVNWbHo3U2d2czFWREc0RWdQbHdzaUhJd1hSOVNOQm5GRWxwekk1N0dvQ0RDeWN5Y0pfRHZhSkhObFRyRktPR3NqdlhyeTdLaFZkVGdTYnkwazlQQXBrSy1CZW5kZnEzeXlETUtn",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "CONCERT NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "CONCERT NEWS",
           "Headline": "GOOGLE NEWS",
           "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
@@ -532,16 +676,16 @@
       }
     },
     {
-      "id": "53c8289520ec",
-      "title": "‘KPop Demon Hunters’ Golden World Tour: 12 Key Facts on Dates and Tickets",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5BbFFPWHdMLWI0TDdndFo1dmJneWZqaDlJenA0ZU1VUHFnbWpNX2RrajNVZ0RIbGlrVHpKbmdTelNaT1JYVHBOTUdZQUtzdU9odlhVU0ZhTGdaOWtqUXpQcUxDN3M3MW9HR3lmQnpITm1jckNlaFhKVTQzUTU?oc=5",
-      "publishedAt": "2026-11-13T19:56:24.000Z",
-      "source": "qz.com",
-      "description": "‘KPop Demon Hunters’ Golden World Tour: 12 Key Facts on Dates and Tickets &nbsp;&nbsp; qz.com",
+      "id": "93e75a15b5d6",
+      "title": "'KPop Demon Hunters' goes global as Netflix and AEG announce 2027 world tour",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQM3lLa09KQWdES2dhUlczX0hMMkhucmQ0cmxpQTh0NVFYUVJzTTR2UzNvSmp2X2pxYlJvTzFjUVF1WnJfMHo0UGxHcXh6UU1lOF9tc1Qxb1lkV21LUE1QWEdoa2VzYldORUlfRTVSa1JSakJvUHQ3aTNMYkRlVktEUVQ2U2tpY2hadS0yazhRdm9ka0djeDVBd1BnZWk4N3ZKaGRNNGZXY250UVVnTGlWTGlQc2Njc0NVbEp6YUdtU1phQ3VzLXhWTnN3?oc=5",
+      "publishedAt": "2026-11-13T20:04:35.000Z",
+      "source": "kens5.com",
+      "description": "'KPop Demon Hunters' goes global as Netflix and AEG announce 2027 world tour &nbsp;&nbsp; kens5.com",
       "sourceClass": "publisher",
       "confidence": "secondary",
-      "sourceSummary": "‘KPop Demon Hunters’ Golden World Tour: 12 Key Facts on Dates and Tickets &nbsp;&nbsp; qz.com",
-      "articleUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5BbFFPWHdMLWI0TDdndFo1dmJneWZqaDlJenA0ZU1VUHFnbWpNX2RrajNVZ0RIbGlrVHpKbmdTelNaT1JYVHBOTUdZQUtzdU9odlhVU0ZhTGdaOWtqUXpQcUxDN3M3MW9HR3lmQnpITm1jckNlaFhKVTQzUTU",
+      "sourceSummary": "'KPop Demon Hunters' goes global as Netflix and AEG announce 2027 world tour &nbsp;&nbsp; kens5.com",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQM3lLa09KQWdES2dhUlczX0hMMkhucmQ0cmxpQTh0NVFYUVJzTTR2UzNvSmp2X2pxYlJvTzFjUVF1WnJfMHo0UGxHcXh6UU1lOF9tc1Qxb1lkV21LUE1QWEdoa2VzYldORUlfRTVSa1JSakJvUHQ3aTNMYkRlVktEUVQ2U2tpY2hadS0yazhRdm9ka0djeDVBd1BnZWk4N3ZKaGRNNGZXY250UVVnTGlWTGlQc2Njc0NVbEp6YUdtU1phQ3VzLXhWTnN3",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
         "category": "CONCERT NEWS",
@@ -1134,6 +1278,30 @@
       }
     },
     {
+      "id": "ff0723da84de",
+      "title": "KPop Demon Hunters Golden World Tour: Tickets, dates, and locations for the 2027 HUNTR/X live concert",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQWdQUTBvQVJIQ0FBTldhcnk2dTUtejVNMmJ2bzZPWTRLQWRCX19OSXl0UUt3S2RJUFFOUDA0N2lOTzMxSS13VDFKX0EyM0tkd3NYTWVDa3ZTcnB1T29nMXdiZGJHMmFfb0F5SV9FYXVoUnQxUU0wblhuT256QlhkdldzWXdZZjR4UzFQSkR2eUZobWVLcHY3VnlqSmx2TlNrUG9fd3NlV3pXWGttbW5aQTBHbldFYlRCdmZEcUYwTHRJMmJYMXdNZDQtZ3NiQ0lSWUdGbG9ReGlGdTJwTWdn0gHkAUFVX3lxTE43bnFMSDZPR3VDWTBWRllEaThhVGhUVGdkaEdJV08xSXhranBmSy1iMTk2Mk5zY3dOa0JhMnctMkdWS2R2LU15Ry1jRnlFSm0xM2NhWUlqd1h5XzhvMGdQX2lfcHpyR0RsLVNyQlpvT1NIb0VYdnVhdnJPRmdHYXl3dFJfeTRxZXRkZFBSVDl5VmlMRW54dEJLR0UwRXo4a2Y2SkY2OHF5Q2hmbnNVQlNhOHpWVTZ1cU8waE5FSS1qVmdla2w3OTVHX3daWTR2RVFOaUczYVREZW1MM0JCSlp6emdDTg?oc=5",
+      "publishedAt": "2026-11-13T14:36:04.000Z",
+      "source": "Clarin.com",
+      "description": "KPop Demon Hunters Golden World Tour: Tickets, dates, and locations for the 2027 HUNTR/X live concert &nbsp;&nbsp; Clarin.com",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "KPop Demon Hunters Golden World Tour: Tickets, dates, and locations for the 2027 HUNTR/X live concert &nbsp;&nbsp; Clarin.com",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQWdQUTBvQVJIQ0FBTldhcnk2dTUtejVNMmJ2bzZPWTRLQWRCX19OSXl0UUt3S2RJUFFOUDA0N2lOTzMxSS13VDFKX0EyM0tkd3NYTWVDa3ZTcnB1T29nMXdiZGJHMmFfb0F5SV9FYXVoUnQxUU0wblhuT256QlhkdldzWXdZZjR4UzFQSkR2eUZobWVLcHY3VnlqSmx2TlNrUG9fd3NlV3pXWGttbW5aQTBHbldFYlRCdmZEcUYwTHRJMmJYMXdNZDQtZ3NiQ0lSWUdGbG9ReGlGdTJwTWdn0gHkAUFVX3lxTE43bnFMSDZPR3VDWTBWRllEaThhVGhUVGdkaEdJV08xSXhranBmSy1iMTk2Mk5zY3dOa0JhMnctMkdWS2R2LU15Ry1jRnlFSm0xM2NhWUlqd1h5XzhvMGdQX2lfcHpyR0RsLVNyQlpvT1NIb0VYdnVhdnJPRmdHYXl3dFJfeTRxZXRkZFBSVDl5VmlMRW54dEJLR0UwRXo4a2Y2SkY2OHF5Q2hmbnNVQlNhOHpWVTZ1cU8waE5FSS1qVmdla2w3OTVHX3daWTR2RVFOaUczYVREZW1MM0JCSlp6emdDTg",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "CONCERT NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "CONCERT NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
       "id": "2a3240085fe4",
       "title": "KPop Demon Hunters Golden World Tour coming to downtown Indy",
       "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOM1ZPZ191ZjFVTmFtdWhOUVVOakJMTGhhVlJJQjNjQ0x1bU9MNm9nR1dteHF0MnFIVVJ4WVdyT1NvVTJFUkpmZGtSYjVyZUM0RDBJSlJEQk5zdHVscGlmVERkdkVKWWJfc2JXN2k2SEMtTmQ5Ums0WjhKQWFXb3dnYUZyMHNyOUYzWWxjR0Z3d0hnWHJXaFA3c2x3UzdlMmQzS2pnWkMweWFrT3JXbDh0QThuejJRY1pOYXE0dktNbTJON29HTnRsZkFtSHdva21xSzYzOS1rc2hIeC00RmFqamFyYlpELVZjbHRQU0pjRXBpSVJwb0F4SDR0dGMwaThVWHB6ZEJjaUtVVE9rMWw0ZTM5SjRzTTdKNERnMkJR?oc=5",
@@ -1288,30 +1456,6 @@
       "confidence": "secondary",
       "sourceSummary": "‘KPop Demon Hunters’ Golden World Tour Sets 2027 Arena Dates &nbsp;&nbsp; Variety",
       "articleUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSHRwM0d1LThYYy01ck1hSkVTQWdHTnBHcG9NZm1DYnZ2RThPUjlKdWg2c29kUTRfYlpHT25DaG9ib3huaFU3ZHVmaF9QRUxJQ1lySEdHbTlTdkdSZlNHVkxtWldrQXFNc0VTNXJDcVdKZ2pPYmFsb1ZYYUhqdzlUNHF4V1RaUThWT3dEWGNlUy1YWXlZN19EWEVIWG5XUFhUcEFv",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "CONCERT NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "CONCERT NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "5692bf5b5c16",
-      "title": "KPop Demon Hunters Golden World Tour 2027: Dates, Tickets, Presale Info",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16aGJsV0F2MEtuOUtXNlM1MFZyYm9RSzdJMzFvWDlPLXNrelBtUDNZN2NGUWZrRERiWnZjcHhoV0JyZ2F4Ml9acVVmMUxCWVZEbC1WSGw1UnltVldtZl8tTERuYWhLTnMwRnc?oc=5",
-      "publishedAt": "2026-11-13T13:51:21.000Z",
-      "source": "IMDb",
-      "description": "KPop Demon Hunters Golden World Tour 2027: Dates, Tickets, Presale Info &nbsp;&nbsp; IMDb",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "KPop Demon Hunters Golden World Tour 2027: Dates, Tickets, Presale Info &nbsp;&nbsp; IMDb",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16aGJsV0F2MEtuOUtXNlM1MFZyYm9RSzdJMzFvWDlPLXNrelBtUDNZN2NGUWZrRERiWnZjcHhoV0JyZ2F4Ml9acVVmMUxCWVZEbC1WSGw1UnltVldtZl8tTERuYWhLTnMwRnc",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
         "category": "CONCERT NEWS",
@@ -1762,6 +1906,30 @@
       }
     },
     {
+      "id": "d2d588f5dc8c",
+      "title": "Pink Thunder |핑크 천둥 Korean Version | K-Pop Style song",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE43SGU0cU43T2FTXzRFSkh2d0F5c0FiTjZ0ZENENjlYaU9nc1c4ZUdKMk5QdlMzSFl1dFA3QVR6aU1MR2lZU3gtd3ZpUUJSQkNHejY1QTFDWnlzR19D?oc=5",
+      "publishedAt": "2026-11-13T06:30:48.000Z",
+      "source": "YouTube",
+      "description": "Pink Thunder |핑크 천둥 Korean Version | K-Pop Style song &nbsp;&nbsp; YouTube",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "Pink Thunder |핑크 천둥 Korean Version | K-Pop Style song &nbsp;&nbsp; YouTube",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE43SGU0cU43T2FTXzRFSkh2d0F5c0FiTjZ0ZENENjlYaU9nc1c4ZUdKMk5QdlMzSFl1dFA3QVR6aU1MR2lZU3gtd3ZpUUJSQkNHejY1QTFDWnlzR19D",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
       "id": "385ecfe94bb0",
       "title": "Song Review: ATEEZ – Up",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCUVZhUV9CZDFYZFhVNWM3VU8wSGhFNTdURDc0TEFEdndBRkhpSlEzUl9qU28wRjF5X0YwRTNjQW9aRWVQVGFPMUQ2Xy01ekkxZVNhLWNwTGRoTXRDMG96ajFNREU3ck0?oc=5",
@@ -1805,102 +1973,6 @@
           "Category": "COMEBACK NEWS",
           "Headline": "AESPA&#039;S \"LEMONADE\" BECOMES THEIR 12TH MV TO HIT 100 MILLION VIEWS: SOOMPI",
           "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/13153255/aespa-lemonade-100m-1.jpg"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "3c65c120d853",
-      "title": "KPop Demon Hunters makes tour cities a fan reveal",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KRmdkN190R1JQV2xZdThYaUVkZDd4ZmJHbXdlS2RldC1FbUFFNURXYmZ4YVNWc05WUzBKV0plTGpLWDJ0d3BHaS00M3ZOYnI1R25QeDNSQUFfbG1RdUR2c0Zta0VPcEZoZzJr?oc=5",
-      "publishedAt": "2026-11-13T06:19:56.000Z",
-      "source": "ContentGrip",
-      "description": "KPop Demon Hunters makes tour cities a fan reveal &nbsp;&nbsp; ContentGrip",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "KPop Demon Hunters makes tour cities a fan reveal &nbsp;&nbsp; ContentGrip",
-      "articleUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KRmdkN190R1JQV2xZdThYaUVkZDd4ZmJHbXdlS2RldC1FbUFFNURXYmZ4YVNWc05WUzBKV0plTGpLWDJ0d3BHaS00M3ZOYnI1R25QeDNSQUFfbG1RdUR2c0Zta0VPcEZoZzJr",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "CONCERT NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "CONCERT NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "b2e17da50ef3",
-      "title": "K-pop and warrior suits: Asia hopefuls seek Eurovision glory",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRVJ5U2xQM2hLcExiNUJhOTZBWFdPcXNjTlFKYTNwSGxGTVlNRjVOZ0JKYnp4em5Zalh2VWcydkI0cURKWVBmNVFUdTZQSUxGNERadHlNMmhodEt1RVI1THpsWDF6NmtTSnBoci02cUFJeVU5bkFlTUtJN3Nsa1o0ak9DSDdodTRyVUJzZkRtZWQ1bWFiSjRKT2dOSGE4NjRPSktIeWF6dWQtZU1MYjByWVdhNmJSSFh0LVptc2hnOTNkVVBRTkZ1bC1HY1NFYVIyTVlqNXhtTzPSAd4BQVVfeXFMTWRieU16Rmt5LXJuclMtR25kRmhJSHNQU1Zkb3h3eW5BbmI2RXQxSEJlNUphbE14SjRuNVpKZ2ZpQjZjcXZWNERuT3ZFWWlZUU9MdUhCZ2hWMlpGYzNKbm1vSFJiNkl1bWdCUnktMlhHNThILXBTQUFDQ3ZuZmt1SWJMTHZReWFxYjZET0pTbmRDZ1ZTSmoyc1RhQUJ4M2NjTWtvc0tEcUFDbVRyNmNrYUhXR0tjcHZ5OEZJSVp3MUxRR3pVUFl5c2lwVVZMQzJvdi1WQ3g3My01WlR1Q0hR?oc=5",
-      "publishedAt": "2026-11-13T06:14:00.000Z",
-      "source": "The Manila Times",
-      "description": "K-pop and warrior suits: Asia hopefuls seek Eurovision glory &nbsp;&nbsp; The Manila Times",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "K-pop and warrior suits: Asia hopefuls seek Eurovision glory &nbsp;&nbsp; The Manila Times",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRVJ5U2xQM2hLcExiNUJhOTZBWFdPcXNjTlFKYTNwSGxGTVlNRjVOZ0JKYnp4em5Zalh2VWcydkI0cURKWVBmNVFUdTZQSUxGNERadHlNMmhodEt1RVI1THpsWDF6NmtTSnBoci02cUFJeVU5bkFlTUtJN3Nsa1o0ak9DSDdodTRyVUJzZkRtZWQ1bWFiSjRKT2dOSGE4NjRPSktIeWF6dWQtZU1MYjByWVdhNmJSSFh0LVptc2hnOTNkVVBRTkZ1bC1HY1NFYVIyTVlqNXhtTzPSAd4BQVVfeXFMTWRieU16Rmt5LXJuclMtR25kRmhJSHNQU1Zkb3h3eW5BbmI2RXQxSEJlNUphbE14SjRuNVpKZ2ZpQjZjcXZWNERuT3ZFWWlZUU9MdUhCZ2hWMlpGYzNKbm1vSFJiNkl1bWdCUnktMlhHNThILXBTQUFDQ3ZuZmt1SWJMTHZReWFxYjZET0pTbmRDZ1ZTSmoyc1RhQUJ4M2NjTWtvc0tEcUFDbVRyNmNrYUhXR0tjcHZ5OEZJSVp3MUxRR3pVUFl5c2lwVVZMQzJvdi1WQ3g3My01WlR1Q0hR",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "CONCERT NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "CONCERT NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "e470ad9e0e9f",
-      "title": "theIDOL Data: What K-pop Fans in Six Languages Really Want From Lyrics",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONHZENGVTbWJUS2I2bUFfbHFPRGt1UmJReHRjT0E5eWhoQkhPcDhOYUFxdGhuSUt0bUIxVE81YTY2alJmMDZSenNtRWY3NFJud0N0VWE0dUFqOGt4ZUFWS29JanpKOEZUTjZ4T1dhWTBfalMwVC1STGo3ZDFXWTdWNkVfbWo1dVlhRTZyYWRidXdMdWRGTHc?oc=5",
-      "publishedAt": "2026-11-13T06:10:50.000Z",
-      "source": "kpoppost",
-      "description": "theIDOL Data: What K-pop Fans in Six Languages Really Want From Lyrics &nbsp;&nbsp; kpoppost",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "theIDOL Data: What K-pop Fans in Six Languages Really Want From Lyrics &nbsp;&nbsp; kpoppost",
-      "articleUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONHZENGVTbWJUS2I2bUFfbHFPRGt1UmJReHRjT0E5eWhoQkhPcDhOYUFxdGhuSUt0bUIxVE81YTY2alJmMDZSenNtRWY3NFJud0N0VWE0dUFqOGt4ZUFWS29JanpKOEZUTjZ4T1dhWTBfalMwVC1STGo3ZDFXWTdWNkVfbWo1dVlhRTZyYWRidXdMdWRGTHc",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "c740739a8b0f",
-      "title": "Which K-pop idols will take the 2027 CSAT? [Video]",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jcl9qVUhseE82bTJWTl9oYzJqSHd2b1Jhb2xtckxzM1ctNVlfUzFLVV9mZ3ZTbGJ3N3Z2MXpYNXdVRF9Fenk2ZHI0UkstTm9jQnk5MDZzcHhaalhHZDlLOE0xVjZQS3JTcnFPTE9LWHRHSm1KZm9N?oc=5",
-      "publishedAt": "2026-11-13T06:10:15.000Z",
-      "source": "스타뉴스",
-      "description": "Which K-pop idols will take the 2027 CSAT? [Video] &nbsp;&nbsp; 스타뉴스",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "Which K-pop idols will take the 2027 CSAT? [Video] &nbsp;&nbsp; 스타뉴스",
-      "articleUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jcl9qVUhseE82bTJWTl9oYzJqSHd2b1Jhb2xtckxzM1ctNVlfUzFLVV9mZ3ZTbGJ3N3Z2MXpYNXdVRF9Fenk2ZHI0UkstTm9jQnk5MDZzcHhaalhHZDlLOE0xVjZQS3JTcnFPTE9LWHRHSm1KZm9N",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         "canvaDesignId": null
       }
@@ -2022,6 +2094,30 @@
           "Category": "COMEBACK NEWS",
           "Headline": "WATCH: JANG NARA, KIM HYE YOON, P.O, AND PARK HAE JIN FIGHT FOR THEIR BROKENHEARTED CLIENTS IN \"GOOD…",
           "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/13130157/good-partner-2-7.jpg"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "e2cf254ca358",
+      "title": "K-pop and warrior suits: Asia hopefuls seek Eurovision glory",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeFFIYkhuQ3dBZ3NyT0VoZUNHMTVZM0QxaUZmWUZZQzVTaHE3SDd4WVJlWmZOYUFyZ2MxWlU4b3MzdkFrNktEay1oX2tKTUllYmRTbUNpdl8wWlVIRUx4MVg2YWFXTVdON2VwemNuY1hicUNqZ3lxSGZtV2NINzNzaGRFbEF0b0VqenBkdGxTS2J4RVZkeVJacw?oc=5",
+      "publishedAt": "2026-11-13T03:37:00.000Z",
+      "source": "The Straits Times",
+      "description": "K-pop and warrior suits: Asia hopefuls seek Eurovision glory &nbsp;&nbsp; The Straits Times",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "K-pop and warrior suits: Asia hopefuls seek Eurovision glory &nbsp;&nbsp; The Straits Times",
+      "articleUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeFFIYkhuQ3dBZ3NyT0VoZUNHMTVZM0QxaUZmWUZZQzVTaHE3SDd4WVJlWmZOYUFyZ2MxWlU4b3MzdkFrNktEay1oX2tKTUllYmRTbUNpdl8wWlVIRUx4MVg2YWFXTVdON2VwemNuY1hicUNqZ3lxSGZtV2NINzNzaGRFbEF0b0VqenBkdGxTS2J4RVZkeVJacw",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         "canvaDesignId": null
       }
@@ -2301,103 +2397,6 @@
       "confidence": "secondary",
       "sourceSummary": "BTS is boycotting the Grammys. It’s part of a long history of category controversies &nbsp;&nbsp; NPR",
       "articleUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRHByckpGZTlIZkZXSHhFTUE0M2NkelhReGIwYWhMUmZiQ3dOTGNzUDVXMno5aENya2xwTHFxT1ZoWm5YNnR4dkZvMF9rU09kZmhZOU5VbVM5bW5icURiaUM3dzdTTmVLM2hoMndEaWtqTUd1OGxlZ0pUWUlLRFlSMHNUbDBzal9xYjFqaXpob2d2Nm5weWxVOU93",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "140c07a27c44",
-      "title": "BTS | Songs, Members, Meaning, Albums, K-Pop, Army, & Facts",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE82a0hoSTFZVFNVaXlsNjlXZjZVQ1dyTEZBeWtfZEVjeGoyLTIxcHJqTFF5eGwydTZERUtHUHd0SnM5MDBCZmUzVXRQbHk?oc=5",
-      "publishedAt": "2026-11-12T17:49:00.000Z",
-      "source": "Britannica",
-      "description": "BTS | Songs, Members, Meaning, Albums, K-Pop, Army, & Facts &nbsp;&nbsp; Britannica",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "BTS | Songs, Members, Meaning, Albums, K-Pop, Army, & Facts &nbsp;&nbsp; Britannica",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE82a0hoSTFZVFNVaXlsNjlXZjZVQ1dyTEZBeWtfZEVjeGoyLTIxcHJqTFF5eGwydTZERUtHUHd0SnM5MDBCZmUzVXRQbHk",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "COMEBACK NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "COMEBACK NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "f3120b18fb6c",
-      "title": "Why Aren’t More K-Pop Idols Wearing Big 5 Basketball Gear?",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdWY0Z2hvb3VlVzd2STBUZG1OMlJUNDhhQXpSaXF5VWNHYk95SGc0MWJQcHBQUWdLUENEOUVDRGs1NEhVX3NSWFNHdEw5MmxhOXp2ZFpNcXRLbE1qV1VBbVAxWVNCRlFQR1BzR1hvdjYxWEFjZ2pMTlo0Y0VMUDZfbmFCQTRpbWp2ZklXN0FNWHZpckVTNXItS0hINWhjbmE2OHZRMQ?oc=5",
-      "publishedAt": "2026-11-12T15:32:00.000Z",
-      "source": "Crossing Broad",
-      "description": "Why Aren’t More K-Pop Idols Wearing Big 5 Basketball Gear? &nbsp;&nbsp; Crossing Broad",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "Why Aren’t More K-Pop Idols Wearing Big 5 Basketball Gear? &nbsp;&nbsp; Crossing Broad",
-      "articleUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdWY0Z2hvb3VlVzd2STBUZG1OMlJUNDhhQXpSaXF5VWNHYk95SGc0MWJQcHBQUWdLUENEOUVDRGs1NEhVX3NSWFNHdEw5MmxhOXp2ZFpNcXRLbE1qV1VBbVAxWVNCRlFQR1BzR1hvdjYxWEFjZ2pMTlo0Y0VMUDZfbmFCQTRpbWp2ZklXN0FNWHZpckVTNXItS0hINWhjbmE2OHZRMQ",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "5b149b7cee5c",
-      "title": "TXT (투모로우바이투게더) 'Angel Bite' Official Teaser 1",
-      "url": "https://www.youtube.com/shorts/WATVWYEOs84",
-      "publishedAt": "2026-11-12T15:00:31.000Z",
-      "source": "HYBE LABELS",
-      "sourceClass": "official",
-      "confidence": "primary",
-      "sourceId": "hybe-labels-youtube",
-      "description": "TXT (투모로우바이투게더) 'Angel Bite' Official Teaser 1 Credits: Director: DQM Assistant Director : MonkeyChicken (Kim Dongkyu, Lee Jinseop), Kim Miseon Production: blue Executive Producer: Euis Producer: Jeong Kiwook, Yoon Damyoung, Choi Hari, Im Chaeryun PA: ASSIST Hwang Chanwon, Lee Hakyoung, Yu Hyeonseok, Kim Taehyeong, Park Seoyoon, Gong Junhyuk, Jang Mingyo, Tak Sangmin, Shin Gyuseop, Lee Dongkeun, Kim Kwanhyung DOP: Kim Kihun 1st: Lee Yeongwoo 2nd: Go Yuntae 3rd: Woo Taemin DIT: Kim Soyul Gaffer: Jo Wooyoun 1st: Cho Heedong, Park Junhwi 2nd: Lim Junhyeong, Yu Jinwoo 3rd: Choi Subin, Park Sehwan, Lee Jungeol Key Grip: Kim Sungeun, Hwang Jiin Grip Dept: Jo Hyeonseok, Lee Jumyeong, Park Beomgi, Park Jaehyuk Art Director: Jeon Eunjung, Cho Jeongyun Art assist director: Shin Hyunkyung Art team: Yoo Jaeeun, Lee Sohyun, Lim Sungyoung, Park Gwangseon, Song Myeongjin, Lee Hoonjae, Shin Hyunjun, Kim Sangjun, Kim Kwangseok, Kim Daeheung Location: Zone system Park Eunjung, Cho Kangyeol, Kim Jaehyeon Edit & 2D Graphic: Jeon Jiae DI: LUCID COLOUR Colorist: Yeom Jiyun DI Crew: Lee Seonyoung, Jeong Subin, Song Inseob DI Producer: Kim Hyunjin DI Manager: Park Heejin 2D: LOCUS Compositor: Lee Sujung, Kim Minjoo Producer: Ham Eunjung AI artwork: Lee Seungyu Sound: PigSoup.wav Kang Onewoo - Artist: TOMORROW X TOGETHER Executive Producer: Seonjeong Shin, Helena Chang Chief Producer: “hitman” bang Producer: Slow Rabbit Head of Creative: Boram Kim Creative Director: Luke Hyowon Choi Visual Creative: Hyesoo Lee, Seon An, Dongmin Yang, LI YANHUA, Jia Lee, Yeji Ha Performance Directing: Kingbear, Kain, HANZIO A&R: Junha Lee, Misa Lee, Sean Lee, Yerin Choi Brand Experience Design: Yeeun Kim, Yeoreum Kim, Rang Choi Creative Operation: Minhee Kim, Jiyeon Lee Hair: Enoc Lee, Kim Ri One Make Up: Seulki Noh Stylist: Jonghyun Lee Connect with TOMORROW X TOGETHER: https://txt.ibighit.com https://x.com/TXT_bighit https://x.com/TXT_members https://x.com/TXT_bighit_jp https://www.facebook.com/TXT.bighit https://www.instagram.com/txt_bighit https://www.tiktok.com/@txt.bighitent https://weverse.io/txt https://www.weibo.com/TXTbighit https://space.bilibili.com/3493085912763265/ https://v.douyin.com/i6BytSNo/ BIGHIT MUSIC. Rights are reserved selectively in the video. Unauthorized reproduction is a violation of applicable laws. Manufactured by BIGHIT MUSIC, Seoul, Korea. #투모로우바이투게더 #TOMORROW_X_TOGETHER #TXT #PERFECTSTORM #AngelBite #TXT_AngelBite",
-      "sourceSummary": "TXT (투모로우바이투게더) 'Angel Bite' Official Teaser 1 Credits: Director: DQM Assistant Director : MonkeyChicken (Kim Dongkyu, Lee Jinseop), Kim Miseon Production: blue Executive Producer: Euis Producer: Jeong Kiwook, Yoon Damyoung, Choi Hari, Im Chaeryun PA: ASSIST Hwang Chanwon, Lee Hakyoung, Yu Hyeonseok, Kim Taehyeong, Park Seoyoon, Gong Junhyuk, Jang Mingyo, Tak Sangmin, Shin Gyuseop, Lee Dongkeun, Kim Kwanhyung DOP: Kim Kihun 1st: Lee Yeongwoo 2nd: Go Yuntae 3rd: Woo Taemin DIT: Kim Soyul Gaffer: Jo Wooyoun 1st: Cho Heedong, Park Junhwi 2nd: Lim Junhyeong, Yu Jinwoo 3rd: Choi Subin, Park Sehwan, Lee Jungeol Key Grip: Kim Sungeun, Hwang Jiin Grip Dept: Jo Hyeonseok, Lee Jumyeong, Park Beomgi, Park Jaehyuk Art Director: Jeon Eunjung, Cho Jeongyun Art assist director: Shin Hyunkyung Art team: Yoo Jaeeun, Lee Sohyun, Lim Sungyoung, Park Gwangseon, Song Myeongjin, Lee Hoonjae, Shin Hyunjun, Kim Sangjun, Kim Kwangseok, Kim Daeheung Location: Zone system Park Eunjung, Cho Kangyeol, Kim Jaehyeon Edit & 2D Graphic: Jeon Jiae DI: LUCID COLOUR Colorist: Yeom Jiyun DI Crew: Lee Seonyoung, Jeong Subin, Song Inseob DI Producer: Kim Hyunjin DI Manager: Park Heejin 2D: LOCUS Compositor: Lee Sujung, ",
-      "articleUrl": "https://www.youtube.com/shorts/WATVWYEOs84",
-      "imageUrl": null,
-      "social": {
-        "category": "COMEBACK NEWS",
-        "headline": "TXT (투모로우바이투게더) 'ANGEL BITE' OFFICIAL TEASER 1",
-        "status": "needs_image",
-        "canvaFields": {
-          "Category": "COMEBACK NEWS",
-          "Headline": "TXT (투모로우바이투게더) 'ANGEL BITE' OFFICIAL TEASER 1",
-          "FeatureImage": null
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "c12391c4a074",
-      "title": "K-pop and Collecting Culture",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGbEdhNXp4UjA0bGVOQnlZaUF2YzJVZDBKY0tLOTFFdHdVRHlVVUZrRHBoQVhvQ0hrV1RXYjNfVldBQVZOOWhSZ2xVMHpqQ2VDcUVSLUY1LWR5WXVOcmFVeDl4eHFtYXR6XzV5Q3dn?oc=5",
-      "publishedAt": "2026-11-12T14:26:29.000Z",
-      "source": "NDSU Spectrum",
-      "description": "K-pop and Collecting Culture &nbsp;&nbsp; NDSU Spectrum",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "K-pop and Collecting Culture &nbsp;&nbsp; NDSU Spectrum",
-      "articleUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGbEdhNXp4UjA0bGVOQnlZaUF2YzJVZDBKY0tLOTFFdHdVRHlVVUZrRHBoQVhvQ0hrV1RXYjNfVldBQVZOOWhSZ2xVMHpqQ2VDcUVSLUY1LWR5WXVOcmFVeDl4eHFtYXR6XzV5Q3dn",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
         "category": "HALLYU NEWS",

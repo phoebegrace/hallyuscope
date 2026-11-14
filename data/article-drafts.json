@@ -1,8 +1,134 @@
 {
-  "updatedAt": "2026-11-14T14:14:00.040Z",
+  "updatedAt": "2026-11-14T19:14:22.281Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
+    {
+      "id": "d3727e4d8658",
+      "createdAt": "2026-11-14T19:14:12.617Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-14T15:21:08.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "bts-and-aespa-win-first-grand-prizes-at-melon-music-awards-2026",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Winners Of Melon Music Awards 2026 &#8211; DAY 1",
+        "url": "https://www.soompi.com/article/1886965wpp/winners-of-melon-music-awards-2026-day-1"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1886965wpp/winners-of-melon-music-awards-2026-day-1",
+          "chars": 718,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/home/article/015/0005353864",
+          "chars": 2533,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [
+          "MMA was held over two days for the first time.",
+          "BTS did not provide an acceptance video.",
+          "Rookie of the Year was also scheduled to be announced on the second day."
+        ],
+        "checkedAt": "2026-11-14T19:14:12.616Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/d3727e4d8658.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/15002022/mma_a6158e.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "TRENDING",
+      "headline": "BTS and aespa win first grand prizes at Melon Music Awards 2026",
+      "dek": "BTS took Album of the Year for \"ARIRANG,\" while aespa won Global-K Artist of the Year on the ceremony's first day.",
+      "body": [
+        "BTS and aespa claimed the first two grand prizes at the Melon Music Awards 2026, held November 14 at Gocheok Sky Dome in Seoul. BTS won Album of the Year for \"ARIRANG,\" while aespa received Global-K Artist of the Year, Soompi reported.",
+        "The awards were two of five Daesangs, or grand prizes, to be presented across the ceremony. BTS and aespa also appeared among the first day's Global TOP10 winners, alongside RIIZE, RESCENE, G-Dragon and Hearts2Hearts.",
+        "aespa's Winter thanked the group's fans, MY, for believing in and supporting the members. Karina also thanked SM Entertainment and described the award as a gift ahead of the group's sixth anniversary.",
+        "BTS did not attend the ceremony. The group also won Stage of the Year, bringing its first-day total to three awards.",
+        "Hearts2Hearts and TWS received Global Impact Artist honors, while ATEEZ and RIIZE won Best Performance - Male. RESCENE took the KakaoBank Everyone's Star award, and Nicole Kim of BIGHIT MUSIC was named Best Producer.",
+        "Kim Min Seok of MeloMance won Best OST for \"Love Language\" from \"Can This Love Be Translated?\" Other first-day winners included Choi Yena for Best Solo Female and Lim Young Woong for Best Solo Male.",
+        "The remaining grand prizes, including Artist of the Year, Best Song of the Year and Record of the Year, were scheduled to be announced on the second day."
+      ],
+      "socialCaption": "BTS and aespa picked up the first grand prizes at MMA 2026. Read on HallyuScope for more of the day one winners.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#MMA2026",
+        "#BTS",
+        "#aespa",
+        "#MelonMusicAwards"
+      ],
+      "seoDescription": "BTS and aespa won the first grand prizes at the Melon Music Awards 2026. See more day one winners, including RIIZE, RESCENE and Hearts2Hearts.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "2c7f89fd87ee",
+      "createdAt": "2026-11-14T19:14:21.944Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-14T15:06:51.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "aespa-i-o-i-and-nct-dream-perform-on-first-day-of-melon-music-awards-2026",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: Performances From Melon Music Awards 2026 &#8211; DAY 1",
+        "url": "https://www.soompi.com/article/1886966wpp/watch-performances-from-melon-music-awards-2026-day-1"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1886966wpp/watch-performances-from-melon-music-awards-2026-day-1",
+          "chars": 1338,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-14T19:14:21.943Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/2c7f89fd87ee.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/15000731/mma_40275e.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "TRENDING",
+      "headline": "aespa, I.O.I and NCT DREAM perform on first day of Melon Music Awards 2026",
+      "dek": "The November 14 show at Gocheok Sky Dome featured performances from RIIZE, ATEEZ, TWS and more.",
+      "body": [
+        "The Melon Music Awards 2026 opened on November 14 at Gocheok Sky Dome, with aespa, I.O.I and NCT DREAM among the artists taking the stage.",
+        "Soompi shared performance videos from the first day, including aespa's three-song set of \"WDA,\" \"Switchblade\" and \"LEMONADE.\" I.O.I performed \"WHATTA MAN\" and \"Suddenly,\" while NCT DREAM presented \"BOOM,\" \"Better Than Gold\" and \"Boogie Woogie.\"",
+        "ATEEZ brought \"UP,\" \"Drip\" and \"BAD\" to the show. RIIZE also performed three songs, with \"INSOMNIA,\" \"Overdrive\" and \"Do your dance,\" while TWS took the stage with \"OVERDRIVE\" and \"You, You.\"",
+        "Yena's set included \"FIESTA,\" \"SMILEY\" and \"Catch Catch.\" HANA performed \"Blue Jeans,\" \"NON STOP\" and \"ROSE,\" and RESCENE sang \"With,\" \"Deja Vu\" and \"LOVE ATTACK.\"",
+        "The first day also featured Dragon Pony with \"Not Out\" and \"Calling Back,\" TUIDE with \"SUN KISS\" and \"GRLS,\" and Hearts2Hearts with \"15-LOVE\" and \"RUDE!\" AEN and IDID appeared together for \"X to Z\" and \"FLY!\""
+      ],
+      "socialCaption": "aespa, I.O.I, NCT DREAM and more took the MMA 2026 stage. Read HallyuScope for the first day's performance lineup.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#MelonMusicAwards",
+        "#aespa",
+        "#IOI",
+        "#NCTDREAM"
+      ],
+      "seoDescription": "See the first-day performance lineup from the 2026 Melon Music Awards, featuring aespa, I.O.I, NCT DREAM, ATEEZ, RIIZE and more artists.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "54e2f37f46c5",
       "createdAt": "2026-11-14T14:13:59.990Z",
