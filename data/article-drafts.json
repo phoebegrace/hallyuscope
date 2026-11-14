@@ -1,8 +1,127 @@
 {
-  "updatedAt": "2026-11-13T23:37:50.475Z",
+  "updatedAt": "2026-11-14T06:34:29.494Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
+    {
+      "id": "218374f73feb",
+      "createdAt": "2026-11-14T06:34:19.320Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-14T06:00:00.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "summer-vacation-episodes-5-and-6-put-a-new-romance-under-pressure",
+      "source": {
+        "publisher": "Soompi",
+        "title": "3 Times Things Got Oddly Complicated In Episodes 5-6 Of &#8220;Summer Vacation&#8221;",
+        "url": "https://www.soompi.com/article/1886625wpp/3-times-things-got-oddly-complicated-in-episodes-5-6-of-summer-vacation"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1886625wpp/3-times-things-got-oddly-complicated-in-episodes-5-6-of-summer-vacation",
+          "chars": 4288,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "She also blames Ha Yeon for her suffering, even though Ha Yeon does not take part in the bullying."
+        ],
+        "missingKeyFacts": [
+          "Jeong Yeon appears drawn to Sam Hee because she reminds him of the mysterious girl from his past."
+        ],
+        "checkedAt": "2026-11-14T06:34:19.318Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/218374f73feb.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/13115517/Summer-Vacation-5.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "K-DRAMA NEWS",
+      "headline": "Summer Vacation Episodes 5 and 6 Put a New Romance Under Pressure",
+      "dek": "Ha Yeon and Yu Gyeom's relationship faces fresh tension as Sae Ryeong returns to the village and another family story comes into focus.",
+      "body": [
+        "Episodes 5 and 6 of “Summer Vacation” bring Kim Ha Yeon and Jo Yu Gyeom together, but their new relationship is quickly complicated by the search for Seong Sae Ryeong and the fallout from her return.",
+        "Spoilers for episodes 5 and 6 follow.",
+        "After Sae Ryeong leaves, Ha Yeon, played by Cho Yi Hyun, persuades Yu Gyeom, played by Jin Young, to look for her for the sake of Sae Ryeong's grandmother. Their search takes them back to Seoul, where Sae Ryeong, played by Hong Ye Ji, meets another of Yu Gyeom's older sisters, who ran away years earlier.",
+        "Once Sae Ryeong returns to the village, her former friends bully and ostracize her. She also blames Ha Yeon for her suffering, even though Ha Yeon does not take part in the bullying. Yu Gyeom's decision to stand up for Sae Ryeong adds to the strain between him and Ha Yeon.",
+        "The episodes also spend time with Yu Gyeom's sister Jo Sam Hee, played by Shin Gi Hwan, and Ha Yeon's older brother Kim Jeong Yeon, played by Ryu Hae Jun. As the two grow closer, Jeong Yeon's troubled past and his memories of another girl complicate their connection. Sam Hee's romantic interest, meanwhile, remains one-sided.",
+        "With Sae Ryeong back in the village, Ha Yeon and Yu Gyeom must navigate the tensions surrounding her while their own relationship is still new."
+      ],
+      "socialCaption": "A new romance is already facing trouble in “Summer Vacation.” Read on HallyuScope for the key developments in episodes 5 and 6.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#SummerVacation",
+        "#ChoYiHyun",
+        "#JinYoung",
+        "#HongYeJi"
+      ],
+      "seoDescription": "Summer Vacation episodes 5 and 6 bring new tension for Ha Yeon and Yu Gyeom as Sae Ryeong returns and another family story comes into focus.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "11ef41415054",
+      "createdAt": "2026-11-14T06:34:29.082Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-14T03:13:48.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "bts-s-jimin-leads-november-boy-group-member-brand-reputation-ranking",
+      "source": {
+        "publisher": "Soompi",
+        "title": "November Boy Group Member Brand Reputation Rankings Announced",
+        "url": "https://www.soompi.com/article/1886853wpp/november-boy-group-member-brand-reputation-rankings-announced-8"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1886853wpp/november-boy-group-member-brand-reputation-rankings-announced-8",
+          "chars": 1503,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-14T06:34:29.082Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/11ef41415054.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/14121205/Jimin-San-Jinyoung.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "TRENDING",
+      "headline": "BTS's Jimin Leads November Boy Group Member Brand Reputation Ranking",
+      "dek": "ATEEZ's San and GOT7's Park Jinyoung followed Jimin in the Korean Business Research Institute's monthly ranking.",
+      "body": [
+        "BTS's Jimin held the No. 1 spot in the November brand reputation ranking for individual boy group members, according to the Korean Business Research Institute. ATEEZ's San rose to second place, while GOT7's Park Jinyoung took third.",
+        "The institute analyzed data for 755 boy group members collected from October 14 to November 14, Soompi reported. The ranking combines measures of consumer participation, media coverage, communication and community awareness.",
+        "Jimin recorded a brand reputation index of 4,733,558. Among the prominent phrases associated with him were “ARMY,” “Who” and “Jimtober.” His positivity-negativity analysis showed 95.23 percent positive reactions.",
+        "San's index rose 34.30 percent from October to 3,998,906. Park Jinyoung saw the largest month-to-month increase among the top five, with his score climbing 446.38 percent to 3,835,884.",
+        "ATEEZ's Wooyoung followed closely in fourth place with an index of 3,819,078, up 175.19 percent from the previous month. BTS's Jungkook completed the top five with 3,661,070, a 5.99 percent increase from October."
+      ],
+      "socialCaption": "Jimin leads November's boy group member brand reputation ranking, with San and Park Jinyoung close behind. Read on HallyuScope for the top five results.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#Jimin",
+        "#ATEEZ",
+        "#ParkJinyoung",
+        "#BTS"
+      ],
+      "seoDescription": "BTS's Jimin tops November's boy group member brand reputation ranking, followed by ATEEZ's San and GOT7's Park Jinyoung. See the top five scores.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "0ccf0059e92d",
       "createdAt": "2026-11-13T09:38:49.077Z",
