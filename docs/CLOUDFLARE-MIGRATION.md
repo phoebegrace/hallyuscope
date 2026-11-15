@@ -4,15 +4,16 @@ This branch is **not ready for production**. It intentionally leaves Vercel and 
 
 ## Phase 1: edge article and sitemap routing
 
-- Added Pages Functions for `/article`, `/article/:slug`, and `/sitemap.xml`.
+- Added Pages Functions for `/article`, `/article/:slug`, `/sitemap.xml`, and `/api/subscribe`.
 - These reuse the existing `api/article.js` and `api/sitemap.js` handlers through a read-only response adapter. Published-only article checks, server-rendered Open Graph meta and the dynamic sitemap remain centralized in their original files.
 - The functions still fetch article data from public GitHub `live-data`: this is a *compatibility step*, **not** the R2 migration.
 - `_routes.json` explicitly opts only these dynamic routes into Functions. Static pages/assets remain static.
-- Files under `api/` are still Vercel handlers, **not** deployed Cloudflare endpoints. The review dashboard, AI Center, newsletter, image upload, reactions and Meta publishing cannot safely be cut over yet.
+- The newsletter now has a separate Cloudflare Pages Function using `context.env.BREVO_API_KEY` and `context.env.BREVO_LIST_ID`, but its end-to-end Brevo integration still needs testing with real secrets.
+- Other files under `api/` are still Vercel handlers, **not** deployed Cloudflare endpoints. The review dashboard, AI Center, image upload, reactions and Meta publishing cannot safely be cut over yet.
 
 ## Required before preview or production cutover
 
-1. Port all remaining `/api/*` endpoints to Cloudflare Functions, using `context.env` for secrets, and test real requests. Puppeteer/Chromium social-card generation needs a dedicated compatibility review.
+1. Port all other `/api/*` endpoints to Cloudflare Functions, using `context.env` for secrets, and test real requests. Puppeteer/Chromium social-card generation needs a dedicated compatibility review.
 2. Provision R2 private editorial storage and public published-media storage. Do not place unpublished article drafts in a public bucket. Add `media.hallyuscope.com` and appropriate CORS and caching.
 3. Backfill published JSON and approved editorial images, change all readers/writers and GitHub Actions sync, then test public content from the new storage.
 4. Configure Cloudflare Pages project from GitHub `main` **after** migration is validated, with a static output directory containing the HTML/assets and a root `functions/` directory. No secrets in the repository.
