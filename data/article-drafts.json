@@ -1,8 +1,66 @@
 {
-  "updatedAt": "2026-11-14T23:02:39.869Z",
+  "updatedAt": "2026-11-15T02:44:52.882Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
+    {
+      "id": "95db8769b808",
+      "createdAt": "2026-11-15T02:44:52.605Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-14T23:45:00.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "chae-soo-bin-s-k-drama-roles-span-airport-romance-to-royal-intrigue",
+      "source": {
+        "publisher": "Soompi",
+        "title": "5 Must-Watch K-Dramas Starring Chae Soo Bin",
+        "url": "https://www.soompi.com/article/1885140wpp/5-must-watch-k-dramas-starring-chae-soo-bin"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1885140wpp/5-must-watch-k-dramas-starring-chae-soo-bin",
+          "chars": 5253,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-15T02:44:52.604Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/95db8769b808.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/15002504/Chae-Soo-Bin.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "K-DRAMA NEWS",
+      "headline": "Chae Soo Bin's K-Drama Roles Span Airport Romance to Royal Intrigue",
+      "dek": "A Soompi watchlist highlights five Chae Soo Bin performances, from a robot-themed romantic comedy to a tense marriage drama.",
+      "body": [
+        "Chae Soo Bin's screen roles have taken her from an airport workplace to a royal court and into some unusual romantic arrangements. A new Soompi watchlist looks at five dramas featuring the actress, with co-stars including Lee Je Hoon, Yoo Seung Ho and Yoo Yeon Seok.",
+        "In one airport-set romance, Chae plays Han Yeo Reum, an outspoken employee who catches the attention of Lee Je Hoon's Lee Soo Yeon. He is a gifted worker who keeps his colleagues at a distance while guarding a secret.",
+        "Chae also stars opposite Yoo Seung Ho in a romantic comedy about a man who believes he has acquired a robot. His attraction becomes complicated when he discovers that Chae's Jo Ji Ah is human, testing the trust between them.",
+        "For historical romance fans, Chae appears as Jo Ha Yeon alongside Kim Yoo Jung and Park Bo Gum. Kim plays Hong Ra On, a woman serving as a eunuch to Park's Crown Prince Lee Young, who is unaware of her identity. Chae's character adds another dimension to the palace story.",
+        "Another romance pairs Chae's drama writer Na Bo Bae with Kim Young Kwang's Baek Ho Rang, an heir with an artificial heart. After a lightning strike gives Bo Bae electrical powers, she discovers that she can recharge his heart without harming him. The pair enter an agreement that brings them closer.",
+        "A more tense relationship unfolds between Chae's Hong Hee Joo and Yoo Yeon Seok's Baek Sa Eon. Hee Joo, a sign language interpreter unable to speak since a childhood accident, has spent three years in a marriage of convenience with the presidential spokesperson. Her kidnapping becomes a turning point for the couple."
+      ],
+      "socialCaption": "From palace intrigue to unconventional romance, explore five Chae Soo Bin roles on HallyuScope.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#ChaeSooBin",
+        "#KDrama",
+        "#YooYeonSeok",
+        "#YooSeungHo"
+      ],
+      "seoDescription": "Explore five Chae Soo Bin K-drama roles, from an airport romance with Lee Je Hoon to a tense marriage drama alongside Yoo Yeon Seok.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "d3727e4d8658",
       "createdAt": "2026-11-14T19:14:12.617Z",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T23:02:22.505Z",
+  "updatedAt": "2026-11-15T02:44:25.009Z",
   "sources": [
     {
       "source": "HYBE LABELS",
@@ -8,7 +8,7 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3IZKseVpdzPSBaWxBxundA",
       "ok": false,
       "count": 0,
-      "ms": 132,
+      "ms": 159,
       "error": "404 Not Found for https://www.youtube.com/feeds/videos.xml?channel_id=UC3IZKseVpdzPSBaWxBxundA"
     },
     {
@@ -18,7 +18,7 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaO6TYtlC8U5ttz62hTrZgg",
       "ok": false,
       "count": 0,
-      "ms": 129,
+      "ms": 453,
       "error": "404 Not Found for https://www.youtube.com/feeds/videos.xml?channel_id=UCaO6TYtlC8U5ttz62hTrZgg"
     },
     {
@@ -27,7 +27,7 @@
       "sourceClass": "publisher",
       "ok": true,
       "count": 60,
-      "ms": 268
+      "ms": 358
     },
     {
       "source": "Kpopmap",
@@ -35,7 +35,7 @@
       "sourceClass": "publisher",
       "ok": true,
       "count": 0,
-      "ms": 216
+      "ms": 231
     },
     {
       "source": "Google News · K-pop",
@@ -43,7 +43,7 @@
       "sourceClass": "publisher",
       "ok": true,
       "count": 100,
-      "ms": 608
+      "ms": 588
     },
     {
       "source": "Google News · PH concerts",
@@ -51,15 +51,15 @@
       "sourceClass": "publisher",
       "ok": true,
       "count": 32,
-      "ms": 516
+      "ms": 467
     },
     {
       "source": "Google News · comebacks",
       "url": "https://news.google.com/rss/search?q=%28K-pop+OR+Kpop%29+%28comeback+OR+album+OR+single+OR+teaser%29+when%3A21d&hl=en-PH&gl=PH&ceid=PH%3Aen",
       "sourceClass": "publisher",
       "ok": true,
-      "count": 35,
-      "ms": 526
+      "count": 36,
+      "ms": 476
     }
   ]
 }
