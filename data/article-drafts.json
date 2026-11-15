@@ -1,8 +1,193 @@
 {
-  "updatedAt": "2026-11-15T02:44:52.882Z",
+  "updatedAt": "2026-11-15T11:04:40.524Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
+    {
+      "id": "f05930401209",
+      "createdAt": "2026-11-15T11:04:17.537Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-15T09:44:00.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "bts-ros-and-jennie-among-2026-nickelodeon-kids-choice-awards-winners",
+      "source": {
+        "publisher": "Soompi",
+        "title": "BTS, Rosé, Jennie, &#8220;KPop Demon Hunters,&#8221; And KATSEYE Win At 2026 Nickelodeon Kids’ Choice Awards",
+        "url": "https://www.soompi.com/article/1887086wpp/bts-rose-jennie-kpop-demon-hunters-and-katseye-win-at-2026-nickelodeon-kids-choice-awards"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1887086wpp/bts-rose-jennie-kpop-demon-hunters-and-katseye-win-at-2026-nickelodeon-kids-choice-awards",
+          "chars": 1257,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-15T11:04:17.536Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/f05930401209.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/15182922/bts-kdh-katseye-bp-KCA.png",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "TRENDING",
+      "headline": "BTS, Rosé and Jennie Among 2026 Nickelodeon Kids' Choice Awards Winners",
+      "dek": "BTS collected three awards, while KATSEYE and the film KPop Demon Hunters also earned recognition.",
+      "body": [
+        "BTS won three awards at the 2026 Nickelodeon Kids' Choice Awards, joining fellow winners Rosé, Jennie and KATSEYE. The ceremony took place on November 14, Soompi reported.",
+        "The group won every category in which it was nominated: Favorite Music Group, Favorite Song for “SWIM” and Favorite Album for “ARIRANG.” The Favorite Music Group win extended BTS's record in the category, which it previously won for four consecutive years from 2020 through 2023.",
+        "BLACKPINK members Rosé and Jennie each picked up an individual award. Rosé won Favorite Female Artist, while Jennie took Favorite Music Collaboration for “Dracula,” her collaboration with Tame Impala.",
+        "KATSEYE won Favorite Female Breakout Artist/Group and shared a brief acceptance speech. The animated film KPop Demon Hunters also had multiple wins, including Favorite Song from a Movie for “Golden.”",
+        "Two performers from the film were recognized for their voice roles. Arden Cho, who voiced Rumi, won Favorite Female Animated Voice from a Movie, while Ahn Hyo Seop, the voice of Jinu, won Favorite Male Animated Voice from a Movie."
+      ],
+      "socialCaption": "BTS, Rosé, Jennie and more took home Kids' Choice Awards. Read the full winners roundup on HallyuScope.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#BTS",
+        "#BLACKPINK",
+        "#KATSEYE",
+        "#KPopDemonHunters"
+      ],
+      "seoDescription": "BTS wins three 2026 Kids' Choice Awards, while Rosé, Jennie, KATSEYE and KPop Demon Hunters also take home prizes. See the K-pop winners.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "26f1f495d52b",
+      "createdAt": "2026-11-15T11:04:29.274Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-15T08:36:33.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "yim-si-wan-s-character-faces-a-new-truth-in-love-in-disguise",
+      "source": {
+        "publisher": "Soompi",
+        "title": "2 Points To Keep An Eye On In Yim Si Wan And Seol In Ah&#8217;s &#8220;Love In Disguise&#8221;",
+        "url": "https://www.soompi.com/article/1887065wpp/2-points-to-keep-an-eye-on-in-yim-si-wan-and-seol-in-ahs-love-in-disguise"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1887065wpp/2-points-to-keep-an-eye-on-in-yim-si-wan-and-seol-in-ahs-love-in-disguise",
+          "chars": 2069,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/home/article/465/0000020966",
+          "chars": 1545,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [
+          "The drama's related videos surpassed 850 million cumulative views within three weeks of its premiere.",
+          "The series ranked second among Prime Video's non-English original series for November 2–8 and reached the platform's TV top 10 in 47 countries and territories as of November 12.",
+          "Episodes 5–8 maintained ratings in the 5 percent range, leading Monday–Tuesday dramas."
+        ],
+        "checkedAt": "2026-11-15T11:04:29.274Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/26f1f495d52b.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/15173450/love-in-disguise-3-1-1.jpeg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Yim Si Wan's Character Faces a New Truth in 'Love in Disguise'",
+      "dek": "A secret about Seol In Ah's undercover secretary is out, but another could put her relationship with Yim Si Wan's chaebol heir at risk.",
+      "body": [
+        "Yoon Yi Jun and Kang Jae Hee's relationship is heading into uncertain territory in \"Love in Disguise,\" after an accident exposed one part of her undercover identity.",
+        "The romance thriller stars Yim Si Wan as Yi Jun, a chaebol heir suspected of murder, and Seol In Ah as Jae Hee, a former special forces officer investigating him. She has been working undercover as his personal secretary while posing as a man.",
+        "Yi Jun was initially wary of his new secretary, but his defenses began to fall as Jae Hee repeatedly put herself in danger to protect him. He eventually confessed his feelings for her, only to be rejected. Jae Hee, meanwhile, was wrestling with the fact that she was deceiving him.",
+        "A traffic accident then revealed that Jae Hee is a woman, leaving the pair to confront what that means for their relationship. Her work as an undercover detective remains a secret from Yi Jun, though he has already seen her meeting discreetly with fellow officer Kim Seok Jin, played by Nam Hae Jun.",
+        "Whether Jae Hee tells Yi Jun the truth about her investigation, or he discovers it himself, is another question facing the pair. The next episode airs November 15 at 8:50 p.m. KST, Soompi reported."
+      ],
+      "socialCaption": "One secret is out in Love in Disguise, but another still stands between its leads. Read on HallyuScope for what to watch next.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#LoveInDisguise",
+        "#YimSiWan",
+        "#SeolInAh",
+        "#KDrama"
+      ],
+      "seoDescription": "Yim Si Wan and Seol In Ah's characters face a turning point in Love in Disguise after an accident exposes part of her undercover identity.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "f4517b197772",
+      "createdAt": "2026-11-15T11:04:39.915Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-15T04:00:07.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "txt-s-yeonjun-shares-a-look-at-solo-living-in-i-live-alone-preview",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: TXT&#8217;s Yeonjun Reveals His Home + Hangs Out With Seo Bum June In &#8220;I Live Alone&#8221; Preview",
+        "url": "https://www.soompi.com/article/1887029wpp/watch-txts-yeonjun-reveals-his-home-hangs-out-with-seo-bum-june-in-i-live-alone-preview"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1887029wpp/watch-txts-yeonjun-reveals-his-home-hangs-out-with-seo-bum-june-in-i-live-alone-preview",
+          "chars": 1280,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "making pasta inspired by Ku Sung Hwan's on-screen cooking",
+          "Yeonjun later meets up with his friend Seo Bum June, with whom he previously co-hosted SBS's \"Inkigayo.\"",
+          "Seo Bum June playfully scolds the singer over the state of his refrigerator"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-15T11:04:39.914Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/f4517b197772.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/15125726/Yeonjun.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "TXT's Yeonjun Shares a Look at Solo Living in 'I Live Alone' Preview",
+      "dek": "The singer cooks, works out and catches up with former Inkigayo co-host Seo Bum June in a preview of the MBC show.",
+      "body": [
+        "TXT's Yeonjun is opening the door to his home on MBC's \"I Live Alone,\" where a new preview shows the singer settling into life on his own.",
+        "In the clip, Yeonjun introduces himself and says he is in his seventh month of living independently. He spends time at home cooking while watching actor Ku Sung Hwan on television, and reveals that he is a big fan of the actor. Ku Sung Hwan is visibly delighted by the admission.",
+        "The preview shows Yeonjun making pasta inspired by Ku Sung Hwan's on-screen cooking. He also takes a cue from the actor as he cleans and exercises at home, giving viewers a glimpse of how he spends time by himself.",
+        "Yeonjun later meets up with his friend Seo Bum June, with whom he previously co-hosted SBS's \"Inkigayo.\" The pair go grocery shopping together before Seo Bum June playfully scolds the singer over the state of his refrigerator.",
+        "Yeonjun comes to his own defense, explaining that he has not been living alone for long. His episode of \"I Live Alone\" is set to air on November 20 at 11:10 p.m. KST."
+      ],
+      "socialCaption": "Yeonjun shows off his home and reunites with Seo Bum June in a new I Live Alone preview. Read on HallyuScope for more from the clip.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#TXT",
+        "#Yeonjun",
+        "#ILiveAlone",
+        "#SeoBumJune"
+      ],
+      "seoDescription": "TXT's Yeonjun shares his solo living routine and meets Seo Bum June in a preview of MBC's I Live Alone, airing November 20 at 11:10 p.m. KST.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "95db8769b808",
       "createdAt": "2026-11-15T02:44:52.605Z",

@@ -1,25 +1,23 @@
 {
-  "updatedAt": "2026-11-15T02:44:25.009Z",
+  "updatedAt": "2026-11-15T11:03:43.806Z",
   "sources": [
     {
       "source": "HYBE LABELS",
       "sourceId": "hybe-labels-youtube",
       "sourceClass": "official",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3IZKseVpdzPSBaWxBxundA",
-      "ok": false,
-      "count": 0,
-      "ms": 159,
-      "error": "404 Not Found for https://www.youtube.com/feeds/videos.xml?channel_id=UC3IZKseVpdzPSBaWxBxundA"
+      "ok": true,
+      "count": 15,
+      "ms": 155
     },
     {
       "source": "JYP Entertainment",
       "sourceId": "jyp-entertainment-youtube",
       "sourceClass": "official",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaO6TYtlC8U5ttz62hTrZgg",
-      "ok": false,
-      "count": 0,
-      "ms": 453,
-      "error": "404 Not Found for https://www.youtube.com/feeds/videos.xml?channel_id=UCaO6TYtlC8U5ttz62hTrZgg"
+      "ok": true,
+      "count": 15,
+      "ms": 240
     },
     {
       "source": "Soompi",
@@ -27,7 +25,7 @@
       "sourceClass": "publisher",
       "ok": true,
       "count": 60,
-      "ms": 358
+      "ms": 308
     },
     {
       "source": "Kpopmap",
@@ -35,7 +33,7 @@
       "sourceClass": "publisher",
       "ok": true,
       "count": 0,
-      "ms": 231
+      "ms": 162
     },
     {
       "source": "Google News · K-pop",
@@ -43,7 +41,7 @@
       "sourceClass": "publisher",
       "ok": true,
       "count": 100,
-      "ms": 588
+      "ms": 593
     },
     {
       "source": "Google News · PH concerts",
@@ -51,15 +49,15 @@
       "sourceClass": "publisher",
       "ok": true,
       "count": 32,
-      "ms": 467
+      "ms": 471
     },
     {
       "source": "Google News · comebacks",
       "url": "https://news.google.com/rss/search?q=%28K-pop+OR+Kpop%29+%28comeback+OR+album+OR+single+OR+teaser%29+when%3A21d&hl=en-PH&gl=PH&ceid=PH%3Aen",
       "sourceClass": "publisher",
       "ok": true,
-      "count": 36,
-      "ms": 476
+      "count": 35,
+      "ms": 414
     }
   ]
 }
