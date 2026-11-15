@@ -1,8 +1,202 @@
 {
-  "updatedAt": "2026-11-15T17:47:18.677Z",
+  "updatedAt": "2026-11-15T22:54:46.371Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
+    {
+      "id": "7fd6d835354b",
+      "createdAt": "2026-11-15T22:54:22.581Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-15T21:54:09.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "p1harmony-earns-first-billboard-top-album-sales-no-1-with-blow-up",
+      "source": {
+        "publisher": "Soompi",
+        "title": "P1Harmony Scores First No. 1 Entry On Billboard Top Album Sales Chart With &#8220;BLOW UP&#8221;",
+        "url": "https://www.soompi.com/article/1887283wpp/p1harmony-scores-first-no-1-entry-on-billboard-top-album-sales-chart-with-blow-up"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1887283wpp/p1harmony-scores-first-no-1-entry-on-billboard-top-album-sales-chart-with-blow-up",
+          "chars": 1371,
+          "depth": 1
+        },
+        {
+          "publisher": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/olivia-rodrigo-pretty-sad-fifth-week-atop-billboard-200-1236382448/",
+          "chars": 6986,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "the best-selling album of the week in the United States",
+          "The editions contained collectibles such as photocards and posters, with some items randomized."
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-15T22:54:22.580Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/7fd6d835354b.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/16065135/P1Harmony_a73303.jpeg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "P1Harmony Earns First Billboard Top Album Sales No. 1 With 'BLOW UP'",
+      "dek": "The mini album also opens at No. 4 on the Billboard 200, tying the group's previous peak with 'UNIQUE.'",
+      "body": [
+        "P1Harmony has landed its first No. 1 on Billboard's Top Album Sales chart with “BLOW UP,” as the mini album becomes the best-selling album of the week in the United States.",
+        "The release also debuted at No. 4 on the Billboard 200, matching the group's highest position on the chart. P1Harmony previously reached No. 4 with “UNIQUE” in March, according to Billboard.",
+        "For the tracking week ending November 12, “BLOW UP” earned 45,000 equivalent album units in the United States, Luminate data showed. That total included 43,500 in traditional album sales and 1,500 streaming equivalent album units, representing 1.56 million on-demand official streams.",
+        "Billboard reported that the album's first-week sales were supported by 25 CD variants and five vinyl variants. The editions contained collectibles such as photocards and posters, with some items randomized.",
+        "“BLOW UP” is P1Harmony's third top 10 entry on the Billboard 200 and its seventh appearance on the chart overall, Soompi reported. Alongside “UNIQUE,” the group's earlier top 10 release was “EX,” which peaked at No. 9 in 2025."
+      ],
+      "socialCaption": "P1Harmony's “BLOW UP” has topped Billboard's Top Album Sales chart. Read on HallyuScope for the group's latest chart milestones.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#P1Harmony",
+        "#BLOWUP",
+        "#Billboard200",
+        "#TopAlbumSales"
+      ],
+      "seoDescription": "P1Harmony's BLOW UP debuts at No. 1 on Billboard's Top Album Sales chart and ties the group's Billboard 200 peak with a No. 4 entry on the chart.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "f2932286e97a",
+      "createdAt": "2026-11-15T22:54:34.633Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-15T21:02:59.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "illit-s-break-even-tops-billboard-world-albums-chart-as-ive-debuts-at-no-2",
+      "source": {
+        "publisher": "Soompi",
+        "title": "ILLIT, IVE, Stray Kids, CORTIS, ENHYPEN, K/DA, BTS, NMIXX, And More Sweep Top Spots On Billboard World Albums Chart",
+        "url": "https://www.soompi.com/article/1887270wpp/illit-ive-stray-kids-cortis-enhypen-k-da-bts-nmixx-and-more-sweep-top-spots-on-billboard-world-albums-chart"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1887270wpp/illit-ive-stray-kids-cortis-enhypen-k-da-bts-nmixx-and-more-sweep-top-spots-on-billboard-world-albums-chart",
+          "chars": 1864,
+          "depth": 1
+        },
+        {
+          "publisher": "Billboard",
+          "url": "https://www.billboard.com/charts/world-albums/",
+          "chars": 8643,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "following its physical release in the United States"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-15T22:54:34.632Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/f2932286e97a.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/16055620/ILLIT-IVE-Stray-Kids-CORTIS.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "ILLIT's 'BREAK EVEN' tops Billboard World Albums chart as IVE debuts at No. 2",
+      "dek": "ILLIT scored a World Albums No. 1 and a Billboard 200 milestone, while Stray Kids placed four releases on the chart.",
+      "body": [
+        "ILLIT's mini album \"BREAK EVEN\" has reached No. 1 on Billboard's World Albums chart for the week ending November 14, following its physical release in the United States.",
+        "The release also became the group's first top 10 album on the Billboard 200 and its first No. 1 on the Top Album Sales chart, Soompi reported. ILLIT had a second entry on World Albums with \"MAMIHLAPINATAPAI,\" which ranked No. 22 in its 27th week.",
+        "IVE followed at No. 2 with \"Looks Can Kill.\" The mini album also marked the group's first appearance on the Billboard 200.",
+        "Stray Kids placed four albums on World Albums, led by \"THIS & THAT\" at No. 3. \"KARMA\" came in at No. 7, \"DO IT\" at No. 19 and \"ATE\" returned to the chart at No. 25.",
+        "CORTIS held two spots with \"GREENGREEN\" at No. 4 and debut EP \"COLOR OUTSIDE THE LINES\" at No. 20. ENHYPEN's \"THE SIN : BLISS\" remained at No. 5, while League of Legends virtual group K/DA took No. 8 with \"FIRESTARTER.\"",
+        "BTS had three entries: \"Map of the Soul: 7 ~The Journey~\" at No. 10, \"Love Yourself: Answer\" at No. 13 and \"Love Yourself: Tear\" at No. 24. NMIXX's \"Strange Muse\" ranked No. 12 in its second week.",
+        "Other entries included BOYNEXTDOOR's \"HOME\" at No. 16, NewJeans' \"Get Up\" at No. 17, ATEEZ's \"GOLDEN HOUR : Part.5\" at No. 18 and LE SSERAFIM's \"PUREFLOW\" at No. 23. \"Get Up\" reached its 165th week on the chart."
+      ],
+      "socialCaption": "ILLIT leads Billboard's World Albums chart, with IVE and Stray Kids close behind. Read the full chart roundup on HallyuScope.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#ILLIT",
+        "#IVE",
+        "#StrayKids",
+        "#BillboardWorldAlbums"
+      ],
+      "seoDescription": "ILLIT's BREAK EVEN tops Billboard's World Albums chart, while IVE debuts at No. 2 and Stray Kids land four albums. See the week's K-pop chart roundup.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "e9d1c01f833c",
+      "createdAt": "2026-11-15T22:54:45.696Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-15T05:56:24.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "illit-tops-soompi-s-k-pop-chart-as-rescene-debuts-at-no-2",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Soompi&#8217;s K-Pop Music Chart 2026, November Week 3",
+        "url": "https://www.soompi.com/article/1887041wpp/soompis-k-pop-music-chart-2026-november-week-3"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1887041wpp/soompis-k-pop-music-chart-2026-november-week-3",
+          "chars": 1235,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [
+          "The chart is for the third week of November 2026."
+        ],
+        "copiedPhrases": [
+          "finally meeting someone long dreamed of after following a voice calling out to them"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-15T22:54:45.695Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/e9d1c01f833c.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/16031921/music-chart-2.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "TRENDING",
+      "headline": "ILLIT Tops Soompi's K-Pop Chart as RESCENE Debuts at No. 2",
+      "dek": "“You're Under Arrest” reaches No. 1 in its second chart week, while new songs by RESCENE and TWS enter the top 10.",
+      "body": [
+        "ILLIT has taken the top spot on Soompi's K-pop music chart for the third week of November 2026. “You're Under Arrest” climbed one place to No. 1 in its second week on the chart.",
+        "RESCENE followed at No. 2 with “With,” which made its chart debut. The song is the title track of the group's fourth mini album, “PULSE.” Its story centers on finally meeting someone long dreamed of after following a voice calling out to them.",
+        "IVE's “Looks Can Kill” completed the top three, falling two places from No. 1. The week's other new top 10 entry came from TWS, whose “Call My Name” debuted at No. 7.",
+        "“Call My Name” is the title track of TWS's second single album, “TO US.” Its sound combines drums and bass with jazz piano played by Yun Seok Cheol.",
+        "Soompi's chart combines Korean music chart rankings with data on artists trending on the site. Circle singles and albums account for 30 percent of the calculation, followed by Hanteo singles and albums and YouTube K-pop songs and music videos at 20 percent each. Apple Music Korea and Soompi airplay each contribute 15 percent."
+      ],
+      "socialCaption": "ILLIT takes No. 1 as RESCENE and TWS land new top 10 entries. Read the full chart update on HallyuScope.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#ILLIT",
+        "#RESCENE",
+        "#TWS",
+        "#IVE"
+      ],
+      "seoDescription": "ILLIT's You're Under Arrest tops Soompi's November week 3 chart, while RESCENE's With and TWS's Call My Name make top 10 debuts.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "72e5e784d6a6",
       "createdAt": "2026-11-15T17:46:55.011Z",
