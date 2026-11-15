@@ -3,7 +3,8 @@
   "include": [
     "/article",
     "/article/*",
-    "/sitemap.xml"
+    "/sitemap.xml",
+    "/api/subscribe"
   ],
   "exclude": []
 }
