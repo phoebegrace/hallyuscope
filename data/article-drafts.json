@@ -1,8 +1,196 @@
 {
-  "updatedAt": "2026-11-15T11:04:40.524Z",
+  "updatedAt": "2026-11-15T17:47:18.677Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
+    {
+      "id": "72e5e784d6a6",
+      "createdAt": "2026-11-15T17:46:55.011Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-15T15:51:52.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "ive-nct-127-and-plave-perform-at-melon-music-awards-2026-day-2",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: Performances From Melon Music Awards 2026 – DAY 2",
+        "url": "https://www.soompi.com/article/1887172wpp/watch-performances-from-melon-music-awards-2026-day-2"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1887172wpp/watch-performances-from-melon-music-awards-2026-day-2",
+          "chars": 1046,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-15T17:46:55.010Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/72e5e784d6a6.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/16004521/Melon-Music-Awards-Day-2-Performances.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "TRENDING",
+      "headline": "IVE, NCT 127 and PLAVE perform at Melon Music Awards 2026 Day 2",
+      "dek": "The second night of the awards brought ILLIT, NCT WISH and more artists to Seoul's Gocheok Sky Dome on November 15.",
+      "body": [
+        "The Melon Music Awards 2026 concluded on November 15 with a second night of performances at Gocheok Sky Dome in Seoul. IVE, NCT 127, PLAVE and ILLIT were among the artists on the Day 2 lineup, according to Soompi.",
+        "IVE performed “DEAR. CUPID,” “BANG BANG” and “Looks Can Kill,” while NCT 127's set included “Cherry Bomb,” “Kick It,” “Piñata” and “Blingy.” NCT WISH also took the stage with “BOY MEETS GIRL,” “We Own This Street” and “I SPY.”",
+        "PLAVE presented “Watch Me Woo!,” “Star Trace” and “Born Savage.” ILLIT performed “You're Under Arrest” and “It's Me,” and KiiiKiii's set featured “Pop Off Pop Off,” “Delulu” and “404 (New Era).”",
+        "LNGSHOT brought four songs to the show: “Saucin,” “Backseat,” “Moonwalkin” and “Bananas.” CORTIS performed “MONEYMONEYMONEY,” “REDRED” and “YOUNGCREATORCREW,” while ALPHA DRIVE ONE's set included “FREAK ALARM” and “BORN DIRE.”",
+        "The Day 2 performer lineup also included 82MAJOR, AND2BLE and hrtz.wav. Soompi shared videos of the night's performances alongside its coverage of the awards."
+      ],
+      "socialCaption": "IVE, NCT 127, PLAVE and more took the stage on MMA 2026's second night. Read HallyuScope for the performance lineup and setlists.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#MMA2026",
+        "#IVE",
+        "#NCT127",
+        "#PLAVE"
+      ],
+      "seoDescription": "IVE, NCT 127, PLAVE and ILLIT performed at Melon Music Awards 2026 Day 2 in Seoul. Explore the lineup and songs from the second night of the show.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "5290ce832ace",
+      "createdAt": "2026-11-15T17:47:07.365Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-15T14:46:15.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "bts-ive-and-cortis-take-top-honors-as-melon-music-awards-2026-wraps-up",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Winners Of Melon Music Awards 2026 – DAY 2",
+        "url": "https://www.soompi.com/article/1887152wpp/winners-of-melon-music-awards-2026-day-2"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1887152wpp/winners-of-melon-music-awards-2026-day-2",
+          "chars": 1383,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/home/article/469/0000965691",
+          "chars": 1854,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [
+          "aespa received the first-ever Global K-Artist of the Year award.",
+          "NCT WISH and ILLIT each won four awards."
+        ],
+        "checkedAt": "2026-11-15T17:47:07.364Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/5290ce832ace.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/15234522/Melon-Music-Awards-Day-2.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "TRENDING",
+      "headline": "BTS, IVE and CORTIS take top honors as Melon Music Awards 2026 wraps up",
+      "dek": "BTS finished the two-night ceremony with six awards, while IVE earned five and CORTIS received its first Daesang.",
+      "body": [
+        "BTS, IVE and CORTIS claimed the final three grand prizes at the Melon Music Awards 2026, which concluded November 15 at Gocheok Sky Dome in Seoul.",
+        "BTS won Artist of the Year, IVE took Song of the Year for \"BANG BANG,\" and CORTIS received Record of the Year. Soompi reported that five Daesangs were awarded across the two nights, including BTS's Album of the Year win for \"ARIRANG\" and aespa's Global K-Artist of the Year award on Day 1.",
+        "BTS led the overall tally with six awards, also picking up Best Male Group, TOP10, Global TOP10 and Stage of the Year. The group was unable to attend because of its tour schedule and delivered an acceptance message by video.",
+        "IVE collected five trophies, including Best Female Group and Best Music Video for \"BANG BANG,\" alongside TOP10 and Global TOP10 honors. During their acceptance speeches, the members thanked fans and staff, with Ahn Yujin reflecting on the work that goes into each release ahead of the group's fifth anniversary.",
+        "CORTIS finished with three awards, earning spots in both the TOP10 and Global TOP10 in addition to its first Daesang. ILLIT and KiiiKiii were recognized for Best Female Performance, while ALPHA DRIVE ONE and LNGSHOT received New Artist of the Year awards.",
+        "The 18th edition of the Melon Music Awards expanded to two days for the first time. Day 2 performers included IVE, NCT 127, NCT WISH, PLAVE, ILLIT and CORTIS."
+      ],
+      "socialCaption": "BTS, IVE and CORTIS took home the final grand prizes at MMA 2026. Read the winners recap on HallyuScope.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#MelonMusicAwards",
+        "#BTS",
+        "#IVE",
+        "#CORTIS"
+      ],
+      "seoDescription": "BTS, IVE and CORTIS won grand prizes at the Melon Music Awards 2026. See the major winners and highlights from the two-night ceremony in Seoul.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "b8868ebe6303",
+      "createdAt": "2026-11-15T17:47:17.923Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-15T11:39:31.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "nct-s-jisung-makes-a-dancing-entrance-in-crash-2-teaser",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: NCT&#8217;s Jisung Steals Officers&#8217; Hearts With His Charm In &#8220;Crash 2&#8221; Teaser",
+        "url": "https://www.soompi.com/article/1887140wpp/watch-ncts-jisung-steals-officers-hearts-with-his-charm-in-crash-2-teaser"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1887140wpp/watch-ncts-jisung-steals-officers-hearts-with-his-charm-in-crash-2-teaser",
+          "chars": 1463,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [
+          "Jisung is a member of NCT."
+        ],
+        "copiedPhrases": [
+          "the Traffic Crime Investigation team from Namgang Police Station becomes a regional investigative unit under the National Office of Investigation"
+        ],
+        "missingKeyFacts": [
+          "The original “Crash” was the first Korean drama to focus on traffic crime investigations."
+        ],
+        "checkedAt": "2026-11-15T17:47:17.922Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/b8868ebe6303.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/15202805/crash-2-jisung-kwaksunyoung-moonhee.png",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "NCT's Jisung Makes a Dancing Entrance in 'Crash 2' Teaser",
+      "dek": "The NCT member plays rookie officer Ji Dae Sae in the upcoming traffic crime drama, premiering November 16.",
+      "body": [
+        "NCT's Jisung is drawing attention at the police station in a new teaser for “Crash 2,” where he plays rookie officer Ji Dae Sae.",
+        "The clip begins with Min So Hee, played by Kwak Sun Young, and Eo Hyun Kyung, played by Moon Hee, hearing a commotion. When they go to see what is happening, they find Ji Dae Sae dancing for a group of fellow officers.",
+        "His performance leaves the pair wondering whether he is a celebrity. Min So Hee comments on how well his uniform suits him, while Eo Hyun Kyung thinks he looks like an idol and suspects a production may be filming at the station.",
+        "Yang Jo Ah's Yeom Bo Yeon then introduces the rookie to the two officers. When Min So Hee asks why she is so excited given that she is pregnant, Yeom Bo Yeon jokes that pregnancy does not stop her from appreciating the view.",
+        "“Crash 2” follows the 2024 drama “Crash.” In the new installment, the Traffic Crime Investigation team from Namgang Police Station becomes a regional investigative unit under the National Office of Investigation, handling traffic crime cases across the country.",
+        "The drama premieres November 16 at 10 p.m. KST."
+      ],
+      "socialCaption": "Jisung's rookie officer has the station talking in the new “Crash 2” teaser. Read on HallyuScope for a closer look at his entrance.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#Jisung",
+        "#NCT",
+        "#Crash2",
+        "#KDrama"
+      ],
+      "seoDescription": "NCT's Jisung plays rookie officer Ji Dae Sae in a new “Crash 2” teaser. The traffic crime drama premieres November 16 at 10 p.m. KST.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "f05930401209",
       "createdAt": "2026-11-15T11:04:17.537Z",
