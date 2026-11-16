@@ -1,8 +1,66 @@
 {
-  "updatedAt": "2026-11-16T11:35:55.121Z",
+  "updatedAt": "2026-11-16T22:13:17.190Z",
   "autoPublish": true,
   "note": "Auto-publish is ON. Newly generated HallyuScope articles publish immediately.",
   "items": [
+    {
+      "id": "4435865ac3c6",
+      "createdAt": "2026-11-16T22:13:16.149Z",
+      "status": "published",
+      "publishedAt": "2026-11-16T22:13:16.149Z",
+      "sourcePublishedAt": "2026-11-16T15:08:31.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "jennie-ive-and-kiiikiii-earn-2027-grammy-nominations",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Tame Impala &#038; Jennie&#8217;s &#8220;Dracula,&#8221; IVE&#8217;s &#8220;BANG BANG,&#8221; And KiiiKiii&#8217;s &#8220;404 (NEW ERA)&#8221; Nominated For 2027 Grammys",
+        "url": "https://www.soompi.com/article/1887716wpp/tame-impala-jennies-dracula-ives-bang-bang-and-kiiikiiis-404-new-era-nominated-for-2027-grammys"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1887716wpp/tame-impala-jennies-dracula-ives-bang-bang-and-kiiikiiis-404-new-era-nominated-for-2027-grammys",
+          "chars": 834,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "The 69th Grammy Awards will take place on February 7, 2027."
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-16T22:13:16.147Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/4435865ac3c6.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/17001045/grammys.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Jennie, IVE and KiiiKiii Earn 2027 Grammy Nominations",
+      "dek": "Jennie’s collaboration with Tame Impala is up for two awards, while IVE and KiiiKiii are nominated for Best Asian Pop Music Performance.",
+      "body": [
+        "Jennie, IVE and KiiiKiii are among the artists nominated for the 2027 Grammy Awards, with their songs appearing across three categories.",
+        "Tame Impala and Jennie’s collaboration “Dracula” is nominated for Record of the Year and Best Pop Duo/Group Performance. The nominations, announced November 16, give the track two chances at the ceremony.",
+        "IVE’s “BANG BANG” and KiiiKiii’s “404 (NEW ERA)” are both contenders for Best Asian Pop Music Performance. They join four other nominated songs in the category: BABYMETAL and Polyphia’s “SUNSET KISS,” BINI’s “UNANG KILIG,” LISA’s “YES” and SB19’s “VISA.”",
+        "The 69th Grammy Awards will take place on February 7, 2027."
+      ],
+      "socialCaption": "Jennie, IVE and KiiiKiii are headed into Grammy season with nominations. Read on HallyuScope for the categories and fellow nominees.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#Jennie",
+        "#IVE",
+        "#KiiiKiii",
+        "#Grammys"
+      ],
+      "seoDescription": "Jennie’s “Dracula” with Tame Impala earns two 2027 Grammy nominations, while IVE and KiiiKiii compete for Best Asian Pop Music Performance.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "f2bd7421ad87",
       "createdAt": "2026-11-16T11:33:26.822Z",
