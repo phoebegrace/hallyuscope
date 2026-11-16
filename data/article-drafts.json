@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T02:49:27.459Z",
+  "updatedAt": "2026-11-16T06:31:48.508Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -177,8 +177,8 @@
     {
       "id": "7fd6d835354b",
       "createdAt": "2026-11-15T22:54:22.581Z",
-      "status": "pending_review",
-      "publishedAt": null,
+      "status": "published",
+      "publishedAt": "2026-11-16T06:31:48.508Z",
       "sourcePublishedAt": "2026-11-15T21:54:09.000Z",
       "model": "gpt-6.1-terra",
       "qualityVersion": 3,
@@ -217,7 +217,7 @@
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/16065135/P1Harmony_a73303.jpeg",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+        "note": "HallyuScope original editorial cover."
       },
       "category": "COMEBACK NEWS",
       "headline": "P1Harmony Earns First Billboard Top Album Sales No. 1 With 'BLOW UP'",
@@ -230,15 +230,15 @@
         "“BLOW UP” is P1Harmony's third top 10 entry on the Billboard 200 and its seventh appearance on the chart overall, Soompi reported. Alongside “UNIQUE,” the group's earlier top 10 release was “EX,” which peaked at No. 9 in 2025."
       ],
       "socialCaption": "P1Harmony's “BLOW UP” has topped Billboard's Top Album Sales chart. Read on HallyuScope for the group's latest chart milestones.",
-      "socialHashtags": [
-        "#HallyuScope",
-        "#P1Harmony",
-        "#BLOWUP",
-        "#Billboard200",
-        "#TopAlbumSales"
-      ],
+      "socialHashtags": "#HallyuScope #P1Harmony #BLOWUP #Billboard200 #TopAlbumSales",
       "seoDescription": "P1Harmony's BLOW UP debuts at No. 1 on Billboard's Top Album Sales chart and ties the group's Billboard 200 peak with a No. 4 entry on the chart.",
-      "sourceNote": "Source: Soompi"
+      "sourceNote": "Source: Soompi",
+      "socialImageUrl": "",
+      "socialPlatforms": {
+        "facebook": true,
+        "instagram": true
+      },
+      "reviewedAt": "2026-11-16T06:31:48.508Z"
     },
     {
       "id": "f2932286e97a",
