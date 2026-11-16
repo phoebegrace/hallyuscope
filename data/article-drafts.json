@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T06:33:24.714Z",
+  "updatedAt": "2026-11-16T06:33:36.004Z",
   "autoPublish": true,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -122,8 +122,8 @@
     {
       "id": "2feaee75e30a",
       "createdAt": "2026-11-16T02:49:25.797Z",
-      "status": "pending_review",
-      "publishedAt": null,
+      "status": "published",
+      "publishedAt": "2026-11-16T06:33:36.004Z",
       "sourcePublishedAt": "2026-11-15T22:59:58.000Z",
       "model": "gpt-6.1-terra",
       "qualityVersion": 3,
@@ -153,7 +153,7 @@
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/16075602/NCT-DREAM-1.jpeg",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+        "note": "HallyuScope original editorial cover."
       },
       "category": "COMEBACK NEWS",
       "headline": "NCT DREAM Earns Ninth Million-Selling First Week With 'DREAM AFTER DREAM'",
@@ -164,15 +164,15 @@
         "The album arrived with the upbeat title track “Boogie Woogie.” It follows eight other NCT DREAM releases that cleared the same first-week threshold: “Hot Sauce,” “Glitch Mode,” “Candy,” “ISTJ,” “DREAM( )SCAPE,” “DREAMSCAPE,” “Go Back To The Future” and “Beat It Up.”"
       ],
       "socialCaption": "NCT DREAM has a ninth million-selling first week on Hanteo. Read on HallyuScope for the sales total and the milestone behind it.",
-      "socialHashtags": [
-        "#HallyuScope",
-        "#NCTDREAM",
-        "#DREAMAFTERDREAM",
-        "#BoogieWoogie",
-        "#HanteoChart"
-      ],
+      "socialHashtags": "#HallyuScope #NCTDREAM #DREAMAFTERDREAM #BoogieWoogie #HanteoChart",
       "seoDescription": "NCT DREAM's DREAM AFTER DREAM sold 1,002,558 copies in its first week, making it the group's ninth album to pass 1 million first-week sales on Hanteo.",
-      "sourceNote": "Source: Soompi"
+      "sourceNote": "Source: Soompi",
+      "socialImageUrl": "",
+      "socialPlatforms": {
+        "facebook": true,
+        "instagram": true
+      },
+      "reviewedAt": "2026-11-16T06:33:36.004Z"
     },
     {
       "id": "7fd6d835354b",
