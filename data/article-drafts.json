@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T06:34:01.848Z",
+  "updatedAt": "2026-11-16T06:35:09.428Z",
   "autoPublish": true,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -559,8 +559,8 @@
     {
       "id": "f05930401209",
       "createdAt": "2026-11-15T11:04:17.537Z",
-      "status": "pending_review",
-      "publishedAt": null,
+      "status": "published",
+      "publishedAt": "2026-11-16T06:35:09.428Z",
       "sourcePublishedAt": "2026-11-15T09:44:00.000Z",
       "model": "gpt-6.1-terra",
       "qualityVersion": 3,
@@ -590,7 +590,7 @@
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/15182922/bts-kdh-katseye-bp-KCA.png",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+        "note": "HallyuScope original editorial cover."
       },
       "category": "TRENDING",
       "headline": "BTS, Rosé and Jennie Among 2026 Nickelodeon Kids' Choice Awards Winners",
@@ -603,15 +603,15 @@
         "Two performers from the film were recognized for their voice roles. Arden Cho, who voiced Rumi, won Favorite Female Animated Voice from a Movie, while Ahn Hyo Seop, the voice of Jinu, won Favorite Male Animated Voice from a Movie."
       ],
       "socialCaption": "BTS, Rosé, Jennie and more took home Kids' Choice Awards. Read the full winners roundup on HallyuScope.",
-      "socialHashtags": [
-        "#HallyuScope",
-        "#BTS",
-        "#BLACKPINK",
-        "#KATSEYE",
-        "#KPopDemonHunters"
-      ],
+      "socialHashtags": "#HallyuScope #BTS #BLACKPINK #KATSEYE #KPopDemonHunters",
       "seoDescription": "BTS wins three 2026 Kids' Choice Awards, while Rosé, Jennie, KATSEYE and KPop Demon Hunters also take home prizes. See the K-pop winners.",
-      "sourceNote": "Source: Soompi"
+      "sourceNote": "Source: Soompi",
+      "socialImageUrl": "",
+      "socialPlatforms": {
+        "facebook": true,
+        "instagram": true
+      },
+      "reviewedAt": "2026-11-16T06:35:09.428Z"
     },
     {
       "id": "26f1f495d52b",
