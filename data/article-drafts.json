@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T06:33:49.179Z",
+  "updatedAt": "2026-11-16T06:33:51.960Z",
   "autoPublish": true,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -371,8 +371,8 @@
     {
       "id": "72e5e784d6a6",
       "createdAt": "2026-11-15T17:46:55.011Z",
-      "status": "pending_review",
-      "publishedAt": null,
+      "status": "published",
+      "publishedAt": "2026-11-16T06:33:51.960Z",
       "sourcePublishedAt": "2026-11-15T15:51:52.000Z",
       "model": "gpt-6.1-terra",
       "qualityVersion": 3,
@@ -402,7 +402,7 @@
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/16004521/Melon-Music-Awards-Day-2-Performances.jpg",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+        "note": "HallyuScope original editorial cover."
       },
       "category": "TRENDING",
       "headline": "IVE, NCT 127 and PLAVE perform at Melon Music Awards 2026 Day 2",
@@ -415,15 +415,15 @@
         "The Day 2 performer lineup also included 82MAJOR, AND2BLE and hrtz.wav. Soompi shared videos of the night's performances alongside its coverage of the awards."
       ],
       "socialCaption": "IVE, NCT 127, PLAVE and more took the stage on MMA 2026's second night. Read HallyuScope for the performance lineup and setlists.",
-      "socialHashtags": [
-        "#HallyuScope",
-        "#MMA2026",
-        "#IVE",
-        "#NCT127",
-        "#PLAVE"
-      ],
+      "socialHashtags": "#HallyuScope #MMA2026 #IVE #NCT127 #PLAVE",
       "seoDescription": "IVE, NCT 127, PLAVE and ILLIT performed at Melon Music Awards 2026 Day 2 in Seoul. Explore the lineup and songs from the second night of the show.",
-      "sourceNote": "Source: Soompi"
+      "sourceNote": "Source: Soompi",
+      "socialImageUrl": "",
+      "socialPlatforms": {
+        "facebook": true,
+        "instagram": true
+      },
+      "reviewedAt": "2026-11-16T06:33:51.960Z"
     },
     {
       "id": "5290ce832ace",
