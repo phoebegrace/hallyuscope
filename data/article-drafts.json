@@ -1,8 +1,722 @@
 {
-  "updatedAt": "2026-11-16T06:35:18.506Z",
+  "updatedAt": "2026-11-16T11:35:55.121Z",
   "autoPublish": true,
-  "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
+  "note": "Auto-publish is ON. Newly generated HallyuScope articles publish immediately.",
   "items": [
+    {
+      "id": "f2bd7421ad87",
+      "createdAt": "2026-11-16T11:33:26.822Z",
+      "status": "published",
+      "publishedAt": "2026-11-16T11:33:26.822Z",
+      "sourcePublishedAt": "2026-11-16T09:21:00.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "yg-entertainment-says-blackpink-group-activity-talks-are-ongoing",
+      "source": {
+        "publisher": "Soompi",
+        "title": "YG Entertainment Addresses Reports About BLACKPINK’s Group Activities",
+        "url": "https://www.soompi.com/article/1887648wpp/yg-entertainment-addresses-reports-about-blackpinks-group-activities"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1887648wpp/yg-entertainment-addresses-reports-about-blackpinks-group-activities",
+          "chars": 1132,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/home/article/144/0001150092",
+          "chars": 983,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "respects their wishes to focus on individual work for the time being"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-16T11:33:26.820Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/f2bd7421ad87.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/16182055/blackpink-2026.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "YG Entertainment says BLACKPINK group activity talks are ongoing",
+      "dek": "The agency responded after BLACKPINK was absent from the exclusive contract list in its latest quarterly report.",
+      "body": [
+        "YG Entertainment says discussions about BLACKPINK's group activities are ongoing after the group was left off the agency's latest list of artists under exclusive contracts.",
+        "The third-quarter report, released on November 16, listed BABYMONSTER, WINNER, Eun Ji Won and TREASURE under its exclusive contract section. BLACKPINK had appeared alongside those acts in the preceding semiannual report.",
+        "The omission prompted questions about the status of the group's agreement with YG. All four members, Jisoo, Jennie, Rosé and Lisa, renewed their contracts with the agency for group activities in December 2023. BLACKPINK had appeared in every regular report from the 2023 annual report through the latest semiannual report.",
+        "YG told Soompi that the members are currently pursuing individual activities while talks about group activities continue. The agency said it respects their wishes to focus on individual work for the time being and will continue discussions about BLACKPINK's future performances as a group.",
+        "In December 2023, YG also announced that it would not sign separate contracts for the members' individual activities. The latest quarterly report continued to identify BLACKPINK among the intellectual properties associated with YG's music, photo book and merchandise business."
+      ],
+      "socialCaption": "YG has responded to questions about BLACKPINK's group contract. Read on HallyuScope for what the agency said and what appeared in its latest report.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#BLACKPINK",
+        "#YGEntertainment",
+        "#BLINK",
+        "#BLACKPINKNews"
+      ],
+      "seoDescription": "YG Entertainment says BLACKPINK group activity talks continue after the group was absent from its latest exclusive contract list.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "2d28111b0e76",
+      "createdAt": "2026-11-16T11:33:38.437Z",
+      "status": "published",
+      "publishedAt": "2026-11-16T11:33:38.437Z",
+      "sourcePublishedAt": "2026-11-16T09:15:54.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "hwasa-s-good-goodbye-becomes-her-second-solo-music-video-to-reach-200-million-views",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Hwasa&#8217;s &#8220;Good Goodbye&#8221; Becomes Her 2nd Solo MV To Hit 200 Million Views",
+        "url": "https://www.soompi.com/article/1887636wpp/hwasas-good-goodbye-becomes-her-2nd-solo-mv-to-hit-200-million-views"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1887636wpp/hwasas-good-goodbye-becomes-her-2nd-solo-mv-to-hit-200-million-views",
+          "chars": 1032,
+          "depth": 1
+        },
+        {
+          "publisher": "T",
+          "url": "https://t.co/esvCXLawcR",
+          "chars": 887,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-16T11:33:38.437Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/2d28111b0e76.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/16181154/good-goodbye-hwasa.png",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "Hwasa's 'Good Goodbye' becomes her second solo music video to reach 200 million views",
+      "dek": "The MAMAMOO member's video, starring Park Jeong Min, reached the YouTube milestone just over a year after its release.",
+      "body": [
+        "Hwasa has added another solo music video to her 200 million views club. The MAMAMOO member's “Good Goodbye,” starring actor Park Jeong Min, passed the mark on YouTube at approximately 6 p.m. KST on November 16, Soompi reported.",
+        "Released on October 15, 2025, the video took approximately one year, one month and one day to reach the milestone. P NATION also celebrated the achievement in a social media post, sharing a link to the video.",
+        "“Good Goodbye” is Hwasa's second solo music video to surpass 200 million views, following “Maria.” The earlier video reached the same mark in approximately one year and 29 days, a similar stretch of time to “Good Goodbye.”",
+        "The milestone adds to Hwasa's YouTube achievements as a solo artist alongside her work with MAMAMOO. Fans can revisit “Good Goodbye” on YouTube."
+      ],
+      "socialCaption": "Hwasa's “Good Goodbye” has reached 200 million YouTube views. Read on HallyuScope for how it compares with her first solo video to hit the milestone.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#Hwasa",
+        "#MAMAMOO",
+        "#GoodGoodbye",
+        "#ParkJeongMin"
+      ],
+      "seoDescription": "Hwasa's “Good Goodbye,” starring Park Jeong Min, has surpassed 200 million YouTube views, becoming her second solo music video to reach the milestone.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "e648f868bf09",
+      "createdAt": "2026-11-16T11:33:51.892Z",
+      "status": "published",
+      "publishedAt": "2026-11-16T11:33:51.892Z",
+      "sourcePublishedAt": "2026-11-16T09:14:40.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "han-hyo-joo-steps-into-sports-agent-role-in-mbc-s-your-ground",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Han Hyo Joo Is A Lawyer-Turned-Agent In New Drama &#8220;Your Ground&#8221;",
+        "url": "https://www.soompi.com/article/1887579wpp/han-hyo-joo-is-a-lawyer-turned-agent-in-new-drama-your-ground"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1887579wpp/han-hyo-joo-is-a-lawyer-turned-agent-in-new-drama-your-ground",
+          "chars": 2290,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/408/0000328077",
+          "chars": 1803,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [
+          "Seo Hee Seung and Kang Hae Hwan were each other's first love; the sources establish only that Kang Hae Hwan was Seo Hee Seung's first love."
+        ],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-16T11:33:51.892Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/e648f868bf09.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/16175342/your-ground-1.jpeg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "K-DRAMA NEWS",
+      "headline": "Han Hyo Joo Steps Into Sports Agent Role in MBC's 'Your Ground'",
+      "dek": "The upcoming romance follows a former lawyer and a baseball player who reunite 11 years after their first love.",
+      "body": [
+        "Han Hyo Joo is heading into the world of baseball in MBC's upcoming drama “Your Ground,” with newly released stills offering a look at her character's career change.",
+        "The actor plays Seo Hee Seung, a former attorney at a major law firm who becomes a sports agent. The romance follows her reunion with Kang Hae Hwan, played by Gong Myoung, a baseball player whose career has stalled after a setback. With Hee Seung as his agent, he sets out to return to the field.",
+        "As Soompi reports, Hee Seung was a top student who never lost a case in court. After training in the United States and earning a sports agent license, she joins the agency Donghaeng at the request of Joy Law Firm representative Jo Gu Yeon, played by Cho Han Cheul.",
+        "The new images contrast her two professional lives. In one, she wears a black suit and looks directly ahead as an attorney. In another, she appears more relaxed and smiles after joining the agency.",
+        "Though confident in legal work, Hee Seung is new to professional baseball. She will draw on her judgment and negotiation skills as she learns to work with athletes. Her partnership with Hae Hwan also brings a personal history: the two were each other's first love and meet again after 11 years.",
+        "“Your Ground” is scheduled to premiere on MBC in December."
+      ],
+      "socialCaption": "Han Hyo Joo trades the courtroom for baseball in “Your Ground.” Read on HallyuScope for a look at her new role and its first-love connection.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#HanHyoJoo",
+        "#GongMyoung",
+        "#YourGround",
+        "#MBCDrama"
+      ],
+      "seoDescription": "Han Hyo Joo plays a lawyer turned sports agent opposite Gong Myoung in MBC's Your Ground, a baseball romance set to premiere in December.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "668f585a23cd",
+      "createdAt": "2026-11-16T11:34:06.395Z",
+      "status": "published",
+      "publishedAt": "2026-11-16T11:34:06.395Z",
+      "sourcePublishedAt": "2026-11-16T08:46:55.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "lee-joon-gi-and-sakaguchi-kentaro-face-a-breaking-point-in-kidnap-game",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Sakaguchi Kentaro Breaks His Promise To Lee Joon Gi As A Brutal Elimination Game Begins In “kiDnap GAME”",
+        "url": "https://www.soompi.com/article/1887572wpp/sakaguchi-kentaro-breaks-his-promise-to-lee-joon-gi-as-a-brutal-elimination-game-begins-in-kidnap-game"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1887572wpp/sakaguchi-kentaro-breaks-his-promise-to-lee-joon-gi-as-a-brutal-elimination-game-begins-in-kidnap-game",
+          "chars": 3062,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/home/article/396/0000761029",
+          "chars": 1187,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-16T11:34:06.394Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/668f585a23cd.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/16174643/kidnap-game-7.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Lee Joon Gi and Sakaguchi Kentaro Face a Breaking Point in 'kiDnap GAME'",
+      "dek": "An elimination vote puts the detective and doctor's fragile alliance under pressure in the preview for episode 7.",
+      "body": [
+        "Lee Joon Gi and Sakaguchi Kentaro's characters are headed for a clash as a new round of the survival game begins in Channel A's thriller “kiDnap GAME.”",
+        "The series follows seven people assigned separate missions in a kidnapping case spanning seven Asian cities. Each must complete their task ahead of the others to protect their loved ones and survive.",
+        "Sakaguchi plays Tokyo detective Niide Toshiro, who joined forces with Seoul doctor Han Ki Joo, played by Lee, after stopping him from taking his own life. Ki Joo has placed some faith in the detective's promise to save everyone, but has also warned him against betrayal.",
+        "In the episode 7 preview, the five remaining participants meet by video conference on the kidnapper's orders. Each receives a vote in an elimination game. Although cooperation could allow everyone to survive, fear of betrayal leads participants to nominate one another.",
+        "The arrival of Andy Wong, a Hong Kong international lawyer played by Stanley Yau, adds another complication. In a private meeting with Niide and Ki Joo, Andy proposes eliminating Naha participant Higa Kuranosuke, played by Mitsushima Shinnosuke. Niide agrees, prompting an angry response from Ki Joo.",
+        "Episode 7 of “kiDnap GAME” is scheduled to air on November 17 at 10 p.m. KST."
+      ],
+      "socialCaption": "A new vote tests Lee Joon Gi and Sakaguchi Kentaro's alliance in kiDnap GAME. Read on HallyuScope for what the episode 7 preview reveals.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#kiDnapGAME",
+        "#LeeJoonGi",
+        "#SakaguchiKentaro",
+        "#MitsushimaShinnosuke"
+      ],
+      "seoDescription": "Lee Joon Gi and Sakaguchi Kentaro's characters face a rift as an elimination vote begins in the episode 7 preview of Channel A's kiDnap GAME.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "e36fc54cf281",
+      "createdAt": "2026-11-16T11:34:19.124Z",
+      "status": "published",
+      "publishedAt": "2026-11-16T11:34:19.124Z",
+      "sourcePublishedAt": "2026-11-16T08:31:57.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "joy-looks-after-kim-hyun-jin-in-new-one-of-a-kind-romance-stills",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Joy Tends To Kim Hyun Jin As He Falls Ill In “One-Of-A-Kind Romance”",
+        "url": "https://www.soompi.com/article/1887384wpp/joy-tends-to-kim-hyun-jin-as-he-falls-ill-in-one-of-a-kind-romance"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1887384wpp/joy-tends-to-kim-hyun-jin-as-he-falls-ill-in-one-of-a-kind-romance",
+          "chars": 2332,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/445/0000490614",
+          "chars": 1063,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-16T11:34:19.123Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/e36fc54cf281.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/16120849/one-of-a-kind-romance-4-1.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "K-DRAMA NEWS",
+      "headline": "Joy Looks After Kim Hyun Jin in New ‘One-of-a-Kind Romance’ Stills",
+      "dek": "The upcoming episodes bring the wary pair closer as Joy’s character visits the top star’s home and cares for him.",
+      "body": [
+        "Red Velvet’s Joy and Kim Hyun Jin are showing a gentler side of their characters’ relationship in new stills from “One-of-a-Kind Romance.”",
+        "The images show Gong Yu Il, played by Joy, at the home of top star Tak Mu I, played by Kim Hyun Jin. She watches over him as he sleeps looking pale and prepares an ice pack for him, though she also appears flustered to find herself in his house, Soompi reported.",
+        "Based on a webtoon, the drama follows job seeker Gong Yu Il as she unexpectedly becomes Tak Mu I’s manager. The star carries emotional scars from a stalking incident, while a novel Gong Yu Il wrote years earlier helped him find the strength to keep going.",
+        "Their first encounters were far from warm. Troubled by a stalker, Tak Mu I grew suspicious of Gong Yu Il because she repeatedly crossed paths with him. His accusations left her bewildered and put the two at odds.",
+        "His attitude shifted when he learned that she had the unpublished third volume of “Star and Half Moon,” a novel that had comforted him amid the pressures of his entertainment career. But another careless comment, comparing the scent of her hair perfume to his stalker’s, caused Gong Yu Il to close herself off again.",
+        "Episodes 3 and 4 will reveal how Gong Yu Il comes to look after Tak Mu I. They are set to be released on November 16 at 6 p.m. KST on TVING, Viu and ABEMA."
+      ],
+      "socialCaption": "Joy and Kim Hyun Jin’s characters find themselves in an unexpected situation in “One-of-a-Kind Romance.” Read on HallyuScope for a look at their changing relationship.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#OneOfAKindRomance",
+        "#Joy",
+        "#KimHyunJin",
+        "#RedVelvet"
+      ],
+      "seoDescription": "Joy cares for Kim Hyun Jin in new One-of-a-Kind Romance stills as their characters move past suspicion. See what awaits in episodes 3 and 4.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "a53af8c1a789",
+      "createdAt": "2026-11-16T11:34:32.497Z",
+      "status": "published",
+      "publishedAt": "2026-11-16T11:34:32.497Z",
+      "sourcePublishedAt": "2026-11-16T08:20:41.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "crash-2-stills-reveal-lee-min-ki-and-kwak-sun-young-investigating-a-damaged-vehicle",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Lee Min Ki, Kwak Sun Young, And Jisung Investigate A Suspicious Accident In “Crash 2”",
+        "url": "https://www.soompi.com/article/1887455wpp/lee-min-ki-kwak-sun-young-and-jisung-investigate-a-suspicious-accident-in-crash-2"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1887455wpp/lee-min-ki-kwak-sun-young-and-jisung-investigate-a-suspicious-accident-in-crash-2",
+          "chars": 2263,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/home/article/112/0003813390",
+          "chars": 954,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [
+          "Ji Dae Se is considering the case while holding a notebook and pen."
+        ],
+        "copiedPhrases": [],
+        "missingKeyFacts": [
+          "The original Crash was the first Korean drama to focus on traffic crime investigations."
+        ],
+        "checkedAt": "2026-11-16T11:34:32.497Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/a53af8c1a789.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/16171817/crash-2-.png",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Crash 2 Stills Reveal Lee Min Ki and Kwak Sun Young Investigating a Damaged Vehicle",
+      "dek": "The returning traffic crime team takes on a suspected sudden acceleration case as NCT's Jisung joins the cast.",
+      "body": [
+        "Crash 2 has released new stills of Lee Min Ki and Kwak Sun Young investigating a suspicious accident ahead of the drama's premiere on November 16 at 10 p.m. KST.",
+        "The second installment of the 2024 drama Crash follows the Traffic Crime Investigation team, or T.C.I., as it moves from Namgang Police Station to a regional unit under the National Office of Investigation. The expanded team will handle traffic crime cases across the country.",
+        "In the new images, Lee's Cha Yeon Ho and Kwak's Min So Hee visit an unusual scene during their investigation. Cha also appears to encounter someone he knows at a research institute, raising questions about how the acquaintance might be connected to the team's first case.",
+        "Another still shows the heavily damaged interior of a vehicle, while Min's expression hints that she suspects more than an ordinary accident. The production team said T.C.I. will investigate a crash suspected to have been caused by sudden unintended acceleration.",
+        "NCT's Jisung appears as Ji Dae Se, the team's youngest officer and a new addition to T.C.I. One image shows him holding a notebook and pen as he considers the case. The production team also teased the investigators' chemistry as they settle into their new unit."
+      ],
+      "socialCaption": "The Crash 2 team is back with a suspicious accident and a new recruit. Read more about the first case on HallyuScope.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#Crash2",
+        "#LeeMinKi",
+        "#KwakSunYoung",
+        "#Jisung"
+      ],
+      "seoDescription": "Crash 2 releases new stills of Lee Min Ki, Kwak Sun Young and NCT's Jisung as the traffic crime team investigates a suspicious accident.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "c46890762de2",
+      "createdAt": "2026-11-16T11:34:51.018Z",
+      "status": "published",
+      "publishedAt": "2026-11-16T11:34:51.018Z",
+      "sourcePublishedAt": "2026-11-16T07:38:12.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "five-k-dramas-to-explore-after-make-me-tingle",
+      "source": {
+        "publisher": "Soompi",
+        "title": "5 K-Dramas To Watch If You Loved &#8220;Make Me Tingle&#8221;",
+        "url": "https://www.soompi.com/article/1886462wpp/5-k-dramas-to-watch-if-you-loved-make-me-tingle"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1886462wpp/5-k-dramas-to-watch-if-you-loved-make-me-tingle",
+          "chars": 6406,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [
+          "Do Ra Ik becomes embroiled in a murder investigation, and his relationship with his lawyer develops into romance."
+        ],
+        "checkedAt": "2026-11-16T11:34:51.018Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/c46890762de2.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/16101017/Make-Me-Tingle-100-Days-My-Prince-IDOL-I.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "K-DRAMA NEWS",
+      "headline": "Five K-Dramas to Explore After Make Me Tingle",
+      "dek": "From legal mysteries to palace romance, Soompi's watch list offers more stories for fans of Nam Ji Hyun and Kim Jae Yeong.",
+      "body": [
+        "Fans missing Nam Ji Hyun and Kim Jae Yeong after Make Me Tingle have several options for their next watch. In a recent list, Soompi highlighted five dramas that share a cast connection or explore themes of relationships and desire.",
+        "In Make Me Tingle, Nam plays marketing executive Gong Yeon Su opposite Kim as Dokgo Dal. Their romance follows two people whose views on love have been shaped by their upbringings, while leaving room for comedy and self-discovery.",
+        "For more of Nam, Suspicious Partner pairs her with Ji Chang Wook in a romance with a legal mystery at its center. Nam plays Eun Bong Hee, a former taekwondo athlete and legal professional framed for murder. She eventually works with prosecutor No Ji Wook, played by Ji, and their clashes give way to a deeper bond.",
+        "Both Make Me Tingle leads also appear in the historical drama 100 Days My Prince. Nam stars as Hong Shim, who enters an unexpected marriage with an amnesiac crown prince played by Doh Kyung Soo. Kim plays her older brother Seok Ha, who becomes involved in a conspiracy against the prince.",
+        "Kim takes on another romantic role in Love in Contract, playing a popular actor who asks a professional contract wife, played by Park Min Young, to pose as his spouse. Her long-standing client, played by Ko Kyung Pyo, is also drawn into the story.",
+        "Soompi's other picks include a murder mystery in which Kim plays idol Do Ra Ik, whose lawyer and biggest fan is played by Sooyoung. The list also recommends a series starring Hani and Woo Hee as friends who host a podcast about intimacy and desire."
+      ],
+      "socialCaption": "Looking for your next watch after Make Me Tingle? Read HallyuScope's guide to five dramas with familiar faces and relationship stories.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#MakeMeTingle",
+        "#NamJiHyun",
+        "#KimJaeYeong",
+        "#SuspiciousPartner"
+      ],
+      "seoDescription": "Find five K-dramas to watch after Make Me Tingle, including Suspicious Partner, 100 Days My Prince and Love in Contract.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "8b2d553fad4e",
+      "createdAt": "2026-11-16T11:35:05.920Z",
+      "status": "published",
+      "publishedAt": "2026-11-16T11:35:05.920Z",
+      "sourcePublishedAt": "2026-11-16T06:45:10.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "jun-ji-hyun-and-ahn-hyo-seop-review-offers-for-intimate-strangers-sequel",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Jun Ji Hyun And Ahn Hyo Seop In Talks To Lead Sequel To Film “Intimate Strangers”",
+        "url": "https://www.soompi.com/article/1887541wpp/jun-ji-hyun-and-ahn-hyo-seop-in-talks-to-lead-sequel-to-film-intimate-strangers"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1887541wpp/jun-ji-hyun-and-ahn-hyo-seop-in-talks-to-lead-sequel-to-film-intimate-strangers",
+          "chars": 1740,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/home/article/117/0004125338",
+          "chars": 799,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "four couples whose phones begin ringing after they connect to an advanced AI home system"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-16T11:35:05.919Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/8b2d553fad4e.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/16154306/jun-ji-hyun-ahn-hyo-seop.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Jun Ji Hyun and Ahn Hyo Seop Review Offers for Intimate Strangers Sequel",
+      "dek": "The actors are considering roles in a follow-up to the 2018 Korean film, with production preparations expected to begin soon.",
+      "body": [
+        "Jun Ji Hyun and Ahn Hyo Seop are considering offers to star in Intimate Strangers 2, a sequel to the 2018 Korean film, Soompi reported.",
+        "Their agencies, PEACHY COMPANY and THE PRESENT COMPANY, each confirmed that their actor had received an offer and was reviewing it. The statements followed a November 16 report by MyDaily that the two would appear in the film.",
+        "The sequel follows four couples whose phones begin ringing after they connect to an advanced AI home system. As the evening unfolds, hidden truths emerge, with jealousy and feelings of inferiority driving desires that continue beyond the game.",
+        "Jun has reportedly been offered the role of Jung Yoon Ah, a beauty influencer and brand CEO determined to protect her seemingly perfect life. Ahn's proposed character is a younger media artist romantically involved with Jung Yoon Ah.",
+        "The original Intimate Strangers drew approximately 5.29 million moviegoers after its 2018 release. Directed by Lee Jae Gyu and written by Bae Se Young, the black comedy was a remake of the 2016 Italian film Perfect Strangers.",
+        "The sequel is expected to enter pre-production soon, with filming planned for early next year. Jun is currently wrapping filming on the upcoming JTBC drama Human X Gumiho, while Ahn is starring in the JTBC drama Final Table."
+      ],
+      "socialCaption": "Jun Ji Hyun and Ahn Hyo Seop are reviewing offers for Intimate Strangers 2. Read on HallyuScope for the story and their proposed roles.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#JunJiHyun",
+        "#AhnHyoSeop",
+        "#IntimateStrangers2",
+        "#IntimateStrangers"
+      ],
+      "seoDescription": "Jun Ji Hyun and Ahn Hyo Seop are reviewing offers for Intimate Strangers 2, a sequel to the 2018 Korean hit about couples and their secrets.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "4eb0c801685f",
+      "createdAt": "2026-11-16T11:35:21.100Z",
+      "status": "published",
+      "publishedAt": "2026-11-16T11:35:21.100Z",
+      "sourcePublishedAt": "2026-11-16T06:03:22.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "kim-woo-bin-takes-on-a-struggling-school-baseball-team-in-new-gift-teaser",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: Kim Woo Bin’s New Baseball Team Is Not What He Expected In “GIFT” Teaser",
+        "url": "https://www.soompi.com/article/1887460wpp/watch-kim-woo-bins-new-baseball-team-is-not-what-he-expected-in-gift-teaser"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1887460wpp/watch-kim-woo-bins-new-baseball-team-is-not-what-he-expected-in-gift-teaser",
+          "chars": 1970,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/312/0000784592",
+          "chars": 1246,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [
+          "The Dukchun High School baseball team is at risk of being disbanded."
+        ],
+        "checkedAt": "2026-11-16T11:35:21.100Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/4eb0c801685f.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/16134648/gift_c48106.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "Kim Woo Bin Takes On a Struggling School Baseball Team in New 'GIFT' Teaser",
+      "dek": "The tvN sports drama follows a former professional pitching coach as he faces a new challenge at Dukchun High School.",
+      "body": [
+        "Kim Woo Bin has a tough season ahead in the latest teaser for tvN's upcoming sports drama \"GIFT.\" The actor plays Jung Min Yong, a former professional baseball pitching coach who takes charge of a high school team near the bottom of the national rankings.",
+        "Based on a webtoon, the series follows Jung after an unexpected accident leaves him with a special ability. His new job brings him to Dukchun High School, where the baseball team has spent years falling out of major competitions in the preliminary rounds.",
+        "As Soompi reports, the teaser begins with Jung confident in his ability to recognize talent. His assessment of the Dukchun players quickly tests that confidence, and he struggles to conceal his frustration with their skills.",
+        "Jung's blunt approach puts him at odds with the players, whose different personalities also bring humor to their encounters. The team, meanwhile, remains determined to win, even as its new coach warns against expecting miraculous comebacks.",
+        "Later in the teaser, Yoon Seo Jin, played by Seo Eun Soo, calls on the players to act with one heart and one mind. Jung describes that spirit as the way Dukchun plays baseball.",
+        "\"GIFT\" premieres December 5 at 9:10 p.m. KST on tvN."
+      ],
+      "socialCaption": "Kim Woo Bin faces a challenging new team in the latest 'GIFT' teaser. Read on HallyuScope for what to expect from the sports drama.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#KimWooBin",
+        "#GIFT",
+        "#SeoEunSoo",
+        "#tvNDrama"
+      ],
+      "seoDescription": "Kim Woo Bin coaches a struggling high school baseball team in the new teaser for tvN sports drama 'GIFT,' premiering December 5 at 9:10 p.m. KST.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "cd8e6ff9d1b8",
+      "createdAt": "2026-11-16T11:35:39.498Z",
+      "status": "published",
+      "publishedAt": "2026-11-16T11:35:39.498Z",
+      "sourcePublishedAt": "2026-11-16T04:57:23.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "ju-ji-hoon-leaves-blitzway-entertainment-plans-independent-company",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Ju Ji Hoon Leaves Agency + To Establish His Own Company",
+        "url": "https://www.soompi.com/article/1887403wpp/ju-ji-hoon-leaves-agency-to-establish-his-own-company"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1887403wpp/ju-ji-hoon-leaves-agency-to-establish-his-own-company",
+          "chars": 1252,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/117/0004125429",
+          "chars": 591,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "decided to conclude their contractual relationship"
+        ],
+        "missingKeyFacts": [
+          "Ju owns a 5.73% stake in Blitzway, amounting to 571,418 shares."
+        ],
+        "checkedAt": "2026-11-16T11:35:39.498Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/cd8e6ff9d1b8.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/16130827/ju-ji-hoon00.jpeg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Ju Ji Hoon Leaves Blitzway Entertainment, Plans Independent Company",
+      "dek": "The actor is preparing to establish his own company after his exclusive contract with Blitzway Entertainment expired.",
+      "body": [
+        "Ju Ji Hoon is preparing to start his own company after ending his exclusive contract with Blitzway Entertainment, the agency announced on November 16.",
+        "In a statement reported by Soompi, Blitzway said the two sides decided to conclude their contractual relationship after extended discussions. The agency said it would support the actor's new beginning and thanked him for helping shape the company's direction and values.",
+        "Blitzway also noted Ju's 16-year relationship with its key executives, saying their decision followed conversations about their respective futures.",
+        "MyDaily reported that Ju is taking the independent route alongside a management director who has worked with him for more than a decade. According to the outlet, he is also assembling a new team.",
+        "The actor began a new chapter with H& Entertainment in 2020. The agency was acquired and merged into Blitzway in October 2023, MyDaily reported.",
+        "Ju made his debut as a model in 2003 before beginning his acting career with the 2006 drama \"Princess Hours.\" MyDaily reported that he is appearing in Disney+'s \"The Remarried Empress\" and has finished filming the Netflix original \"Viking.\" He is also working on a new season of \"The Trauma Code: Heroes on Call.\""
+      ],
+      "socialCaption": "Ju Ji Hoon is preparing to establish his own company. Read on HallyuScope for the agency's statement and his next projects.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#JuJiHoon",
+        "#BlitzwayEntertainment",
+        "#TheRemarriedEmpress",
+        "#TheTraumaCode"
+      ],
+      "seoDescription": "Ju Ji Hoon leaves Blitzway Entertainment after his contract expires and prepares to launch his own company. Here's what the agency said about his departure.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "19e5ad65bfa0",
+      "createdAt": "2026-11-16T11:35:54.215Z",
+      "status": "published",
+      "publishedAt": "2026-11-16T11:35:54.215Z",
+      "sourcePublishedAt": "2026-11-16T04:11:04.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "suzy-and-lee-jin-uk-face-past-relationships-in-new-film-teaser",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: Suzy And Lee Jin Uk Attend “Seven O’Clock Breakfast Club For The Brokenhearted” In New Film Teasers",
+        "url": "https://www.soompi.com/article/1887373wpp/watch-suzy-and-lee-jin-uk-attend-seven-oclock-breakfast-club-for-the-brokenhearted-in-new-film-teasers"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1887373wpp/watch-suzy-and-lee-jin-uk-attend-seven-oclock-breakfast-club-for-the-brokenhearted-in-new-film-teasers",
+          "chars": 1933,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/movie/article/421/0009290664",
+          "chars": 1085,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [
+          "The film is directed by Lim Sun Ae.",
+          "Sa Gang and Ji Hoon search for breakup mementos that were accidentally swapped."
+        ],
+        "checkedAt": "2026-11-16T11:35:54.214Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/19e5ad65bfa0.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/16115607/Seven-OClock-Breakfast-Club-for-the-Brokenhearted-1.jpeg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "Suzy and Lee Jin Uk Face Past Relationships in New Film Teaser",
+      "dek": "The stars attend a gathering for the heartbroken in the latest poster and trailer for Seven O’Clock Breakfast Club for the Brokenhearted.",
+      "body": [
+        "Suzy and Lee Jin Uk are bringing stories of lost love to the screen in Seven O’Clock Breakfast Club for the Brokenhearted. A new poster and trailer introduce their characters as they attend a morning gathering for people coping with breakups.",
+        "Based on Baek Young Ok’s 2012 novel of the same name, the film follows flight attendant Sa Gang, played by Suzy, and consultant Ji Hoon, played by Lee Jin Uk. At the breakfast meeting, participants share their experiences and exchange mementos connected to past relationships.",
+        "The trailer opens with Sa Gang ending a relationship before showing her and Ji Hoon at the gathering. One scene follows Sa Gang as she leaves with a Rolleiflex camera carrying traces of Ji Hoon’s previous relationship. Ji Hoon then tries to retrieve it.",
+        "Sa Gang is dealing with her breakup from airline captain Jung Soo, played by Yoo Ji Tae. Ji Hoon, meanwhile, is looking back on a long relationship with Hyun Jung, played by Keum Sae Rok.",
+        "The poster places Sa Gang and Ji Hoon at the 7 a.m. meeting, with their subdued expressions hinting at the loneliness and lingering feelings they have brought with them. Seven O’Clock Breakfast Club for the Brokenhearted is scheduled to open in theaters on December 30."
+      ],
+      "socialCaption": "Suzy and Lee Jin Uk bring breakup stories to a morning gathering in their new film. Read about the teaser on HallyuScope.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#Suzy",
+        "#LeeJinUk",
+        "#SevenOClockBreakfastClub",
+        "#KoreanFilm"
+      ],
+      "seoDescription": "Suzy and Lee Jin Uk navigate heartbreak in a new poster and trailer for Seven O’Clock Breakfast Club for the Brokenhearted, opening in theaters December 30.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "2a0eb4d3d998",
       "createdAt": "2026-11-16T02:49:03.877Z",
@@ -37,7 +751,7 @@
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/16111441/good-partner-2-1-1.png",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
       "category": "COMEBACK NEWS",
       "headline": "Good Partner 2 Teaser Brings Back Season 1 Faces to Celebrate Cha Eun Kyung's New Firm",
@@ -96,7 +810,7 @@
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/16082559/Lee-Chae-Yeon-Chaeryeong.jpg",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
       "category": "HALLYU NEWS",
       "headline": "ITZY's Chaeryeong Meets Sister Lee Chae Yeon in 'The Manager' Preview",
@@ -153,7 +867,7 @@
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/16075602/NCT-DREAM-1.jpeg",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
       "category": "COMEBACK NEWS",
       "headline": "NCT DREAM Earns Ninth Million-Selling First Week With 'DREAM AFTER DREAM'",
@@ -212,12 +926,12 @@
         "missingKeyFacts": [],
         "checkedAt": "2026-11-15T22:54:22.580Z"
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/7fd6d835354b-article-mwivz60t.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/7fd6d835354b.svg",
       "imageType": "hallyuscope_original",
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/16065135/P1Harmony_a73303.jpeg",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
       "category": "COMEBACK NEWS",
       "headline": "P1Harmony Earns First Billboard Top Album Sales No. 1 With 'BLOW UP'",
@@ -282,7 +996,7 @@
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/16055620/ILLIT-IVE-Stray-Kids-CORTIS.jpg",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
       "category": "COMEBACK NEWS",
       "headline": "ILLIT's 'BREAK EVEN' tops Billboard World Albums chart as IVE debuts at No. 2",
@@ -345,7 +1059,7 @@
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/16031921/music-chart-2.jpg",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
       "category": "TRENDING",
       "headline": "ILLIT Tops Soompi's K-Pop Chart as RESCENE Debuts at No. 2",
@@ -402,7 +1116,7 @@
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/16004521/Melon-Music-Awards-Day-2-Performances.jpg",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
       "category": "TRENDING",
       "headline": "IVE, NCT 127 and PLAVE perform at Melon Music Awards 2026 Day 2",
@@ -468,7 +1182,7 @@
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/15234522/Melon-Music-Awards-Day-2.jpg",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
       "category": "TRENDING",
       "headline": "BTS, IVE and CORTIS take top honors as Melon Music Awards 2026 wraps up",
@@ -532,7 +1246,7 @@
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/15202805/crash-2-jisung-kwaksunyoung-moonhee.png",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
       "category": "COMEBACK NEWS",
       "headline": "NCT's Jisung Makes a Dancing Entrance in 'Crash 2' Teaser",
@@ -590,7 +1304,7 @@
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/15182922/bts-kdh-katseye-bp-KCA.png",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
       "category": "TRENDING",
       "headline": "BTS, Rosé and Jennie Among 2026 Nickelodeon Kids' Choice Awards Winners",
@@ -657,7 +1371,7 @@
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/15173450/love-in-disguise-3-1-1.jpeg",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
       "category": "HALLYU NEWS",
       "headline": "Yim Si Wan's Character Faces a New Truth in 'Love in Disguise'",
