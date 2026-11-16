@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T06:33:44.918Z",
+  "updatedAt": "2026-11-16T06:33:47.310Z",
   "autoPublish": true,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -310,8 +310,8 @@
     {
       "id": "e9d1c01f833c",
       "createdAt": "2026-11-15T22:54:45.696Z",
-      "status": "pending_review",
-      "publishedAt": null,
+      "status": "published",
+      "publishedAt": "2026-11-16T06:33:47.310Z",
       "sourcePublishedAt": "2026-11-15T05:56:24.000Z",
       "model": "gpt-6.1-terra",
       "qualityVersion": 3,
@@ -345,7 +345,7 @@
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/16031921/music-chart-2.jpg",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+        "note": "HallyuScope original editorial cover."
       },
       "category": "TRENDING",
       "headline": "ILLIT Tops Soompi's K-Pop Chart as RESCENE Debuts at No. 2",
@@ -358,15 +358,15 @@
         "Soompi's chart combines Korean music chart rankings with data on artists trending on the site. Circle singles and albums account for 30 percent of the calculation, followed by Hanteo singles and albums and YouTube K-pop songs and music videos at 20 percent each. Apple Music Korea and Soompi airplay each contribute 15 percent."
       ],
       "socialCaption": "ILLIT takes No. 1 as RESCENE and TWS land new top 10 entries. Read the full chart update on HallyuScope.",
-      "socialHashtags": [
-        "#HallyuScope",
-        "#ILLIT",
-        "#RESCENE",
-        "#TWS",
-        "#IVE"
-      ],
+      "socialHashtags": "#HallyuScope #ILLIT #RESCENE #TWS #IVE",
       "seoDescription": "ILLIT's You're Under Arrest tops Soompi's November week 3 chart, while RESCENE's With and TWS's Call My Name make top 10 debuts.",
-      "sourceNote": "Source: Soompi"
+      "sourceNote": "Source: Soompi",
+      "socialImageUrl": "",
+      "socialPlatforms": {
+        "facebook": true,
+        "instagram": true
+      },
+      "reviewedAt": "2026-11-16T06:33:47.310Z"
     },
     {
       "id": "72e5e784d6a6",
