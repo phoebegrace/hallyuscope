@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T06:33:20.336Z",
+  "updatedAt": "2026-11-16T06:33:22.551Z",
   "autoPublish": true,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -63,8 +63,8 @@
     {
       "id": "df6d93c5a9b7",
       "createdAt": "2026-11-16T02:49:15.275Z",
-      "status": "pending_review",
-      "publishedAt": null,
+      "status": "published",
+      "publishedAt": "2026-11-16T06:33:22.551Z",
       "sourcePublishedAt": "2026-11-15T23:27:32.000Z",
       "model": "gpt-6.1-terra",
       "qualityVersion": 3,
@@ -96,7 +96,7 @@
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/16082559/Lee-Chae-Yeon-Chaeryeong.jpg",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+        "note": "HallyuScope original editorial cover."
       },
       "category": "HALLYU NEWS",
       "headline": "ITZY's Chaeryeong Meets Sister Lee Chae Yeon in 'The Manager' Preview",
@@ -109,15 +109,15 @@
         "The exchange ends in laughter when Chaeryeong says she knew how her sister would respond. Her episode of \"The Manager\" is scheduled to air on November 21 at 11:10 p.m. KST."
       ],
       "socialCaption": "Chaeryeong shares a candid moment with sister Lee Chae Yeon in a new \"The Manager\" preview. Read more about their exchange on HallyuScope.",
-      "socialHashtags": [
-        "#HallyuScope",
-        "#ITZY",
-        "#Chaeryeong",
-        "#LeeChaeYeon",
-        "#TheManager"
-      ],
+      "socialHashtags": "#HallyuScope #ITZY #Chaeryeong #LeeChaeYeon #TheManager",
       "seoDescription": "ITZY's Chaeryeong meets sister Lee Chae Yeon for a candid meal and shares her daily routine in a preview of MBC's reality show The Manager.",
-      "sourceNote": "Source: Soompi"
+      "sourceNote": "Source: Soompi",
+      "socialImageUrl": "",
+      "socialPlatforms": {
+        "facebook": true,
+        "instagram": true
+      },
+      "reviewedAt": "2026-11-16T06:33:22.551Z"
     },
     {
       "id": "2feaee75e30a",
