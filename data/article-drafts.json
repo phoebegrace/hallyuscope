@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T06:33:54.912Z",
+  "updatedAt": "2026-11-16T06:33:56.716Z",
   "autoPublish": true,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -428,8 +428,8 @@
     {
       "id": "5290ce832ace",
       "createdAt": "2026-11-15T17:47:07.365Z",
-      "status": "pending_review",
-      "publishedAt": null,
+      "status": "published",
+      "publishedAt": "2026-11-16T06:33:56.716Z",
       "sourcePublishedAt": "2026-11-15T14:46:15.000Z",
       "model": "gpt-6.1-terra",
       "qualityVersion": 3,
@@ -468,7 +468,7 @@
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/15234522/Melon-Music-Awards-Day-2.jpg",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+        "note": "HallyuScope original editorial cover."
       },
       "category": "TRENDING",
       "headline": "BTS, IVE and CORTIS take top honors as Melon Music Awards 2026 wraps up",
@@ -482,15 +482,15 @@
         "The 18th edition of the Melon Music Awards expanded to two days for the first time. Day 2 performers included IVE, NCT 127, NCT WISH, PLAVE, ILLIT and CORTIS."
       ],
       "socialCaption": "BTS, IVE and CORTIS took home the final grand prizes at MMA 2026. Read the winners recap on HallyuScope.",
-      "socialHashtags": [
-        "#HallyuScope",
-        "#MelonMusicAwards",
-        "#BTS",
-        "#IVE",
-        "#CORTIS"
-      ],
+      "socialHashtags": "#HallyuScope #MelonMusicAwards #BTS #IVE #CORTIS",
       "seoDescription": "BTS, IVE and CORTIS won grand prizes at the Melon Music Awards 2026. See the major winners and highlights from the two-night ceremony in Seoul.",
-      "sourceNote": "Source: Soompi"
+      "sourceNote": "Source: Soompi",
+      "socialImageUrl": "",
+      "socialPlatforms": {
+        "facebook": true,
+        "instagram": true
+      },
+      "reviewedAt": "2026-11-16T06:33:56.716Z"
     },
     {
       "id": "b8868ebe6303",
