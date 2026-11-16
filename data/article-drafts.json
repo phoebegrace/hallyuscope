@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T06:33:59.116Z",
+  "updatedAt": "2026-11-16T06:34:01.848Z",
   "autoPublish": true,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -495,8 +495,8 @@
     {
       "id": "b8868ebe6303",
       "createdAt": "2026-11-15T17:47:17.923Z",
-      "status": "pending_review",
-      "publishedAt": null,
+      "status": "published",
+      "publishedAt": "2026-11-16T06:34:01.848Z",
       "sourcePublishedAt": "2026-11-15T11:39:31.000Z",
       "model": "gpt-6.1-terra",
       "qualityVersion": 3,
@@ -532,7 +532,7 @@
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/15202805/crash-2-jisung-kwaksunyoung-moonhee.png",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+        "note": "HallyuScope original editorial cover."
       },
       "category": "COMEBACK NEWS",
       "headline": "NCT's Jisung Makes a Dancing Entrance in 'Crash 2' Teaser",
@@ -546,15 +546,15 @@
         "The drama premieres November 16 at 10 p.m. KST."
       ],
       "socialCaption": "Jisung's rookie officer has the station talking in the new “Crash 2” teaser. Read on HallyuScope for a closer look at his entrance.",
-      "socialHashtags": [
-        "#HallyuScope",
-        "#Jisung",
-        "#NCT",
-        "#Crash2",
-        "#KDrama"
-      ],
+      "socialHashtags": "#HallyuScope #Jisung #NCT #Crash2 #KDrama",
       "seoDescription": "NCT's Jisung plays rookie officer Ji Dae Sae in a new “Crash 2” teaser. The traffic crime drama premieres November 16 at 10 p.m. KST.",
-      "sourceNote": "Source: Soompi"
+      "sourceNote": "Source: Soompi",
+      "socialImageUrl": "",
+      "socialPlatforms": {
+        "facebook": true,
+        "instagram": true
+      },
+      "reviewedAt": "2026-11-16T06:34:01.848Z"
     },
     {
       "id": "f05930401209",
