@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T06:35:12.790Z",
+  "updatedAt": "2026-11-16T06:35:16.789Z",
   "autoPublish": true,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -616,8 +616,8 @@
     {
       "id": "26f1f495d52b",
       "createdAt": "2026-11-15T11:04:29.274Z",
-      "status": "pending_review",
-      "publishedAt": null,
+      "status": "published",
+      "publishedAt": "2026-11-16T06:35:16.789Z",
       "sourcePublishedAt": "2026-11-15T08:36:33.000Z",
       "model": "gpt-6.1-terra",
       "qualityVersion": 3,
@@ -657,7 +657,7 @@
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/15173450/love-in-disguise-3-1-1.jpeg",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+        "note": "HallyuScope original editorial cover."
       },
       "category": "HALLYU NEWS",
       "headline": "Yim Si Wan's Character Faces a New Truth in 'Love in Disguise'",
@@ -670,15 +670,15 @@
         "Whether Jae Hee tells Yi Jun the truth about her investigation, or he discovers it himself, is another question facing the pair. The next episode airs November 15 at 8:50 p.m. KST, Soompi reported."
       ],
       "socialCaption": "One secret is out in Love in Disguise, but another still stands between its leads. Read on HallyuScope for what to watch next.",
-      "socialHashtags": [
-        "#HallyuScope",
-        "#LoveInDisguise",
-        "#YimSiWan",
-        "#SeolInAh",
-        "#KDrama"
-      ],
+      "socialHashtags": "#HallyuScope #LoveInDisguise #YimSiWan #SeolInAh #KDrama",
       "seoDescription": "Yim Si Wan and Seol In Ah's characters face a turning point in Love in Disguise after an accident exposes part of her undercover identity.",
-      "sourceNote": "Source: Soompi"
+      "sourceNote": "Source: Soompi",
+      "socialImageUrl": "",
+      "socialPlatforms": {
+        "facebook": true,
+        "instagram": true
+      },
+      "reviewedAt": "2026-11-16T06:35:16.789Z"
     },
     {
       "id": "f4517b197772",
