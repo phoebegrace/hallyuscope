@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T06:33:38.348Z",
+  "updatedAt": "2026-11-16T06:33:42.355Z",
   "autoPublish": true,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
@@ -243,8 +243,8 @@
     {
       "id": "f2932286e97a",
       "createdAt": "2026-11-15T22:54:34.633Z",
-      "status": "pending_review",
-      "publishedAt": null,
+      "status": "published",
+      "publishedAt": "2026-11-16T06:33:42.355Z",
       "sourcePublishedAt": "2026-11-15T21:02:59.000Z",
       "model": "gpt-6.1-terra",
       "qualityVersion": 3,
@@ -282,7 +282,7 @@
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/16055620/ILLIT-IVE-Stray-Kids-CORTIS.jpg",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+        "note": "HallyuScope original editorial cover."
       },
       "category": "COMEBACK NEWS",
       "headline": "ILLIT's 'BREAK EVEN' tops Billboard World Albums chart as IVE debuts at No. 2",
@@ -297,15 +297,15 @@
         "Other entries included BOYNEXTDOOR's \"HOME\" at No. 16, NewJeans' \"Get Up\" at No. 17, ATEEZ's \"GOLDEN HOUR : Part.5\" at No. 18 and LE SSERAFIM's \"PUREFLOW\" at No. 23. \"Get Up\" reached its 165th week on the chart."
       ],
       "socialCaption": "ILLIT leads Billboard's World Albums chart, with IVE and Stray Kids close behind. Read the full chart roundup on HallyuScope.",
-      "socialHashtags": [
-        "#HallyuScope",
-        "#ILLIT",
-        "#IVE",
-        "#StrayKids",
-        "#BillboardWorldAlbums"
-      ],
+      "socialHashtags": "#HallyuScope #ILLIT #IVE #StrayKids #BillboardWorldAlbums",
       "seoDescription": "ILLIT's BREAK EVEN tops Billboard's World Albums chart, while IVE debuts at No. 2 and Stray Kids land four albums. See the week's K-pop chart roundup.",
-      "sourceNote": "Source: Soompi"
+      "sourceNote": "Source: Soompi",
+      "socialImageUrl": "",
+      "socialPlatforms": {
+        "facebook": true,
+        "instagram": true
+      },
+      "reviewedAt": "2026-11-16T06:33:42.355Z"
     },
     {
       "id": "e9d1c01f833c",
