@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-16T06:33:06.775Z",
+  "updatedAt": "2026-11-16T06:33:16.997Z",
   "autoPublish": true,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
     {
       "id": "2a0eb4d3d998",
       "createdAt": "2026-11-16T02:49:03.877Z",
-      "status": "pending_review",
-      "publishedAt": null,
+      "status": "published",
+      "publishedAt": "2026-11-16T06:33:16.997Z",
       "sourcePublishedAt": "2026-11-16T02:17:54.000Z",
       "model": "gpt-6.1-terra",
       "qualityVersion": 3,
@@ -37,7 +37,7 @@
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/16111441/good-partner-2-1-1.png",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+        "note": "HallyuScope original editorial cover."
       },
       "category": "COMEBACK NEWS",
       "headline": "Good Partner 2 Teaser Brings Back Season 1 Faces to Celebrate Cha Eun Kyung's New Firm",
@@ -50,15 +50,15 @@
         "Good Partner 2 premieres on November 20 at 9:50 p.m. KST and will be available on Viki."
       ],
       "socialCaption": "Familiar Good Partner faces have a message for Cha Eun Kyung. Read on HallyuScope for what the new teaser reveals.",
-      "socialHashtags": [
-        "#HallyuScope",
-        "#GoodPartner2",
-        "#JangNara",
-        "#NamJiHyun",
-        "#KimHyeYoon"
-      ],
+      "socialHashtags": "#HallyuScope #GoodPartner2 #JangNara #NamJiHyun #KimHyeYoon",
       "seoDescription": "Good Partner 2 unveils a teaser with Nam Ji Hyun, Kim Jun Han and Jung Jae Sung celebrating Cha Eun Kyung's new law firm ahead of its November premiere.",
-      "sourceNote": "Source: Soompi"
+      "sourceNote": "Source: Soompi",
+      "socialImageUrl": "",
+      "socialPlatforms": {
+        "facebook": true,
+        "instagram": true
+      },
+      "reviewedAt": "2026-11-16T06:33:16.997Z"
     },
     {
       "id": "df6d93c5a9b7",
