@@ -1,8 +1,179 @@
 {
-  "updatedAt": "2026-11-15T22:54:46.371Z",
+  "updatedAt": "2026-11-16T02:49:27.459Z",
   "autoPublish": false,
   "note": "Auto-publish is OFF. Newly generated HallyuScope articles wait for editorial approval.",
   "items": [
+    {
+      "id": "2a0eb4d3d998",
+      "createdAt": "2026-11-16T02:49:03.877Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-16T02:17:54.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "good-partner-2-teaser-brings-back-season-1-faces-to-celebrate-cha-eun-kyung-s-new-firm",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: &#8220;Good Partner&#8221; Stars Nam Ji Hyun, Kim Jun Han, And Jung Jae Sung Share Support For Season 2 In New Teaser",
+        "url": "https://www.soompi.com/article/1887343wpp/watch-good-partner-stars-nam-ji-hyun-kim-jun-han-and-jung-jae-sung-share-support-for-season-2-in-new-teaser"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1887343wpp/watch-good-partner-stars-nam-ji-hyun-kim-jun-han-and-jung-jae-sung-share-support-for-season-2-in-new-teaser",
+          "chars": 1674,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-16T02:49:03.876Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/2a0eb4d3d998.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/16111441/good-partner-2-1-1.png",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "Good Partner 2 Teaser Brings Back Season 1 Faces to Celebrate Cha Eun Kyung's New Firm",
+      "dek": "Nam Ji Hyun, Kim Jun Han and Jung Jae Sung appear in character to congratulate Cha Eun Kyung on the launch of law firm Rebom.",
+      "body": [
+        "A new Good Partner 2 teaser has brought familiar faces from the first season together to mark a new chapter for Jang Nara's Cha Eun Kyung.",
+        "The video features messages from colleagues at Daejeong, the law firm Cha Eun Kyung previously worked for, as she launches her own firm, Rebom. Nam Ji Hyun appears as lawyer Han Yu Ri, alongside Kim Jun Han as Daejeong CEO Jung Woo Jin and Jung Jae Sung as former CEO Oh Dae Gyu.",
+        "Han Yu Ri offers her congratulations on Rebom's beginning, while Jung Woo Jin celebrates the opening. Oh Dae Gyu gives Cha Eun Kyung a more pointed endorsement, describing her as intense and stubborn but praising her ability to secure what her clients are owed.",
+        "According to Soompi, the second season follows star divorce lawyer Cha Eun Kyung as she becomes partners with Kang Hye Sung, an experienced lawyer played by Kim Hye Yoon. The two will work together on divorce cases.",
+        "Good Partner 2 premieres on November 20 at 9:50 p.m. KST and will be available on Viki."
+      ],
+      "socialCaption": "Familiar Good Partner faces have a message for Cha Eun Kyung. Read on HallyuScope for what the new teaser reveals.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#GoodPartner2",
+        "#JangNara",
+        "#NamJiHyun",
+        "#KimHyeYoon"
+      ],
+      "seoDescription": "Good Partner 2 unveils a teaser with Nam Ji Hyun, Kim Jun Han and Jung Jae Sung celebrating Cha Eun Kyung's new law firm ahead of its November premiere.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "df6d93c5a9b7",
+      "createdAt": "2026-11-16T02:49:15.275Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-15T23:27:32.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "itzy-s-chaeryeong-meets-sister-lee-chae-yeon-in-the-manager-preview",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: ITZY&#8217;s Chaeryeong Gets Honest With Her Sister Lee Chae Yeon In &#8220;The Manager&#8221; Preview",
+        "url": "https://www.soompi.com/article/1887295wpp/watch-itzys-chaeryeong-gets-honest-with-her-sister-lee-chae-yeon-in-the-manager-preview"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1887295wpp/watch-itzys-chaeryeong-gets-honest-with-her-sister-lee-chae-yeon-in-the-manager-preview",
+          "chars": 1239,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "accidentally gets part of her sheet mask in her mouth"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-16T02:49:15.274Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/df6d93c5a9b7.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/16082559/Lee-Chae-Yeon-Chaeryeong.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "ITZY's Chaeryeong Meets Sister Lee Chae Yeon in 'The Manager' Preview",
+      "dek": "The upcoming episode follows Chaeryeong at home and over a meal with her older sister.",
+      "body": [
+        "ITZY's Chaeryeong will give viewers a look at her daily life and her relationship with older sister Lee Chae Yeon on an upcoming episode of MBC's reality show \"The Manager.\"",
+        "A preview for the episode opens at Chaeryeong's home, where a snack takes an unpleasant turn when she accidentally gets part of her sheet mask in her mouth. The bitter taste leaves her pulling a face.",
+        "The clip also shows the ITZY member cleaning and checking on her stocks, with her mood shifting as their performance changes.",
+        "Later, Chaeryeong brings a gift to Lee Chae Yeon and asks why her sister has been so busy. During their meal, she playfully points out the difference between how Lee Chae Yeon treats other people and how she speaks to her.",
+        "The exchange ends in laughter when Chaeryeong says she knew how her sister would respond. Her episode of \"The Manager\" is scheduled to air on November 21 at 11:10 p.m. KST."
+      ],
+      "socialCaption": "Chaeryeong shares a candid moment with sister Lee Chae Yeon in a new \"The Manager\" preview. Read more about their exchange on HallyuScope.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#ITZY",
+        "#Chaeryeong",
+        "#LeeChaeYeon",
+        "#TheManager"
+      ],
+      "seoDescription": "ITZY's Chaeryeong meets sister Lee Chae Yeon for a candid meal and shares her daily routine in a preview of MBC's reality show The Manager.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "2feaee75e30a",
+      "createdAt": "2026-11-16T02:49:25.797Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": "2026-11-15T22:59:58.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "nct-dream-earns-ninth-million-selling-first-week-with-dream-after-dream",
+      "source": {
+        "publisher": "Soompi",
+        "title": "NCT DREAM Becomes 2nd Artist In Hanteo History To Have 9 Albums Surpass 1 Million 1st-Week Sales",
+        "url": "https://www.soompi.com/article/1887289wpp/nct-dream-becomes-2nd-artist-in-hanteo-history-to-have-9-albums-surpass-1-million-1st-week-sales"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1887289wpp/nct-dream-becomes-2nd-artist-in-hanteo-history-to-have-9-albums-surpass-1-million-1st-week-sales",
+          "chars": 933,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-16T02:49:25.796Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/2feaee75e30a.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/16075602/NCT-DREAM-1.jpeg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "NCT DREAM Earns Ninth Million-Selling First Week With 'DREAM AFTER DREAM'",
+      "dek": "The group joins SEVENTEEN as the only artists with nine albums to pass 1 million first-week sales on Hanteo.",
+      "body": [
+        "NCT DREAM has reached another sales milestone with its studio album “DREAM AFTER DREAM.” The release sold 1,002,558 copies in its first week, according to Hanteo Chart figures reported by Soompi.",
+        "The total covers sales from November 9 to 15 and makes “DREAM AFTER DREAM” the group’s ninth album to sell more than 1 million copies within its first week. NCT DREAM is the second artist in Hanteo history to reach that mark with nine albums, following SEVENTEEN.",
+        "The album arrived with the upbeat title track “Boogie Woogie.” It follows eight other NCT DREAM releases that cleared the same first-week threshold: “Hot Sauce,” “Glitch Mode,” “Candy,” “ISTJ,” “DREAM( )SCAPE,” “DREAMSCAPE,” “Go Back To The Future” and “Beat It Up.”"
+      ],
+      "socialCaption": "NCT DREAM has a ninth million-selling first week on Hanteo. Read on HallyuScope for the sales total and the milestone behind it.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#NCTDREAM",
+        "#DREAMAFTERDREAM",
+        "#BoogieWoogie",
+        "#HanteoChart"
+      ],
+      "seoDescription": "NCT DREAM's DREAM AFTER DREAM sold 1,002,558 copies in its first week, making it the group's ninth album to pass 1 million first-week sales on Hanteo.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "7fd6d835354b",
       "createdAt": "2026-11-15T22:54:22.581Z",
