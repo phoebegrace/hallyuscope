@@ -1,8 +1,141 @@
 {
-  "updatedAt": "2026-11-16T22:13:17.190Z",
+  "updatedAt": "2026-11-17T04:34:37.823Z",
   "autoPublish": true,
   "note": "Auto-publish is ON. Newly generated HallyuScope articles publish immediately.",
   "items": [
+    {
+      "id": "41a5955d214f",
+      "createdAt": "2026-11-17T04:34:24.415Z",
+      "status": "published",
+      "publishedAt": "2026-11-17T04:34:24.415Z",
+      "sourcePublishedAt": "2026-11-17T03:29:02.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "sung-hoon-and-oh-se-young-share-a-surprising-moment-in-what-a-boss-wants-stills",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Sung Hoon And Oh Se Young End Up In The Same Bed In &#8220;What A Boss Wants&#8221;",
+        "url": "https://www.soompi.com/article/1887849wpp/sung-hoon-and-oh-se-young-end-up-in-the-same-bed-in-what-a-boss-wants"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1887849wpp/sung-hoon-and-oh-se-young-end-up-in-the-same-bed-in-what-a-boss-wants",
+          "chars": 2618,
+          "depth": 1
+        },
+        {
+          "publisher": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112911272",
+          "chars": 417,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "watching a drunken, sleeping Kwon Do Hyuk"
+        ],
+        "missingKeyFacts": [
+          "Episode 4 airs on November 19 at 10:20 p.m. KST."
+        ],
+        "checkedAt": "2026-11-17T04:34:24.413Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/41a5955d214f.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/17121949/%EC%84%B1%ED%9B%88-%EC%98%A4%EC%84%B8%EC%98%81-3.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Sung Hoon and Oh Se Young Share a Surprising Moment in 'What a Boss Wants' Stills",
+      "dek": "New images from the romance drama tease a shift between Kwon Do Hyuk and Lee Eun Chae as Moon Tae Kyung grows closer to her.",
+      "body": [
+        "Sung Hoon and Oh Se Young's characters are closer than usual in new stills from “What a Boss Wants,” with the frequently bickering boss and secretary pictured lying side by side in bed.",
+        "The images show Lee Eun Chae (Oh Se Young) watching a drunken, sleeping Kwon Do Hyuk (Sung Hoon) before cautiously reaching toward his face. The moment comes after the pair agreed to a three-month contract as CEO and secretary, insisting they would not develop romantic feelings for each other.",
+        "Based on a web novel, the drama follows chaebol boss Do Hyuk as he searches for a mysterious woman whose voice he heard on an album. Eun Chae is the lead vocalist of indie band India Red, where she performs under the name Soo.",
+        "Their working relationship has already faced complications. When office duties interfered with Eun Chae's band activities, she went to a concert venue and received help from Moon Tae Kyung (Lee Jung Shin). Do Hyuk later threw away a bouquet Tae Kyung had given her, sparking another argument.",
+        "Tae Kyung, meanwhile, has learned Eun Chae's musical identity and promised to keep it secret. He also tells her he will bring flowers to her next performance.",
+        "Do Hyuk faces another test when he overhears Eun Chae planning to stay at the home of her bandmate Kim Dong Woo (Yoo Shin), after growing frustrated with her father's strict curfew. Episode 3 airs on November 18 at 10:20 p.m. KST."
+      ],
+      "socialCaption": "A quiet moment changes the mood between Sung Hoon and Oh Se Young's characters. Read on HallyuScope for what the new stills tease.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#WhatABossWants",
+        "#SungHoon",
+        "#OhSeYoung",
+        "#LeeJungShin"
+      ],
+      "seoDescription": "New What a Boss Wants stills bring Sung Hoon and Oh Se Young's characters closer as Lee Jung Shin's Moon Tae Kyung grows closer to Eun Chae.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "9e4da5fa283b",
+      "createdAt": "2026-11-17T04:34:36.156Z",
+      "status": "published",
+      "publishedAt": "2026-11-17T04:34:36.156Z",
+      "sourcePublishedAt": "2026-11-17T02:42:08.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "jang-sung-kyu-sooyoung-and-moon-sang-min-to-host-2026-kbs-drama-awards",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Jang Sung Kyu, Sooyoung, And Moon Sang Min Confirmed To Host 2026 KBS Drama Awards",
+        "url": "https://www.soompi.com/article/1887793wpp/jang-sung-kyu-sooyoung-and-moon-sang-min-confirmed-to-host-2026-kbs-drama-awards"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1887793wpp/jang-sung-kyu-sooyoung-and-moon-sang-min-confirmed-to-host-2026-kbs-drama-awards",
+          "chars": 1681,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/410/0001147493",
+          "chars": 929,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "She is also set to star in the KBS2 weekend drama \"I Went to School,\" a literal title, which is scheduled to air in 2027."
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-17T04:34:36.156Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/9e4da5fa283b.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/17112650/kbs-drama-awards-2026.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "K-DRAMA NEWS",
+      "headline": "Jang Sung Kyu, Sooyoung and Moon Sang Min to Host 2026 KBS Drama Awards",
+      "dek": "The December 31 live broadcast will bring two returning hosts together with first-time KBS Drama Awards MC Sooyoung.",
+      "body": [
+        "Jang Sung Kyu, Sooyoung and Moon Sang Min will host the 2026 KBS Drama Awards, KBS announced on November 17. The ceremony will air live on December 31, according to Soompi.",
+        "Jang and Moon are returning to the hosting lineup, while Sooyoung, also known as Choi Soo Young, joins them for the first time. The ceremony will look back on KBS dramas and the actors who appeared in them over the year, with works ranging from historical dramas and miniseries to weekend, daily and single-episode dramas.",
+        "For Jang, the event marks a fourth consecutive year as a KBS Drama Awards host, a run that began in 2023. He has also worked as an MC across variety, current affairs and educational programs.",
+        "Sooyoung appeared this year in the film \"OK! Madam: Bon Voyage\" and the play \"The Merchant of Venice.\" She is also set to star in the KBS2 weekend drama \"I Went to School,\" a literal title, which is scheduled to air in 2027.",
+        "Moon will host the ceremony for the third consecutive year. He starred in the KBS2 drama \"To My Beloved Thief\" this year, playing dual roles alongside Nam Ji Hyun, who co-hosted the 2025 KBS Drama Awards."
+      ],
+      "socialCaption": "Jang Sung Kyu, Sooyoung and Moon Sang Min are set to host the 2026 KBS Drama Awards. Read HallyuScope for the lineup and broadcast date.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#KBSDramaAwards",
+        "#JangSungKyu",
+        "#Sooyoung",
+        "#MoonSangMin"
+      ],
+      "seoDescription": "Jang Sung Kyu, Sooyoung and Moon Sang Min will host the 2026 KBS Drama Awards, with the ceremony set to air live on December 31.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "4435865ac3c6",
       "createdAt": "2026-11-16T22:13:16.149Z",
