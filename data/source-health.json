@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T04:34:01.597Z",
+  "updatedAt": "2026-11-17T14:32:03.179Z",
   "sources": [
     {
       "source": "HYBE LABELS",
@@ -8,7 +8,7 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3IZKseVpdzPSBaWxBxundA",
       "ok": true,
       "count": 15,
-      "ms": 143
+      "ms": 56
     },
     {
       "source": "JYP Entertainment",
@@ -17,7 +17,7 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaO6TYtlC8U5ttz62hTrZgg",
       "ok": true,
       "count": 15,
-      "ms": 146
+      "ms": 181
     },
     {
       "source": "Soompi",
@@ -25,7 +25,7 @@
       "sourceClass": "publisher",
       "ok": true,
       "count": 60,
-      "ms": 291
+      "ms": 259
     },
     {
       "source": "Kpopmap",
@@ -33,15 +33,15 @@
       "sourceClass": "publisher",
       "ok": true,
       "count": 0,
-      "ms": 164
+      "ms": 200
     },
     {
       "source": "Google News · K-pop",
       "url": "https://news.google.com/rss/search?q=K-pop+when%3A7d&hl=en-PH&gl=PH&ceid=PH%3Aen",
-      "ok": false,
-      "count": 0,
-      "ms": 355,
-      "error": "429 Too Many Requests for https://news.google.com/rss/search?q=K-pop+when%3A7d&hl=en-PH&gl=PH&ceid=PH%3Aen"
+      "sourceClass": "publisher",
+      "ok": true,
+      "count": 100,
+      "ms": 506
     },
     {
       "source": "Google News · PH concerts",
@@ -49,15 +49,15 @@
       "sourceClass": "publisher",
       "ok": true,
       "count": 32,
-      "ms": 448
+      "ms": 371
     },
     {
       "source": "Google News · comebacks",
       "url": "https://news.google.com/rss/search?q=%28K-pop+OR+Kpop%29+%28comeback+OR+album+OR+single+OR+teaser%29+when%3A21d&hl=en-PH&gl=PH&ceid=PH%3Aen",
-      "sourceClass": "publisher",
-      "ok": true,
-      "count": 41,
-      "ms": 449
+      "ok": false,
+      "count": 0,
+      "ms": 416,
+      "error": "429 Too Many Requests for https://news.google.com/rss/search?q=%28K-pop+OR+Kpop%29+%28comeback+OR+album+OR+single+OR+teaser%29+when%3A21d&hl=en-PH&gl=PH&ceid=PH%3Aen"
     }
   ]
 }

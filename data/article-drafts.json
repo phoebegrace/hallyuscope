@@ -1,8 +1,408 @@
 {
-  "updatedAt": "2026-11-17T04:34:37.823Z",
+  "updatedAt": "2026-11-17T14:34:15.510Z",
   "autoPublish": true,
   "note": "Auto-publish is ON. Newly generated HallyuScope articles publish immediately.",
   "items": [
+    {
+      "id": "10f432a717e2",
+      "createdAt": "2026-11-17T14:32:39.663Z",
+      "status": "published",
+      "publishedAt": "2026-11-17T14:32:39.663Z",
+      "sourcePublishedAt": "2026-11-17T09:58:41.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "gong-myoung-takes-the-mound-in-first-stills-for-on-your-ground",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Gong Myoung Is A Former Baseball Prodigy Fighting His Way Back After Career Setback In “On Your Ground”",
+        "url": "https://www.soompi.com/article/1888069wpp/gong-myoung-is-a-former-baseball-prodigy-fighting-his-way-back-after-career-setback-in-on-your-ground"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1888069wpp/gong-myoung-is-a-former-baseball-prodigy-fighting-his-way-back-after-career-setback-in-on-your-ground",
+          "chars": 2533,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/311/0002081254",
+          "chars": 1317,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "the fundamentals of a pitcher's stance and movements"
+        ],
+        "missingKeyFacts": [
+          "The drama is scheduled to air on Fridays and Saturdays."
+        ],
+        "checkedAt": "2026-11-17T14:32:39.662Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/10f432a717e2.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/17185836/On-Your-Ground-1-1.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Gong Myoung Takes the Mound in First Stills for 'On Your Ground'",
+      "dek": "The upcoming MBC romance follows a pitcher pursuing a comeback with help from his first love, played by Han Hyo Joo.",
+      "body": [
+        "Gong Myoung is stepping into the role of a baseball pitcher in MBC's upcoming drama “On Your Ground.” The show's first stills show him in uniform as Kang Hae Hwan, a former prodigy hoping to return to the sport after a career setback.",
+        "Kang is a right-handed pitcher for the professional team Miracles who has also played in Major League Baseball. After an unexpected incident threatens his career, he spends two years focused on rehabilitation.",
+        "His path changes when he reunites with his first love, Seo Hee Seung, after 11 years. Played by Han Hyo Joo, she is a former lawyer who becomes his sports agent. The romance follows the pair as Kang works toward getting back on the field.",
+        "The newly released images show Gong Myoung on the mound in a Miracles uniform, as well as a glimpse of Kang during his earlier success. According to the production team, the actor trained consistently to build a baseball player's physique and learned the fundamentals of a pitcher's stance and movements before filming.",
+        "Seo, meanwhile, leaves a successful legal career for a new challenge in sports representation. After training in the United States and qualifying as a sports agent, she joins an agency where she meets Kang again.",
+        "“On Your Ground” is scheduled to premiere in December."
+      ],
+      "socialCaption": "Gong Myoung plays a pitcher aiming for a comeback in “On Your Ground.” Read on HallyuScope for more on his role and reunion with Han Hyo Joo's character.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#GongMyoung",
+        "#HanHyoJoo",
+        "#OnYourGround",
+        "#KDrama"
+      ],
+      "seoDescription": "Gong Myoung plays a pitcher seeking a comeback alongside Han Hyo Joo in MBC's upcoming romance drama On Your Ground, set to premiere in December.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "8954e543f7a2",
+      "createdAt": "2026-11-17T14:33:01.425Z",
+      "status": "published",
+      "publishedAt": "2026-11-17T14:33:01.425Z",
+      "sourcePublishedAt": "2026-11-17T08:57:42.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "claudia-kim-s-princess-sets-out-to-save-ahn-bo-hyun-in-sacred-jewel-teaser",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: Claudia Kim Risks Everything To Save Ahn Bo Hyun In “Sacred Jewel” Teaser",
+        "url": "https://www.soompi.com/article/1887952wpp/watch-claudia-kim-risks-everything-to-save-ahn-bo-hyun-in-sacred-jewel-teaser"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1887952wpp/watch-claudia-kim-risks-everything-to-save-ahn-bo-hyun-in-sacred-jewel-teaser",
+          "chars": 2127,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/445/0000491105",
+          "chars": 1168,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "a political marriage and the loss of someone dear to her",
+          "The former Gyeonryong Army member understands her feelings"
+        ],
+        "missingKeyFacts": [
+          "The drama was officially invited to the Korea Fiction program in the noncompetitive Rendez-Vous section of the Cannes International Series Festival."
+        ],
+        "checkedAt": "2026-11-17T14:33:01.425Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/8954e543f7a2.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/17175346/sacred-jewel-1-.png",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "Claudia Kim's Princess Sets Out to Save Ahn Bo Hyun in Sacred Jewel Teaser",
+      "dek": "The upcoming historical drama follows a princess and an escort unit searching for a sacred relic during Goryeo's war with Mongolia.",
+      "body": [
+        "Claudia Kim takes matters into her own hands to save Ahn Bo Hyun in a new teaser for the upcoming JTBC drama “Sacred Jewel,” Soompi reports.",
+        "Set in 1258, the series takes place as Goryeo faces possible defeat after around 30 years of war with Mongolia. An escort unit heads into the battlefield to retrieve the Avalokitesvara Bead, a relic believed to have the power to protect the kingdom, while a princess sets out to rescue them.",
+        "Kim plays Wang Hee, a princess who has closed herself off after a political marriage and the loss of someone dear to her. Her encounter with young general Baek Gyeol, played by Ahn, begins to change her. The former Gyeonryong Army member understands her feelings, and the pair grow close.",
+        "The teaser shows Baek Gyeol volunteering to lead the mission to retrieve the bead. Mongolian forces attack the unit, leaving him wounded by arrows. When Wang Hee hears that the squad has been nearly wiped out, she asks for help getting to Myeongju and sets out to protect him.",
+        "Yoon Kyun Sang also appears as Wang Mu, the commander defending Wonju Fortress, whose involvement complicates Wang Hee's journey. Directed by Jung Dae Yoon and written by Jung Hyun Min, “Sacred Jewel” premieres December 5 at 10:40 p.m. KST on JTBC and will stream worldwide on Prime Video."
+      ],
+      "socialCaption": "Claudia Kim's princess heads into danger for Ahn Bo Hyun in the new Sacred Jewel teaser. Read on HallyuScope for more on their characters and the mission at the heart of the drama.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#SacredJewel",
+        "#ClaudiaKim",
+        "#AhnBoHyun",
+        "#YoonKyunSang"
+      ],
+      "seoDescription": "Claudia Kim sets out to save Ahn Bo Hyun in a new Sacred Jewel teaser. Get the story behind JTBC's upcoming historical drama and its December premiere.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "cf3935430fae",
+      "createdAt": "2026-11-17T14:33:18.515Z",
+      "status": "published",
+      "publishedAt": "2026-11-17T14:33:18.515Z",
+      "sourcePublishedAt": "2026-11-17T07:29:06.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "crash-2-stills-point-to-possible-murder-as-t-c-i-faces-new-clues",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Lee Min Ki, Kwak Sun Young, And Team Uncover A Shocking Twist In “Crash 2”",
+        "url": "https://www.soompi.com/article/1888027wpp/lee-min-ki-kwak-sun-young-and-team-uncover-a-shocking-twist-in-crash-2"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1888027wpp/lee-min-ki-kwak-sun-young-and-team-uncover-a-shocking-twist-in-crash-2",
+          "chars": 2272,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/465/0000021064",
+          "chars": 1184,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [
+          "The first episode recorded a 2.8% nationwide household rating, up from the first season’s premiere rating of 2.2%."
+        ],
+        "checkedAt": "2026-11-17T14:33:18.514Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/cf3935430fae.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/17162901/crash-2-01.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Crash 2 Stills Point to Possible Murder as T.C.I. Faces New Clues",
+      "dek": "Lee Min Ki and Kwak Sun Young's investigators confront the aftermath of an explosion in a preview of the drama's second episode.",
+      "body": [
+        "The Traffic Crime Investigation team has a new mystery to unravel in “Crash 2.” Ahead of the second episode, the drama has released stills suggesting that a suspected sudden acceleration accident may be linked to a planned murder.",
+        "The first episode ended as Cha Yeon Ho, played by Lee Min Ki, and a junior researcher were about to obtain a crucial piece of evidence. Their car went out of control after someone interfered with it and exploded. In the new images, Yeon Ho and Min So Hee, played by Kwak Sun Young, watch the vehicle burn.",
+        "Another set of stills shows So Hee and Woo Dong Gi, played by Lee Ho Chul, reacting to an unexpected discovery. The evidence raises the possibility that the case is more than an accident.",
+        "Yeon Ho also appears behind the wheel again, with the junior researcher gripping her seat belt and skilled driver So Hee covering her face. Yeon Ho remains calm in the image, even as his passengers appear alarmed.",
+        "The production team said the second episode will reveal clues about the suspected sudden acceleration case as T.C.I. investigates the relationships surrounding it, according to Soompi.",
+        "A follow-up to the 2024 drama “Crash,” the series sees the former Namgang Police Station team take on traffic crime cases nationwide as a regional unit under the National Office of Investigation. Episode 2 airs November 17 at 10 p.m. KST."
+      ],
+      "socialCaption": "A car explosion leaves the T.C.I. team chasing a possible murder in Crash 2. Read on HallyuScope for the new episode preview.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#Crash2",
+        "#LeeMinKi",
+        "#KwakSunYoung",
+        "#LeeHoChul"
+      ],
+      "seoDescription": "Crash 2 previews its second episode as Lee Min Ki and Kwak Sun Young's investigators pursue clues after a car explosion and a suspected accident.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "cd7a25754d42",
+      "createdAt": "2026-11-17T14:33:37.633Z",
+      "status": "published",
+      "publishedAt": "2026-11-17T14:33:37.633Z",
+      "sourcePublishedAt": "2026-11-17T06:51:24.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "lee-dong-wook-joins-lee-byung-hun-in-historical-action-film-nambeol",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Lee Dong Wook Officially Joins Lee Byung Hun, Go Youn Jung, And More In Upcoming Historical Action Film",
+        "url": "https://www.soompi.com/article/1888020wpp/lee-dong-wook-officially-joins-lee-byung-hun-go-youn-jung-and-more-in-upcoming-historical-action-film"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1888020wpp/lee-dong-wook-officially-joins-lee-byung-hun-go-youn-jung-and-more-in-upcoming-historical-action-film",
+          "chars": 1512,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/109/0005641555",
+          "chars": 1708,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "Lee Dong Wook will play Yoon Gwan, a warrior from Goryeo's Byeolmuban who fights with two swords.",
+          "Known for his levelheaded judgment and loyalty to his comrades, Yoon Gwan has long stood alongside Im Eok, the group's leader, played by Lee Byung Hun."
+        ],
+        "missingKeyFacts": [
+          "Filming is targeted to begin in the second half of 2026."
+        ],
+        "checkedAt": "2026-11-17T14:33:37.632Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/cd7a25754d42.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/17155115/lee-dong-wook-nambeol.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Lee Dong Wook Joins Lee Byung Hun in Historical Action Film 'Nambeol'",
+      "dek": "The actor will play a two-sword warrior in director Lee Mo Gae's upcoming film about a mission to rescue captives.",
+      "body": [
+        "Lee Dong Wook has joined the cast of \"Nambeol,\" an upcoming historical action film led by Lee Byung Hun, Soompi reported on November 17.",
+        "Set in the early Joseon dynasty, the film follows nine warriors from different social ranks as they head to Tsushima Island to rescue people abducted by Japanese pirates. Director Lee Mo Gae is helming the project for production company Hive Media Corp.",
+        "Lee Dong Wook will play Yoon Gwan, a warrior from Goryeo's Byeolmuban who fights with two swords. Known for his levelheaded judgment and loyalty to his comrades, Yoon Gwan has long stood alongside Im Eok, the group's leader, played by Lee Byung Hun. He joins the mission to bring the captives home.",
+        "The previously announced cast also includes Go Youn Jung, Lee Do Hyun, WOODZ, also known as Cho Seung Youn, Park Hae Joon and Lee Kwang Soo. The role of Yoon Gwan was previously offered to Seo Kang Jun, who declined it.",
+        "\"Nambeol,\" a literal title, marks another collaboration between Lee Dong Wook and Hive Media Corp following the film \"Harbin.\" The new project is currently in pre-production."
+      ],
+      "socialCaption": "Lee Dong Wook is joining Lee Byung Hun in the historical action film Nambeol. Read on HallyuScope for details on his role and the cast.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#LeeDongWook",
+        "#LeeByungHun",
+        "#Nambeol",
+        "#GoYounJung"
+      ],
+      "seoDescription": "Lee Dong Wook joins Lee Byung Hun and Go Youn Jung in Nambeol, a historical action film about warriors on a mission to rescue captives.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "1f1c8b760608",
+      "createdAt": "2026-11-17T14:33:55.994Z",
+      "status": "published",
+      "publishedAt": "2026-11-17T14:33:55.994Z",
+      "sourcePublishedAt": "2026-11-17T05:39:06.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "my-sibling-s-romance-2-teaser-puts-family-teamwork-to-the-test",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: Siblings Become Each Other’s Wingmen In “My Sibling’s Romance 2” Teaser",
+        "url": "https://www.soompi.com/article/1887428wpp/watch-siblings-become-each-others-wingmen-in-my-siblings-romance-2-teaser"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1887428wpp/watch-siblings-become-each-others-wingmen-in-my-siblings-romance-2-teaser",
+          "chars": 1862,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [
+          "The younger sibling who spots someone who is her type is female."
+        ],
+        "copiedPhrases": [
+          "takes a photo of two people standing close together"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-17T14:33:55.993Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/1f1c8b760608.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/16131706/my-siblings-romance-2-1.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "‘My Sibling’s Romance 2’ Teaser Puts Family Teamwork to the Test",
+      "dek": "The dating show returns on November 27 with siblings helping one another navigate new romantic connections.",
+      "body": [
+        "“My Sibling’s Romance 2” has released its first teaser, offering a look at how its new cast will lean on family ties while searching for romance.",
+        "The preview shows siblings discussing their dating plans and stepping in to help each other. After one younger sibling spots someone who is her type, her older brother promises to help. Elsewhere, a cast member takes a photo of two people standing close together, while another wonders what a sibling would do without their support.",
+        "The teaser also follows budding connections between cast members as they ask one another on dates, walk hand in hand and share a blanket. References to overnight stays, marriage and double in-law relationships add to the mix of romance and family dynamics.",
+        "The original panelists Han Hye Jin, Code Kunst, i-dle’s Miyeon, Jonathan and Patricia will all return for the second season, Soompi reported.",
+        "“My Sibling’s Romance,” which first aired in March 2024, brings siblings together in a dating show where they help each other find partners. Season 2 premieres on November 27 at 6 p.m. KST."
+      ],
+      "socialCaption": "The siblings are teaming up again. Read on HallyuScope for what the first “My Sibling’s Romance 2” teaser reveals.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#MySiblingsRomance2",
+        "#MySiblingsRomance",
+        "#Miyeon",
+        "#CodeKunst"
+      ],
+      "seoDescription": "My Sibling’s Romance 2 releases its first teaser, with siblings helping each other find love. The dating show premieres November 27 at 6 p.m. KST.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "49f6f1f3fc8f",
+      "createdAt": "2026-11-17T14:34:15.468Z",
+      "status": "published",
+      "publishedAt": "2026-11-17T14:34:15.468Z",
+      "sourcePublishedAt": "2026-11-17T05:11:52.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "taeyeon-lim-yoona-winter-jang-do-yeon-and-nayeon-join-just-makeup-season-2",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: “Just Makeup” Returns For Season 2 With Star-Studded MC Lineup",
+        "url": "https://www.soompi.com/article/1887819wpp/watch-just-makeup-returns-for-season-2-with-star-studded-mc-lineup"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1887819wpp/watch-just-makeup-returns-for-season-2-with-star-studded-mc-lineup",
+          "chars": 2038,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/home/article/408/0000328216",
+          "chars": 1380,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [
+          "Jang Do Yeon is a comedian."
+        ],
+        "copiedPhrases": [
+          "interest in makeup and the artists behind it"
+        ],
+        "missingKeyFacts": [
+          "Coupang members can watch the show for free."
+        ],
+        "checkedAt": "2026-11-17T14:34:15.467Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/49f6f1f3fc8f.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/17140936/just-make-up-2.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Taeyeon, Lim Yoona, Winter, Jang Do Yeon and Nayeon Join 'Just Makeup' Season 2",
+      "dek": "Coupang Play's makeup competition returns November 27 with five new hosts and 60 artists competing.",
+      "body": [
+        "Coupang Play's beauty competition “Just Makeup” is returning for a second season with a new five-person hosting lineup. Girls' Generation's Taeyeon and Lim Yoona, aespa's Winter, comedian Jang Do Yeon and TWICE's Nayeon will lead the show.",
+        "The production team announced the return on November 17, releasing individual posters and a teaser featuring the hosts, according to Soompi. “Just Makeup 2” will premiere on November 27 at 5 p.m. KST.",
+        "The survival series brings K-beauty makeup artists together to compete through their skills, techniques and creative approaches. Season 2 will feature 60 contestants and four judges, who will evaluate their work, alongside the five hosts.",
+        "The new posters pair each host with a makeup tool, with the show's signature pink brush appearing alongside items including mascara, lipstick, a pencil, a makeup puff and eyeliner. The teaser brings all five hosts together ahead of the season's premiere.",
+        "The hosts will take part in the competition process, bringing their perspectives and interest in makeup and the artists behind it to the show. The second season will continue the competitive format of the first while introducing the new MC team."
+      ],
+      "socialCaption": "A new team of five hosts is heading to the “Just Makeup” studio. Read on HallyuScope for the lineup and premiere details.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#JustMakeup",
+        "#Taeyeon",
+        "#LimYoona",
+        "#aespa"
+      ],
+      "seoDescription": "Taeyeon, Lim Yoona, aespa's Winter, Jang Do Yeon and TWICE's Nayeon will host Just Makeup season 2, premiering on Coupang Play November 27.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "41a5955d214f",
       "createdAt": "2026-11-17T04:34:24.415Z",
