@@ -1,8 +1,188 @@
 {
-  "updatedAt": "2026-11-17T14:34:15.510Z",
+  "updatedAt": "2026-11-17T22:57:15.851Z",
   "autoPublish": true,
   "note": "Auto-publish is ON. Newly generated HallyuScope articles publish immediately.",
   "items": [
+    {
+      "id": "69dbfd49ed04",
+      "createdAt": "2026-11-17T22:56:52.121Z",
+      "status": "published",
+      "publishedAt": "2026-11-17T22:56:52.121Z",
+      "sourcePublishedAt": "2026-11-17T20:18:47.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "txt-s-perfect-storm-tops-1-5-million-sales-in-two-days",
+      "source": {
+        "publisher": "Soompi",
+        "title": "TXT&#8217;s &#8220;PERFECT STORM&#8221; Sells Over 1.5 Million Copies In Just 2 Days",
+        "url": "https://www.soompi.com/article/1888213wpp/txts-perfect-storm-sells-over-1-5-million-copies-in-just-2-days"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1888213wpp/txts-perfect-storm-sells-over-1-5-million-copies-in-just-2-days",
+          "chars": 950,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-17T22:56:52.119Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/69dbfd49ed04.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/18051533/TXT_3078e6.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "TXT's 'PERFECT STORM' Tops 1.5 Million Sales in Two Days",
+      "dek": "The mini album has become TXT's eighth consecutive release to sell more than 1 million copies in its first week.",
+      "body": [
+        "TXT's new mini album “PERFECT STORM” has surpassed 1.5 million sales in its first two days, adding another million-seller to the group's catalog.",
+        "According to Hanteo Chart figures reported by Soompi, the album sold 1,534,519 copies by the end of November 17. TXT released “PERFECT STORM” and its title track, “Angel Bite,” on November 16 at 6 p.m. KST.",
+        "The result marks the eighth consecutive TXT album to pass the 1 million sales mark during its first week. The run began with “minisode 2: Thursday's Child,” followed by “The Name Chapter: TEMPTATION” and “The Name Chapter: FREEFALL.”",
+        "The group's subsequent first-week million-sellers were “minisode 3: TOMORROW,” “The Star Chapter: SANCTUARY,” “The Star Chapter: TOGETHER” and “7TH YEAR: A Moment of Stillness in the Thorns.”",
+        "With five days remaining in the album's first sales week after November 17, the total for “PERFECT STORM” could continue to rise through November 22."
+      ],
+      "socialCaption": "TXT's “PERFECT STORM” has crossed 1.5 million sales in two days. Read on HallyuScope for the group's latest milestone.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#TXT",
+        "#TOMORROW_X_TOGETHER",
+        "#PERFECTSTORM",
+        "#AngelBite"
+      ],
+      "seoDescription": "TXT's PERFECT STORM sold more than 1.5 million copies in two days, becoming the group's eighth consecutive first-week million-selling album.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "18e494cbacf3",
+      "createdAt": "2026-11-17T22:57:04.544Z",
+      "status": "published",
+      "publishedAt": "2026-11-17T22:57:04.544Z",
+      "sourcePublishedAt": "2026-11-17T16:11:44.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "illit-s-break-even-charts-for-a-second-week-on-billboard-200",
+      "source": {
+        "publisher": "Soompi",
+        "title": "ILLIT&#8217;s &#8220;BREAK EVEN&#8221; Becomes Their 1st Album To Spend Multiple Weeks On Billboard 200",
+        "url": "https://www.soompi.com/article/1888191wpp/illits-break-even-becomes-their-1st-album-to-spend-multiple-weeks-on-billboard-200"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1888191wpp/illits-break-even-becomes-their-1st-album-to-spend-multiple-weeks-on-billboard-200",
+          "chars": 1130,
+          "depth": 1
+        },
+        {
+          "publisher": "Billboard",
+          "url": "https://www.billboard.com/charts/top-album-sales/",
+          "chars": 8543,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "the group’s first album to spend more than one week on the Billboard 200",
+          "the second best-selling album of the week in the United States"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-17T22:57:04.543Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/18e494cbacf3.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/18010406/ILLIT_a7f726.jpeg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "ILLIT’s ‘BREAK EVEN’ Charts for a Second Week on Billboard 200",
+      "dek": "The mini album is ILLIT’s first to spend multiple weeks on the Billboard 200, while title track “You’re Under Arrest” reaches a new Global 200 peak.",
+      "body": [
+        "ILLIT’s “BREAK EVEN” has become the group’s first album to spend more than one week on the Billboard 200, adding another milestone to its chart run.",
+        "The mini album placed No. 44 in its second week, Soompi reported after Billboard revealed the latest rankings on November 17. It had debuted at No. 6 a week earlier, giving ILLIT its first top 20 entry on the albums chart.",
+        "“BREAK EVEN” also ranked No. 2 on both the Top Album Sales and World Albums charts after opening at No. 1 on each. Its sales chart position made it the second best-selling album of the week in the United States.",
+        "Title track “You’re Under Arrest” continued its run on Billboard’s global charts, reaching a new peak of No. 22 on the Global 200 and placing No. 12 on the Global Excl. U.S. chart. The song was in its third week on both rankings.",
+        "ILLIT’s previous title track, “It’s Me,” climbed to No. 102 on the Global Excl. U.S. chart in its 28th week. The group also appeared at No. 58 on the Artist 100, marking its sixth overall week on that chart."
+      ],
+      "socialCaption": "ILLIT’s “BREAK EVEN” has notched a Billboard 200 first for the group. Read on HallyuScope for its latest album and song chart positions.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#ILLIT",
+        "#BREAKEVEN",
+        "#YoureUnderArrest",
+        "#Billboard200"
+      ],
+      "seoDescription": "ILLIT’s BREAK EVEN becomes the group’s first album to spend two weeks on the Billboard 200, while You’re Under Arrest reaches a new Global 200 peak.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "cc0664fcd416",
+      "createdAt": "2026-11-17T22:57:15.514Z",
+      "status": "published",
+      "publishedAt": "2026-11-17T22:57:15.514Z",
+      "sourcePublishedAt": "2026-11-17T14:36:29.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "txt-s-perfect-storm-reaches-no-1-on-itunes-in-20-regions",
+      "source": {
+        "publisher": "Soompi",
+        "title": "TXT Tops iTunes Charts All Over The World With &#8220;PERFECT STORM&#8221;",
+        "url": "https://www.soompi.com/article/1888132wpp/txt-tops-itunes-charts-all-over-the-world-with-perfect-storm"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1888132wpp/txt-tops-itunes-charts-all-over-the-world-with-perfect-storm",
+          "chars": 1487,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-17T22:57:15.513Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/cc0664fcd416.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/17231928/TXT.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "TRENDING",
+      "headline": "TXT's 'PERFECT STORM' reaches No. 1 on iTunes in 20 regions",
+      "dek": "The mini album and title track 'Angel Bite' also made an early impact on Korean music charts following their November 16 release.",
+      "body": [
+        "TXT's new mini album 'PERFECT STORM' has reached No. 1 on iTunes Top Albums charts in at least 20 regions, while title track 'Angel Bite' topped the Top Songs chart in at least 12 regions.",
+        "The group released the six-track mini album at 6 p.m. KST on November 16. According to BIGHIT MUSIC, the iTunes results were recorded as of 10 a.m. KST the following day.",
+        "The album reached No. 1 in regions including Japan, Argentina, Brazil, India, Mexico, Thailand and Indonesia. 'Angel Bite' topped the songs chart in regions including Mexico, Thailand, Chile, Argentina, Brazil, Indonesia and Peru.",
+        "All six songs also entered Korean music charts shortly after release. Every track appeared on Bugs' realtime chart within an hour, and all six had reached Melon's Top 100 and Genie's realtime chart by midnight KST on November 17.",
+        "'Angel Bite' climbed to No. 1 on Bugs' realtime chart at 8 p.m. KST on November 16, two hours after the mini album arrived. The song remained at the top through 10 a.m. KST the next day."
+      ],
+      "socialCaption": "TXT's 'PERFECT STORM' is making its mark on iTunes and Korean charts. Read the early results on HallyuScope.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#TXT",
+        "#TOMORROW_X_TOGETHER",
+        "#PERFECTSTORM",
+        "#AngelBite"
+      ],
+      "seoDescription": "TXT's 'PERFECT STORM' topped iTunes album charts in 20 regions, while 'Angel Bite' reached No. 1 on songs charts and Korea's Bugs realtime chart.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "10f432a717e2",
       "createdAt": "2026-11-17T14:32:39.663Z",
