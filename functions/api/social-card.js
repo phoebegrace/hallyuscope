@@ -172,7 +172,7 @@ function svg({ image, category, headline, description, logoUrl }) {
     .map((line, i) => `    <text x="70" y="${headlineBaselines[i].toFixed(1)}" font-size="${hs}" letter-spacing="-0.035em" fill="white">${esc(line)}</text>`)
     .join('\n');
   const descriptionText = descriptionLines
-    .map((line, i) => `    <text x="70" y="${descBaselines[i].toFixed(1)}" font-size="${ds}" letter-spacing="-0.01em" fill="rgba(255,255,255,0.92)">${esc(line)}</text>`)
+    .map((line, i) => `    <text class="desc" x="70" y="${descBaselines[i].toFixed(1)}" font-size="${ds}" letter-spacing="-0.01em" fill="rgba(255,255,255,0.92)">${esc(line)}</text>`)
     .join('\n');
 
   return `<?xml version="1.0" encoding="UTF-8"?>\n` +
