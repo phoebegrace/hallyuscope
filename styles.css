@@ -711,6 +711,7 @@ button,input{font:inherit;color:inherit}
 .album-search input:focus{outline:2px solid var(--pink);outline-offset:2px;border-color:var(--ink)}
 .album-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px;padding:24px 0 8px}
 @media(min-width:1024px){.album-grid{grid-template-columns:repeat(4,1fr)}}
+@media(max-width:640px){.album-grid{grid-template-columns:repeat(2,1fr);gap:12px}.album-card{padding:12px}.album-cover{width:calc(100% + 24px);margin:-12px -12px 10px}.album-card h3{font-size:16px}.album-date{font-size:24px}}
 a.album-card{text-decoration:none;color:inherit}
 a.album-detail-back{text-decoration:none;color:inherit;display:inline-block}
 .album-card{border:1px solid var(--hair);padding:20px;display:flex;flex-direction:column;gap:6px;transition:border-color .2s}
