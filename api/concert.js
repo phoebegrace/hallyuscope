@@ -87,7 +87,7 @@ function detailHtml(e, all) {
     '<a class="concert-detail-back" href="/concerts">← All concerts</a>' +
     '<div class="concert-detail-grid"><div>' +
     '<span class="eyebrow">' + esc((e.type || 'Concert').toUpperCase()) + '</span>' +
-    '<h3>' + esc(e.artist || e.title || 'Concert') + (e.tour ? ' — ' + esc(e.tour) : '') + '</h3>' +
+    '<h3 class="concert-detail-title">' + esc(e.artist || e.title || 'Concert') + (e.tour ? ' — ' + esc(e.tour) : '') + '</h3>' +
     '<p class="concert-detail-dek">' + esc(e.description || 'More details will be added as official information is confirmed.') + '</p>' +
     '<div class="concert-facts">' +
       fact('Date', fmt(d, { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' })) +

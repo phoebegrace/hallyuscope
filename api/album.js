@@ -142,7 +142,7 @@ function detailHtml(e, all) {
     '<a class="album-detail-back" href="/albums">← All albums</a>' +
     '<div class="album-detail-grid"><div>' +
     '<span class="eyebrow">' + esc((e.type || 'Release').toUpperCase()) + '</span>' +
-    '<h3>' + esc(e.title || 'Release') + '</h3>' +
+    '<h3 class="album-detail-title">' + esc(e.title || 'Release') + '</h3>' +
     '<p class="album-detail-artist">' + esc(e.artist || '') + '</p>' +
     '<p class="album-detail-dek">' + esc(e.description || 'More details will be added as official information is confirmed.') + '</p>' +
     '<div class="album-facts">' +
