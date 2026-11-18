@@ -71,13 +71,20 @@ button,input{font:inherit;color:inherit}
 .nav-logo{width:0;overflow:hidden;opacity:0;transition:width .35s var(--ease),opacity .25s;flex:none}
 .nav-logo img{width:132px;height:auto}
 .nav.compact .nav-logo{width:132px;opacity:1}
-.nav-links{display:flex;gap:clamp(18px,3vw,40px);margin-inline:auto;overflow-x:auto;scrollbar-width:none}
-.nav-links::-webkit-scrollbar{display:none}
+.nav-links{display:flex;gap:clamp(18px,3vw,40px);margin-inline:auto;overflow:visible}
 .nav.compact .nav-links{margin-inline:auto 0}
 .nav-links a{position:relative;font:600 14px/52px var(--f);letter-spacing:.01em;white-space:nowrap}
 .nav-links a::after{content:"";position:absolute;left:0;right:0;bottom:-1px;height:3px;background:var(--pink);transform:scaleX(0);transform-origin:left;transition:transform .3s var(--ease)}
 .nav-links a:hover::after,.nav-links a[aria-current="page"]::after{transform:scaleX(1)}
 .search-btn{flex:none;display:flex;align-items:center;gap:8px;background:none;border:0;padding:0;cursor:pointer;font:600 14px/1 var(--f)}
+.nav-menu-btn{display:none;flex:none;background:none;border:0;padding:8px;cursor:pointer;color:#fff}
+.nav-menu-btn svg{width:22px;height:22px;display:block}
+.nav-has-sub{position:relative;display:flex;align-items:center}
+.nav-sub{position:absolute;top:100%;left:50%;transform:translate(-50%,6px);min-width:200px;background:#fff;border:1px solid var(--hair);box-shadow:0 14px 30px rgba(11,13,23,.16);padding:6px 0;opacity:0;visibility:hidden;transition:opacity .2s,transform .2s,visibility .2s;z-index:40}
+.nav-has-sub:hover .nav-sub,.nav-has-sub:focus-within .nav-sub{opacity:1;visibility:visible;transform:translate(-50%,0)}
+.nav-links .nav-sub a{display:block;padding:11px 16px;font:600 14px/1.35 var(--f);color:var(--ink);white-space:nowrap;line-height:1.35}
+.nav-links .nav-sub a::after{display:none}
+.nav-links .nav-sub a:hover{background:var(--tint);color:var(--navy)}
 .search-btn svg{width:18px;height:18px}
 .search-btn kbd{font:600 10px/1 var(--f);border:1px solid var(--hair);padding:3px 5px;color:var(--mute)}
 
@@ -268,10 +275,16 @@ button,input{font:inherit;color:inherit}
 @media (max-width:640px){
   .topbar .hide-sm{display:none}
   .mast-line{flex-direction:column;gap:6px}
-  .nav-in{gap:14px}
-  .nav-links{margin-inline:0;gap:0;flex:1;justify-content:space-between}
-  .nav-links a{font-size:14px}
-  .nav.compact .nav-logo{width:0;opacity:0}
+  .nav-in{position:relative;gap:14px;justify-content:space-between}
+  .nav-menu-btn{display:flex}
+  .nav-links{display:none}
+  .nav.menu-open .nav-links{display:flex;position:absolute;top:100%;left:0;right:0;flex-direction:column;align-items:stretch;gap:0;background:var(--navy);border-top:1px solid rgba(255,255,255,.18);padding:6px 0;margin-inline:0;overflow:visible}
+  .nav.menu-open .nav-links a{font-size:16px;line-height:1.4;padding:12px 20px}
+  .nav.menu-open .nav-links a::after{display:none}
+  .nav.menu-open .nav-has-sub{flex-direction:column;align-items:stretch}
+  .nav.menu-open .nav-sub{position:static;transform:none;opacity:1;visibility:visible;min-width:0;background:transparent;border:0;box-shadow:none;padding:0 0 6px}
+  .nav.menu-open .nav-sub a{padding:9px 20px 9px 36px;font-size:15px;color:rgba(255,255,255,.85)}
+  .nav.compact .nav-logo{width:132px;opacity:1;position:absolute;left:50%;transform:translateX(-50%)}
   .search-btn .lbl,.search-btn kbd{display:none}
   .ticker{height:40px}
   .ticker-label{padding:0 12px}
@@ -408,16 +421,15 @@ button,input{font:inherit;color:inherit}
 
 /* ---------- concert calendar ---------- */
 .concert-tools{display:flex;align-items:center;gap:18px;flex-wrap:wrap;margin-top:22px}
-.calendar-launch{display:inline-flex;align-items:center;gap:28px;border:0;background:var(--navy);color:#fff;padding:15px 18px;cursor:pointer;font:750 14px/1 var(--f);transition:background .2s,transform .2s}
+/* Inline calendar section (the calendar lives on the page, not in a popup) */
+.calendar-section{background:#fff;border:1px solid var(--hair);margin:8px 0 48px}
+.calendar-section .concert-calendar-main{padding-top:clamp(20px,3vw,42px)}
+.calendar-section .concert-detail{padding-top:0}
+.calendar-launch{display:inline-flex;align-items:center;gap:28px;border:0;background:var(--navy);color:#fff;padding:15px 18px;cursor:pointer;font:750 14px/1 var(--f);text-decoration:none;transition:background .2s,transform .2s}
 .calendar-launch:hover{background:var(--pink);transform:translateY(-1px)}
-.concert-modal{position:fixed;inset:0;z-index:100;display:none}
-.concert-modal.open{display:block}
-.concert-modal-backdrop{position:absolute;inset:0;background:rgba(5,8,20,.56)}
-.concert-modal-panel{position:absolute;inset:4vh 3vw;background:#fff;overflow:auto;box-shadow:0 24px 70px rgba(0,0,0,.22)}
 .concert-modal-head{position:sticky;top:0;z-index:3;background:#fff;display:flex;justify-content:space-between;align-items:flex-end;gap:24px;padding:24px clamp(20px,3vw,42px);border-bottom:1px solid var(--ink)}
 .concert-modal-head h2{margin:7px 0 0;font:800 clamp(28px,3.2vw,48px)/1 var(--f);font-stretch:90%}
-.concert-modal-close,.concert-detail-back,.concert-month-nav button,.concert-view-toggle button{background:none;border:1px solid var(--hair);cursor:pointer}
-.concert-modal-close{padding:10px 14px;font-weight:700}
+.concert-detail-back,.concert-month-nav button,.concert-view-toggle button{background:none;border:1px solid var(--hair);cursor:pointer}
 .concert-calendar-main{padding:clamp(20px,3vw,42px)}
 .concert-calendar-toolbar{display:flex;justify-content:space-between;align-items:center;gap:18px;margin-bottom:24px}
 .concert-month-nav{display:flex;align-items:center;gap:14px}
@@ -429,15 +441,15 @@ button,input{font:inherit;color:inherit}
 .concert-calendar-layout{display:grid;grid-template-columns:minmax(0,1.55fr) minmax(300px,.75fr);gap:34px}
 .concert-weekdays,.concert-month-grid{display:grid;grid-template-columns:repeat(7,1fr)}
 .concert-weekdays{border-bottom:1px solid var(--ink)}
-.concert-weekdays span{padding:0 8px 10px;font:700 10px/1 var(--f);letter-spacing:.08em;text-transform:uppercase;color:var(--mute)}
-.concert-day{position:relative;min-height:104px;border-right:1px solid var(--hair);border-bottom:1px solid var(--hair);padding:9px;background:#fff;text-align:left}
+.concert-weekdays span{min-width:0;padding:0 8px 10px;font:700 10px/1 var(--f);letter-spacing:.08em;text-transform:uppercase;color:var(--mute);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.concert-day{position:relative;min-width:0;min-height:104px;border-right:1px solid var(--hair);border-bottom:1px solid var(--hair);padding:9px;background:#fff;text-align:left}
 .concert-day:nth-child(7n+1){border-left:1px solid var(--hair)}
 .concert-day.is-empty{background:#fafafe}
 .concert-day-num{font:700 12px/1 var(--f);color:var(--mute)}
 .concert-day.has-event{cursor:pointer}
 .concert-day.has-event:hover{background:var(--tint)}
 .concert-day.is-today .concert-day-num{color:var(--pink)}
-.concert-dot{display:block;margin-top:12px;padding:7px 8px;background:var(--navy);color:#fff;font:700 10px/1.2 var(--f);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;border:0;cursor:pointer;text-align:left}
+.concert-dot{display:block;margin-top:12px;padding:7px 8px;background:var(--navy);color:#fff;font:700 10px/1.2 var(--f);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;border:0;cursor:pointer;text-align:left;text-decoration:none}
 .concert-day.has-many .concert-dot{background:var(--pink)}
 .concert-poster{margin:0 0 18px}
 .concert-poster img{display:block;width:100%;height:auto;border-radius:10px}
@@ -448,7 +460,7 @@ button,input{font:inherit;color:inherit}
 .concert-guide-link:hover{color:var(--pink)}
 .concert-upcoming{border-top:2px solid var(--ink)}
 .concert-upcoming-head{display:flex;justify-content:space-between;gap:12px;padding:14px 0;border-bottom:1px solid var(--hair)}
-.concert-card{display:grid;grid-template-columns:62px 1fr;gap:16px;padding:18px 0;border-bottom:1px solid var(--hair);cursor:pointer}
+.concert-card{display:grid;grid-template-columns:62px 1fr;gap:16px;padding:18px 0;border-bottom:1px solid var(--hair);cursor:pointer;text-decoration:none;color:inherit}
 .concert-card:hover h3{color:var(--navy)}
 .concert-card-date{font:800 26px/1 var(--f);color:var(--pink)}
 .concert-card-date small{display:block;margin-top:6px;font:700 10px/1 var(--f);color:var(--mute);letter-spacing:.08em}
@@ -458,10 +470,10 @@ button,input{font:inherit;color:inherit}
 .concert-list-mode .concert-calendar-layout>div:first-child{display:none}
 .concert-list-mode .concert-upcoming{max-width:900px}
 .concert-detail{padding:clamp(20px,4vw,56px)}
-.concert-detail-back{padding:10px 13px;margin-bottom:28px;font-weight:700}
+.concert-detail-back{display:inline-block;padding:10px 13px;margin-bottom:28px;font-weight:700}
 .concert-detail-grid{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(280px,.85fr);gap:42px}
 .concert-detail-side{align-self:start}
-.concert-detail h3{margin:10px 0 14px;font:800 clamp(34px,4vw,58px)/1.02 var(--f);font-stretch:90%}
+.concert-detail-title{margin:10px 0 14px;font:800 clamp(34px,4vw,58px)/1.02 var(--f);font-stretch:90%}
 .concert-detail-dek{font-size:18px;line-height:1.65;color:var(--mute);max-width:720px}
 .concert-facts{display:grid;grid-template-columns:repeat(2,1fr);gap:0;margin:30px 0;border-top:1px solid var(--ink)}
 .concert-fact{padding:15px 0;border-bottom:1px solid var(--hair)}
@@ -477,7 +489,6 @@ button,input{font:inherit;color:inherit}
 .concert-calendar-actions a{display:inline-block;border:1px solid rgba(255,255,255,.35);padding:9px 11px;font-size:12px;font-weight:700}
 .concert-empty{padding:28px 0;color:var(--mute)}
 @media(max-width:900px){
-  .concert-modal-panel{inset:0}
   .concert-calendar-layout,.concert-detail-grid{grid-template-columns:1fr}
   .concert-upcoming{margin-top:20px}
 }
@@ -487,6 +498,7 @@ button,input{font:inherit;color:inherit}
   .concert-weekdays span{padding-inline:3px;font-size:8px}
   .concert-day{min-height:72px;padding:5px}
   .concert-dot{font-size:0;width:7px;height:7px;border-radius:50%;padding:0;margin-top:8px}
+  #cbCalendarMain .concert-dot{font-size:9px;width:auto;height:auto;border-radius:0;padding:3px 4px;margin-top:5px}
   .concert-facts{grid-template-columns:1fr}
   .concert-fact:nth-child(odd){padding-right:0}
 }
@@ -585,6 +597,28 @@ button,input{font:inherit;color:inherit}
 .review-switch input:checked + .review-switch-track span{transform:translateX(24px)}
 .review-switch strong{min-width:28px;font-size:13px}
 @media(max-width:640px){.review-autopublish{align-items:flex-start;flex-direction:column}.review-switch{align-self:stretch;justify-content:space-between}}
+.review-shopee{background:#fff;border:1px solid var(--hair);padding:20px 22px;margin:0 0 24px}
+.review-shopee h2{margin:7px 0 5px;font:800 22px/1.1 var(--f);font-stretch:92%}
+.review-shopee>p{margin:0 0 18px;color:var(--mute);font-size:14px;max-width:700px}
+.review-shopee-row{display:grid;grid-template-columns:44px minmax(180px,1fr) minmax(220px,1.6fr) auto;gap:14px;align-items:center;padding:12px 0;border-top:1px solid var(--hair)}
+.review-shopee-row img{width:44px;height:44px;object-fit:cover;border-radius:6px}
+.review-shopee-initial{width:44px;height:44px;display:flex;align-items:center;justify-content:center;background:var(--tint);border-radius:6px;font:800 20px/1 var(--f);color:var(--pink)}
+.review-shopee-info strong{display:block;font:700 15px/1.3 var(--f)}
+.review-shopee-info small{display:block;margin-top:3px;color:var(--mute)}
+.review-shopee-links{display:flex;flex-direction:column;gap:8px;min-width:0}
+.review-shopee-link{display:grid;grid-template-columns:minmax(110px,.7fr) minmax(150px,1.3fr) auto;gap:8px;align-items:center}
+.review-shopee-link input{width:100%;border:1px solid var(--hair);background:#fff;padding:9px 10px;font:500 13px/1.4 var(--f)}
+.review-shopee-link input:focus{outline:2px solid var(--pink);outline-offset:1px;border-color:var(--ink)}
+.review-shopee-remove{background:none;border:1px solid var(--hair);width:30px;height:30px;cursor:pointer;font-size:16px;line-height:1;color:var(--mute)}
+.review-shopee-remove:hover{border-color:var(--ink);color:var(--ink)}
+.review-shopee-add{align-self:flex-start;background:none;border:0;padding:4px 0;cursor:pointer;font:700 13px/1.4 var(--f);color:var(--navy)}
+.review-shopee-add:hover{color:var(--pink)}
+.review-shopee-state{font:700 12px/1.4 var(--f);color:var(--mute);white-space:nowrap}
+.review-shopee-state{font:700 11px/1 var(--f);color:var(--mute);white-space:nowrap}
+.review-shopee-actions{display:flex;gap:14px;align-items:center;margin-top:18px}
+.review-shopee-actions button{border:0;background:var(--navy);color:#fff;padding:12px 18px;font-weight:800;cursor:pointer}
+.review-shopee-actions button:disabled{opacity:.6;cursor:default}
+@media(max-width:760px){.review-shopee-row{grid-template-columns:44px 1fr;grid-template-rows:auto auto}.review-shopee-input{grid-column:1/-1}.review-shopee-state{grid-column:2}}
 
 /* ---------- nav: Home link ---------- */
 .nav-links a:nth-child(5){animation-delay:.53s}
@@ -688,3 +722,122 @@ button,input{font:inherit;color:inherit}
 .ai-sources{border-top:2px solid var(--ink);margin-bottom:34px}.ai-sources article{display:grid;grid-template-columns:42px 1fr;gap:12px;padding:14px 0;border-bottom:1px solid var(--hair)}.ai-sources article>span{font:800 11px/1 var(--f);color:var(--pink)}.ai-sources strong{display:block}.ai-sources p{margin:4px 0;color:var(--mute)}.ai-sources a{font-size:12px;font-weight:800;color:var(--navy)}
 .ai-draft{padding-top:28px;border-top:1px solid var(--hair)}.ai-grid{display:grid;grid-template-columns:1fr 1.4fr;gap:18px}
 @media(max-width:760px){.ai-center-top{grid-template-columns:1fr}.ai-center-top .review-brand{order:-1}.ai-back{justify-self:start}.ai-facts,.ai-grid{grid-template-columns:1fr}.ai-intake-foot,.ai-save-row{align-items:flex-start;flex-direction:column}.ai-intake-foot button,.ai-save-row button{width:100%}}
+
+/* ---------- albums ---------- */
+.album-tools{display:flex;flex-wrap:wrap;gap:16px;align-items:center;justify-content:space-between;padding:20px 0 8px}
+.album-search{flex:1 1 260px;max-width:360px}
+.album-search input{width:100%;padding:10px 14px;border:1px solid var(--hair);background:var(--paper);font:500 14px/1.4 var(--f);color:var(--ink)}
+.album-search input:focus{outline:2px solid var(--pink);outline-offset:2px;border-color:var(--ink)}
+.album-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px;padding:24px 0 8px}
+.album-grid>*{min-width:0}
+@media(min-width:1024px){.album-grid{grid-template-columns:repeat(4,1fr)}}
+@media(max-width:640px){.album-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.album-card{min-width:0}.album-card{padding:12px}.album-cover{width:calc(100% + 24px);margin:-12px -12px 10px}.album-card h3{font-size:16px}.album-date{font-size:24px}}
+a.album-card{text-decoration:none;color:inherit}
+a.album-detail-back{text-decoration:none;color:inherit;display:inline-block}
+.album-card{border:1px solid var(--hair);padding:20px;display:flex;flex-direction:column;gap:6px;transition:border-color .2s}
+.album-card:hover{border-color:var(--ink)}
+.album-card:hover h3{color:var(--navy)}
+.album-date{font:800 30px/1 var(--f);color:var(--pink)}
+.album-date small{display:block;margin-top:6px;font:700 10px/1 var(--f);color:var(--mute);letter-spacing:.08em}
+.album-card h3{margin:6px 0 0;font:700 18px/1.3 var(--f)}
+.album-artist{margin:0;font:600 15px/1.45 var(--f);color:var(--mute)}
+.album-card .tag{align-self:flex-start;margin-top:6px}
+.album-empty{grid-column:1/-1;padding:40px 0;color:var(--mute)}
+.album-note{padding:0 0 8px}
+@media(max-width:760px){.album-tools{flex-direction:column;align-items:stretch}.album-search{flex:none;max-width:none}}
+
+/* album covers: square, full-bleed at the top of the card */
+.album-cover{width:calc(100% + 40px);aspect-ratio:1/1;overflow:hidden;margin:-20px -20px 14px}
+.album-cover img{display:block;width:100%;height:100%;object-fit:cover}
+/* Branded fallback tile for a missing or broken album cover: navy tile
+   with the white HallyuScope wordmark and the album title in white.
+   Square, like a real cover, so the grid never shifts. */
+.album-cover--empty{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;background:var(--navy);padding:16px;text-align:center}
+.album-cover--empty .album-cover-fallback-logo{display:block;width:72%;max-width:220px;height:auto;object-fit:contain}
+.album-cover--empty .album-cover-fallback-title{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;font:700 14px/1.35 var(--f);color:#fff}
+
+/* ---------- concert show cards: one horizontal row each, poster left / details right ---------- */
+.concert-show-grid{display:grid;grid-template-columns:1fr;gap:12px;padding:24px 0 8px}
+@media(min-width:1024px){.concert-show-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.concert-show-card{display:grid;grid-template-columns:132px minmax(0,1fr);gap:18px;border:1px solid var(--hair);padding:16px;transition:border-color .2s;min-width:0}
+.concert-show-card:hover{border-color:var(--ink)}
+.concert-show-card:hover h3{color:var(--navy)}
+.concert-show-card a{color:inherit;text-decoration:none}
+.concert-show-poster-link{display:block}
+.concert-show-card:focus-visible{outline:2px solid var(--navy);outline-offset:2px}
+.concert-show-poster{width:100%;aspect-ratio:3/4;overflow:hidden;background:var(--tint)}
+.concert-show-poster img{display:block;width:100%;height:100%;object-fit:contain}
+.concert-show-poster--empty{display:flex;align-items:center;justify-content:center;background:var(--tint)}
+.concert-show-poster--empty span{font:800 56px/1 var(--f);color:var(--pink)}
+.concert-show-info{display:flex;flex-direction:column;gap:5px;min-width:0}
+.concert-show-date{font:800 24px/1 var(--f);color:var(--pink)}
+.concert-show-date small{display:block;margin-top:4px;font:700 10px/1 var(--f);color:var(--mute);letter-spacing:.08em}
+.concert-show-card h3{margin:4px 0 0;font:700 18px/1.3 var(--f)}
+.concert-show-tour{margin:0;font:600 14px/1.45 var(--f);color:var(--mute)}
+.concert-show-venue{margin:0;font-size:13px;line-height:1.45;color:var(--mute)}
+.concert-show-price{margin:0;font:700 13px/1.4 var(--f)}
+.concert-show-ticket{display:flex;justify-content:space-between;align-items:center;background:var(--navy);color:#fff;padding:12px 14px;font-weight:800;text-decoration:none;margin-top:auto}
+.concert-show-ticket:hover{background:var(--pink)}
+.concert-show-ticket.is-disabled{opacity:.55;pointer-events:none}
+.concert-show-card a.concert-show-ticket{color:#fff}
+@media(max-width:640px){
+  .concert-show-grid{gap:10px}
+  .concert-show-card{grid-template-columns:96px minmax(0,1fr);gap:12px;padding:12px}
+  .concert-show-card h3{font-size:16px}
+  .concert-show-date{font-size:20px}
+  .concert-show-poster--empty span{font-size:40px}
+}
+
+/* ---------- album detail ---------- */
+.album-card{cursor:pointer}
+.album-detail{padding:clamp(20px,4vw,56px)}
+.album-detail-back{background:none;border:1px solid var(--hair);cursor:pointer;padding:10px 13px;margin-bottom:28px;font-weight:700}
+.album-detail-grid{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(280px,.85fr);gap:42px}
+.album-detail-side{align-self:start}
+.album-detail-title{margin:10px 0 6px;font:800 clamp(34px,4vw,58px)/1.02 var(--f);font-stretch:90%}
+.album-detail-artist{margin:0 0 14px;font:600 20px/1.3 var(--f);color:var(--mute)}
+.album-detail-dek{font-size:18px;line-height:1.65;color:var(--mute);max-width:720px}
+.album-facts{display:grid;grid-template-columns:repeat(2,1fr);gap:0;margin:30px 0;border-top:1px solid var(--ink)}
+.album-fact{padding:15px 0;border-bottom:1px solid var(--hair)}
+.album-fact:nth-child(odd){padding-right:20px}
+.album-fact b{display:block;font:700 10px/1 var(--f);letter-spacing:.08em;text-transform:uppercase;color:var(--mute);margin-bottom:6px}
+.album-fact span{font-weight:650}
+.album-cover-big{margin:0 0 18px}
+.album-cover-big img{display:block;width:100%;height:auto;border-radius:10px}
+.album-cover-big--empty{aspect-ratio:1/1;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:18px;background:var(--navy);border-radius:10px;padding:24px;text-align:center}
+.album-cover-big--empty .album-cover-fallback-logo{display:block;width:64%;max-width:320px;height:auto;object-fit:contain}
+.album-cover-big--empty .album-cover-fallback-title{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;font:700 clamp(18px,3vw,26px)/1.3 var(--f);color:#fff}
+.album-listen-box{background:var(--navy);color:#fff;padding:28px;align-self:start}
+.album-listen-box h4{margin:0 0 10px;font:800 24px/1.1 var(--f)}
+.album-listen-box p{margin:0 0 22px;color:rgba(255,255,255,.72);font-size:14px}
+.album-listen-btn{display:flex;justify-content:space-between;align-items:center;background:#fff;color:var(--navy);padding:14px 16px;font-weight:800;text-decoration:none;margin-bottom:10px}
+.album-listen-btn:last-child{margin-bottom:0}
+.album-listen-btn.is-disabled{opacity:.55;pointer-events:none}
+.album-buy-box{background:var(--navy);color:#fff;padding:28px;align-self:start}
+.album-buy-box h4{margin:0 0 10px;font:800 24px/1.1 var(--f)}
+.album-buy-box p{margin:0 0 22px;color:rgba(255,255,255,.72);font-size:14px}
+@media(max-width:760px){.album-detail-grid{grid-template-columns:1fr}}
+.album-section{margin-top:44px}
+.album-section h4{margin:0 0 18px;font:800 24px/1.15 var(--f)}
+.profile-section{margin-top:48px;padding-top:32px;border-top:2px solid var(--ink)}
+.profile-section h2{margin:10px 0 10px;font:800 clamp(28px,3.4vw,40px)/1.05 var(--f);font-stretch:90%}
+.profile-section p{margin:0;max-width:640px;font-size:16px;line-height:1.6;color:var(--mute)}
+.profile-section .meta{margin-top:14px}
+.album-note-line{color:var(--mute);font-size:15px}
+.album-teasers{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:14px}
+.album-teaser{display:block;text-decoration:none;color:var(--ink)}
+.album-teaser img{display:block;width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:6px}
+.album-teaser span{display:block;margin-top:8px;font:600 13px/1.4 var(--f);color:var(--mute)}
+.album-teaser:hover span{color:var(--navy)}
+.album-tracks{list-style:none;margin:0;padding:0;border-top:1px solid var(--ink)}
+.album-tracks li{display:flex;align-items:baseline;gap:14px;padding:13px 0;border-bottom:1px solid var(--hair)}
+.album-track-n{font:800 13px/1 var(--f);color:var(--pink);min-width:20px}
+.album-track-name{flex:1;font-weight:600}
+.album-track-title{font:700 10px/1 var(--f);letter-spacing:.08em;text-transform:uppercase;color:var(--pink);border:1px solid var(--pink);border-radius:999px;padding:3px 7px;margin-left:8px;white-space:nowrap}
+.album-track-dur{font:600 13px/1 var(--f);color:var(--mute)}
+.album-mv{position:relative;aspect-ratio:16/9;background:#000;border-radius:10px;overflow:hidden}
+.album-mv iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.album-mv-cap{margin:10px 0 0;font-size:13px;color:var(--mute)}
+.album-stream{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px}
+.album-stream iframe{width:100%;height:352px;border:0;border-radius:10px}
+.album-related{padding:0}

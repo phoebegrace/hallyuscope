@@ -41,25 +41,66 @@
   <p class="mast-line"><span class="kr">한류</span><span>K-pop &amp; Korean culture news for Filipino fans</span></p>
 </div></header>
 <nav class="nav" aria-label="Primary"><div class="wrap nav-in">
+  <button class="nav-menu-btn" type="button" aria-label="Open menu" aria-expanded="false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
   <a class="nav-logo" href="/" aria-label="HallyuScope home" tabindex="-1"><img src="/assets/hallyuscope-logo-light.png" alt="" width="2032" height="344"></a>
-  <div class="nav-links"><a href="/">Home</a><a href="/latest">Latest</a><a href="/concerts">Concerts</a><a href="/comebacks" aria-current="page">Comebacks</a><a href="/features">Guides</a></div>
+  <div class="nav-links"><a href="/">Home</a><a href="/latest">Latest</a><a href="/concerts">Concerts</a><a href="/comebacks" aria-current="page">Comebacks</a><a href="/albums">Albums</a><div class="nav-has-sub"><a href="/profiles">K-Profile</a><div class="nav-sub"><a href="/profiles#kpop-artists">K-pop Artists</a><a href="/profiles#kdrama-actors">K-drama Actors</a></div></div><a href="/features">Guides</a></div>
   <button class="search-btn" type="button" data-open-search aria-label="Search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m15.5 15.5 5 5"/></svg><span class="lbl">Search</span><kbd>/</kbd></button>
 </div></nav>
 <main id="main" class="wrap">
 <section class="page-head">
   <span class="kr">컴백</span>
   <h1>Comebacks</h1>
-  <div class="page-sub"><p>New albums, singles, teasers and release dates as they are announced, grouped by day.</p><span class="meta live"><i></i><span data-updated>Updated hourly</span> · <span data-count></span></span></div>
+  <div class="page-sub"><p>The latest K-pop comebacks and releases, newest first, plus what is still to come. Tap a release for its full album page, or browse the calendar below.</p><span class="meta live"><i></i><span data-updated>Updated hourly</span> · <span data-count></span></span></div>
+</section>
   <div class="concert-tools">
-    <button class="calendar-launch" id="openCbCalendar" type="button">
+    <div class="filters" id="cbTabs" role="group" aria-label="Comeback view" style="padding:0">
+      <button type="button" data-cb-tab="latest" aria-pressed="true">Latest</button>
+      <button type="button" data-cb-tab="upcoming" aria-pressed="false">Upcoming</button>
+    </div>
+    <a class="calendar-launch" href="#cbCalendar">
       <span>View Comeback Calendar</span>
       <span aria-hidden="true">→</span>
-    </button>
-    <span class="meta">Every upcoming K-pop comeback and release date</span>
+    </a>
+  </div>
+<div id="cbGrid" class="album-grid"><span class="sk" style="width:100%;aspect-ratio:1"></span><span class="sk" style="width:100%;aspect-ratio:1"></span><span class="sk" style="width:100%;aspect-ratio:1"></span><span class="sk" style="width:100%;aspect-ratio:1"></span></div>
+<section class="calendar-section" id="cbCalendar" aria-labelledby="cbCalendarTitle">
+  <header class="concert-modal-head">
+    <div>
+      <span class="eyebrow">HALLYUSCOPE COMEBACK TRACKER</span>
+      <h2 id="cbCalendarTitle">Comeback calendar</h2>
+    </div>
+  </header>
+
+  <div class="concert-calendar-main" id="cbCalendarMain">
+    <div class="concert-calendar-toolbar">
+      <div class="concert-month-nav">
+        <button type="button" id="cbPrevMonth" aria-label="Previous month">←</button>
+        <strong id="cbMonthLabel">Month</strong>
+        <button type="button" id="cbNextMonth" aria-label="Next month">→</button>
+      </div>
+      <div class="concert-view-toggle" role="group" aria-label="Comeback view">
+        <button type="button" data-cb-view="calendar" aria-pressed="true">Calendar</button>
+        <button type="button" data-cb-view="list" aria-pressed="false">List</button>
+      </div>
+    </div>
+
+    <div class="concert-calendar-layout">
+      <div>
+        <div class="concert-weekdays" aria-hidden="true"><span>Sun</span><span>Mon</span><span>Tue</span><span>Wed</span><span>Thu</span><span>Fri</span><span>Sat</span></div>
+        <div class="concert-month-grid" id="cbMonthGrid"></div>
+      </div>
+      <aside class="concert-upcoming">
+        <div class="concert-upcoming-head"><span class="eyebrow">UPCOMING</span><span class="meta" id="cbEventCount"></span></div>
+        <div id="cbUpcomingList"></div>
+      </aside>
+    </div>
+  </div>
+
+  <div class="concert-detail" id="cbDetail" hidden>
+    <button class="concert-detail-back" id="cbDetailBack" type="button">← Back to calendar</button>
+    <div id="cbDetailBody"></div>
   </div>
 </section>
-<div class="filters" id="filters" role="toolbar" aria-label="Filter by topic"></div>
-<div id="stream" class="section" style="padding-top:0"><span class="sk" style="width:90%"></span><span class="sk" style="width:70%"></span><span class="sk" style="width:80%"></span></div>
 </main>
 <section class="news-sign rv" aria-labelledby="nl-h">
   <div class="wrap nl-in">
@@ -95,7 +136,7 @@
         <a class="foot-logo" href="/" aria-label="HallyuScope home"><img src="/assets/hallyuscope-logo-light.png" alt="HallyuScope" width="2032" height="344"></a>
         <p>K-pop and Korean culture news rewritten and published on HallyuScope, with source attribution kept inside each story.</p>
       </div>
-      <div><h4>Sections</h4><ul><li><a href="/latest">Latest</a></li><li><a href="/concerts">Concerts</a></li><li><a href="/comebacks">Comebacks</a></li><li><a href="/features">Guides</a></li></ul></div>
+      <div><h4>Sections</h4><ul><li><a href="/latest">Latest</a></li><li><a href="/concerts">Concerts</a></li><li><a href="/comebacks">Comebacks</a></li><li><a href="/albums">Albums</a></li><li><a href="/profiles">K-Profile</a></li><li><a href="/features">Guides</a></li></ul></div>
       <div><h4>HallyuScope</h4><p>Independent coverage, weekly news, concert radar, comeback tracking and fan-first guides.</p></div>
     </div>
     <div class="foot-bottom"><span>© 2026 HallyuScope · hallyuscope.com</span><span>Independent fan publication. Not affiliated with any entertainment agency.</span></div>
@@ -106,49 +147,6 @@
   <div class="search-bar"><div class="wrap"><label class="sr-only" for="q">Search</label><input id="q" type="search" placeholder="Search artists, groups, cities" autocomplete="off"><button class="search-close" id="searchClose" type="button">Close · Esc</button></div></div>
   <div class="search-body"><div class="wrap" id="results"></div></div>
 </div>
-<div class="concert-modal" id="cbCalendarModal" aria-hidden="true">
-  <div class="concert-modal-backdrop" data-calendar-close></div>
-  <section class="concert-modal-panel" role="dialog" aria-modal="true" aria-labelledby="cbCalendarTitle">
-    <header class="concert-modal-head">
-      <div>
-        <span class="eyebrow">HALLYUSCOPE COMEBACK TRACKER</span>
-        <h2 id="cbCalendarTitle">Upcoming comebacks</h2>
-      </div>
-      <button class="concert-modal-close" type="button" data-calendar-close aria-label="Close comeback calendar">Close</button>
-    </header>
-
-    <div class="concert-calendar-main" id="cbCalendarMain">
-      <div class="concert-calendar-toolbar">
-        <div class="concert-month-nav">
-          <button type="button" id="cbPrevMonth" aria-label="Previous month">←</button>
-          <strong id="cbMonthLabel">Month</strong>
-          <button type="button" id="cbNextMonth" aria-label="Next month">→</button>
-        </div>
-        <div class="concert-view-toggle" role="group" aria-label="Comeback view">
-          <button type="button" data-cb-view="calendar" aria-pressed="true">Calendar</button>
-          <button type="button" data-cb-view="list" aria-pressed="false">List</button>
-        </div>
-      </div>
-
-      <div class="concert-calendar-layout">
-        <div>
-          <div class="concert-weekdays" aria-hidden="true"><span>Sun</span><span>Mon</span><span>Tue</span><span>Wed</span><span>Thu</span><span>Fri</span><span>Sat</span></div>
-          <div class="concert-month-grid" id="cbMonthGrid"></div>
-        </div>
-        <aside class="concert-upcoming">
-          <div class="concert-upcoming-head"><span class="eyebrow">UPCOMING</span><span class="meta" id="cbEventCount"></span></div>
-          <div id="cbUpcomingList"></div>
-        </aside>
-      </div>
-    </div>
-
-    <div class="concert-detail" id="cbDetail" hidden>
-      <button class="concert-detail-back" id="cbDetailBack" type="button">← Back to calendar</button>
-      <div id="cbDetailBody"></div>
-    </div>
-  </section>
-</div>
-
 <script src="/script.js" defer></script>
 <script src="/comebacks-calendar.js" defer></script>
 </body>

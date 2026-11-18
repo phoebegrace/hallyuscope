@@ -1,0 +1,51 @@
+# HallyuScope _redirects for Cloudflare Pages.
+# This file recreates the routing in vercel.json. Rules run top to bottom
+# and the first match wins. Status 200 is a rewrite: the visitor keeps the
+# clean URL while Cloudflare serves the destination behind the scenes.
+# Status 301 is a permanent redirect.
+#
+# File placement: repo root, which is also the Pages build output directory,
+# so the file is deployed as-is. Vercel is untouched: vercel.json still
+# controls the Vercel deployment, and the two files must stay in sync.
+#
+# Note on ordering: static rules come before dynamic rules, as the
+# Cloudflare docs ask. The rules below do not overlap, so order changes
+# nothing about which rule matches.
+#
+# What is deliberately NOT in this file:
+# - Clean URLs for static pages (/albums, /latest, /review and so on).
+#   Pages serves those natively: /albums is served from albums.html with
+#   no rule, and /albums.html is 308 redirected to /albums by the platform.
+#   A rule like "/albums /albums.html 200" loops: the rewrite serves
+#   albums.html, the platform 308s it back to /albums, forever. Verified
+#   with wrangler pages dev 2026-11-18: the rule returned a 308 loop.
+# - Trailing slashes. Pages also handles those natively: /albums/ is
+#   redirected to /albums by the platform, matching vercel.json
+#   trailingSlash false. No rule needed.
+# - The www to bare domain redirect. _redirects cannot match on host:
+#   a source must be a relative path, and Cloudflare lists domain level
+#   redirects as unsupported in _redirects. The www redirect is a
+#   dashboard Single Redirect instead, documented in
+#   docs/cloudflare-deployment.md. The rule below is commented out on
+#   purpose: it shows the intent, but it must stay inactive until www DNS
+#   points at Cloudflare and the dashboard rule is created.
+# https://www.hallyuscope.com/* https://hallyuscope.com/:splat 301
+
+# 1. Sitemap: there is no static sitemap.xml in the repo, the Function builds it.
+/sitemap.xml /api/sitemap 200
+
+# 2. Bare dynamic paths rewrite to the Functions too, so legacy
+# /article?id=<hex> links keep working.
+/article /api/article 200
+/album /api/album 200
+/concert /api/concert 200
+
+# 3. Dynamic pages: pretty URLs rewrite to the Pages Functions, with the
+# slug passed as a query param. These rules are a fallback: the primary
+# routing is file-based Functions (functions/album/[slug].js,
+# functions/concert/[slug].js, functions/article/[slug].js), which match the
+# pretty path directly and do not depend on the rewrite reaching the
+# Functions router. Both mechanisms produce the same page.
+/article/:slug /api/article?slug=:slug 200
+/album/:slug /api/album?slug=:slug 200
+/concert/:slug /api/concert?slug=:slug 200

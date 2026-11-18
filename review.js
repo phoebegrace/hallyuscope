@@ -13,6 +13,7 @@
   let filter = 'pending_review';
   let autoPublish = false;
   let queueUpdatedAt = '';
+  let shopeeAlbums = [];
 
   const esc = (s='') => String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   function ago(value){
@@ -109,7 +110,7 @@
         <label>Hashtags<input id="editSocialHashtags" value="${esc(Array.isArray(current.socialHashtags)?current.socialHashtags.join(' '):(current.socialHashtags||''))}" placeholder="#HallyuScope #Kpop #KpopNews #Manila #KoreanCulture"></label>
         <label>Social image URL<input id="editSocialImageUrl" value="${esc(current.socialImageUrl||'')}" placeholder="Generate from the HTML/CSS template"></label>
         <div class="review-upload-row"><label class="review-upload-btn">Upload image<input type="file" id="editSocialImageUpload" accept="image/jpeg,image/png,image/webp,image/gif" hidden></label><span class="meta" id="reviewSocialUploadMessage">JPG, PNG, WebP or GIF, up to 3 MB — or generate a social card below.</span></div>
-        <p class="meta">The HallyuScope renderer creates a 1080 × 1350 PNG from the article image, category, headline, and description.</p>
+        <p class="meta">The HallyuScope renderer creates a 1080 × 1350 SVG preview card from the article image, category, headline, and description. It is preview-only; the social preview image uses the editorial feature image.</p>
         <div class="review-social-actions">
           <button type="button" class="review-generate-card" data-generate-card="1">Generate social card</button>
           <a class="review-preview-card" id="reviewPreviewCard" href="${esc(current.socialImageUrl||'#')}" target="_blank" rel="noopener" ${current.socialImageUrl?'':'hidden'}>Preview card</a>
@@ -140,6 +141,50 @@
     document.querySelector('.review-autopublish')?.classList.toggle('is-on',autoPublish);
   }
 
+  function shopeeLinkRow(label,url){
+    return `<div class="review-shopee-link">
+      <input class="review-shopee-label" type="text" value="${esc(label)}" placeholder="Version, e.g. Standard Ver." aria-label="Album version">
+      <input class="review-shopee-url" type="url" inputmode="url" value="${esc(url)}" placeholder="https://shopee.ph/... or https://shope.ee/..." aria-label="Shopee affiliate link">
+      <button type="button" class="review-shopee-remove" aria-label="Remove this version">\u00d7</button>
+    </div>`;
+  }
+
+  function renderShopee(){
+    const listEl=$('#reviewShopeeList');
+    if(!listEl) return;
+    if(!shopeeAlbums.length){
+      listEl.innerHTML='<p class="meta">No albums yet.</p>';
+      return;
+    }
+    listEl.innerHTML = shopeeAlbums.map(a=>{
+      const links=(Array.isArray(a.buyLinks)&&a.buyLinks.length?a.buyLinks:(a.buyLink?[{label:'Buy on Shopee',url:a.buyLink}]:[]));
+      const rows=(links.length?links:[{label:'',url:''}]).map(l=>shopeeLinkRow(l.label||'',l.url||'')).join('');
+      const n=links.filter(l=>l.url).length;
+      return `
+      <div class="review-shopee-row">
+        ${a.cover ? '<img src="'+esc(a.cover)+'" alt="" loading="lazy">' : '<span class="review-shopee-initial">'+esc((a.artist||'H').charAt(0))+'</span>'}
+        <div class="review-shopee-info"><strong>${esc(a.title||'Release')}</strong><small>${esc(a.artist||'')} · ${esc(a.date||'')}</small></div>
+        <div class="review-shopee-links" data-shopee-album="${esc(a.id)}">
+          ${rows}
+          <button type="button" class="review-shopee-add">+ Add version</button>
+        </div>
+        <span class="review-shopee-state">${n ? n+(n===1?' link':' links') : 'No link'}</span>
+      </div>`;}).join('');
+  }
+
+  async function loadShopee(){
+    const note=$('#reviewShopeeMessage');
+    try{
+      const data=await api('buy_links_list');
+      shopeeAlbums=(data.albums||[]).slice().sort((a,b)=>String(b.date).localeCompare(String(a.date)));
+      renderShopee();
+      if(note) note.textContent='';
+    }catch(err){
+      const listEl=$('#reviewShopeeList');
+      if(listEl) listEl.innerHTML='<p class="meta">Could not load the album links: '+esc(err.message)+'</p>';
+    }
+  }
+
   async function load(){
     const data = await api('list');
     items = data.items || [];
@@ -151,6 +196,7 @@
     renderAutoPublish();
     if(current) current = items.find(x=>x.id===current.id) || null;
     renderList(); renderEditor();
+    loadShopee().catch(()=>{});
   }
 
   async function loginNow(){
@@ -317,6 +363,52 @@
   });
 
   $('#reviewRefresh').addEventListener('click',()=>load().catch(()=>{}));
+  const shopeeListEl=$('#reviewShopeeList');
+  if(shopeeListEl) shopeeListEl.addEventListener('click',e=>{
+    const add=e.target.closest('.review-shopee-add');
+    if(add){
+      const box=add.closest('[data-shopee-album]');
+      if(box) add.insertAdjacentHTML('beforebegin',shopeeLinkRow('',''));
+      return;
+    }
+    const rem=e.target.closest('.review-shopee-remove');
+    if(rem){
+      const box=rem.closest('[data-shopee-album]');
+      const row=rem.closest('.review-shopee-link');
+      if(box&&row){
+        row.remove();
+        if(!box.querySelector('.review-shopee-link')){
+          box.querySelector('.review-shopee-add').insertAdjacentHTML('beforebegin',shopeeLinkRow('',''));
+        }
+      }
+    }
+  });
+  const shopeeSaveBtn=$('#reviewShopeeSave');
+  if(shopeeSaveBtn) shopeeSaveBtn.addEventListener('click',async ()=>{
+    const note=$('#reviewShopeeMessage');
+    const links={};
+    document.querySelectorAll('[data-shopee-album]').forEach(box=>{
+      links[box.dataset.shopeeAlbum]=[...box.querySelectorAll('.review-shopee-link')].map(row=>({
+        label:row.querySelector('.review-shopee-label').value.trim(),
+        url:row.querySelector('.review-shopee-url').value.trim()
+      })).filter(r=>r.url);
+    });
+    if(note) note.textContent='Saving…';
+    shopeeSaveBtn.disabled=true;
+    try{
+      const data=await api('buy_links_save',{links});
+      (data.albums||[]).forEach(a=>{
+        const found=shopeeAlbums.find(x=>x.id===a.id);
+        if(found){ found.buyLink=a.buyLink||''; found.buyLinks=a.buyLinks||[]; }
+      });
+      renderShopee();
+      if(note) note.textContent=data.changed ? 'Saved. The album pages will pick the new links up within a few minutes.' : 'No changes to save.';
+    }catch(err){
+      if(note) note.textContent=err.message;
+    }finally{
+      shopeeSaveBtn.disabled=false;
+    }
+  });
   $('#autoPublishToggle').addEventListener('change',async e=>{
     const wanted=e.target.checked;
     const label=$('#autoPublishLabel');

@@ -21,13 +21,18 @@ const esc = (s = '') => String(s)
   .replace(/>/g, '&gt;')
   .replace(/"/g, '&quot;');
 
-// Social previews need a real PNG. The generated social card wins;
-// the editorial cover is an SVG, which Facebook/X cannot use as og:image.
+// Social previews need a real image. The generated social card is an SVG
+// and is preview-only, so it is never used as og:image: Facebook/X cannot
+// use SVG there. og:image falls back to the editorial feature image, then
+// the generic card. An SVG editorial cover is skipped for the same reason.
+function isSocialCardUrl(u) {
+  return typeof u === 'string' && u.includes('/api/social-card');
+}
 function shareImage(item) {
   const social = item?.socialImageUrl || '';
-  if (social && !/\.svg(\?|$)/i.test(social) && /^https?:\/\//.test(social)) return social;
+  if (social && !isSocialCardUrl(social) && !/\.svg(\?|$)/i.test(social) && /^https?:\/\//.test(social)) return social;
   const raw = item?.imageUrl || '';
-  if (raw && !/\.svg(\?|$)/i.test(raw)) {
+  if (raw && !isSocialCardUrl(raw) && !/\.svg(\?|$)/i.test(raw)) {
     try { return new URL(raw, SITE).href; } catch { /* fall through */ }
   }
   return DEFAULT_IMAGE;
@@ -63,7 +68,8 @@ function shell({ title, description, canonical, image }) {
   <a class="mast-logo" href="/" aria-label="HallyuScope home"><img src="/assets/hallyuscope-logo.png" alt="HallyuScope" width="2032" height="344"></a>
 </div></header>
 <nav class="nav" aria-label="Primary"><div class="wrap nav-in">
-  <div class="nav-links"><a href="/">Home</a><a href="/latest">Latest</a><a href="/concerts">Concerts</a><a href="/comebacks">Comebacks</a><a href="/features">Guides</a></div>
+  <button class="nav-menu-btn" type="button" aria-label="Open menu" aria-expanded="false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
+  <div class="nav-links"><a href="/">Home</a><a href="/latest">Latest</a><a href="/concerts">Concerts</a><a href="/comebacks">Comebacks</a><div class="nav-has-sub"><a href="/profiles">K-Profile</a><div class="nav-sub"><a href="/profiles#kpop-artists">K-pop Artists</a><a href="/profiles#kdrama-actors">K-drama Actors</a></div></div><a href="/features">Guides</a></div>
 </div></nav>
 <main class="wrap article-shell" id="article">
   <p class="meta">Loading story…</p>
@@ -72,7 +78,7 @@ function shell({ title, description, canonical, image }) {
   <div class="wrap">
     <div class="foot-top">
       <div><a class="foot-logo" href="/"><img src="/assets/hallyuscope-logo.png" alt="HallyuScope" width="2032" height="344"></a><p>K-pop and Korean culture news rewritten and published on HallyuScope, with source attribution kept inside each story.</p></div>
-      <div><h4>Sections</h4><ul><li><a href="/latest">Latest</a></li><li><a href="/concerts">Concerts</a></li><li><a href="/comebacks">Comebacks</a></li><li><a href="/features">Guides</a></li></ul></div>
+      <div><h4>Sections</h4><ul><li><a href="/latest">Latest</a></li><li><a href="/concerts">Concerts</a></li><li><a href="/comebacks">Comebacks</a></li><li><a href="/profiles">K-Profile</a></li><li><a href="/features">Guides</a></li></ul></div>
       <div><h4>HallyuScope</h4><p>Independent coverage, weekly news, concert radar, comeback tracking and fan-first guides.</p></div>
     </div>
     <div class="foot-bottom"><span>© 2026 HallyuScope · hallyuscope.com</span><span>Independent fan publication. Not affiliated with any entertainment agency.</span></div>

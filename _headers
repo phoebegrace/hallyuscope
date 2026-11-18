@@ -1,0 +1,58 @@
+# HallyuScope _headers for Cloudflare Pages.
+# Each block starts with a URL pattern, followed by indented headers.
+# Rules run in file order. A later matching block replaces an earlier value
+# for the same header only when it first detaches it with "! Name", so every
+# block below the default detaches Cache-Control before setting its own.
+#
+# These headers apply to static asset responses only. Responses from Pages
+# Functions (/api/*, and the rewritten /article, /album, /concert and
+# /sitemap.xml pages) set their own headers in function code; this file
+# does not control them.
+
+# Default: everything is fresh. This covers all HTML pages, including the
+# clean URLs (/albums, /latest) that _redirects rewrites to .html files,
+# plus the homepage and any file with no rule below.
+/*
+  Cache-Control: public, max-age=0, must-revalidate
+
+# Live data JSON: exactly as vercel.json sets it, always fresh.
+# The live site reads data from raw.githubusercontent.com, but the same
+# files are also served from here, so the freshness rule must match.
+/data/*
+  ! Cache-Control
+  Cache-Control: public, max-age=0, must-revalidate
+
+# Root icons and manifest: stable files, cache for a day.
+/favicon.ico
+  ! Cache-Control
+  Cache-Control: public, max-age=86400, must-revalidate
+/favicon.svg
+  ! Cache-Control
+  Cache-Control: public, max-age=86400, must-revalidate
+/apple-touch-icon.png
+  ! Cache-Control
+  Cache-Control: public, max-age=86400, must-revalidate
+/site.webmanifest
+  ! Cache-Control
+  Cache-Control: public, max-age=86400, must-revalidate
+
+# CSS and JS are unhashed, so they change in place on every deploy.
+# Cache briefly, then revalidate, so a deploy is picked up within the hour.
+/*.css
+  ! Cache-Control
+  Cache-Control: public, max-age=3600, must-revalidate
+/*.js
+  ! Cache-Control
+  Cache-Control: public, max-age=3600, must-revalidate
+
+# Images, logos and video posters: stable names, cache for a day.
+/assets/*
+  ! Cache-Control
+  Cache-Control: public, max-age=86400, must-revalidate
+
+# Editorial covers use content hashed filenames (for example
+# assets/editorial/00bf72053d02.svg): new art gets a new name, so a cached
+# copy can never go stale. Cache for a year and mark immutable.
+/assets/editorial/*
+  ! Cache-Control
+  Cache-Control: public, max-age=31536000, immutable

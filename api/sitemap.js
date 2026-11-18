@@ -22,6 +22,8 @@
 //   ~5 min raw.githubusercontent lag already seen on publishes).
 
 const DRAFTS_URL = 'https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/data/article-drafts.json';
+const COMEBACKS_URL = 'https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/data/comebacks-calendar.json';
+const CONCERTS_URL = 'https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/data/concerts-calendar.json';
 const SITE = 'https://hallyuscope.com';
 
 const STATIC_PAGES = [
@@ -29,7 +31,9 @@ const STATIC_PAGES = [
   { loc: '/latest', changefreq: 'hourly', priority: '0.9' },
   { loc: '/concerts', changefreq: 'daily', priority: '0.8' },
   { loc: '/comebacks', changefreq: 'daily', priority: '0.8' },
+  { loc: '/albums', changefreq: 'daily', priority: '0.8' },
   { loc: '/features', changefreq: 'weekly', priority: '0.6' },
+  { loc: '/profiles', changefreq: 'weekly', priority: '0.6' },
 ];
 
 const esc = (s = '') => String(s)
@@ -65,6 +69,38 @@ export default async function handler(req, res) {
     articles = [];
   }
 
+  let albums = [];
+  try {
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 8000);
+    try {
+      const r = await fetch(COMEBACKS_URL, { signal: controller.signal, cache: 'no-store' });
+      if (!r.ok) throw new Error('comebacks fetch failed: ' + r.status);
+      const data = await r.json();
+      albums = (data.items || []).filter(x => x.id && x.date);
+    } finally {
+      clearTimeout(timeout);
+    }
+  } catch {
+    albums = [];
+  }
+
+  let concerts = [];
+  try {
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 8000);
+    try {
+      const r = await fetch(CONCERTS_URL, { signal: controller.signal, cache: 'no-store' });
+      if (!r.ok) throw new Error('concerts fetch failed: ' + r.status);
+      const data = await r.json();
+      concerts = (data.items || []).filter(x => x.id && x.date);
+    } finally {
+      clearTimeout(timeout);
+    }
+  } catch {
+    concerts = [];
+  }
+
   const lines = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'];
   for (const page of STATIC_PAGES) lines.push(urlEntry(page));
   for (const item of articles) {
@@ -74,6 +110,22 @@ export default async function handler(req, res) {
       lastmod,
       changefreq: 'daily',
       priority: '0.8',
+    }));
+  }
+  for (const album of albums) {
+    lines.push(urlEntry({
+      loc: '/album/' + encodeURIComponent(album.id),
+      lastmod: String(album.date || '').slice(0, 10) || undefined,
+      changefreq: 'weekly',
+      priority: '0.7',
+    }));
+  }
+  for (const concert of concerts) {
+    lines.push(urlEntry({
+      loc: '/concert/' + encodeURIComponent(concert.id),
+      lastmod: String(concert.date || '').slice(0, 10) || undefined,
+      changefreq: 'weekly',
+      priority: '0.7',
     }));
   }
   lines.push('</urlset>');

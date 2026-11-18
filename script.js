@@ -105,6 +105,23 @@
     new IntersectionObserver(([e]) => nav.classList.toggle('compact', !e.isIntersecting), { threshold: 0 }).observe(mast);
   }
 
+  /* ---------- mobile nav: hamburger menu ---------- */
+  const menuBtn = document.querySelector('.nav-menu-btn');
+  if (menuBtn && nav) {
+    const setMenu = open => {
+      nav.classList.toggle('menu-open', open);
+      menuBtn.setAttribute('aria-expanded', open ? 'true' : 'false');
+      menuBtn.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+    };
+    menuBtn.addEventListener('click', () => setMenu(!nav.classList.contains('menu-open')));
+    nav.addEventListener('click', e => {
+      if (e.target.closest('a') && nav.classList.contains('menu-open')) setMenu(false);
+    });
+    document.addEventListener('keydown', e => {
+      if (e.key === 'Escape' && nav.classList.contains('menu-open')) { setMenu(false); menuBtn.focus(); }
+    });
+  }
+
   const link = (it, inner, cls = '') => `<a class="${cls}" href="${esc(it.url)}">${inner}</a>`;
   const tag = it => `<span class="tag" data-t="${it.tag}">${it.tag}</span>`;
   const srcMeta = it => `<span class="meta"><b>${esc(it.source || 'Source')}</b> · ${ago(it.time)}</span>`;
@@ -213,8 +230,9 @@
   const page = document.body.dataset.page;
   if (page === 'home') home();
   if (page === 'latest') streamPage($('#stream'), 'article-drafts');
-  if (page === 'comebacks') streamPage($('#stream'), 'article-drafts', { noun: 'stories', filter: i => i.category === 'COMEBACK NEWS' });
-  if (page === 'concerts') streamPage($('#stream'), 'article-drafts', { ledger: true, noun: 'stories', filter: i => i.category === 'CONCERT NEWS', empty: 'No Philippine concert stories published this week yet.' });
+  // comebacks and concerts no longer show article streams — their pages
+  // are the release/show schedules themselves (see comebacks-calendar.js
+  // and concert-calendar.js). All articles live on /latest.
 
   /* ---------- search ---------- */
   const panel = $('#search'), input = $('#q'), out = $('#results');

@@ -45,6 +45,23 @@ Every push to `main` will redeploy — and deployments are limited, so batch cha
 
 No paid API key is required for the current setup.
 
+## Cloudflare
+
+HallyuScope is migrating from Vercel to Cloudflare Pages. The live URLs do not change. Pages Functions in `functions/` adapt the Vercel handlers in `api/`; `vercel.json` and `api/` stay in place, so Vercel keeps working as a fallback. Full steps, including DNS and rollback, are in `docs/cloudflare-deployment.md`.
+
+Deploy (GitHub connected Pages project):
+- Production branch: `main`
+- Build command: leave empty (no build step)
+- Build output directory: repository root (`.`)
+- `wrangler.toml` records these settings plus the `nodejs_compat` compatibility flag, which the Functions need for Node APIs (`node:crypto`, `Buffer`).
+- Routing lives in `_redirects` (clean URLs, pretty `/article/:slug`, `/album/:slug` and `/concert/:slug` rewrites to the Functions, `/sitemap.xml`, www to bare domain) and caching lives in `_headers` (including the `/data/*` freshness rule from `vercel.json`).
+
+Environment variables (names only; set them as secrets in the Cloudflare dashboard or with `wrangler pages secret put`, never commit values): `GITHUB_REVIEW_TOKEN`, `REVIEW_PASSWORD`, `META_PAGE_ACCESS_TOKEN`, `META_PAGE_ID`, `META_IG_USER_ID`, `META_GRAPH_VERSION`, `OPENAI_API_KEY`, `OPENAI_DRAFT_MODEL`, `AI_CENTER_MODEL`, `BREVO_API_KEY`, `BREVO_LIST_ID`. Set them for Production and Preview, then redeploy.
+
+Hourly refresh: GitHub Actions still commits data to the `live-data` branch (reactions to `reactions-data`) and the live site reads it from `raw.githubusercontent.com`. Those branches must not trigger deploys: in the Pages project settings, set Preview branch deployments to Custom branches and exclude `live-data` and `reactions-data`. No workflow change is needed for the migration.
+
+Rollback: Vercel stays live as the fallback. To roll back, point `hallyuscope.com` DNS back to Vercel (see `docs/cloudflare-deployment.md`).
+
 ## Article URLs
 
 Every published story has its own canonical URL built from words in the headline, never a random id:
