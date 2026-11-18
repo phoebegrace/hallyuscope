@@ -28,6 +28,14 @@
     {
       "source": "/album",
       "destination": "/api/album"
+    },
+    {
+      "source": "/concert/:slug",
+      "destination": "/api/concert?slug=:slug"
+    },
+    {
+      "source": "/concert",
+      "destination": "/api/concert"
     }
   ],
   "headers": [
