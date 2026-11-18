@@ -65,9 +65,8 @@ function cardHtml(e) {
 
 function buyHtml(e) {
   const links = Array.isArray(e.buyLinks) ? e.buyLinks.filter(b => b && b.url) : [];
-  const btns = links.length
-    ? links.map(b => '<a class="album-listen-btn" href="' + esc(b.url) + '" target="_blank" rel="noopener sponsored"><span>' + esc(b.label || 'Buy on Shopee') + '</span><span>↗</span></a>').join('')
-    : '<span class="album-listen-btn is-disabled"><span>Shopee — links coming soon</span><span>—</span></span>';
+  if (!links.length) return ''; // No Shopee links yet: hide the box entirely, never a "coming soon" placeholder.
+  const btns = links.map(b => '<a class="album-listen-btn" href="' + esc(b.url) + '" target="_blank" rel="noopener sponsored"><span>' + esc(b.label || 'Buy on Shopee') + '</span><span>↗</span></a>').join('');
   return '<aside class="album-buy-box"><span class="eyebrow">WHERE TO BUY</span><h4>Get the album</h4><p>Buy through our links and support HallyuScope.</p>' + btns + '</aside>';
 }
 
