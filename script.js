@@ -213,8 +213,9 @@
   const page = document.body.dataset.page;
   if (page === 'home') home();
   if (page === 'latest') streamPage($('#stream'), 'article-drafts');
-  if (page === 'comebacks') streamPage($('#stream'), 'article-drafts', { noun: 'stories', filter: i => i.category === 'COMEBACK NEWS' });
-  if (page === 'concerts') streamPage($('#stream'), 'article-drafts', { ledger: true, noun: 'stories', filter: i => i.category === 'CONCERT NEWS', empty: 'No Philippine concert stories published this week yet.' });
+  // comebacks and concerts no longer show article streams — their pages
+  // are the release/show schedules themselves (see comebacks-calendar.js
+  // and concert-calendar.js). All articles live on /latest.
 
   /* ---------- search ---------- */
   const panel = $('#search'), input = $('#q'), out = $('#results');
