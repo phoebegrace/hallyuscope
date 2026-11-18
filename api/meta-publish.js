@@ -81,7 +81,10 @@ function postingLimit(items,now=Date.now()){
   const pubs=items.filter(x=>x.socialStatus==='published'&&x.socialPublishedAt)
     .map(x=>Date.parse(x.socialPublishedAt)).filter(Number.isFinite).sort((a,b)=>a-b);
   const lastPub=pubs.length?pubs[pubs.length-1]:0;
-  const lastFail=items.filter(x=>x.socialStatus==='failed'&&x.socialLastAttemptAt)
+  // Authentication/configuration failures can be retried after reconnecting.
+  // Keep the cooldown for publishing rejections and unknown failures.
+  const lastFail=items.filter(x=>x.socialStatus==='failed'&&x.socialLastAttemptAt
+      && !/validating access token|session has expired|publish_actions|connection is not configured/i.test(x.socialPublishResult?.error||''))
     .map(x=>Date.parse(x.socialLastAttemptAt)).filter(Number.isFinite).sort((a,b)=>b-a)[0]||0;
   const today=pubs.filter(t=>now-t<24*60*MIN);
   const waits=[];
@@ -126,9 +129,9 @@ export default async function handler(req,res){
   if(req.method!=='POST') return reply(res,405,{error:'Method not allowed'});
   if(!authorized(req)) return reply(res,401,{error:'Incorrect review password'});
 
-  const token=process.env.META_PAGE_ACCESS_TOKEN;
-  const pageId=process.env.META_PAGE_ID;
-  const igId=process.env.META_IG_USER_ID;
+  const token=process.env.META_PAGE_ACCESS_TOKEN?.trim();
+  const pageId=process.env.META_PAGE_ID?.trim();
+  const igId=process.env.META_IG_USER_ID?.trim();
   if(!token||!pageId) return reply(res,503,{error:'Meta connection is not configured yet.'});
 
   let {id,slug='',caption='',hashtags='',imageUrl='',facebook=true,instagram=true}=req.body||{};

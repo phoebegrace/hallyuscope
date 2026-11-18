@@ -2,10 +2,10 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import handler from '../api/meta-publish.js';
 
-async function run({ imageUrl='https://hallyuscope.com/api/social-card?sig=old', photo='https://example.com/photo.png', previous, instagram=false, igId='', failInstagram=false }={}) {
+async function run({ imageUrl='https://hallyuscope.com/api/social-card?sig=old', photo='https://example.com/photo.png', previous, instagram=false, igId='', failInstagram=false, failedAt }={}) {
   const savedEnv={...process.env}, originalFetch=globalThis.fetch;
   Object.assign(process.env,{REVIEW_PASSWORD:'test-password',GITHUB_REVIEW_TOKEN:'test-github',META_PAGE_ACCESS_TOKEN:'test-meta',META_PAGE_ID:'page',META_IG_USER_ID:igId});
-  let item={id:'article',imageUrl:photo,socialPublishResult:previous};
+  let item={id:'article',imageUrl:photo,socialPublishResult:previous,...(failedAt?{socialStatus:'failed',socialLastAttemptAt:failedAt}:{})};
   const calls=[];
   globalThis.fetch=async (url,options={})=>{
     if(String(url).startsWith('https://api.github.com/')){
@@ -45,4 +45,11 @@ test('already completed channels are not published twice',async()=>{
 });
 test('Facebook success is retained when Instagram rejects its container',async()=>{
   const {res,item}=await run({instagram:true,igId:'ig',failInstagram:true});assert.equal(res.code,500);assert.equal(item.socialPublishResult.facebook.id,'fb-id');assert.equal(item.socialStatus,'failed');
+});
+
+test('a repaired authentication error can be retried immediately',async()=>{
+  const {res}=await run({previous:{error:'(#200) The permission(s) publish_actions are not available.'},failedAt:new Date().toISOString()});assert.equal(res.code,200);
+});
+test('unknown publishing failures retain the retry cooldown',async()=>{
+  const {res,calls}=await run({previous:{error:'API access blocked'},failedAt:new Date().toISOString()});assert.equal(res.code,429);assert.equal(calls.length,0);
 });
