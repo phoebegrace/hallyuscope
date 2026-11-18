@@ -42,13 +42,12 @@ function fact(label, value) {
 }
 
 function coverHtml(e) {
-  const initial = String(e.artist || 'H').trim().charAt(0).toUpperCase();
   if (e.cover) {
     return '<div class="album-cover"><img src="' + esc(e.cover) + '" alt="' +
       esc((e.artist || 'Release') + ' - ' + (e.title || '') + ' album cover') +
       '" loading="lazy"></div>';
   }
-  return '<div class="album-cover album-cover--empty"><span aria-hidden="true">' + esc(initial) + '</span></div>';
+  return '<div class="album-cover album-cover--empty"><span aria-hidden="true">?</span></div>';
 }
 
 function cardHtml(e) {
@@ -136,10 +135,9 @@ function relatedHtml(e, all) {
 function detailHtml(e, all) {
   const d = localDate(e.date);
   const isNew = String(e.date).slice(0, 10) <= todayStr;
-  const initial = String(e.artist || 'H').trim().charAt(0).toUpperCase();
   const cover = e.cover
     ? '<figure class="album-cover-big"><img src="' + esc(e.cover) + '" alt="' + esc((e.artist || 'Release') + ' - ' + (e.title || '') + ' album cover') + '" loading="lazy"></figure>'
-    : '<div class="album-cover-big album-cover-big--empty"><span aria-hidden="true">' + esc(initial) + '</span></div>';
+    : '<div class="album-cover-big album-cover-big--empty"><span aria-hidden="true">?</span></div>';
   return '<div class="album-detail">' +
     '<a class="album-detail-back" href="/albums">← All albums</a>' +
     '<div class="album-detail-grid"><div>' +

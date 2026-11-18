@@ -25,7 +25,7 @@
   const localDate = (s) => new Date(String(s).slice(0,10) + 'T12:00:00+08:00');
   const todayStr = new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Manila' }).format(new Date());
 
-  // If a cover image fails to load, swap it for the initial-letter placeholder.
+  // If a cover image fails to load, swap it for the "?" placeholder.
   window.albumCoverError = function (img) {
     const box = img.parentNode;
     box.classList.add('album-cover--empty');
@@ -33,18 +33,17 @@
     img.remove();
     const s = document.createElement('span');
     s.setAttribute('aria-hidden', 'true');
-    s.textContent = (img.alt || 'H').charAt(0);
+    s.textContent = '?';
     box.appendChild(s);
   };
 
   function coverHtml(e) {
-    const initial = String(e.artist || 'H').trim().charAt(0).toUpperCase();
     if (e.cover) {
       return '<div class="album-cover"><img src="' + esc(e.cover) + '" alt="' +
         esc((e.artist || 'Release') + ' - ' + (e.title || '') + ' album cover') +
         '" loading="lazy" onerror="albumCoverError(this)"></div>';
     }
-    return '<div class="album-cover album-cover--empty"><span aria-hidden="true">' + esc(initial) + '</span></div>';
+    return '<div class="album-cover album-cover--empty"><span aria-hidden="true">?</span></div>';
   }
 
   function cardHtml(e) {
