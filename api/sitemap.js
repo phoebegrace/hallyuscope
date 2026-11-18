@@ -29,6 +29,7 @@ const STATIC_PAGES = [
   { loc: '/latest', changefreq: 'hourly', priority: '0.9' },
   { loc: '/concerts', changefreq: 'daily', priority: '0.8' },
   { loc: '/comebacks', changefreq: 'daily', priority: '0.8' },
+  { loc: '/albums', changefreq: 'daily', priority: '0.8' },
   { loc: '/features', changefreq: 'weekly', priority: '0.6' },
 ];
 
