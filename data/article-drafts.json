@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T16:08:25.168Z",
+  "updatedAt": "2026-11-18T16:12:35.953Z",
   "autoPublish": true,
   "note": "Auto-publish is ON. Newly generated HallyuScope articles publish immediately.",
   "items": [
@@ -7,7 +7,7 @@
       "id": "c3df9bc871ec",
       "createdAt": "2026-11-18T15:03:05.148Z",
       "status": "published",
-      "publishedAt": "2026-11-18T15:04:45.580Z",
+      "publishedAt": "2026-11-18T16:12:35.953Z",
       "sourcePublishedAt": null,
       "model": "gpt-6.1-terra",
       "qualityVersion": "ai-center-1",
@@ -55,7 +55,7 @@
           }
         ]
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/c3df9bc871ec-article-mwm95lwb.png",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/c3df9bc871ec-article-mwmbihad.png",
       "imageType": "hallyuscope_original",
       "sourceImageUrl": null,
       "imagePolicy": {
@@ -76,12 +76,12 @@
       "socialCaption": "GEHLEE’s solo chapter is gaining momentum. “Closer” is bringing new listeners to the former UNIS member.",
       "socialHashtags": "#HallyuScope #GEHLEE #Closer #UNIS",
       "sourceNote": "Sources: Chartmetric, Billboard Philippines, Philstar.com",
-      "socialImageUrl": "",
+      "socialImageUrl": "https://hallyuscope.com/api/social-card?image=https%3A%2F%2Fraw.githubusercontent.com%2Fphoebegrace%2Fhallyuscope%2Flive-data%2Fassets%2Feditorial%2Fc3df9bc871ec-article-mwmbihad.png&category=HALLYU+NEWS&headline=GEHLEE+Reaches+2.5+Million+Monthly+Spotify+Listeners+as+Solo+Single+Gains+Ground&description=GEHLEE%E2%80%99s+solo+chapter+is+gaining+momentum.+%E2%80%9CCloser%E2%80%9D+is+bringing+new+listeners+to+the+former+UNIS+member.&ts=1795018330727&sig=de8ab318fab8b8718e04831cee98ab86ce665cab9a1e5f3dcc072169d7d93952",
       "socialPlatforms": {
         "facebook": true,
         "instagram": true
       },
-      "reviewedAt": "2026-11-18T15:04:45.580Z",
+      "reviewedAt": "2026-11-18T16:12:35.953Z",
       "socialStatus": "published",
       "socialPublishedAt": "2026-11-18T16:08:25.168Z",
       "socialLastAttemptAt": "2026-11-18T16:08:25.168Z",
