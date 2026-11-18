@@ -13,7 +13,59 @@
       "links": {
         "appleMusic": "https://music.apple.com/us/album/s-w-i-s-h-ep/6821155823?uo=4",
         "spotify": "https://open.spotify.com/album/0ulLmM5roN7ywJVZblQasC?si=1UWkhJqAQGeVeoqzyLtxWg"
-      }
+      },
+      "tracks": [
+        {
+          "n": 1,
+          "name": "Masterpiece",
+          "ms": 169714,
+          "titleTrack": true
+        },
+        {
+          "n": 2,
+          "name": "Bananas",
+          "ms": 165948,
+          "titleTrack": false
+        },
+        {
+          "n": 3,
+          "name": "Wanna Go",
+          "ms": 188536,
+          "titleTrack": false
+        },
+        {
+          "n": 4,
+          "name": "Up & Away",
+          "ms": 162096,
+          "titleTrack": false
+        },
+        {
+          "n": 5,
+          "name": "Beep Beep",
+          "ms": 196756,
+          "titleTrack": false
+        }
+      ],
+      "mv": {
+        "videoId": "Cu6JU-kNmOU",
+        "title": "LNGSHOT - 'Masterpiece' Official Music Video",
+        "channel": "MORE VISION and LNGSHOT",
+        "uploadDate": "20261021",
+        "titleTrack": "Masterpiece",
+        "kind": "mv"
+      },
+      "teasers": [
+        {
+          "videoId": "Lq-47rKutPQ",
+          "title": "LNGSHOT - 'Masterpiece' Official MV Teaser",
+          "thumb": "https://i.ytimg.com/vi/Lq-47rKutPQ/maxresdefault.jpg"
+        },
+        {
+          "videoId": "UDeqY4zTZ84",
+          "title": "LNGSHOT - 'Bananas' Official MV Teaser",
+          "thumb": "https://i.ytimg.com/vi/UDeqY4zTZ84/maxresdefault.jpg"
+        }
+      ]
     },
     {
       "id": "emp-off-script-2026",
@@ -26,6 +78,34 @@
       "links": {
         "appleMusic": "https://music.apple.com/us/album/off-script-single/6829899543?uo=4",
         "spotify": "https://open.spotify.com/album/3YQqmCuSwquWj06KjAyfo3?si=BMZ0JAZtSxaXp_yN3l5Yvg"
+      },
+      "tracks": [
+        {
+          "n": 1,
+          "name": "RUN (with Dynamicduo)",
+          "ms": 164000,
+          "titleTrack": false
+        },
+        {
+          "n": 2,
+          "name": "AFTERTASTE (with JUNNY)",
+          "ms": 181000,
+          "titleTrack": false
+        },
+        {
+          "n": 3,
+          "name": "MADE YOU LOOK",
+          "ms": 169000,
+          "titleTrack": false
+        }
+      ],
+      "mv": {
+        "videoId": "sMazlfiJN_w",
+        "title": "EMP (ZEROBASEONE) 'RUN (with \ub2e4\uc774\ub098\ubbf9 \ub4c0\uc624)' MV",
+        "channel": "ZEROBASEONE",
+        "uploadDate": "20261104",
+        "titleTrack": "RUN",
+        "kind": "mv"
       }
     },
     {
@@ -39,6 +119,28 @@
       "links": {
         "appleMusic": "https://music.apple.com/us/album/still-valid-single/6830550018?uo=4",
         "spotify": "https://open.spotify.com/album/52UY7DEikhlgABORLyOxDf?si=G0pxWXFBTCiVrK3FNDOC9Q"
+      },
+      "tracks": [
+        {
+          "n": 1,
+          "name": "Still Valid",
+          "ms": 175000,
+          "titleTrack": true
+        },
+        {
+          "n": 2,
+          "name": "lowkey",
+          "ms": 180000,
+          "titleTrack": false
+        }
+      ],
+      "mv": {
+        "videoId": "DlmzE54O4d4",
+        "title": "\ubaa8\ubaa8\ub79c\ub4dc (MOMOLAND) - Still Valid [Special Clip]",
+        "channel": "MOMOLAND (\ubaa8\ubaa8\ub79c\ub4dc)",
+        "uploadDate": "20261110",
+        "titleTrack": "Still Valid",
+        "kind": "special clip"
       }
     },
     {
@@ -52,7 +154,36 @@
       "links": {
         "appleMusic": "https://music.apple.com/us/album/darling-single/6830444438?uo=4",
         "spotify": "https://open.spotify.com/album/0YC7qhuvIai8TbYOn3xFCa?si=MiA1RVaFT-yDXjyccZXo0Q"
-      }
+      },
+      "tracks": [
+        {
+          "n": 1,
+          "name": "Darling",
+          "ms": 248000,
+          "titleTrack": true
+        },
+        {
+          "n": 2,
+          "name": "Darling (English Ver.)",
+          "ms": 248000,
+          "titleTrack": false
+        }
+      ],
+      "mv": {
+        "videoId": "KSeciQOgsWM",
+        "title": "\ub3c4\uacbd\uc218(D.O.) l 'Darling' MV",
+        "channel": "\ub3c4\uacbd\uc218(DOH KYUNG SOO)",
+        "uploadDate": "20261111",
+        "titleTrack": "Darling",
+        "kind": "mv"
+      },
+      "teasers": [
+        {
+          "videoId": "AxTSWoMTAEM",
+          "title": "\ub3c4\uacbd\uc218(D.O.) l 'Darling' MV Teaser",
+          "thumb": "https://i.ytimg.com/vi/AxTSWoMTAEM/maxresdefault.jpg"
+        }
+      ]
     },
     {
       "id": "lucy-again-2026",
@@ -65,7 +196,36 @@
       "links": {
         "appleMusic": "https://music.apple.com/us/album/again-single/6832880142?uo=4",
         "spotify": "https://open.spotify.com/album/6VdoTGVMCuK4pVd2cnHW5p?si=n0gY68zxT1mGrXa9-qo1dA"
-      }
+      },
+      "tracks": [
+        {
+          "n": 1,
+          "name": "AGAIN!",
+          "ms": 223000,
+          "titleTrack": true
+        },
+        {
+          "n": 2,
+          "name": "saudade",
+          "ms": 199000,
+          "titleTrack": false
+        }
+      ],
+      "mv": {
+        "videoId": "CWTVVUhB4fc",
+        "title": "[MV] LUCY - \ub2e4\uc2dc!",
+        "channel": "LUCY ISLAND and \ubbf8\uc2a4\ud2f1 MYSTIC",
+        "uploadDate": "20261112",
+        "titleTrack": "AGAIN!",
+        "kind": "mv"
+      },
+      "teasers": [
+        {
+          "videoId": "vgPvoKD1VNg",
+          "title": "[Teaser] LUCY - '\ub2e4\uc2dc!' MV",
+          "thumb": "https://i.ytimg.com/vi/vgPvoKD1VNg/maxresdefault.jpg"
+        }
+      ]
     },
     {
       "id": "girlset-young-and-dumb-2026",
@@ -78,7 +238,35 @@
       "links": {
         "appleMusic": "https://music.apple.com/us/album/young-dumb-single/6829944513?uo=4",
         "spotify": "https://open.spotify.com/album/4NYe4gTTihWZ0jBTKJkg37?si=0YUWLnQ0S4K_-RReM3FAKg"
-      }
+      },
+      "tracks": [
+        {
+          "n": 1,
+          "name": "young & dumb",
+          "ms": 170213,
+          "titleTrack": true
+        }
+      ],
+      "mv": {
+        "videoId": "It1JR0u2eVE",
+        "title": "GIRLSET \"young & dumb\" Music Video",
+        "channel": "JYP Entertainment and GIRLSET",
+        "uploadDate": "20261113",
+        "titleTrack": "young & dumb",
+        "kind": "mv"
+      },
+      "teasers": [
+        {
+          "videoId": "54bp9b_7EcQ",
+          "title": "GIRLSET \"young & dumb\" MV Trailer",
+          "thumb": "https://i.ytimg.com/vi/54bp9b_7EcQ/maxresdefault.jpg"
+        },
+        {
+          "videoId": "eM8P-CLMA0M",
+          "title": "GIRLSET \"young & dumb\" MV Trailer 2",
+          "thumb": "https://i.ytimg.com/vi/eM8P-CLMA0M/maxresdefault.jpg"
+        }
+      ]
     },
     {
       "id": "ateez-golden-hour-part-6-2026",
@@ -91,7 +279,54 @@
       "links": {
         "appleMusic": "https://music.apple.com/us/album/golden-hour-part-6-ep/6819932396?uo=4",
         "spotify": "https://open.spotify.com/album/5UKj0Dge5ik5jw3JVjoxof?si=ho-5T2Z0T4a2-9y6pwOM5A"
-      }
+      },
+      "tracks": [
+        {
+          "n": 1,
+          "name": "ANEMIA",
+          "ms": 176308,
+          "titleTrack": false
+        },
+        {
+          "n": 2,
+          "name": "Drip",
+          "ms": 181791,
+          "titleTrack": true
+        },
+        {
+          "n": 3,
+          "name": "UP",
+          "ms": 206320,
+          "titleTrack": false
+        },
+        {
+          "n": 4,
+          "name": "FAITH",
+          "ms": 208614,
+          "titleTrack": false
+        },
+        {
+          "n": 5,
+          "name": "Hollow Victory",
+          "ms": 195028,
+          "titleTrack": false
+        }
+      ],
+      "mv": {
+        "videoId": "iqQWCYMlMw0",
+        "title": "ATEEZ(\uc5d0\uc774\ud2f0\uc988) - 'Drip' Official MV",
+        "channel": "KQ ENTERTAINMENT and ATEEZ",
+        "uploadDate": "20261023",
+        "titleTrack": "Drip",
+        "kind": "mv"
+      },
+      "teasers": [
+        {
+          "videoId": "VGZ627FEau8",
+          "title": "ATEEZ(\uc5d0\uc774\ud2f0\uc988) - 'Drip' Official MV Teaser",
+          "thumb": "https://i.ytimg.com/vi/VGZ627FEau8/maxresdefault.jpg"
+        }
+      ]
     },
     {
       "id": "h1-key-unbelievable-2026",
@@ -104,7 +339,15 @@
       "links": {
         "appleMusic": "https://music.apple.com/us/album/unbelievable-single/6832867249?uo=4",
         "spotify": "https://open.spotify.com/album/5hC8iswgGrujXveWMoD9rj?si=SjTMvdGYTIi7_-CKYLtDoA"
-      }
+      },
+      "tracks": [
+        {
+          "n": 1,
+          "name": "Unbelievable",
+          "ms": 135456,
+          "titleTrack": false
+        }
+      ]
     },
     {
       "id": "txt-perfect-storm-2026",
@@ -117,7 +360,65 @@
       "links": {
         "appleMusic": "https://music.apple.com/us/album/perfect-storm-ep/6815062084?uo=4",
         "spotify": "https://open.spotify.com/album/0GiFQ9l5vsV257q8URl6XJ?si=KRmTnMrNRR-KZONfeN9Trg"
-      }
+      },
+      "tracks": [
+        {
+          "n": 1,
+          "name": "Storm Is...",
+          "ms": 196000,
+          "titleTrack": false
+        },
+        {
+          "n": 2,
+          "name": "Angel Bite",
+          "ms": 153000,
+          "titleTrack": true
+        },
+        {
+          "n": 3,
+          "name": "Higher Love",
+          "ms": 197000,
+          "titleTrack": false
+        },
+        {
+          "n": 4,
+          "name": "Sweetest Escape",
+          "ms": 137000,
+          "titleTrack": false
+        },
+        {
+          "n": 5,
+          "name": "Touch the Sky",
+          "ms": 147000,
+          "titleTrack": false
+        },
+        {
+          "n": 6,
+          "name": "Hate It or Love It",
+          "ms": 165000,
+          "titleTrack": false
+        }
+      ],
+      "mv": {
+        "videoId": "M9G4guYg-i8",
+        "title": "TXT (\ud22c\ubaa8\ub85c\uc6b0\ubc14\uc774\ud22c\uac8c\ub354) 'Angel Bite' Official MV",
+        "channel": "HYBE LABELS and TOMORROW X TOGETHER OFFICIAL",
+        "uploadDate": "20261116",
+        "titleTrack": "Angel Bite",
+        "kind": "mv"
+      },
+      "teasers": [
+        {
+          "videoId": "0kKD3b2nwfQ",
+          "title": "TXT (\ud22c\ubaa8\ub85c\uc6b0\ubc14\uc774\ud22c\uac8c\ub354) 'Angel Bite' Official Teaser 2",
+          "thumb": "https://i.ytimg.com/vi/0kKD3b2nwfQ/maxresdefault.jpg"
+        },
+        {
+          "videoId": "JCCE6Mds2C8",
+          "title": "TXT (\ud22c\ubaa8\ub85c\uc6b0\ubc14\uc774\ud22c\uac8c\ub354) 'Angel Bite' Official Teaser 1",
+          "thumb": "https://i.ytimg.com/vi/JCCE6Mds2C8/maxresdefault.jpg"
+        }
+      ]
     },
     {
       "id": "ampers-and-one-pathfinder-2026",
@@ -130,7 +431,89 @@
       "links": {
         "appleMusic": "https://music.apple.com/us/album/pathfinder/6832808258?uo=4",
         "spotify": "https://open.spotify.com/album/0rjYMWjSR1G70FETUVHNw2?si=1xaprUAfTAesBajB1NsagA"
-      }
+      },
+      "tracks": [
+        {
+          "n": 1,
+          "name": "King\u2019s Way",
+          "ms": 160000,
+          "titleTrack": true
+        },
+        {
+          "n": 2,
+          "name": "Splish Splash",
+          "ms": 148000,
+          "titleTrack": false
+        },
+        {
+          "n": 3,
+          "name": "Full of You",
+          "ms": 183000,
+          "titleTrack": false
+        },
+        {
+          "n": 4,
+          "name": "Cautious",
+          "ms": 154000,
+          "titleTrack": false
+        },
+        {
+          "n": 5,
+          "name": "Fairytales",
+          "ms": 150000,
+          "titleTrack": false
+        },
+        {
+          "n": 6,
+          "name": "Sorry Not Sorry",
+          "ms": 164000,
+          "titleTrack": false
+        },
+        {
+          "n": 7,
+          "name": "Big Shot",
+          "ms": 147000,
+          "titleTrack": false
+        },
+        {
+          "n": 8,
+          "name": "NOM!",
+          "ms": 143000,
+          "titleTrack": false
+        },
+        {
+          "n": 9,
+          "name": "It's Been a Year",
+          "ms": 171000,
+          "titleTrack": false
+        },
+        {
+          "n": 10,
+          "name": "AURORA",
+          "ms": 168000,
+          "titleTrack": false
+        }
+      ],
+      "mv": {
+        "videoId": "oy1ePVqmvJ4",
+        "title": "\uc570\ud37c\uc0cc\ub4dc\uc6d0 (AMPERS&ONE) 'King's Way' MV",
+        "channel": "\uc570\ud37c\uc0cc\ub4dc\uc6d0 (AMPERS&ONE)",
+        "uploadDate": "20261117",
+        "titleTrack": "King\u2019s Way",
+        "kind": "mv"
+      },
+      "teasers": [
+        {
+          "videoId": "mTuOnfGXO6s",
+          "title": "\uc570\ud37c\uc0cc\ub4dc\uc6d0 (AMPERS&ONE) 'King's Way' MV TEASER 2",
+          "thumb": "https://i.ytimg.com/vi/mTuOnfGXO6s/maxresdefault.jpg"
+        },
+        {
+          "videoId": "Z4mWDJ_JVM0",
+          "title": "\uc570\ud37c\uc0cc\ub4dc\uc6d0 (AMPERS&ONE) 'King's Way' MV TEASER 1",
+          "thumb": "https://i.ytimg.com/vi/Z4mWDJ_JVM0/maxresdefault.jpg"
+        }
+      ]
     },
     {
       "id": "enhypen-sin-parallel-world-2026",
@@ -142,7 +525,42 @@
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/a1/48/53a148f3-361e-9022-fd1e-f91322dd945f/823375532705_Cover.jpg/600x600bb.jpg",
       "links": {
         "appleMusic": "https://music.apple.com/us/album/the-sin-parallel-world-single/6824959794?uo=4"
-      }
+      },
+      "tracks": [
+        {
+          "n": 1,
+          "name": "I Want You",
+          "ms": 210000,
+          "titleTrack": true
+        },
+        {
+          "n": 2,
+          "name": "Don't Stop",
+          "ms": 173000,
+          "titleTrack": false
+        },
+        {
+          "n": 3,
+          "name": "ILY Season",
+          "ms": 209400,
+          "titleTrack": false
+        }
+      ],
+      "mv": {
+        "videoId": "dE_Ro8Sac2M",
+        "title": "ENHYPEN (\uc5d4\ud558\uc774\ud508) 'I Want You' Official MV",
+        "channel": "HYBE LABELS and ENHYPEN",
+        "uploadDate": "20261113",
+        "titleTrack": "I Want You",
+        "kind": "mv"
+      },
+      "teasers": [
+        {
+          "videoId": "_pLJBPzp3Fg",
+          "title": "ENHYPEN (\uc5d4\ud558\uc774\ud508) 'I Want You' Official Teaser",
+          "thumb": "https://i.ytimg.com/vi/_pLJBPzp3Fg/maxresdefault.jpg"
+        }
+      ]
     },
     {
       "id": "yves-cute-and-anxiety-2026",
@@ -154,7 +572,59 @@
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/12/8c/0b128c80-4c17-940b-9f93-da1d733bfcab/1200220308125.jpg/600x600bb.jpg",
       "links": {
         "appleMusic": "https://music.apple.com/us/album/cute-anxiety-ep/6822634780?uo=4"
-      }
+      },
+      "tracks": [
+        {
+          "n": 1,
+          "name": "Too Much (feat.  AKRIILA)",
+          "ms": 172000,
+          "titleTrack": false
+        },
+        {
+          "n": 2,
+          "name": "Polaroid",
+          "ms": 152493,
+          "titleTrack": false
+        },
+        {
+          "n": 3,
+          "name": "Hysteric",
+          "ms": 154493,
+          "titleTrack": true
+        },
+        {
+          "n": 4,
+          "name": "Bat",
+          "ms": 140533,
+          "titleTrack": false
+        },
+        {
+          "n": 5,
+          "name": "Adam",
+          "ms": 215333,
+          "titleTrack": false
+        }
+      ],
+      "mv": {
+        "videoId": "5jvmNm73q5U",
+        "title": "Yves \u2018Hysteric\u2019 Official MV",
+        "channel": "PAIX PER MIL and YVES \uc774\ube0c",
+        "uploadDate": "20261027",
+        "titleTrack": "Hysteric",
+        "kind": "mv"
+      },
+      "teasers": [
+        {
+          "videoId": "ObZbMPw_CVM",
+          "title": "Yves \u2018Hysteric\u2019 MV Teaser",
+          "thumb": "https://i.ytimg.com/vi/ObZbMPw_CVM/maxresdefault.jpg"
+        },
+        {
+          "videoId": "55I31QFlPJE",
+          "title": "Yves \u2018Polaroid\u2019 MV Teaser",
+          "thumb": "https://i.ytimg.com/vi/55I31QFlPJE/maxresdefault.jpg"
+        }
+      ]
     },
     {
       "id": "nayeon-na-sty-2026",
@@ -186,7 +656,51 @@
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/ea/13/e9ea1310-a7c2-cc23-aa8a-7a9bfce24ee0/4547366864731.jpg/600x600bb.jpg",
       "links": {
         "appleMusic": "https://music.apple.com/us/album/suiatsu/6829772542?uo=4"
-      }
+      },
+      "tracks": [
+        {
+          "n": 1,
+          "name": "SUIATSU",
+          "ms": 169360,
+          "titleTrack": false
+        },
+        {
+          "n": 2,
+          "name": "TEMPLE",
+          "ms": 186000,
+          "titleTrack": false
+        },
+        {
+          "n": 3,
+          "name": "Lonely Night",
+          "ms": 192000,
+          "titleTrack": false
+        },
+        {
+          "n": 4,
+          "name": "LAST TAKE",
+          "ms": 186507,
+          "titleTrack": false
+        },
+        {
+          "n": 5,
+          "name": "Christmas Love (Party Version)",
+          "ms": 181000,
+          "titleTrack": false
+        },
+        {
+          "n": 6,
+          "name": "SUIATSU (Deep Version)",
+          "ms": 182493,
+          "titleTrack": false
+        },
+        {
+          "n": 7,
+          "name": "SUIATSU (Boost Version)",
+          "ms": 159013,
+          "titleTrack": false
+        }
+      ]
     },
     {
       "id": "hyukoh-33-2026",
@@ -196,7 +710,113 @@
       "type": "Album",
       "description": "HYUKOH release '33', their first full-length album in six years.",
       "cover": null,
-      "links": null
+      "links": null,
+      "tracks": [
+        {
+          "n": 1,
+          "name": "Godspeed!",
+          "ms": null,
+          "titleTrack": true
+        },
+        {
+          "n": 2,
+          "name": "\uc9c0\ub294 \ub0a0",
+          "ms": null,
+          "titleTrack": false
+        },
+        {
+          "n": 3,
+          "name": "ICICIC",
+          "ms": null,
+          "titleTrack": false
+        },
+        {
+          "n": 4,
+          "name": "KoK",
+          "ms": null,
+          "titleTrack": false
+        },
+        {
+          "n": 5,
+          "name": "\uc544\ub2d8\uc758 \ubb34\uac8c",
+          "ms": null,
+          "titleTrack": false
+        },
+        {
+          "n": 6,
+          "name": "\uc816\uc740\ucc45",
+          "ms": null,
+          "titleTrack": false
+        },
+        {
+          "n": 7,
+          "name": "Loading...",
+          "ms": null,
+          "titleTrack": false
+        },
+        {
+          "n": 8,
+          "name": "so long",
+          "ms": null,
+          "titleTrack": false
+        },
+        {
+          "n": 9,
+          "name": "Janga",
+          "ms": null,
+          "titleTrack": false
+        },
+        {
+          "n": 10,
+          "name": "Urn",
+          "ms": null,
+          "titleTrack": false
+        },
+        {
+          "n": 11,
+          "name": "big nothing",
+          "ms": null,
+          "titleTrack": false
+        },
+        {
+          "n": 12,
+          "name": "monoamine",
+          "ms": null,
+          "titleTrack": false
+        },
+        {
+          "n": 13,
+          "name": "Fragment of Flashbacks",
+          "ms": null,
+          "titleTrack": false
+        },
+        {
+          "n": 14,
+          "name": "\uc774\uaca8\ub77c!\ub450\ub9ac\uc548",
+          "ms": null,
+          "titleTrack": false
+        }
+      ],
+      "mv": {
+        "videoId": "-czMu2ADVu4",
+        "title": "HYUKOH(\ud601\uc624) - Godspeed! (Official MV)",
+        "channel": "HYUKOH",
+        "uploadDate": "20260817",
+        "titleTrack": "Godspeed!",
+        "kind": "mv"
+      },
+      "teasers": [
+        {
+          "videoId": "enfcGvmv23c",
+          "title": "HYUKOH(\ud601\uc624), Yu Su - KoK (MV Teaser2)",
+          "thumb": "https://i.ytimg.com/vi/enfcGvmv23c/maxresdefault.jpg"
+        },
+        {
+          "videoId": "Nc0InmvjbME",
+          "title": "HYUKOH(\ud601\uc624), Leah Dou - Janga (MV Teaser)",
+          "thumb": "https://i.ytimg.com/vi/Nc0InmvjbME/maxresdefault.jpg"
+        }
+      ]
     },
     {
       "id": "taeyeon-unspecial-2026",
