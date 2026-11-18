@@ -38,11 +38,33 @@
     return list;
   }
 
+  // If a cover image fails to load, swap it for the initial-letter placeholder.
+  window.albumCoverError = function (img) {
+    const box = img.parentNode;
+    box.classList.add('album-cover--empty');
+    img.remove();
+    const s = document.createElement('span');
+    s.setAttribute('aria-hidden', 'true');
+    s.textContent = (img.alt || 'H').charAt(0);
+    box.appendChild(s);
+  };
+
+  function coverHtml(e) {
+    const initial = String(e.artist || 'H').trim().charAt(0).toUpperCase();
+    if (e.cover) {
+      return '<div class="album-cover"><img src="' + esc(e.cover) + '" alt="' +
+        esc((e.artist || 'Release') + ' - ' + (e.title || '') + ' album cover') +
+        '" loading="lazy" onerror="albumCoverError(this)"></div>';
+    }
+    return '<div class="album-cover album-cover--empty"><span aria-hidden="true">' + esc(initial) + '</span></div>';
+  }
+
   function cardHtml(e) {
     const d = localDate(e.date);
     const day = fmt(d, { day: '2-digit' });
     const mon = fmt(d, { month: 'short', year: 'numeric' }).toUpperCase();
     return '<article class="album-card">' +
+      coverHtml(e) +
       '<div class="album-date">' + esc(day) + '<small>' + esc(mon) + '</small></div>' +
       '<h3>' + esc(e.artist || 'Release') + '</h3>' +
       '<p class="album-title">' + esc(e.title || '') + '</p>' +
