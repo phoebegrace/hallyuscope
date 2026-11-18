@@ -18,3 +18,9 @@ test('refresh preserves IDs, tracks and affiliate links and never deletes missin
 test('a conflicting secondary date is flagged rather than replacing an existing date',()=>{
  const result=mergeCalendar([{id:'a',artist:'Yves',title:'Cute & Anxiety',date:'2026-11-20'}],[{artist:'YVES',title:'Cute & Anxiety',date:'2026-11-21',sourceUrl:'https://example.com',sourceClass:'publisher'}],'comebacks','2026-11-19T00:00:00Z');assert.equal(result.items[0].date,'2026-11-20');assert.equal(result.items[0].dateConflict.reportedDate,'2026-11-21');
 });
+
+test('artist aliases sharing an album ID cannot create duplicate releases',()=>{
+ const old=[{id:'txt-perfect-storm-2026',artist:'TOMORROW X TOGETHER',title:'PERFECT STORM',date:'2026-11-16',cover:'cover.jpg'},{id:'txt-perfect-storm-2026',artist:'TXT',title:'PERFECT STORM',date:'2026-11-16'}];
+ const incoming=[{id:'txt-perfect-storm-2026',artist:'TXT',title:'PERFECT STORM',date:'2026-11-16',sourceUrl:'https://example.com',sourceClass:'publisher'}];
+ const merged=mergeCalendar(old,incoming,'comebacks','2026-11-19T00:00:00Z');assert.equal(merged.items.length,1);assert.equal(merged.items[0].cover,'cover.jpg');
+});

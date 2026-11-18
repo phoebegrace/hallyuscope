@@ -62,10 +62,15 @@ export function parseJsonLdEvents(html,artistNames,base){
  return out;
 }
 export function mergeCalendar(existing,incoming,kind,checkedAt){
- const items=existing.map(x=>({...x}));let added=0,changed=0;
+ const items=[];
+ for(const x of existing){
+  const duplicate=items.find(y=>y.id===x.id);
+  if(duplicate)Object.assign(duplicate,{...x,...duplicate});else items.push({...x});
+ }
+ let added=0,changed=0;
  for(const record of incoming){
   if(!record.artist||!record.date||!/^20\d{2}-\d{2}-\d{2}$/.test(record.date)||!record.sourceUrl)continue;
-  const match=items.find(x=>norm(x.artist)===norm(record.artist)&&(kind==='concerts'?x.date===record.date:norm(x.title)===norm(record.title)));
+  const match=items.find(x=>x.id===record.id||(norm(x.artist)===norm(record.artist)&&(kind==='concerts'?x.date===record.date:norm(x.title)===norm(record.title))));
   const next={...record,lastCheckedAt:checkedAt};
   if(match){
    const oldDate=match.date;
