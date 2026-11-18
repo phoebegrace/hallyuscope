@@ -728,27 +728,33 @@ a.album-detail-back{text-decoration:none;color:inherit;display:inline-block}
 .album-cover--empty{display:flex;align-items:center;justify-content:center;background:var(--tint)}
 .album-cover--empty span{font:800 84px/1 var(--f);color:var(--pink)}
 
-/* ---------- concert show cards (mirrors the album grid) ---------- */
-.concert-show-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px;padding:24px 0 8px}
-@media(min-width:1024px){.concert-show-grid{grid-template-columns:repeat(4,1fr)}}
-@media(max-width:640px){.concert-show-grid{grid-template-columns:repeat(2,1fr);gap:12px}.concert-show-card{padding:12px}.concert-show-poster{width:calc(100% + 24px);margin:-12px -12px 10px}.concert-show-card h3{font-size:16px}.concert-show-date{font-size:24px}}
-.concert-show-card{border:1px solid var(--hair);padding:20px;display:flex;flex-direction:column;gap:6px;transition:border-color .2s;cursor:pointer}
+/* ---------- concert show cards: one horizontal row each, poster left / details right ---------- */
+.concert-show-grid{display:grid;grid-template-columns:1fr;gap:12px;padding:24px 0 8px}
+.concert-show-card{display:grid;grid-template-columns:132px minmax(0,1fr);gap:18px;border:1px solid var(--hair);padding:16px;transition:border-color .2s;cursor:pointer}
 .concert-show-card:hover{border-color:var(--ink)}
 .concert-show-card:hover h3{color:var(--navy)}
 .concert-show-card:focus-visible{outline:2px solid var(--navy);outline-offset:2px}
-.concert-show-poster{width:calc(100% + 40px);aspect-ratio:3/4;overflow:hidden;margin:-20px -20px 14px}
+.concert-show-poster{width:100%;aspect-ratio:3/4;overflow:hidden}
 .concert-show-poster img{display:block;width:100%;height:100%;object-fit:cover}
 .concert-show-poster--empty{display:flex;align-items:center;justify-content:center;background:var(--tint)}
-.concert-show-poster--empty span{font:800 84px/1 var(--f);color:var(--pink)}
-.concert-show-date{font:800 30px/1 var(--f);color:var(--pink)}
-.concert-show-date small{display:block;margin-top:6px;font:700 10px/1 var(--f);color:var(--mute);letter-spacing:.08em}
-.concert-show-card h3{margin:6px 0 0;font:700 18px/1.3 var(--f)}
+.concert-show-poster--empty span{font:800 56px/1 var(--f);color:var(--pink)}
+.concert-show-info{display:flex;flex-direction:column;gap:5px;min-width:0}
+.concert-show-date{font:800 24px/1 var(--f);color:var(--pink)}
+.concert-show-date small{display:block;margin-top:4px;font:700 10px/1 var(--f);color:var(--mute);letter-spacing:.08em}
+.concert-show-card h3{margin:4px 0 0;font:700 18px/1.3 var(--f)}
 .concert-show-tour{margin:0;font:600 14px/1.45 var(--f);color:var(--mute)}
 .concert-show-venue{margin:0;font-size:13px;line-height:1.45;color:var(--mute)}
 .concert-show-price{margin:0;font:700 13px/1.4 var(--f)}
-.concert-show-ticket{display:flex;justify-content:space-between;align-items:center;background:var(--navy);color:#fff;padding:12px 14px;font-weight:800;text-decoration:none;margin-top:8px}
+.concert-show-ticket{display:flex;justify-content:space-between;align-items:center;background:var(--navy);color:#fff;padding:12px 14px;font-weight:800;text-decoration:none;margin-top:auto}
 .concert-show-ticket:hover{background:var(--pink)}
 .concert-show-ticket.is-disabled{opacity:.55;pointer-events:none}
+@media(max-width:640px){
+  .concert-show-grid{gap:10px}
+  .concert-show-card{grid-template-columns:96px minmax(0,1fr);gap:12px;padding:12px}
+  .concert-show-card h3{font-size:16px}
+  .concert-show-date{font-size:20px}
+  .concert-show-poster--empty span{font-size:40px}
+}
 
 /* ---------- album detail ---------- */
 .album-card{cursor:pointer}

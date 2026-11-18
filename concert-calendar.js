@@ -55,13 +55,14 @@
       : '<span class="concert-show-ticket is-disabled"><span>Tickets soon</span><span>—</span></span>';
     return '<article class="concert-show-card" tabindex="0" role="button" data-event-id="' + esc(e.id) + '" aria-label="' + esc((e.artist || '') + ' — ' + (e.tour || '') + ', ' + fmt(d, { month: 'long', day: 'numeric', year: 'numeric' })) + '">' +
       posterHtml(e) +
+      '<div class="concert-show-info">' +
       '<div class="concert-show-date">' + esc(day) + '<small>' + esc(mon) + '</small></div>' +
       '<h3>' + esc(e.artist || e.title || 'Concert') + '</h3>' +
       '<p class="concert-show-tour">' + esc(e.tour || '') + '</p>' +
       '<p class="concert-show-venue">' + esc([e.venue, e.city].filter(Boolean).join(' · ')) + '</p>' +
       '<p class="concert-show-price">' + esc(e.ticketRange || 'TBA') + ' · ' + esc(e.status || '') + '</p>' +
       ticket +
-      '</article>';
+      '</div></article>';
   }
 
   function renderGrid() {
