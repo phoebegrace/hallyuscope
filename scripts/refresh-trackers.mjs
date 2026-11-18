@@ -1,5 +1,6 @@
 // Refresh factual dates from source listings. No AI-generated dates or paid API calls.
 import {readFile,writeFile} from 'node:fs/promises';
+import {createRequire} from 'node:module';
 import {parseComebacks,parseSmTickets,parseJsonLdEvents,mergeCalendar} from './lib/trackers.mjs';
 const dir=new URL('../data/',import.meta.url);
 const read=async name=>JSON.parse(await readFile(new URL(name+'.json',dir),'utf8'));
@@ -8,7 +9,8 @@ const names=[...new Set([...profiles.items.map(x=>x.name),...concerts.items.map(
 let browserPromise;
 async function renderedHtml(url){
  if(!process.env.TRACKER_BROWSER_MODULE)throw Error('Browser renderer is not configured.');
- browserPromise ||= import(process.env.TRACKER_BROWSER_MODULE).then(({default:puppeteer})=>puppeteer.launch({executablePath:process.env.TRACKER_BROWSER_EXECUTABLE||'/usr/bin/google-chrome',headless:true,args:['--no-sandbox','--disable-dev-shm-usage']}));
+ const renderer=createRequire(process.env.TRACKER_BROWSER_MODULE).resolve('puppeteer-core');
+ browserPromise ||= import(renderer).then(({default:puppeteer})=>puppeteer.launch({executablePath:process.env.TRACKER_BROWSER_EXECUTABLE||'/usr/bin/google-chrome',headless:true,args:['--no-sandbox','--disable-dev-shm-usage']}));
  const browser=await browserPromise;
  const page=await browser.newPage();
  try{
