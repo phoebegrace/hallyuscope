@@ -26,6 +26,12 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
+      - name: Install the optional public-page renderer
+        shell: bash
+        run: |
+          npm install --prefix "$RUNNER_TEMP/hallyuscope-browser" --no-save --package-lock=false --ignore-scripts puppeteer-core@25.16.0
+          echo "TRACKER_BROWSER_MODULE=$RUNNER_TEMP/hallyuscope-browser/node_modules/puppeteer-core/lib/esm/puppeteer/puppeteer-core.js" >> "$GITHUB_ENV"
+          echo "TRACKER_BROWSER_EXECUTABLE=$(command -v google-chrome)" >> "$GITHUB_ENV"
       - name: Check sources and publish schedule changes
         shell: bash
         run: |
