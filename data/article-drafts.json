@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T14:08:11.194Z",
+  "updatedAt": "2026-11-18T14:22:37.456Z",
   "autoPublish": true,
   "note": "Auto-publish is ON. Newly generated HallyuScope articles publish immediately.",
   "items": [
@@ -2359,8 +2359,8 @@
     {
       "id": "f4517b197772",
       "createdAt": "2026-11-15T11:04:39.915Z",
-      "status": "pending_review",
-      "publishedAt": null,
+      "status": "published",
+      "publishedAt": "2026-11-18T14:22:37.456Z",
       "sourcePublishedAt": "2026-11-15T04:00:07.000Z",
       "model": "gpt-6.1-terra",
       "qualityVersion": 3,
@@ -2394,7 +2394,7 @@
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/15125726/Yeonjun.jpg",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+        "note": "HallyuScope original editorial cover."
       },
       "category": "HALLYU NEWS",
       "headline": "TXT's Yeonjun Shares a Look at Solo Living in 'I Live Alone' Preview",
@@ -2407,15 +2407,15 @@
         "Yeonjun comes to his own defense, explaining that he has not been living alone for long. His episode of \"I Live Alone\" is set to air on November 20 at 11:10 p.m. KST."
       ],
       "socialCaption": "Yeonjun shows off his home and reunites with Seo Bum June in a new I Live Alone preview. Read on HallyuScope for more from the clip.",
-      "socialHashtags": [
-        "#HallyuScope",
-        "#TXT",
-        "#Yeonjun",
-        "#ILiveAlone",
-        "#SeoBumJune"
-      ],
+      "socialHashtags": "#HallyuScope #TXT #Yeonjun #ILiveAlone #SeoBumJune",
       "seoDescription": "TXT's Yeonjun shares his solo living routine and meets Seo Bum June in a preview of MBC's I Live Alone, airing November 20 at 11:10 p.m. KST.",
-      "sourceNote": "Source: Soompi"
+      "sourceNote": "Source: Soompi",
+      "socialImageUrl": "",
+      "socialPlatforms": {
+        "facebook": true,
+        "instagram": true
+      },
+      "reviewedAt": "2026-11-18T14:22:37.456Z"
     },
     {
       "id": "95db8769b808",
