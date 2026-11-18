@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T04:29:09.738Z",
+  "updatedAt": "2026-11-18T09:21:29Z",
   "autoPublish": true,
   "note": "Auto-publish is ON. Newly generated HallyuScope articles publish immediately.",
   "items": [
@@ -9742,6 +9742,54 @@
         "instagram": true
       },
       "reviewedAt": "2026-11-11T03:23:48.835Z"
+    },
+    {
+      "id": "56252b5dd4c5",
+      "createdAt": "2026-11-18T09:21:29Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": null,
+      "model": "manual",
+      "qualityVersion": 3,
+      "verification": null,
+      "researchSources": null,
+      "slug": "what-to-bring-and-what-to-skip-at-a-k-pop-concert-in-manila",
+      "source": {
+        "publisher": "HallyuScope",
+        "title": "What to bring (and what to skip) at a K-pop concert in Manila",
+        "url": "https://hallyuscope.com/concerts"
+      },
+      "sourceNote": "Source: HallyuScope",
+      "imageUrl": "",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "sourceImageUrl": "",
+      "category": "CONCERT NEWS",
+      "headline": "What to bring (and what to skip) at a K-pop concert in Manila",
+      "dek": "The packing list, the banned items, the dos and don'ts, and the outfit, all in one place.",
+      "body": [
+        "This is the checklist version of our first concert guide. Read it before you leave the house, because once you are in the queue, the things you forgot are the things you will miss most.",
+        "What to bring: your ticket, digital or printed, and a valid ID. A phone, charged, and a small power bank, because the promoter sets a size limit and a big one may not get through the door. Your lightstick, charged, with spare batteries. A small bag that fits the venue size limit, with cash and a card inside. Earplugs if loud sound bothers you. Keep the essentials in one small pouch so the bag check is fast.",
+        "What to leave at home: professional cameras and lenses, big power banks, selfie sticks, laser pointers, large bags and backpacks, outside food and drinks, and umbrellas, since most indoor venues do not allow them past the door. Skip anything that blocks the view of the person behind you. The promoter posts the house rules a few days before the show, and the rules are the final word. If it is on the banned list, security will hold it or turn you away.",
+        "The dos: arrive early, learn the fan chants, and keep your lightstick at chest height during the show so the people behind you can see. Stay hydrated, keep your ticket and ID where you can reach them, and follow the ushers. If you are in a standing section, know your number and your spot, and keep your things close. Trade photocards and banners politely, in the areas where trading is allowed.",
+        "The don'ts: no flash photography, no holding your phone above your head for the whole song, no pushing toward the stage, and no recording when the promoter says no recording. Do not buy tickets from scalpers outside the venue, and do not leave rubbish in your seat. The fastest way to ruin a stranger's night is a bright screen in a dark arena.",
+        "What to wear: comfortable shoes first, because you will queue, stand, and walk a lot. Light layers work best. It is hot and humid outside and cold inside the arena once the air conditioning is on. Wear merch or the group colors if you like, but skip oversized hats, tall headbands, and anything with lights that stay on during the show. A small crossbody bag beats a backpack at the bag check and in a crowded row.",
+        "The Manila part: rain. If it is raining, bring a poncho for the queue outside, because the line forms outdoors at most venues. Leave hours early for traffic, and plan your ride home before the encore, because ride hailing surges around the arena when thousands of people leave at once. A meetup point a short walk away beats waiting at the gate.",
+        "Check the concert calendar for the venue and the show time, read the promoter house rules the day before, and pack the night before. The show is the easy part. Getting there ready is the work, and it is worth it."
+      ],
+      "socialCaption": "Packing for a K-pop concert in Manila? What to bring, what to leave behind, the dos and don'ts, and what to wear. Read the guide on HallyuScope.",
+      "seoDescription": "What to bring (and what to skip) at a K-pop concert in Manila: the packing list, the banned items, the dos and don'ts, and the outfit.",
+      "socialHashtags": "#HallyuScope #Kpop #KpopConcert #Manila #ConcertTips",
+      "socialImageUrl": "",
+      "editedAt": null,
+      "socialPlatforms": {
+        "facebook": true,
+        "instagram": true
+      },
+      "reviewedAt": null
     }
   ]
 }

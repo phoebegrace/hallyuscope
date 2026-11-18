@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T06:29:03.000Z",
+  "updatedAt": "2026-11-18T09:21:29Z",
   "note": "Upcoming Philippine K-pop events seeded only from currently verified official ticketing or venue sources. ticketUrl must remain an official promoter, venue, or ticketing destination.",
   "items": [
     {
@@ -90,6 +90,24 @@
       "description": "NCT 127 brings the 5th tour NEO CITY : THE REDLINE to the SM Mall of Asia Arena on December 12, 2026 at 5:00 PM. Tickets via SM Tickets.",
       "relatedArticles": [],
       "poster": "https://images1.smtickets.com/images/portrait_11092026174449.jpg",
+      "seatPlan": null
+    },
+    {
+      "id": "rocky-fake-it-manila-2026",
+      "artist": "ROCKY",
+      "tour": "2026 ROCKY FAN CONCERT [Fake It] in Manila",
+      "date": "2026-12-20",
+      "venue": "Samsung Hall, SM Aura",
+      "city": "Taguig City",
+      "type": "Fan Concert",
+      "status": "On Sale",
+      "ticketRange": "₱3,500–₱10,500",
+      "promoter": "CDM Entertainment",
+      "ticketProvider": "Ticketmaster Philippines",
+      "ticketUrl": "https://ticketmaster.ph",
+      "description": "ROCKY brings his [Fake It] fan concert to Samsung Hall, SM Aura on December 20, 2026 at 7:00 PM. General sale started November 16 via Ticketmaster Philippines.",
+      "relatedArticles": [],
+      "poster": "https://assets.billboardphilippines.com/wp-content/uploads/2026/11/rocky-concert-socials.jpg",
       "seatPlan": null
     },
     {
@@ -252,6 +270,24 @@
       "description": "BTS brings the WORLD TOUR 'ARIRANG' to the Philippine Sports Stadium on March 16, 2027, a third date added June 17, 2026 after the first two nights sold out. Tickets were sold exclusively via SM Ticketmaster.",
       "relatedArticles": [],
       "poster": null,
+      "seatPlan": null
+    },
+    {
+      "id": "exo-kase-silent-city-manila-2027",
+      "artist": "EXO-KASE",
+      "tour": "2027 EXO-KASE FANCON TOUR [SILENT CITY] in Manila",
+      "date": "2027-03-21",
+      "venue": "Smart Araneta Coliseum",
+      "city": "Quezon City",
+      "type": "Fan Concert",
+      "status": "Announced",
+      "ticketRange": null,
+      "promoter": "PULP Live World",
+      "ticketProvider": null,
+      "ticketUrl": null,
+      "description": "EXO-KASE, the EXO unit of KAI and SEHUN, brings the SILENT CITY fancon tour to Smart Araneta Coliseum on March 21, 2027. Ticket details have not been announced yet.",
+      "relatedArticles": [],
+      "poster": "https://assets.billboardphilippines.com/wp-content/uploads/2026/11/kai-sehun-tour-socials.jpg",
       "seatPlan": null
     }
   ]
