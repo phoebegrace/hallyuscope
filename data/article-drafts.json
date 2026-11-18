@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T16:20:08.097Z",
+  "updatedAt": "2026-11-18T22:02:08.992Z",
   "autoPublish": true,
   "note": "Auto-publish is ON. Newly generated HallyuScope articles publish immediately.",
   "items": [
@@ -55,12 +55,12 @@
           }
         ]
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/c3df9bc871ec-article-mwmbihad.png",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/c3df9bc871ec.svg",
       "imageType": "hallyuscope_original",
-      "sourceImageUrl": null,
+      "sourceImageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/c3df9bc871ec-article-mwmbihad.png",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
       "category": "HALLYU NEWS",
       "headline": "GEHLEE Reaches 2.5 Million Monthly Spotify Listeners as Solo Single Gains Ground",
@@ -2487,12 +2487,12 @@
         "missingKeyFacts": [],
         "checkedAt": "2026-11-15T11:04:39.914Z"
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/f4517b197772-article.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/f4517b197772.svg",
       "imageType": "hallyuscope_original",
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/15125726/Yeonjun.jpg",
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
       "category": "HALLYU NEWS",
       "headline": "TXT's Yeonjun Shares a Look at Solo Living in 'I Live Alone' Preview",
@@ -9874,7 +9874,7 @@
         "type": "hallyuscope_original",
         "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
-      "sourceImageUrl": null,
+      "sourceImageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/56252b5dd4c5.svg",
       "category": "CONCERT NEWS",
       "headline": "What to bring (and what to skip) at a K-pop concert in Manila",
       "dek": "The packing list, the banned items, the dos and don'ts, and the outfit, all in one place.",

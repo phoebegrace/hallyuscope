@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-18T16:46:15.712Z",
+  "checkedAt": "2026-11-18T17:09:17.962Z",
   "refreshMinutes": 30,
   "sources": [
     {
@@ -11,7 +11,7 @@
       "sourceClass": "official",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-18T16:46:15.712Z"
+      "checkedAt": "2026-11-18T17:09:17.962Z"
     },
     {
       "id": "live-nation-ph",
@@ -22,7 +22,7 @@
       "sourceClass": "official",
       "ok": false,
       "count": 0,
-      "checkedAt": "2026-11-18T16:46:15.712Z",
+      "checkedAt": "2026-11-18T17:09:17.962Z",
       "error": "No usable schedule records returned; keeping the last known dates."
     },
     {
@@ -34,8 +34,8 @@
       "sourceClass": "official",
       "ok": false,
       "count": 0,
-      "checkedAt": "2026-11-18T16:46:15.712Z",
-      "error": "No usable schedule records returned; keeping the last known dates."
+      "checkedAt": "2026-11-18T17:09:17.962Z",
+      "error": "HTTP 403"
     },
     {
       "id": "kpop-official-schedule",
@@ -45,20 +45,20 @@
       "parser": "kpop-official",
       "sourceClass": "publisher",
       "ok": true,
-      "count": 45,
-      "checkedAt": "2026-11-18T16:46:15.712Z"
+      "count": 47,
+      "checkedAt": "2026-11-18T17:09:17.962Z"
     }
   ],
   "concerts": {
     "records": 16,
     "added": 0,
-    "changed": 2,
+    "changed": 0,
     "successfulSources": 1
   },
   "comebacks": {
-    "records": 56,
-    "added": 34,
-    "changed": 11,
+    "records": 59,
+    "added": 1,
+    "changed": 0,
     "successfulSources": 1
   }
 }
