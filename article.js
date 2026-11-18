@@ -39,9 +39,11 @@
         try { history.replaceState(null, '', '/article/' + encodeURIComponent(item.slug)); } catch {}
       }
       const descText = item.seoDescription || item.dek || 'K-pop and Korean entertainment news from HallyuScope.';
-      // Social previews need a real PNG. The generated social card wins;
-      // the editorial cover is an SVG, which Facebook/X cannot use.
-      const usableImage = u => typeof u === 'string' && /^https?:\/\//.test(u) && !/\.svg(\?|$)/i.test(u) && !/undefined/.test(u);
+      // Social previews need a real image. The generated social card is an
+      // SVG and is preview-only, so it is never used as og:image; the
+      // editorial cover is an SVG too, which Facebook/X cannot use.
+      const isSocialCardUrl = u => typeof u === 'string' && u.includes('/api/social-card');
+      const usableImage = u => typeof u === 'string' && /^https?:\/\//.test(u) && !/\.svg(\?|$)/i.test(u) && !/undefined/.test(u) && !isSocialCardUrl(u);
       const imageUrl = usableImage(item.socialImageUrl) ? item.socialImageUrl
         : usableImage(item.imageUrl) ? new URL(item.imageUrl, 'https://hallyuscope.com').href
         : 'https://hallyuscope.com/assets/og-image.png';

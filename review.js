@@ -110,7 +110,7 @@
         <label>Hashtags<input id="editSocialHashtags" value="${esc(Array.isArray(current.socialHashtags)?current.socialHashtags.join(' '):(current.socialHashtags||''))}" placeholder="#HallyuScope #Kpop #KpopNews #Manila #KoreanCulture"></label>
         <label>Social image URL<input id="editSocialImageUrl" value="${esc(current.socialImageUrl||'')}" placeholder="Generate from the HTML/CSS template"></label>
         <div class="review-upload-row"><label class="review-upload-btn">Upload image<input type="file" id="editSocialImageUpload" accept="image/jpeg,image/png,image/webp,image/gif" hidden></label><span class="meta" id="reviewSocialUploadMessage">JPG, PNG, WebP or GIF, up to 3 MB — or generate a social card below.</span></div>
-        <p class="meta">The HallyuScope renderer creates a 1080 × 1350 PNG from the article image, category, headline, and description.</p>
+        <p class="meta">The HallyuScope renderer creates a 1080 × 1350 SVG preview card from the article image, category, headline, and description. It is preview-only; the social preview image uses the editorial feature image.</p>
         <div class="review-social-actions">
           <button type="button" class="review-generate-card" data-generate-card="1">Generate social card</button>
           <a class="review-preview-card" id="reviewPreviewCard" href="${esc(current.socialImageUrl||'#')}" target="_blank" rel="noopener" ${current.socialImageUrl?'':'hidden'}>Preview card</a>

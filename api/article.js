@@ -21,13 +21,18 @@ const esc = (s = '') => String(s)
   .replace(/>/g, '&gt;')
   .replace(/"/g, '&quot;');
 
-// Social previews need a real PNG. The generated social card wins;
-// the editorial cover is an SVG, which Facebook/X cannot use as og:image.
+// Social previews need a real image. The generated social card is an SVG
+// and is preview-only, so it is never used as og:image: Facebook/X cannot
+// use SVG there. og:image falls back to the editorial feature image, then
+// the generic card. An SVG editorial cover is skipped for the same reason.
+function isSocialCardUrl(u) {
+  return typeof u === 'string' && u.includes('/api/social-card');
+}
 function shareImage(item) {
   const social = item?.socialImageUrl || '';
-  if (social && !/\.svg(\?|$)/i.test(social) && /^https?:\/\//.test(social)) return social;
+  if (social && !isSocialCardUrl(social) && !/\.svg(\?|$)/i.test(social) && /^https?:\/\//.test(social)) return social;
   const raw = item?.imageUrl || '';
-  if (raw && !/\.svg(\?|$)/i.test(raw)) {
+  if (raw && !isSocialCardUrl(raw) && !/\.svg(\?|$)/i.test(raw)) {
     try { return new URL(raw, SITE).href; } catch { /* fall through */ }
   }
   return DEFAULT_IMAGE;
