@@ -52,7 +52,7 @@
       tag: tagMap[category] || tagOf(title),
       category,
       source: 'HallyuScope',
-      url: '/article?id=' + encodeURIComponent(it.id),
+      url: it.slug ? '/article/' + encodeURIComponent(it.slug) : '/article?id=' + encodeURIComponent(it.id),
       time: new Date(it.publishedAt || it.sourcePublishedAt || it.createdAt)
     };
   }).filter(it => it.id && it.title);
@@ -95,8 +95,9 @@
   const today = $('[data-today]');
   if (today) today.textContent = fmt(new Date(), { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
 
-  get('article-drafts').then(d => {
-    const u = new Date(d.updatedAt);
+  const pageDataName=document.body.dataset.page==='home'?'tracker-health':document.body.dataset.page==='concerts'?'concerts-calendar':document.body.dataset.page==='comebacks'?'comebacks-calendar':'article-drafts';
+  get(pageDataName).then(d => {
+    const u = new Date(d.checkedAt||d.lastCheckedAt||d.updatedAt);
     $$('[data-updated]').forEach(el => el.textContent = `Updated ${ago(u)}`);
   }).catch(() => $$('[data-updated]').forEach(el => el.textContent = 'Updated hourly'));
 
@@ -147,20 +148,24 @@
       $('#ticker').innerHTML = tick + tick;
     } catch { $('.lead-title', lead).textContent = 'Live headlines are refreshing — check back in a moment.'; }
 
-    get('article-drafts').then(d => {
-      const items = weekOnly(normalizeDrafts(d.items)).filter(i => i.category === 'CONCERT NEWS').sort((a,b) => b.time - a.time).slice(0, 4);
-      $('#homeConcerts').innerHTML = items.length ? items.map(ledgerRow).join('') : '<li class="empty">No new Philippine concert announcements this hour.</li>';
-    }).catch(() => $('#homeConcerts').innerHTML = '<li class="empty">Concert radar is refreshing.</li>');
+    const todayKey = new Intl.DateTimeFormat('en-CA',{timeZone:TZ}).format(new Date());
+    const eventDate = e => new Date(String(e.date).slice(0,10)+'T12:00:00+08:00');
+    get('concerts-calendar').then(d => {
+      const items=(d.items||[]).filter(x=>x.date>=todayKey&&!/cancelled|canceled|postponed/i.test(x.status||'')).sort((a,b)=>a.date.localeCompare(b.date));
+      $('#homeConcerts').innerHTML=items.length?items.slice(0,5).map(e=>`<li><a href="/concert/${esc(e.id)}"><div class="d"><b>${dayNum(eventDate(e))}</b><span>${mon(eventDate(e))}</span></div><h3>${esc(e.artist)}<small style="display:block;font-size:13px;font-weight:450;margin-top:6px">${esc(e.tour||'')}</small></h3><span class="meta s">${esc(e.venue||e.city||'Philippines')}</span><span class="arrow" aria-hidden="true">→</span></a></li>`).join(''):'<li class="empty">No upcoming shows are currently listed. Check the concert tracker for updates.</li>';
+      const next=$('#homeNextShows');
+      if(next)next.innerHTML=items.length?items.slice(0,3).map(e=>`<li><a href="/concert/${esc(e.id)}"><time datetime="${esc(e.date)}">${dayNum(eventDate(e))}<small>${mon(eventDate(e))} ${esc(e.date.slice(0,4))}</small></time><div><strong>${esc(e.artist)}</strong><p>${esc(e.venue||e.city||'Philippines')}</p></div></a></li>`).join(''):'<li>New dates will appear here after they are confirmed.</li>';
+    }).catch(()=>{if($('#homeNextShows'))$('#homeNextShows').textContent='The concert tracker is temporarily unavailable. Please try again shortly.';});
+    get('comebacks-calendar').then(d=>{
+      const items=(d.items||[]).filter(x=>x.date>=todayKey&&!/cancelled|canceled|postponed/i.test(x.status||'')).sort((a,b)=>a.date.localeCompare(b.date)).slice(0,4);
+      $('#homeComebacks').innerHTML=items.length?items.map(e=>`<a class="cb scope" href="/album/${esc(e.id)}"><div class="d">${dayNum(eventDate(e))}<small>${mon(eventDate(e))}</small></div><span class="meta"><b>${esc(e.artist)}</b></span><h3>${esc(e.title)}</h3><p class="meta">${esc(e.type||'Release')}</p></a>`).join(''):'<p class="empty">No upcoming releases are currently listed.</p>';
+    }).catch(()=>{});
+    get('tracker-health').then(d=>{
+      const successful=(d.sources||[]).filter(x=>x.ok);
+      const text=successful.length?'Sources checked '+ago(new Date(d.checkedAt))+'. Automatic checks are scheduled every 30 minutes.':'Some schedule sources are unavailable; displaying the last known dates.';
+      document.querySelectorAll('[data-tracker-updated]').forEach(el=>el.textContent=text);
+    }).catch(()=>document.querySelectorAll('[data-tracker-updated]').forEach(el=>el.textContent='Dates and ticket availability can change. Check the linked event source before booking.'));
 
-    get('article-drafts').then(d => {
-      const items = weekOnly(normalizeDrafts(d.items)).filter(i => i.category === 'COMEBACK NEWS').sort((a,b) => b.time - a.time).slice(0, 4);
-      const sameDay = new Set(items.map(i => dayKey(i.time))).size === 1;
-      const big = it => sameDay
-        ? `<div class="d clock">${clock(it.time).replace(/\s?[AP]M/i, '')}<small>${clock(it.time).slice(-2).toUpperCase()} · ${dayLabel(it.time)}</small></div>`
-        : `<div class="d">${dayNum(it.time)}<small>${mon(it.time)}</small></div>`;
-      $('#homeComebacks').innerHTML = items.map(it => link(it,
-        `${big(it)}<span class="meta"><b>${esc(it.source || '')}</b></span><h3>${esc(it.title)}</h3>`, 'cb scope')).join('');
-    }).catch(() => {});
   }
 
   const ledgerRow = it => `<li>${link(it,

@@ -1,0 +1,45 @@
+name: Refresh concert and comeback trackers
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '11,41 * * * *'
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/refresh-trackers.yml'
+      - 'scripts/refresh-trackers.mjs'
+      - 'scripts/lib/trackers.mjs'
+      - 'data/tracker-sources.json'
+permissions:
+  contents: write
+concurrency:
+  group: hallyuscope-live-data-writes
+  cancel-in-progress: false
+jobs:
+  refresh-trackers:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Check sources and publish schedule changes
+        shell: bash
+        run: |
+          git config user.name 'hallyuscope-data-bot'
+          git config user.email 'actions@users.noreply.github.com'
+          for attempt in 1 2 3; do
+            git fetch origin main live-data
+            git switch -C tracker-refresh origin/live-data
+            git checkout origin/main -- scripts/refresh-trackers.mjs scripts/lib/trackers.mjs data/tracker-sources.json data/profiles.json
+            node scripts/refresh-trackers.mjs
+            git add data/concerts-calendar.json data/comebacks-calendar.json data/tracker-health.json
+            git diff --cached --quiet && exit 0
+            git commit -m 'data: refresh concert and comeback schedules'
+            if git push origin HEAD:live-data; then exit 0; fi
+            echo "Live data changed during source checks; retrying from the latest version."
+          done
+          exit 1

@@ -29,6 +29,7 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,300..900&display=swap">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@700&display=swap&text=%ED%95%9C%EB%A5%98%EB%89%B4%EC%8A%A4%EC%BD%98%EC%84%9C%ED%8A%B8%EC%BB%B4%EB%B0%B1%EA%B0%80%EC%9D%B4%EB%93%9C%EC%A7%80%EA%B8%88%EC%95%88%EB%82%B4%ED%8C%AC">
 <link rel="stylesheet" href="/styles.css">
+<link rel="stylesheet" href="/trackers.css?v=20261119">
 </head>
 <body data-page="concerts">
 <a class="sr-only" href="#main">Skip to content</a>
@@ -38,12 +39,12 @@
 </div></div>
 <header class="masthead"><div class="wrap">
   <a class="mast-logo" href="/" aria-label="HallyuScope home"><img src="/assets/hallyuscope-logo.png" alt="HallyuScope" width="2032" height="344"></a>
-  <p class="mast-line"><span class="kr">한류</span><span>K-pop &amp; Korean culture news for Filipino fans</span></p>
+  <p class="mast-line"><span class="kr">한류</span><span>Your K-pop concert &amp; comeback tracker</span></p>
 </div></header>
 <nav class="nav" aria-label="Primary"><div class="wrap nav-in">
   <button class="nav-menu-btn" type="button" aria-label="Open menu" aria-expanded="false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
   <a class="nav-logo" href="/" aria-label="HallyuScope home" tabindex="-1"><img src="/assets/hallyuscope-logo-light.png" alt="" width="2032" height="344"></a>
-  <div class="nav-links"><a href="/">Home</a><a href="/latest">Latest</a><a href="/concerts" aria-current="page">Concerts</a><a href="/comebacks">Comebacks</a><a href="/albums">Albums</a><div class="nav-has-sub"><a href="/profiles">K-Profile</a><div class="nav-sub"><a href="/profiles#kpop-artists">K-pop Artists</a><a href="/profiles#kdrama-actors">K-drama Actors</a></div></div><a href="/features">Guides</a></div>
+  <div class="nav-links"><a href="/">Home</a><a href="/concerts" aria-current="page">Concerts</a><a href="/comebacks">Comebacks</a><a href="/albums">Albums</a><div class="nav-has-sub"><a href="/profiles">K-Profile</a><div class="nav-sub"><a href="/profiles#girl-groups">Girl groups</a><a href="/profiles#boy-groups">Boy groups</a><a href="/profiles#soloists">Soloists</a></div></div><a href="/features">Guides</a><a href="/latest">News</a></div>
   <button class="search-btn" type="button" data-open-search aria-label="Search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m15.5 15.5 5 5"/></svg><span class="lbl">Search</span><kbd>/</kbd></button>
 </div></nav>
 <main id="main" class="wrap">
@@ -51,7 +52,8 @@
   <span class="kr">콘서트</span>
   <h1>Concerts <em>PH</em></h1>
   <div class="page-sub"><p>Every Manila and Philippine K-pop concert, fancon and tour stop, soonest first. Tap a show for its poster, seat plan and ticket details, or browse the calendar below.</p><span class="meta live"><i></i><span data-updated>Updated hourly</span> · <span data-count></span></span></div>
-  <div class="concert-tools">
+  <details class="tracker-sources-panel" id="trackerSourceHealth"><summary>Tracker updates and sources</summary><p class="tracker-status" data-tracker-updated>Checking source updates…</p><ul data-tracker-sources></ul><p>Concert dates and ticket availability can change. Refer to the linked promoter or ticketing page before making plans. Comeback listings marked “publisher” are reported schedules.</p></details>
+<div class="concert-tools">
     <a class="calendar-launch" href="#concertCalendar">
       <span>View Concert Calendar</span>
       <span aria-hidden="true">→</span>
@@ -128,10 +130,10 @@
     <div class="foot-top">
       <div>
         <a class="foot-logo" href="/" aria-label="HallyuScope home"><img src="/assets/hallyuscope-logo-light.png" alt="HallyuScope" width="2032" height="344"></a>
-        <p>K-pop and Korean culture news rewritten and published on HallyuScope, with source attribution kept inside each story.</p>
+        <p>Philippine K-pop concerts, upcoming releases and artist profiles, with news and guides to keep you in the loop.</p>
       </div>
-      <div><h4>Sections</h4><ul><li><a href="/latest">Latest</a></li><li><a href="/concerts">Concerts</a></li><li><a href="/comebacks">Comebacks</a></li><li><a href="/albums">Albums</a></li><li><a href="/profiles">K-Profile</a></li><li><a href="/features">Guides</a></li></ul></div>
-      <div><h4>HallyuScope</h4><p>Independent coverage, weekly news, concert radar, comeback tracking and fan-first guides.</p></div>
+      <div><h4>Sections</h4><ul><li><a href="/latest">Latest</a></li><li><a href="/concerts">Concerts</a></li><li><a href="/comebacks">Comebacks</a></li><li><a href="/albums">Albums</a></li><li><a href="/profiles">K-Profile</a></li><li><a href="/features">Guides</a><a href="/latest">News</a></li></ul></div>
+      <div><h4>HallyuScope</h4><p>Concert and comeback tracking for Filipino fans, plus artist profiles, news and practical guides.</p></div>
     </div>
     <div class="foot-bottom"><span>© 2026 HallyuScope · hallyuscope.com</span><span>Independent fan publication. Not affiliated with any entertainment agency.</span></div>
     <div class="foot-mark" aria-hidden="true">HallyuScope</div>
@@ -141,7 +143,8 @@
   <div class="search-bar"><div class="wrap"><label class="sr-only" for="q">Search</label><input id="q" type="search" placeholder="Search artists, groups, cities" autocomplete="off"><button class="search-close" id="searchClose" type="button">Close · Esc</button></div></div>
   <div class="search-body"><div class="wrap" id="results"></div></div>
 </div>
-<script src="/script.js" defer></script>
+<script src="/script.js?v=20261119-trackers" defer></script>
+<script src="/tracker-health.js?v=20261119" defer></script>
 <script src="/concert-calendar.js" defer></script>
 </body>
 </html>

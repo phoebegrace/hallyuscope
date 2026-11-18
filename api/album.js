@@ -148,13 +148,14 @@ function detailHtml(e, all) {
     '<span class="eyebrow">' + esc((e.type || 'Release').toUpperCase()) + '</span>' +
     '<h3 class="album-detail-title">' + esc(e.title || 'Release') + '</h3>' +
     '<p class="album-detail-artist">' + esc(e.artist || '') + '</p>' +
-    '<p class="album-detail-dek">' + esc(e.description || 'More details will be added as official information is confirmed.') + '</p>' +
+    '<p class="album-detail-dek">' + esc(e.description || ((e.artist||'Artist')+' · '+(e.title||'Release')+' · '+String(e.date||''))) + '</p>' +
     '<div class="album-facts">' +
       fact('Release date', fmt(d, { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' })) +
       fact('Format', e.type || 'Release') +
       fact('Artist', e.artist || '—') +
       fact('Status', isNew ? 'Released' : 'Upcoming') +
     '</div></div>' +
+    (e.sourceUrl?'<p class="tracker-source">Schedule source: <a href="'+esc(e.sourceUrl)+'" target="_blank" rel="noopener">'+esc(e.sourceName||'Source')+' ↗</a> · '+esc(e.sourceClass||'reported')+'</p>':'') +
     '<div class="album-detail-side">' + cover + buyHtml(e) + '</div></div>' +
     teasersHtml(e) + tracksHtml(e) + mvHtml(e) + streamHtml(e) + relatedHtml(e, all) +
     '</div>';
@@ -190,6 +191,7 @@ function shell({ title, description, canonical, image, body }) {
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,300..900&display=swap">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@700&display=swap&text=%ED%95%9C%EB%A5%98%EB%89%B4%EC%8A%A4%EC%BD%98%EC%84%9C%ED%8A%B8%EC%BB%B4%EB%B0%B1%EA%B0%80%EC%9D%B4%EB%93%9C%EC%A7%80%EA%B8%88%EC%95%88%EB%82%B4%ED%8C%AC">
 <link rel="stylesheet" href="/styles.css">
+<link rel="stylesheet" href="/trackers.css?v=20261119">
 </head>
 <body data-page="album">
 <a class="sr-only" href="#main">Skip to content</a>
@@ -199,12 +201,12 @@ function shell({ title, description, canonical, image, body }) {
 </div></div>
 <header class="masthead"><div class="wrap">
   <a class="mast-logo" href="/" aria-label="HallyuScope home"><img src="/assets/hallyuscope-logo.png" alt="HallyuScope" width="2032" height="344"></a>
-  <p class="mast-line"><span class="kr">한류</span><span>K-pop &amp; Korean culture news for Filipino fans</span></p>
+  <p class="mast-line"><span class="kr">한류</span><span>Your K-pop concert &amp; comeback tracker</span></p>
 </div></header>
 <nav class="nav" aria-label="Primary"><div class="wrap nav-in">
   <button class="nav-menu-btn" type="button" aria-label="Open menu" aria-expanded="false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
   <a class="nav-logo" href="/" aria-label="HallyuScope home" tabindex="-1"><img src="/assets/hallyuscope-logo-light.png" alt="" width="2032" height="344"></a>
-  <div class="nav-links"><a href="/">Home</a><a href="/latest">Latest</a><a href="/concerts">Concerts</a><a href="/comebacks">Comebacks</a><a href="/albums" aria-current="page">Albums</a><div class="nav-has-sub"><a href="/profiles">K-Profile</a><div class="nav-sub"><a href="/profiles#kpop-artists">K-pop Artists</a><a href="/profiles#kdrama-actors">K-drama Actors</a></div></div><a href="/features">Guides</a></div>
+  <div class="nav-links"><a href="/">Home</a><a href="/concerts">Concerts</a><a href="/comebacks">Comebacks</a><a href="/albums" aria-current="page">Albums</a><div class="nav-has-sub"><a href="/profiles">K-Profile</a><div class="nav-sub"><a href="/profiles#girl-groups">Girl groups</a><a href="/profiles#boy-groups">Boy groups</a><a href="/profiles#soloists">Soloists</a></div></div><a href="/features">Guides</a><a href="/latest">News</a></div>
   <button class="search-btn" type="button" data-open-search aria-label="Search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m15.5 15.5 5 5"/></svg><span class="lbl">Search</span><kbd>/</kbd></button>
 </div></nav>
 <main id="main" class="wrap">
@@ -242,10 +244,10 @@ ${body}
     <div class="foot-top">
       <div>
         <a class="foot-logo" href="/" aria-label="HallyuScope home"><img src="/assets/hallyuscope-logo-light.png" alt="HallyuScope" width="2032" height="344"></a>
-        <p>K-pop and Korean culture news rewritten and published on HallyuScope, with source attribution kept inside each story.</p>
+        <p>Philippine K-pop concerts, upcoming releases and artist profiles, with news and guides to keep you in the loop.</p>
       </div>
-      <div><h4>Sections</h4><ul><li><a href="/latest">Latest</a></li><li><a href="/concerts">Concerts</a></li><li><a href="/comebacks">Comebacks</a></li><li><a href="/albums">Albums</a></li><li><a href="/profiles">K-Profile</a></li><li><a href="/features">Guides</a></li></ul></div>
-      <div><h4>HallyuScope</h4><p>Independent coverage, weekly news, concert radar, comeback tracking and fan-first guides.</p></div>
+      <div><h4>Sections</h4><ul><li><a href="/latest">Latest</a></li><li><a href="/concerts">Concerts</a></li><li><a href="/comebacks">Comebacks</a></li><li><a href="/albums">Albums</a></li><li><a href="/profiles">K-Profile</a></li><li><a href="/features">Guides</a><a href="/latest">News</a></li></ul></div>
+      <div><h4>HallyuScope</h4><p>Concert and comeback tracking for Filipino fans, plus artist profiles, news and practical guides.</p></div>
     </div>
     <div class="foot-bottom"><span>© 2026 HallyuScope · hallyuscope.com</span><span>Independent fan publication. Not affiliated with any entertainment agency.</span></div>
     <div class="foot-mark" aria-hidden="true">HallyuScope</div>
@@ -280,7 +282,7 @@ window.albumCoverError = function (img) {
   }
 };
 </script>
-<script src="/script.js" defer></script>
+<script src="/script.js?v=20261119-trackers" defer></script>
 </body>
 </html>`;
 }
