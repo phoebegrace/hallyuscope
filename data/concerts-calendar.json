@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T16:58:21.127Z",
+  "updatedAt": "2026-11-18T16:46:15.712Z",
   "note": "Upcoming Philippine K-pop events seeded only from currently verified official ticketing or venue sources. ticketUrl must remain an official promoter, venue, or ticketing destination.",
   "items": [
     {
@@ -76,7 +76,7 @@
       "sourceUrl": "https://www.smtickets.com/events/view/18350",
       "sourceName": "SM Tickets",
       "sourceClass": "official",
-      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
+      "lastCheckedAt": "2026-11-18T16:46:15.712Z"
     },
     {
       "id": "nct-127-neo-city-redline-manila-2026",
@@ -98,7 +98,7 @@
       "sourceUrl": "https://www.smtickets.com/events/view/18436",
       "sourceName": "SM Tickets",
       "sourceClass": "official",
-      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
+      "lastCheckedAt": "2026-11-18T16:46:15.712Z"
     },
     {
       "id": "rocky-fake-it-manila-2026",
@@ -299,5 +299,5 @@
       "seatPlan": null
     }
   ],
-  "lastCheckedAt": "2026-11-18T16:58:21.127Z"
+  "lastCheckedAt": "2026-11-18T16:46:15.712Z"
 }
