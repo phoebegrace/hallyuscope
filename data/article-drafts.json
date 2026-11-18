@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T09:21:29Z",
+  "updatedAt": "2026-11-18T14:08:11.194Z",
   "autoPublish": true,
   "note": "Auto-publish is ON. Newly generated HallyuScope articles publish immediately.",
   "items": [
@@ -9760,13 +9760,13 @@
         "url": "https://hallyuscope.com/concerts"
       },
       "sourceNote": "Source: HallyuScope",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/56252b5dd4c5.svg",
       "imageType": "hallyuscope_original",
       "imagePolicy": {
         "type": "hallyuscope_original",
         "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
-      "sourceImageUrl": "",
+      "sourceImageUrl": null,
       "category": "CONCERT NEWS",
       "headline": "What to bring (and what to skip) at a K-pop concert in Manila",
       "dek": "The packing list, the banned items, the dos and don'ts, and the outfit, all in one place.",
