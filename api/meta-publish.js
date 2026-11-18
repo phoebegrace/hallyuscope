@@ -131,6 +131,12 @@ export default async function handler(req,res){
   if(!id) return reply(res,400,{error:'Missing article id'});
   if(!facebook&&!instagram) return reply(res,400,{error:'Choose at least one Meta account'});
   if(instagram&&!imageUrl) return reply(res,400,{error:'Instagram requires a public image URL'});
+  // The SVG social card is preview-only. Meta rejects SVG photo URLs with
+  // "(#100) Invalid parameter", so fail here with a clear message instead
+  // of passing a card URL through to the Graph API.
+  if(imageUrl&&(imageUrl.includes('/api/social-card')||/\.svg(\?|$)/i.test(imageUrl))){
+    return reply(res,400,{error:'Meta needs a real photo (JPG/PNG). The SVG social card is preview-only and cannot be posted.'});
+  }
 
   // Canonical article URLs use words from the headline: /article/<slug>.
   const articleUrl=slug

@@ -335,17 +335,25 @@
   editor.addEventListener('click',async e=>{
     const b=e.target.closest('[data-meta-post]'); if(!b||!current)return;
     const note=$('#reviewSocialMessage');
+    const socialImage=$('#editSocialImageUrl')?.value.trim() || '';
+    const featureImage=$('#editImageUrl')?.value.trim() || current.imageUrl || '';
+    // The SVG social card is preview-only: Meta rejects SVG images with
+    // "(#100) Invalid parameter". Post the editorial feature photo instead
+    // whenever the social image is a generated card.
+    const imageUrl=socialImage.includes('/api/social-card') ? featureImage : socialImage;
+    const isSvg=/\.svg(\?|$)/i.test(imageUrl) || imageUrl.includes('/api/social-card');
     const payload={
       id:current.id,
       slug:current.slug || '',
       caption:$('#editSocialCaption')?.value.trim() || current.socialCaption || current.dek || '',
       hashtags:$('#editSocialHashtags')?.value.trim() || current.socialHashtags || '',
-      imageUrl:$('#editSocialImageUrl')?.value.trim() || '',
+      imageUrl,
       facebook:$('#socialFacebook')?.checked === true,
       instagram:$('#socialInstagram')?.checked === true
     };
     if(!payload.facebook&&!payload.instagram){ note.textContent='Choose Facebook and/or Instagram first.'; return; }
     if(payload.instagram&&!payload.imageUrl){ note.textContent='Instagram needs a public JPG/PNG image URL first.'; return; }
+    if(isSvg){ note.textContent='Meta needs a real photo (JPG/PNG). The SVG social card is preview-only — set the article image to a photo first.'; return; }
     note.textContent='Posting…';
     b.disabled=true;
     try{
