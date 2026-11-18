@@ -50,7 +50,7 @@
   <span class="kr">앨범</span>
   <h1>Albums</h1>
   <div class="page-sub"><p>New K-pop albums, EPs and singles as they are released, newest first.</p><span class="meta live"><i></i><span data-updated>Updated hourly</span> · <span data-count></span></span></div>
-  <div class="album-tools">
+  <div class="album-tools" id="albumTools">
     <div class="filters" id="albumTabs" role="group" aria-label="Album view" style="padding:0">
       <button type="button" data-album-tab="new" aria-pressed="true">New</button>
       <button type="button" data-album-tab="upcoming" aria-pressed="false">Upcoming</button>
@@ -59,7 +59,11 @@
   </div>
 </section>
 <div id="albumGrid" class="album-grid"><span class="sk" style="width:90%"></span><span class="sk" style="width:70%"></span><span class="sk" style="width:80%"></span></div>
-<p class="meta album-note">Release dates are tracked from official announcements. Cover art, tracklists and streaming links are coming to album pages next.</p>
+<p class="meta album-note">Cover art, tracklists, music videos, teasers and streaming links are shown where available. Tap an album for the full detail view.</p>
+<div class="album-detail" id="albumDetail" hidden>
+  <button class="album-detail-back" id="albumDetailBack" type="button">← All albums</button>
+  <div id="albumDetailBody"></div>
+</div>
 </main>
 <section class="news-sign rv" aria-labelledby="nl-h">
   <div class="wrap nl-in">
