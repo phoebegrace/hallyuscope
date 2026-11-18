@@ -16,7 +16,8 @@ async function github(path,options={}){
       Authorization:'Bearer '+token,
       'X-GitHub-Api-Version':'2022-11-28',
       'Content-Type':'application/json',
-      ...(options.headers||{})
+      ...(options.headers||{}),
+      'User-Agent':'HallyuScope (+https://hallyuscope.com)'
     }
   });
   if(!r.ok) throw new Error('GitHub '+r.status+': '+(await r.text()).slice(0,180));

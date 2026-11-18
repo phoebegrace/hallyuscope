@@ -75,7 +75,7 @@
       '</a>';
   }
 
-  let tab = 'latest'; // Latest (released, newest first) is the default view.
+  let tab = 'upcoming'; // Upcoming releases are the primary view.
   function renderGrid() {
     const released = events.filter(e => String(e.date).slice(0,10) <= todayStr)
       .sort((a, b) => String(b.date).localeCompare(String(a.date)));
@@ -171,7 +171,8 @@
       '<div class="concert-facts">' +
         fact('Date',fmt(d,{weekday:'long',month:'long',day:'numeric',year:'numeric'})) +
         fact('Release',e.type||'Release') +
-        fact('Status','Announced') +
+        fact('Status',e.status||'Scheduled') +
+        (e.sourceUrl?'<p class="tracker-source">Schedule source: <a href="'+esc(e.sourceUrl)+'" target="_blank" rel="noopener">'+esc(e.sourceName||'Source')+' ↗</a> · '+esc(e.sourceClass||'reported')+'</p>':'') +
       '</div></div>' +
       '<div class="concert-detail-side">' +
       '<aside class="concert-ticket-box"><span class="eyebrow">ADD TO CALENDAR</span><h4>Save the date</h4><p>Add this comeback to your calendar so you do not miss release day.</p>' +

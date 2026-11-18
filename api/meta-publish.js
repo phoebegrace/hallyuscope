@@ -50,7 +50,8 @@ async function github(path,options={}){
       Authorization:'Bearer '+token,
       'X-GitHub-Api-Version':'2022-11-28',
       'Content-Type':'application/json',
-      ...(options.headers||{})
+      ...(options.headers||{}),
+      'User-Agent':'HallyuScope (+https://hallyuscope.com)'
     }
   });
   if(!r.ok) throw new Error('GitHub '+r.status+': '+(await r.text()).slice(0,180));
@@ -80,7 +81,10 @@ function postingLimit(items,now=Date.now()){
   const pubs=items.filter(x=>x.socialStatus==='published'&&x.socialPublishedAt)
     .map(x=>Date.parse(x.socialPublishedAt)).filter(Number.isFinite).sort((a,b)=>a-b);
   const lastPub=pubs.length?pubs[pubs.length-1]:0;
-  const lastFail=items.filter(x=>x.socialStatus==='failed'&&x.socialLastAttemptAt)
+  // Authentication/configuration failures can be retried after reconnecting.
+  // Keep the cooldown for publishing rejections and unknown failures.
+  const lastFail=items.filter(x=>x.socialStatus==='failed'&&x.socialLastAttemptAt
+      && !/validating access token|session has expired|publish_actions|connection is not configured/i.test(x.socialPublishResult?.error||''))
     .map(x=>Date.parse(x.socialLastAttemptAt)).filter(Number.isFinite).sort((a,b)=>b-a)[0]||0;
   const today=pubs.filter(t=>now-t<24*60*MIN);
   const waits=[];
@@ -100,6 +104,10 @@ async function recordResult(id,result){
   const items=json.items||[];
   const index=items.findIndex(x=>x.id===id);
   if(index<0) return;
+  result={...result,
+    facebook:result.facebook||(result.repostChannels?.facebook?null:items[index].socialPublishResult?.facebook)||null,
+    instagram:result.instagram||(result.repostChannels?.instagram?null:items[index].socialPublishResult?.instagram)||null
+  };
   items[index]={
     ...items[index],
     socialStatus:result.ok?'published':'failed',
@@ -121,16 +129,15 @@ export default async function handler(req,res){
   if(req.method!=='POST') return reply(res,405,{error:'Method not allowed'});
   if(!authorized(req)) return reply(res,401,{error:'Incorrect review password'});
 
-  const token=process.env.META_PAGE_ACCESS_TOKEN;
-  const pageId=process.env.META_PAGE_ID;
-  const igId=process.env.META_IG_USER_ID;
-  if(!token||!pageId||!igId) return reply(res,503,{error:'Meta connection is not configured yet.'});
+  const token=process.env.META_PAGE_ACCESS_TOKEN?.trim();
+  const pageId=process.env.META_PAGE_ID?.trim();
+  const igId=process.env.META_IG_USER_ID?.trim();
+  if(!token||!pageId) return reply(res,503,{error:'Meta connection is not configured yet.'});
 
-  const {id,slug='',caption='',hashtags='',imageUrl='',facebook=true,instagram=true}=req.body||{};
+  let {id,slug='',caption='',hashtags='',imageUrl='',facebook=true,instagram=true,repost=false}=req.body||{};
+  if(instagram&&!igId) return reply(res,503,{error:'Instagram connection is not configured yet.'});
   if(!id) return reply(res,400,{error:'Missing article id'});
   if(!facebook&&!instagram) return reply(res,400,{error:'Choose at least one Meta account'});
-  if(instagram&&!imageUrl) return reply(res,400,{error:'Instagram requires a public image URL'});
-
   // Canonical article URLs use words from the headline: /article/<slug>.
   const articleUrl=slug
     ? 'https://hallyuscope.com/article/'+encodeURIComponent(slug)
@@ -148,12 +155,23 @@ export default async function handler(req,res){
   try{
     const {json}=await readDrafts();
     const items=json.items||[];
-    const prev=items.find(x=>x.id===id)?.socialPublishResult;
-    const dupFb=facebook&&prev?.facebook?.id, dupIg=instagram&&prev?.instagram?.id;
-    if((!facebook||dupFb)&&(!instagram||dupIg)&&(dupFb||dupIg)){
-      return reply(res,409,{error:'This article is already posted to '+[dupFb&&'Facebook',dupIg&&'Instagram'].filter(Boolean).join(' and ')+'. Untick that channel to avoid a duplicate post.'});
+    const draft=items.find(x=>x.id===id);
+    const prev=draft?.socialPublishResult;
+    if(!imageUrl){
+      imageUrl=draft?.imageUrl||'';
     }
-    limit=postingLimit(items);
+    if(!imageUrl||imageUrl.includes('/api/social-card')||/\.svg(\?|$)/i.test(imageUrl)){
+      return reply(res,400,{error:'Meta needs a public JPG/PNG photo. Upload an article or social image first.'});
+    }
+    const dupFb=!repost&&facebook&&prev?.facebook?.id, dupIg=!repost&&instagram&&prev?.instagram?.id;
+    if((!facebook||dupFb)&&(!instagram||dupIg)&&(dupFb||dupIg)){
+      return reply(res,409,{error:'This article is already posted to '+[dupFb&&'Facebook',dupIg&&'Instagram'].filter(Boolean).join(' and ')+'. If you deleted the previous posts, tick the repost confirmation in the editor.'});
+    }
+    // A previous attempt can succeed on Facebook and fail on Instagram.
+    // Retry only the missing channel rather than posting Facebook twice.
+    if(dupFb) facebook=false;
+    if(dupIg) instagram=false;
+    limit=postingLimit(repost?items.map(x=>x.id===id?{...x,socialStatus:'deleted'}:x):items);
   }catch(e){
     return reply(res,503,{error:'Could not check the posting limit right now. Please try again in a minute.'});
   }
@@ -162,7 +180,7 @@ export default async function handler(req,res){
     return reply(res,429,{error:limit.why+'. You can post again '+when(limit.until)+' (in '+span(limit.minutes)+').',retryAt:new Date(limit.until).toISOString(),postsToday:limit.postsToday});
   }
 
-  const result={ok:false,facebook:null,instagram:null};
+  const result={ok:false,facebook:null,instagram:null,...(repost?{repostChannels:{facebook,instagram}}:{})};
 
   try{
     if(facebook){

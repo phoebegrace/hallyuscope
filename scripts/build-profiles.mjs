@@ -1,0 +1,17 @@
+// Rebuild the server-rendered directory after updating data/profiles.json.
+import fs from 'node:fs';
+const {items}=JSON.parse(fs.readFileSync('data/profiles.json','utf8'));
+const esc=s=>String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const categories=[['girl-groups','Girl groups'],['boy-groups','Boy groups'],['soloists','Soloists']];
+const sections=categories.map(([id,label])=>{
+ const artists=items.filter(x=>x.category===id).sort((a,b)=>a.name.localeCompare(b.name));
+ return `<section class="artist-section" id="${id}" data-artist-section aria-labelledby="${id}-heading"><div class="artist-section-head"><h2 id="${id}-heading">${label}</h2><span data-section-count>${artists.length} artists</span></div><div class="profile-grid">${artists.map((x,i)=>`<article class="artist-card" data-artist="${esc(x.name)}" data-category="${id}"><button type="button" class="profile-photo" data-enlarge-profile aria-label="Enlarge ${esc(x.name)} photo"><img src="${esc(x.imageUrl)}" alt="${esc(x.name)}" width="${x.width}" height="${x.height}" loading="${id==='girl-groups'&&i<4?'eager':'lazy'}" decoding="async"></button><h3>${esc(x.name)}</h3><details class="profile-credit"><summary>Photo credit</summary><p>${esc(x.photographer)} · <a href="${esc(x.sourceUrl)}" target="_blank" rel="noopener">Wikimedia Commons</a> · <a href="${esc(x.licenseUrl||x.sourceUrl)}" target="_blank" rel="noopener">${esc(x.license)}</a>. ${esc(x.imageNote)}</p></details></article>`).join('\n')}</div></section>`;
+}).join('\n');
+const html=`<!-- PROFILE_DIRECTORY_START -->
+<section class="profile-directory" id="kpop-artists" aria-label="K-pop artist directory"><div id="profileDirectory"><div class="profile-tools"><div class="profile-filters" role="group" aria-label="Artist category"><button type="button" data-profile-filter="all" aria-pressed="true">All artists</button>${categories.map(([id,label])=>`<button type="button" data-profile-filter="${id}" aria-pressed="false">${label}</button>`).join('')}</div><label class="profile-search" for="profileSearch">Search<input id="profileSearch" type="search" placeholder="Find an artist or group" autocomplete="off"></label></div><p class="profile-summary" id="profileResults" role="status" aria-live="polite">${items.length} artists. Select a photo to enlarge it.</p>${sections}<p id="profileEmpty" class="profile-no-results" hidden>No artists found. Try another name or category.</p></div></section><dialog id="profilePhotoDialog" class="profile-lightbox" aria-label="Artist photo"><button type="button" class="profile-lightbox-close">Close photo</button><figure><img alt=""><figcaption></figcaption></figure></dialog>
+<!-- PROFILE_DIRECTORY_END -->`;
+let page=fs.readFileSync('profiles.html','utf8');
+if(page.includes('<!-- PROFILE_DIRECTORY_START -->')) page=page.replace(/<!-- PROFILE_DIRECTORY_START -->[\s\S]*?<!-- PROFILE_DIRECTORY_END -->/,html);
+else page=page.replace(/<section class="profile-section" id="kpop-artists"[\s\S]*?<\/section>/,html);
+fs.writeFileSync('profiles.html',page);
+console.log('Built '+items.length+' artist cards.');

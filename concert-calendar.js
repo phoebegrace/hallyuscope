@@ -48,9 +48,9 @@
     const d = localDate(e.date);
     const day = fmt(d, { day: '2-digit' });
     const mon = fmt(d, { month: 'short', year: 'numeric' }).toUpperCase();
-    const ticket = e.ticketUrl
+    const ticket = e.ticketUrl&&!/cancelled|canceled|postponed/i.test(e.status||'')
       ? '<a class="concert-show-ticket" href="' + esc(e.ticketUrl) + '" target="_blank" rel="noopener"><span>Get tickets</span><span>↗</span></a>'
-      : '<span class="concert-show-ticket is-disabled"><span>Tickets soon</span><span>—</span></span>';
+      : '<span class="concert-show-ticket is-disabled"><span>'+esc(/cancelled|canceled|postponed/i.test(e.status||'')?e.status:'Tickets soon')+'</span><span>—</span></span>';
     return '<div class="concert-show-card">' +
       '<a class="concert-show-poster-link" href="/concert/' + esc(e.id) + '" aria-label="' + esc((e.artist || '') + ' — ' + (e.tour || '')) + '">' + posterHtml(e) + '</a>' +
       '<div class="concert-show-info">' +
@@ -60,11 +60,13 @@
       '<p class="concert-show-venue">' + esc([e.venue, e.city].filter(Boolean).join(' · ')) + '</p>' +
       '<p class="concert-show-price">' + esc(e.ticketRange || 'TBA') + ' · ' + esc(e.status || '') + '</p>' +
       ticket +
+      '<p class="tracker-source"><a href="'+esc(e.sourceUrl||e.ticketUrl||'#')+'" target="_blank" rel="noopener">'+esc(e.sourceName||e.ticketProvider||'Event source')+' ↗</a>'+(e.lastCheckedAt?'<span class="tracker-source-time">Checked '+esc(new Date(e.lastCheckedAt).toLocaleDateString('en-PH',{timeZone:'Asia/Manila',month:'short',day:'numeric'}))+'</span>':'')+'</p>'+
       '</div></div>';
   }
 
   function renderGrid() {
-    const sorted = [...events].sort((a, b) => String(a.date).localeCompare(String(b.date)));
+    const today=new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Manila'}).format(new Date());
+    const sorted = [...events].filter(e=>e.date>=today).sort((a, b) => String(a.date).localeCompare(String(b.date)));
     if (countEl) countEl.textContent = events.length + ' shows';
     grid.innerHTML = sorted.length
       ? sorted.map(showCardHtml).join('')

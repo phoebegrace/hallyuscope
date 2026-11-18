@@ -106,11 +106,12 @@
           <label class="review-check"><input id="socialFacebook" type="checkbox" ${current.socialPlatforms?.facebook!==false?'checked':''}> Facebook</label>
           <label class="review-check"><input id="socialInstagram" type="checkbox" ${current.socialPlatforms?.instagram!==false?'checked':''}> Instagram</label>
         </div>
+        ${current.socialPublishResult?.facebook?.id||current.socialPublishResult?.instagram?.id ? '<label class="review-check"><input id="socialRepost" type="checkbox"> I deleted the previous posts on the selected accounts. Post the edited version again.</label>' : ''}
         <label>Social caption<textarea id="editSocialCaption" rows="6">${esc(current.socialCaption||current.dek||'')}</textarea></label>
         <label>Hashtags<input id="editSocialHashtags" value="${esc(Array.isArray(current.socialHashtags)?current.socialHashtags.join(' '):(current.socialHashtags||''))}" placeholder="#HallyuScope #Kpop #KpopNews #Manila #KoreanCulture"></label>
         <label>Social image URL<input id="editSocialImageUrl" value="${esc(current.socialImageUrl||'')}" placeholder="Generate from the HTML/CSS template"></label>
         <div class="review-upload-row"><label class="review-upload-btn">Upload image<input type="file" id="editSocialImageUpload" accept="image/jpeg,image/png,image/webp,image/gif" hidden></label><span class="meta" id="reviewSocialUploadMessage">JPG, PNG, WebP or GIF, up to 3 MB — or generate a social card below.</span></div>
-        <p class="meta">The HallyuScope renderer creates a 1080 × 1350 SVG preview card from the article image, category, headline, and description. It is preview-only; the social preview image uses the editorial feature image.</p>
+        <p class="meta">Generate a 1080 × 1350 JPG with your photo, logo, headline and social caption. This edited card is the image posted to Facebook and Instagram.</p>
         <div class="review-social-actions">
           <button type="button" class="review-generate-card" data-generate-card="1">Generate social card</button>
           <a class="review-preview-card" id="reviewPreviewCard" href="${esc(current.socialImageUrl||'#')}" target="_blank" rel="noopener" ${current.socialImageUrl?'':'hidden'}>Preview card</a>
@@ -283,13 +284,28 @@
       const data=await r.json().catch(()=>({}));
       if(!r.ok) throw new Error(data.error||'Could not generate social card');
       const input=$('#editSocialImageUrl');
-      if(input) input.value=data.imageUrl||'';
+      const cardUrl=await prepareSocialCard(data.imageUrl);
+      if(input) input.value=cardUrl;
       const preview=$('#reviewPreviewCard');
-      if(preview&&data.imageUrl){ preview.href=data.imageUrl; preview.hidden=false; }
+      if(preview&&cardUrl){ preview.href=cardUrl; preview.hidden=false; }
       note.textContent='Social card ready. Preview it before posting.';
     }catch(err){ note.textContent=err.message; }
     finally{ b.disabled=false; }
   });
+
+  async function prepareSocialCard(url){
+    const data=await exportSocialCard(url);
+    const response=await fetch('/api/upload-image',{
+      method:'POST',headers:{'Content-Type':'application/json','x-review-password':password},
+      body:JSON.stringify({id:current.id,kind:'social',mime:'image/jpeg',data})
+    });
+    const uploaded=await response.json().catch(()=>({}));
+    if(!response.ok) throw new Error(uploaded.error||'Could not upload the edited social card.');
+    const saved=await api('update',{id:current.id,operation:'save',patch:{socialImageUrl:uploaded.imageUrl}});
+    items=saved.items||items;
+    current=items.find(x=>x.id===current.id)||current;
+    return uploaded.imageUrl;
+  }
 
   async function uploadImage(file, kind){
     const inputId = kind==='social' ? '#editSocialImageUrl' : '#editImageUrl';
@@ -335,20 +351,37 @@
   editor.addEventListener('click',async e=>{
     const b=e.target.closest('[data-meta-post]'); if(!b||!current)return;
     const note=$('#reviewSocialMessage');
+    const socialImage=$('#editSocialImageUrl')?.value.trim() || '';
+    const featureImage=$('#editImageUrl')?.value.trim() || current.imageUrl || '';
+    // The SVG social card is preview-only: Meta rejects SVG images with
+    // "(#100) Invalid parameter". Post the editorial feature photo instead
+    // whenever the social image is a generated card.
+    let imageUrl=socialImage || featureImage;
+    const isSvg=/\.svg(\?|$)/i.test(imageUrl) || imageUrl.includes('/api/social-card');
     const payload={
       id:current.id,
       slug:current.slug || '',
       caption:$('#editSocialCaption')?.value.trim() || current.socialCaption || current.dek || '',
       hashtags:$('#editSocialHashtags')?.value.trim() || current.socialHashtags || '',
-      imageUrl:$('#editSocialImageUrl')?.value.trim() || '',
+      imageUrl,
       facebook:$('#socialFacebook')?.checked === true,
-      instagram:$('#socialInstagram')?.checked === true
+      instagram:$('#socialInstagram')?.checked === true,
+      repost:$('#socialRepost')?.checked === true
     };
     if(!payload.facebook&&!payload.instagram){ note.textContent='Choose Facebook and/or Instagram first.'; return; }
     if(payload.instagram&&!payload.imageUrl){ note.textContent='Instagram needs a public JPG/PNG image URL first.'; return; }
+    if(isSvg&&!imageUrl.includes('/api/social-card')){ note.textContent='Generate a social card or upload a JPG/PNG image first.'; return; }
     note.textContent='Posting…';
     b.disabled=true;
     try{
+      if(imageUrl.includes('/api/social-card')){
+        note.textContent='Exporting your edited card…';
+        imageUrl=await prepareSocialCard(imageUrl);
+        payload.imageUrl=imageUrl;
+        $('#editSocialImageUrl').value=imageUrl;
+        const preview=$('#reviewPreviewCard');
+        if(preview){preview.href=imageUrl;preview.hidden=false;}
+      }
       const r=await fetch('/api/meta-publish',{
         method:'POST',
         headers:{'Content-Type':'application/json','x-review-password':password},

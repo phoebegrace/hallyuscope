@@ -69,7 +69,7 @@ function shell({ title, description, canonical, image }) {
 </div></header>
 <nav class="nav" aria-label="Primary"><div class="wrap nav-in">
   <button class="nav-menu-btn" type="button" aria-label="Open menu" aria-expanded="false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
-  <div class="nav-links"><a href="/">Home</a><a href="/latest">Latest</a><a href="/concerts">Concerts</a><a href="/comebacks">Comebacks</a><div class="nav-has-sub"><a href="/profiles">K-Profile</a><div class="nav-sub"><a href="/profiles#kpop-artists">K-pop Artists</a><a href="/profiles#kdrama-actors">K-drama Actors</a></div></div><a href="/features">Guides</a></div>
+  <div class="nav-links"><a href="/">Home</a><a href="/concerts">Concerts</a><a href="/comebacks">Comebacks</a><div class="nav-has-sub"><a href="/profiles">K-Profile</a><div class="nav-sub"><a href="/profiles#girl-groups">Girl groups</a><a href="/profiles#boy-groups">Boy groups</a><a href="/profiles#soloists">Soloists</a></div></div><a href="/features">Guides</a><a href="/latest">News</a></div>
 </div></nav>
 <main class="wrap article-shell" id="article">
   <p class="meta">Loading story…</p>
@@ -77,9 +77,9 @@ function shell({ title, description, canonical, image }) {
 <footer class="foot">
   <div class="wrap">
     <div class="foot-top">
-      <div><a class="foot-logo" href="/"><img src="/assets/hallyuscope-logo.png" alt="HallyuScope" width="2032" height="344"></a><p>K-pop and Korean culture news rewritten and published on HallyuScope, with source attribution kept inside each story.</p></div>
-      <div><h4>Sections</h4><ul><li><a href="/latest">Latest</a></li><li><a href="/concerts">Concerts</a></li><li><a href="/comebacks">Comebacks</a></li><li><a href="/profiles">K-Profile</a></li><li><a href="/features">Guides</a></li></ul></div>
-      <div><h4>HallyuScope</h4><p>Independent coverage, weekly news, concert radar, comeback tracking and fan-first guides.</p></div>
+      <div><a class="foot-logo" href="/"><img src="/assets/hallyuscope-logo.png" alt="HallyuScope" width="2032" height="344"></a><p>Philippine K-pop concerts, upcoming releases and artist profiles, with news and guides to keep you in the loop.</p></div>
+      <div><h4>Sections</h4><ul><li><a href="/latest">Latest</a></li><li><a href="/concerts">Concerts</a></li><li><a href="/comebacks">Comebacks</a></li><li><a href="/profiles">K-Profile</a></li><li><a href="/features">Guides</a><a href="/latest">News</a></li></ul></div>
+      <div><h4>HallyuScope</h4><p>Concert and comeback tracking for Filipino fans, plus artist profiles, news and practical guides.</p></div>
     </div>
     <div class="foot-bottom"><span>© 2026 HallyuScope · hallyuscope.com</span><span>Independent fan publication. Not affiliated with any entertainment agency.</span></div>
   </div>
@@ -107,6 +107,7 @@ export default async function handler(req, res) {
   }
 
   let item = null;
+  let unavailable = false;
   try {
     const controller = new AbortController();
     const timeout = setTimeout(() => controller.abort(), 8000);
@@ -122,12 +123,17 @@ export default async function handler(req, res) {
       clearTimeout(timeout);
     }
   } catch {
-    item = null;
+    unavailable = true;
   }
 
   res.setHeader('Content-Type', 'text/html; charset=utf-8');
   res.setHeader('Cache-Control', 'public, s-maxage=60, stale-while-revalidate=300');
 
+  if (unavailable) {
+    res.setHeader('Cache-Control', 'no-store');
+    res.setHeader('Retry-After', '15');
+    return res.status(503).send(shell({...generic, title:'Story temporarily unavailable | HallyuScope'}));
+  }
   if (!item) return res.status(404).send(shell(generic));
 
   const title = (item.headline || 'HallyuScope Story') + ' | HallyuScope';

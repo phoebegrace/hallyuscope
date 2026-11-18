@@ -12,7 +12,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: refresh-kpop-data
+  group: hallyuscope-live-data-writes
   cancel-in-progress: false
 
 jobs:
