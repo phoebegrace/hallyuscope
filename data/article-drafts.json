@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-18T15:03:05.148Z",
+  "updatedAt": "2026-11-18T15:04:45.580Z",
   "autoPublish": true,
   "note": "Auto-publish is ON. Newly generated HallyuScope articles publish immediately.",
   "items": [
     {
       "id": "c3df9bc871ec",
       "createdAt": "2026-11-18T15:03:05.148Z",
-      "status": "pending_review",
-      "publishedAt": null,
+      "status": "published",
+      "publishedAt": "2026-11-18T15:04:45.580Z",
       "sourcePublishedAt": null,
       "model": "gpt-6.1-terra",
       "qualityVersion": "ai-center-1",
@@ -55,12 +55,12 @@
           }
         ]
       },
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/c3df9bc871ec-article-mwm95lwb.png",
       "imageType": "hallyuscope_original",
       "sourceImageUrl": null,
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "Add or generate a HallyuScope editorial image during review."
+        "note": "HallyuScope original editorial cover."
       },
       "category": "HALLYU NEWS",
       "headline": "GEHLEE Reaches 2.5 Million Monthly Spotify Listeners as Solo Single Gains Ground",
@@ -74,13 +74,14 @@
       ],
       "seoDescription": "Former UNIS member GEHLEE reaches 2.5 million monthly Spotify listeners as her debut solo single “Closer” lands on the Billboard Philippines Hot 100.",
       "socialCaption": "GEHLEE’s solo chapter is gaining momentum. “Closer” is bringing new listeners to the former UNIS member.",
-      "socialHashtags": [
-        "#HallyuScope",
-        "#GEHLEE",
-        "#Closer",
-        "#UNIS"
-      ],
-      "sourceNote": "Sources: Chartmetric, Billboard Philippines, Philstar.com"
+      "socialHashtags": "#HallyuScope #GEHLEE #Closer #UNIS",
+      "sourceNote": "Sources: Chartmetric, Billboard Philippines, Philstar.com",
+      "socialImageUrl": "",
+      "socialPlatforms": {
+        "facebook": true,
+        "instagram": true
+      },
+      "reviewedAt": "2026-11-18T15:04:45.580Z"
     },
     {
       "id": "967af7323254",
