@@ -105,8 +105,8 @@ async function recordResult(id,result){
   const index=items.findIndex(x=>x.id===id);
   if(index<0) return;
   result={...result,
-    facebook:result.facebook||items[index].socialPublishResult?.facebook||null,
-    instagram:result.instagram||items[index].socialPublishResult?.instagram||null
+    facebook:result.facebook||(result.repostChannels?.facebook?null:items[index].socialPublishResult?.facebook)||null,
+    instagram:result.instagram||(result.repostChannels?.instagram?null:items[index].socialPublishResult?.instagram)||null
   };
   items[index]={
     ...items[index],
@@ -134,7 +134,7 @@ export default async function handler(req,res){
   const igId=process.env.META_IG_USER_ID?.trim();
   if(!token||!pageId) return reply(res,503,{error:'Meta connection is not configured yet.'});
 
-  let {id,slug='',caption='',hashtags='',imageUrl='',facebook=true,instagram=true}=req.body||{};
+  let {id,slug='',caption='',hashtags='',imageUrl='',facebook=true,instagram=true,repost=false}=req.body||{};
   if(instagram&&!igId) return reply(res,503,{error:'Instagram connection is not configured yet.'});
   if(!id) return reply(res,400,{error:'Missing article id'});
   if(!facebook&&!instagram) return reply(res,400,{error:'Choose at least one Meta account'});
@@ -157,23 +157,21 @@ export default async function handler(req,res){
     const items=json.items||[];
     const draft=items.find(x=>x.id===id);
     const prev=draft?.socialPublishResult;
-    // Older review tabs still send the SVG preview URL. Resolve the
-    // actual editorial photo on the server so those tabs keep working.
-    if(!imageUrl||imageUrl.includes('/api/social-card')||/\.svg(\?|$)/i.test(imageUrl)){
+    if(!imageUrl){
       imageUrl=draft?.imageUrl||'';
     }
     if(!imageUrl||imageUrl.includes('/api/social-card')||/\.svg(\?|$)/i.test(imageUrl)){
       return reply(res,400,{error:'Meta needs a public JPG/PNG photo. Upload an article or social image first.'});
     }
-    const dupFb=facebook&&prev?.facebook?.id, dupIg=instagram&&prev?.instagram?.id;
+    const dupFb=!repost&&facebook&&prev?.facebook?.id, dupIg=!repost&&instagram&&prev?.instagram?.id;
     if((!facebook||dupFb)&&(!instagram||dupIg)&&(dupFb||dupIg)){
-      return reply(res,409,{error:'This article is already posted to '+[dupFb&&'Facebook',dupIg&&'Instagram'].filter(Boolean).join(' and ')+'. Untick that channel to avoid a duplicate post.'});
+      return reply(res,409,{error:'This article is already posted to '+[dupFb&&'Facebook',dupIg&&'Instagram'].filter(Boolean).join(' and ')+'. If you deleted the previous posts, tick the repost confirmation in the editor.'});
     }
     // A previous attempt can succeed on Facebook and fail on Instagram.
     // Retry only the missing channel rather than posting Facebook twice.
     if(dupFb) facebook=false;
     if(dupIg) instagram=false;
-    limit=postingLimit(items);
+    limit=postingLimit(repost?items.map(x=>x.id===id?{...x,socialStatus:'deleted'}:x):items);
   }catch(e){
     return reply(res,503,{error:'Could not check the posting limit right now. Please try again in a minute.'});
   }
@@ -182,7 +180,7 @@ export default async function handler(req,res){
     return reply(res,429,{error:limit.why+'. You can post again '+when(limit.until)+' (in '+span(limit.minutes)+').',retryAt:new Date(limit.until).toISOString(),postsToday:limit.postsToday});
   }
 
-  const result={ok:false,facebook:null,instagram:null};
+  const result={ok:false,facebook:null,instagram:null,...(repost?{repostChannels:{facebook,instagram}}:{})};
 
   try{
     if(facebook){

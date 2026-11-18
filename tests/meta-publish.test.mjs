@@ -2,7 +2,7 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import handler from '../api/meta-publish.js';
 
-async function run({ imageUrl='https://hallyuscope.com/api/social-card?sig=old', photo='https://example.com/photo.png', previous, instagram=false, igId='', failInstagram=false, failedAt }={}) {
+async function run({ imageUrl='https://example.com/social.jpg', photo='https://example.com/photo.png', previous, instagram=false, igId='', failInstagram=false, repost=false, failedAt }={}) {
   const savedEnv={...process.env}, originalFetch=globalThis.fetch;
   Object.assign(process.env,{REVIEW_PASSWORD:'test-password',GITHUB_REVIEW_TOKEN:'test-github',META_PAGE_ACCESS_TOKEN:'test-meta',META_PAGE_ID:'page',META_IG_USER_ID:igId});
   let item={id:'article',imageUrl:photo,socialPublishResult:previous,...(failedAt?{socialStatus:'failed',socialLastAttemptAt:failedAt}:{})};
@@ -22,19 +22,19 @@ async function run({ imageUrl='https://hallyuscope.com/api/social-card?sig=old',
   };
   const res={status(code){this.code=code;return this;},json(data){this.data=data;},setHeader(){}};
   try {
-    await handler({method:'POST',headers:{'x-review-password':'test-password'},body:{id:'article',imageUrl,facebook:true,instagram}},res);
+    await handler({method:'POST',headers:{'x-review-password':'test-password'},body:{id:'article',imageUrl,facebook:true,instagram,repost}},res);
     return {res,calls,item};
   } finally {globalThis.fetch=originalFetch;process.env=savedEnv;}
 }
 
-test('legacy SVG preview resolves to the saved photo; Facebook does not require Instagram config',async()=>{
-  const {res,calls}=await run();assert.equal(res.code,200);assert.equal(calls[0].params.url,'https://example.com/photo.png');
+test('edited social JPG is used; Facebook does not require Instagram config',async()=>{
+  const {res,calls}=await run();assert.equal(res.code,200);assert.equal(calls[0].params.url,'https://example.com/social.jpg');
 });
 test('empty social URL uses the saved photo',async()=>{
   const {res,calls}=await run({imageUrl:''});assert.equal(res.code,200);assert.equal(calls[0].params.url,'https://example.com/photo.png');
 });
 test('unusable SVG feature image is rejected before contacting Meta',async()=>{
-  const {res,calls}=await run({photo:'https://example.com/art.svg'});assert.equal(res.code,400);assert.equal(calls.length,0);
+  const {res,calls}=await run({imageUrl:'',photo:'https://example.com/art.svg'});assert.equal(res.code,400);assert.equal(calls.length,0);
 });
 test('retry after partial success posts only the missing channel and preserves the Facebook ID',async()=>{
   const {res,calls,item}=await run({instagram:true,igId:'ig',previous:{facebook:{id:'existing-fb'}}});
@@ -52,4 +52,11 @@ test('a repaired authentication error can be retried immediately',async()=>{
 });
 test('unknown publishing failures retain the retry cooldown',async()=>{
   const {res,calls}=await run({previous:{error:'API access blocked'},failedAt:new Date().toISOString()});assert.equal(res.code,429);assert.equal(calls.length,0);
+});
+
+test('legacy preview is rejected instead of silently posting the original photo',async()=>{
+  const {res,calls}=await run({imageUrl:'https://hallyuscope.com/api/social-card?sig=old'});assert.equal(res.code,400);assert.equal(calls.length,0);
+});
+test('explicit deleted-post confirmation permits reposting and records the new IDs',async()=>{
+  const {res,calls,item}=await run({repost:true,previous:{facebook:{id:'deleted-fb'}}});assert.equal(res.code,200);assert.equal(calls[0].params.url,'https://example.com/social.jpg');assert.equal(item.socialPublishResult.facebook.id,'fb-id');
 });
