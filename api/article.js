@@ -107,6 +107,7 @@ export default async function handler(req, res) {
   }
 
   let item = null;
+  let unavailable = false;
   try {
     const controller = new AbortController();
     const timeout = setTimeout(() => controller.abort(), 8000);
@@ -122,12 +123,17 @@ export default async function handler(req, res) {
       clearTimeout(timeout);
     }
   } catch {
-    item = null;
+    unavailable = true;
   }
 
   res.setHeader('Content-Type', 'text/html; charset=utf-8');
   res.setHeader('Cache-Control', 'public, s-maxage=60, stale-while-revalidate=300');
 
+  if (unavailable) {
+    res.setHeader('Cache-Control', 'no-store');
+    res.setHeader('Retry-After', '15');
+    return res.status(503).send(shell({...generic, title:'Story temporarily unavailable | HallyuScope'}));
+  }
   if (!item) return res.status(404).send(shell(generic));
 
   const title = (item.headline || 'HallyuScope Story') + ' | HallyuScope';
