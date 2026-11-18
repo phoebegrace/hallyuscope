@@ -1,5 +1,23 @@
 (() => {
   const root = document.getElementById('article');
+
+  /* Mobile nav: hamburger menu (same behaviour as script.js). */
+  const navEl = document.querySelector('.nav');
+  const menuBtnEl = document.querySelector('.nav-menu-btn');
+  if (navEl && menuBtnEl) {
+    const setMenu = open => {
+      navEl.classList.toggle('menu-open', open);
+      menuBtnEl.setAttribute('aria-expanded', open ? 'true' : 'false');
+      menuBtnEl.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+    };
+    menuBtnEl.addEventListener('click', () => setMenu(!navEl.classList.contains('menu-open')));
+    navEl.addEventListener('click', e => {
+      if (e.target.closest('a') && navEl.classList.contains('menu-open')) setMenu(false);
+    });
+    document.addEventListener('keydown', e => {
+      if (e.key === 'Escape' && navEl.classList.contains('menu-open')) { setMenu(false); menuBtnEl.focus(); }
+    });
+  }
   const esc = (s='') => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   const params = new URLSearchParams(location.search);
   // Canonical article URLs are words from the headline: /article/<slug>.

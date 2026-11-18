@@ -105,6 +105,23 @@
     new IntersectionObserver(([e]) => nav.classList.toggle('compact', !e.isIntersecting), { threshold: 0 }).observe(mast);
   }
 
+  /* ---------- mobile nav: hamburger menu ---------- */
+  const menuBtn = document.querySelector('.nav-menu-btn');
+  if (menuBtn && nav) {
+    const setMenu = open => {
+      nav.classList.toggle('menu-open', open);
+      menuBtn.setAttribute('aria-expanded', open ? 'true' : 'false');
+      menuBtn.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+    };
+    menuBtn.addEventListener('click', () => setMenu(!nav.classList.contains('menu-open')));
+    nav.addEventListener('click', e => {
+      if (e.target.closest('a') && nav.classList.contains('menu-open')) setMenu(false);
+    });
+    document.addEventListener('keydown', e => {
+      if (e.key === 'Escape' && nav.classList.contains('menu-open')) { setMenu(false); menuBtn.focus(); }
+    });
+  }
+
   const link = (it, inner, cls = '') => `<a class="${cls}" href="${esc(it.url)}">${inner}</a>`;
   const tag = it => `<span class="tag" data-t="${it.tag}">${it.tag}</span>`;
   const srcMeta = it => `<span class="meta"><b>${esc(it.source || 'Source')}</b> · ${ago(it.time)}</span>`;

@@ -63,7 +63,8 @@ function shell({ title, description, canonical, image }) {
   <a class="mast-logo" href="/" aria-label="HallyuScope home"><img src="/assets/hallyuscope-logo.png" alt="HallyuScope" width="2032" height="344"></a>
 </div></header>
 <nav class="nav" aria-label="Primary"><div class="wrap nav-in">
-  <div class="nav-links"><a href="/">Home</a><a href="/latest">Latest</a><a href="/concerts">Concerts</a><a href="/comebacks">Comebacks</a><a href="/features">Guides</a></div>
+  <button class="nav-menu-btn" type="button" aria-label="Open menu" aria-expanded="false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
+  <div class="nav-links"><a href="/">Home</a><a href="/latest">Latest</a><a href="/concerts">Concerts</a><a href="/comebacks">Comebacks</a><div class="nav-has-sub"><a href="/profiles">K-Profile</a><div class="nav-sub"><a href="/profiles#kpop-artists">K-pop Artists</a><a href="/profiles#kdrama-actors">K-drama Actors</a></div></div><a href="/features">Guides</a></div>
 </div></nav>
 <main class="wrap article-shell" id="article">
   <p class="meta">Loading story…</p>
@@ -72,7 +73,7 @@ function shell({ title, description, canonical, image }) {
   <div class="wrap">
     <div class="foot-top">
       <div><a class="foot-logo" href="/"><img src="/assets/hallyuscope-logo.png" alt="HallyuScope" width="2032" height="344"></a><p>K-pop and Korean culture news rewritten and published on HallyuScope, with source attribution kept inside each story.</p></div>
-      <div><h4>Sections</h4><ul><li><a href="/latest">Latest</a></li><li><a href="/concerts">Concerts</a></li><li><a href="/comebacks">Comebacks</a></li><li><a href="/features">Guides</a></li></ul></div>
+      <div><h4>Sections</h4><ul><li><a href="/latest">Latest</a></li><li><a href="/concerts">Concerts</a></li><li><a href="/comebacks">Comebacks</a></li><li><a href="/profiles">K-Profile</a></li><li><a href="/features">Guides</a></li></ul></div>
       <div><h4>HallyuScope</h4><p>Independent coverage, weekly news, concert radar, comeback tracking and fan-first guides.</p></div>
     </div>
     <div class="foot-bottom"><span>© 2026 HallyuScope · hallyuscope.com</span><span>Independent fan publication. Not affiliated with any entertainment agency.</span></div>

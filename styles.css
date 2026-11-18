@@ -71,13 +71,20 @@ button,input{font:inherit;color:inherit}
 .nav-logo{width:0;overflow:hidden;opacity:0;transition:width .35s var(--ease),opacity .25s;flex:none}
 .nav-logo img{width:132px;height:auto}
 .nav.compact .nav-logo{width:132px;opacity:1}
-.nav-links{display:flex;gap:clamp(18px,3vw,40px);margin-inline:auto;overflow-x:auto;scrollbar-width:none}
-.nav-links::-webkit-scrollbar{display:none}
+.nav-links{display:flex;gap:clamp(18px,3vw,40px);margin-inline:auto;overflow:visible}
 .nav.compact .nav-links{margin-inline:auto 0}
 .nav-links a{position:relative;font:600 14px/52px var(--f);letter-spacing:.01em;white-space:nowrap}
 .nav-links a::after{content:"";position:absolute;left:0;right:0;bottom:-1px;height:3px;background:var(--pink);transform:scaleX(0);transform-origin:left;transition:transform .3s var(--ease)}
 .nav-links a:hover::after,.nav-links a[aria-current="page"]::after{transform:scaleX(1)}
 .search-btn{flex:none;display:flex;align-items:center;gap:8px;background:none;border:0;padding:0;cursor:pointer;font:600 14px/1 var(--f)}
+.nav-menu-btn{display:none;flex:none;background:none;border:0;padding:8px;cursor:pointer;color:#fff}
+.nav-menu-btn svg{width:22px;height:22px;display:block}
+.nav-has-sub{position:relative;display:flex;align-items:center}
+.nav-sub{position:absolute;top:100%;left:50%;transform:translate(-50%,6px);min-width:200px;background:#fff;border:1px solid var(--hair);box-shadow:0 14px 30px rgba(11,13,23,.16);padding:6px 0;opacity:0;visibility:hidden;transition:opacity .2s,transform .2s,visibility .2s;z-index:40}
+.nav-has-sub:hover .nav-sub,.nav-has-sub:focus-within .nav-sub{opacity:1;visibility:visible;transform:translate(-50%,0)}
+.nav-links .nav-sub a{display:block;padding:11px 16px;font:600 14px/1.35 var(--f);color:var(--ink);white-space:nowrap;line-height:1.35}
+.nav-links .nav-sub a::after{display:none}
+.nav-links .nav-sub a:hover{background:var(--tint);color:var(--navy)}
 .search-btn svg{width:18px;height:18px}
 .search-btn kbd{font:600 10px/1 var(--f);border:1px solid var(--hair);padding:3px 5px;color:var(--mute)}
 
@@ -268,10 +275,16 @@ button,input{font:inherit;color:inherit}
 @media (max-width:640px){
   .topbar .hide-sm{display:none}
   .mast-line{flex-direction:column;gap:6px}
-  .nav-in{gap:14px}
-  .nav-links{margin-inline:0;gap:0;flex:1;justify-content:space-between}
-  .nav-links a{font-size:14px}
-  .nav.compact .nav-logo{width:0;opacity:0}
+  .nav-in{position:relative;gap:14px;justify-content:space-between}
+  .nav-menu-btn{display:flex}
+  .nav-links{display:none}
+  .nav.menu-open .nav-links{display:flex;position:absolute;top:100%;left:0;right:0;flex-direction:column;align-items:stretch;gap:0;background:var(--navy);border-top:1px solid rgba(255,255,255,.18);padding:6px 0;margin-inline:0;overflow:visible}
+  .nav.menu-open .nav-links a{font-size:16px;line-height:1.4;padding:12px 20px}
+  .nav.menu-open .nav-links a::after{display:none}
+  .nav.menu-open .nav-has-sub{flex-direction:column;align-items:stretch}
+  .nav.menu-open .nav-sub{position:static;transform:none;opacity:1;visibility:visible;min-width:0;background:transparent;border:0;box-shadow:none;padding:0 0 6px}
+  .nav.menu-open .nav-sub a{padding:9px 20px 9px 36px;font-size:15px;color:rgba(255,255,255,.85)}
+  .nav.compact .nav-logo{width:132px;opacity:1;position:absolute;left:50%;transform:translateX(-50%)}
   .search-btn .lbl,.search-btn kbd{display:none}
   .ticker{height:40px}
   .ticker-label{padding:0 12px}
@@ -428,8 +441,8 @@ button,input{font:inherit;color:inherit}
 .concert-calendar-layout{display:grid;grid-template-columns:minmax(0,1.55fr) minmax(300px,.75fr);gap:34px}
 .concert-weekdays,.concert-month-grid{display:grid;grid-template-columns:repeat(7,1fr)}
 .concert-weekdays{border-bottom:1px solid var(--ink)}
-.concert-weekdays span{padding:0 8px 10px;font:700 10px/1 var(--f);letter-spacing:.08em;text-transform:uppercase;color:var(--mute)}
-.concert-day{position:relative;min-height:104px;border-right:1px solid var(--hair);border-bottom:1px solid var(--hair);padding:9px;background:#fff;text-align:left}
+.concert-weekdays span{min-width:0;padding:0 8px 10px;font:700 10px/1 var(--f);letter-spacing:.08em;text-transform:uppercase;color:var(--mute);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.concert-day{position:relative;min-width:0;min-height:104px;border-right:1px solid var(--hair);border-bottom:1px solid var(--hair);padding:9px;background:#fff;text-align:left}
 .concert-day:nth-child(7n+1){border-left:1px solid var(--hair)}
 .concert-day.is-empty{background:#fafafe}
 .concert-day-num{font:700 12px/1 var(--f);color:var(--mute)}
@@ -457,7 +470,7 @@ button,input{font:inherit;color:inherit}
 .concert-list-mode .concert-calendar-layout>div:first-child{display:none}
 .concert-list-mode .concert-upcoming{max-width:900px}
 .concert-detail{padding:clamp(20px,4vw,56px)}
-.concert-detail-back{padding:10px 13px;margin-bottom:28px;font-weight:700}
+.concert-detail-back{display:inline-block;padding:10px 13px;margin-bottom:28px;font-weight:700}
 .concert-detail-grid{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(280px,.85fr);gap:42px}
 .concert-detail-side{align-self:start}
 .concert-detail-title{margin:10px 0 14px;font:800 clamp(34px,4vw,58px)/1.02 var(--f);font-stretch:90%}
@@ -485,6 +498,7 @@ button,input{font:inherit;color:inherit}
   .concert-weekdays span{padding-inline:3px;font-size:8px}
   .concert-day{min-height:72px;padding:5px}
   .concert-dot{font-size:0;width:7px;height:7px;border-radius:50%;padding:0;margin-top:8px}
+  #cbCalendarMain .concert-dot{font-size:9px;width:auto;height:auto;border-radius:0;padding:3px 4px;margin-top:5px}
   .concert-facts{grid-template-columns:1fr}
   .concert-fact:nth-child(odd){padding-right:0}
 }
@@ -591,8 +605,15 @@ button,input{font:inherit;color:inherit}
 .review-shopee-initial{width:44px;height:44px;display:flex;align-items:center;justify-content:center;background:var(--tint);border-radius:6px;font:800 20px/1 var(--f);color:var(--pink)}
 .review-shopee-info strong{display:block;font:700 15px/1.3 var(--f)}
 .review-shopee-info small{display:block;margin-top:3px;color:var(--mute)}
-.review-shopee-input input{width:100%;border:1px solid var(--hair);background:#fff;padding:10px 12px;font:500 14px/1.4 var(--f)}
-.review-shopee-input input:focus{outline:2px solid var(--pink);outline-offset:1px;border-color:var(--ink)}
+.review-shopee-links{display:flex;flex-direction:column;gap:8px;min-width:0}
+.review-shopee-link{display:grid;grid-template-columns:minmax(110px,.7fr) minmax(150px,1.3fr) auto;gap:8px;align-items:center}
+.review-shopee-link input{width:100%;border:1px solid var(--hair);background:#fff;padding:9px 10px;font:500 13px/1.4 var(--f)}
+.review-shopee-link input:focus{outline:2px solid var(--pink);outline-offset:1px;border-color:var(--ink)}
+.review-shopee-remove{background:none;border:1px solid var(--hair);width:30px;height:30px;cursor:pointer;font-size:16px;line-height:1;color:var(--mute)}
+.review-shopee-remove:hover{border-color:var(--ink);color:var(--ink)}
+.review-shopee-add{align-self:flex-start;background:none;border:0;padding:4px 0;cursor:pointer;font:700 13px/1.4 var(--f);color:var(--navy)}
+.review-shopee-add:hover{color:var(--pink)}
+.review-shopee-state{font:700 12px/1.4 var(--f);color:var(--mute);white-space:nowrap}
 .review-shopee-state{font:700 11px/1 var(--f);color:var(--mute);white-space:nowrap}
 .review-shopee-actions{display:flex;gap:14px;align-items:center;margin-top:18px}
 .review-shopee-actions button{border:0;background:var(--navy);color:#fff;padding:12px 18px;font-weight:800;cursor:pointer}
@@ -723,7 +744,7 @@ a.album-detail-back{text-decoration:none;color:inherit;display:inline-block}
 .album-card .tag{align-self:flex-start;margin-top:6px}
 .album-empty{grid-column:1/-1;padding:40px 0;color:var(--mute)}
 .album-note{padding:0 0 8px}
-@media(max-width:760px){.album-tools{flex-direction:column;align-items:stretch}.album-search{max-width:none}}
+@media(max-width:760px){.album-tools{flex-direction:column;align-items:stretch}.album-search{flex:none;max-width:none}}
 
 /* album covers: square, full-bleed at the top of the card */
 .album-cover{width:calc(100% + 40px);aspect-ratio:1/1;overflow:hidden;margin:-20px -20px 14px}
@@ -739,8 +760,8 @@ a.album-detail-back{text-decoration:none;color:inherit;display:inline-block}
 .concert-show-card a{color:inherit;text-decoration:none}
 .concert-show-poster-link{display:block}
 .concert-show-card:focus-visible{outline:2px solid var(--navy);outline-offset:2px}
-.concert-show-poster{width:100%;aspect-ratio:3/4;overflow:hidden}
-.concert-show-poster img{display:block;width:100%;height:100%;object-fit:cover}
+.concert-show-poster{width:100%;aspect-ratio:3/4;overflow:hidden;background:var(--tint)}
+.concert-show-poster img{display:block;width:100%;height:100%;object-fit:contain}
 .concert-show-poster--empty{display:flex;align-items:center;justify-content:center;background:var(--tint)}
 .concert-show-poster--empty span{font:800 56px/1 var(--f);color:var(--pink)}
 .concert-show-info{display:flex;flex-direction:column;gap:5px;min-width:0}
@@ -753,6 +774,7 @@ a.album-detail-back{text-decoration:none;color:inherit;display:inline-block}
 .concert-show-ticket{display:flex;justify-content:space-between;align-items:center;background:var(--navy);color:#fff;padding:12px 14px;font-weight:800;text-decoration:none;margin-top:auto}
 .concert-show-ticket:hover{background:var(--pink)}
 .concert-show-ticket.is-disabled{opacity:.55;pointer-events:none}
+.concert-show-card a.concert-show-ticket{color:#fff}
 @media(max-width:640px){
   .concert-show-grid{gap:10px}
   .concert-show-card{grid-template-columns:96px minmax(0,1fr);gap:12px;padding:12px}
@@ -791,6 +813,10 @@ a.album-detail-back{text-decoration:none;color:inherit;display:inline-block}
 @media(max-width:760px){.album-detail-grid{grid-template-columns:1fr}}
 .album-section{margin-top:44px}
 .album-section h4{margin:0 0 18px;font:800 24px/1.15 var(--f)}
+.profile-section{margin-top:48px;padding-top:32px;border-top:2px solid var(--ink)}
+.profile-section h2{margin:10px 0 10px;font:800 clamp(28px,3.4vw,40px)/1.05 var(--f);font-stretch:90%}
+.profile-section p{margin:0;max-width:640px;font-size:16px;line-height:1.6;color:var(--mute)}
+.profile-section .meta{margin-top:14px}
 .album-note-line{color:var(--mute);font-size:15px}
 .album-teasers{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:14px}
 .album-teaser{display:block;text-decoration:none;color:var(--ink)}

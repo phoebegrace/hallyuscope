@@ -72,35 +72,49 @@ function buyLinkOf(entry){
   return first ? String(first.url) : '';
 }
 
+function listAlbums(items){
+  return items.map(e=>({
+    id:e.id, artist:e.artist||'', title:e.title||'', date:e.date||'',
+    cover:e.cover||'', buyLink:buyLinkOf(e),
+    buyLinks:(Array.isArray(e.buyLinks)?e.buyLinks:[]).filter(b=>b&&b.url)
+      .map(b=>({label:String(b.label||'Buy on Shopee'),url:String(b.url)}))
+  }));
+}
+
 async function buyLinksHandler(req,res,action){
   const {file,json}=await readComebacks();
   const items=json.items||[];
 
   if(action==='buy_links_list'){
-    return reply(res,200,{albums:items.map(e=>({
-      id:e.id, artist:e.artist||'', title:e.title||'', date:e.date||'',
-      cover:e.cover||'', buyLink:buyLinkOf(e)
-    }))});
+    return reply(res,200,{albums:listAlbums(items)});
   }
 
-  // buy_links_save: {links:{<albumId>: <shopee url or ''>}}
+  // buy_links_save: {links:{<albumId>: [{label,url}, ...]}}.
+  // Albums ship in different versions (Standard, Limited, member ver...),
+  // each with its own Shopee listing, so one album holds several labelled
+  // links. A plain string is still accepted as one unlabelled link.
   const links=(req.body && req.body.links)||{};
   if(typeof links!=='object' || Array.isArray(links)) return reply(res,400,{error:'No links to save'});
   let changed=0;
-  for(const [id,url] of Object.entries(links)){
+  for(const [id,value] of Object.entries(links)){
     const entry=items.find(x=>x.id===id);
     if(!entry) continue;
-    const value=String(url||'').trim();
-    if(!isShopeeUrl(value)){
-      return reply(res,400,{error:'Not a Shopee link: '+value.slice(0,80)});
+    const rows=Array.isArray(value) ? value : [{label:'Buy on Shopee',url:value}];
+    const next=[];
+    for(const row of rows){
+      const url=String((row && row.url)||'').trim();
+      if(!url) continue;
+      if(!isShopeeUrl(url)){
+        return reply(res,400,{error:'Not a Shopee link: '+url.slice(0,80)});
+      }
+      next.push({label:String((row && row.label)||'').trim()||'Buy on Shopee',url});
     }
-    const next=value ? [{label:'Buy on Shopee',url:value}] : [];
-    const before=buyLinkOf(entry);
-    if(before!==value){ entry.buyLinks=next; changed++; }
+    const before=JSON.stringify(Array.isArray(entry.buyLinks)?entry.buyLinks:[]);
+    if(before!==JSON.stringify(next)){ entry.buyLinks=next; changed++; }
   }
-  if(!changed) return reply(res,200,{albums:items.map(e=>({id:e.id,buyLink:buyLinkOf(e)})),changed:0});
+  if(!changed) return reply(res,200,{albums:listAlbums(items),changed:0});
   await writeFile(COMEBACKS_PATH,file.sha,{...json,updatedAt:new Date().toISOString(),items},'editorial: update Shopee affiliate links ('+changed+' album'+(changed===1?'':'s')+')');
-  return reply(res,200,{albums:items.map(e=>({id:e.id,buyLink:buyLinkOf(e)})),changed});
+  return reply(res,200,{albums:listAlbums(items),changed});
 }
 
 // Long dashes are never allowed in HallyuScope articles. The model is

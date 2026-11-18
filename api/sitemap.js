@@ -33,6 +33,7 @@ const STATIC_PAGES = [
   { loc: '/comebacks', changefreq: 'daily', priority: '0.8' },
   { loc: '/albums', changefreq: 'daily', priority: '0.8' },
   { loc: '/features', changefreq: 'weekly', priority: '0.6' },
+  { loc: '/profiles', changefreq: 'weekly', priority: '0.6' },
 ];
 
 const esc = (s = '') => String(s)

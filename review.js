@@ -141,6 +141,14 @@
     document.querySelector('.review-autopublish')?.classList.toggle('is-on',autoPublish);
   }
 
+  function shopeeLinkRow(label,url){
+    return `<div class="review-shopee-link">
+      <input class="review-shopee-label" type="text" value="${esc(label)}" placeholder="Version, e.g. Standard Ver." aria-label="Album version">
+      <input class="review-shopee-url" type="url" inputmode="url" value="${esc(url)}" placeholder="https://shopee.ph/... or https://shope.ee/..." aria-label="Shopee affiliate link">
+      <button type="button" class="review-shopee-remove" aria-label="Remove this version">\u00d7</button>
+    </div>`;
+  }
+
   function renderShopee(){
     const listEl=$('#reviewShopeeList');
     if(!listEl) return;
@@ -148,15 +156,20 @@
       listEl.innerHTML='<p class="meta">No albums yet.</p>';
       return;
     }
-    listEl.innerHTML = shopeeAlbums.map(a=>`
+    listEl.innerHTML = shopeeAlbums.map(a=>{
+      const links=(Array.isArray(a.buyLinks)&&a.buyLinks.length?a.buyLinks:(a.buyLink?[{label:'Buy on Shopee',url:a.buyLink}]:[]));
+      const rows=(links.length?links:[{label:'',url:''}]).map(l=>shopeeLinkRow(l.label||'',l.url||'')).join('');
+      const n=links.filter(l=>l.url).length;
+      return `
       <div class="review-shopee-row">
         ${a.cover ? '<img src="'+esc(a.cover)+'" alt="" loading="lazy">' : '<span class="review-shopee-initial">'+esc((a.artist||'H').charAt(0))+'</span>'}
         <div class="review-shopee-info"><strong>${esc(a.title||'Release')}</strong><small>${esc(a.artist||'')} · ${esc(a.date||'')}</small></div>
-        <label class="review-shopee-input"><span class="sr-only">Shopee affiliate link for ${esc(a.title||'')}</span>
-          <input type="url" inputmode="url" data-shopee-id="${esc(a.id)}" value="${esc(a.buyLink||'')}" placeholder="https://shopee.ph/... or https://shope.ee/...">
-        </label>
-        <span class="review-shopee-state">${a.buyLink ? 'Linked' : 'No link'}</span>
-      </div>`).join('');
+        <div class="review-shopee-links" data-shopee-album="${esc(a.id)}">
+          ${rows}
+          <button type="button" class="review-shopee-add">+ Add version</button>
+        </div>
+        <span class="review-shopee-state">${n ? n+(n===1?' link':' links') : 'No link'}</span>
+      </div>`;}).join('');
   }
 
   async function loadShopee(){
@@ -350,18 +363,43 @@
   });
 
   $('#reviewRefresh').addEventListener('click',()=>load().catch(()=>{}));
+  const shopeeListEl=$('#reviewShopeeList');
+  if(shopeeListEl) shopeeListEl.addEventListener('click',e=>{
+    const add=e.target.closest('.review-shopee-add');
+    if(add){
+      const box=add.closest('[data-shopee-album]');
+      if(box) add.insertAdjacentHTML('beforebegin',shopeeLinkRow('',''));
+      return;
+    }
+    const rem=e.target.closest('.review-shopee-remove');
+    if(rem){
+      const box=rem.closest('[data-shopee-album]');
+      const row=rem.closest('.review-shopee-link');
+      if(box&&row){
+        row.remove();
+        if(!box.querySelector('.review-shopee-link')){
+          box.querySelector('.review-shopee-add').insertAdjacentHTML('beforebegin',shopeeLinkRow('',''));
+        }
+      }
+    }
+  });
   const shopeeSaveBtn=$('#reviewShopeeSave');
   if(shopeeSaveBtn) shopeeSaveBtn.addEventListener('click',async ()=>{
     const note=$('#reviewShopeeMessage');
     const links={};
-    document.querySelectorAll('[data-shopee-id]').forEach(input=>{ links[input.dataset.shopeeId]=input.value.trim(); });
+    document.querySelectorAll('[data-shopee-album]').forEach(box=>{
+      links[box.dataset.shopeeAlbum]=[...box.querySelectorAll('.review-shopee-link')].map(row=>({
+        label:row.querySelector('.review-shopee-label').value.trim(),
+        url:row.querySelector('.review-shopee-url').value.trim()
+      })).filter(r=>r.url);
+    });
     if(note) note.textContent='Saving…';
     shopeeSaveBtn.disabled=true;
     try{
       const data=await api('buy_links_save',{links});
       (data.albums||[]).forEach(a=>{
         const found=shopeeAlbums.find(x=>x.id===a.id);
-        if(found) found.buyLink=a.buyLink||'';
+        if(found){ found.buyLink=a.buyLink||''; found.buyLinks=a.buyLinks||[]; }
       });
       renderShopee();
       if(note) note.textContent=data.changed ? 'Saved. The album pages will pick the new links up within a few minutes.' : 'No changes to save.';

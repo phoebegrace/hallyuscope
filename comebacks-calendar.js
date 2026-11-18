@@ -1,5 +1,5 @@
 // Comebacks page: the release schedule as Albums-style cards (visible on
-// the page, soonest first, each linking to its /album/<id> page) plus the
+// the page, latest first with an Upcoming tab, each linking to its /album/<id> page) plus the
 // month calendar inline below it — no articles, no popup. The calendar
 // keeps its month grid, upcoming list, list view and detail view (with
 // Add to Calendar); it just lives on the page now instead of in a modal.
@@ -59,13 +59,17 @@
       '</a>';
   }
 
+  let tab = 'latest'; // Latest (released, newest first) is the default view.
   function renderGrid() {
-    // Soonest first, so the nearest releases are at the top.
-    const sorted = [...events].sort((a, b) => String(a.date).localeCompare(String(b.date)));
-    if (countEl) countEl.textContent = events.length + ' releases';
-    grid.innerHTML = sorted.length
-      ? sorted.map(cardHtml).join('')
-      : '<p class="album-empty">No verified K-pop comebacks have been added yet.</p>';
+    const released = events.filter(e => String(e.date).slice(0,10) <= todayStr)
+      .sort((a, b) => String(b.date).localeCompare(String(a.date)));
+    const upcoming = events.filter(e => String(e.date).slice(0,10) > todayStr)
+      .sort((a, b) => String(a.date).localeCompare(String(b.date)));
+    const list = tab === 'upcoming' ? upcoming : released;
+    if (countEl) countEl.textContent = released.length + ' released \u00b7 ' + upcoming.length + ' upcoming';
+    grid.innerHTML = list.length
+      ? list.map(cardHtml).join('')
+      : '<p class="album-empty">No ' + (tab === 'upcoming' ? 'upcoming' : 'released') + ' K-pop comebacks yet.</p>';
   }
 
   function showMain(){ detail.hidden=true; main.hidden=false; }
@@ -162,6 +166,11 @@
 
   function fact(label,value){ return '<div class="concert-fact"><b>'+esc(label)+'</b><span>'+esc(value)+'</span></div>'; }
 
+  document.querySelectorAll('[data-cb-tab]').forEach(btn => btn.addEventListener('click', () => {
+    tab = btn.dataset.cbTab;
+    document.querySelectorAll('[data-cb-tab]').forEach(b => b.setAttribute('aria-pressed', b === btn ? 'true' : 'false'));
+    renderGrid();
+  }));
   document.getElementById('cbPrevMonth').addEventListener('click',()=>{cursor=new Date(cursor.getFullYear(),cursor.getMonth()-1,1);render();});
   document.getElementById('cbNextMonth').addEventListener('click',()=>{cursor=new Date(cursor.getFullYear(),cursor.getMonth()+1,1);render();});
   document.getElementById('cbDetailBack').addEventListener('click',showMain);
