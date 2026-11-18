@@ -42,7 +42,8 @@ export default async function handler(req, res) {
         'Accept':'application/vnd.github+json',
         'Authorization':'Bearer ' + token,
         'X-GitHub-Api-Version':'2022-11-28',
-        'Content-Type':'application/json'
+        'Content-Type':'application/json',
+        'User-Agent':'HallyuScope (+https://hallyuscope.com)'
       },
       body:JSON.stringify({
         message:'editorial: upload ' + safeKind + ' image for ' + safeId,
