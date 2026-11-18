@@ -40,6 +40,69 @@ async function readQueue(){
   return {file,json};
 }
 
+const COMEBACKS_PATH = 'data/comebacks-calendar.json';
+
+async function readComebacks(){
+  const file=await github('/repos/'+OWNER+'/'+REPO+'/contents/'+COMEBACKS_PATH+'?ref='+BRANCH);
+  const json=JSON.parse(Buffer.from(file.content,'base64').toString('utf8'));
+  return {file,json};
+}
+
+async function writeFile(path, sha, json, message){
+  const body={
+    message,
+    content:Buffer.from(JSON.stringify(json,null,2)+'\n').toString('base64'),
+    sha,
+    branch:BRANCH
+  };
+  await github('/repos/'+OWNER+'/'+REPO+'/contents/'+path,{method:'PUT',body:JSON.stringify(body)});
+}
+
+function isShopeeUrl(value=''){
+  const u=String(value).trim();
+  if(!u) return true; // empty clears the link
+  let host='';
+  try{ host=new URL(u).hostname.toLowerCase(); }catch{ return false; }
+  return host==='shopee.ph' || host.endsWith('.shopee.ph') || host==='shope.ee' || host.endsWith('.shope.ee');
+}
+
+function buyLinkOf(entry){
+  const links=Array.isArray(entry.buyLinks)?entry.buyLinks:[];
+  const first=links.find(b=>b && b.url);
+  return first ? String(first.url) : '';
+}
+
+async function buyLinksHandler(req,res,action){
+  const {file,json}=await readComebacks();
+  const items=json.items||[];
+
+  if(action==='buy_links_list'){
+    return reply(res,200,{albums:items.map(e=>({
+      id:e.id, artist:e.artist||'', title:e.title||'', date:e.date||'',
+      cover:e.cover||'', buyLink:buyLinkOf(e)
+    }))});
+  }
+
+  // buy_links_save: {links:{<albumId>: <shopee url or ''>}}
+  const links=(req.body && req.body.links)||{};
+  if(typeof links!=='object' || Array.isArray(links)) return reply(res,400,{error:'No links to save'});
+  let changed=0;
+  for(const [id,url] of Object.entries(links)){
+    const entry=items.find(x=>x.id===id);
+    if(!entry) continue;
+    const value=String(url||'').trim();
+    if(!isShopeeUrl(value)){
+      return reply(res,400,{error:'Not a Shopee link: '+value.slice(0,80)});
+    }
+    const next=value ? [{label:'Buy on Shopee',url:value}] : [];
+    const before=buyLinkOf(entry);
+    if(before!==value){ entry.buyLinks=next; changed++; }
+  }
+  if(!changed) return reply(res,200,{albums:items.map(e=>({id:e.id,buyLink:buyLinkOf(e)})),changed:0});
+  await writeFile(COMEBACKS_PATH,file.sha,{...json,updatedAt:new Date().toISOString(),items},'editorial: update Shopee affiliate links ('+changed+' album'+(changed===1?'':'s')+')');
+  return reply(res,200,{albums:items.map(e=>({id:e.id,buyLink:buyLinkOf(e)})),changed});
+}
+
 // Long dashes are never allowed in HallyuScope articles. The model is
 // told not to use them, and this strips any that slip through anyway, so
 // a draft can never contain one no matter which model wrote it.
@@ -79,6 +142,12 @@ export default async function handler(req,res){
 
   try{
     const {action='list',id,operation,patch}=req.body||{};
+
+    // Shopee affiliate links live in the comebacks data, not the drafts queue.
+    if(action==='buy_links_list' || action==='buy_links_save'){
+      return buyLinksHandler(req,res,action);
+    }
+
     const {file,json}=await readQueue();
     const items=json.items||[];
 

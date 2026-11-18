@@ -13,6 +13,7 @@
   let filter = 'pending_review';
   let autoPublish = false;
   let queueUpdatedAt = '';
+  let shopeeAlbums = [];
 
   const esc = (s='') => String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   function ago(value){
@@ -140,6 +141,37 @@
     document.querySelector('.review-autopublish')?.classList.toggle('is-on',autoPublish);
   }
 
+  function renderShopee(){
+    const listEl=$('#reviewShopeeList');
+    if(!listEl) return;
+    if(!shopeeAlbums.length){
+      listEl.innerHTML='<p class="meta">No albums yet.</p>';
+      return;
+    }
+    listEl.innerHTML = shopeeAlbums.map(a=>`
+      <div class="review-shopee-row">
+        ${a.cover ? '<img src="'+esc(a.cover)+'" alt="" loading="lazy">' : '<span class="review-shopee-initial">'+esc((a.artist||'H').charAt(0))+'</span>'}
+        <div class="review-shopee-info"><strong>${esc(a.title||'Release')}</strong><small>${esc(a.artist||'')} · ${esc(a.date||'')}</small></div>
+        <label class="review-shopee-input"><span class="sr-only">Shopee affiliate link for ${esc(a.title||'')}</span>
+          <input type="url" inputmode="url" data-shopee-id="${esc(a.id)}" value="${esc(a.buyLink||'')}" placeholder="https://shopee.ph/... or https://shope.ee/...">
+        </label>
+        <span class="review-shopee-state">${a.buyLink ? 'Linked' : 'No link'}</span>
+      </div>`).join('');
+  }
+
+  async function loadShopee(){
+    const note=$('#reviewShopeeMessage');
+    try{
+      const data=await api('buy_links_list');
+      shopeeAlbums=(data.albums||[]).slice().sort((a,b)=>String(b.date).localeCompare(String(a.date)));
+      renderShopee();
+      if(note) note.textContent='';
+    }catch(err){
+      const listEl=$('#reviewShopeeList');
+      if(listEl) listEl.innerHTML='<p class="meta">Could not load the album links: '+esc(err.message)+'</p>';
+    }
+  }
+
   async function load(){
     const data = await api('list');
     items = data.items || [];
@@ -151,6 +183,7 @@
     renderAutoPublish();
     if(current) current = items.find(x=>x.id===current.id) || null;
     renderList(); renderEditor();
+    loadShopee().catch(()=>{});
   }
 
   async function loginNow(){
@@ -317,6 +350,27 @@
   });
 
   $('#reviewRefresh').addEventListener('click',()=>load().catch(()=>{}));
+  const shopeeSaveBtn=$('#reviewShopeeSave');
+  if(shopeeSaveBtn) shopeeSaveBtn.addEventListener('click',async ()=>{
+    const note=$('#reviewShopeeMessage');
+    const links={};
+    document.querySelectorAll('[data-shopee-id]').forEach(input=>{ links[input.dataset.shopeeId]=input.value.trim(); });
+    if(note) note.textContent='Saving…';
+    shopeeSaveBtn.disabled=true;
+    try{
+      const data=await api('buy_links_save',{links});
+      (data.albums||[]).forEach(a=>{
+        const found=shopeeAlbums.find(x=>x.id===a.id);
+        if(found) found.buyLink=a.buyLink||'';
+      });
+      renderShopee();
+      if(note) note.textContent=data.changed ? 'Saved. The album pages will pick the new links up within a few minutes.' : 'No changes to save.';
+    }catch(err){
+      if(note) note.textContent=err.message;
+    }finally{
+      shopeeSaveBtn.disabled=false;
+    }
+  });
   $('#autoPublishToggle').addEventListener('change',async e=>{
     const wanted=e.target.checked;
     const label=$('#autoPublishLabel');

@@ -68,11 +68,11 @@
     const d = localDate(e.date);
     const day = fmt(d, { day: '2-digit' });
     const mon = fmt(d, { month: 'short', year: 'numeric' }).toUpperCase();
-    return '<article class="album-card" data-album-id="' + esc(e.id) + '" tabindex="0" role="button" aria-label="' + esc((e.artist || '') + ' - ' + (e.title || '')) + '">' +
+    return '<article class="album-card" data-album-id="' + esc(e.id) + '" tabindex="0" role="button" aria-label="' + esc((e.title || '') + ' by ' + (e.artist || '')) + '">' +
       coverHtml(e) +
       '<div class="album-date">' + esc(day) + '<small>' + esc(mon) + '</small></div>' +
-      '<h3>' + esc(e.artist || 'Release') + '</h3>' +
-      '<p class="album-title">' + esc(e.title || '') + '</p>' +
+      '<h3>' + esc(e.title || 'Release') + '</h3>' +
+      '<p class="album-artist">' + esc(e.artist || '') + '</p>' +
       '<span class="tag">' + esc(e.type || 'Release') + '</span>' +
       '</article>';
   }
@@ -174,7 +174,8 @@
     detailBody.innerHTML =
       '<div class="album-detail-grid"><div>' +
       '<span class="eyebrow">' + esc((e.type || 'Release').toUpperCase()) + '</span>' +
-      '<h3>' + esc(e.artist || 'Release') + ' — ' + esc(e.title || '') + '</h3>' +
+      '<h3>' + esc(e.title || 'Release') + '</h3>' +
+      '<p class="album-detail-artist">' + esc(e.artist || '') + '</p>' +
       '<p class="album-detail-dek">' + esc(e.description || 'More details will be added as official information is confirmed.') + '</p>' +
       '<div class="album-facts">' +
         fact('Release date', fmt(d, { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' })) +
