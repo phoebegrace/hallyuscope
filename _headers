@@ -56,3 +56,8 @@
 /assets/editorial/*
   ! Cache-Control
   Cache-Control: public, max-age=31536000, immutable
+
+# The editorial app must pick up posting fixes immediately after deploy.
+/review.js
+  ! Cache-Control
+  Cache-Control: private, no-cache, must-revalidate

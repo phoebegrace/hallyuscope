@@ -101,6 +101,10 @@ async function recordResult(id,result){
   const items=json.items||[];
   const index=items.findIndex(x=>x.id===id);
   if(index<0) return;
+  result={...result,
+    facebook:result.facebook||items[index].socialPublishResult?.facebook||null,
+    instagram:result.instagram||items[index].socialPublishResult?.instagram||null
+  };
   items[index]={
     ...items[index],
     socialStatus:result.ok?'published':'failed',
@@ -125,19 +129,12 @@ export default async function handler(req,res){
   const token=process.env.META_PAGE_ACCESS_TOKEN;
   const pageId=process.env.META_PAGE_ID;
   const igId=process.env.META_IG_USER_ID;
-  if(!token||!pageId||!igId) return reply(res,503,{error:'Meta connection is not configured yet.'});
+  if(!token||!pageId) return reply(res,503,{error:'Meta connection is not configured yet.'});
 
-  const {id,slug='',caption='',hashtags='',imageUrl='',facebook=true,instagram=true}=req.body||{};
+  let {id,slug='',caption='',hashtags='',imageUrl='',facebook=true,instagram=true}=req.body||{};
+  if(instagram&&!igId) return reply(res,503,{error:'Instagram connection is not configured yet.'});
   if(!id) return reply(res,400,{error:'Missing article id'});
   if(!facebook&&!instagram) return reply(res,400,{error:'Choose at least one Meta account'});
-  if(instagram&&!imageUrl) return reply(res,400,{error:'Instagram requires a public image URL'});
-  // The SVG social card is preview-only. Meta rejects SVG photo URLs with
-  // "(#100) Invalid parameter", so fail here with a clear message instead
-  // of passing a card URL through to the Graph API.
-  if(imageUrl&&(imageUrl.includes('/api/social-card')||/\.svg(\?|$)/i.test(imageUrl))){
-    return reply(res,400,{error:'Meta needs a real photo (JPG/PNG). The SVG social card is preview-only and cannot be posted.'});
-  }
-
   // Canonical article URLs use words from the headline: /article/<slug>.
   const articleUrl=slug
     ? 'https://hallyuscope.com/article/'+encodeURIComponent(slug)
@@ -155,11 +152,24 @@ export default async function handler(req,res){
   try{
     const {json}=await readDrafts();
     const items=json.items||[];
-    const prev=items.find(x=>x.id===id)?.socialPublishResult;
+    const draft=items.find(x=>x.id===id);
+    const prev=draft?.socialPublishResult;
+    // Older review tabs still send the SVG preview URL. Resolve the
+    // actual editorial photo on the server so those tabs keep working.
+    if(!imageUrl||imageUrl.includes('/api/social-card')||/\.svg(\?|$)/i.test(imageUrl)){
+      imageUrl=draft?.imageUrl||'';
+    }
+    if(!imageUrl||imageUrl.includes('/api/social-card')||/\.svg(\?|$)/i.test(imageUrl)){
+      return reply(res,400,{error:'Meta needs a public JPG/PNG photo. Upload an article or social image first.'});
+    }
     const dupFb=facebook&&prev?.facebook?.id, dupIg=instagram&&prev?.instagram?.id;
     if((!facebook||dupFb)&&(!instagram||dupIg)&&(dupFb||dupIg)){
       return reply(res,409,{error:'This article is already posted to '+[dupFb&&'Facebook',dupIg&&'Instagram'].filter(Boolean).join(' and ')+'. Untick that channel to avoid a duplicate post.'});
     }
+    // A previous attempt can succeed on Facebook and fail on Instagram.
+    // Retry only the missing channel rather than posting Facebook twice.
+    if(dupFb) facebook=false;
+    if(dupIg) instagram=false;
     limit=postingLimit(items);
   }catch(e){
     return reply(res,503,{error:'Could not check the posting limit right now. Please try again in a minute.'});

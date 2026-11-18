@@ -340,7 +340,7 @@
     // The SVG social card is preview-only: Meta rejects SVG images with
     // "(#100) Invalid parameter". Post the editorial feature photo instead
     // whenever the social image is a generated card.
-    const imageUrl=socialImage.includes('/api/social-card') ? featureImage : socialImage;
+    const imageUrl=(!socialImage||socialImage.includes('/api/social-card')) ? featureImage : socialImage;
     const isSvg=/\.svg(\?|$)/i.test(imageUrl) || imageUrl.includes('/api/social-card');
     const payload={
       id:current.id,
