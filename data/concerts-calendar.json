@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T09:21:29Z",
+  "updatedAt": "2026-11-18T16:58:21.127Z",
   "note": "Upcoming Philippine K-pop events seeded only from currently verified official ticketing or venue sources. ticketUrl must remain an official promoter, venue, or ticketing destination.",
   "items": [
     {
@@ -59,12 +59,12 @@
     {
       "id": "le-sserafim-pureflow-manila-2026",
       "artist": "LE SSERAFIM",
-      "tour": "2026 TOUR 'PUREFLOW' IN MANILA",
+      "tour": "2026 LE SSERAFIM TOUR PUREFLOW IN MANILA DECEMBER 5",
       "date": "2026-12-05",
-      "venue": "SM Mall of Asia Arena",
+      "venue": "SM Mall Of Asia Arena",
       "city": "Pasay",
       "type": "Concert",
-      "status": "On Sale",
+      "status": "Ticket listing available",
       "ticketRange": "₱4,000–₱15,500",
       "promoter": "PULP Live World",
       "ticketProvider": "SM Tickets",
@@ -72,17 +72,21 @@
       "description": "LE SSERAFIM brings the PUREFLOW tour to the SM Mall of Asia Arena on December 5, 2026 at 7:00 PM. The December 6 show was cancelled and its ticket holders were moved to this date. Tickets via SM Tickets.",
       "relatedArticles": [],
       "poster": "https://images1.smtickets.com/images/portrait_26102026170614.jpg",
-      "seatPlan": "https://images1.smtickets.com/images/seatplan_26102026170625.jpg"
+      "seatPlan": "https://images1.smtickets.com/images/seatplan_26102026170625.jpg",
+      "sourceUrl": "https://www.smtickets.com/events/view/18350",
+      "sourceName": "SM Tickets",
+      "sourceClass": "official",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
     },
     {
       "id": "nct-127-neo-city-redline-manila-2026",
       "artist": "NCT 127",
-      "tour": "5TH TOUR 'NEO CITY : MANILA – THE REDLINE'",
+      "tour": "NCT 127 5TH TOUR NEO CITY MANILA - THE REDLINE",
       "date": "2026-12-12",
-      "venue": "SM Mall of Asia Arena",
+      "venue": "SM Mall Of Asia Arena",
       "city": "Pasay",
       "type": "Concert",
-      "status": "On Sale",
+      "status": "Ticket listing available",
       "ticketRange": "₱4,500–₱16,000",
       "promoter": "PULP Live World",
       "ticketProvider": "SM Tickets",
@@ -90,7 +94,11 @@
       "description": "NCT 127 brings the 5th tour NEO CITY : THE REDLINE to the SM Mall of Asia Arena on December 12, 2026 at 5:00 PM. Tickets via SM Tickets.",
       "relatedArticles": [],
       "poster": "https://images1.smtickets.com/images/portrait_11092026174449.jpg",
-      "seatPlan": null
+      "seatPlan": null,
+      "sourceUrl": "https://www.smtickets.com/events/view/18436",
+      "sourceName": "SM Tickets",
+      "sourceClass": "official",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
     },
     {
       "id": "rocky-fake-it-manila-2026",
@@ -290,5 +298,6 @@
       "poster": "https://assets.billboardphilippines.com/wp-content/uploads/2026/11/kai-sehun-tour-socials.jpg",
       "seatPlan": null
     }
-  ]
+  ],
+  "lastCheckedAt": "2026-11-18T16:58:21.127Z"
 }

@@ -1,7 +1,331 @@
 {
-  "updatedAt": "2026-11-10T09:17:19Z",
+  "updatedAt": "2026-11-18T16:58:21.127Z",
   "note": "Upcoming K-pop comebacks and releases. Every date is verified against an official or press source before it is listed.",
   "items": [
+    {
+      "id": "ive-revive-2026",
+      "artist": "IVE",
+      "title": "REVIVE+",
+      "date": "2026-02-23",
+      "type": "2nd Album",
+      "sourceUrl": "https://kpopofficial.com/album/ive-revive-plus/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
+    },
+    {
+      "id": "bts-arirang-2026",
+      "artist": "BTS",
+      "title": "ARIRANG",
+      "date": "2026-03-20",
+      "type": "5th Album",
+      "sourceUrl": "https://kpopofficial.com/album/bts-arirang/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
+    },
+    {
+      "id": "cortis-pre-release-lead-redred-2026-2026",
+      "artist": "CORTIS Pre-release Lead",
+      "title": "REDRED(2026)",
+      "date": "2026-04-20",
+      "type": "Single",
+      "sourceUrl": "https://kpopofficial.com/album/cortis-redred/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
+    },
+    {
+      "id": "illit-mamihlapinatapai-2026",
+      "artist": "ILLIT",
+      "title": "MAMIHLAPINATAPAI",
+      "date": "2026-04-30",
+      "type": "4th Mini Album",
+      "sourceUrl": "https://kpopofficial.com/album/illit-mamihlapinatapai/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
+    },
+    {
+      "id": "babymonster-choom-2026",
+      "artist": "BABYMONSTER",
+      "title": "CHOOM",
+      "date": "2026-05-04",
+      "type": "3rd Mini Album",
+      "sourceUrl": "https://kpopofficial.com/album/babymonster-choom/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
+    },
+    {
+      "id": "cortis-greengreen-2026",
+      "artist": "CORTIS",
+      "title": "GREENGREEN",
+      "date": "2026-05-04",
+      "type": "2nd EP",
+      "sourceUrl": "https://kpopofficial.com/album/cortis-greengreen/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
+    },
+    {
+      "id": "xlov-i-god-2026",
+      "artist": "XLOV",
+      "title": "I,God",
+      "date": "2026-05-27",
+      "type": "2nd Mini Album",
+      "sourceUrl": "https://kpopofficial.com/album/xlov-i-god/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
+    },
+    {
+      "id": "aespa-lemonade-2026",
+      "artist": "aespa",
+      "title": "LEMONADE",
+      "date": "2026-05-29",
+      "type": "2nd Album",
+      "sourceUrl": "https://kpopofficial.com/album/aespa-lemonade/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
+    },
+    {
+      "id": "le-sserafim-x-illit-x-katseye-iconic-by-mistake-2026",
+      "artist": "LE SSERAFIM x ILLIT x KATSEYE",
+      "title": "ICONIC BY MISTAKE",
+      "date": "2026-06-12",
+      "type": "Single",
+      "sourceUrl": "https://kpopofficial.com/album/le-sserafim-illit-katseye-iconic-by-mistake/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
+    },
+    {
+      "id": "stray-kids-this-that-2026",
+      "artist": "Stray Kids",
+      "title": "THIS & THAT",
+      "date": "2026-08-07",
+      "type": "Mini Album",
+      "sourceUrl": "https://kpopofficial.com/album/stray-kids-this-and-that/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
+    },
+    {
+      "id": "kiiikiii-whykiiikiii-2026",
+      "artist": "KiiiKiii",
+      "title": "WhyKiiiKiii",
+      "date": "2026-08-10",
+      "type": "3rd EP",
+      "sourceUrl": "https://kpopofficial.com/album/kiiikiii-whykiiikiii/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
+    },
+    {
+      "id": "enhypen-the-sin-bliss-2026",
+      "artist": "ENHYPEN",
+      "title": "THE SIN : BLISS",
+      "date": "2026-08-21",
+      "type": "8th Mini Album",
+      "sourceUrl": "https://kpopofficial.com/album/enhypen-the-sin-bliss/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
+    },
+    {
+      "id": "soyeon-i-dle-what-a-wonderful-life-2026",
+      "artist": "SOYEON (i-dle)",
+      "title": "What a Wonderful Life",
+      "date": "2026-09-07",
+      "type": "1st Full Album",
+      "sourceUrl": "https://kpopofficial.com/album/soyeon-what-a-wonderful-life/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
+    },
+    {
+      "id": "team-kr-mark-on-me-2026",
+      "artist": "&TEAM (KR)",
+      "title": "Mark on Me",
+      "date": "2026-09-08",
+      "type": "2nd Mini Album",
+      "sourceUrl": "https://kpopofficial.com/album/andteam-mark-on-me/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
+    },
+    {
+      "id": "yuqi-i-dle-27-2026",
+      "artist": "YUQI (i-dle)",
+      "title": "二十七 (27)",
+      "date": "2026-10-08",
+      "type": "2nd Mini Album",
+      "sourceUrl": "https://kpopofficial.com/album/yuqi-27/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
+    },
+    {
+      "id": "plave-hyperdrive-2026",
+      "artist": "PLAVE",
+      "title": "HYPERDRIVE",
+      "date": "2026-10-12",
+      "type": "5th Mini Album",
+      "sourceUrl": "https://kpopofficial.com/album/plave-hyperdrive/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
+    },
+    {
+      "id": "a2o-lite-debut-neon-2026",
+      "artist": "A2O LITE Debut",
+      "title": "NEON",
+      "date": "2026-10-13",
+      "type": "Digital Single",
+      "sourceUrl": "https://kpopofficial.com/album/a2o-lite-neon/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
+    },
+    {
+      "id": "lisa-press-play-2026",
+      "artist": "LISA",
+      "title": "PRESS PLAY",
+      "date": "2026-10-23",
+      "type": "EP",
+      "sourceUrl": "https://kpopofficial.com/album/lisa-press-play/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
+    },
+    {
+      "id": "illit-break-even-2026",
+      "artist": "ILLIT",
+      "title": "BREAK EVEN",
+      "date": "2026-10-26",
+      "type": "5th Mini Album",
+      "sourceUrl": "https://kpopofficial.com/album/illit-break-even/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
+    },
+    {
+      "id": "unchild-ting-ting-2026",
+      "artist": "UNCHILD",
+      "title": "TiNG TiNG",
+      "date": "2026-11-05",
+      "type": "2nd Digital Single",
+      "sourceUrl": "https://kpopofficial.com/album/unchild-ting-ting/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
+    },
+    {
+      "id": "heart-of-woman-eternal-fade-2026",
+      "artist": "HEART OF WOMAN",
+      "title": "ETERNAL FADE",
+      "date": "2026-11-05",
+      "type": "1st Mini Album",
+      "sourceUrl": "https://kpopofficial.com/album/heart-of-woman-eternal-fade/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
+    },
+    {
+      "id": "p1harmony-blow-up-2026",
+      "artist": "P1Harmony",
+      "title": "BLOW UP",
+      "date": "2026-11-06",
+      "type": "10th Mini Album",
+      "sourceUrl": "https://kpopofficial.com/album/p1harmony-blow-up/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
+    },
+    {
+      "id": "jennie-someone-to-hold-netflix-film-steps-ost-2026",
+      "artist": "JENNIE",
+      "title": "Someone to Hold (Netflix Film “Steps” OST)",
+      "date": "2026-11-06",
+      "type": "Single",
+      "sourceUrl": "https://kpopofficial.com/album/jennie-someone-to-hold/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
+    },
+    {
+      "id": "mark-lee-happiest-2026",
+      "artist": "Mark Lee",
+      "title": "Happiest",
+      "date": "2026-11-06",
+      "type": "Digital Single",
+      "sourceUrl": "https://kpopofficial.com/album/mark-lee-happiest/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
+    },
+    {
+      "id": "chaeryeong-itzy-lovesick-2026",
+      "artist": "CHAERYEONG (ITZY)",
+      "title": "Lovesick",
+      "date": "2026-11-09",
+      "type": "1st Mini Album",
+      "sourceUrl": "https://kpopofficial.com/album/chaeryeong-lovesick/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
+    },
+    {
+      "id": "nct-dream-dream-after-dream-2026",
+      "artist": "NCT DREAM",
+      "title": "DREAM AFTER DREAM",
+      "date": "2026-11-09",
+      "type": "6th Full Album",
+      "sourceUrl": "https://kpopofficial.com/album/nct-dream-album-dream-after-dream/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
+    },
+    {
+      "id": "a2o-soul-debut-superstar-2026",
+      "artist": "A2O SOUL Debut",
+      "title": "SUPERSTAR",
+      "date": "2026-11-09",
+      "type": "EP",
+      "sourceUrl": "https://kpopofficial.com/album/a2o-soul-album-superstar/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
+    },
     {
       "id": "lngshot-swish-2026",
       "artist": "LNGSHOT",
@@ -65,7 +389,12 @@
           "title": "LNGSHOT - 'Bananas' Official MV Teaser",
           "thumb": "https://i.ytimg.com/vi/UDeqY4zTZ84/maxresdefault.jpg"
         }
-      ]
+      ],
+      "sourceUrl": "https://kpopofficial.com/album/lngshot-swish/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
     },
     {
       "id": "emp-off-script-2026",
@@ -101,7 +430,7 @@
       ],
       "mv": {
         "videoId": "sMazlfiJN_w",
-        "title": "EMP (ZEROBASEONE) 'RUN (with \ub2e4\uc774\ub098\ubbf9 \ub4c0\uc624)' MV",
+        "title": "EMP (ZEROBASEONE) 'RUN (with 다이나믹 듀오)' MV",
         "channel": "ZEROBASEONE",
         "uploadDate": "20261104",
         "titleTrack": "RUN",
@@ -136,19 +465,31 @@
       ],
       "mv": {
         "videoId": "DlmzE54O4d4",
-        "title": "\ubaa8\ubaa8\ub79c\ub4dc (MOMOLAND) - Still Valid [Special Clip]",
-        "channel": "MOMOLAND (\ubaa8\ubaa8\ub79c\ub4dc)",
+        "title": "모모랜드 (MOMOLAND) - Still Valid [Special Clip]",
+        "channel": "MOMOLAND (모모랜드)",
         "uploadDate": "20261110",
         "titleTrack": "Still Valid",
         "kind": "special clip"
       }
     },
     {
+      "id": "zerobaseone-emp-off-script-2026",
+      "artist": "ZEROBASEONE EMP",
+      "title": "OFF script",
+      "date": "2026-11-10",
+      "type": "Digital Single",
+      "sourceUrl": "https://kpopofficial.com/album/zerobaseone-emp-off-script/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
+    },
+    {
       "id": "do-darling-2026",
-      "artist": "D.O.",
+      "artist": "D.O. (EXO)",
       "title": "Darling",
       "date": "2026-11-11",
-      "type": "Digital single",
+      "type": "Single",
       "description": "EXO's D.O. releases the digital single 'Darling'.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/01/e1/9d01e1f4-c9b7-89c8-58be-caa84f4c7a34/191953593371.jpg/600x600bb.jpg",
       "links": {
@@ -171,8 +512,8 @@
       ],
       "mv": {
         "videoId": "KSeciQOgsWM",
-        "title": "\ub3c4\uacbd\uc218(D.O.) l 'Darling' MV",
-        "channel": "\ub3c4\uacbd\uc218(DOH KYUNG SOO)",
+        "title": "도경수(D.O.) l 'Darling' MV",
+        "channel": "도경수(DOH KYUNG SOO)",
         "uploadDate": "20261111",
         "titleTrack": "Darling",
         "kind": "mv"
@@ -180,10 +521,27 @@
       "teasers": [
         {
           "videoId": "AxTSWoMTAEM",
-          "title": "\ub3c4\uacbd\uc218(D.O.) l 'Darling' MV Teaser",
+          "title": "도경수(D.O.) l 'Darling' MV Teaser",
           "thumb": "https://i.ytimg.com/vi/AxTSWoMTAEM/maxresdefault.jpg"
         }
-      ]
+      ],
+      "sourceUrl": "https://kpopofficial.com/album/do-darling/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
+    },
+    {
+      "id": "kyuhyun-continue-2026",
+      "artist": "KYUHYUN",
+      "title": "CONTINUE",
+      "date": "2026-11-11",
+      "type": "EP",
+      "sourceUrl": "https://kpopofficial.com/album/kyuhyun-continue/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
     },
     {
       "id": "lucy-again-2026",
@@ -213,8 +571,8 @@
       ],
       "mv": {
         "videoId": "CWTVVUhB4fc",
-        "title": "[MV] LUCY - \ub2e4\uc2dc!",
-        "channel": "LUCY ISLAND and \ubbf8\uc2a4\ud2f1 MYSTIC",
+        "title": "[MV] LUCY - 다시!",
+        "channel": "LUCY ISLAND and 미스틱 MYSTIC",
         "uploadDate": "20261112",
         "titleTrack": "AGAIN!",
         "kind": "mv"
@@ -222,7 +580,7 @@
       "teasers": [
         {
           "videoId": "vgPvoKD1VNg",
-          "title": "[Teaser] LUCY - '\ub2e4\uc2dc!' MV",
+          "title": "[Teaser] LUCY - '다시!' MV",
           "thumb": "https://i.ytimg.com/vi/vgPvoKD1VNg/maxresdefault.jpg"
         }
       ]
@@ -273,7 +631,7 @@
       "artist": "ATEEZ",
       "title": "GOLDEN HOUR : Part.6",
       "date": "2026-11-13",
-      "type": "Mini album",
+      "type": "Mini Album",
       "description": "ATEEZ return with the mini album 'GOLDEN HOUR : Part.6'.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/4c/8e/1d4c8e84-ac53-90ed-1dbe-615fdef5b8f1/196874852668.jpg/600x600bb.jpg",
       "links": {
@@ -314,7 +672,7 @@
       ],
       "mv": {
         "videoId": "iqQWCYMlMw0",
-        "title": "ATEEZ(\uc5d0\uc774\ud2f0\uc988) - 'Drip' Official MV",
+        "title": "ATEEZ(에이티즈) - 'Drip' Official MV",
         "channel": "KQ ENTERTAINMENT and ATEEZ",
         "uploadDate": "20261023",
         "titleTrack": "Drip",
@@ -323,17 +681,22 @@
       "teasers": [
         {
           "videoId": "VGZ627FEau8",
-          "title": "ATEEZ(\uc5d0\uc774\ud2f0\uc988) - 'Drip' Official MV Teaser",
+          "title": "ATEEZ(에이티즈) - 'Drip' Official MV Teaser",
           "thumb": "https://i.ytimg.com/vi/VGZ627FEau8/maxresdefault.jpg"
         }
-      ]
+      ],
+      "sourceUrl": "https://kpopofficial.com/album/ateez-golden-hour-part-6/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
     },
     {
       "id": "h1-key-unbelievable-2026",
       "artist": "H1-KEY",
       "title": "Unbelievable",
       "date": "2026-11-13",
-      "type": "Digital single",
+      "type": "Digital Single",
       "description": "H1-KEY release the digital single 'Unbelievable'.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/66/dc/c6/66dcc6a7-d51f-6856-fd4a-39e7e8589049/888272192483_Cover.jpg/600x600bb.jpg",
       "links": {
@@ -347,7 +710,12 @@
           "ms": 135456,
           "titleTrack": false
         }
-      ]
+      ],
+      "sourceUrl": "https://kpopofficial.com/album/h1-key-unbelievable/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
     },
     {
       "id": "txt-perfect-storm-2026",
@@ -401,7 +769,7 @@
       ],
       "mv": {
         "videoId": "M9G4guYg-i8",
-        "title": "TXT (\ud22c\ubaa8\ub85c\uc6b0\ubc14\uc774\ud22c\uac8c\ub354) 'Angel Bite' Official MV",
+        "title": "TXT (투모로우바이투게더) 'Angel Bite' Official MV",
         "channel": "HYBE LABELS and TOMORROW X TOGETHER OFFICIAL",
         "uploadDate": "20261116",
         "titleTrack": "Angel Bite",
@@ -410,22 +778,46 @@
       "teasers": [
         {
           "videoId": "0kKD3b2nwfQ",
-          "title": "TXT (\ud22c\ubaa8\ub85c\uc6b0\ubc14\uc774\ud22c\uac8c\ub354) 'Angel Bite' Official Teaser 2",
+          "title": "TXT (투모로우바이투게더) 'Angel Bite' Official Teaser 2",
           "thumb": "https://i.ytimg.com/vi/0kKD3b2nwfQ/maxresdefault.jpg"
         },
         {
           "videoId": "JCCE6Mds2C8",
-          "title": "TXT (\ud22c\ubaa8\ub85c\uc6b0\ubc14\uc774\ud22c\uac8c\ub354) 'Angel Bite' Official Teaser 1",
+          "title": "TXT (투모로우바이투게더) 'Angel Bite' Official Teaser 1",
           "thumb": "https://i.ytimg.com/vi/JCCE6Mds2C8/maxresdefault.jpg"
         }
       ]
+    },
+    {
+      "id": "txt-perfect-storm-2026",
+      "artist": "TXT",
+      "title": "PERFECT STORM",
+      "date": "2026-11-16",
+      "type": "9th Mini Album",
+      "sourceUrl": "https://kpopofficial.com/album/txt-perfect-storm/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
+    },
+    {
+      "id": "keyveatz-hah-2026",
+      "artist": "Keyveatz",
+      "title": "HAH!",
+      "date": "2026-11-16",
+      "type": "Digital Single",
+      "sourceUrl": "https://kpopofficial.com/album/keyveatz-hah/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
     },
     {
       "id": "ampers-and-one-pathfinder-2026",
       "artist": "AMPERS&ONE",
       "title": "PATHFINDER",
       "date": "2026-11-17",
-      "type": "Album",
+      "type": "1st Full Album",
       "description": "AMPERS&ONE release the full-length album 'PATHFINDER'.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cc/62/36/cc62368c-937b-cdeb-9ae3-4e76b0127c03/8800388628115_cover.jpg/600x600bb.jpg",
       "links": {
@@ -435,7 +827,7 @@
       "tracks": [
         {
           "n": 1,
-          "name": "King\u2019s Way",
+          "name": "King’s Way",
           "ms": 160000,
           "titleTrack": true
         },
@@ -496,31 +888,48 @@
       ],
       "mv": {
         "videoId": "oy1ePVqmvJ4",
-        "title": "\uc570\ud37c\uc0cc\ub4dc\uc6d0 (AMPERS&ONE) 'King's Way' MV",
-        "channel": "\uc570\ud37c\uc0cc\ub4dc\uc6d0 (AMPERS&ONE)",
+        "title": "앰퍼샌드원 (AMPERS&ONE) 'King's Way' MV",
+        "channel": "앰퍼샌드원 (AMPERS&ONE)",
         "uploadDate": "20261117",
-        "titleTrack": "King\u2019s Way",
+        "titleTrack": "King’s Way",
         "kind": "mv"
       },
       "teasers": [
         {
           "videoId": "mTuOnfGXO6s",
-          "title": "\uc570\ud37c\uc0cc\ub4dc\uc6d0 (AMPERS&ONE) 'King's Way' MV TEASER 2",
+          "title": "앰퍼샌드원 (AMPERS&ONE) 'King's Way' MV TEASER 2",
           "thumb": "https://i.ytimg.com/vi/mTuOnfGXO6s/maxresdefault.jpg"
         },
         {
           "videoId": "Z4mWDJ_JVM0",
-          "title": "\uc570\ud37c\uc0cc\ub4dc\uc6d0 (AMPERS&ONE) 'King's Way' MV TEASER 1",
+          "title": "앰퍼샌드원 (AMPERS&ONE) 'King's Way' MV TEASER 1",
           "thumb": "https://i.ytimg.com/vi/Z4mWDJ_JVM0/maxresdefault.jpg"
         }
-      ]
+      ],
+      "sourceUrl": "https://kpopofficial.com/album/ampersandone-pathfinder/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
+    },
+    {
+      "id": "i-n-stray-kids-no-return-2026",
+      "artist": "I.N (Stray Kids)",
+      "title": "NO RETURN",
+      "date": "2026-11-17",
+      "type": "Digital Single",
+      "sourceUrl": "https://kpopofficial.com/album/in-no-return/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
     },
     {
       "id": "enhypen-sin-parallel-world-2026",
       "artist": "ENHYPEN",
       "title": "THE SIN : PARALLEL WORLD",
       "date": "2026-11-20",
-      "type": "Single",
+      "type": "Spinoff Single",
       "description": "ENHYPEN release the single 'THE SIN : PARALLEL WORLD'.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/a1/48/53a148f3-361e-9022-fd1e-f91322dd945f/823375532705_Cover.jpg/600x600bb.jpg",
       "links": {
@@ -548,7 +957,7 @@
       ],
       "mv": {
         "videoId": "dE_Ro8Sac2M",
-        "title": "ENHYPEN (\uc5d4\ud558\uc774\ud508) 'I Want You' Official MV",
+        "title": "ENHYPEN (엔하이픈) 'I Want You' Official MV",
         "channel": "HYBE LABELS and ENHYPEN",
         "uploadDate": "20261113",
         "titleTrack": "I Want You",
@@ -557,17 +966,22 @@
       "teasers": [
         {
           "videoId": "_pLJBPzp3Fg",
-          "title": "ENHYPEN (\uc5d4\ud558\uc774\ud508) 'I Want You' Official Teaser",
+          "title": "ENHYPEN (엔하이픈) 'I Want You' Official Teaser",
           "thumb": "https://i.ytimg.com/vi/_pLJBPzp3Fg/maxresdefault.jpg"
         }
-      ]
+      ],
+      "sourceUrl": "https://kpopofficial.com/album/enhypen-the-sin-parallel-world/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
     },
     {
       "id": "yves-cute-and-anxiety-2026",
-      "artist": "Yves",
+      "artist": "YVES",
       "title": "Cute & Anxiety",
       "date": "2026-11-20",
-      "type": "EP",
+      "type": "5th EP",
       "description": "Yves releases her 5th EP 'Cute & Anxiety'.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/12/8c/0b128c80-4c17-940b-9f93-da1d733bfcab/1200220308125.jpg/600x600bb.jpg",
       "links": {
@@ -607,8 +1021,8 @@
       ],
       "mv": {
         "videoId": "5jvmNm73q5U",
-        "title": "Yves \u2018Hysteric\u2019 Official MV",
-        "channel": "PAIX PER MIL and YVES \uc774\ube0c",
+        "title": "Yves ‘Hysteric’ Official MV",
+        "channel": "PAIX PER MIL and YVES 이브",
         "uploadDate": "20261027",
         "titleTrack": "Hysteric",
         "kind": "mv"
@@ -616,35 +1030,62 @@
       "teasers": [
         {
           "videoId": "ObZbMPw_CVM",
-          "title": "Yves \u2018Hysteric\u2019 MV Teaser",
+          "title": "Yves ‘Hysteric’ MV Teaser",
           "thumb": "https://i.ytimg.com/vi/ObZbMPw_CVM/maxresdefault.jpg"
         },
         {
           "videoId": "55I31QFlPJE",
-          "title": "Yves \u2018Polaroid\u2019 MV Teaser",
+          "title": "Yves ‘Polaroid’ MV Teaser",
           "thumb": "https://i.ytimg.com/vi/55I31QFlPJE/maxresdefault.jpg"
         }
-      ]
+      ],
+      "sourceUrl": "https://kpopofficial.com/album/yves-cute-and-anxiety/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
     },
     {
       "id": "nayeon-na-sty-2026",
       "artist": "NAYEON (TWICE)",
       "title": "NA-sty",
       "date": "2026-11-20",
-      "type": "Single",
+      "type": "Single Album",
       "description": "TWICE's Nayeon releases the single 'NA-sty'.",
       "cover": null,
-      "links": null
+      "links": null,
+      "sourceUrl": "https://kpopofficial.com/album/nayeon-na-sty/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
+    },
+    {
+      "id": "cl-iconic-2026",
+      "artist": "CL",
+      "title": "ICONIC",
+      "date": "2026-11-20",
+      "type": "Digital Single",
+      "sourceUrl": "https://kpopofficial.com/album/cl-iconic/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
     },
     {
       "id": "wendy-gleam-hour-2026",
-      "artist": "Wendy",
+      "artist": "WENDY",
       "title": "Gleam Hour",
       "date": "2026-11-23",
-      "type": "EP",
+      "type": "4th Mini Album",
       "description": "Red Velvet's Wendy releases her 4th EP 'Gleam Hour'.",
       "cover": null,
-      "links": null
+      "links": null,
+      "sourceUrl": "https://kpopofficial.com/album/wendy-gleam-hour/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
     },
     {
       "id": "stray-kids-suiatsu-2026",
@@ -720,7 +1161,7 @@
         },
         {
           "n": 2,
-          "name": "\uc9c0\ub294 \ub0a0",
+          "name": "지는 날",
           "ms": null,
           "titleTrack": false
         },
@@ -738,13 +1179,13 @@
         },
         {
           "n": 5,
-          "name": "\uc544\ub2d8\uc758 \ubb34\uac8c",
+          "name": "아님의 무게",
           "ms": null,
           "titleTrack": false
         },
         {
           "n": 6,
-          "name": "\uc816\uc740\ucc45",
+          "name": "젖은책",
           "ms": null,
           "titleTrack": false
         },
@@ -792,14 +1233,14 @@
         },
         {
           "n": 14,
-          "name": "\uc774\uaca8\ub77c!\ub450\ub9ac\uc548",
+          "name": "이겨라!두리안",
           "ms": null,
           "titleTrack": false
         }
       ],
       "mv": {
         "videoId": "-czMu2ADVu4",
-        "title": "HYUKOH(\ud601\uc624) - Godspeed! (Official MV)",
+        "title": "HYUKOH(혁오) - Godspeed! (Official MV)",
         "channel": "HYUKOH",
         "uploadDate": "20260817",
         "titleTrack": "Godspeed!",
@@ -808,35 +1249,69 @@
       "teasers": [
         {
           "videoId": "enfcGvmv23c",
-          "title": "HYUKOH(\ud601\uc624), Yu Su - KoK (MV Teaser2)",
+          "title": "HYUKOH(혁오), Yu Su - KoK (MV Teaser2)",
           "thumb": "https://i.ytimg.com/vi/enfcGvmv23c/maxresdefault.jpg"
         },
         {
           "videoId": "Nc0InmvjbME",
-          "title": "HYUKOH(\ud601\uc624), Leah Dou - Janga (MV Teaser)",
+          "title": "HYUKOH(혁오), Leah Dou - Janga (MV Teaser)",
           "thumb": "https://i.ytimg.com/vi/Nc0InmvjbME/maxresdefault.jpg"
         }
       ]
     },
     {
+      "id": "kiss-of-life-greedy-2026",
+      "artist": "KISS OF LIFE",
+      "title": "Greedy",
+      "date": "2026-11-25",
+      "type": "Winter Digital Single",
+      "sourceUrl": "https://kpopofficial.com/album/kiss-of-life-greedy/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
+    },
+    {
+      "id": "kiiras-over-u-2026",
+      "artist": "KIIRAS",
+      "title": "OVER U",
+      "date": "2026-11-26",
+      "type": "2nd Digital Single Album",
+      "sourceUrl": "https://kpopofficial.com/album/kiiras-over-u/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
+    },
+    {
       "id": "taeyeon-unspecial-2026",
-      "artist": "Taeyeon",
+      "artist": "TAEYEON",
       "title": "Unspecial",
       "date": "2026-11-30",
-      "type": "Album",
+      "type": "4th Album",
       "description": "Taeyeon releases her 4th studio album 'Unspecial'.",
       "cover": null,
-      "links": null
+      "links": null,
+      "sourceUrl": "https://kpopofficial.com/album/taeyeon-unspecial/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
     },
     {
       "id": "exo-kase-waking-up-the-city-2026",
       "artist": "EXO-KASE",
       "title": "Waking Up The City",
       "date": "2026-12-01",
-      "type": "Mini album",
+      "type": "1st Mini Album",
       "description": "EXO's Kai and Sehun debut as the unit EXO-KASE with the mini album 'Waking Up The City'.",
       "cover": null,
-      "links": null
+      "links": null,
+      "sourceUrl": "https://kpopofficial.com/album/exo-kase-waking-up-the-city/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
     },
     {
       "id": "mark-windmill-2026",
@@ -859,6 +1334,18 @@
       "links": null
     },
     {
+      "id": "1verse-uncharted-2026",
+      "artist": "1VERSE",
+      "title": "UNCHARTED",
+      "date": "2026-12-09",
+      "type": "1st EP",
+      "sourceUrl": "https://kpopofficial.com/album/1verse-uncharted/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-18T16:58:21.127Z"
+    },
+    {
       "id": "baby-dont-cry-daybreak-2027",
       "artist": "Baby DONT Cry",
       "title": "DAYBREAK",
@@ -878,5 +1365,6 @@
       "cover": null,
       "links": null
     }
-  ]
+  ],
+  "lastCheckedAt": "2026-11-18T16:58:21.127Z"
 }
