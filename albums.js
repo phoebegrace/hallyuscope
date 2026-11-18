@@ -40,25 +40,41 @@
     return list;
   }
 
-  // If a cover image fails to load, swap it for the "?" placeholder.
+  // Branded fallback tile for a missing or broken cover: navy tile with
+  // the white HallyuScope wordmark and the album title in white.
+  function fallbackHtml(e) {
+    return '<img class="album-cover-fallback-logo" src="/assets/hallyuscope-logo-light.png" alt="" aria-hidden="true">' +
+      '<span class="album-cover-fallback-title" aria-hidden="true">' + esc(e.title || e.artist || 'Release') + '</span>';
+  }
+
+  // If a cover image fails to load, swap it for the branded fallback tile.
   window.albumCoverError = function (img) {
     const box = img.parentNode;
     box.classList.add('album-cover--empty');
-    box.classList.add('album-cover-big--empty');
     img.remove();
-    const s = document.createElement('span');
-    s.setAttribute('aria-hidden', 'true');
-    s.textContent = '?';
-    box.appendChild(s);
+    const title = box.dataset.albumTitle || '';
+    const logo = document.createElement('img');
+    logo.className = 'album-cover-fallback-logo';
+    logo.src = '/assets/hallyuscope-logo-light.png';
+    logo.alt = '';
+    logo.setAttribute('aria-hidden', 'true');
+    box.appendChild(logo);
+    if (title) {
+      const s = document.createElement('span');
+      s.className = 'album-cover-fallback-title';
+      s.setAttribute('aria-hidden', 'true');
+      s.textContent = title;
+      box.appendChild(s);
+    }
   };
 
   function coverHtml(e) {
     if (e.cover) {
-      return '<div class="album-cover"><img src="' + esc(e.cover) + '" alt="' +
+      return '<div class="album-cover" data-album-title="' + esc(e.title || e.artist || 'Release') + '"><img src="' + esc(e.cover) + '" alt="' +
         esc((e.artist || 'Release') + ' - ' + (e.title || '') + ' album cover') +
         '" loading="lazy" onerror="albumCoverError(this)"></div>';
     }
-    return '<div class="album-cover album-cover--empty"><span aria-hidden="true">?</span></div>';
+    return '<div class="album-cover album-cover--empty">' + fallbackHtml(e) + '</div>';
   }
 
   function cardHtml(e) {

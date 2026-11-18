@@ -1,0 +1,10 @@
+# Cloudflare Pages config for HallyuScope (Vercel migration).
+# Static files are served from the repo root; the Pages Functions in
+# functions/ adapt the existing Vercel-style handlers in api/.
+# Secrets (GITHUB_REVIEW_TOKEN, REVIEW_PASSWORD, META_*, OPENAI_*, BREVO_*)
+# are set with `wrangler pages secret put` / in the Cloudflare dashboard,
+# never in this file.
+name = "hallyuscope"
+pages_build_output_dir = "."
+compatibility_flags = ["nodejs_compat"]
+compatibility_date = "2026-11-18"

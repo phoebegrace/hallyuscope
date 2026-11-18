@@ -41,13 +41,18 @@ function fact(label, value) {
   return '<div class="album-fact"><b>' + esc(label) + '</b><span>' + esc(value) + '</span></div>';
 }
 
+function fallbackHtml(e) {
+  return '<img class="album-cover-fallback-logo" src="/assets/hallyuscope-logo-light.png" alt="" aria-hidden="true">' +
+    '<span class="album-cover-fallback-title" aria-hidden="true">' + esc(e.title || e.artist || 'Release') + '</span>';
+}
+
 function coverHtml(e) {
   if (e.cover) {
-    return '<div class="album-cover"><img src="' + esc(e.cover) + '" alt="' +
+    return '<div class="album-cover" data-album-title="' + esc(e.title || e.artist || 'Release') + '"><img src="' + esc(e.cover) + '" alt="' +
       esc((e.artist || 'Release') + ' - ' + (e.title || '') + ' album cover') +
-      '" loading="lazy"></div>';
+      '" loading="lazy" onerror="albumCoverError(this)"></div>';
   }
-  return '<div class="album-cover album-cover--empty"><span aria-hidden="true">?</span></div>';
+  return '<div class="album-cover album-cover--empty">' + fallbackHtml(e) + '</div>';
 }
 
 function cardHtml(e) {
@@ -135,8 +140,8 @@ function detailHtml(e, all) {
   const d = localDate(e.date);
   const isNew = String(e.date).slice(0, 10) <= todayStr;
   const cover = e.cover
-    ? '<figure class="album-cover-big"><img src="' + esc(e.cover) + '" alt="' + esc((e.artist || 'Release') + ' - ' + (e.title || '') + ' album cover') + '" loading="lazy"></figure>'
-    : '<div class="album-cover-big album-cover-big--empty"><span aria-hidden="true">?</span></div>';
+    ? '<figure class="album-cover-big" data-album-title="' + esc(e.title || e.artist || 'Release') + '"><img src="' + esc(e.cover) + '" alt="' + esc((e.artist || 'Release') + ' - ' + (e.title || '') + ' album cover') + '" loading="lazy" onerror="albumCoverError(this)"></figure>'
+    : '<div class="album-cover-big album-cover-big--empty">' + fallbackHtml(e) + '</div>';
   return '<div class="album-detail">' +
     '<a class="album-detail-back" href="/albums">← All albums</a>' +
     '<div class="album-detail-grid"><div>' +
@@ -251,6 +256,30 @@ ${body}
   <div class="search-body"><div class="wrap" id="results"></div></div>
 </div>
 
+<script>
+// If a cover image fails to load, swap it for the branded fallback tile:
+// navy tile with the white HallyuScope wordmark and the album title.
+window.albumCoverError = function (img) {
+  var box = img.parentNode;
+  if (box.classList.contains('album-cover-big')) box.classList.add('album-cover-big--empty');
+  else box.classList.add('album-cover--empty');
+  img.remove();
+  var title = box.dataset.albumTitle || '';
+  var logo = document.createElement('img');
+  logo.className = 'album-cover-fallback-logo';
+  logo.src = '/assets/hallyuscope-logo-light.png';
+  logo.alt = '';
+  logo.setAttribute('aria-hidden', 'true');
+  box.appendChild(logo);
+  if (title) {
+    var s = document.createElement('span');
+    s.className = 'album-cover-fallback-title';
+    s.setAttribute('aria-hidden', 'true');
+    s.textContent = title;
+    box.appendChild(s);
+  }
+};
+</script>
 <script src="/script.js" defer></script>
 </body>
 </html>`;
