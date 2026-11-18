@@ -1,8 +1,199 @@
 {
-  "updatedAt": "2026-11-17T22:57:15.851Z",
+  "updatedAt": "2026-11-18T04:29:09.738Z",
   "autoPublish": true,
   "note": "Auto-publish is ON. Newly generated HallyuScope articles publish immediately.",
   "items": [
+    {
+      "id": "967af7323254",
+      "createdAt": "2026-11-18T04:28:45.063Z",
+      "status": "published",
+      "publishedAt": "2026-11-18T04:28:45.063Z",
+      "sourcePublishedAt": "2026-11-18T02:38:55.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "family-matters-season-2-sets-december-premiere-with-new-teaser",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: “Family Matters” Announces Return With Season 2 Premiere Date",
+        "url": "https://www.soompi.com/article/1888256wpp/watch-family-matters-announces-return-with-season-2-premiere-date"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1888256wpp/watch-family-matters-announces-return-with-season-2-premiere-date",
+          "chars": 1563,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/408/0000328326",
+          "chars": 1339,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [
+          "Season 1 topped Coupang Play's popular titles chart for eight consecutive weeks, and its viewing volume rose 425% from its opening score."
+        ],
+        "checkedAt": "2026-11-18T04:28:45.061Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/967af7323254.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/18111826/family-matters-2-.png",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Family Matters Season 2 Sets December Premiere With New Teaser",
+      "dek": "Bae Doona's Young Soo and her family return in December, with Park Byung Eun joining the cast as Uncle Cheol Yong.",
+      "body": [
+        "Family Matters will return for a second season on December 18 at 8 p.m. KST, Soompi reports. A new poster and teaser introduce the family's next chapter in a new city, where they will confront the past and pursue revenge.",
+        "The series stars Bae Doona as Young Soo, a mother who can edit people's memories. She uses that ability alongside her family to take on villains. In Season 2, the family faces the truth about its past while searching for the source of the evil it is up against.",
+        "The teaser brings in Park Byung Eun as Uncle Cheol Yong, who appears in a mustache and wig as he joins the family's operation. Baek Yoon Sik also returns as grandfather Kang Sung.",
+        "Younger family members Ji Hoon, played by Lomon, and Ji Woo, played by Lee Su Hyun, are shown in action at the prestigious Gwangin High School. The family members each move in their own way as their plans unfold.",
+        "The poster puts Young Soo front and center between two blenders, with her familiar line, \"Now, pay attention.\" Family Matters 2 will premiere on Coupang Play."
+      ],
+      "socialCaption": "Young Soo's family is preparing for another fight. Read on HallyuScope for the Family Matters 2 premiere date and teaser details.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#FamilyMatters",
+        "#BaeDoona",
+        "#ParkByungEun",
+        "#Lomon"
+      ],
+      "seoDescription": "Family Matters Season 2 premieres December 18, with Bae Doona returning and Park Byung Eun joining the family. See what the new teaser reveals.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "0d642affe718",
+      "createdAt": "2026-11-18T04:28:55.159Z",
+      "status": "published",
+      "publishedAt": "2026-11-18T04:28:55.159Z",
+      "sourcePublishedAt": "2026-11-17T23:21:00.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "rescene-leads-november-idol-group-brand-reputation-rankings-for-third-month",
+      "source": {
+        "publisher": "Soompi",
+        "title": "November Idol Group Brand Reputation Rankings Announced",
+        "url": "https://www.soompi.com/article/1888239wpp/november-idol-group-brand-reputation-rankings-announced-6"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1888239wpp/november-idol-group-brand-reputation-rankings-announced-6",
+          "chars": 1531,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "The group's keyword analysis included “With,” “nation's girl group” and “album,” while related terms included “appear on,” “sold out” and “advertise.”"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-18T04:28:55.159Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/0d642affe718.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/18091818/RESCENE-BTS-ATEEZ.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "TRENDING",
+      "headline": "RESCENE Leads November Idol Group Brand Reputation Rankings for Third Month",
+      "dek": "BTS and ATEEZ held second and third place, while ILLIT climbed to fourth after a sharp rise in its index.",
+      "body": [
+        "RESCENE has topped the Korean Business Research Institute's idol group brand reputation rankings for the third consecutive month, with BTS and ATEEZ following in second and third place.",
+        "The November rankings measure consumer participation, media coverage, interaction and community awareness using data collected from October 18 to November 18, Soompi reported.",
+        "RESCENE recorded a brand reputation index of 8,590,984. The group's keyword analysis included “With,” “nation's girl group” and “album,” while related terms included “appear on,” “sold out” and “advertise.” The institute's positivity-negativity analysis found that 97.91 percent of reactions were positive.",
+        "BTS remained in second place with an index of 7,169,939. ATEEZ also retained its position in third, scoring 4,521,142, up 13.46 percent from October.",
+        "ILLIT rose to fourth with an index of 3,798,014, a 175.54 percent increase from the previous month. IVE rounded out the top five with 3,637,685, an increase of 0.17 percent from October."
+      ],
+      "socialCaption": "RESCENE leads the November idol group brand reputation rankings for a third straight month. Read on HallyuScope for the top five and their scores.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#RESCENE",
+        "#BTS",
+        "#ATEEZ",
+        "#ILLIT"
+      ],
+      "seoDescription": "RESCENE leads November's idol group brand reputation rankings for a third month, followed by BTS, ATEEZ, ILLIT and IVE in the top five.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "b6a948033577",
+      "createdAt": "2026-11-18T04:29:09.320Z",
+      "status": "published",
+      "publishedAt": "2026-11-18T04:29:09.320Z",
+      "sourcePublishedAt": "2026-11-17T21:32:00.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "park-min-young-yook-sungjae-and-go-soo-introduce-their-office-romance-characters-in-nine-t",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Park Min Young, Yook Sungjae, And Go Soo Form A Love Triangle In &#8220;Nine To Six&#8221;",
+        "url": "https://www.soompi.com/article/1888219wpp/park-min-young-yook-sungjae-and-go-soo-form-a-love-triangle-in-nine-to-six"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1888219wpp/park-min-young-yook-sungjae-and-go-soo-form-a-love-triangle-in-nine-to-six",
+          "chars": 1586,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/311/0002081288",
+          "chars": 1190,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "grow in their careers and personal lives",
+          "It's not like dating is necessary, is it?"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-18T04:29:09.319Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/b6a948033577.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/18082906/Nine-to-Six-4.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Park Min Young, Yook Sungjae and Go Soo Introduce Their Office Romance Characters in Nine to Six",
+      "dek": "New character posters preview three different personalities at the heart of SBS's upcoming workplace romance.",
+      "body": [
+        "SBS has unveiled character posters for “Nine to Six,” introducing Park Min Young, BTOB's Yook Sungjae and Go Soo as three colleagues whose lives become intertwined at the office.",
+        "The romance follows Kang Yi Ji, a woman who has long focused on proving herself through work. After meeting the warm and thoughtful Han Seon Woo, she begins to reconsider her approach to love and happiness as they grow in their careers and personal lives.",
+        "Park Min Young plays Kang Yi Ji, a legal team deputy manager with 10 years of experience. Confident and difficult to shake, she has made work a priority over dating. Her poster captures that attitude with a direct question: “It's not like dating is necessary, is it?”",
+        "Yook Sungjae's Han Seon Woo is an intern on the same legal team. While his poster highlights his gentle smile and caring nature, it also hints at his confidence when pursuing someone he likes. Go Soo plays Park Hyun Tae, a cool-headed division head who places a premium on competence.",
+        "The three posters set up a contrast between Kang Yi Ji's logic, Han Seon Woo's warmth and Park Hyun Tae's rational outlook, as their characters navigate relationships in the same workplace.",
+        "“Nine to Six” premieres November 25 at 9 p.m. KST on SBS."
+      ],
+      "socialCaption": "Park Min Young, Yook Sungjae and Go Soo head to the office in new Nine to Six posters. Read on HallyuScope for a closer look at their characters.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#NineToSix",
+        "#ParkMinYoung",
+        "#YookSungjae",
+        "#GoSoo"
+      ],
+      "seoDescription": "Park Min Young, Yook Sungjae and Go Soo introduce their workplace romance characters in new posters for SBS drama Nine to Six, premiering November 25.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "69dbfd49ed04",
       "createdAt": "2026-11-17T22:56:52.121Z",
