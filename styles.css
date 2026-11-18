@@ -710,6 +710,9 @@ button,input{font:inherit;color:inherit}
 .album-search input{width:100%;padding:10px 14px;border:1px solid var(--hair);background:var(--paper);font:500 14px/1.4 var(--f);color:var(--ink)}
 .album-search input:focus{outline:2px solid var(--pink);outline-offset:2px;border-color:var(--ink)}
 .album-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px;padding:24px 0 8px}
+@media(min-width:1024px){.album-grid{grid-template-columns:repeat(4,1fr)}}
+a.album-card{text-decoration:none;color:inherit}
+a.album-detail-back{text-decoration:none;color:inherit;display:inline-block}
 .album-card{border:1px solid var(--hair);padding:20px;display:flex;flex-direction:column;gap:6px;transition:border-color .2s}
 .album-card:hover{border-color:var(--ink)}
 .album-card:hover h3{color:var(--navy)}

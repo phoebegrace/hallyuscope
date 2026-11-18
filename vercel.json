@@ -20,6 +20,14 @@
     {
       "source": "/article",
       "destination": "/api/article"
+    },
+    {
+      "source": "/album/:slug",
+      "destination": "/api/album?slug=:slug"
+    },
+    {
+      "source": "/album",
+      "destination": "/api/album"
     }
   ],
   "headers": [
