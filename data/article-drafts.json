@@ -1,8 +1,133 @@
 {
-  "updatedAt": "2026-11-19T13:06:33.151Z",
+  "updatedAt": "2026-11-19T13:21:04.186Z",
   "autoPublish": true,
   "note": "Auto-publish is ON. Newly generated HallyuScope articles publish immediately.",
   "items": [
+    {
+      "id": "6a0cec0c39d3",
+      "createdAt": "2026-11-19T13:20:48.428Z",
+      "status": "published",
+      "publishedAt": "2026-11-19T13:20:48.428Z",
+      "sourcePublishedAt": "2026-11-18T08:01:26.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "jin-young-and-cho-yi-hyun-rehearse-a-back-hug-in-new-summer-vacation-video",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: Jin Young And Cho Yi Hyun Get Bashful Over Their Back Hug Scene On Set Of “Summer Vacation”",
+        "url": "https://www.soompi.com/article/1888361wpp/watch-jin-young-and-cho-yi-hyun-get-bashful-over-their-back-hug-scene-on-set-of-summer-vacation"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1888361wpp/watch-jin-young-and-cho-yi-hyun-get-bashful-over-their-back-hug-scene-on-set-of-summer-vacation",
+          "chars": 1090,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "That’s why it feels even more awkward. But coincidentally, this scene happens to have that awkward excitement.",
+          "an ordinary high school student who has a mysterious experience during summer vacation before returning to reality"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-19T13:20:48.427Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/6a0cec0c39d3.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/18134250/summer-vacation-6.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Jin Young and Cho Yi Hyun Rehearse a Back Hug in New Summer Vacation Video",
+      "dek": "The actors shared a little first-day awkwardness as they filmed a romantic scene for the teen drama.",
+      "body": [
+        "Summer Vacation has released a behind-the-scenes video showing Jin Young and Cho Yi Hyun preparing for a back hug scene on their first day filming together.",
+        "The making-of clip follows the pair as they discuss the scene and rehearse with the director. Though they were initially shy about filming the embrace, they settled into the scene together, Soompi reported.",
+        "Asked about shooting a back hug on their first day together, Jin Young said, “That’s why it feels even more awkward. But coincidentally, this scene happens to have that awkward excitement.” Cho Yi Hyun agreed, and also praised his experience on set.",
+        "The teen romance stars Cho as Kim Ha Yeon, an ordinary high school student who has a mysterious experience during summer vacation before returning to reality. Jin Young plays Jo Yu Gyeom, a boy the same age as Ha Yeon.",
+        "Summer Vacation airs on Mondays and Tuesdays and is available with subtitles on Viki."
+      ],
+      "socialCaption": "Jin Young and Cho Yi Hyun got a little shy filming their first scene together. Read more about their Summer Vacation making-of video on HallyuScope.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#SummerVacation",
+        "#JinYoung",
+        "#ChoYiHyun",
+        "#KDrama"
+      ],
+      "seoDescription": "Jin Young and Cho Yi Hyun rehearse a back hug in a new Summer Vacation behind-the-scenes video, sharing how it felt to film together on day one.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "cf12ae692b37",
+      "createdAt": "2026-11-19T13:21:03.901Z",
+      "status": "published",
+      "publishedAt": "2026-11-19T13:21:03.901Z",
+      "sourcePublishedAt": "2026-11-18T07:42:14.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "sung-joon-takes-the-mound-as-gong-myoung-s-rival-in-on-your-ground",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Sung Joon Rises To The Top Through Hard Work As Gong Myoung’s Friend And Rival In “On Your Ground”",
+        "url": "https://www.soompi.com/article/1888364wpp/sung-joon-rises-to-the-top-through-hard-work-as-gong-myoungs-friend-and-rival-in-on-your-ground"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1888364wpp/sung-joon-rises-to-the-top-through-hard-work-as-gong-myoungs-friend-and-rival-in-on-your-ground",
+          "chars": 2564,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/408/0000328316",
+          "chars": 1384,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-19T13:21:03.900Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/cf12ae692b37.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/18133306/sung-joon_472264.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Sung Joon Takes the Mound as Gong Myoung's Rival in 'On Your Ground'",
+      "dek": "New stills introduce Sung Joon as a professional pitcher whose friendship with Gong Myoung's character faces a fresh test in MBC's upcoming romance.",
+      "body": [
+        "Sung Joon is stepping onto the baseball field in MBC's upcoming drama “On Your Ground,” with new stills offering a first look at his character, Yoon Yi Seok.",
+        "The actor plays a sidearm pitcher and ace for the professional team Miracles. Yoon Yi Seok has known Kang Hae Hwan, played by Gong Myoung, since high school, when the two shared the dream of becoming baseball players. Their paths to the sport, however, have been very different.",
+        "While Kang Hae Hwan attracted attention for his talent from an early age, Yoon Yi Seok spent years working through difficulties in the minor leagues. He kept developing his skills and eventually became his team's leading pitcher.",
+        "That history leaves Yoon Yi Seok with mixed feelings about his old friend. He cares for Kang Hae Hwan but also wants to beat him on the field, a tension that could reshape their relationship when Kang Hae Hwan attempts to return to baseball.",
+        "The drama follows Kang Hae Hwan after a setback stops his career. He begins working toward a comeback after meeting Seo Hee Seung, a former lawyer who has become a sports agent, played by Han Hyo Joo.",
+        "In the newly released images, Sung Joon wears the Miracles uniform as Yoon Yi Seok faces a batter on the mound. Another still shows the pitcher raising an arm in celebration.",
+        "“On Your Ground” is scheduled to premiere in December."
+      ],
+      "socialCaption": "Sung Joon and Gong Myoung play longtime friends with a competitive edge in “On Your Ground.” Read more about their characters on HallyuScope.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#SungJoon",
+        "#GongMyoung",
+        "#HanHyoJoo",
+        "#OnYourGround"
+      ],
+      "seoDescription": "Sung Joon plays a pitcher and Gong Myoung's longtime rival in MBC's “On Your Ground.” See what the new stills reveal about his character.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "61c7bbdbd3f1",
       "createdAt": "2026-11-19T13:03:18.538Z",

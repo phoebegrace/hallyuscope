@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T13:02:42.551Z",
+  "updatedAt": "2026-11-19T13:20:13.858Z",
   "sources": [
     {
       "source": "HYBE LABELS",
@@ -8,7 +8,7 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3IZKseVpdzPSBaWxBxundA",
       "ok": true,
       "count": 15,
-      "ms": 168
+      "ms": 487
     },
     {
       "source": "JYP Entertainment",
@@ -17,7 +17,7 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaO6TYtlC8U5ttz62hTrZgg",
       "ok": true,
       "count": 15,
-      "ms": 108
+      "ms": 235
     },
     {
       "source": "Soompi",
@@ -25,7 +25,7 @@
       "sourceClass": "publisher",
       "ok": true,
       "count": 60,
-      "ms": 333
+      "ms": 312
     },
     {
       "source": "Kpopmap",
@@ -33,7 +33,7 @@
       "sourceClass": "publisher",
       "ok": true,
       "count": 0,
-      "ms": 189
+      "ms": 225
     },
     {
       "source": "Google News · K-pop",
@@ -41,7 +41,7 @@
       "sourceClass": "publisher",
       "ok": true,
       "count": 100,
-      "ms": 563
+      "ms": 669
     },
     {
       "source": "Google News · PH concerts",
@@ -49,7 +49,7 @@
       "sourceClass": "publisher",
       "ok": true,
       "count": 31,
-      "ms": 477
+      "ms": 572
     },
     {
       "source": "Google News · comebacks",
@@ -57,7 +57,7 @@
       "sourceClass": "publisher",
       "ok": true,
       "count": 42,
-      "ms": 577
+      "ms": 619
     }
   ]
 }
