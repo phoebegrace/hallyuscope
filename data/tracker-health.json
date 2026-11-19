@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-19T04:29:31.706Z",
+  "checkedAt": "2026-11-19T13:51:32.361Z",
   "refreshMinutes": 30,
   "sources": [
     {
@@ -11,7 +11,7 @@
       "sourceClass": "official",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-19T04:29:31.706Z"
+      "checkedAt": "2026-11-19T13:51:32.361Z"
     },
     {
       "id": "live-nation-ph",
@@ -22,7 +22,7 @@
       "sourceClass": "official",
       "ok": false,
       "count": 0,
-      "checkedAt": "2026-11-19T04:29:31.706Z",
+      "checkedAt": "2026-11-19T13:51:32.361Z",
       "error": "No usable schedule records returned; keeping the last known dates."
     },
     {
@@ -34,7 +34,7 @@
       "sourceClass": "official",
       "ok": false,
       "count": 0,
-      "checkedAt": "2026-11-19T04:29:31.706Z",
+      "checkedAt": "2026-11-19T13:51:32.361Z",
       "error": "HTTP 403"
     },
     {
@@ -46,7 +46,7 @@
       "sourceClass": "publisher",
       "ok": true,
       "count": 43,
-      "checkedAt": "2026-11-19T04:29:31.706Z"
+      "checkedAt": "2026-11-19T13:51:32.361Z"
     }
   ],
   "concerts": {
@@ -57,7 +57,7 @@
   },
   "comebacks": {
     "records": 67,
-    "added": 1,
+    "added": 0,
     "changed": 0,
     "successfulSources": 1
   }
