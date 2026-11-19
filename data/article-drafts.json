@@ -1,8 +1,956 @@
 {
-  "updatedAt": "2026-11-19T12:37:58.866Z",
+  "updatedAt": "2026-11-19T13:06:33.151Z",
   "autoPublish": true,
   "note": "Auto-publish is ON. Newly generated HallyuScope articles publish immediately.",
   "items": [
+    {
+      "id": "61c7bbdbd3f1",
+      "createdAt": "2026-11-19T13:03:18.538Z",
+      "status": "published",
+      "publishedAt": "2026-11-19T13:03:18.538Z",
+      "sourcePublishedAt": "2026-11-19T12:10:26.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "joohoney-and-jeongyeon-navigate-amsterdam-in-just-human-friends-preview",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: Joohoney, Jeongyeon, And More Get Lost On Their Way To Their Amsterdam Accommodations In “Just Human Friends”",
+        "url": "https://www.soompi.com/article/1888927wpp/watch-joohoney-jeongyeon-and-more-get-lost-on-their-way-to-their-amsterdam-accommodations-in-just-human-friends"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1888927wpp/watch-joohoney-jeongyeon-and-more-get-lost-on-their-way-to-their-amsterdam-accommodations-in-just-human-friends",
+          "chars": 2000,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "Lee Seo Jin and Han Ji Min, who have been friends for 20 years, meet Joohoney and Jeongyeon, who have known each other for a decade."
+        ],
+        "missingKeyFacts": [
+          "Lee Seo Jin is surprised by the veteran actors’ entrance after speaking casually about the mystery guests.",
+          "Kim Yong Gun and Park Jung Soo eventually lose patience as the group struggles to find its way."
+        ],
+        "checkedAt": "2026-11-19T13:03:18.537Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/61c7bbdbd3f1.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/19211022/just-human-friends-01-1.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Joohoney and Jeongyeon Navigate Amsterdam in ‘Just Human Friends’ Preview",
+      "dek": "The first episode preview introduces three pairs of longtime celebrity friends before a confusing trip to their Amsterdam accommodations.",
+      "body": [
+        "MONSTA X’s Joohoney and TWICE’s Jeongyeon are joining four actors for a trip built around longtime friendships in tvN’s upcoming variety show “Just Human Friends.” A new first episode preview offers a look at the cast’s introductions and an early navigation challenge in Amsterdam.",
+        "The show brings together three pairs: Lee Seo Jin and Han Ji Min, Kim Yong Gun and Park Jung Soo, and Joohoney and Jeongyeon. The friends travel together, sharing conversations and stories from their years of knowing one another. Na Young Suk and Shin Gun Joon direct the series.",
+        "In the preview, Lee Seo Jin and Han Ji Min, who have been friends for 20 years, meet Joohoney and Jeongyeon, who have known each other for a decade. The four try to work out who else will join them before Kim Yong Gun and Park Jung Soo arrive.",
+        "Once all six reach Amsterdam, finding their accommodations proves less straightforward. Joohoney takes charge of navigation, but the group has trouble locating the tram stop. He and several castmates check maps and signs as they search for the way, while Kim Yong Gun and Park Jung Soo follow with their luggage. Joohoney apologizes as the group struggles to find the route.",
+        "“Just Human Friends” premieres November 27 at 8:35 p.m. KST."
+      ],
+      "socialCaption": "Joohoney, Jeongyeon and their fellow castmates have a tricky start in Amsterdam. Read more about the preview on HallyuScope.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#JustHumanFriends",
+        "#Joohoney",
+        "#Jeongyeon",
+        "#MONSTAX"
+      ],
+      "seoDescription": "Joohoney and Jeongyeon join four actors on tvN’s Just Human Friends, with a first episode preview showing their search for an Amsterdam tram stop.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "115e4e3c6997",
+      "createdAt": "2026-11-19T13:03:34.644Z",
+      "status": "published",
+      "publishedAt": "2026-11-19T13:03:34.644Z",
+      "sourcePublishedAt": "2026-11-19T08:32:11.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "new-recruit-film-teaser-sends-soldiers-into-a-haunted-military-hospital",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: “New Recruit: Haunted Military Hospital” Soldiers Face Unexpected Horrors During Their Hospital Stay In New Film Teaser",
+        "url": "https://www.soompi.com/article/1888759wpp/watch-new-recruit-haunted-military-hospital-soldiers-face-unexpected-horrors-during-their-hospital-stay-in-new-film-teaser"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1888759wpp/watch-new-recruit-haunted-military-hospital-soldiers-face-unexpected-horrors-during-their-hospital-stay-in-new-film-teaser",
+          "chars": 2067,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/movie/article/052/0002434971",
+          "chars": 1060,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "repeats the same words as he stares into space"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-19T13:03:34.643Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/115e4e3c6997.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/19122410/new-recruit-haunted-military-hospital-13.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "New Recruit Film Teaser Sends Soldiers Into a Haunted Military Hospital",
+      "dek": "The first teaser for “New Recruit: Haunted Military Hospital” turns a hoped-for break into a frightening stay for a group of recruits.",
+      "body": [
+        "The soldiers of “New Recruit” are headed to the big screen, where a stay at a military hospital brings more than the rest they had hoped for. The first teaser for the spin-off film “New Recruit: Haunted Military Hospital” introduces a series of unsettling encounters ahead of its December 30 theatrical release.",
+        "As Soompi reports, the film follows a group of recruits who check into the hospital expecting a respite, only to hear disturbing rumors and investigate the facility’s secrets. The story expands the world of the “New Recruit” series, which has followed military life across multiple seasons.",
+        "The teaser opens with a mysterious soldier asking the group whether they have noticed anything strange. Among them are Park Min Seok, played by Kim Min Ho, Choi Il Gu, played by Nam Tae Woo, and Seong Yun Mo, played by Kim Hyun Kyu.",
+        "Park becomes frightened after seeing patient Yoo Jae Hoon, played by Ryu Kyung Soo, behaving strangely near the morgue at night. Elsewhere, Kang Chan Seok, played by Lee Jung Hyun, starts eating voraciously, while Jang Sung Bum’s Kim Dong Woo repeats the same words as he stares into space.",
+        "With talk of vengeful spirits haunting the hospital, Seong leads the group in a ritual intended to stop the nightly disturbances. The recruits must also find a way back to their barracks as they encounter unfamiliar faces."
+      ],
+      "socialCaption": "A hospital break takes a frightening turn in the first teaser for the “New Recruit” film. Read on HallyuScope for the story and cast details.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#NewRecruit",
+        "#HauntedMilitaryHospital",
+        "#KimMinHo",
+        "#RyuKyungSoo"
+      ],
+      "seoDescription": "The first teaser for New Recruit: Haunted Military Hospital follows soldiers facing eerie encounters ahead of the film's December 30 release.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "9a8a31302eb9",
+      "createdAt": "2026-11-19T13:03:49.215Z",
+      "status": "published",
+      "publishedAt": "2026-11-19T13:03:49.215Z",
+      "sourcePublishedAt": "2026-11-19T07:59:59.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "ji-chang-wook-and-nct-wish-s-sion-team-up-for-japan-travel-show",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Ji Chang Wook And NCT WISH’s Sion Go On A Japan Trip Together In New Variety Show &#8220;Ojisan And The Flower Boy&#8221;",
+        "url": "https://www.soompi.com/article/1888878wpp/ji-chang-wook-and-nct-wishs-sion-go-on-a-japan-trip-together-in-new-variety-show"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1888878wpp/ji-chang-wook-and-nct-wishs-sion-go-on-a-japan-trip-together-in-new-variety-show",
+          "chars": 1543,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/home/article/382/0001305623",
+          "chars": 932,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "in their pajamas just after waking up"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-19T13:03:49.214Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/9a8a31302eb9.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/19165832/Ojisan-to-Bishonen-1.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Ji Chang Wook and NCT WISH's Sion Team Up for Japan Travel Show",
+      "dek": "The five-episode variety series \"Ojisan and the Flower Boy\" will debut on Japan's TELASA on December 24.",
+      "body": [
+        "Actor Ji Chang Wook and NCT WISH leader Sion are heading to Yamanashi and Odawara together in the new travel variety show \"Ojisan and the Flower Boy,\" Soompi reported.",
+        "The five-episode series follows the pair over a three-day, two-night trip as they get to know each other. Their itinerary includes train rides, walks through the streets, cafe visits and glamping.",
+        "Both are initially awkward around each other, but grow closer as the trip continues. The show also explores differences in their tastes, shaped by their 15-year age gap and their work in different fields.",
+        "Viewers will see Sion visit places he has long wanted to see, as well as the two stars in their pajamas just after waking up. The trip marks the actor and K-pop idol's first time appearing together on a variety show.",
+        "Co-produced by SLL JAPAN and TELASA, \"Ojisan and the Flower Boy\" will premiere exclusively in Japan on December 24. Its first two episodes will be released at 9 a.m. JST. Release plans for other countries will be announced later."
+      ],
+      "socialCaption": "Ji Chang Wook and NCT WISH's Sion are traveling together for a new variety show. Read on HallyuScope for the premiere details.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#JiChangWook",
+        "#Sion",
+        "#NCTWISH",
+        "#OjisanAndTheFlowerBoy"
+      ],
+      "seoDescription": "Ji Chang Wook and NCT WISH's Sion travel across Japan in the new variety show Ojisan and the Flower Boy, premiering on TELASA on December 24.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "fe4d92d45043",
+      "createdAt": "2026-11-19T13:04:04.224Z",
+      "status": "published",
+      "publishedAt": "2026-11-19T13:04:04.224Z",
+      "sourcePublishedAt": "2026-11-19T06:51:36.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "kim-shin-rock-leads-a-sports-agency-in-first-on-your-ground-stills",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Kim Shin Rock Transforms Into A Sports Agency CEO In New Drama “On Your Ground”",
+        "url": "https://www.soompi.com/article/1888776wpp/kim-shin-rock-transforms-into-a-sports-agency-ceo-in-new-drama-on-your-ground"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1888776wpp/kim-shin-rock-transforms-into-a-sports-agency-ceo-in-new-drama-on-your-ground",
+          "chars": 2390,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/408/0000328430",
+          "chars": 1408,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "She takes an active role in helping Kang Hae Hwan"
+        ],
+        "missingKeyFacts": [
+          "The drama is scheduled to air on Fridays and Saturdays."
+        ],
+        "checkedAt": "2026-11-19T13:04:04.223Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/fe4d92d45043.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/19130935/kim-shin-rock.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "K-DRAMA NEWS",
+      "headline": "Kim Shin Rock Leads a Sports Agency in First 'On Your Ground' Stills",
+      "dek": "The actor plays an influential baseball agent who helps a struggling pitcher and mentors a former lawyer in MBC's upcoming romance.",
+      "body": [
+        "Kim Shin Rock is stepping into the world of baseball management in MBC's upcoming drama \"On Your Ground.\" The first stills of her character introduce Dong Chi Young, the CEO of sports agency Donghaeng.",
+        "The romance follows pitcher Kang Hae Hwan, played by Gong Myoung, whose career stalls after a setback. He begins working toward a return to the field after meeting Seo Hee Seung, a former lawyer turned sports agent played by Han Hyo Joo.",
+        "Dong Chi Young is an established agent known for spotting players' potential and negotiating major contracts. She takes an active role in helping Kang Hae Hwan through his slump, while also drawing on her experience to guide Seo Hee Seung in her new career.",
+        "The newly released images show two sides of the agency CEO. In one, she faces forward with her hands on her hips. Another shows her smiling at her office desk, offering a warmer look at the character.",
+        "According to Soompi, the production team said Kim will show a different side from her previous roles, portraying both Dong Chi Young's commanding presence and her warmth. The drama will also follow the contracts and negotiations that take place away from the field.",
+        "\"On Your Ground\" is scheduled to premiere in December."
+      ],
+      "socialCaption": "Kim Shin Rock is a baseball agency CEO in the first stills from On Your Ground. Read on HallyuScope for more about her role and the drama.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#KimShinRock",
+        "#OnYourGround",
+        "#HanHyoJoo",
+        "#GongMyoung"
+      ],
+      "seoDescription": "Kim Shin Rock plays a baseball agency CEO in MBC's On Your Ground, starring Han Hyo Joo and Gong Myoung. See what the first character stills reveal.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "476fa9feb9fd",
+      "createdAt": "2026-11-19T13:04:18.028Z",
+      "status": "published",
+      "publishedAt": "2026-11-19T13:04:18.028Z",
+      "sourcePublishedAt": "2026-11-19T03:02:25.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "the-remarried-empress-cast-shares-playful-moments-in-new-behind-the-scenes-video",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: Shin Min Ah, Ju Ji Hoon, Lee Jong Suk, And Lee Se Young Show Playful Chemistry On Set Of &#8220;The Remarried Empress&#8221;",
+        "url": "https://www.soompi.com/article/1888729wpp/watch-shin-min-ah-ju-ji-hoon-lee-jong-suk-and-lee-se-young-show-playful-chemistry-on-set-of-the-remarried-empress"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1888729wpp/watch-shin-min-ah-ju-ji-hoon-lee-jong-suk-and-lee-se-young-show-playful-chemistry-on-set-of-the-remarried-empress",
+          "chars": 1689,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [
+          "The behind-the-scenes video shows horseback riding practice."
+        ],
+        "copiedPhrases": [
+          "jumping off with ease",
+          "I thought I wouldn’t be able to go home if I didn’t practice.",
+          "talking as if they are still in character"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-19T13:04:18.028Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/476fa9feb9fd.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/19115331/remarried-empress-2-1-1.png",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "The Remarried Empress Cast Shares Playful Moments in New Behind-the-Scenes Video",
+      "dek": "Shin Min Ah, Ju Ji Hoon, Lee Jong Suk and Lee Se Young appear in a making-of video from episodes 5 and 6.",
+      "body": [
+        "A new behind-the-scenes video for The Remarried Empress takes viewers from horseback riding practice to a sword scene, with plenty of playful moments among its stars.",
+        "As Soompi reports, the footage from episodes 5 and 6 opens with Lee Jong Suk choosing a rose and considering the meaning of the props. He later shows off his riding skills, bringing his horse to a stop and jumping off with ease.",
+        "Lee says he practiced riding for about two months before filming. Joking about his preparation, he says, “I thought I wouldn’t be able to go home if I didn’t practice.”",
+        "Between takes, Shin Min Ah tends to her horse and smiles at the behind-the-scenes camera. Lee Jong Suk also calls out to the camera, asking it to make some noise.",
+        "In another exchange, Lee Se Young improvises a question about why Lee Jong Suk is not speaking. He playfully replies that he is an actor who tends to follow the script. The two continue talking as if they are still in character, while Shin Min Ah smiles at Lee Se Young’s performance during rehearsals.",
+        "The video also follows Ju Ji Hoon and Lee Jong Suk as they work through an action sequence. Ju Ji Hoon offers his co-star advice, and his sword flies out of his hand during filming. Lee Se Young, in character as Rashta, shows support for Ju Ji Hoon’s Sovieshu.",
+        "Episodes 7 and 8 of The Remarried Empress are scheduled for release on November 18 at 5 p.m. KST."
+      ],
+      "socialCaption": "The Remarried Empress cast goes from horseback riding to sword work in a new making-of video. Read on HallyuScope for the highlights.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#TheRemarriedEmpress",
+        "#ShinMinAh",
+        "#LeeJongSuk",
+        "#LeeSeYoung"
+      ],
+      "seoDescription": "See highlights from The Remarried Empress making-of video, featuring Shin Min Ah, Ju Ji Hoon, Lee Jong Suk and Lee Se Young on set.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "22c721938f7f",
+      "createdAt": "2026-11-19T13:04:32.654Z",
+      "status": "published",
+      "publishedAt": "2026-11-19T13:04:32.654Z",
+      "sourcePublishedAt": "2026-11-19T02:38:08.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "netflix-confirms-physical-asia-season-2-for-2027",
+      "source": {
+        "publisher": "Soompi",
+        "title": "&#8220;Physical: Asia&#8221; Confirms Plans For Season 2",
+        "url": "https://www.soompi.com/article/1888672wpp/physical-asia-confirms-plans-for-season-2"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1888672wpp/physical-asia-confirms-plans-for-season-2",
+          "chars": 2079,
+          "depth": 1
+        },
+        {
+          "publisher": "Netflix",
+          "url": "https://about.netflix.com/en/news/physical-asia-season-two",
+          "chars": 1835,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "each spent two consecutive weeks in Netflix's Global Top 10 after their releases"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-19T13:04:32.653Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/22c721938f7f.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/19113241/physical-asia-unbroken_92875c.jpeg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Netflix confirms Physical: Asia season 2 for 2027",
+      "dek": "The international competition will return with new athletes and challenges under the title Physical: Asia 2 - Unbroken.",
+      "body": [
+        "Physical: Asia is coming back for a second season in 2027, Netflix has confirmed. Titled Physical: Asia 2 - Unbroken, the new installment will continue the competition between athletes representing Asian countries.",
+        "The first season premiered in October 2025 as the Physical franchise's first international team competition. Its challenges drew on aspects of Korean and other Asian cultures, while putting competitors' teamwork and strategy to the test.",
+        "Season 2 will introduce new athletes, quests and matchups. Producer Jang Ho-gi said the team has designed a different setting from previous installments and developed challenges intended to become new signatures of the series.",
+        "Jang also said the producers hope to showcase strategies and outcomes distinctive to a competition between nations, rather than simply making the show bigger.",
+        "The renewal comes as the Physical franchise expands internationally. Local versions in Mexico and Italy each spent two consecutive weeks in Netflix's Global Top 10 after their releases, according to the streamer. Versions for the United States, France and Sweden are also in the works, while Physical: 100: Mexico has been renewed for a second season."
+      ],
+      "socialCaption": "Physical: Asia is returning in 2027 with new competitors and challenges. Read more on HallyuScope about Netflix's plans for season 2.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#PhysicalAsia",
+        "#PhysicalAsia2",
+        "#Physical100",
+        "#NetflixKorea"
+      ],
+      "seoDescription": "Netflix confirms Physical: Asia will return in 2027 with new athletes and challenges as the international competition enters its second season.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "d02f7704fdbb",
+      "createdAt": "2026-11-19T13:04:45.186Z",
+      "status": "published",
+      "publishedAt": "2026-11-19T13:04:45.186Z",
+      "sourcePublishedAt": "2026-11-19T02:17:14.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "park-min-young-turns-to-yook-sungjae-for-help-in-new-nine-to-six-teaser",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: Park Min Young Begins To Rely On Yook Sungjae In &#8220;Nine To Six&#8221; Teaser",
+        "url": "https://www.soompi.com/article/1888640wpp/watch-park-min-young-begins-to-rely-on-yook-sungjae-in-nine-to-six-teaser"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1888640wpp/watch-park-min-young-begins-to-rely-on-yook-sungjae-in-nine-to-six-teaser",
+          "chars": 1517,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-19T13:04:45.185Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/d02f7704fdbb.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/19102811/nine-to-six-1.png",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "Park Min Young Turns to Yook Sungjae for Help in New Nine to Six Teaser",
+      "dek": "The upcoming SBS romance follows a work-focused professional and a new graduate as they navigate their careers and grow closer.",
+      "body": [
+        "Park Min Young and Yook Sungjae are preparing to share the screen in Nine to Six, an SBS romance drama set to premiere on November 25 at 9 p.m. KST.",
+        "A new teaser for the first episode introduces Park as Kang Yi Ji, a workaholic who has put romance aside to concentrate on her career. Yook plays Han Sun Woo, a warm and thoughtful new graduate whose arrival challenges her to open up.",
+        "The preview begins with Sun Woo heading to work as Yi Ji notes that he has no internship experience. He remains determined to do well, even as pressure builds around a fire incident at Chronic Motors.",
+        "Jung Hae Kyun plays Song Byeong Je, the head of the company's Korean branch, who warns that someone will have to take responsibility. Yi Ji responds to the mounting pressure with confidence, promising to finish the work in two days.",
+        "But the teaser also shows a more vulnerable side of Yi Ji when she asks Sun Woo for help. His response, promising to stand by her, hints at a relationship that will develop alongside their professional lives."
+      ],
+      "socialCaption": "Park Min Young and Yook Sungjae face workplace pressure in the new Nine to Six teaser. Read more about their characters on HallyuScope.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#NineToSix",
+        "#ParkMinYoung",
+        "#YookSungjae",
+        "#SBSDrama"
+      ],
+      "seoDescription": "Park Min Young and Yook Sungjae navigate workplace pressure and a growing bond in a new teaser for the upcoming SBS drama Nine to Six.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "a9e5260425d8",
+      "createdAt": "2026-11-19T13:04:58.910Z",
+      "status": "published",
+      "publishedAt": "2026-11-19T13:04:58.910Z",
+      "sourcePublishedAt": "2026-11-18T18:44:00.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "team-and-boynextdoor-earn-platinum-album-certifications-in-japan",
+      "source": {
+        "publisher": "Soompi",
+        "title": "&#038;TEAM And BOYNEXTDOOR Earn RIAJ Platinum Certifications In Japan",
+        "url": "https://www.soompi.com/article/1888605wpp/team-and-boynextdoor-earn-riaj-platinum-certifications-in-japan"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1888605wpp/team-and-boynextdoor-earn-riaj-platinum-certifications-in-japan",
+          "chars": 540,
+          "depth": 1
+        },
+        {
+          "publisher": "Riaj",
+          "url": "https://www.riaj.or.jp/data/gd/",
+          "chars": 447,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [
+          "Both certified releases are Korean-language mini albums."
+        ],
+        "copiedPhrases": [
+          "latest batch of official certifications",
+          "gold at 100,000 units shipped and platinum at 250,000"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-19T13:04:58.910Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/a9e5260425d8.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/19060523/TEAM-BOYNEXTDOOR.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "&TEAM and BOYNEXTDOOR Earn Platinum Album Certifications in Japan",
+      "dek": "&TEAM's \"Mark on Me\" received double platinum certification from the RIAJ, while BOYNEXTDOOR's \"The Action\" went platinum.",
+      "body": [
+        "&TEAM and BOYNEXTDOOR have picked up new Recording Industry Association of Japan certifications for their Korean mini albums.",
+        "As reported by Soompi, &TEAM's \"Mark on Me\" was certified double platinum after shipping more than 500,000 units in Japan. BOYNEXTDOOR's \"The Action\" received a platinum certification for shipments of more than 250,000 units.",
+        "The two releases were included in the RIAJ's latest batch of official certifications. Under the association's thresholds, an album qualifies for gold at 100,000 units shipped and platinum at 250,000.",
+        "The RIAJ awards its gold disc certifications based on cumulative net shipments since a release's launch, following applications from member companies. The association generally announces each month's certified titles on the 10th of the following month.",
+        "Both certified releases are Korean-language mini albums, with &TEAM reaching the double platinum tier and BOYNEXTDOOR reaching platinum in the Japanese market."
+      ],
+      "socialCaption": "&TEAM and BOYNEXTDOOR have earned new album certifications in Japan. Read on HallyuScope for the shipment milestones behind each award.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#andTEAM",
+        "#BOYNEXTDOOR",
+        "#MarkOnMe",
+        "#TheAction"
+      ],
+      "seoDescription": "&TEAM's Mark on Me and BOYNEXTDOOR's The Action earn RIAJ certifications in Japan, reaching double platinum and platinum shipment milestones.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "3b82f987ba65",
+      "createdAt": "2026-11-19T13:05:12.868Z",
+      "status": "published",
+      "publishedAt": "2026-11-19T13:05:12.868Z",
+      "sourcePublishedAt": "2026-11-18T17:57:00.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "a2o-lite-s-neon-leads-circle-charts-as-nct-wish-and-tws-top-album-rankings",
+      "source": {
+        "publisher": "Soompi",
+        "title": "A2O LITE, NCT WISH, TWS, ILLIT, RESCENE, And Onew &#038; Zico Top Circle Monthly And Weekly Charts",
+        "url": "https://www.soompi.com/article/1888586wpp/a2o-lite-nct-wish-tws-illit-rescene-and-onew-zico-top-circle-monthly-and-weekly-charts"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1888586wpp/a2o-lite-nct-wish-tws-illit-rescene-and-onew-zico-top-circle-monthly-and-weekly-charts",
+          "chars": 4097,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-19T13:05:12.868Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/3b82f987ba65.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/19054506/A2O-LITE-NCT-WISH-ILLIT.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "TRENDING",
+      "headline": "A2O LITE’s ‘NEON’ Leads Circle Charts as NCT WISH and TWS Top Album Rankings",
+      "dek": "The latest Circle rankings also saw RESCENE sweep the weekly download chart and ILLIT lead both social charts.",
+      "body": [
+        "A2O LITE’s “NEON” claimed three No. 1 spots on Circle’s October charts, leading the overall digital, streaming and global K-pop rankings, Soompi reported. The debut single also topped those three categories on the weekly charts for a third consecutive week.",
+        "On the monthly album chart, NCT WISH entered at No. 1 with the mini album “I SPY.” PLAVE’s “HYPERDRIVE” followed at No. 2, while SEVENTEEN unit JxJ’s debut mini album “DREAMSCAPE” came in third. IVE’s “Looks Can Kill” and ILLIT’s “BREAK EVEN” completed the top five.",
+        "TWS led the weekly album chart with their single album “TO US,” ahead of P1Harmony’s “BLOW UP.” The WITHVUU version of RESCENE’s “PULSE” debuted at No. 3, followed by xikers’ “ROUTE ZERO : The CALLING” and AND2BLE’s “Sequence 02: Attraction.”",
+        "RESCENE made a strong showing across the song rankings. The group took all five top spots on the weekly download chart with tracks from “PULSE,” led by title track “With.” Their songs “LOVE ATTACK” and “Deja Vu” also placed third and fifth, respectively, on both the monthly digital and streaming charts.",
+        "SHINee’s Onew and Block B’s Zico led the monthly download chart with their collaboration “Tic Tac Toe.” ILLIT, meanwhile, held No. 1 on both the monthly and weekly social charts, with BTS at No. 2 on each.",
+        "On the weekly global K-pop chart, ILLIT’s “You’re Under Arrest” rose to No. 2 behind “NEON.” BESTie’s “Love Options” climbed to No. 3, followed by HUNTR/X’s “Golden” and BTS’s “SWIM.”"
+      ],
+      "socialCaption": "A2O LITE, NCT WISH, TWS and RESCENE are among the latest Circle chart leaders. Read on HallyuScope for the monthly and weekly highlights.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#A2OLITE",
+        "#NCTWISH",
+        "#TWS",
+        "#RESCENE"
+      ],
+      "seoDescription": "A2O LITE’s “NEON” leads Circle’s monthly and weekly charts, while NCT WISH, TWS, RESCENE and ILLIT also score No. 1 rankings.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "6bbf0336eb11",
+      "createdAt": "2026-11-19T13:05:24.519Z",
+      "status": "published",
+      "publishedAt": "2026-11-19T13:05:24.519Z",
+      "sourcePublishedAt": "2026-11-18T15:56:15.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "stray-kids-this-that-climbs-to-no-79-on-billboard-200",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Stray Kids&#8217; &#8220;THIS &#038; THAT&#8221; Jumps Back Into Top 80 Of Billboard 200 3 Months After Release",
+        "url": "https://www.soompi.com/article/1888528wpp/stray-kids-this-that-jumps-back-into-top-80-of-billboard-200-3-months-after-release"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1888528wpp/stray-kids-this-that-jumps-back-into-top-80-of-billboard-200-3-months-after-release",
+          "chars": 768,
+          "depth": 1
+        },
+        {
+          "publisher": "Billboard",
+          "url": "https://www.billboard.com/charts/top-album-sales/",
+          "chars": 8538,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "which ranks the most popular albums in the United States"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-19T13:05:24.518Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/6bbf0336eb11.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/19005403/Stray-Kids.jpeg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "Stray Kids' 'THIS & THAT' Climbs to No. 79 on Billboard 200",
+      "dek": "The group's 10th mini album rose 61 places in its 14th week on Billboard's U.S. albums chart.",
+      "body": [
+        "Stray Kids' “THIS & THAT” has returned to the top 80 of the Billboard 200 more than three months after its release.",
+        "Billboard revealed on November 17 local time that the group's 10th mini album climbed 61 spots to No. 79 in its 14th week on the chart, which ranks the most popular albums in the United States, Soompi reported. The EP entered the Billboard 200 at No. 1 in August.",
+        "“THIS & THAT” also moved back up to No. 4 on the Top Album Sales chart, placing it among the week's best-selling albums in the U.S. On the World Albums chart, it held its position at No. 3.",
+        "Stray Kids made gains on the Artist 100 as well. The group rose 15 places to No. 37, marking its 156th overall week on the chart."
+      ],
+      "socialCaption": "Stray Kids' “THIS & THAT” is back in the Billboard 200's top 80. Read on HallyuScope for its latest chart results.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#StrayKids",
+        "#THISandTHAT",
+        "#Billboard200",
+        "#Artist100"
+      ],
+      "seoDescription": "Stray Kids' THIS & THAT climbs to No. 79 on the Billboard 200 in its 14th week, while the group rises to No. 37 on the Artist 100 chart.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "2785b8a563ee",
+      "createdAt": "2026-11-19T13:05:37.549Z",
+      "status": "published",
+      "publishedAt": "2026-11-19T13:05:37.549Z",
+      "sourcePublishedAt": "2026-11-18T15:00:39.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "rescene-leads-november-rookie-idol-brand-reputation-rankings-for-fifth-month",
+      "source": {
+        "publisher": "Soompi",
+        "title": "November Rookie Idol Group Brand Reputation Rankings Announced",
+        "url": "https://www.soompi.com/article/1888544wpp/november-rookie-idol-group-brand-reputation-rankings-announced-4"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1888544wpp/november-rookie-idol-group-brand-reputation-rankings-announced-4",
+          "chars": 1367,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-19T13:05:37.548Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/2785b8a563ee.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/18235852/RESCENE-CORTIS-Hearts2Hearts.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "TRENDING",
+      "headline": "RESCENE Leads November Rookie Idol Brand Reputation Rankings for Fifth Month",
+      "dek": "CORTIS held second place, while Hearts2Hearts climbed to third in the Korean Business Research Institute's latest rankings.",
+      "body": [
+        "RESCENE has topped the rookie idol group brand reputation rankings for a fifth consecutive month, according to the Korean Business Research Institute.",
+        "Soompi reported that the group earned a brand reputation index of 7,898,338 for November. The institute's keyword analysis included \"PULSE,\" while its related terms included \"comeback,\" \"root for\" and \"buy.\" RESCENE also recorded 92.24 percent positive reactions in the institute's positivity-negativity analysis.",
+        "CORTIS remained in second place with an index of 3,369,825, up 34.21 percent from October. Hearts2Hearts rose to third with 2,890,823, an increase of 146.05 percent.",
+        "ILLIT moved up to fourth with a score of 1,588,367, following a 126.71 percent increase. KiiiKiii completed the top five at 1,341,585, up 16.72 percent from the previous month.",
+        "The rankings draw on data collected from October 4 to November 4, measuring consumer participation, media coverage, interaction and community awareness."
+      ],
+      "socialCaption": "RESCENE leads the rookie idol brand reputation rankings for a fifth month. Read on HallyuScope for the full top five.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#RESCENE",
+        "#CORTIS",
+        "#Hearts2Hearts",
+        "#ILLIT"
+      ],
+      "seoDescription": "RESCENE leads November's rookie idol brand reputation rankings, followed by CORTIS and Hearts2Hearts. See the scores for the full top five.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "6a378e15bfc0",
+      "createdAt": "2026-11-19T13:05:49.007Z",
+      "status": "published",
+      "publishedAt": "2026-11-19T13:05:49.007Z",
+      "sourcePublishedAt": "2026-11-18T14:14:43.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "illit-scales-back-promotions-as-members-recover-from-illness-and-injuries",
+      "source": {
+        "publisher": "Soompi",
+        "title": "ILLIT To Adjust Schedule + MAMA AWARDS Appearance After 3 Members Fall Ill",
+        "url": "https://www.soompi.com/article/1888529wpp/illit-to-adjust-schedule-mama-awards-appearance-after-3-members-fall-ill"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1888529wpp/illit-to-adjust-schedule-mama-awards-appearance-after-3-members-fall-ill",
+          "chars": 2210,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "the extent and format of the members' participation"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-19T13:05:49.007Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/6a378e15bfc0.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/18231311/ILLIT_d36185.jpeg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "TRENDING",
+      "headline": "ILLIT scales back promotions as members recover from illness and injuries",
+      "dek": "BELIFT LAB will also coordinate ILLIT's participation in the 2026 MAMA AWARDS with organizers.",
+      "body": [
+        "ILLIT will reduce its upcoming promotional activities after three members received medical care for high fevers and body aches, BELIFT LAB announced on November 18.",
+        "Yunah, Minju and Wonhee were advised by medical professionals to rest and recover, the agency said in a statement reported by Soompi. Wonhee and Iroha also need ongoing care for ankle injuries.",
+        "As a result, BELIFT LAB plans to scale back music show appearances for the group's fifth mini album, along with other promotional activities scheduled for the following week. The agency said the decision was made to prioritize the members' recovery.",
+        "ILLIT's participation in the 2026 MAMA AWARDS on November 20 is also under discussion. BELIFT LAB said it would coordinate with the awards organizers and adjust the extent and format of the members' participation according to their health on the day.",
+        "The same approach will apply to certain other official activities that had already been confirmed. In its statement, BELIFT LAB acknowledged that fans had been looking forward to the music shows and asked for their understanding. The agency added that it would support the members' recovery."
+      ],
+      "socialCaption": "ILLIT is scaling back promotions while members recover. Read on HallyuScope for the agency's update on music shows and MAMA.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#ILLIT",
+        "#GLLIT",
+        "#MAMAAWARDS",
+        "#BELIFTLAB"
+      ],
+      "seoDescription": "ILLIT will scale back fifth mini album promotions as members recover, while BELIFT LAB coordinates the group's 2026 MAMA AWARDS participation.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "89e099121636",
+      "createdAt": "2026-11-19T13:06:06.546Z",
+      "status": "published",
+      "publishedAt": "2026-11-19T13:06:06.546Z",
+      "sourcePublishedAt": "2026-11-18T11:36:07.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "pyo-ye-jin-and-lee-ki-taek-join-a-children-s-show-in-danger-in-after-the-show",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Pyo Ye Jin And Lee Ki Taek Team Up To Save A Children’s Show From Cancellation In “After The Show”",
+        "url": "https://www.soompi.com/article/1888515wpp/pyo-ye-jin-and-lee-ki-taek-team-up-to-save-a-childrens-show-from-cancellation-in-after-the-show"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1888515wpp/pyo-ye-jin-and-lee-ki-taek-team-up-to-save-a-childrens-show-from-cancellation-in-after-the-show",
+          "chars": 2533,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/home/article/109/0005641958",
+          "chars": 1062,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "explores love, breakups or personal growth through music encountered in everyday life"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-19T13:06:06.545Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/89e099121636.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/18203554/after-the-show-01.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Pyo Ye Jin and Lee Ki Taek Join a Children's Show in Danger in 'After the Show'",
+      "dek": "The KBS Drama Special romance follows a current affairs producer and a children's TV writer as they work on a program facing cancellation.",
+      "body": [
+        "Pyo Ye Jin and Lee Ki Taek are heading behind the scenes of a struggling children's program in the upcoming KBS drama special “After the Show.”",
+        "Pyo plays Na Hye Mi, a producer who has built her career in current affairs and believes in uncovering the truth. After working on “Report 60 Minutes,” she is reluctantly reassigned to “Bingu and Baengu,” a children's show on the verge of cancellation.",
+        "Lee plays Gu Jun Young, the program's kindhearted writer. Hye Mi initially clashes with him, but their relationship begins to change as they spend time together and work alongside the rest of the team.",
+        "New stills reported by Soompi offer a glimpse of their contrasting worlds. Hye Mi stands with her arms crossed and a serious expression, while Jun Young also appears unusually somber. Other images show Kang Hong Seok as Ki Bong Sik, who plays Baengu in a dog costume, and Jung Han Sol as the little mail carrier Im Min Sung.",
+        "The romance is the second installment of “Sound:Track,” a 2026 KBS Drama Special anthology of eight standalone stories. Each installment takes its name from a song and explores love, breakups or personal growth through music encountered in everyday life.",
+        "“After the Show” airs November 19 at 10 p.m. KST on KBS 2TV."
+      ],
+      "socialCaption": "Pyo Ye Jin and Lee Ki Taek play unlikely colleagues in “After the Show.” Read on HallyuScope for a look at their characters and the new drama's premiere.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#PyoYeJin",
+        "#LeeKiTaek",
+        "#AfterTheShow",
+        "#SoundTrack"
+      ],
+      "seoDescription": "Pyo Ye Jin and Lee Ki Taek star in KBS drama special After the Show, a romance set around a children's TV program facing cancellation.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "f8683fc64939",
+      "createdAt": "2026-11-19T13:06:20.288Z",
+      "status": "published",
+      "publishedAt": "2026-11-19T13:06:20.288Z",
+      "sourcePublishedAt": "2026-11-18T11:22:43.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "nct-dream-earns-first-music-show-win-for-boogie-woogie-on-show-champion",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: NCT DREAM Takes 1st Win For “Boogie Woogie” On &#8220;Show Champion&#8221;",
+        "url": "https://www.soompi.com/article/1888510wpp/watch-nct-dream-takes-1st-win-for-boogie-woogie-on-show-champion"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1888510wpp/watch-nct-dream-takes-1st-win-for-boogie-woogie-on-show-champion",
+          "chars": 680,
+          "depth": 1
+        },
+        {
+          "publisher": "T",
+          "url": "https://t.co/4yEtPQUPsk",
+          "chars": 647,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "The episode was a special broadcast featuring replays of past performances rather than the show’s usual live format."
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-19T13:06:20.287Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/f8683fc64939.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/18202228/nct-dream-nov-26.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "TRENDING",
+      "headline": "NCT DREAM earns first music show win for 'Boogie Woogie' on Show Champion",
+      "dek": "The group took the Champion Song award on a special episode featuring replays of past performances.",
+      "body": [
+        "NCT DREAM has picked up its first music show trophy for “Boogie Woogie,” winning the Champion Song award on the November 18 episode of “Show Champion.”",
+        "The episode was a special broadcast featuring replays of past performances rather than the show’s usual live format. The winner was announced at the end of the program.",
+        "According to Soompi, the other songs in contention were ATEEZ’s “UP,” IVE’s “Looks Can Kill,” RESCENE’s “With” and ILLIT’s “You’re Under Arrest.”",
+        "The show also shared the result on its official social media account, congratulating NCT DREAM on the win."
+      ],
+      "socialCaption": "NCT DREAM’s “Boogie Woogie” has its first music show win. Read on HallyuScope for the full list of Show Champion nominees.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#NCTDREAM",
+        "#BoogieWoogie",
+        "#ShowChampion",
+        "#ATEEZ"
+      ],
+      "seoDescription": "NCT DREAM wins its first music show trophy for “Boogie Woogie” on Show Champion, with ATEEZ, IVE, RESCENE and ILLIT also nominated.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "964a6414ca87",
+      "createdAt": "2026-11-19T13:06:33.085Z",
+      "status": "published",
+      "publishedAt": "2026-11-19T13:06:33.085Z",
+      "sourcePublishedAt": "2026-11-18T09:24:13.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "fin-k-l-opens-official-social-channels-and-shares-reunion-photos",
+      "source": {
+        "publisher": "Soompi",
+        "title": "FIN.K.L Opens Official Social Media Accounts For Reunion + Reveals New Profile Photos",
+        "url": "https://www.soompi.com/article/1888455wpp/fin-k-l-opens-official-social-media-accounts-for-reunion-reveals-new-profile-photos"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1888455wpp/fin-k-l-opens-official-social-media-accounts-for-reunion-reveals-new-profile-photos",
+          "chars": 1454,
+          "depth": 1
+        },
+        {
+          "publisher": "Starnewskorea",
+          "url": "https://www.starnewskorea.com/star/2026/11/18/2026111817302486468",
+          "chars": 1113,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "Just like the imagination we always dreamed of. Now!"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-19T13:06:33.084Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/964a6414ca87.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/18180555/official_finkl.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "FIN.K.L Opens Official Social Channels and Shares Reunion Photos",
+      "dek": "The first-generation K-pop group has released new profiles and handwritten messages ahead of a planned music and performance project.",
+      "body": [
+        "FIN.K.L has opened official social media channels and shared new group and individual photos as the four members prepare to return to activities together.",
+        "Lee Hyori, Ok Joo Hyun, Lee Jin and Sung Yuri unveiled the profiles on November 18. The photos feature two coordinated looks, with the members wearing black dresses in one set and suits in another.",
+        "The release also included the members' handwritten signatures and messages for their fandom, Pinky. Lee Hyori wrote, \"Let's meet soon!\" while Lee Jin shared, \"See you soon.\" Sung Yuri thanked fans for waiting, and Ok Joo Hyun wrote, \"Just like the imagination we always dreamed of. Now!\"",
+        "The new profiles follow FIN.K.L's September 21 announcement that the group would make a full-group comeback for the first time in 21 years. The members plan to meet fans through a long-term project focused on music and performances.",
+        "The project is expected to continue for approximately two years, leading up to the group's 30th debut anniversary in 2028. A detailed schedule will be announced in stages at a later date."
+      ],
+      "socialCaption": "FIN.K.L has shared new photos and messages for Pinky. Read on HallyuScope for the group's reunion plans.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#FINKL",
+        "#LeeHyori",
+        "#OkJooHyun",
+        "#Pinky"
+      ],
+      "seoDescription": "FIN.K.L opens official social media channels and shares new photos and messages as the four members prepare for a music and performance project.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "c3df9bc871ec",
       "createdAt": "2026-11-18T15:03:05.148Z",
