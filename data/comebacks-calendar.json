@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T04:29:31.706Z",
+  "updatedAt": "2026-11-19T12:55:24.621Z",
   "note": "Release dates from attributed publisher schedules and existing editorial records. Publisher listings are labelled separately from official sources; conflicting dates are retained for review.",
   "items": [
     {
@@ -1023,7 +1023,13 @@
       "sourceName": "KPOP OFFICIAL",
       "sourceClass": "publisher",
       "status": "Scheduled",
-      "lastCheckedAt": "2026-11-19T04:29:31.706Z"
+      "lastCheckedAt": "2026-11-19T04:29:31.706Z",
+      "buyLinks": [
+        {
+          "label": "EPISODE ver.",
+          "url": "https://s.shopee.ph/7fbW1Sdx0i"
+        }
+      ]
     },
     {
       "id": "i-n-stray-kids-no-return-2026",
