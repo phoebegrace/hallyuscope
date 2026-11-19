@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T22:01:51.306Z",
+  "updatedAt": "2026-11-19T03:35:17.136Z",
   "sources": [
     {
       "source": "HYBE LABELS",
@@ -8,7 +8,7 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3IZKseVpdzPSBaWxBxundA",
       "ok": true,
       "count": 15,
-      "ms": 109
+      "ms": 80
     },
     {
       "source": "JYP Entertainment",
@@ -17,7 +17,7 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaO6TYtlC8U5ttz62hTrZgg",
       "ok": true,
       "count": 15,
-      "ms": 162
+      "ms": 80
     },
     {
       "source": "Soompi",
@@ -25,7 +25,7 @@
       "sourceClass": "publisher",
       "ok": true,
       "count": 60,
-      "ms": 333
+      "ms": 312
     },
     {
       "source": "Kpopmap",
@@ -33,31 +33,31 @@
       "sourceClass": "publisher",
       "ok": true,
       "count": 0,
-      "ms": 429
+      "ms": 137
     },
     {
       "source": "Google News · K-pop",
       "url": "https://news.google.com/rss/search?q=K-pop+when%3A7d&hl=en-PH&gl=PH&ceid=PH%3Aen",
-      "ok": false,
-      "count": 0,
-      "ms": 336,
-      "error": "429 Too Many Requests for https://news.google.com/rss/search?q=K-pop+when%3A7d&hl=en-PH&gl=PH&ceid=PH%3Aen"
+      "sourceClass": "publisher",
+      "ok": true,
+      "count": 100,
+      "ms": 551
     },
     {
       "source": "Google News · PH concerts",
       "url": "https://news.google.com/rss/search?q=%28K-pop+OR+Kpop%29+%28Manila+OR+Philippines%29+%28concert+OR+tour+OR+fancon+OR+%22fan+meeting%22%29+when%3A60d&hl=en-PH&gl=PH&ceid=PH%3Aen",
-      "ok": false,
-      "count": 0,
-      "ms": 377,
-      "error": "429 Too Many Requests for https://news.google.com/rss/search?q=%28K-pop+OR+Kpop%29+%28Manila+OR+Philippines%29+%28concert+OR+tour+OR+fancon+OR+%22fan+meeting%22%29+when%3A60d&hl=en-PH&gl=PH&ceid=PH%3Aen"
+      "sourceClass": "publisher",
+      "ok": true,
+      "count": 33,
+      "ms": 454
     },
     {
       "source": "Google News · comebacks",
       "url": "https://news.google.com/rss/search?q=%28K-pop+OR+Kpop%29+%28comeback+OR+album+OR+single+OR+teaser%29+when%3A21d&hl=en-PH&gl=PH&ceid=PH%3Aen",
       "sourceClass": "publisher",
       "ok": true,
-      "count": 43,
-      "ms": 491
+      "count": 44,
+      "ms": 432
     }
   ]
 }
