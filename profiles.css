@@ -1,3 +1,33 @@
 .profile-directory{padding:0 0 64px}.profile-tools{display:flex;align-items:center;justify-content:space-between;gap:24px;flex-wrap:wrap;margin:28px 0 20px}.profile-filters{display:flex;gap:8px;flex-wrap:wrap}.profile-filters button{font:700 14px/1.2 var(--f);padding:12px 18px;background:#f0f2f8;border:0;cursor:pointer;color:var(--ink)}.profile-filters button[aria-pressed="true"]{background:#01229a;color:white}.profile-search{display:flex;flex:0 1 340px;align-items:center;gap:12px;font:700 12px/1.2 var(--f);text-transform:uppercase;letter-spacing:.05em}.profile-search input{width:100%;min-width:160px;border:1px solid #d5d9e6;background:white;padding:13px;font:500 15px var(--f);text-transform:none;letter-spacing:normal}.profile-filters button:focus-visible,.profile-photo:focus-visible,.profile-search input:focus-visible{outline:3px solid #fe0862;outline-offset:4px}.profile-summary{font:500 14px var(--f);color:var(--mute);margin:0 0 40px}.artist-section{scroll-margin-top:100px;margin:0 0 56px}.artist-section-head{display:flex;align-items:baseline;gap:16px;margin-bottom:22px}.artist-section h2{font:800 clamp(26px,2.5vw,38px)/1.1 var(--f);margin:0;letter-spacing:-.04em}.artist-section-head span{font:600 13px var(--f);color:var(--mute)}.profile-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:30px 22px}.artist-card{min-width:0}.profile-photo{display:block;padding:0;border:0;width:100%;background:#edf0f7;overflow:hidden;cursor:zoom-in;aspect-ratio:4/3}.profile-photo img{width:100%;height:100%;display:block;object-fit:cover;object-position:center 35%;transition:transform .25s ease}.profile-photo:hover img{transform:scale(1.035)}.artist-card h3{font:800 clamp(18px,1.55vw,24px)/1.2 var(--f);letter-spacing:-.025em;margin:14px 0 8px}.profile-credit{color:var(--mute);font:400 11px/1.6 var(--f)}.profile-credit summary{cursor:pointer;width:fit-content}.profile-credit p{margin:7px 0;overflow-wrap:anywhere}.profile-credit a{color:#01229a;text-underline-offset:3px}.profile-no-results{font:600 20px/1.6 var(--f);padding:50px 0}.profile-lightbox{padding:0;max-width:min(1000px,92vw);max-height:92dvh;border:0;background:#fff;color:var(--ink)}.profile-lightbox::backdrop{background:rgba(8,12,30,.85)}.profile-lightbox figure{margin:0}.profile-lightbox img{display:block;max-width:100%;max-height:72dvh;width:auto;margin:auto;object-fit:contain;background:#0b0e18}.profile-lightbox figcaption{padding:18px 24px;font:800 24px/1.2 var(--f)}.profile-lightbox-close{display:block;margin:12px 12px 12px auto;padding:10px 16px;border:0;background:#01229a;color:white;font:700 14px var(--f);cursor:pointer}[hidden]{display:none!important}@media(min-width:1500px){.profile-grid{grid-template-columns:repeat(5,minmax(0,1fr))}}@media(max-width:900px){.profile-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:26px 16px}}@media(max-width:600px){.profile-tools{display:block}.profile-search{margin-top:18px}.profile-filters button{padding:11px 13px;font-size:12px}.profile-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:24px 14px}.artist-card h3{font-size:18px}.profile-summary{margin-bottom:30px}.profile-photo{aspect-ratio:1/1}.profile-lightbox{max-width:94vw}.artist-section{margin-bottom:40px}}@media(prefers-reduced-motion:reduce){.profile-photo img{transition:none}}
 /* Keep every member visible in wide group photographs. */
 .artist-card:not([data-category="soloists"]) .profile-photo img{object-fit:contain}
+/* Bias hearts */
+.bias-total{display:flex;align-items:center;gap:8px;margin:0 0 10px;font:700 14px/1.3 var(--f);color:var(--ink)}
+.bias-total svg{width:18px;height:18px;fill:#fe0862;flex:none;animation:bias-beat 2.4s ease-in-out infinite}
+.profile-filters .bias-filter{color:#fe0862}
+.profile-filters .bias-filter[aria-pressed="true"]{background:#fe0862;color:#fff}
+.bias-btn{position:relative;display:inline-flex;align-items:center;gap:7px;margin:0 0 10px;padding:7px 12px 7px 10px;border:1px solid #d5d9e6;background:#fff;color:var(--ink);font:700 13px/1 var(--f);cursor:pointer;border-radius:999px;transition:background .18s,border-color .18s,color .18s}
+.bias-btn svg{width:17px;height:17px;fill:none;stroke:#fe0862;stroke-width:2.2;transition:fill .18s,transform .18s}
+.bias-btn .bias-count{font-weight:800;font-variant-numeric:tabular-nums;color:var(--mute)}
+.bias-btn:hover{border-color:#fe0862}
+.bias-btn:hover svg{transform:scale(1.12)}
+.bias-btn.is-on{background:#fe0862;border-color:#fe0862;color:#fff}
+.bias-btn.is-on svg{fill:#fff;stroke:#fff}
+.bias-btn.is-on .bias-count{color:#fff}
+.bias-btn:focus-visible{outline:3px solid #01229a;outline-offset:3px}
+.bias-btn:disabled{cursor:progress}
+.bias-btn.pop svg{animation:bias-pop .45s cubic-bezier(.2,1.6,.4,1)}
+.bias-burst{position:absolute;left:18px;top:50%;width:0;height:0;pointer-events:none;z-index:3}
+.bias-burst i{position:absolute;left:-8px;top:-8px;width:16px;height:16px;opacity:0;animation:bias-fly 1.05s ease-out forwards}
+.bias-burst svg{width:100%;height:100%;fill:#fe0862;stroke:none}
+.bias-burst i:nth-child(3n) svg{fill:#01229a}
+.bias-burst i:nth-child(4n) svg{fill:#ff8ab5}
+@keyframes bias-pop{0%{transform:scale(1)}35%{transform:scale(1.55)}65%{transform:scale(.9)}100%{transform:scale(1)}}
+@keyframes bias-fly{0%{opacity:0;transform:translate(0,0) scale(.3)}15%{opacity:1}100%{opacity:0;transform:translate(var(--x),var(--y)) rotate(var(--r)) scale(var(--s))}}
+@keyframes bias-beat{0%,100%{transform:scale(1)}12%{transform:scale(1.18)}24%{transform:scale(1)}36%{transform:scale(1.12)}48%{transform:scale(1)}}
+.bias-ranking{list-style:none;margin:0;padding:0}
+.bias-rank{position:relative;min-width:0}
+.bias-rank::before{content:"#" attr(data-rank);position:absolute;z-index:2;top:10px;left:10px;padding:6px 9px;background:#01229a;color:#fff;font:800 13px/1 var(--f);pointer-events:none}
+.bias-rank:nth-child(-n+3)::before{background:#fe0862}
+@media(prefers-reduced-motion:reduce){.bias-btn.pop svg,.bias-total svg{animation:none}.bias-btn,.bias-btn svg{transition:none}}
+@media(max-width:600px){.bias-total{font-size:13px}.bias-btn{font-size:12px;padding:6px 10px 6px 8px}}
