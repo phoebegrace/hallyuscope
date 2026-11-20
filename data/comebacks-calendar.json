@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T12:55:24.621Z",
+  "updatedAt": "2026-11-20T04:47:43.256Z",
   "note": "Release dates from attributed publisher schedules and existing editorial records. Publisher listings are labelled separately from official sources; conflicting dates are retained for review.",
   "items": [
     {
@@ -12,7 +12,7 @@
       "sourceName": "KPOP OFFICIAL",
       "sourceClass": "publisher",
       "status": "Scheduled",
-      "lastCheckedAt": "2026-11-20T03:04:40.261Z"
+      "lastCheckedAt": "2026-11-20T04:47:43.256Z"
     },
     {
       "id": "bts-arirang-2026",
@@ -24,7 +24,7 @@
       "sourceName": "KPOP OFFICIAL",
       "sourceClass": "publisher",
       "status": "Scheduled",
-      "lastCheckedAt": "2026-11-20T03:04:40.261Z"
+      "lastCheckedAt": "2026-11-20T04:47:43.256Z"
     },
     {
       "id": "cortis-pre-release-lead-redred-2026-2026",
@@ -36,7 +36,7 @@
       "sourceName": "KPOP OFFICIAL",
       "sourceClass": "publisher",
       "status": "Scheduled",
-      "lastCheckedAt": "2026-11-20T03:04:40.261Z"
+      "lastCheckedAt": "2026-11-20T04:47:43.256Z"
     },
     {
       "id": "illit-mamihlapinatapai-2026",
@@ -48,7 +48,7 @@
       "sourceName": "KPOP OFFICIAL",
       "sourceClass": "publisher",
       "status": "Scheduled",
-      "lastCheckedAt": "2026-11-20T03:04:40.261Z"
+      "lastCheckedAt": "2026-11-20T04:47:43.256Z"
     },
     {
       "id": "babymonster-choom-2026",
@@ -60,7 +60,7 @@
       "sourceName": "KPOP OFFICIAL",
       "sourceClass": "publisher",
       "status": "Scheduled",
-      "lastCheckedAt": "2026-11-20T03:04:40.261Z"
+      "lastCheckedAt": "2026-11-20T04:47:43.256Z"
     },
     {
       "id": "cortis-greengreen-2026",
@@ -72,7 +72,7 @@
       "sourceName": "KPOP OFFICIAL",
       "sourceClass": "publisher",
       "status": "Scheduled",
-      "lastCheckedAt": "2026-11-20T03:04:40.261Z"
+      "lastCheckedAt": "2026-11-20T04:47:43.256Z"
     },
     {
       "id": "xlov-i-god-2026",
@@ -84,7 +84,7 @@
       "sourceName": "KPOP OFFICIAL",
       "sourceClass": "publisher",
       "status": "Scheduled",
-      "lastCheckedAt": "2026-11-20T03:04:40.261Z"
+      "lastCheckedAt": "2026-11-20T04:47:43.256Z"
     },
     {
       "id": "aespa-lemonade-2026",
@@ -96,7 +96,7 @@
       "sourceName": "KPOP OFFICIAL",
       "sourceClass": "publisher",
       "status": "Scheduled",
-      "lastCheckedAt": "2026-11-20T03:04:40.261Z"
+      "lastCheckedAt": "2026-11-20T04:47:43.256Z"
     },
     {
       "id": "le-sserafim-x-illit-x-katseye-iconic-by-mistake-2026",
@@ -108,7 +108,19 @@
       "sourceName": "KPOP OFFICIAL",
       "sourceClass": "publisher",
       "status": "Scheduled",
-      "lastCheckedAt": "2026-11-20T03:04:40.261Z"
+      "lastCheckedAt": "2026-11-20T04:47:43.256Z"
+    },
+    {
+      "id": "riize-the-ii-2026",
+      "artist": "RIIZE The",
+      "title": "II",
+      "date": "2026-06-15",
+      "type": "2nd Mini Album",
+      "sourceUrl": "https://kpopofficial.com/album/riize-mini-album-ii/",
+      "sourceName": "KPOP OFFICIAL",
+      "sourceClass": "publisher",
+      "status": "Scheduled",
+      "lastCheckedAt": "2026-11-20T04:47:43.256Z"
     },
     {
       "id": "ateez-golden-hour-part-5-2026",
@@ -144,7 +156,7 @@
       "sourceName": "KPOP OFFICIAL",
       "sourceClass": "publisher",
       "status": "Scheduled",
-      "lastCheckedAt": "2026-11-20T03:04:40.261Z"
+      "lastCheckedAt": "2026-11-20T04:47:43.256Z"
     },
     {
       "id": "kiiikiii-whykiiikiii-2026",
@@ -156,7 +168,7 @@
       "sourceName": "KPOP OFFICIAL",
       "sourceClass": "publisher",
       "status": "Scheduled",
-      "lastCheckedAt": "2026-11-20T03:04:40.261Z"
+      "lastCheckedAt": "2026-11-20T04:47:43.256Z"
     },
     {
       "id": "txt-japan-setsuna-hanabi-2026",
@@ -180,7 +192,7 @@
       "sourceName": "KPOP OFFICIAL",
       "sourceClass": "publisher",
       "status": "Scheduled",
-      "lastCheckedAt": "2026-11-20T03:04:40.261Z"
+      "lastCheckedAt": "2026-11-20T04:47:43.256Z"
     },
     {
       "id": "soyeon-i-dle-what-a-wonderful-life-2026",
@@ -276,7 +288,7 @@
       "sourceName": "KPOP OFFICIAL",
       "sourceClass": "publisher",
       "status": "Scheduled",
-      "lastCheckedAt": "2026-11-20T03:04:40.261Z"
+      "lastCheckedAt": "2026-11-20T04:47:43.256Z"
     },
     {
       "id": "illit-break-even-2026",
@@ -288,7 +300,7 @@
       "sourceName": "KPOP OFFICIAL",
       "sourceClass": "publisher",
       "status": "Scheduled",
-      "lastCheckedAt": "2026-11-20T03:04:40.261Z"
+      "lastCheckedAt": "2026-11-20T04:47:43.256Z"
     },
     {
       "id": "jisoo-addicted-2026",
@@ -384,7 +396,7 @@
       "sourceName": "KPOP OFFICIAL",
       "sourceClass": "publisher",
       "status": "Scheduled",
-      "lastCheckedAt": "2026-11-20T03:04:40.261Z"
+      "lastCheckedAt": "2026-11-20T04:47:43.256Z"
     },
     {
       "id": "jennie-someone-to-hold-netflix-film-steps-ost-2026",
@@ -396,7 +408,7 @@
       "sourceName": "KPOP OFFICIAL",
       "sourceClass": "publisher",
       "status": "Scheduled",
-      "lastCheckedAt": "2026-11-20T03:04:40.261Z"
+      "lastCheckedAt": "2026-11-20T04:47:43.256Z"
     },
     {
       "id": "mark-lee-happiest-2026",
@@ -420,7 +432,7 @@
       "sourceName": "KPOP OFFICIAL",
       "sourceClass": "publisher",
       "status": "Scheduled",
-      "lastCheckedAt": "2026-11-20T03:04:40.261Z"
+      "lastCheckedAt": "2026-11-20T04:47:43.256Z"
     },
     {
       "id": "nct-dream-dream-after-dream-2026",
@@ -432,7 +444,7 @@
       "sourceName": "KPOP OFFICIAL",
       "sourceClass": "publisher",
       "status": "Scheduled",
-      "lastCheckedAt": "2026-11-20T03:04:40.261Z"
+      "lastCheckedAt": "2026-11-20T04:47:43.256Z"
     },
     {
       "id": "a2o-soul-debut-superstar-2026",
@@ -444,7 +456,7 @@
       "sourceName": "KPOP OFFICIAL",
       "sourceClass": "publisher",
       "status": "Scheduled",
-      "lastCheckedAt": "2026-11-20T03:04:40.261Z"
+      "lastCheckedAt": "2026-11-20T04:47:43.256Z"
     },
     {
       "id": "lngshot-swish-2026",
@@ -514,7 +526,7 @@
       "sourceName": "KPOP OFFICIAL",
       "sourceClass": "publisher",
       "status": "Scheduled",
-      "lastCheckedAt": "2026-11-20T03:04:40.261Z"
+      "lastCheckedAt": "2026-11-20T04:47:43.256Z"
     },
     {
       "id": "emp-off-script-2026",
@@ -602,7 +614,7 @@
       "sourceName": "KPOP OFFICIAL",
       "sourceClass": "publisher",
       "status": "Scheduled",
-      "lastCheckedAt": "2026-11-20T03:04:40.261Z"
+      "lastCheckedAt": "2026-11-20T04:47:43.256Z"
     },
     {
       "id": "do-darling-2026",
@@ -649,7 +661,7 @@
       "sourceName": "KPOP OFFICIAL",
       "sourceClass": "publisher",
       "status": "Scheduled",
-      "lastCheckedAt": "2026-11-20T03:04:40.261Z"
+      "lastCheckedAt": "2026-11-20T04:47:43.256Z"
     },
     {
       "id": "kyuhyun-continue-2026",
@@ -661,7 +673,7 @@
       "sourceName": "KPOP OFFICIAL",
       "sourceClass": "publisher",
       "status": "Scheduled",
-      "lastCheckedAt": "2026-11-20T03:04:40.261Z"
+      "lastCheckedAt": "2026-11-20T04:47:43.256Z"
     },
     {
       "id": "lucy-again-2026",
@@ -809,7 +821,7 @@
       "sourceName": "KPOP OFFICIAL",
       "sourceClass": "publisher",
       "status": "Scheduled",
-      "lastCheckedAt": "2026-11-20T03:04:40.261Z"
+      "lastCheckedAt": "2026-11-20T04:47:43.256Z"
     },
     {
       "id": "h1-key-unbelievable-2026",
@@ -835,7 +847,7 @@
       "sourceName": "KPOP OFFICIAL",
       "sourceClass": "publisher",
       "status": "Scheduled",
-      "lastCheckedAt": "2026-11-20T03:04:40.261Z"
+      "lastCheckedAt": "2026-11-20T04:47:43.256Z"
     },
     {
       "id": "txt-perfect-storm-2026",
@@ -911,7 +923,7 @@
       "sourceName": "KPOP OFFICIAL",
       "sourceClass": "publisher",
       "status": "Scheduled",
-      "lastCheckedAt": "2026-11-20T03:04:40.261Z"
+      "lastCheckedAt": "2026-11-20T04:47:43.256Z"
     },
     {
       "id": "keyveatz-hah-2026",
@@ -923,7 +935,7 @@
       "sourceName": "KPOP OFFICIAL",
       "sourceClass": "publisher",
       "status": "Scheduled",
-      "lastCheckedAt": "2026-11-20T03:04:40.261Z"
+      "lastCheckedAt": "2026-11-20T04:47:43.256Z"
     },
     {
       "id": "ampers-and-one-pathfinder-2026",
@@ -1023,7 +1035,7 @@
       "sourceName": "KPOP OFFICIAL",
       "sourceClass": "publisher",
       "status": "Scheduled",
-      "lastCheckedAt": "2026-11-20T03:04:40.261Z",
+      "lastCheckedAt": "2026-11-20T04:47:43.256Z",
       "buyLinks": [
         {
           "label": "EPISODE ver.",
@@ -1041,7 +1053,7 @@
       "sourceName": "KPOP OFFICIAL",
       "sourceClass": "publisher",
       "status": "Scheduled",
-      "lastCheckedAt": "2026-11-20T03:04:40.261Z"
+      "lastCheckedAt": "2026-11-20T04:47:43.256Z"
     },
     {
       "id": "enhypen-sin-parallel-world-2026",
@@ -1093,7 +1105,7 @@
       "sourceName": "KPOP OFFICIAL",
       "sourceClass": "publisher",
       "status": "Scheduled",
-      "lastCheckedAt": "2026-11-20T03:04:40.261Z"
+      "lastCheckedAt": "2026-11-20T04:47:43.256Z"
     },
     {
       "id": "yves-cute-and-anxiety-2026",
@@ -1162,7 +1174,7 @@
       "sourceName": "KPOP OFFICIAL",
       "sourceClass": "publisher",
       "status": "Scheduled",
-      "lastCheckedAt": "2026-11-20T03:04:40.261Z"
+      "lastCheckedAt": "2026-11-20T04:47:43.256Z"
     },
     {
       "id": "nayeon-na-sty-2026",
@@ -1177,7 +1189,7 @@
       "sourceName": "KPOP OFFICIAL",
       "sourceClass": "publisher",
       "status": "Scheduled",
-      "lastCheckedAt": "2026-11-20T03:04:40.261Z"
+      "lastCheckedAt": "2026-11-20T04:47:43.256Z"
     },
     {
       "id": "cl-iconic-2026",
@@ -1189,7 +1201,7 @@
       "sourceName": "KPOP OFFICIAL",
       "sourceClass": "publisher",
       "status": "Scheduled",
-      "lastCheckedAt": "2026-11-20T03:04:40.261Z"
+      "lastCheckedAt": "2026-11-20T04:47:43.256Z"
     },
     {
       "id": "wendy-gleam-hour-2026",
@@ -1204,7 +1216,7 @@
       "sourceName": "KPOP OFFICIAL",
       "sourceClass": "publisher",
       "status": "Scheduled",
-      "lastCheckedAt": "2026-11-20T03:04:40.261Z"
+      "lastCheckedAt": "2026-11-20T04:47:43.256Z"
     },
     {
       "id": "stray-kids-suiatsu-2026",
@@ -1388,7 +1400,7 @@
       "sourceName": "KPOP OFFICIAL",
       "sourceClass": "publisher",
       "status": "Scheduled",
-      "lastCheckedAt": "2026-11-20T03:04:40.261Z"
+      "lastCheckedAt": "2026-11-20T04:47:43.256Z"
     },
     {
       "id": "kiiras-over-u-2026",
@@ -1400,7 +1412,7 @@
       "sourceName": "KPOP OFFICIAL",
       "sourceClass": "publisher",
       "status": "Scheduled",
-      "lastCheckedAt": "2026-11-20T03:04:40.261Z"
+      "lastCheckedAt": "2026-11-20T04:47:43.256Z"
     },
     {
       "id": "taeyeon-unspecial-2026",
@@ -1415,7 +1427,7 @@
       "sourceName": "KPOP OFFICIAL",
       "sourceClass": "publisher",
       "status": "Scheduled",
-      "lastCheckedAt": "2026-11-20T03:04:40.261Z"
+      "lastCheckedAt": "2026-11-20T04:47:43.256Z"
     },
     {
       "id": "exo-kase-waking-up-the-city-2026",
@@ -1430,7 +1442,7 @@
       "sourceName": "KPOP OFFICIAL",
       "sourceClass": "publisher",
       "status": "Scheduled",
-      "lastCheckedAt": "2026-11-20T03:04:40.261Z"
+      "lastCheckedAt": "2026-11-20T04:47:43.256Z"
     },
     {
       "id": "mark-windmill-2026",
@@ -1462,7 +1474,7 @@
       "sourceName": "KPOP OFFICIAL",
       "sourceClass": "publisher",
       "status": "Scheduled",
-      "lastCheckedAt": "2026-11-20T03:04:40.261Z"
+      "lastCheckedAt": "2026-11-20T04:47:43.256Z"
     },
     {
       "id": "baby-dont-cry-daybreak-2027",
@@ -1485,5 +1497,5 @@
       "links": null
     }
   ],
-  "lastCheckedAt": "2026-11-20T03:04:40.261Z"
+  "lastCheckedAt": "2026-11-20T04:47:43.256Z"
 }

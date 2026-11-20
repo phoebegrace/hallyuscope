@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-20T03:04:40.261Z",
+  "checkedAt": "2026-11-20T04:47:43.256Z",
   "refreshMinutes": 30,
   "sources": [
     {
@@ -11,7 +11,7 @@
       "sourceClass": "official",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-20T03:04:40.261Z"
+      "checkedAt": "2026-11-20T04:47:43.256Z"
     },
     {
       "id": "live-nation-ph",
@@ -22,7 +22,7 @@
       "sourceClass": "official",
       "ok": false,
       "count": 0,
-      "checkedAt": "2026-11-20T03:04:40.261Z",
+      "checkedAt": "2026-11-20T04:47:43.256Z",
       "error": "No usable schedule records returned; keeping the last known dates."
     },
     {
@@ -34,7 +34,7 @@
       "sourceClass": "official",
       "ok": false,
       "count": 0,
-      "checkedAt": "2026-11-20T03:04:40.261Z",
+      "checkedAt": "2026-11-20T04:47:43.256Z",
       "error": "HTTP 403"
     },
     {
@@ -45,8 +45,260 @@
       "parser": "kpop-official",
       "sourceClass": "publisher",
       "ok": true,
-      "count": 47,
-      "checkedAt": "2026-11-20T03:04:40.261Z"
+      "count": 40,
+      "checkedAt": "2026-11-20T04:47:43.256Z"
+    },
+    {
+      "id": "yt-ucef_bc-kvd7onseifs3py9g",
+      "name": "SMTOWN (YouTube)",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEf_Bc-KVd7onSeifS3py9g",
+      "kind": "comebacks",
+      "parser": "youtube-mv",
+      "sourceClass": "official",
+      "ok": false,
+      "count": 0,
+      "checkedAt": "2026-11-20T04:47:43.256Z",
+      "error": "No usable schedule records returned; keeping the last known dates."
+    },
+    {
+      "id": "yt-uc3izksevpdzpsbawxbxunda",
+      "name": "HYBE LABELS (YouTube)",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3IZKseVpdzPSBaWxBxundA",
+      "kind": "comebacks",
+      "parser": "youtube-mv",
+      "sourceClass": "official",
+      "ok": false,
+      "count": 0,
+      "checkedAt": "2026-11-20T04:47:43.256Z",
+      "error": "No usable schedule records returned; keeping the last known dates."
+    },
+    {
+      "id": "yt-ucao6tytlc8u5ttz62htrzgg",
+      "name": "JYP Entertainment (YouTube)",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaO6TYtlC8U5ttz62hTrZgg",
+      "kind": "comebacks",
+      "parser": "youtube-mv",
+      "sourceClass": "official",
+      "ok": false,
+      "count": 0,
+      "checkedAt": "2026-11-20T04:47:43.256Z",
+      "error": "No usable schedule records returned; keeping the last known dates."
+    },
+    {
+      "id": "yt-ucqi67q4kgdmnjarzx81uk5g",
+      "name": "YG ENTERTAINMENT (YouTube)",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQi67q4kGdmnJaRzX81uK5g",
+      "kind": "comebacks",
+      "parser": "youtube-mv",
+      "sourceClass": "official",
+      "ok": false,
+      "count": 0,
+      "checkedAt": "2026-11-20T04:47:43.256Z",
+      "error": "No usable schedule records returned; keeping the last known dates."
+    },
+    {
+      "id": "yt-ucomhun--16b90ow2l6frr3a",
+      "name": "BLACKPINK (YouTube)",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOmHUn--16B90oW2L6FRR3A",
+      "kind": "comebacks",
+      "parser": "youtube-mv",
+      "sourceClass": "official",
+      "ok": false,
+      "count": 0,
+      "checkedAt": "2026-11-20T04:47:43.256Z",
+      "error": "No usable schedule records returned; keeping the last known dates."
+    },
+    {
+      "id": "yt-ucqwunggbbct-ay2ladi88jq",
+      "name": "BABYMONSTER (YouTube)",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqwUnggBBct-AY2lAdI88jQ",
+      "kind": "comebacks",
+      "parser": "youtube-mv",
+      "sourceClass": "official",
+      "ok": false,
+      "count": 0,
+      "checkedAt": "2026-11-20T04:47:43.256Z",
+      "error": "No usable schedule records returned; keeping the last known dates."
+    },
+    {
+      "id": "yt-ucx9hxyocvuywrpreqe4zqha",
+      "name": "TREASURE (YouTube)",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCx9hXYOCvUYwrprEqe4ZQHA",
+      "kind": "comebacks",
+      "parser": "youtube-mv",
+      "sourceClass": "official",
+      "ok": false,
+      "count": 0,
+      "checkedAt": "2026-11-20T04:47:43.256Z",
+      "error": "No usable schedule records returned; keeping the last known dates."
+    },
+    {
+      "id": "yt-ucweokpb1wvvh0q0tlj4a5pw",
+      "name": "1theK (YouTube)",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCweOkPb1wVVH0Q0Tlj4a5Pw",
+      "kind": "comebacks",
+      "parser": "youtube-mv",
+      "sourceClass": "official",
+      "ok": false,
+      "count": 0,
+      "checkedAt": "2026-11-20T04:47:43.256Z",
+      "error": "No usable schedule records returned; keeping the last known dates."
+    },
+    {
+      "id": "yt-ucbeu7q6ardr7gdfnwbl2auw",
+      "name": "High Up Ent (YouTube)",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBEu7Q6arDR7GdfnwBL2AUw",
+      "kind": "comebacks",
+      "parser": "youtube-mv",
+      "sourceClass": "official",
+      "ok": false,
+      "count": 0,
+      "checkedAt": "2026-11-20T04:47:43.256Z",
+      "error": "No usable schedule records returned; keeping the last known dates."
+    },
+    {
+      "id": "yt-uc-fnix71vrp64wxeo0ikd0q",
+      "name": "IVE (YouTube)",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-Fnix71vRP64WXeo0ikd0Q",
+      "kind": "comebacks",
+      "parser": "youtube-mv",
+      "sourceClass": "official",
+      "ok": false,
+      "count": 0,
+      "checkedAt": "2026-11-20T04:47:43.256Z",
+      "error": "No usable schedule records returned; keeping the last known dates."
+    },
+    {
+      "id": "yt-ucveeebssb4xxifwwib8ijmw",
+      "name": "KISS OF LIFE (YouTube)",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvEEeBssb4XxIfWWIB8IjMw",
+      "kind": "comebacks",
+      "parser": "youtube-mv",
+      "sourceClass": "official",
+      "ok": false,
+      "count": 0,
+      "checkedAt": "2026-11-20T04:47:43.256Z",
+      "error": "No usable schedule records returned; keeping the last known dates."
+    },
+    {
+      "id": "yt-ucmki_ukhb4qsc0qyecohhjw",
+      "name": "NewJeans (YouTube)",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMki_UkHb4qSc0qyEcOHHJw",
+      "kind": "comebacks",
+      "parser": "youtube-mv",
+      "sourceClass": "official",
+      "ok": false,
+      "count": 0,
+      "checkedAt": "2026-11-20T04:47:43.256Z",
+      "error": "No usable schedule records returned; keeping the last known dates."
+    },
+    {
+      "id": "yt-ucdvd0msyecqaie5ru-poiqq",
+      "name": "RIIZE (YouTube)",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdVD0MsYecQaIE5Ru-pOIQQ",
+      "kind": "comebacks",
+      "parser": "youtube-mv",
+      "sourceClass": "official",
+      "ok": false,
+      "count": 0,
+      "checkedAt": "2026-11-20T04:47:43.256Z",
+      "error": "No usable schedule records returned; keeping the last known dates."
+    },
+    {
+      "id": "yt-uc_dbjpoy1g0xcefsj6ga7oq",
+      "name": "THE BOYZ (YouTube)",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_DBJPOY1G0XcEfSJ6ga7OQ",
+      "kind": "comebacks",
+      "parser": "youtube-mv",
+      "sourceClass": "official",
+      "ok": false,
+      "count": 0,
+      "checkedAt": "2026-11-20T04:47:43.256Z",
+      "error": "No usable schedule records returned; keeping the last known dates."
+    },
+    {
+      "id": "yt-ucu8momf9frn_60tigvwlqeq",
+      "name": "EDAM Entertainment (YouTube)",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCU8MOmf9frN_60TIGvwlQEQ",
+      "kind": "comebacks",
+      "parser": "youtube-mv",
+      "sourceClass": "official",
+      "ok": false,
+      "count": 0,
+      "checkedAt": "2026-11-20T04:47:43.256Z",
+      "error": "No usable schedule records returned; keeping the last known dates."
+    },
+    {
+      "id": "yt-uc3syt4_wlhzn7jmhqwkqzww",
+      "name": "IU Official (YouTube)",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3SyT4_WLHzN7JmHQwKQZww",
+      "kind": "comebacks",
+      "parser": "youtube-mv",
+      "sourceClass": "official",
+      "ok": false,
+      "count": 0,
+      "checkedAt": "2026-11-20T04:47:43.256Z",
+      "error": "No usable schedule records returned; keeping the last known dates."
+    },
+    {
+      "id": "yt-ucfkxdy7vwkcj8ddfgz8kusa",
+      "name": "SEVENTEEN (YouTube)",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfkXDY7vwkcJ8ddFGz8KusA",
+      "kind": "comebacks",
+      "parser": "youtube-mv",
+      "sourceClass": "official",
+      "ok": false,
+      "count": 0,
+      "checkedAt": "2026-11-20T04:47:43.256Z",
+      "error": "No usable schedule records returned; keeping the last known dates."
+    },
+    {
+      "id": "yt-uc8c6qopdvywmuasbzksefdg",
+      "name": "TWS (YouTube)",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8C6QOPDVYwmuaSBZksefdg",
+      "kind": "comebacks",
+      "parser": "youtube-mv",
+      "sourceClass": "official",
+      "ok": false,
+      "count": 0,
+      "checkedAt": "2026-11-20T04:47:43.256Z",
+      "error": "No usable schedule records returned; keeping the last known dates."
+    },
+    {
+      "id": "yt-uc9gtsleksfk4yuj_g1lgqbg",
+      "name": "aespa (YouTube)",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9GtSLeksfK4yuJ_g1lgQbg",
+      "kind": "comebacks",
+      "parser": "youtube-mv",
+      "sourceClass": "official",
+      "ok": false,
+      "count": 0,
+      "checkedAt": "2026-11-20T04:47:43.256Z",
+      "error": "No usable schedule records returned; keeping the last known dates."
+    },
+    {
+      "id": "yt-ucrlro_okqmjl8enprvrfidg",
+      "name": "i-dle (YouTube)",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrlRo_OkQMJL8enPRVRfIdg",
+      "kind": "comebacks",
+      "parser": "youtube-mv",
+      "sourceClass": "official",
+      "ok": false,
+      "count": 0,
+      "checkedAt": "2026-11-20T04:47:43.256Z",
+      "error": "No usable schedule records returned; keeping the last known dates."
+    },
+    {
+      "id": "yt-uc2e4ukj5pfr7cb3kpjafbdq",
+      "name": "ATEEZ (YouTube)",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2e4Ukj5Pfr7cb3KpJAFBdQ",
+      "kind": "comebacks",
+      "parser": "youtube-mv",
+      "sourceClass": "official",
+      "ok": false,
+      "count": 0,
+      "checkedAt": "2026-11-20T04:47:43.256Z",
+      "error": "No usable schedule records returned; keeping the last known dates."
     }
   ],
   "concerts": {
@@ -56,8 +308,8 @@
     "successfulSources": 1
   },
   "comebacks": {
-    "records": 67,
-    "added": 0,
+    "records": 68,
+    "added": 1,
     "changed": 0,
     "successfulSources": 1
   }

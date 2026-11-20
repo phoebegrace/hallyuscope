@@ -1,785 +1,2214 @@
 {
-  "updatedAt": "2026-11-19",
-  "items": [
-    {
-      "name": "2NE1",
-      "category": "girl-groups",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2NE1_2013_kpop_hologram_(cropped).jpg",
-      "photographer": "WithEverland",
-      "license": "CC BY 2.5",
-      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
-      "id": "2ne1",
-      "imageUrl": "/assets/profiles/2ne1.jpg",
-      "width": 390,
-      "height": 230,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "aespa",
-      "category": "girl-groups",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aespa_Love_Your_W_2025_1.jpg",
-      "photographer": "티비텐 TV10",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "id": "aespa",
-      "imageUrl": "/assets/profiles/aespa.jpg",
-      "width": 960,
-      "height": 604,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "BABYMONSTER",
-      "category": "girl-groups",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:BabyMonster_Promoting_drip_on_2024112.png",
-      "photographer": "https://www.youtube.com/@SBS_Radio",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "id": "babymonster",
-      "imageUrl": "/assets/profiles/babymonster.jpg",
-      "width": 960,
-      "height": 435,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "BLACKPINK",
-      "category": "girl-groups",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20240809_Blackpink_Pink_Carpet_09.png",
-      "photographer": "K-POPIT 케이팝잇",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "id": "blackpink",
-      "imageUrl": "/assets/profiles/blackpink.jpg",
-      "width": 960,
-      "height": 494,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "Dreamcatcher",
-      "category": "girl-groups",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:190426_%EB%93%9C%EB%A6%BC%EC%BA%90%EC%B3%90_%EC%86%A1%EB%8F%84_%EB%B6%88%EA%BD%83%EC%B6%95%EC%A0%9C.jpg",
-      "photographer": "Explicit",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "id": "dreamcatcher-group",
-      "imageUrl": "/assets/profiles/dreamcatcher-group.jpg",
-      "width": 960,
-      "height": 640,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "GFRIEND",
-      "category": "girl-groups",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:200209_%EC%96%91%EC%B2%9C_%ED%8C%AC%EC%82%AC%EC%9D%B8%ED%9A%8C.jpg",
-      "photographer": "Jung Duo",
-      "license": "CC BY 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "id": "gfriend",
-      "imageUrl": "/assets/profiles/gfriend.jpg",
-      "width": 960,
-      "height": 640,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "Girls’ Generation",
-      "category": "girl-groups",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:220728_GG_poleposition_266_(53595169645).jpg",
-      "photographer": "Spes Sublimitas from Korea, Republic Of",
-      "license": "CC BY-SA 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-      "id": "girls-generation",
-      "imageUrl": "/assets/profiles/girls-generation.jpg",
-      "width": 960,
-      "height": 540,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "i-dle",
-      "category": "girl-groups",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:I-dle_at_Love_Your_W_on_October_15,_2025.png",
-      "photographer": "티비텐 TV10",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "id": "i-dle",
-      "imageUrl": "/assets/profiles/i-dle.jpg",
-      "width": 960,
-      "height": 517,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "ILLIT",
-      "category": "girl-groups",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Illit_in_January_2026.png",
-      "photographer": "https://www.youtube.com/@_TV10",
-      "license": "CC BY 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "id": "illit",
-      "imageUrl": "/assets/profiles/illit.jpg",
-      "width": 960,
-      "height": 485,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "ITZY",
-      "category": "girl-groups",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:251110_ITZY.png",
-      "photographer": "티비텐 TV10",
-      "license": "CC BY 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "id": "itzy",
-      "imageUrl": "/assets/profiles/itzy.jpg",
-      "width": 960,
-      "height": 540,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "IVE",
-      "category": "girl-groups",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ive_at_the_40th_Golden_Disc_Awards,_January_10,_2026_(2).png",
-      "photographer": "K-POPIT 케이팝잇",
-      "license": "CC BY 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "id": "ive-group",
-      "imageUrl": "/assets/profiles/ive-group.jpg",
-      "width": 960,
-      "height": 484,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "Kep1er",
-      "category": "girl-groups",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kep1er_Nov%2724_(cropped).png",
-      "photographer": "티비텐",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "id": "kep1er",
-      "imageUrl": "/assets/profiles/kep1er.jpg",
-      "width": 960,
-      "height": 504,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "KISS OF LIFE",
-      "category": "girl-groups",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:KISS_OF_LIFE_at_Music_Bank_(4K)_20240705_02.png",
-      "photographer": "https://www.youtube.com/@_TV10",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "id": "kiss-of-life-group",
-      "imageUrl": "/assets/profiles/kiss-of-life-group.jpg",
-      "width": 960,
-      "height": 465,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "LE SSERAFIM",
-      "category": "girl-groups",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Le_Sserafim_at_2026_Golden_Disc_awards.png",
-      "photographer": "https://www.youtube.com/@_TV10",
-      "license": "CC BY 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "id": "le-sserafim",
-      "imageUrl": "/assets/profiles/le-sserafim.jpg",
-      "width": 960,
-      "height": 498,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "MAMAMOO",
-      "category": "girl-groups",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mamamoo_in_September_2022.png",
-      "photographer": "무릎팍타짱",
-      "license": "CC BY 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "id": "mamamoo",
-      "imageUrl": "/assets/profiles/mamamoo.jpg",
-      "width": 960,
-      "height": 593,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "NewJeans",
-      "category": "girl-groups",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:NewJeans_2023_MelonMusicAwards_composite.jpg",
-      "photographer": "TenAsia",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "id": "newjeans",
-      "imageUrl": "/assets/profiles/newjeans.jpg",
-      "width": 960,
-      "height": 493,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "NMIXX",
-      "category": "girl-groups",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nmixx_in_Frankfurt_20260324_(1).jpg",
-      "photographer": "PFNKa",
-      "license": "CC BY 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "id": "nmixx",
-      "imageUrl": "/assets/profiles/nmixx.jpg",
-      "width": 960,
-      "height": 542,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "Red Velvet",
-      "category": "girl-groups",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EB%A0%88%EB%93%9C%EB%B2%A8%EB%B2%B3(Red_Velvet)_%EC%BC%80%EC%9D%B4%EC%BD%98_%EC%9E%AC%ED%8C%AC_2024_%EB%A0%88%EB%93%9C%EC%B9%B4%ED%8E%AB_KCON_JAPAN_2024_(1).jpg",
-      "photographer": "TV10",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "id": "red-velvet-group",
-      "imageUrl": "/assets/profiles/red-velvet-group.jpg",
-      "width": 960,
-      "height": 645,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "STAYC",
-      "category": "girl-groups",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:STAYC_Metamorphic_Showcase_240701.jpg",
-      "photographer": "티비텐",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "id": "stayc",
-      "imageUrl": "/assets/profiles/stayc.jpg",
-      "width": 960,
-      "height": 615,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "TWICE",
-      "category": "girl-groups",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Twice_260618.jpg",
-      "photographer": "K-POPIT 케이팝잇",
-      "license": "CC BY 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "id": "twice",
-      "imageUrl": "/assets/profiles/twice.jpg",
-      "width": 960,
-      "height": 540,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "ATEEZ",
-      "category": "boy-groups",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ATEEZ_in_August_2024_(cropped).jpg",
-      "photographer": "pinkllamanade",
-      "license": "CC BY-SA 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-      "id": "ateez",
-      "imageUrl": "/assets/profiles/ateez.jpg",
-      "width": 960,
-      "height": 501,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "BIGBANG",
-      "category": "boy-groups",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:BIGBANG_2011_(current_members_since_2023).jpg",
-      "photographer": "Korea.net / Korean Culture and Information Service",
-      "license": "CC BY-SA 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-      "id": "bigbang-south-korean-band",
-      "imageUrl": "/assets/profiles/bigbang-south-korean-band.jpg",
-      "width": 691,
-      "height": 869,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "BOYNEXTDOOR",
-      "category": "boy-groups",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2026-01-16_BOYNEXTDOOR_at_Golden_Disc_Awards_05_(cropped).png",
-      "photographer": "티비텐 TV10",
-      "license": "CC BY 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "id": "boynextdoor",
-      "imageUrl": "/assets/profiles/boynextdoor.jpg",
-      "width": 960,
-      "height": 521,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "BTS",
-      "category": "boy-groups",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:BTS_during_a_White_House_press_conference_May_31,_2022_(cropped).jpg",
-      "photographer": "The White House",
-      "license": "Public domain",
-      "licenseUrl": "",
-      "id": "bts",
-      "imageUrl": "/assets/profiles/bts.jpg",
-      "width": 960,
-      "height": 377,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "ENHYPEN",
-      "category": "boy-groups",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Enhypen,_June_2026.jpg",
-      "photographer": "K-POPIT",
-      "license": "CC BY 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "id": "enhypen",
-      "imageUrl": "/assets/profiles/enhypen.jpg",
-      "width": 960,
-      "height": 540,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "EXO",
-      "category": "boy-groups",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Exo_monster_160618_suwon.png",
-      "photographer": "https://www.youtube.com/user/mang2goon/about",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "id": "exo",
-      "imageUrl": "/assets/profiles/exo.jpg",
-      "width": 960,
-      "height": 541,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "GOT7",
-      "category": "boy-groups",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Got7_cheering_video_for_JYPE_16th_audition_01.jpg",
-      "photographer": "JYPAudition",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "id": "got7",
-      "imageUrl": "/assets/profiles/got7.jpg",
-      "width": 960,
-      "height": 396,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "MONSTA X",
-      "category": "boy-groups",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:MonstaX_in_Golden_Disc_Awards_2019.jpg",
-      "photographer": "Newsen [뉴스엔 김기태 기자]",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "id": "monsta-x",
-      "imageUrl": "/assets/profiles/monsta-x.jpg",
-      "width": 943,
-      "height": 681,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "NCT 127",
-      "category": "boy-groups",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:NCT127_-_Fact_Check_press_conference_Oct_6_2023.jpg",
-      "photographer": "K-POPIT 케이팝잇 (TV10)",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "id": "nct-127",
-      "imageUrl": "/assets/profiles/nct-127.jpg",
-      "width": 960,
-      "height": 510,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "NCT DREAM",
-      "category": "boy-groups",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:NCT_Dream_at_DREAM()SCAPE_Press_Conference.png",
-      "photographer": "K-POPIT 케이팝잇 (TV Ten)",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "id": "nct-dream",
-      "imageUrl": "/assets/profiles/nct-dream.jpg",
-      "width": 960,
-      "height": 427,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "RIIZE",
-      "category": "boy-groups",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Riize_at_the_2024_Melon_Music_Awards-2.png",
-      "photographer": "TenAsia",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "id": "riize",
-      "imageUrl": "/assets/profiles/riize.jpg",
-      "width": 960,
-      "height": 516,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "SEVENTEEN",
-      "category": "boy-groups",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seventeen_Carat_Land_24.jpg",
-      "photographer": "Seventeen",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "id": "seventeen-south-korean-band",
-      "imageUrl": "/assets/profiles/seventeen-south-korean-band.jpg",
-      "width": 960,
-      "height": 579,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "SHINee",
-      "category": "boy-groups",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shinee_for_Marie_Claire_Magazine_August_Issue_2021_07.jpg",
-      "photographer": "Marie Claire Korea",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "id": "shinee",
-      "imageUrl": "/assets/profiles/shinee.jpg",
-      "width": 960,
-      "height": 540,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "Stray Kids",
-      "category": "boy-groups",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stray_Kids_at_the_40th_Golden_Disc_Awards,_January_10,_2026_(1).png",
-      "photographer": "K-POPIT 케이팝잇",
-      "license": "CC BY 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "id": "stray-kids",
-      "imageUrl": "/assets/profiles/stray-kids.jpg",
-      "width": 960,
-      "height": 476,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "Super Junior",
-      "category": "boy-groups",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:KCON_2015_Super_Junior_DSC02998_(20357930851).jpg",
-      "photographer": "mduangdara from Midlothian, VA, United States",
-      "license": "CC BY-SA 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-      "id": "super-junior",
-      "imageUrl": "/assets/profiles/super-junior.jpg",
-      "width": 960,
-      "height": 640,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "THE BOYZ",
-      "category": "boy-groups",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:THE_BOYZ_%E2%80%98BE_AWARE%E2%80%99_Showcase_230220.jpg",
-      "photographer": "K-POPIT 케이팝잇",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "id": "the-boyz-south-korean-band",
-      "imageUrl": "/assets/profiles/the-boyz-south-korean-band.jpg",
-      "width": 960,
-      "height": 499,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "TOMORROW X TOGETHER",
-      "category": "boy-groups",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tomorrow_X_Together_at_a_Dior_event,_April_18,_2025.png",
-      "photographer": "K-POPIT 케이팝잇",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "id": "tomorrow-x-together",
-      "imageUrl": "/assets/profiles/tomorrow-x-together.jpg",
-      "width": 960,
-      "height": 513,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "TREASURE",
-      "category": "boy-groups",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:240405_%ED%8A%B8%EB%A0%88%EC%A0%80_TTA_Malaysia_1st_Place.jpg",
-      "photographer": "K-POPIT 케이팝잇",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "id": "treasure-band",
-      "imageUrl": "/assets/profiles/treasure-band.jpg",
-      "width": 960,
-      "height": 544,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "TWS",
-      "category": "boy-groups",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:TWS_at_the_2024_Melon_Music_Awards.png",
-      "photographer": "TenAsia",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "id": "tws-group",
-      "imageUrl": "/assets/profiles/tws-group.jpg",
-      "width": 960,
-      "height": 488,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "ZEROBASEONE",
-      "category": "boy-groups",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ZEROBASEONE_@_40th_Golden_Disc_Awards_(20260110).jpg",
-      "photographer": "TV10",
-      "license": "CC BY 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "id": "zerobaseone",
-      "imageUrl": "/assets/profiles/zerobaseone.jpg",
-      "width": 960,
-      "height": 531,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "Agust D",
-      "category": "soloists",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suga_for_Valentino_and_Marie_Claire_Korea_06.jpg",
-      "photographer": "Marie Claire Korea",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "id": "suga",
-      "imageUrl": "/assets/profiles/suga.jpg",
-      "width": 768,
-      "height": 960,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "BAEKHYUN",
-      "category": "soloists",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%ED%95%98%EC%96%80%EB%A8%B8%EB%A6%AC_%EB%B0%B1%ED%98%84_3.jpg",
-      "photographer": "DonutB_56",
-      "license": "CC BY 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "id": "baekhyun",
-      "imageUrl": "/assets/profiles/baekhyun.jpg",
-      "width": 640,
-      "height": 960,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "CHUNG HA",
-      "category": "soloists",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:CHUNG_HA_Shark_Ninja_PhotoCall_1.jpg",
-      "photographer": "K-POPIT 케이팝잇 TV10",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "id": "chung-ha",
-      "imageUrl": "/assets/profiles/chung-ha.jpg",
-      "width": 689,
-      "height": 960,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "D.O.",
-      "category": "soloists",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:D.O._at_the_press_conference_of_the_film_Underdog_in_January_2019.png",
-      "photographer": "Dispatch",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "id": "doh-kyung-soo",
-      "imageUrl": "/assets/profiles/doh-kyung-soo.jpg",
-      "width": 595,
-      "height": 778,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "IU",
-      "category": "soloists",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:IU_at_the_Est%C3%A9e_Lauder_launch_event,_26_February_2026_(10).png",
-      "photographer": "티비텐",
-      "license": "CC BY 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "id": "iu-entertainer",
-      "imageUrl": "/assets/profiles/iu-entertainer.jpg",
-      "width": 677,
-      "height": 960,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "j-hope",
-      "category": "soloists",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:J-Hope_at_W_Korea_Breast_Cancer_Campaign,_15_October_2025.png",
-      "photographer": "TV10",
-      "license": "CC BY 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "id": "j-hope",
-      "imageUrl": "/assets/profiles/j-hope.jpg",
-      "width": 615,
-      "height": 960,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "JENNIE",
-      "category": "soloists",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20260526_Jennie_Kim_04.jpg",
-      "photographer": "티비텐",
-      "license": "CC BY 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "id": "jennie-singer",
-      "imageUrl": "/assets/profiles/jennie-singer.jpg",
-      "width": 504,
-      "height": 642,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "Jimin",
-      "category": "soloists",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jimin_on_the_way_to_SBS_Radio,_31_March_2023_(2).jpg",
-      "photographer": "K-POPIT 케이팝잇 TV10",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "id": "jimin",
-      "imageUrl": "/assets/profiles/jimin.jpg",
-      "width": 500,
-      "height": 720,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "Jin",
-      "category": "soloists",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:BTS_Jin_at_Maison_Fred,_13_March_2025_04.png",
-      "photographer": "TV 10",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "id": "jin-singer",
-      "imageUrl": "/assets/profiles/jin-singer.jpg",
-      "width": 706,
-      "height": 960,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "JISOO",
-      "category": "soloists",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jisoo_at_Boyfriend_on_Demand_press_conference_on_26022026_(12).png",
-      "photographer": "티비텐 TV10",
-      "license": "CC BY 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "id": "jisoo",
-      "imageUrl": "/assets/profiles/jisoo.jpg",
-      "width": 616,
-      "height": 960,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "Jung Kook",
-      "category": "soloists",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jung_Kook_of_BTS,_February_12,_2026_(1).png",
-      "photographer": "K-POPIT 케이팝잇",
-      "license": "CC BY 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "id": "jung-kook",
-      "imageUrl": "/assets/profiles/jung-kook.jpg",
-      "width": 668,
-      "height": 960,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "KAI",
-      "category": "soloists",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marie_Claire_Korea_Mterview_Kai.png",
-      "photographer": "Marie Claire Korea",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "id": "kai-entertainer-born-1994",
-      "imageUrl": "/assets/profiles/kai-entertainer-born-1994.jpg",
-      "width": 593,
-      "height": 781,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "KEY",
-      "category": "soloists",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Key_in_November_2025.png",
-      "photographer": "TV10",
-      "license": "CC BY 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "id": "key-entertainer",
-      "imageUrl": "/assets/profiles/key-entertainer.jpg",
-      "width": 685,
-      "height": 960,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "LISA",
-      "category": "soloists",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20240314_Lisa_Manoban_07.jpg",
-      "photographer": "티비텐",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "id": "lisa-rapper",
-      "imageUrl": "/assets/profiles/lisa-rapper.jpg",
-      "width": 701,
-      "height": 960,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "RM",
-      "category": "soloists",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:RM_at_W_Korea_Love_Your_W,_November_2023.jpg",
-      "photographer": "K-POPIT 케이팝잇",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "id": "rm-musician",
-      "imageUrl": "/assets/profiles/rm-musician.jpg",
-      "width": 784,
-      "height": 960,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "ROSÉ",
-      "category": "soloists",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blackpink_Ros%C3%A9_Rimowa_1.jpg",
-      "photographer": "TV10",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "id": "ros-singer",
-      "imageUrl": "/assets/profiles/ros-singer.jpg",
-      "width": 687,
-      "height": 960,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "SUNMI",
-      "category": "soloists",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20230720_Lee_Sunmi_on_July_2023_01.jpg",
-      "photographer": "K-POPIT 케이팝잇",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "id": "sunmi",
-      "imageUrl": "/assets/profiles/sunmi.jpg",
-      "width": 779,
-      "height": 960,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "TAEMIN",
-      "category": "soloists",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:TAEMIN_AT_BST_HYDE_PARK_FESTIVAL(260729).png",
-      "photographer": "marie claire korea",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "id": "taemin",
-      "imageUrl": "/assets/profiles/taemin.jpg",
-      "width": 500,
-      "height": 604,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "TAEYEON",
-      "category": "soloists",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:250307_Taeyeon_@_-The_Tense-_in_Seoul_Day_1_(54371295597)_(cropped).jpg",
-      "photographer": "Spes Sublimitas from Korea, Republic Of",
-      "license": "CC BY-SA 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-      "id": "taeyeon",
-      "imageUrl": "/assets/profiles/taeyeon.jpg",
-      "width": 673,
-      "height": 960,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    },
-    {
-      "name": "V",
-      "category": "soloists",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:BTS%27s_V_20251004_04.jpg",
-      "photographer": "티비텐",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "id": "v-singer",
-      "imageUrl": "/assets/profiles/v-singer.jpg",
-      "width": 595,
-      "height": 720,
-      "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards."
-    }
-  ]
+ "updatedAt": "2026-11-20T00:00:00.000Z",
+ "items": [
+  {
+   "name": "2NE1",
+   "category": "girl-groups",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:2NE1_2013_kpop_hologram_(cropped).jpg",
+   "photographer": "WithEverland",
+   "license": "CC BY 2.5",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+   "id": "2ne1",
+   "imageUrl": "/assets/profiles/2ne1.jpg",
+   "width": 390,
+   "height": 230,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "debutYear": 2009,
+    "members": [
+     "Bom",
+     "Dara",
+     "CL",
+     "Minzy"
+    ],
+    "labels": [
+     "YG"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/2NE1"
+   }
+  },
+  {
+   "name": "aespa",
+   "category": "girl-groups",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aespa_Love_Your_W_2025_1.jpg",
+   "photographer": "티비텐 TV10",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "id": "aespa",
+   "imageUrl": "/assets/profiles/aespa.jpg",
+   "width": 960,
+   "height": 604,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "에스파",
+    "debutYear": 2020,
+    "members": [
+     "Karina",
+     "Giselle",
+     "Winter",
+     "Ningning"
+    ],
+    "labels": [
+     "SM",
+     "Warner",
+     "Capitol"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Aespa"
+   }
+  },
+  {
+   "name": "BABYMONSTER",
+   "category": "girl-groups",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:BabyMonster_Promoting_drip_on_2024112.png",
+   "photographer": "https://www.youtube.com/@SBS_Radio",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "id": "babymonster",
+   "imageUrl": "/assets/profiles/babymonster.jpg",
+   "width": 960,
+   "height": 435,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "베이비몬스터",
+    "debutYear": 2023,
+    "members": [
+     "Ruka",
+     "Pharita",
+     "Asa",
+     "Ahyeon",
+     "Rami",
+     "Rora",
+     "Chiquita"
+    ],
+    "labels": [
+     "YG",
+     "Sony Music Japan"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Babymonster"
+   }
+  },
+  {
+   "name": "BLACKPINK",
+   "category": "girl-groups",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:20240809_Blackpink_Pink_Carpet_09.png",
+   "photographer": "K-POPIT 케이팝잇",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "id": "blackpink",
+   "imageUrl": "/assets/profiles/blackpink.jpg",
+   "width": 960,
+   "height": 494,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "블랙핑크",
+    "debutYear": 2016,
+    "members": [
+     "Jisoo",
+     "Jennie",
+     "Rosé",
+     "Lisa"
+    ],
+    "labels": [
+     "YG",
+     "YGEX",
+     "Interscope"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Blackpink"
+   }
+  },
+  {
+   "name": "Dreamcatcher",
+   "category": "girl-groups",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:190426_%EB%93%9C%EB%A6%BC%EC%BA%90%EC%B3%90_%EC%86%A1%EB%8F%84_%EB%B6%88%EA%BD%83%EC%B6%95%EC%A0%9C.jpg",
+   "photographer": "Explicit",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "id": "dreamcatcher-group",
+   "imageUrl": "/assets/profiles/dreamcatcher-group.jpg",
+   "width": 960,
+   "height": 640,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "드림캐쳐",
+    "debutYear": 2017,
+    "members": [
+     "JiU",
+     "SuA",
+     "Siyeon",
+     "Handong",
+     "Yoohyeon",
+     "Dami",
+     "Gahyun"
+    ],
+    "labels": [
+     "Dreamcatcher Company",
+     "Pony Canyon"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Dreamcatcher_(group)"
+   }
+  },
+  {
+   "name": "GFRIEND",
+   "category": "girl-groups",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:200209_%EC%96%91%EC%B2%9C_%ED%8C%AC%EC%82%AC%EC%9D%B8%ED%9A%8C.jpg",
+   "photographer": "Jung Duo",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "id": "gfriend",
+   "imageUrl": "/assets/profiles/gfriend.jpg",
+   "width": 960,
+   "height": 640,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "여자친구",
+    "debutYear": 2015,
+    "members": [
+     "Sowon",
+     "Yerin",
+     "Eunha",
+     "Yuju",
+     "SinB",
+     "Umji"
+    ],
+    "labels": [
+     "Source Music",
+     "King"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/GFriend"
+   }
+  },
+  {
+   "name": "Girls’ Generation",
+   "category": "girl-groups",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:220728_GG_poleposition_266_(53595169645).jpg",
+   "photographer": "Spes Sublimitas from Korea, Republic Of",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "id": "girls-generation",
+   "imageUrl": "/assets/profiles/girls-generation.jpg",
+   "width": 960,
+   "height": 540,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "소녀시대",
+    "debutYear": 2007,
+    "members": [
+     "Taeyeon",
+     "Sunny",
+     "Tiffany",
+     "Hyoyeon",
+     "Yuri",
+     "Sooyoung",
+     "Yoona",
+     "Seohyun"
+    ],
+    "labels": [
+     "SM",
+     "EMI Japan",
+     "Interscope"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Girls'_Generation"
+   }
+  },
+  {
+   "name": "i-dle",
+   "category": "girl-groups",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:I-dle_at_Love_Your_W_on_October_15,_2025.png",
+   "photographer": "티비텐 TV10",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "id": "i-dle",
+   "imageUrl": "/assets/profiles/i-dle.jpg",
+   "width": 960,
+   "height": 517,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "아이들",
+    "debutYear": 2018,
+    "members": [
+     "Miyeon",
+     "Minnie",
+     "Soyeon",
+     "Yuqi",
+     "Shuhua"
+    ],
+    "labels": [
+     "Cube",
+     "U-Cube",
+     "Republic"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/I-dle"
+   }
+  },
+  {
+   "name": "ILLIT",
+   "category": "girl-groups",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Illit_in_January_2026.png",
+   "photographer": "https://www.youtube.com/@_TV10",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "id": "illit",
+   "imageUrl": "/assets/profiles/illit.jpg",
+   "width": 960,
+   "height": 485,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "아일릿",
+    "debutYear": 2024,
+    "members": [
+     "Yunah",
+     "Minju",
+     "Moka",
+     "Wonhee",
+     "Iroha"
+    ],
+    "labels": [
+     "Belift Lab",
+     "Polydor/Universal"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Illit"
+   }
+  },
+  {
+   "name": "ITZY",
+   "category": "girl-groups",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:251110_ITZY.png",
+   "photographer": "티비텐 TV10",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "id": "itzy",
+   "imageUrl": "/assets/profiles/itzy.jpg",
+   "width": 960,
+   "height": 540,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "있지",
+    "debutYear": 2019,
+    "members": [
+     "Yeji",
+     "Lia",
+     "Ryujin",
+     "Chaeryeong",
+     "Yuna"
+    ],
+    "labels": [
+     "JYP",
+     "Warner Japan",
+     "Republic"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Itzy"
+   }
+  },
+  {
+   "name": "IVE",
+   "category": "girl-groups",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ive_at_the_40th_Golden_Disc_Awards,_January_10,_2026_(2).png",
+   "photographer": "K-POPIT 케이팝잇",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "id": "ive-group",
+   "imageUrl": "/assets/profiles/ive-group.jpg",
+   "width": 960,
+   "height": 484,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "아이브",
+    "debutYear": 2021,
+    "members": [
+     "Gaeul",
+     "An Yu-jin",
+     "Rei",
+     "Jang Won-young",
+     "Liz",
+     "Leeseo"
+    ],
+    "labels": [
+     "Starship",
+     "Columbia"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ive_(group)"
+   }
+  },
+  {
+   "name": "Kep1er",
+   "category": "girl-groups",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kep1er_Nov%2724_(cropped).png",
+   "photographer": "티비텐",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "id": "kep1er",
+   "imageUrl": "/assets/profiles/kep1er.jpg",
+   "width": 960,
+   "height": 504,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "케플러",
+    "debutYear": 2022,
+    "members": [
+     "Choi Yu-jin",
+     "Shen Xiaoting",
+     "Kim Chae-hyun",
+     "Kim Da-yeon",
+     "Ezaki Hikaru",
+     "Huening Bahiyyih"
+    ],
+    "labels": [
+     "WakeOne",
+     "Klap",
+     "Ariola Japan"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Kep1er"
+   }
+  },
+  {
+   "name": "KISS OF LIFE",
+   "category": "girl-groups",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:KISS_OF_LIFE_at_Music_Bank_(4K)_20240705_02.png",
+   "photographer": "https://www.youtube.com/@_TV10",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "id": "kiss-of-life-group",
+   "imageUrl": "/assets/profiles/kiss-of-life-group.jpg",
+   "width": 960,
+   "height": 465,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "키스오브라이프",
+    "debutYear": 2023,
+    "members": [
+     "Julie",
+     "Natty",
+     "Belle",
+     "Haneul"
+    ],
+    "labels": [
+     "S2",
+     "Nippon Columbia"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Kiss_of_Life_(group)"
+   }
+  },
+  {
+   "name": "LE SSERAFIM",
+   "category": "girl-groups",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Le_Sserafim_at_2026_Golden_Disc_awards.png",
+   "photographer": "https://www.youtube.com/@_TV10",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "id": "le-sserafim",
+   "imageUrl": "/assets/profiles/le-sserafim.jpg",
+   "width": 960,
+   "height": 498,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "르세라핌",
+    "debutYear": 2022,
+    "members": [
+     "Sakura",
+     "Kim Chaewon",
+     "Huh Yunjin",
+     "Kazuha",
+     "Hong Eunchae"
+    ],
+    "labels": [
+     "Source Music",
+     "EMI/Universal Japan",
+     "Geffen"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Le_Sserafim"
+   }
+  },
+  {
+   "name": "MAMAMOO",
+   "category": "girl-groups",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mamamoo_in_September_2022.png",
+   "photographer": "무릎팍타짱",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "id": "mamamoo",
+   "imageUrl": "/assets/profiles/mamamoo.jpg",
+   "width": 960,
+   "height": 593,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "마마무",
+    "debutYear": 2014,
+    "members": [
+     "Solar",
+     "Moonbyul",
+     "Wheein",
+     "Hwasa"
+    ],
+    "labels": [
+     "RBW",
+     "Victor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Mamamoo"
+   }
+  },
+  {
+   "name": "NewJeans",
+   "category": "girl-groups",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:NewJeans_2023_MelonMusicAwards_composite.jpg",
+   "photographer": "TenAsia",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "id": "newjeans",
+   "imageUrl": "/assets/profiles/newjeans.jpg",
+   "width": 960,
+   "height": 493,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "뉴진스",
+    "debutYear": 2022,
+    "members": [
+     "Minji",
+     "Hanni",
+     "Haerin",
+     "Hyein"
+    ],
+    "labels": [
+     "ADOR",
+     "Geffen"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/NewJeans"
+   }
+  },
+  {
+   "name": "NMIXX",
+   "category": "girl-groups",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nmixx_in_Frankfurt_20260324_(1).jpg",
+   "photographer": "PFNKa",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "id": "nmixx",
+   "imageUrl": "/assets/profiles/nmixx.jpg",
+   "width": 960,
+   "height": 542,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "엔믹스",
+    "debutYear": 2022,
+    "members": [
+     "Lily",
+     "Haewon",
+     "Sullyoon",
+     "Bae",
+     "Jiwoo",
+     "Kyujin"
+    ],
+    "labels": [
+     "JYP",
+     "Republic"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Nmixx"
+   }
+  },
+  {
+   "name": "Red Velvet",
+   "category": "girl-groups",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EB%A0%88%EB%93%9C%EB%B2%A8%EB%B2%B3(Red_Velvet)_%EC%BC%80%EC%9D%B4%EC%BD%98_%EC%9E%AC%ED%8C%AC_2024_%EB%A0%88%EB%93%9C%EC%B9%B4%ED%8E%AB_KCON_JAPAN_2024_(1).jpg",
+   "photographer": "TV10",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "id": "red-velvet-group",
+   "imageUrl": "/assets/profiles/red-velvet-group.jpg",
+   "width": 960,
+   "height": 645,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "레드벨벳",
+    "debutYear": 2014,
+    "members": [
+     "Irene",
+     "Seulgi",
+     "Wendy",
+     "Joy",
+     "Yeri"
+    ],
+    "labels": [
+     "SM",
+     "Avex Trax"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Red_Velvet_(group)"
+   }
+  },
+  {
+   "name": "STAYC",
+   "category": "girl-groups",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:STAYC_Metamorphic_Showcase_240701.jpg",
+   "photographer": "티비텐",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "id": "stayc",
+   "imageUrl": "/assets/profiles/stayc.jpg",
+   "width": 960,
+   "height": 615,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "스테이씨",
+    "debutYear": 2020,
+    "members": [
+     "Sumin",
+     "Sieun",
+     "Isa",
+     "Seeun",
+     "Yoon",
+     "J"
+    ],
+    "labels": [
+     "High Up",
+     "Mercury Tokyo"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/STAYC"
+   }
+  },
+  {
+   "name": "TWICE",
+   "category": "girl-groups",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Twice_260618.jpg",
+   "photographer": "K-POPIT 케이팝잇",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "id": "twice",
+   "imageUrl": "/assets/profiles/twice.jpg",
+   "width": 960,
+   "height": 540,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "트와이스",
+    "debutYear": 2015,
+    "members": [
+     "Nayeon",
+     "Jeongyeon",
+     "Momo",
+     "Sana",
+     "Jihyo",
+     "Mina",
+     "Dahyun",
+     "Chaeyoung",
+     "Tzuyu"
+    ],
+    "labels": [
+     "JYP",
+     "Warner Japan",
+     "Republic"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Twice"
+   }
+  },
+  {
+   "name": "ATEEZ",
+   "category": "boy-groups",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:ATEEZ_in_August_2024_(cropped).jpg",
+   "photographer": "pinkllamanade",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "id": "ateez",
+   "imageUrl": "/assets/profiles/ateez.jpg",
+   "width": 960,
+   "height": 501,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "에이티즈",
+    "debutYear": 2018,
+    "members": [
+     "Hongjoong",
+     "Seonghwa",
+     "Yunho",
+     "Yeosang",
+     "San",
+     "Mingi",
+     "Wooyoung",
+     "Jongho"
+    ],
+    "labels": [
+     "KQ",
+     "Legacy",
+     "RCA"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ateez"
+   }
+  },
+  {
+   "name": "BIGBANG",
+   "category": "boy-groups",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:BIGBANG_2011_(current_members_since_2023).jpg",
+   "photographer": "Korea.net / Korean Culture and Information Service",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "id": "bigbang-south-korean-band",
+   "imageUrl": "/assets/profiles/bigbang-south-korean-band.jpg",
+   "width": 691,
+   "height": 869,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "빅뱅",
+    "debutYear": 2006,
+    "members": [
+     "Taeyang",
+     "G-Dragon",
+     "Daesung"
+    ],
+    "labels": [
+     "YG",
+     "Universal J",
+     "YGEX"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/BigBang_(South_Korean_band)"
+   }
+  },
+  {
+   "name": "BOYNEXTDOOR",
+   "category": "boy-groups",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:2026-01-16_BOYNEXTDOOR_at_Golden_Disc_Awards_05_(cropped).png",
+   "photographer": "티비텐 TV10",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "id": "boynextdoor",
+   "imageUrl": "/assets/profiles/boynextdoor.jpg",
+   "width": 960,
+   "height": 521,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "보이넥스트도어",
+    "debutYear": 2023,
+    "members": [
+     "Sungho",
+     "Riwoo",
+     "Myung Jaehyun",
+     "Taesan",
+     "Leehan",
+     "Woonhak"
+    ],
+    "labels": [
+     "KOZ",
+     "Universal Japan"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/BoyNextDoor"
+   }
+  },
+  {
+   "name": "BTS",
+   "category": "boy-groups",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:BTS_during_a_White_House_press_conference_May_31,_2022_(cropped).jpg",
+   "photographer": "The White House",
+   "license": "Public domain",
+   "licenseUrl": "",
+   "id": "bts",
+   "imageUrl": "/assets/profiles/bts.jpg",
+   "width": 960,
+   "height": 377,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "방탄소년단",
+    "debutYear": 2013,
+    "members": [
+     "Jin",
+     "Suga",
+     "J-Hope",
+     "RM",
+     "Jimin",
+     "V",
+     "Jung Kook"
+    ],
+    "labels": [
+     "Big Hit",
+     "Pony Canyon",
+     "Universal Music Japan"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/BTS"
+   }
+  },
+  {
+   "name": "ENHYPEN",
+   "category": "boy-groups",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Enhypen,_June_2026.jpg",
+   "photographer": "K-POPIT",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "id": "enhypen",
+   "imageUrl": "/assets/profiles/enhypen.jpg",
+   "width": 960,
+   "height": 540,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "엔하이픈",
+    "debutYear": 2020,
+    "members": [
+     "Jay",
+     "Jake",
+     "Sunghoon",
+     "Sunoo",
+     "Jungwon",
+     "Ni-Ki"
+    ],
+    "labels": [
+     "Belift Lab",
+     "Virgin/Universal Music Japan"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Enhypen"
+   }
+  },
+  {
+   "name": "EXO",
+   "category": "boy-groups",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Exo_monster_160618_suwon.png",
+   "photographer": "https://www.youtube.com/user/mang2goon/about",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "id": "exo",
+   "imageUrl": "/assets/profiles/exo.jpg",
+   "width": 960,
+   "height": 541,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "엑소",
+    "debutYear": 2012,
+    "members": [
+     "Xiumin",
+     "Suho",
+     "Lay",
+     "Baekhyun",
+     "Chen",
+     "Chanyeol",
+     "D.O.",
+     "Kai",
+     "Sehun"
+    ],
+    "labels": [
+     "SM",
+     "Avex"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Exo"
+   }
+  },
+  {
+   "name": "GOT7",
+   "category": "boy-groups",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Got7_cheering_video_for_JYPE_16th_audition_01.jpg",
+   "photographer": "JYPAudition",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "id": "got7",
+   "imageUrl": "/assets/profiles/got7.jpg",
+   "width": 960,
+   "height": 396,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "갓세븐",
+    "debutYear": 2014,
+    "members": [
+     "Mark",
+     "Jay B",
+     "Jackson",
+     "Jinyoung",
+     "Youngjae",
+     "BamBam",
+     "Yugyeom"
+    ],
+    "labels": [
+     "JYP",
+     "Sony Japan",
+     "Warner Music Korea"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Got7"
+   }
+  },
+  {
+   "name": "MONSTA X",
+   "category": "boy-groups",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:MonstaX_in_Golden_Disc_Awards_2019.jpg",
+   "photographer": "Newsen [뉴스엔 김기태 기자]",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "id": "monsta-x",
+   "imageUrl": "/assets/profiles/monsta-x.jpg",
+   "width": 943,
+   "height": 681,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "몬스타엑스",
+    "debutYear": 2015,
+    "members": [
+     "Shownu",
+     "Minhyuk",
+     "Kihyun",
+     "Hyungwon",
+     "Joohoney",
+     "I.M"
+    ],
+    "labels": [
+     "Starship",
+     "Mercury Tokyo",
+     "Intertwine"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Monsta_X"
+   }
+  },
+  {
+   "name": "NCT 127",
+   "category": "boy-groups",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:NCT127_-_Fact_Check_press_conference_Oct_6_2023.jpg",
+   "photographer": "K-POPIT 케이팝잇 (TV10)",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "id": "nct-127",
+   "imageUrl": "/assets/profiles/nct-127.jpg",
+   "width": 960,
+   "height": 510,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "엔시티 127",
+    "debutYear": 2016,
+    "members": [
+     "Johnny",
+     "Taeyong",
+     "Yuta",
+     "Doyoung",
+     "Jaehyun",
+     "Jungwoo",
+     "Haechan"
+    ],
+    "labels": [
+     "SM",
+     "Avex Trax",
+     "Capitol"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/NCT_127"
+   }
+  },
+  {
+   "name": "NCT DREAM",
+   "category": "boy-groups",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:NCT_Dream_at_DREAM()SCAPE_Press_Conference.png",
+   "photographer": "K-POPIT 케이팝잇 (TV Ten)",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "id": "nct-dream",
+   "imageUrl": "/assets/profiles/nct-dream.jpg",
+   "width": 960,
+   "height": 427,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "엔시티 드림",
+    "debutYear": 2016,
+    "members": [
+     "Renjun",
+     "Jeno",
+     "Haechan",
+     "Jaemin",
+     "Chenle",
+     "Jisung"
+    ],
+    "labels": [
+     "SM",
+     "Avex Trax",
+     "VMG"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/NCT_Dream"
+   }
+  },
+  {
+   "name": "RIIZE",
+   "category": "boy-groups",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Riize_at_the_2024_Melon_Music_Awards-2.png",
+   "photographer": "TenAsia",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "id": "riize",
+   "imageUrl": "/assets/profiles/riize.jpg",
+   "width": 960,
+   "height": 516,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "라이즈",
+    "debutYear": 2023,
+    "members": [
+     "Shotaro",
+     "Eunseok",
+     "Sungchan",
+     "Wonbin",
+     "Sohee",
+     "Anton"
+    ],
+    "labels": [
+     "SM",
+     "EMI/Universal Japan",
+     "RCA"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Riize"
+   }
+  },
+  {
+   "name": "SEVENTEEN",
+   "category": "boy-groups",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seventeen_Carat_Land_24.jpg",
+   "photographer": "Seventeen",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "id": "seventeen-south-korean-band",
+   "imageUrl": "/assets/profiles/seventeen-south-korean-band.jpg",
+   "width": 960,
+   "height": 579,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "세븐틴",
+    "debutYear": 2015,
+    "members": [
+     "S.Coups",
+     "Jeonghan",
+     "Joshua",
+     "Jun",
+     "Hoshi",
+     "Wonwoo",
+     "Woozi",
+     "DK",
+     "Mingyu",
+     "The8",
+     "Seungkwan",
+     "Vernon",
+     "Dino"
+    ],
+    "labels": [
+     "Pledis",
+     "Geffen",
+     "Universal"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Seventeen_(South_Korean_band)"
+   }
+  },
+  {
+   "name": "SHINee",
+   "category": "boy-groups",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shinee_for_Marie_Claire_Magazine_August_Issue_2021_07.jpg",
+   "photographer": "Marie Claire Korea",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "id": "shinee",
+   "imageUrl": "/assets/profiles/shinee.jpg",
+   "width": 960,
+   "height": 540,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "샤이니",
+    "debutYear": 2008,
+    "members": [
+     "Onew",
+     "Key",
+     "Minho",
+     "Taemin"
+    ],
+    "labels": [
+     "SM",
+     "EMI",
+     "Universal"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Shinee"
+   }
+  },
+  {
+   "name": "Stray Kids",
+   "category": "boy-groups",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stray_Kids_at_the_40th_Golden_Disc_Awards,_January_10,_2026_(1).png",
+   "photographer": "K-POPIT 케이팝잇",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "id": "stray-kids",
+   "imageUrl": "/assets/profiles/stray-kids.jpg",
+   "width": 960,
+   "height": 476,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "스트레이 키즈",
+    "debutYear": 2018,
+    "members": [
+     "Bang Chan",
+     "Lee Know",
+     "Changbin",
+     "Hyunjin",
+     "Han",
+     "Felix",
+     "Seungmin",
+     "I.N"
+    ],
+    "labels": [
+     "JYP",
+     "Epic Japan",
+     "Republic"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Stray_Kids"
+   }
+  },
+  {
+   "name": "Super Junior",
+   "category": "boy-groups",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:KCON_2015_Super_Junior_DSC02998_(20357930851).jpg",
+   "photographer": "mduangdara from Midlothian, VA, United States",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "id": "super-junior",
+   "imageUrl": "/assets/profiles/super-junior.jpg",
+   "width": 960,
+   "height": 640,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "슈퍼주니어",
+    "debutYear": 2005,
+    "members": [
+     "Leeteuk",
+     "Heechul",
+     "Yesung",
+     "Shindong",
+     "Sungmin",
+     "Eunhyuk",
+     "Siwon",
+     "Donghae",
+     "Ryeowook",
+     "Kyuhyun"
+    ],
+    "labels": [
+     "SM",
+     "Label SJ",
+     "Avex Trax"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Super_Junior"
+   }
+  },
+  {
+   "name": "THE BOYZ",
+   "category": "boy-groups",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:THE_BOYZ_%E2%80%98BE_AWARE%E2%80%99_Showcase_230220.jpg",
+   "photographer": "K-POPIT 케이팝잇",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "id": "the-boyz-south-korean-band",
+   "imageUrl": "/assets/profiles/the-boyz-south-korean-band.jpg",
+   "width": 960,
+   "height": 499,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "더보이즈",
+    "debutYear": 2017,
+    "members": [
+     "Sangyeon",
+     "Jacob",
+     "Younghoon",
+     "Hyunjae",
+     "Juyeon",
+     "Kevin",
+     "Q",
+     "Sunwoo",
+     "Eric"
+    ],
+    "labels": [
+     "IST",
+     "Ariola Japan",
+     "Universal"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Boyz_(South_Korean_band)"
+   }
+  },
+  {
+   "name": "TOMORROW X TOGETHER",
+   "category": "boy-groups",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tomorrow_X_Together_at_a_Dior_event,_April_18,_2025.png",
+   "photographer": "K-POPIT 케이팝잇",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "id": "tomorrow-x-together",
+   "imageUrl": "/assets/profiles/tomorrow-x-together.jpg",
+   "width": 960,
+   "height": 513,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "투모로우바이투게더",
+    "debutYear": 2019,
+    "members": [
+     "Yeonjun",
+     "Soobin",
+     "Beomgyu",
+     "Taehyun",
+     "Hueningkai"
+    ],
+    "labels": [
+     "Big Hit",
+     "Universal Japan",
+     "Republic"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Tomorrow_X_Together"
+   }
+  },
+  {
+   "name": "TREASURE",
+   "category": "boy-groups",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:240405_%ED%8A%B8%EB%A0%88%EC%A0%80_TTA_Malaysia_1st_Place.jpg",
+   "photographer": "K-POPIT 케이팝잇",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "id": "treasure-band",
+   "imageUrl": "/assets/profiles/treasure-band.jpg",
+   "width": 960,
+   "height": 544,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "트레저",
+    "debutYear": 2020,
+    "members": [
+     "Choi Hyun-suk",
+     "Jihoon",
+     "Yoshi",
+     "Junkyu",
+     "Yoon Jae-hyuk",
+     "Asahi",
+     "Doyoung",
+     "Haruto",
+     "Park Jeong-woo",
+     "So Jung-hwan"
+    ],
+    "labels": [
+     "YG",
+     "YGEX",
+     "Columbia"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Treasure_(band)"
+   }
+  },
+  {
+   "name": "TWS",
+   "category": "boy-groups",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:TWS_at_the_2024_Melon_Music_Awards.png",
+   "photographer": "TenAsia",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "id": "tws-group",
+   "imageUrl": "/assets/profiles/tws-group.jpg",
+   "width": 960,
+   "height": 488,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "투어스",
+    "debutYear": 2024,
+    "members": [
+     "Shinyu",
+     "Dohoon",
+     "Youngjae",
+     "Hanjin",
+     "Jihoon",
+     "Kyungmin"
+    ],
+    "labels": [
+     "Pledis",
+     "Interscope"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/TWS_(group)"
+   }
+  },
+  {
+   "name": "ZEROBASEONE",
+   "category": "boy-groups",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:ZEROBASEONE_@_40th_Golden_Disc_Awards_(20260110).jpg",
+   "photographer": "TV10",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "id": "zerobaseone",
+   "imageUrl": "/assets/profiles/zerobaseone.jpg",
+   "width": 960,
+   "height": 531,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "제로베이스원",
+    "debutYear": 2023,
+    "members": [
+     "Kim Ji-woong",
+     "Sung Han-bin",
+     "Seok Matthew",
+     "Kim Tae-rae",
+     "Park Gun-wook"
+    ],
+    "labels": [
+     "WakeOne",
+     "Lapone/Sony Japan"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Zerobaseone"
+   }
+  },
+  {
+   "name": "Agust D",
+   "category": "soloists",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suga_for_Valentino_and_Marie_Claire_Korea_06.jpg",
+   "photographer": "Marie Claire Korea",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "id": "suga",
+   "imageUrl": "/assets/profiles/suga.jpg",
+   "width": 768,
+   "height": 960,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "슈가",
+    "debutYear": 2013,
+    "born": "1993-03-09",
+    "group": "BTS",
+    "labels": [
+     "Big Hit"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Suga"
+   }
+  },
+  {
+   "name": "BAEKHYUN",
+   "category": "soloists",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%ED%95%98%EC%96%80%EB%A8%B8%EB%A6%AC_%EB%B0%B1%ED%98%84_3.jpg",
+   "photographer": "DonutB_56",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "id": "baekhyun",
+   "imageUrl": "/assets/profiles/baekhyun.jpg",
+   "width": 640,
+   "height": 960,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "백현",
+    "debutYear": 2012,
+    "born": "1992-05-06",
+    "group": "EXO",
+    "labels": [
+     "SM",
+     "INB100"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Baekhyun"
+   }
+  },
+  {
+   "name": "CHUNG HA",
+   "category": "soloists",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:CHUNG_HA_Shark_Ninja_PhotoCall_1.jpg",
+   "photographer": "K-POPIT 케이팝잇 TV10",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "id": "chung-ha",
+   "imageUrl": "/assets/profiles/chung-ha.jpg",
+   "width": 689,
+   "height": 960,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "청하",
+    "debutYear": 2016,
+    "born": "1996-02-09",
+    "labels": [
+     "MNH",
+     "YMC",
+     "Swing"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Chung_Ha"
+   }
+  },
+  {
+   "name": "D.O.",
+   "category": "soloists",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:D.O._at_the_press_conference_of_the_film_Underdog_in_January_2019.png",
+   "photographer": "Dispatch",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "id": "doh-kyung-soo",
+   "imageUrl": "/assets/profiles/doh-kyung-soo.jpg",
+   "width": 595,
+   "height": 778,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "도경수",
+    "debutYear": 2012,
+    "born": "1993-01-12",
+    "group": "EXO",
+    "labels": [
+     "SM",
+     "Company SooSoo"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Doh_Kyung-soo"
+   }
+  },
+  {
+   "name": "IU",
+   "category": "soloists",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:IU_at_the_Est%C3%A9e_Lauder_launch_event,_26_February_2026_(10).png",
+   "photographer": "티비텐",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "id": "iu-entertainer",
+   "imageUrl": "/assets/profiles/iu-entertainer.jpg",
+   "width": 677,
+   "height": 960,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "아이유",
+    "debutYear": 2008,
+    "born": "1993-05-16",
+    "labels": [
+     "EDAM",
+     "Universal Japan"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/IU_(entertainer)"
+   }
+  },
+  {
+   "name": "j-hope",
+   "category": "soloists",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:J-Hope_at_W_Korea_Breast_Cancer_Campaign,_15_October_2025.png",
+   "photographer": "TV10",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "id": "j-hope",
+   "imageUrl": "/assets/profiles/j-hope.jpg",
+   "width": 615,
+   "height": 960,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "제이홉",
+    "debutYear": 2013,
+    "born": "1994-02-18",
+    "group": "BTS",
+    "labels": [
+     "Big Hit"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/J-Hope"
+   }
+  },
+  {
+   "name": "JENNIE",
+   "category": "soloists",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:20260526_Jennie_Kim_04.jpg",
+   "photographer": "티비텐",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "id": "jennie-singer",
+   "imageUrl": "/assets/profiles/jennie-singer.jpg",
+   "width": 504,
+   "height": 642,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "제니",
+    "debutYear": 2016,
+    "born": "1996-01-16",
+    "group": "BLACKPINK",
+    "labels": [
+     "YG",
+     "Interscope",
+     "Odd Atelier"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jennie_(singer)"
+   }
+  },
+  {
+   "name": "Jimin",
+   "category": "soloists",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jimin_on_the_way_to_SBS_Radio,_31_March_2023_(2).jpg",
+   "photographer": "K-POPIT 케이팝잇 TV10",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "id": "jimin",
+   "imageUrl": "/assets/profiles/jimin.jpg",
+   "width": 500,
+   "height": 720,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "지민",
+    "debutYear": 2013,
+    "born": "1995-10-13",
+    "group": "BTS",
+    "labels": [
+     "Big Hit"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jimin"
+   }
+  },
+  {
+   "name": "Jin",
+   "category": "soloists",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:BTS_Jin_at_Maison_Fred,_13_March_2025_04.png",
+   "photographer": "TV 10",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "id": "jin-singer",
+   "imageUrl": "/assets/profiles/jin-singer.jpg",
+   "width": 706,
+   "height": 960,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "진",
+    "debutYear": 2013,
+    "born": "1992-12-04",
+    "group": "BTS",
+    "labels": [
+     "Big Hit"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jin_(singer)"
+   }
+  },
+  {
+   "name": "JISOO",
+   "category": "soloists",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jisoo_at_Boyfriend_on_Demand_press_conference_on_26022026_(12).png",
+   "photographer": "티비텐 TV10",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "id": "jisoo",
+   "imageUrl": "/assets/profiles/jisoo.jpg",
+   "width": 616,
+   "height": 960,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "지수",
+    "debutYear": 2016,
+    "born": "1995-01-03",
+    "group": "BLACKPINK",
+    "labels": [
+     "YG",
+     "Interscope",
+     "Blissoo"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jisoo"
+   }
+  },
+  {
+   "name": "Jung Kook",
+   "category": "soloists",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jung_Kook_of_BTS,_February_12,_2026_(1).png",
+   "photographer": "K-POPIT 케이팝잇",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "id": "jung-kook",
+   "imageUrl": "/assets/profiles/jung-kook.jpg",
+   "width": 668,
+   "height": 960,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "정국",
+    "debutYear": 2013,
+    "born": "1997-09-01",
+    "group": "BTS",
+    "labels": [
+     "Big Hit"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jung_Kook"
+   }
+  },
+  {
+   "name": "KAI",
+   "category": "soloists",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marie_Claire_Korea_Mterview_Kai.png",
+   "photographer": "Marie Claire Korea",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "id": "kai-entertainer-born-1994",
+   "imageUrl": "/assets/profiles/kai-entertainer-born-1994.jpg",
+   "width": 593,
+   "height": 781,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "카이",
+    "debutYear": 2012,
+    "born": "1994-01-14",
+    "group": "EXO",
+    "labels": [
+     "SM"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Kai_(entertainer,_born_1994)"
+   }
+  },
+  {
+   "name": "KEY",
+   "category": "soloists",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Key_in_November_2025.png",
+   "photographer": "TV10",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "id": "key-entertainer",
+   "imageUrl": "/assets/profiles/key-entertainer.jpg",
+   "width": 685,
+   "height": 960,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "키",
+    "debutYear": 2008,
+    "born": "1991-09-23",
+    "group": "SHINee",
+    "labels": [
+     "SM",
+     "Universal"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Key_(entertainer)"
+   }
+  },
+  {
+   "name": "LISA",
+   "category": "soloists",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:20240314_Lisa_Manoban_07.jpg",
+   "photographer": "티비텐",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "id": "lisa-rapper",
+   "imageUrl": "/assets/profiles/lisa-rapper.jpg",
+   "width": 701,
+   "height": 960,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "리사",
+    "debutYear": 2016,
+    "born": "1997-03-27",
+    "group": "BLACKPINK",
+    "labels": [
+     "YG",
+     "Interscope",
+     "Lloud"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Lisa_(rapper)"
+   }
+  },
+  {
+   "name": "RM",
+   "category": "soloists",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:RM_at_W_Korea_Love_Your_W,_November_2023.jpg",
+   "photographer": "K-POPIT 케이팝잇",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "id": "rm-musician",
+   "imageUrl": "/assets/profiles/rm-musician.jpg",
+   "width": 784,
+   "height": 960,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "알엠",
+    "debutYear": 2013,
+    "born": "1994-09-12",
+    "group": "BTS",
+    "labels": [
+     "Big Hit"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/RM_(musician)"
+   }
+  },
+  {
+   "name": "ROSÉ",
+   "category": "soloists",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blackpink_Ros%C3%A9_Rimowa_1.jpg",
+   "photographer": "TV10",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "id": "ros-singer",
+   "imageUrl": "/assets/profiles/ros-singer.jpg",
+   "width": 687,
+   "height": 960,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "로제",
+    "debutYear": 2016,
+    "born": "1997-02-11",
+    "group": "BLACKPINK",
+    "labels": [
+     "YG",
+     "Interscope",
+     "The Black Label"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ros%C3%A9_(singer)"
+   }
+  },
+  {
+   "name": "SUNMI",
+   "category": "soloists",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:20230720_Lee_Sunmi_on_July_2023_01.jpg",
+   "photographer": "K-POPIT 케이팝잇",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "id": "sunmi",
+   "imageUrl": "/assets/profiles/sunmi.jpg",
+   "width": 779,
+   "height": 960,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "선미",
+    "debutYear": 2007,
+    "born": "1992-05-02",
+    "labels": [
+     "JYP",
+     "Abyss Company"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Sunmi"
+   }
+  },
+  {
+   "name": "TAEMIN",
+   "category": "soloists",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:TAEMIN_AT_BST_HYDE_PARK_FESTIVAL(260729).png",
+   "photographer": "marie claire korea",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "id": "taemin",
+   "imageUrl": "/assets/profiles/taemin.jpg",
+   "width": 500,
+   "height": 604,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "태민",
+    "debutYear": 2008,
+    "born": "1993-07-18",
+    "group": "SHINee",
+    "labels": [
+     "SM",
+     "BPM"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Taemin"
+   }
+  },
+  {
+   "name": "TAEYEON",
+   "category": "soloists",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:250307_Taeyeon_@_-The_Tense-_in_Seoul_Day_1_(54371295597)_(cropped).jpg",
+   "photographer": "Spes Sublimitas from Korea, Republic Of",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "id": "taeyeon",
+   "imageUrl": "/assets/profiles/taeyeon.jpg",
+   "width": 673,
+   "height": 960,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "태연",
+    "debutYear": 2007,
+    "born": "1989-03-09",
+    "group": "Girls' Generation",
+    "labels": [
+     "SM",
+     "Universal Japan"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Taeyeon"
+   }
+  },
+  {
+   "name": "V",
+   "category": "soloists",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:BTS%27s_V_20251004_04.jpg",
+   "photographer": "티비텐",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "id": "v-singer",
+   "imageUrl": "/assets/profiles/v-singer.jpg",
+   "width": 595,
+   "height": 720,
+   "imageNote": "Resized and converted to JPEG; displayed cropped in directory cards.",
+   "details": {
+    "koreanName": "뷔",
+    "debutYear": 2013,
+    "born": "1995-12-30",
+    "group": "BTS",
+    "labels": [
+     "Big Hit"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/V_(singer)"
+   }
+  },
+  {
+   "name": "Song Kang-ho",
+   "category": "k-actors",
+   "id": "song-kang-ho",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Song_Gangho_2016.jpg/500px-Song_Gangho_2016.jpg",
+   "width": 500,
+   "height": 677,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Song_Gangho_2016.jpg",
+   "commonsFile": "Song_Gangho_2016.jpg",
+   "photographer": "Ministry of Information and Broadcasting",
+   "license": "GODL-India",
+   "licenseUrl": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+   "imageNote": "Shown as a Wikimedia Commons thumbnail; cropped in directory cards.",
+   "details": {
+    "koreanName": "송강호",
+    "debutYear": 1991,
+    "born": "1967-01-17",
+    "agency": "Sublime",
+    "wikipedia": "https://en.wikipedia.org/wiki/Song_Kang-ho"
+   }
+  },
+  {
+   "name": "Lee Byung-hun",
+   "category": "k-actors",
+   "id": "lee-byung-hun",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Lee_Byung-hun_2025_Toronto_(cropped).jpg/500px-Lee_Byung-hun_2025_Toronto_(cropped).jpg",
+   "width": 500,
+   "height": 678,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lee_Byung-hun_2025_Toronto_(cropped).jpg",
+   "commonsFile": "Lee_Byung-hun_2025_Toronto_(cropped).jpg",
+   "photographer": "Desmond Herzfelder",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "imageNote": "Shown as a Wikimedia Commons thumbnail; cropped in directory cards.",
+   "details": {
+    "koreanName": "이병헌",
+    "debutYear": 1991,
+    "born": "1970-07-12",
+    "agency": "BH Entertainment",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lee_Byung-hun"
+   }
+  },
+  {
+   "name": "Jun Ji-hyun",
+   "category": "k-actors",
+   "id": "jun-ji-hyun",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Jun_Ji-hyun_in_April_2026.png/500px-Jun_Ji-hyun_in_April_2026.png",
+   "width": 500,
+   "height": 649,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jun_Ji-hyun_in_April_2026.png",
+   "commonsFile": "Jun_Ji-hyun_in_April_2026.png",
+   "photographer": "TV10",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "imageNote": "Shown as a Wikimedia Commons thumbnail; cropped in directory cards.",
+   "details": {
+    "koreanName": "전지현",
+    "debutYear": 1997,
+    "born": "1981-10-30",
+    "agency": "Peachy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jun_Ji-hyun"
+   }
+  },
+  {
+   "name": "Song Hye-kyo",
+   "category": "k-actors",
+   "id": "song-hye-kyo",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Song_Hye_Kyo_2025_%EC%86%A1%ED%98%9C%EA%B5%90_04.jpg/500px-Song_Hye_Kyo_2025_%EC%86%A1%ED%98%9C%EA%B5%90_04.jpg",
+   "width": 500,
+   "height": 642,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Song_Hye_Kyo_2025_%EC%86%A1%ED%98%9C%EA%B5%90_04.jpg",
+   "commonsFile": "Song_Hye_Kyo_2025_송혜교_04.jpg",
+   "photographer": "K-POPIT 케이팝잇",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "imageNote": "Shown as a Wikimedia Commons thumbnail; cropped in directory cards.",
+   "details": {
+    "koreanName": "송혜교",
+    "debutYear": 1996,
+    "born": "1981-11-22",
+    "wikipedia": "https://en.wikipedia.org/wiki/Song_Hye-kyo"
+   }
+  },
+  {
+   "name": "Hyun Bin",
+   "category": "k-actors",
+   "id": "hyun-bin",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Hyun_Bin_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg/500px-Hyun_Bin_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+   "width": 500,
+   "height": 685,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hyun_Bin_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+   "commonsFile": "Hyun_Bin_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+   "photographer": "John Sears",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "imageNote": "Shown as a Wikimedia Commons thumbnail; cropped in directory cards.",
+   "details": {
+    "koreanName": "현빈",
+    "debutYear": 2003,
+    "born": "1982-09-25",
+    "agency": "VAST Entertainment",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hyun_Bin"
+   }
+  },
+  {
+   "name": "Son Ye-jin",
+   "category": "k-actors",
+   "id": "son-ye-jin",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Son_Ye-jin_in_May_2026.png/500px-Son_Ye-jin_in_May_2026.png",
+   "width": 500,
+   "height": 679,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Son_Ye-jin_in_May_2026.png",
+   "commonsFile": "Son_Ye-jin_in_May_2026.png",
+   "photographer": "TV10",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "imageNote": "Shown as a Wikimedia Commons thumbnail; cropped in directory cards.",
+   "details": {
+    "koreanName": "손예진",
+    "debutYear": 2000,
+    "born": "1982-01-11",
+    "agency": "MSTeam Entertainment",
+    "wikipedia": "https://en.wikipedia.org/wiki/Son_Ye-jin"
+   }
+  },
+  {
+   "name": "Gong Yoo",
+   "category": "k-actors",
+   "id": "gong-yoo",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Gong_Yoo_in_2021_-_3.png/500px-Gong_Yoo_in_2021_-_3.png",
+   "width": 500,
+   "height": 660,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gong_Yoo_in_2021_-_3.png",
+   "commonsFile": "Gong_Yoo_in_2021_-_3.png",
+   "photographer": "Marie Claire Korea",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "imageNote": "Shown as a Wikimedia Commons thumbnail; cropped in directory cards.",
+   "details": {
+    "koreanName": "공유",
+    "debutYear": 2001,
+    "born": "1979-07-10",
+    "agency": "Management SOOP",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gong_Yoo"
+   }
+  },
+  {
+   "name": "Park Min-young",
+   "category": "k-actors",
+   "id": "park-min-young",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/20250625_Park_Min-young_TAG_Heuer_PhotoCall.jpg/500px-20250625_Park_Min-young_TAG_Heuer_PhotoCall.jpg",
+   "width": 500,
+   "height": 667,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:20250625_Park_Min-young_TAG_Heuer_PhotoCall.jpg",
+   "commonsFile": "20250625_Park_Min-young_TAG_Heuer_PhotoCall.jpg",
+   "photographer": "K-POPIT 케이팝잇",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "imageNote": "Shown as a Wikimedia Commons thumbnail; cropped in directory cards.",
+   "details": {
+    "koreanName": "박민영",
+    "debutYear": 2005,
+    "born": "1986-03-04",
+    "agency": "Dareum Entertainment",
+    "wikipedia": "https://en.wikipedia.org/wiki/Park_Min-young"
+   }
+  },
+  {
+   "name": "Lee Min-ho",
+   "category": "k-actors",
+   "id": "lee-min-ho",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TIFF-2026-THE-ASSASSINS-LEE-MIN-HO-02.png/500px-TIFF-2026-THE-ASSASSINS-LEE-MIN-HO-02.png",
+   "width": 500,
+   "height": 750,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:TIFF-2026-THE-ASSASSINS-LEE-MIN-HO-02.png",
+   "commonsFile": "TIFF-2026-THE-ASSASSINS-LEE-MIN-HO-02.png",
+   "photographer": "JoshPopov",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "imageNote": "Shown as a Wikimedia Commons thumbnail; cropped in directory cards.",
+   "details": {
+    "koreanName": "이민호",
+    "debutYear": 2002,
+    "born": "1987-06-22",
+    "agency": "MYM Entertainment",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lee_Min-ho"
+   }
+  },
+  {
+   "name": "Song Joong-ki",
+   "category": "k-actors",
+   "id": "song-joong-ki",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Song_Joong-ki_at_Style_Icon_Asia_2016.jpg/500px-Song_Joong-ki_at_Style_Icon_Asia_2016.jpg",
+   "width": 500,
+   "height": 709,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Song_Joong-ki_at_Style_Icon_Asia_2016.jpg",
+   "commonsFile": "Song_Joong-ki_at_Style_Icon_Asia_2016.jpg",
+   "photographer": "Pabian",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "imageNote": "Shown as a Wikimedia Commons thumbnail; cropped in directory cards.",
+   "details": {
+    "koreanName": "송중기",
+    "debutYear": 2008,
+    "born": "1985-09-19",
+    "agency": "HighZium Studio",
+    "wikipedia": "https://en.wikipedia.org/wiki/Song_Joong-ki"
+   }
+  },
+  {
+   "name": "Bae Suzy",
+   "category": "k-actors",
+   "id": "bae-suzy",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Suzy_at_the_Longines_2026_new_product_presentation,_25_March_2026_04.png/500px-Suzy_at_the_Longines_2026_new_product_presentation,_25_March_2026_04.png",
+   "width": 500,
+   "height": 668,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suzy_at_the_Longines_2026_new_product_presentation,_25_March_2026_04.png",
+   "commonsFile": "Suzy_at_the_Longines_2026_new_product_presentation,_25_March_2026_04.png",
+   "photographer": "TV10",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "imageNote": "Shown as a Wikimedia Commons thumbnail; cropped in directory cards.",
+   "details": {
+    "koreanName": "수지",
+    "debutYear": 2010,
+    "born": "1994-10-10",
+    "agency": "Management SOOP",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bae_Suzy"
+   }
+  },
+  {
+   "name": "Park Eun-bin",
+   "category": "k-actors",
+   "id": "park-eun-bin",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Park_Eun-bin_in_July_2025.png/500px-Park_Eun-bin_in_July_2025.png",
+   "width": 500,
+   "height": 701,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Park_Eun-bin_in_July_2025.png",
+   "commonsFile": "Park_Eun-bin_in_July_2025.png",
+   "photographer": "TV10",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "imageNote": "Shown as a Wikimedia Commons thumbnail; cropped in directory cards.",
+   "details": {
+    "koreanName": "박은빈",
+    "debutYear": 1996,
+    "born": "1992-09-04",
+    "agency": "Namoo Actors",
+    "wikipedia": "https://en.wikipedia.org/wiki/Park_Eun-bin"
+   }
+  },
+  {
+   "name": "Ji Chang-wook",
+   "category": "k-actors",
+   "id": "ji-chang-wook",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ji_Chang-wook.jpg/500px-Ji_Chang-wook.jpg",
+   "width": 500,
+   "height": 505,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ji_Chang-wook.jpg",
+   "commonsFile": "Ji_Chang-wook.jpg",
+   "photographer": "Republic of Korea",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "imageNote": "Shown as a Wikimedia Commons thumbnail; cropped in directory cards.",
+   "details": {
+    "koreanName": "지창욱",
+    "debutYear": 2006,
+    "born": "1987-07-05",
+    "agency": "Spring Company",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ji_Chang-wook"
+   }
+  },
+  {
+   "name": "Kim Soo-hyun",
+   "category": "k-actors",
+   "id": "kim-soo-hyun",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Kim_Soo-hyun_in_August_2024_-_2.png/500px-Kim_Soo-hyun_in_August_2024_-_2.png",
+   "width": 500,
+   "height": 632,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kim_Soo-hyun_in_August_2024_-_2.png",
+   "commonsFile": "Kim_Soo-hyun_in_August_2024_-_2.png",
+   "photographer": "K-POPIT 케이팝잇",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "imageNote": "Shown as a Wikimedia Commons thumbnail; cropped in directory cards.",
+   "details": {
+    "koreanName": "김수현",
+    "debutYear": 2007,
+    "born": "1988-02-16",
+    "agency": "Goldmedalist",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kim_Soo-hyun"
+   }
+  },
+  {
+   "name": "Lee Jong-suk",
+   "category": "k-actors",
+   "id": "lee-jong-suk",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/LEE_Jong-suk_at_2026_Busan_International_Film_Festival_10.jpg/500px-LEE_Jong-suk_at_2026_Busan_International_Film_Festival_10.jpg",
+   "width": 500,
+   "height": 665,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:LEE_Jong-suk_at_2026_Busan_International_Film_Festival_10.jpg",
+   "commonsFile": "LEE_Jong-suk_at_2026_Busan_International_Film_Festival_10.jpg",
+   "photographer": "Arielaortizb",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "imageNote": "Shown as a Wikimedia Commons thumbnail; cropped in directory cards.",
+   "details": {
+    "koreanName": "이종석",
+    "debutYear": 2005,
+    "born": "1989-09-14",
+    "agency": "Ace Factory",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lee_Jong-suk"
+   }
+  },
+  {
+   "name": "Kim Go-eun",
+   "category": "k-actors",
+   "id": "kim-go-eun",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/050826_Kim_Go-eun_at_the_2026_Baeksang_Arts_Awards.png/500px-050826_Kim_Go-eun_at_the_2026_Baeksang_Arts_Awards.png",
+   "width": 500,
+   "height": 667,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:050826_Kim_Go-eun_at_the_2026_Baeksang_Arts_Awards.png",
+   "commonsFile": "050826_Kim_Go-eun_at_the_2026_Baeksang_Arts_Awards.png",
+   "photographer": "TV10 / Ten Asia",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "imageNote": "Shown as a Wikimedia Commons thumbnail; cropped in directory cards.",
+   "details": {
+    "koreanName": "김고은",
+    "debutYear": 2012,
+    "born": "1991-07-02",
+    "agency": "BH Entertainment",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kim_Go-eun"
+   }
+  },
+  {
+   "name": "Park Seo-joon",
+   "category": "k-actors",
+   "id": "park-seo-joon",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Park_Seo-joon_in_March_2026.png/500px-Park_Seo-joon_in_March_2026.png",
+   "width": 500,
+   "height": 701,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Park_Seo-joon_in_March_2026.png",
+   "commonsFile": "Park_Seo-joon_in_March_2026.png",
+   "photographer": "TV10",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "imageNote": "Shown as a Wikimedia Commons thumbnail; cropped in directory cards.",
+   "details": {
+    "koreanName": "박서준",
+    "debutYear": 2011,
+    "born": "1988-12-16",
+    "agency": "Awesome ENT",
+    "wikipedia": "https://en.wikipedia.org/wiki/Park_Seo-joon"
+   }
+  },
+  {
+   "name": "Kim Ji-won",
+   "category": "k-actors",
+   "id": "kim-ji-won",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Kim_Ji-won_in_May_2026.png/500px-Kim_Ji-won_in_May_2026.png",
+   "width": 500,
+   "height": 686,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kim_Ji-won_in_May_2026.png",
+   "commonsFile": "Kim_Ji-won_in_May_2026.png",
+   "photographer": "TV10",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "imageNote": "Shown as a Wikimedia Commons thumbnail; cropped in directory cards.",
+   "details": {
+    "koreanName": "김지원",
+    "debutYear": 2010,
+    "born": "1992-10-19",
+    "agency": "HighZium Studio",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kim_Ji-won_(actress)"
+   }
+  },
+  {
+   "name": "Park Bo-gum",
+   "category": "k-actors",
+   "id": "park-bo-gum",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Park_Bo-gum_%EB%B0%95%EB%B3%B4%EA%B2%80_%E6%9C%B4%E5%AF%B6%E5%8A%8D_for_Marie_Claire_Korea,_April_2025_4.png/500px-Park_Bo-gum_%EB%B0%95%EB%B3%B4%EA%B2%80_%E6%9C%B4%E5%AF%B6%E5%8A%8D_for_Marie_Claire_Korea,_April_2025_4.png",
+   "width": 500,
+   "height": 675,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Park_Bo-gum_%EB%B0%95%EB%B3%B4%EA%B2%80_%E6%9C%B4%E5%AF%B6%E5%8A%8D_for_Marie_Claire_Korea,_April_2025_4.png",
+   "commonsFile": "Park_Bo-gum_박보검_朴寶劍_for_Marie_Claire_Korea,_April_2025_4.png",
+   "photographer": "Marie Claire Korea",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "imageNote": "Shown as a Wikimedia Commons thumbnail; cropped in directory cards.",
+   "details": {
+    "koreanName": "박보검",
+    "debutYear": 2011,
+    "born": "1990-06-16",
+    "agency": "The Black Label",
+    "wikipedia": "https://en.wikipedia.org/wiki/Park_Bo-gum"
+   }
+  },
+  {
+   "name": "Jung Hae-in",
+   "category": "k-actors",
+   "id": "jung-hae-in",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Jung_Hae-in_at_Bvlgari_event_in_March_2025_02.jpg/500px-Jung_Hae-in_at_Bvlgari_event_in_March_2025_02.jpg",
+   "width": 500,
+   "height": 668,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jung_Hae-in_at_Bvlgari_event_in_March_2025_02.jpg",
+   "commonsFile": "Jung_Hae-in_at_Bvlgari_event_in_March_2025_02.jpg",
+   "photographer": "K-POPIT 케이팝잇",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "imageNote": "Shown as a Wikimedia Commons thumbnail; cropped in directory cards.",
+   "details": {
+    "koreanName": "정해인",
+    "debutYear": 2013,
+    "born": "1988-04-01",
+    "agency": "FNC Entertainment",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jung_Hae-in"
+   }
+  },
+  {
+   "name": "Kim Seon-ho",
+   "category": "k-actors",
+   "id": "kim-seon-ho",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Kim_Seon-ho_Bottega_2026_A.jpg/500px-Kim_Seon-ho_Bottega_2026_A.jpg",
+   "width": 500,
+   "height": 699,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kim_Seon-ho_Bottega_2026_A.jpg",
+   "commonsFile": "Kim_Seon-ho_Bottega_2026_A.jpg",
+   "photographer": "TV10",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "imageNote": "Shown as a Wikimedia Commons thumbnail; cropped in directory cards.",
+   "details": {
+    "koreanName": "김선호",
+    "debutYear": 2009,
+    "born": "1986-05-08",
+    "agency": "Fantagio",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kim_Seon-ho"
+   }
+  },
+  {
+   "name": "Han So-hee",
+   "category": "k-actors",
+   "id": "han-so-hee",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/250711_Han_So_Hee_(%ED%95%9C%EC%86%8C%ED%9D%AC).jpg/500px-250711_Han_So_Hee_(%ED%95%9C%EC%86%8C%ED%9D%AC).jpg",
+   "width": 500,
+   "height": 625,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:250711_Han_So_Hee_(%ED%95%9C%EC%86%8C%ED%9D%AC).jpg",
+   "commonsFile": "250711_Han_So_Hee_(한소희).jpg",
+   "photographer": "TV10",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "imageNote": "Shown as a Wikimedia Commons thumbnail; cropped in directory cards.",
+   "details": {
+    "koreanName": "한소희",
+    "debutYear": 2016,
+    "born": "1993-11-18",
+    "agency": "9ato Entertainment",
+    "wikipedia": "https://en.wikipedia.org/wiki/Han_So-hee"
+   }
+  },
+  {
+   "name": "Lee Do-hyun",
+   "category": "k-actors",
+   "id": "lee-do-hyun",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Lee_Do-hyun_%EC%9E%84%EB%8F%99%ED%98%84_2022.jpg/500px-Lee_Do-hyun_%EC%9E%84%EB%8F%99%ED%98%84_2022.jpg",
+   "width": 500,
+   "height": 618,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lee_Do-hyun_%EC%9E%84%EB%8F%99%ED%98%84_2022.jpg",
+   "commonsFile": "Lee_Do-hyun_임동현_2022.jpg",
+   "photographer": "K-POPIT 케이팝잇 / TV10",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "imageNote": "Shown as a Wikimedia Commons thumbnail; cropped in directory cards.",
+   "details": {
+    "koreanName": "이도현",
+    "debutYear": 2017,
+    "born": "1995-04-11",
+    "agency": "YH Entertainment",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lee_Do-hyun"
+   }
+  },
+  {
+   "name": "Byeon Woo-seok",
+   "category": "k-actors",
+   "id": "byeon-woo-seok",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Byeon_Woo-seok.jpg/500px-Byeon_Woo-seok.jpg",
+   "width": 500,
+   "height": 659,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Byeon_Woo-seok.jpg",
+   "commonsFile": "Byeon_Woo-seok.jpg",
+   "photographer": "Republic of Korea",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "imageNote": "Shown as a Wikimedia Commons thumbnail; cropped in directory cards.",
+   "details": {
+    "koreanName": "변우석",
+    "debutYear": 2010,
+    "born": "1991-10-31",
+    "agency": "Varo Entertainment",
+    "wikipedia": "https://en.wikipedia.org/wiki/Byeon_Woo-seok"
+   }
+  }
+ ]
 }
