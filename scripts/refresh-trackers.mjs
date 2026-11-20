@@ -1,11 +1,11 @@
 // Refresh factual dates from source listings. No AI-generated dates or paid API calls.
 import {readFile,writeFile} from 'node:fs/promises';
 import {createRequire} from 'node:module';
-import {parseComebacks,parseSmTickets,parseJsonLdEvents,mergeCalendar} from './lib/trackers.mjs';
+import {parseComebacks,parseSmTickets,parseJsonLdEvents,parseYouTubeReleases,mergeCalendar} from './lib/trackers.mjs';
 const dir=new URL('../data/',import.meta.url);
 const read=async name=>JSON.parse(await readFile(new URL(name+'.json',dir),'utf8'));
-const [sources,profiles,concerts,comebacks]=await Promise.all([read('tracker-sources'),read('profiles'),read('concerts-calendar'),read('comebacks-calendar')]);
-const names=[...new Set([...profiles.items.map(x=>x.name),...concerts.items.map(x=>x.artist)])];
+const [sources,profiles,concerts,comebacks,manual]=await Promise.all([read('tracker-sources'),read('profiles'),read('concerts-calendar'),read('comebacks-calendar'),read('manual-releases').catch(()=>({items:[]}))]);
+const names=[...new Set([...profiles.items.filter(x=>x.category!=='k-actors').map(x=>x.name),...concerts.items.map(x=>x.artist),...comebacks.items.map(x=>x.artist)])];
 let browserPromise;
 async function renderedHtml(url){
  if(!process.env.TRACKER_BROWSER_MODULE)throw Error('Browser renderer is not configured.');
@@ -19,14 +19,15 @@ async function renderedHtml(url){
   return await page.content();
  }finally{await page.close();}
 }
-const parse=(source,html)=>source.parser==='sm-tickets'?parseSmTickets(html,names):source.parser==='kpop-official'?parseComebacks(html):parseJsonLdEvents(html,names,source.url);
+const parse=(source,html)=>source.parser==='sm-tickets'?parseSmTickets(html,names):source.parser==='kpop-official'?parseComebacks(html):source.parser==='youtube-mv'?parseYouTubeReleases(html,names,source.name.replace(/ \(YouTube\)$/,'')):parseJsonLdEvents(html,names,source.url);
 const checkedAt=new Date().toISOString();
 const results=await Promise.all(sources.sources.map(async source=>{
  try{
-  const response=await fetch(source.url,{signal:AbortSignal.timeout(25000),headers:{'User-Agent':'HallyuScope/1.0 (+https://hallyuscope.com)','Accept':'text/html'}});
+  const response=await fetch(source.url,{signal:AbortSignal.timeout(25000),headers:{'User-Agent':'HallyuScope/1.0 (+https://hallyuscope.com)','Accept':source.parser==='youtube-mv'?'application/atom+xml,application/xml':'text/html'}});
   if(!response.ok)throw Error('HTTP '+response.status);
   const html=await response.text();
   let items=parse(source,html);
+  if(!items.length&&source.parser==='youtube-mv')return {...source,ok:true,count:0,checkedAt,items};
   if(!items.length&&process.env.TRACKER_BROWSER_MODULE){
    items=parse(source,await renderedHtml(source.url));
   }
@@ -38,7 +39,8 @@ if(browserPromise){const browser=await browserPromise.catch(()=>null);if(browser
 const summary={checkedAt,refreshMinutes:30,sources:results.map(({items,...x})=>x)};
 for(const [kind,previous] of [['concerts',concerts],['comebacks',comebacks]]){
  const successful=results.filter(x=>x.kind===kind&&x.ok);
- const incoming=successful.flatMap(x=>x.items);
+ // Hand-checked releases (data/manual-releases.json) fill gaps the feeds miss.
+ const incoming=[...successful.flatMap(x=>x.items),...(kind==='comebacks'?manual.items||[]:[])];
  const merged=mergeCalendar(previous.items||[],incoming,kind,checkedAt);
  const next={...previous,...(successful.length?{lastCheckedAt:checkedAt}:{}),...(merged.added||merged.changed?{updatedAt:checkedAt}:{}),items:merged.items};
  await writeFile(new URL(kind==='concerts'?'concerts-calendar.json':'comebacks-calendar.json',dir),JSON.stringify(next,null,2)+'\n');
