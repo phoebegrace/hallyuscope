@@ -94,6 +94,24 @@
       const sourceLabel = sources.length > 1 ? 'Sources' : 'Reporting source';
       const date = new Date(item.publishedAt || item.createdAt);
       const dateText = isFinite(date) ? date.toLocaleDateString('en-PH',{year:'numeric',month:'long',day:'numeric',timeZone:'Asia/Manila'}) : '';
+      // "Keep tracking" links send readers on to the trackers. The one that
+      // fits the story best (concert, comeback or actor news) leads.
+      const ctaCards = {
+        concerts: ['/concerts', 'Concert calendar', 'Every K-pop show in the Philippines, with ticket dates.'],
+        comebacks: ['/comebacks', 'Comeback calendar', 'Upcoming albums, singles and MV drops, day by day.'],
+        profiles: ['/profiles', 'K-Profiles', 'Quick facts on idols, groups and K-actors. Heart your bias.'],
+        albums: ['/albums', 'Album releases', 'New and upcoming albums with covers and tracklists.']
+      };
+      const storyText = [item.category, item.headline, item.dek].join(' ').toLowerCase();
+      const order = /concert|tour|fan ?meet|ticket|manila|arena|venue/.test(storyText) ? ['concerts','comebacks','profiles']
+        : /comeback|album|single|release|mv|debut|track|ep\b/.test(storyText) ? ['comebacks','albums','concerts']
+        : /drama|actor|actress|film|movie|series|netflix/.test(storyText) ? ['profiles','comebacks','concerts']
+        : ['comebacks','concerts','profiles'];
+      const ctaHtml = `<section class="article-cta" aria-labelledby="articleCtaHead">
+            <div class="article-cta-head"><span class="eyebrow">KEEP TRACKING</span><h2 id="articleCtaHead">Never miss the next one.</h2></div>
+            <div class="article-cta-grid">${order.map((k, i) => { const [href, label, text] = ctaCards[k];
+              return `<a class="article-cta-card${i === 0 ? ' is-lead' : ''}" href="${href}"><strong>${label}</strong><span>${text}</span><b aria-hidden="true">→</b></a>`; }).join('')}</div>
+          </section>`;
       root.innerHTML = `
         <article class="article-page">
           <div class="article-kicker">${esc(item.category || 'HALLYU NEWS')}</div>
@@ -103,6 +121,7 @@
           ${coverHtml}
           <div class="article-body">${(item.body || []).map(p => `<p>${esc(p)}</p>`).join('')}</div>
           <aside class="article-source"><strong>${sourceLabel}</strong><p>${sourceHtml}</p></aside>
+          ${ctaHtml}
           <section class="article-reactions" data-reactions>
             <div class="article-reactions-head">
               <div><span class="eyebrow">YOUR REACTION</span><h2>What do you think?</h2></div>
