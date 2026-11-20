@@ -273,3 +273,59 @@
     load();
   }
 })();
+
+// Newsletter signup on article and guide pages (same as the rest of the site).
+/* ---------- newsletter (posts to /api/subscribe → Brevo) ---------- */
+(() => {
+  const form = document.getElementById('newsletterForm');
+  if (!form) return;
+  const input = document.getElementById('newsletterEmail');
+  const btn = document.getElementById('newsletterSubmit');
+  const msg = document.getElementById('signupMessage');
+  const say = (text, state = '') => { msg.textContent = text; msg.className = 'meta' + (state ? ' ' + state : ''); };
+  form.addEventListener('submit', async e => {
+    e.preventDefault();
+    const email = (input.value || '').trim();
+    const website = (form.elements.website?.value || '').trim();
+    if (!email || !input.checkValidity()) { say('Please enter a valid email address.', 'err'); input.focus(); return; }
+    btn.disabled = true; btn.textContent = 'Joining…'; say('Adding you to the list…');
+    try {
+      const res = await fetch('/api/subscribe', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ email, website }) });
+      const data = await res.json().catch(() => ({}));
+      if (!res.ok) throw new Error(data.error || 'Unable to subscribe right now.');
+      say(data.message || 'You’re on the list.', 'ok');
+      form.reset();
+    } catch (err) {
+      say(err.message || 'Something went wrong. Please try again.', 'err');
+    } finally { btn.disabled = false; btn.textContent = 'Join free'; }
+  });
+})();
+
+/* ---------- newsletter preview: show this week's real headlines ---------- */
+(() => {
+  const ol = document.getElementById('nlPreview');
+  if (!ol) return;
+  const ta = document.createElement('textarea');
+  const clean = it => {
+    ta.innerHTML = it.title || ''; let t = ta.value.replace(/\s+/g, ' ').trim();
+    const src = (it.source || '').trim();
+    if (src && t.toLowerCase().endsWith((' - ' + src).toLowerCase())) t = t.slice(0, -(src.length + 3));
+    t = t.replace(/\s*\((?:📷|photo|via)[^)]*\)/gi, '').replace(/\s*\|\s*(?:via\b.*|vi|v)$/i, '').trim();
+    return t.length > 90 ? t.slice(0, 86).replace(/\s+\S*$/, '') + '…' : t;
+  };
+  const tagOf = t => /concert|tour|fan ?con|fan ?meeting|arena|ticket/i.test(t) ? 'Concert'
+    : /comeback|album|single|release|mv|title track|debut|teaser/i.test(t) ? 'Music'
+    : /drama|episode|series|netflix|film|actor|actress|cast/i.test(t) ? 'Drama' : 'News';
+  fetch('https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/data/latest.json?v=' + Math.floor(Date.now() / 6e5), { cache: 'no-store' })
+    .then(r => r.json())
+    .then(d => {
+      const items = (d.items || []).slice(0, 4);
+      if (!items.length) return;
+      ol.innerHTML = '';
+      items.forEach(it => {
+        const t = clean(it), li = document.createElement('li'), s = document.createElement('span'), tag = document.createElement('span');
+        s.textContent = t; tag.className = 'tag'; tag.dataset.t = tagOf(t); tag.textContent = tagOf(t);
+        li.append(s, tag); ol.appendChild(li);
+      });
+    }).catch(() => {});
+})();
