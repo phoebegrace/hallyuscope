@@ -2,6 +2,7 @@
 // GitHub's own cron often runs hours late, so a Cloudflare cron trigger
 // calls this endpoint every 30 minutes. Each workflow is started only when
 // its last run is older than its interval, so extra calls are harmless.
+import { draftWeekly, draftAlerts } from './newsletter.js';
 const OWNER='phoebegrace';
 const REPO='hallyuscope';
 const API='https://api.github.com';
@@ -35,5 +36,12 @@ export default async function handler(req,res){
    results.push({workflow:wf.file,started:true,lastRunMinutesAgo:ageMin});
   }catch(error){results.push({workflow:wf.file,started:false,error:error.message});}
  }
- res.status(results.some(x=>x.error)?502:200).json({checkedAt:new Date(now).toISOString(),results});
+ // The Weekly Scope: ticket and comeback alerts are checked on every run;
+ // the weekly issue is drafted on Friday morning (Manila) for a 6 PM send.
+ // Both only create Brevo drafts, never send.
+ const manila=new Date(now+8*3600000);
+ const newsletter={};
+ try{newsletter.alerts=await draftAlerts();}catch(error){newsletter.alerts={error:error.message};}
+ if(manila.getUTCDay()===5&&manila.getUTCHours()>=9){try{newsletter.weekly=await draftWeekly();}catch(error){newsletter.weekly={error:error.message};}}
+ res.status(results.some(x=>x.error)?502:200).json({checkedAt:new Date(now).toISOString(),results,newsletter});
 }
