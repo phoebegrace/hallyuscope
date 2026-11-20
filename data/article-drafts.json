@@ -1,8 +1,383 @@
 {
-  "updatedAt": "2026-11-20T03:26:20.426Z",
+  "updatedAt": "2026-11-20T09:13:48.829Z",
   "autoPublish": true,
   "note": "Auto-publish is ON. Newly generated HallyuScope articles publish immediately.",
   "items": [
+    {
+      "id": "815a6cf28746",
+      "createdAt": "2026-11-20T09:12:34.161Z",
+      "status": "published",
+      "publishedAt": "2026-11-20T09:12:34.161Z",
+      "sourcePublishedAt": "2026-11-20T08:30:44.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "stray-kids-hyunjin-named-dior-fashion-and-beauty-ambassador",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Stray Kids&#8217; Hyunjin Announced As New Ambassador For Dior",
+        "url": "https://www.soompi.com/article/1889199wpp/stray-kids-hyunjin-announced-as-new-ambassador-for-dior"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1889199wpp/stray-kids-hyunjin-announced-as-new-ambassador-for-dior",
+          "chars": 993,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/home/article/144/0001150928",
+          "chars": 509,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-20T09:12:34.160Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/815a6cf28746.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/20172056/hyunjin_58a970.jpeg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Stray Kids' Hyunjin named Dior fashion and beauty ambassador",
+      "dek": "The French luxury house announced Hyunjin as its new ambassador across both fashion and beauty on November 20.",
+      "body": [
+        "Stray Kids member Hyunjin is joining Dior as an ambassador for its fashion collections and beauty division, the French luxury house announced on November 20.",
+        "The appointment comes as Hyunjin is performing with Stray Kids on their ongoing world tour. Dior highlighted his charisma and distinctive sensibility in welcoming him to the brand.",
+        "According to Soompi, Hyunjin is expected to take part in a range of activities with Dior. His role spans areas overseen by several of the house's creative leaders, including creative director Jonathan Anderson.",
+        "The beauty side includes Dior Makeup, led by creative and image director Peter Philips, and Parfums Christian Dior, where Francis Kurkdjian is creative director."
+      ],
+      "socialCaption": "Hyunjin has a new role at Dior. Read on HallyuScope for the details of his fashion and beauty ambassadorship.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#Hyunjin",
+        "#StrayKids",
+        "#Dior",
+        "#DiorBeauty"
+      ],
+      "seoDescription": "Stray Kids' Hyunjin has been named a Dior ambassador for fashion and beauty, with the artist set to join the French house for future activities.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "6de3a89120b5",
+      "createdAt": "2026-11-20T09:12:51.117Z",
+      "status": "published",
+      "publishedAt": "2026-11-20T09:12:51.117Z",
+      "sourcePublishedAt": "2026-11-20T08:13:46.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "jang-nara-and-kim-hye-yoon-face-off-in-first-good-partner-2-courtroom-preview",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: Kim Hye Yoon Struggles To Keep Up With Jang Nara In Their First Courtroom Battle In “Good Partner 2”",
+        "url": "https://www.soompi.com/article/1889196wpp/watch-kim-hye-yoon-struggles-to-keep-up-with-jang-nara-in-their-first-courtroom-battle-in-good-partner-2"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1889196wpp/watch-kim-hye-yoon-struggles-to-keep-up-with-jang-nara-in-their-first-courtroom-battle-in-good-partner-2",
+          "chars": 2416,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "become each other's \"good partner\""
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-20T09:12:51.116Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/6de3a89120b5.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/20171339/good-partner-2-ep-1.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Jang Nara and Kim Hye Yoon Face Off in First 'Good Partner 2' Courtroom Preview",
+      "dek": "The first-episode clip pits the two lawyers against each other in a divorce case ahead of the drama's November 20 premiere.",
+      "body": [
+        "Jang Nara and Kim Hye Yoon are already on opposing sides in a new preview of \"Good Partner 2.\" Released ahead of the premiere, the clip shows their characters clashing over how to interpret an agreement between a divorcing couple.",
+        "Jang returns as star divorce lawyer Cha Eun Kyung, while Kim plays Kang Hye Sung, an experienced attorney who takes divorce cases seriously. The new season follows the two as they become each other's \"good partner.\" P.O also reprises his role as Jeon Eun Ho, who has become a more seasoned lawyer.",
+        "In the courtroom preview, Kang argues that the opposing side is making a subjective interpretation of a clause about not interfering in each other's private lives or outside relationships. Cha counters that the wording naturally supports her reading.",
+        "Initially caught off guard, Kang recalls Cha's earlier advice to set emotions aside and challenge the central argument. She asks whether private life and sex life are synonymous, a response that briefly impresses Cha.",
+        "But Cha quickly pushes back, citing legal precedent concerning affairs in divorce cases and telling Kang to focus on the actual issue. Kang is left struggling for a reply.",
+        "According to Soompi, \"Good Partner 2\" premieres November 20 at 9:50 p.m. KST and will be available on Viki."
+      ],
+      "socialCaption": "Jang Nara and Kim Hye Yoon meet in court in the first \"Good Partner 2\" preview. Read more about their clash on HallyuScope.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#GoodPartner2",
+        "#JangNara",
+        "#KimHyeYoon",
+        "#PO"
+      ],
+      "seoDescription": "Jang Nara and Kim Hye Yoon face off in a divorce case in the first Good Partner 2 preview. The drama premieres November 20 and will stream on Viki.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "6255789a6107",
+      "createdAt": "2026-11-20T09:13:06.323Z",
+      "status": "published",
+      "publishedAt": "2026-11-20T09:13:06.323Z",
+      "sourcePublishedAt": "2026-11-20T07:06:40.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "ahn-bo-hyun-leads-a-relic-hunt-in-new-sacred-jewel-poster",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Ahn Bo Hyun, Lee Sung Min, And More Set Out To Find The &#8220;Sacred Jewel&#8221; In New Drama Poster",
+        "url": "https://www.soompi.com/article/1889160wpp/ahn-bo-hyun-lee-sung-min-and-more-set-out-to-find-the-sacred-jewel-in-new-drama-poster"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1889160wpp/ahn-bo-hyun-lee-sung-min-and-more-set-out-to-find-the-sacred-jewel-in-new-drama-poster",
+          "chars": 1763,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/445/0000491829",
+          "chars": 1141,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [
+          "Jung Dae Yoon directed the drama, and Jung Hyun Min wrote the script."
+        ],
+        "checkedAt": "2026-11-20T09:13:06.323Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/6255789a6107.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/20160624/sacred-jewel-1-4.jpeg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "K-DRAMA NEWS",
+      "headline": "Ahn Bo Hyun Leads a Relic Hunt in New Sacred Jewel Poster",
+      "dek": "JTBC's historical drama brings an expedition and a princess to the battlefield in a story set during the Goryeo-Mongol War.",
+      "body": [
+        "Ahn Bo Hyun and Lee Sung Min face a perilous mission in the main poster for JTBC's upcoming historical drama \"Sacred Jewel,\" which premieres December 5 at 10:40 p.m. KST.",
+        "Set in 1258, the drama follows an expedition searching for the Avalokitesvara Bead, a sacred relic believed to have the power to protect Goryeo. With the kingdom close to defeat after about 30 years of war with Mongolia, a princess also heads to the battlefield to save the unit.",
+        "Ahn takes the central position in the poster as Baek Gyeol, who is appointed to lead the expedition by the emperor's decree. Beside him are Lee Sung Min as Yabyeolcho captain Choi Gu and Ha Yun Kyung as the guide Geol Seung. The three bear marks of battle as they look ahead.",
+        "Claudia Kim appears as Princess Gyeonghwa, Wang Hee, while Yoon Kyun Sang plays the armored defense inspector Wang Mu. A message on the poster points the team toward the eastern end of the country, where Goryeo's last hope lies.",
+        "The series will air on JTBC, with replay viewing available exclusively on Coupang Play and a global release through Amazon Prime."
+      ],
+      "socialCaption": "Ahn Bo Hyun leads a search for a sacred relic in JTBC's upcoming historical drama. Read on HallyuScope for the cast and premiere details.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#SacredJewel",
+        "#AhnBoHyun",
+        "#LeeSungMin",
+        "#ClaudiaKim"
+      ],
+      "seoDescription": "Ahn Bo Hyun, Lee Sung Min and Claudia Kim appear in the new Sacred Jewel poster. The JTBC historical drama premieres December 5 at 10:40 p.m. KST.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "5277eb55b0ab",
+      "createdAt": "2026-11-20T09:13:19.630Z",
+      "status": "published",
+      "publishedAt": "2026-11-20T09:13:19.630Z",
+      "sourcePublishedAt": "2026-11-20T06:50:23.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "song-kang-ho-to-play-mountain-villager-in-historical-comedy-heokgaebi",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Song Kang Ho Confirmed For New Historical Comedy Film",
+        "url": "https://www.soompi.com/article/1889159wpp/song-kang-ho-confirmed-for-new-historical-comedy-film"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1889159wpp/song-kang-ho-confirmed-for-new-historical-comedy-film",
+          "chars": 1292,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/home/article/312/0000785315",
+          "chars": 1335,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "a villager living deep in the mountains of Pyeongan Province"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-20T09:13:19.629Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/5277eb55b0ab.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/20155009/song-kang-ho-3.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Song Kang Ho to Play Mountain Villager in Historical Comedy Heokgaebi",
+      "dek": "The actor will team up with director Lee Seok Hoon for a film about villagers who capture a Japanese deserter and head to Hanyang.",
+      "body": [
+        "Song Kang Ho is set to star in “Heokgaebi,” a historical comedy-drama about a group of mountain villagers whose encounter with a Japanese soldier leads them on a journey to Hanyang, present-day Seoul.",
+        "Hive Media Corp announced the casting on November 20, Soompi reported. Song will play Il Bong, a villager living deep in the mountains of Pyeongan Province. After accidentally capturing a Japanese deserter, Il Bong sees a chance to change his fortunes.",
+        "Lee Seok Hoon, whose directing credits include “The Pirates,” “The Himalayas” and “Confidential Assignment 2: International,” will direct the film. It marks his first collaboration with Song, according to TenAsia.",
+        "The project also reunites Song with Hive Media Corp, which produced his upcoming film “Gardeners.” Hive Media Corp CEO Kim Won Guk said he was excited to work with the actor again, describing “Heokgaebi” as a story with a creative premise and distinctive characters.",
+        "Oscar 10 Studio is producing the film, while Hive Media Corp is handling investment and distribution. “Heokgaebi” is a literal title."
+      ],
+      "socialCaption": "Song Kang Ho is heading to Hanyang in a new historical comedy. Read on HallyuScope for the story behind his role and the team making the film.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#SongKangHo",
+        "#Heokgaebi",
+        "#LeeSeokHoon",
+        "#KoreanFilm"
+      ],
+      "seoDescription": "Song Kang Ho will star as a mountain villager in Heokgaebi, a historical comedy-drama directed by Lee Seok Hoon about a journey to Hanyang.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "dcbb8f057bee",
+      "createdAt": "2026-11-20T09:13:36.803Z",
+      "status": "published",
+      "publishedAt": "2026-11-20T09:13:36.803Z",
+      "sourcePublishedAt": "2026-11-20T04:54:40.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "my-sibling-s-romance-2-teaser-puts-family-advice-in-the-dating-mix",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: Siblings Experience An Array Of Emotions In &#8220;My Sibling&#8217;s Romance 2&#8221; Teaser",
+        "url": "https://www.soompi.com/article/1889093wpp/watch-siblings-experience-an-array-of-emotions-in-my-siblings-romance-2-teaser"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1889093wpp/watch-siblings-experience-an-array-of-emotions-in-my-siblings-romance-2-teaser",
+          "chars": 1801,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/382/0001305634",
+          "chars": 1529,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [
+          "The live guessing event asks viewers to identify the contestants' actual sibling relationships."
+        ],
+        "checkedAt": "2026-11-20T09:13:36.802Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/dcbb8f057bee.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/20125643/my-siblings-romance-2_6141a5.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "My Sibling's Romance 2 teaser puts family advice in the dating mix",
+      "dek": "The new season brings back its original panel as siblings navigate attraction, disagreements and each other's romantic choices.",
+      "body": [
+        "Siblings are ready to play matchmaker again in the main teaser for My Sibling's Romance 2. The dating reality show returns November 27 at 6 p.m. KST, with its first two episodes airing live.",
+        "As Soompi reports, the teaser follows participants looking for romantic connections while taking an active interest in their siblings' love lives. Alongside the excitement of meeting someone new, the preview shows family members questioning each other's choices and offering advice on how to approach a potential partner.",
+        "That involvement gives the search for romance an extra dimension: participants are considering not only their own matches, but also people who could become part of their family. The teaser also points to disagreements and emotional moments as the relationships develop.",
+        "A report from Donga.com says practical questions about careers and marriage come up as participants grow closer. It also notes that viewers can join a guessing event during the first episode's live broadcast, submitting answers in the chat for a chance to win gifts.",
+        "Han Hye Jin, Code Kunst, i-dle's Miyeon, Jonathan and Patricia return as panelists for season 2. The show's first season premiered in March 2024."
+      ],
+      "socialCaption": "The My Sibling's Romance 2 teaser brings dating advice and family opinions into the mix. Read on HallyuScope for the premiere details.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#MySiblingsRomance",
+        "#MySiblingsRomance2",
+        "#Miyeon",
+        "#CodeKunst"
+      ],
+      "seoDescription": "My Sibling's Romance 2 unveils its main teaser, with family dating advice, returning panelists and a November 27 premiere for the reality show's new season.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "d17578168337",
+      "createdAt": "2026-11-20T09:13:48.784Z",
+      "status": "published",
+      "publishedAt": "2026-11-20T09:13:48.784Z",
+      "sourcePublishedAt": "2026-11-19T15:15:34.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "bigbang-surprise-releases-digital-single-giiirip",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Listen: BIGBANG Commands Everyone To Stand Up In Surprise Digital Single “GiiiRIP”",
+        "url": "https://www.soompi.com/article/1888937wpp/bigbang-surprises-with-teasers-for-new-digital-single"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1888937wpp/bigbang-surprises-with-teasers-for-new-digital-single",
+          "chars": 864,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "Driven by heavy beats and intense synths, it carries a message of self-assurance",
+          "G-Dragon and Taeyang co-wrote and co-composed “GiiiRIP,” which incorporates interpolations from “Milkshake,” written by C. Hugo and Pharrell Williams."
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-20T09:13:48.784Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/d17578168337.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/20142547/bigbang-GiiiRIP.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "BIGBANG surprise-releases digital single 'GiiiRIP'",
+      "dek": "G-Dragon and Taeyang co-wrote and co-composed the new track, which arrived hours after its teaser images were revealed.",
+      "body": [
+        "BIGBANG released the surprise digital single “GiiiRIP” on November 20 at 2 p.m. KST, just 14 hours after revealing teaser images for the track.",
+        "The song's title means “stand up” in Korean. Driven by heavy beats and intense synths, it carries a message of self-assurance, Soompi reported.",
+        "G-Dragon and Taeyang co-wrote and co-composed “GiiiRIP,” which incorporates interpolations from “Milkshake,” written by C. Hugo and Pharrell Williams."
+      ],
+      "socialCaption": "BIGBANG dropped “GiiiRIP” just hours after its first teasers. Read on HallyuScope for more on the new single.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#BIGBANG",
+        "#GiiiRIP",
+        "#GDragon",
+        "#Taeyang"
+      ],
+      "seoDescription": "BIGBANG surprise-releases digital single 'GiiiRIP,' co-written and co-composed by G-Dragon and Taeyang, hours after revealing teaser images.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "755826422a3c",
       "createdAt": "2026-11-20T03:26:19.605Z",
