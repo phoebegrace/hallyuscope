@@ -116,7 +116,7 @@
         (dayEvents.length?'has-event ':'') + (dayEvents.length>1?'has-many ':'') + (isToday?'is-today':'') +
         '" data-date="'+key+'">' +
         '<span class="concert-day-num">'+day+'</span>' +
-        dayEvents.map(ev=>'<button type="button" class="concert-dot" data-event-id="'+esc(ev.id)+'">'+esc(ev.artist||ev.title||'Comeback')+'</button>').join('') +
+        dayEvents.map(ev=>'<button type="button" class="concert-dot" data-event-id="'+esc(ev.id)+'" aria-describedby="cbPeek">'+esc(ev.artist||ev.title||'Comeback')+'</button>').join('') +
         '</div>';
     }
     monthGrid.innerHTML=cells;
@@ -127,6 +127,41 @@
     count.textContent = upcoming.length + ' upcoming';
     list.innerHTML = upcoming.length ? upcoming.map(listCardHtml).join('') : '<p class="concert-empty">No verified upcoming K-pop comebacks have been added yet.</p>';
   }
+
+  // Hovering (or focusing) an artist on the calendar shows a small card with
+  // the release title, title track, type and date.
+  const peek=document.createElement('div');
+  peek.id='cbPeek'; peek.className='cb-peek'; peek.setAttribute('role','tooltip'); peek.hidden=true;
+  document.body.appendChild(peek);
+  function peekHtml(e){
+    const d=localDate(e.date);
+    const rows=[];
+    const lead=e.titleTrack||(e.tracks||[]).filter(x=>x&&x.titleTrack).map(x=>x.name||x.title).join(', ');
+    if(lead&&lead!==e.title) rows.push(['Title track',lead]);
+    if(e.tracks&&e.tracks.length) rows.push(['Tracks',e.tracks.length+' songs']);
+    rows.push(['Type',e.type||'Release']);
+    rows.push(['Date',fmt(d,{month:'long',day:'numeric',year:'numeric'})]);
+    if(e.status) rows.push(['Status',e.status]);
+    return (e.cover?'<img src="'+esc(e.cover)+'" alt="" onerror="this.remove()">':'')+
+      '<div><span class="cb-peek-artist">'+esc(e.artist||'Comeback')+'</span>'+
+      '<strong class="cb-peek-title">'+esc(e.title||'Untitled release')+'</strong>'+
+      '<dl>'+rows.map(([k,v])=>'<div><dt>'+esc(k)+'</dt><dd>'+esc(v)+'</dd></div>').join('')+'</dl></div>';
+  }
+  function showPeek(btn){
+    const e=events.find(x=>x.id===btn.dataset.eventId); if(!e) return;
+    peek.innerHTML=peekHtml(e); peek.hidden=false;
+    const r=btn.getBoundingClientRect(), w=peek.offsetWidth, h=peek.offsetHeight;
+    let left=Math.min(Math.max(8,r.left+r.width/2-w/2),window.innerWidth-w-8);
+    let top=r.top-h-10; if(top<8) top=r.bottom+10;
+    peek.style.left=left+'px'; peek.style.top=top+'px';
+  }
+  function hidePeek(){ peek.hidden=true; }
+  monthGrid.addEventListener('mouseover',ev=>{const b=ev.target.closest('.concert-dot'); if(b) showPeek(b);});
+  monthGrid.addEventListener('mouseout',ev=>{const b=ev.target.closest('.concert-dot'); if(b&&!b.contains(ev.relatedTarget)) hidePeek();});
+  monthGrid.addEventListener('focusin',ev=>{const b=ev.target.closest('.concert-dot'); if(b) showPeek(b);});
+  monthGrid.addEventListener('focusout',hidePeek);
+  monthGrid.addEventListener('click',hidePeek);
+  window.addEventListener('scroll',hidePeek,{passive:true});
 
   function listCardHtml(e){
     const d=localDate(e.date);

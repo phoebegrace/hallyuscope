@@ -10,6 +10,7 @@ on:
       - 'scripts/refresh-trackers.mjs'
       - 'scripts/lib/trackers.mjs'
       - 'data/tracker-sources.json'
+      - 'data/manual-releases.json'
 permissions:
   contents: write
 concurrency:
@@ -40,7 +41,7 @@ jobs:
           for attempt in 1 2 3; do
             git fetch origin main live-data
             git switch -C tracker-refresh origin/live-data
-            git checkout origin/main -- scripts/refresh-trackers.mjs scripts/lib/trackers.mjs data/tracker-sources.json data/profiles.json
+            git checkout origin/main -- scripts/refresh-trackers.mjs scripts/lib/trackers.mjs data/tracker-sources.json data/profiles.json data/manual-releases.json
             node scripts/refresh-trackers.mjs
             git add data/concerts-calendar.json data/comebacks-calendar.json data/tracker-health.json
             git diff --cached --quiet && exit 0

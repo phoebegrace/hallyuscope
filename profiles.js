@@ -8,7 +8,7 @@
   const status=document.querySelector('#profileResults');
   const empty=document.querySelector('#profileEmpty');
   const normalize=s=>s.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^\p{L}\p{N}]/gu,'');
-  const categories=new Set(['girl-groups','boy-groups','soloists','most-biased']);
+  const categories=new Set(['girl-groups','boy-groups','soloists','k-actors','most-biased']);
   let category=categories.has(location.hash.slice(1))?location.hash.slice(1):'all';
   function render(){
     const term=normalize(search.value);
@@ -21,10 +21,11 @@
     sections.forEach(section=>{
       const visible=[...section.querySelectorAll('[data-artist]')].filter(card=>!card.hidden).length;
       section.hidden=!visible;
-      section.querySelector('[data-section-count]').textContent=visible+' '+(visible===1?'artist':'artists');
+      const noun=section.dataset.noun||'artist';
+      section.querySelector('[data-section-count]').textContent=visible+' '+noun+(visible===1?'':'s');
     });
     filters.forEach(button=>button.setAttribute('aria-pressed',String(button.dataset.profileFilter===category)));
-    status.textContent=count+' '+(count===1?'artist':'artists')+(term?' matching “'+search.value+'”':'')+'. Select a photo to enlarge it.';
+    status.textContent=count+' '+(count===1?'profile':'profiles')+(term?' matching “'+search.value+'”':'')+'. Select a photo to enlarge it.';
     empty.hidden=!!count;
   }
   // ---- Bias hearts -------------------------------------------------------
@@ -107,7 +108,7 @@
     }
     arrangedAs=mode;
     ranked.hidden=mode!=='ranked'||!cards.some(c=>!c.hidden);
-    if(mode==='ranked'){ const n=cards.filter(c=>!c.hidden).length; ranked.querySelector('[data-ranked-count]').textContent=loaded?n+' artists, ranked by fan hearts':'Loading hearts…'; }
+    if(mode==='ranked'){ const n=cards.filter(c=>!c.hidden).length; ranked.querySelector('[data-ranked-count]').textContent=loaded?n+' profiles, ranked by fan hearts':'Loading hearts…'; }
   }
   filters.forEach(button=>button.addEventListener('click',()=>{
     category=button.dataset.profileFilter;
@@ -128,6 +129,21 @@
     dialog.showModal();
   });
   dialog.querySelector('button').addEventListener('click',()=>dialog.close());
+  // Photo credit "!" badges open on hover/focus (CSS); taps toggle them on touch screens.
+  const credits=[...directory.querySelectorAll('[data-photo-credit]')];
+  const closeCredits=except=>credits.forEach(c=>{if(c!==except)c.classList.remove('is-open');});
+  directory.addEventListener('click',event=>{
+    const badge=event.target.closest('[data-photo-credit]');
+    if(event.target.closest('.photo-credit-tip a'))return;
+    if(!badge){closeCredits();return;}
+    event.preventDefault();closeCredits(badge);badge.classList.toggle('is-open');
+  });
+  directory.addEventListener('keydown',event=>{
+    const badge=event.target.closest('[data-photo-credit]');
+    if(!badge)return;
+    if(event.key==='Escape'){badge.classList.remove('is-open');badge.blur();}
+    if(event.key==='Enter'||event.key===' '){event.preventDefault();badge.classList.toggle('is-open');}
+  });
   dialog.addEventListener('click',event=>{if(event.target===dialog)dialog.close();});
   render();
   loadBiases();
