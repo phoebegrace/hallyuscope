@@ -418,6 +418,20 @@ button,input{font:inherit;color:inherit}
 .article-source strong{display:block;color:var(--ink);font-size:12px;text-transform:uppercase;letter-spacing:.06em;margin-bottom:6px}
 .article-source p{margin:0}
 .article-back{margin-top:38px}
+.article-cta{margin:42px 0 0;padding:28px 0 0;border-top:1px solid var(--ink)}
+.article-cta-head{margin-bottom:18px}
+.article-cta-head h2{margin:8px 0 0;font:800 clamp(24px,2.6vw,32px)/1.1 var(--f)}
+.article-cta-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+.article-cta-card{position:relative;display:flex;flex-direction:column;gap:8px;padding:18px 44px 18px 18px;border:1px solid var(--hair);background:#fff;color:var(--ink);text-decoration:none;transition:border-color .2s,transform .2s,background .2s}
+.article-cta-card strong{font:800 17px/1.2 var(--f)}
+.article-cta-card span{font-size:14px;line-height:1.5;color:var(--mute)}
+.article-cta-card b{position:absolute;right:18px;top:18px;font-size:18px;transition:transform .2s}
+.article-cta-card:hover{border-color:var(--ink);transform:translateY(-2px)}
+.article-cta-card:hover b{transform:translateX(3px)}
+.article-cta-card.is-lead{background:var(--navy);border-color:var(--navy);color:#fff}
+.article-cta-card.is-lead span{color:rgba(255,255,255,.78)}
+.article-cta-card.is-lead:hover{background:var(--pink);border-color:var(--pink)}
+@media (max-width:760px){.article-cta-grid{grid-template-columns:1fr}}
 
 /* ---------- concert calendar ---------- */
 .concert-tools{display:flex;align-items:center;gap:18px;flex-wrap:wrap;margin-top:22px}
@@ -852,3 +866,15 @@ a.album-detail-back{text-decoration:none;color:inherit;display:inline-block}
 .album-stream{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px}
 .album-stream iframe{width:100%;height:352px;border:0;border-radius:10px}
 .album-related{padding:0}
+
+/* About and privacy pages */
+.legal-page{max-width:740px;font-size:17px;line-height:1.75;padding-top:8px}
+.legal-page h2{margin:2em 0 .5em;font:800 clamp(22px,2.2vw,28px)/1.15 var(--f)}
+.legal-page h2:first-child{margin-top:0}
+.legal-page p{margin:0 0 1.1em}
+.legal-page ul{margin:0 0 1.2em;padding-left:1.2em;display:grid;gap:.6em}
+.legal-page a{color:var(--navy);text-decoration:underline;text-decoration-color:var(--pink);text-decoration-thickness:2px;text-underline-offset:4px}
+.legal-page a:hover{color:var(--pink)}
+.legal-updated{font-size:13px;color:var(--mute);text-transform:uppercase;letter-spacing:.06em;font-weight:700}
+.foot-bottom a{color:inherit;text-decoration:underline;text-underline-offset:3px}
+.foot-bottom a:hover{color:#fff}

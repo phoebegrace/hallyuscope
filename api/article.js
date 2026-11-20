@@ -61,7 +61,7 @@ function shell({ title, description, canonical, image }) {
 <meta name="twitter:image" content="${esc(image)}">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,300..900&display=swap">
-<link rel="stylesheet" href="/styles.css">
+<link rel="stylesheet" href="/styles.css?v=20261120">
 </head>
 <body data-page="article">
 <header class="masthead"><div class="wrap">
@@ -74,6 +74,33 @@ function shell({ title, description, canonical, image }) {
 <main class="wrap article-shell" id="article">
   <p class="meta">Loading story…</p>
 </main>
+<section class="news-sign" aria-labelledby="nl-h">
+  <div class="wrap nl-in">
+    <div class="nl-copy">
+      <span class="kr">팬 뉴스</span>
+      <h2 id="nl-h">Get <em>The Weekly Scope</em></h2>
+      <p class="nl-sub">Everything Filipino K-pop fans need to know, in one email a week.</p>
+      <ul class="nl-perks">
+        <li><b>Comebacks</b> Release dates and teasers the moment they drop</li>
+        <li><b>PH concerts</b> Every Manila show and ticket sale in one list</li>
+        <li><b>Top stories</b> The week's must-reads in a 3-minute email</li>
+      </ul>
+      <form class="nl-form" id="newsletterForm" novalidate>
+        <label class="sr-only" for="newsletterEmail">Email address</label>
+        <div class="nl-row"><input id="newsletterEmail" name="email" type="email" placeholder="Your email address" autocomplete="email" required><button id="newsletterSubmit" type="submit">Join free</button></div>
+        <div class="hp" aria-hidden="true"><label>Website <input name="website" tabindex="-1" autocomplete="off"></label></div>
+        <p class="meta" id="signupMessage" role="status" aria-live="polite">Free · Once a week · Unsubscribe anytime</p>
+      </form>
+    </div>
+    <aside class="nl-preview" aria-hidden="true">
+      <div class="nl-mail scope locked">
+        <div class="nl-mail-top"><img src="/assets/hallyuscope-logo.png" alt="" width="2032" height="344"><span class="meta">This week's issue</span></div>
+        <ol class="nl-list" id="nlPreview"><li><span class="sk" style="width:90%"></span></li><li><span class="sk" style="width:75%"></span></li><li><span class="sk" style="width:85%"></span></li><li><span class="sk" style="width:70%"></span></li></ol>
+        <p class="nl-mail-foot meta">The Weekly Scope · Made for fans in the Philippines</p>
+      </div>
+    </aside>
+  </div>
+</section>
 <footer class="foot">
   <div class="wrap">
     <div class="foot-top">
@@ -81,10 +108,10 @@ function shell({ title, description, canonical, image }) {
       <div><h4>Sections</h4><ul><li><a href="/latest">Latest</a></li><li><a href="/concerts">Concerts</a></li><li><a href="/comebacks">Comebacks</a></li><li><a href="/profiles">K-Profile</a></li><li><a href="/features">Guides</a><a href="/latest">News</a></li></ul></div>
       <div><h4>HallyuScope</h4><p>Concert and comeback tracking for Filipino fans, plus artist profiles, news and practical guides.</p></div>
     </div>
-    <div class="foot-bottom"><span>© 2026 HallyuScope · hallyuscope.com</span><span>Independent fan publication. Not affiliated with any entertainment agency.</span></div>
+    <div class="foot-bottom"><span>© 2026 HallyuScope · <a href="/about">About</a> · <a href="/privacy">Privacy policy</a></span><span>Independent fan publication. Not affiliated with any entertainment agency.</span></div>
   </div>
 </footer>
-<script src="/article.js" defer></script>
+<script src="/article.js?v=20261120b" defer></script>
 </body>
 </html>`;
 }
