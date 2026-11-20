@@ -1,8 +1,73 @@
 {
-  "updatedAt": "2026-11-20T09:13:48.829Z",
+  "updatedAt": "2026-11-20T13:00:37.113Z",
   "autoPublish": true,
   "note": "Auto-publish is ON. Newly generated HallyuScope articles publish immediately.",
   "items": [
+    {
+      "id": "ab6a637a8ef2",
+      "createdAt": "2026-11-20T13:00:36.146Z",
+      "status": "published",
+      "publishedAt": "2026-11-20T13:00:36.146Z",
+      "sourcePublishedAt": "2026-11-20T10:27:02.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "kim-woo-bin-takes-on-a-last-place-baseball-team-in-new-gift-teaser",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: Kim Woo Bin Challenges His Underdog Players To Prove Their Worth In “GIFT” Teaser",
+        "url": "https://www.soompi.com/article/1889240wpp/watch-kim-woo-bin-challenges-his-underdog-players-to-prove-their-worth-in-gift-teaser"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1889240wpp/watch-kim-woo-bin-challenges-his-underdog-players-to-prove-their-worth-in-gift-teaser",
+          "chars": 2279,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/382/0001305845",
+          "chars": 985,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "the ability to see players' abilities"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-20T13:00:36.144Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/ab6a637a8ef2.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/20192512/gift-teaser-01.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "Kim Woo Bin Takes On a Last-Place Baseball Team in New GIFT Teaser",
+      "dek": "The tvN sports drama follows a former pro coach whose new ability puts him at odds with the high school players he is hired to lead.",
+      "body": [
+        "Kim Woo Bin is stepping onto a high school baseball field with a new advantage and a team he is not sure he can trust. A highlight teaser for tvN's upcoming drama \"GIFT\" introduces his character, Jung Min Yong, as he takes charge of Duckchun High School's last-place baseball team.",
+        "Based on a webtoon, the sports drama follows the former professional pitching coach after an incident earns him a reputation for verbal abuse and leaves him facing possible dismissal from the pro game. A serious car accident then brings him close to death, changes his personality and gives him the ability to see players' abilities.",
+        "Jung plans to use his newfound skill to get results at Duckchun, but the teaser shows him dismissing the players already on the team. His skepticism sets up a clash with students who are determined to keep playing despite their low ranking.",
+        "The preview also contrasts the coach's stern approach with the team's playful energy, showing the students joking around and running through school hallways. Jung challenges them to show him their best, even as he can see their limits.",
+        "\"GIFT\" premieres December 5 at 9:10 p.m. KST on tvN."
+      ],
+      "socialCaption": "Kim Woo Bin's new coach can see his players' abilities, but he has little faith in his team. Read about the GIFT teaser on HallyuScope.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#KimWooBin",
+        "#GIFT",
+        "#KDrama",
+        "#tvNDrama"
+      ],
+      "seoDescription": "Kim Woo Bin stars as a coach with a special ability in tvN's GIFT. Watch as a new teaser sets up his clash with a last-place high school baseball team.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "815a6cf28746",
       "createdAt": "2026-11-20T09:12:34.161Z",
@@ -1569,7 +1634,7 @@
           }
         ]
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/c3df9bc871ec.svg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/c3df9bc871ec-article-mwmbihad.png",
       "imageType": "hallyuscope_original",
       "sourceImageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/c3df9bc871ec-article-mwmbihad.png",
       "imagePolicy": {
@@ -3500,7 +3565,7 @@
         "missingKeyFacts": [],
         "checkedAt": "2026-11-15T22:54:22.580Z"
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/7fd6d835354b.svg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/7fd6d835354b-article-mwivz60t.jpg",
       "imageType": "hallyuscope_original",
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/16065135/P1Harmony_a73303.jpeg",
       "imagePolicy": {
@@ -4001,7 +4066,7 @@
         "missingKeyFacts": [],
         "checkedAt": "2026-11-15T11:04:39.914Z"
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/f4517b197772.svg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/f4517b197772-article-mwm8zrzc.png",
       "imageType": "hallyuscope_original",
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/15125726/Yeonjun.jpg",
       "imagePolicy": {
@@ -5831,7 +5896,7 @@
         "missingKeyFacts": [],
         "checkedAt": "2026-11-12T03:53:05.835Z"
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/63575739f218.svg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/63575739f218-article-mwdji9ai.webp",
       "imageType": "hallyuscope_original",
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/12080334/IVE-RIIZE-ILLIT-A2O-LITE.jpg",
       "imagePolicy": {
@@ -6235,7 +6300,7 @@
           }
         ]
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/1c5eacc177cc.svg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/1c5eacc177cc-article-mwbw502a.jpg",
       "imageType": "hallyuscope_original",
       "sourceImageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/1c5eacc177cc-article-mwbw502a.jpg",
       "imagePolicy": {
@@ -6378,7 +6443,7 @@
         "missingKeyFacts": [],
         "checkedAt": "2026-11-11T07:47:41.562Z"
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/92304963fa50.svg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/92304963fa50-article-mwc6pdwc.jpg",
       "imageType": "hallyuscope_original",
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/11155827/coachella-1.png",
       "imagePolicy": {
@@ -6812,7 +6877,7 @@
         "missingKeyFacts": [],
         "checkedAt": "2026-11-11T00:42:42.543Z"
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/0c40e3daab95.svg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/0c40e3daab95-article-mwbtm6kr.jpg",
       "imageType": "hallyuscope_original",
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/09070452/ATEEZ-Knowing-Bros.jpg",
       "imagePolicy": {
@@ -7073,7 +7138,7 @@
         "missingKeyFacts": [],
         "checkedAt": "2026-11-10T19:48:30.360Z"
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/df3cafc3f1e1.svg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/df3cafc3f1e1-article-mwbg1vo0.webp",
       "imageType": "hallyuscope_original",
       "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/11042208/IVE.jpeg",
       "imagePolicy": {
@@ -7726,7 +7791,7 @@
           }
         ]
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/53266a8b46cf.svg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/53266a8b46cf-article-mwaionji.jpg",
       "imageType": "hallyuscope_original",
       "sourceImageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/53266a8b46cf-article-mwaionji.jpg",
       "imagePolicy": {
@@ -7821,7 +7886,7 @@
           }
         ]
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/87dd3ef213b2.svg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/87dd3ef213b2-article-mwahxctp.jpg",
       "imageType": "hallyuscope_original",
       "sourceImageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/87dd3ef213b2-article-mwahxctp.jpg",
       "imagePolicy": {
@@ -7877,7 +7942,7 @@
         "title": "ILLIT's 'Break Even' debuts at 6th on Billboard 200",
         "url": "https://www.soompi.com/article/1885116wpp/illit-debuts-at-no-1-on-billboard-top-album-sales-chart-no-6-on-billboard-200-with-break-even"
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/d11d8fb9fea2.svg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/d11d8fb9fea2-article-mwaiulay.webp",
       "imageType": "hallyuscope_original",
       "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imagePolicy": {
@@ -7952,7 +8017,7 @@
         "title": "Joy And Kim Hyun Jin’s Repeated Chance Encounters Lead To A Misunderstanding In “One-Of-A-Kind Romance”",
         "url": "https://www.soompi.com/article/1885290wpp/joy-and-kim-hyun-jins-repeated-chance-encounters-lead-to-a-misunderstanding-in-one-of-a-kind-romance"
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/fead16e2b965.svg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/fead16e2b965-article-mwagd9kz.jpg",
       "category": "K-DRAMA NEWS",
       "headline": "Joy and Kim Hyun Jin Get Off to a Rocky Start in ‘One-of-a-Kind Romance’",
       "dek": "Repeated encounters leave a job seeker under suspicion by a top star in the webtoon-based drama's first two episodes.",
@@ -8018,7 +8083,7 @@
         "title": "Shin Min Ah, Ju Ji Hoon, Lee Jong Suk, And Lee Se Young Embody The Fantasy Romance Genre In &#8220;The Remarried Empress&#8221;",
         "url": "https://www.soompi.com/article/1885259wpp/shin-min-ah-ju-ji-hoon-lee-jong-suk-and-lee-se-young-embody-the-fantasy-romance-genre-in-the-remarried-empress"
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/59bb35192591.svg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/59bb35192591-article-mwagk068.webp",
       "category": "K-DRAMA NEWS",
       "headline": "‘The Remarried Empress’ Unveils Palace Stills of Its Four Leads",
       "dek": "Shin Min Ah, Ju Ji Hoon, Lee Jong Suk and Lee Se Young appear in new images from the Disney+ fantasy romance.",
@@ -8094,7 +8159,7 @@
         "title": "Watch: Kim Woo Bin And Seo Eun Soo Test If Talent Or Effort Is More Important In New Drama “GIFT” Teaser",
         "url": "https://www.soompi.com/article/1885150wpp/kim-woo-bin-and-seo-eun-soo-test-if-talent-or-effort-is-more-important-in-new-drama-gift-teaser"
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/83cc7ae8b16d.svg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/83cc7ae8b16d-article-mwakvcyz.jpg",
       "category": "K-DRAMA NEWS",
       "headline": "Kim Woo Bin weighs talent against effort in teaser for baseball drama ‘GIFT’",
       "dek": "The tvN series stars Kim Woo Bin as a former professional pitching coach who takes charge of a struggling high school team.",
@@ -8318,7 +8383,7 @@
         "title": "Universal Pictures Content Group, Crosswalk acquire K-pop doc ‘Twice: This Is For… You’",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdUlKWjF1VTV2dm1qUDRHSWYzb3gxdXVrbEMtNVRYOVRoajVzVW1NYTM1V2pjSkxHaEUzUFhKS2VWVmJsZU41WXFjT0FhcFlzZ3VrNGNYQ1JHYmRNTWZObkU1R0I3RGREcEpvZVVLbXljaGhTT2FaZUhCN0JIUlBxNnpMTlIzWFo4TGx1UzVBNFh0OEcyUlpPbEpnem1kbGVKUXVsbGc4czNIXzgwZmpDOUpNeVltcjAta2R4aTVSakR2S1FGLUZSTzUxNA"
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/a6a941dacea7.svg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/a6a941dacea7-article-mwal6o4j.jpg",
       "imageType": "hallyuscope_original",
       "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imagePolicy": {
@@ -8435,7 +8500,7 @@
         "title": "‘KPop Demon Hunters’ Directors Board Animated Short ‘Living With a Visionary’ as Exec Producers (Exclusive)",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOUhlS2ZRWlN5OEVKLXNmUU5Xd3Vyc3dUT19ueWJ5eFZ6ZGVQbk4wQ1dRdlBnMlRpYmNaOGl5blNwdjhFdEQ1anhjQnU3MUlQcDhRWVVqUXozYUdhcVZ5NzBYQUl0cVRlc0h5OXpzaFRfbWNIMDRwbGZtTTNvVVlwR3lqempOYVVTZ3FSRXZWU1JNaWFCRHVwRGdkMjYwVzQzeV9ubWhIQnJQZ1loN21iTkFnMlQwNXFnT1RnWDZkbw"
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/d97752446bf6.svg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/d97752446bf6-article-mwabjesk.jpg",
       "imageType": "hallyuscope_original",
       "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imagePolicy": {
@@ -9006,7 +9071,7 @@
         "title": "K-pop association pushes back on New York Times report over NewJeans contract protections",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYU9UZDVpOEV2QzlYR3M1b0t5RjJNZ3pRTHZIVV9Ld2tKVlhDVWJFcERvY3NINmxmbUNtWVNMeTB4ampMSHRoOFpfU1JlSUwta1c4bmNZM21TQ2VMSFNKM3lGUDBZRE1CVGJELU1rR2I0ZlkyeEE1RE9RNFF5d2QxRUlLd1pGNmVVTVZrcTBqcUxodDI0cXFkUmV3S01wb01EMTNtLVdMdjY0S1F5a3V1VW54VV85LWcwYU0yUmdGU0tpdFphckpucTJ1Rk5rZjhEdVVOS3ZLN3BRbHhwdWtN"
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/245b1d169f48.svg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/245b1d169f48-article-mwalmrdd.webp",
       "category": "HALLYU NEWS",
       "headline": "K-Pop Association Challenges New York Times Report on NewJeans Contracts",
       "dek": "The Korea Popmusic Industry Association says the report turned one group's contract dispute into a judgment on the whole K-pop industry.",
@@ -9375,7 +9440,7 @@
         "title": "Taeyeon to release 4th studio album 'Unspecial' on Nov. 30",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVTlIWmRvR2xLQTdwaVVIbHpsb05reGNPbHRYbWt3OEVDdGhXaVlLT1podjRiRGlhTTJqQzFJV1VtOFMwUjVMaFhDMGRscklYMDM3dlRmX09JcEtKZ3JNQlBjVFdiV19QYjY2Q0k1aUZxMlhMSEF6c1NoNTBwanZKekxYWmNYeGI0U2pzX21Bd3VBNEUwWDJlMm5PVkNKMEdXR2NabWQyVUF5Sjg1bXp1RGd1TdIBuAFBVV95cUxQTThacDVjRjJzMGpxVkNxTmhnc0thOW5mU243NEdXTXBCN1U0RHg2dTFHTVhNaURnZ3VBU2RWU3pHd0ItRlZrdW9MX0dMVlFhWXUzVmkyV1kxYzZ6Sy1ubE5Zal9qRHZFZkpIbFVzaDVwTmpZLWF4cm5zWUhaZFBGLXlNaEdLSy1Wc0NzUmNJOXh1S3hZZzhBTlNEcTEtY3hiSDB4VjZmUjg5eXNLcUkwWndVSkpOUUJT"
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/cbdda035164e.svg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/cbdda035164e-article-mwalz2iz.webp",
       "category": "COMEBACK NEWS",
       "headline": "Taeyeon Sets Nov. 30 Release for Fourth Studio Album ‘Unspecial’",
       "dek": "Taeyeon's first full-length album in nearly five years arrives November 30 with 12 tracks, including a title song of the same name.",
@@ -10590,7 +10655,7 @@
         "title": "BLACKPINK's Jisoo signs with Hollywood agency WME",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb0U0REVubFBzM1FkM093TzcxWEZIeWFxLXRpNW11TXpxRnc1alM3VDJNdTlMLTNJWE5icG82LThkY1ZtNWt5SkZFVjBOangzTjA2dl9ubXlwZ3I3MGFxVC13RzV3MVZONkxMclV1N3JUTlpOWnM3d1dfUlVScFVWX28yYzlaNEl1amEyck1jcWp6T3hwRkRJMUxrdXlmRTQzMVA4UFU1NENOZ9IBrwFBVV95cUxPallpQ2FLRmNhb0g2cFo5OE05ZEFITVNSTkRqaXVVX2VkcFBsbkdsMXFzNno4V1BLWE1OekRneWxVaEsxakoza0tTOU11clc3dGNlWXZyWXRTQWlzdmN6YjNXUDh0dTJjWno5dFJRYXR4Y2RNOVJNc2tFSG50TDVBY0hHWFBJQTdZeC1lbGJvekJsVWp2bjlQdlRMWGdwMEQ4dVVVVDJUaHpQSGlONTVZ"
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/761fd222c466.svg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/761fd222c466-article-mwalekju.jpg",
       "category": "HALLYU NEWS",
       "headline": "BLACKPINK’s Jisoo Signs With WME",
       "dek": "Jisoo has signed with Hollywood agency WME for global representation, adding an international partner to her solo career without changing her existing deals.",
@@ -10795,7 +10860,7 @@
         "title": "Red Velvet’s Wendy to release fourth solo EP ‘Gleam Hour’ on Nov. 23",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQajhxejRWdjJGd0ljb2k5SDNXTzJjR2xtWllnYWZqR2M4NjhCSDIzb2cwblhWZHNmdGI4Z1EtVFZPWnQ5V1VwRlNGTm55blRJblhVcHFDMFJ1Q1pwcmdLSzB0R1FrZ3locEw2N3dKZ0pnZUtRN0hnQ0hFSGJ5SDlTanZlc2dRWS1sUnhEcy1TTjVYQ3hmMzNGWXd2VDFWNDk5LWhiR1RCa0hMRTR0YU11MGFNcHpIeGdpZGFtVkFXaw"
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/24d4348bf33a.svg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/24d4348bf33a-article-mwahcmpy.jpg",
       "category": "COMEBACK NEWS",
       "headline": "Wendy Sets Nov. 23 Release for Fourth Solo EP ‘Gleam Hour’",
       "dek": "Wendy returns with her fourth solo EP on November 23, her first new music in a year and two months.",
@@ -10965,7 +11030,7 @@
         "title": "JYP's new K-pop boy band oftheblue to debut next year",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY0U5OE9KUDlTWGNRakRPcDRlY2FfcXlkTDdNMlQxZi1HWHlBR0NIWnNSUjFRZlJqbXdSTVFiU20yek80ZE5tYmlIbDJSTzBOXy00STJHdXI1aHUxeG1UU1dXZUhIcUwwX2Ytd1ZXeFhmZVJhTkZsX2FrTUJxYUVJUzJmRWFKbGdZZTJua2RmTl9aSW11X1pYWXZBdU1LaldvT2NZc3Zla3h5aGhvd1VF0gG0AUFVX3lxTFA5YUFjUWNMY0RTX0Z3R1czSUNMUWxoeEtVcEx6ZllRZlFJMHg1WUIyUkxLNEhZYW41VmRmanRZclBDVEFnT1k2VGpGdzB1ZTRnUE80emE1NHVjSnhEXzlpSjg4LUh6Qlp0cnpxRkpMR01lOHR2Zk0wVkFVRmg0LURXTkc2SjVGUDU3VjdkYkdRQzVNU0plLXlLVkNKa3F6ZEh3d2xaM2VxSy1mZW5jOTVhQnhtVQ"
       },
-      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/0405ba86440b.svg",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/0405ba86440b-article-mwalr5e2.jpg",
       "category": "HALLYU NEWS",
       "headline": "JYP Boy Band oftheblue Set to Debut Next Year",
       "dek": "JYP's SQU4D division is launching its first boy group, oftheblue, in 2027, teased so far with a QR code, a crossword and an 18-sound mixer.",
