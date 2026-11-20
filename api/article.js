@@ -81,7 +81,7 @@ function shell({ title, description, canonical, image }) {
       <div><h4>Sections</h4><ul><li><a href="/latest">Latest</a></li><li><a href="/concerts">Concerts</a></li><li><a href="/comebacks">Comebacks</a></li><li><a href="/profiles">K-Profile</a></li><li><a href="/features">Guides</a><a href="/latest">News</a></li></ul></div>
       <div><h4>HallyuScope</h4><p>Concert and comeback tracking for Filipino fans, plus artist profiles, news and practical guides.</p></div>
     </div>
-    <div class="foot-bottom"><span>© 2026 HallyuScope · hallyuscope.com</span><span>Independent fan publication. Not affiliated with any entertainment agency.</span></div>
+    <div class="foot-bottom"><span>© 2026 HallyuScope · <a href="/about">About</a> · <a href="/privacy">Privacy policy</a></span><span>Independent fan publication. Not affiliated with any entertainment agency.</span></div>
   </div>
 </footer>
 <script src="/article.js?v=20261120" defer></script>
