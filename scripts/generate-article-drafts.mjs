@@ -1,4 +1,4 @@
-import { readFile, writeFile, mkdir } from 'node:fs/promises';
+import { readFile, writeFile, mkdir, readdir } from 'node:fs/promises';
 
 const DATA_DIR = new URL('../data/', import.meta.url);
 const INPUT = new URL('social-post-candidates.json', DATA_DIR);
@@ -662,10 +662,31 @@ for (const item of candidates.slice(0, MAX_NEW_DRAFTS_PER_RUN)) {
   }
 }
 
+// Photos uploaded in the editor (or added by hand) are saved next to the
+// generated covers as <id>-article-<stamp>.<ext>. They are the article's
+// real cover, so they are kept instead of being swapped back to the plain
+// SVG cover on every run. The newest upload for an article wins.
+let editorialFiles = [];
+try { editorialFiles = await readdir(EDITORIAL_DIR); } catch { editorialFiles = []; }
+function uploadedPhoto(id) {
+  const prefix = `${id}-article-`;
+  const matches = editorialFiles
+    .filter(name => name.startsWith(prefix) && /\.(jpe?g|png|webp)$/i.test(name))
+    .sort((a, b) => parseInt(b.slice(prefix.length).split('.')[0], 36) - parseInt(a.slice(prefix.length).split('.')[0], 36));
+  return matches.length ? EDITORIAL_PUBLIC_BASE + matches[0] : null;
+}
+const isUploadedPhoto = (item) => typeof item.imageUrl === 'string'
+  && item.imageUrl.startsWith(EDITORIAL_PUBLIC_BASE + item.id + '-article-');
+
 const existingNormalized = [];
 for (const item of (previous.items || [])) {
   if (item.imageType === 'official' && item.imageUrl) {
     existingNormalized.push(item);
+    continue;
+  }
+  const photo = isUploadedPhoto(item) ? item.imageUrl : uploadedPhoto(item.id);
+  if (photo) {
+    existingNormalized.push({ ...item, imageUrl: photo, imageType: 'hallyuscope_original' });
     continue;
   }
   const cover = await writeEditorialCover(item.id, item.headline || item.source?.title || 'HallyuScope Update', item.category || 'HALLYU NEWS');
