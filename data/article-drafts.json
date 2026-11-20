@@ -1,8 +1,132 @@
 {
-  "updatedAt": "2026-11-20T13:00:37.113Z",
+  "updatedAt": "2026-11-20T21:12:47.170Z",
   "autoPublish": true,
   "note": "Auto-publish is ON. Newly generated HallyuScope articles publish immediately.",
   "items": [
+    {
+      "id": "636d8e20ec2e",
+      "createdAt": "2026-11-20T21:12:29.926Z",
+      "status": "published",
+      "publishedAt": "2026-11-20T21:12:29.926Z",
+      "sourcePublishedAt": "2026-11-20T18:07:03.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "cl-enhypen-and-babymonster-perform-at-2026-mama-awards-chapter-1",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: Performances From 2026 MAMA AWARDS &#8211; CHAPTER 1",
+        "url": "https://www.soompi.com/article/1889302wpp/watch-performances-from-2026-mama-awards-chapter-1"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1889302wpp/watch-performances-from-2026-mama-awards-chapter-1",
+          "chars": 1992,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-20T21:12:29.925Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/636d8e20ec2e.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/21030650/mama_afd5ff.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "TRENDING",
+      "headline": "CL, ENHYPEN and BABYMONSTER perform at 2026 MAMA AWARDS Chapter 1",
+      "dek": "The first chapter of the awards show featured group stages, solo performances and collaborations across the K-pop lineup.",
+      "body": [
+        "The 2026 MAMA AWARDS opened its first chapter on November 20 with performances from CL, ENHYPEN, BABYMONSTER, TREASURE and more.",
+        "CL performed \"SAY IT TO MY FACE\" and \"ICONIC\" before joining ALLDAY PROJECT members Annie, Bailey and Youngseo for \"Fire\" and \"I AM THE BEST.\" ALLDAY PROJECT also took the stage with \"CRASH,\" according to Soompi.",
+        "ENHYPEN's set included \"I Want You,\" \"Big Girls Don't Cry,\" \"Knife\" and \"Bloody Paradise.\" BABYMONSTER performed \"DESERVE\" and \"CHOOM,\" while TREASURE presented \"IF I,\" \"FREE YØUR MIND\" and \"SHOCK.\"",
+        "The show brought together LNGSHOT, MODYSSEY and TUIDE for \"That That.\" Each act also performed separately, with LNGSHOT presenting \"Bananas,\" MODYSSEY performing \"HOOK\" and \"CAN YOU HEAR THAT,\" and TUIDE taking on \"SUN KISS.\"",
+        "Panic joined Kim Tae Rae of ZEROBASEONE, Woochan of ALLDAY PROJECT, Yuha of Hearts2Hearts and WOODZ for \"The Sea in My Old Drawer.\" Panic also performed \"Left-Handed\" with CORTIS members Martin and Seonghyeon.",
+        "Other Chapter 1 performers included ALPHA DRIVE ONE, Hearts2Hearts, ILLIT, INI, NCT WISH and RESCENE. The cast of \"Street World Fighter: Directors' War\" presented \"DOCKING COMPLETE.\""
+      ],
+      "socialCaption": "CL, ENHYPEN and BABYMONSTER were among the performers at MAMA AWARDS Chapter 1. Read on HallyuScope for the stage highlights.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#MAMAAWARDS",
+        "#CL",
+        "#ENHYPEN",
+        "#BABYMONSTER"
+      ],
+      "seoDescription": "CL, ENHYPEN, BABYMONSTER and more performed at 2026 MAMA AWARDS Chapter 1. See the songs and collaborations featured in the show's lineup.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "3e1877a4834a",
+      "createdAt": "2026-11-20T21:12:45.842Z",
+      "status": "published",
+      "publishedAt": "2026-11-20T21:12:45.842Z",
+      "sourcePublishedAt": "2026-11-20T16:46:35.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "bts-and-enhypen-take-top-honors-at-2026-mama-awards-chapter-1",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Winners Of 2026 MAMA AWARDS &#8211; CHAPTER 1",
+        "url": "https://www.soompi.com/article/1889291wpp/winners-of-2026-mama-awards-chapter-1"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1889291wpp/winners-of-2026-mama-awards-chapter-1",
+          "chars": 645,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/home/article/477/0000640132",
+          "chars": 3916,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [
+          "TREASURE and NCT WISH each won two awards at Chapter 1."
+        ],
+        "checkedAt": "2026-11-20T21:12:45.842Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/3e1877a4834a.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/21014604/mama.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "TRENDING",
+      "headline": "BTS and ENHYPEN take top honors at 2026 MAMA Awards Chapter 1",
+      "dek": "BTS won Artist of the Year and ENHYPEN received Fans' Choice of the Year as the two-day ceremony opened in Osaka.",
+      "body": [
+        "BTS and ENHYPEN were among the top winners at Chapter 1 of the 2026 MAMA Awards, held November 20 at Kyocera Dome Osaka. BTS received Artist of the Year, while ENHYPEN won Fans' Choice of the Year.",
+        "ENHYPEN's win marked the group's second consecutive year receiving a MAMA grand prize. The members became emotional onstage as they thanked their fans, known as ENGENE. Leader Jungwon credited fans with believing in the group during a difficult year.",
+        "BTS accepted their award by video while on tour in Kaohsiung, Taiwan. The group noted that the win came 10 years after their first MAMA grand prize. J-Hope thanked ARMY for helping BTS move forward despite the responsibility that comes with such awards.",
+        "ENHYPEN also won Favorite M Countdown Stage and appeared on the Fans' Choice Male Top 10 list alongside TREASURE, CORTIS, LNGSHOT, BIGBANG, BTS, EVAN, SEVENTEEN, Stray Kids and TXT. ZEROBASEONE received Worldwide KCONers' Choice.",
+        "The Fans' Choice Female Top 10 winners were ILLIT, TUIDE, BABYMONSTER, Hearts2Hearts, Apink, i-dle, LE SSERAFIM, NMIXX, TWICE and Lim Yoona.",
+        "Other Chapter 1 winners included ALPHA DRIVE ONE and TUIDE for Best New Artist, IVE for Best Female Group and RESCENE for Best of Next. The MAMA Awards continue with a second day on November 21."
+      ],
+      "socialCaption": "BTS and ENHYPEN took top honors as the 2026 MAMA Awards opened in Osaka. Read on HallyuScope for the Chapter 1 winners.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#2026MAMAAWARDS",
+        "#BTS",
+        "#ENHYPEN",
+        "#ZEROBASEONE"
+      ],
+      "seoDescription": "BTS and ENHYPEN won top awards at 2026 MAMA Chapter 1 in Osaka. See the Fans' Choice Top 10 lists and more winners from the first day.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "ab6a637a8ef2",
       "createdAt": "2026-11-20T13:00:36.146Z",
