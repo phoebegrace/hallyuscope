@@ -1,8 +1,74 @@
 {
-  "updatedAt": "2026-11-19T22:12:30.913Z",
+  "updatedAt": "2026-11-20T03:26:20.426Z",
   "autoPublish": true,
   "note": "Auto-publish is ON. Newly generated HallyuScope articles publish immediately.",
   "items": [
+    {
+      "id": "755826422a3c",
+      "createdAt": "2026-11-20T03:26:19.605Z",
+      "status": "published",
+      "publishedAt": "2026-11-20T03:26:19.605Z",
+      "sourcePublishedAt": "2026-11-20T02:50:54.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "jang-nara-and-kim-hye-yoon-meet-as-rival-lawyers-in-good-partner-2",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Jang Nara And Kim Hye Yoon Face Off Over A Divorce Case In &#8220;Good Partner 2&#8221;",
+        "url": "https://www.soompi.com/article/1889063wpp/jang-nara-and-kim-hye-yoon-face-off-over-a-divorce-case-in-good-partner-2"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1889063wpp/jang-nara-and-kim-hye-yoon-face-off-over-a-divorce-case-in-good-partner-2",
+          "chars": 2308,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/108/0003488873",
+          "chars": 1384,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [
+          "A previous teaser previewed an open-marriage divorce case."
+        ],
+        "checkedAt": "2026-11-20T03:26:19.604Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/755826422a3c.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/20111952/good-partner-2-9.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Jang Nara and Kim Hye Yoon Meet as Rival Lawyers in Good Partner 2",
+      "dek": "New stills preview the pair's first courtroom clash ahead of the SBS drama's November 20 premiere.",
+      "body": [
+        "Jang Nara and Kim Hye Yoon are set to face each other across a divorce case in Good Partner 2, with newly released stills offering a look at the lawyers' first encounter.",
+        "According to Soompi, Jang returns as star lawyer Cha Eun Kyung, while Kim joins the series as experienced attorney Kang Hye Sung. The new season follows the two as they eventually become each other's partners, though their relationship begins on opposing sides of a case.",
+        "The courtroom images show Cha appearing confident despite the slim chance of victory, while her client, defendant Park Na Yeon, played by Go Won Hee, looks tense. Across the room, plaintiff Seo Ji Hoon, played by Yoon Bak, remains composed as Kang reacts to Cha's unexpected argument.",
+        "Another still shows Kang greeting Cha with a smile outside the courtroom, where an unexpected comment prompts a subtle reaction from her rival.",
+        "The production team said the first episode will introduce Cha's life after returning as a representative lawyer and Kang's struggles in Gwangjin City. It will also follow their efforts to make the best choices for their respective clients.",
+        "P.O reprises his role as lawyer Jeon Eun Ho in the new season. Good Partner 2 premieres November 20 at 9:50 p.m. KST and will be available on Viki."
+      ],
+      "socialCaption": "Jang Nara and Kim Hye Yoon start out on opposite sides of a divorce case. Read on HallyuScope for a closer look at their Good Partner 2 characters.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#GoodPartner2",
+        "#JangNara",
+        "#KimHyeYoon",
+        "#PyoJiHoon"
+      ],
+      "seoDescription": "Jang Nara and Kim Hye Yoon face off as rival divorce lawyers in new Good Partner 2 stills. The SBS drama premieres November 20 and will be available on Viki.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "6a0cec0c39d3",
       "createdAt": "2026-11-19T13:20:48.428Z",
