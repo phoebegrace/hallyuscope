@@ -61,7 +61,7 @@ function shell({ title, description, canonical, image }) {
 <meta name="twitter:image" content="${esc(image)}">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,300..900&display=swap">
-<link rel="stylesheet" href="/styles.css">
+<link rel="stylesheet" href="/styles.css?v=20261120">
 </head>
 <body data-page="article">
 <header class="masthead"><div class="wrap">
@@ -84,7 +84,7 @@ function shell({ title, description, canonical, image }) {
     <div class="foot-bottom"><span>© 2026 HallyuScope · hallyuscope.com</span><span>Independent fan publication. Not affiliated with any entertainment agency.</span></div>
   </div>
 </footer>
-<script src="/article.js" defer></script>
+<script src="/article.js?v=20261120" defer></script>
 </body>
 </html>`;
 }
