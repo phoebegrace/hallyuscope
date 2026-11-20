@@ -170,6 +170,6 @@ export default async function handler(req, res) {
     if (action === 'alerts') return res.status(200).json(await draftAlerts());
     return res.status(400).json({ error: 'Use ?action=templates, weekly or alerts' });
   } catch (error) {
-    return res.status(502).json({ error: error.message });
+    return res.status(500).json({ error: error.message });
   }
 }
