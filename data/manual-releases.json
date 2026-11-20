@@ -1,0 +1,16 @@
+{
+  "note": "Hand-checked releases that official feeds and listings miss. Each entry needs a reliable source URL.",
+  "items": [
+    {
+      "id": "aespa-santa-baby-2026",
+      "artist": "aespa",
+      "title": "Santa Baby (with Eartha Kitt)",
+      "date": "2026-11-13",
+      "type": "Digital Single",
+      "sourceUrl": "https://www.koreajoongangdaily.com/entertainment/aespa-puts-its-own-spin-on-eartha-kitts-christmas-classic-santa-baby/12971760",
+      "sourceName": "Korea JoongAng Daily",
+      "sourceClass": "publisher",
+      "status": "Released"
+    }
+  ]
+}
