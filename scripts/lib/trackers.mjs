@@ -61,6 +61,36 @@ export function parseJsonLdEvents(html,artistNames,base){
  for(const m of html.matchAll(/<script[^>]+type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi))try{visit(JSON.parse(m[1]));}catch{}
  return out;
 }
+// Official YouTube channel feeds: a full music video upload marks a release.
+// Teasers, behind-the-scenes, performance and short clips are ignored.
+const MV=/\b(?:M\/?V|Music Video|Official Video|Official Visualizer)\b/i;
+const NOT_RELEASE=/teaser|trailer|behind|making|reaction|practice|performance|relay|live|shorts|#|spoiler|preview|highlight|medley|challenge|cam\b|recording|sketch|reel|episode|ep\.|\bver\.?\s*\)?\s*$/i;
+export function parseYouTubeReleases(xml,artistNames,channelName){
+ const out=new Map();
+ const names=[...artistNames].filter(Boolean).sort((a,b)=>b.length-a.length);
+ for(const m of xml.matchAll(/<entry>([\s\S]*?)<\/entry>/g)){
+  const e=m[1];
+  const title=clean(e.match(/<title>([\s\S]*?)<\/title>/)?.[1]);
+  const url=e.match(/<link[^>]+href="([^"]+)"/)?.[1];
+  const published=e.match(/<published>([^<]+)<\/published>/)?.[1];
+  if(!title||!url||!published||/\/shorts\//.test(url)||!MV.test(title)||NOT_RELEASE.test(title.replace(MV,'')))continue;
+  // Release day in Korea (most K-pop drops at 6 PM KST).
+  const kst=new Date(new Date(published).getTime()+9*3600e3).toISOString().slice(0,10);
+  let artist=names.find(n=>new RegExp('(^|[^\\p{L}\\p{N}])'+n.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+'([^\\p{L}\\p{N}]|$)','iu').test(title));
+  const quoted=title.match(/[‘'"“«]([^’'"”»]{1,80})[’'"”»]/)?.[1];
+  const oneK=title.match(/^\[MV\]\s*(.+?)\s+_\s+(.+)$/i); // 1theK style: [MV] Artist _ Title
+  let song=quoted||oneK?.[2];
+  if(!artist&&oneK)artist=oneK[1].replace(/\([^)]*\)/g,'').trim();
+  if(oneK&&!quoted)song=oneK[2];
+  if(!artist&&quoted)artist=title.split(/[‘'"“«]/)[0].replace(/\s+[\-–—|]\s*$/,'').replace(/[\p{Script=Hangul}]+/gu,'').replace(/\([^)]*\)/g,'').trim();
+  if(!artist||!song)continue;
+  song=song.replace(/\((?:[^)]*)\)\s*$/,'').trim()||song;
+  const key=norm(artist)+'|'+norm(song);
+  if(!out.has(key))out.set(key,{id:slug(artist+'-'+song+'-'+kst.slice(0,4)),artist,title:song,date:kst,type:'Music video release',sourceUrl:url,sourceName:channelName,sourceClass:'official',status:'Released'});
+ }
+ return [...out.values()];
+}
+const sameArtist=(a,b)=>{a=norm(a);b=norm(b);return a===b||(a.length>2&&b.length>2&&(a.includes(b)||b.includes(a)));};
 export function mergeCalendar(existing,incoming,kind,checkedAt){
  const items=[];
  for(const x of existing){
@@ -70,7 +100,12 @@ export function mergeCalendar(existing,incoming,kind,checkedAt){
  let added=0,changed=0;
  for(const record of incoming){
   if(!record.artist||!record.date||!/^20\d{2}-\d{2}-\d{2}$/.test(record.date)||!record.sourceUrl)continue;
-  const match=items.find(x=>x.id===record.id||(norm(x.artist)===norm(record.artist)&&(kind==='concerts'?x.date===record.date:norm(x.title)===norm(record.title))));
+  const match=items.find(x=>x.id===record.id||(kind==='concerts'?norm(x.artist)===norm(record.artist)&&x.date===record.date:sameArtist(x.artist,record.artist)&&norm(x.title)===norm(record.title)));
+  // An MV on the same day as a listed album is that album's title track, not a separate release.
+  if(kind==='comebacks'&&record.type==='Music video release'){
+   const album=items.find(x=>x.date===record.date&&sameArtist(x.artist,record.artist)&&x.type!=='Music video release');
+   if(album){if(album.titleTrack!==record.title||album.mvUrl!==record.sourceUrl){album.titleTrack=record.title;album.mvUrl=record.sourceUrl;changed++;}continue;}
+  }
   const next={...record,lastCheckedAt:checkedAt};
   if(match){
    const oldDate=match.date;
