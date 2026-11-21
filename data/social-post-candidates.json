@@ -1,25 +1,73 @@
 {
-  "updatedAt": "2026-11-20T21:12:18.840Z",
+  "updatedAt": "2026-11-21T02:23:49.430Z",
   "note": "Additive social review queue. Existing live site data files are unchanged.",
   "items": [
     {
-      "id": "ef83a3f7217d",
-      "title": "New album alert for K-pop group ENHYPEN! Read more in the comments section.",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcGZIcjBlTFJEd3lvWVZDeVp6RUpKdnI5Z1V2QXUxSDllNjhVV0IyNy1nV1JrbjNuRGhGZVpUQnF5WlZRYzVaWEdXdHVueFR3bF9Oa0YtbDZZQlVCV2RYVmhIWHdiSHZEVTladFJlMVRHSHo5TVhqY1JUZ2RSQ2l4YmRvTzVOem1oWExpamxGejI2bUVGMkd3TVNWdThsa2JPLThDOGlZaDZFdVFuWVJvbE9jbjRLRVhFYlZSMEJ0SVpJOUREVkZpMUlNdFg?oc=5",
-      "publishedAt": "2026-11-20T19:33:03.000Z",
-      "source": "Facebook",
-      "description": "New album alert for K-pop group ENHYPEN! Read more in the comments section. &nbsp;&nbsp; Facebook",
+      "id": "71c64f83de60",
+      "title": "From K-pop to kimchi: South Korea’s first lady eyes global reach",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZkczVTFDMVRLajVqR3JCUW1GZ2ZnWmtVMnJkWU1RXzdmUHpKX1BnbkQ5MXhUMVczWFR2UDBaVV82UmhITkFUd19SRzhWSVlDNHBKOUFHbHBDdi1yeXM3R09ZLTNiZ3d3VXhWeHRITjk1b0ZBSFpDNng0cHh6ekVzdk44M19mNm5kTEZ6eUI1UFVDQWM1NWRrSGhJMDfSAZwBQVVfeXFMTS1ULXFYbWE0NnZ1SWFDQlJKeDYzRWZ1Z2F0NEgwdnJLNlVPZmtPTHhsS1lJVDY5dE1kODU4MWYyaDhfMUZ0em9EclUtOGRqUHA4TDN2NjUwVElxVEdxa2x4NHVWVmxSN1VHekI0Umk3NUVfWlFPY2dVT0xvdjdoNEJYOTNyVkpVa0wyb1RqRDRFUVBOSlQ2Nm1NY3Ri?oc=5",
+      "publishedAt": "2026-11-21T00:00:35.000Z",
+      "source": "Qazinform",
+      "description": "From K-pop to kimchi: South Korea’s first lady eyes global reach &nbsp;&nbsp; Qazinform",
       "sourceClass": "publisher",
       "confidence": "secondary",
-      "sourceSummary": "New album alert for K-pop group ENHYPEN! Read more in the comments section. &nbsp;&nbsp; Facebook",
-      "articleUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcGZIcjBlTFJEd3lvWVZDeVp6RUpKdnI5Z1V2QXUxSDllNjhVV0IyNy1nV1JrbjNuRGhGZVpUQnF5WlZRYzVaWEdXdHVueFR3bF9Oa0YtbDZZQlVCV2RYVmhIWHdiSHZEVTladFJlMVRHSHo5TVhqY1JUZ2RSQ2l4YmRvTzVOem1oWExpamxGejI2bUVGMkd3TVNWdThsa2JPLThDOGlZaDZFdVFuWVJvbE9jbjRLRVhFYlZSMEJ0SVpJOUREVkZpMUlNdFg",
+      "sourceSummary": "From K-pop to kimchi: South Korea’s first lady eyes global reach &nbsp;&nbsp; Qazinform",
+      "articleUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZkczVTFDMVRLajVqR3JCUW1GZ2ZnWmtVMnJkWU1RXzdmUHpKX1BnbkQ5MXhUMVczWFR2UDBaVV82UmhITkFUd19SRzhWSVlDNHBKOUFHbHBDdi1yeXM3R09ZLTNiZ3d3VXhWeHRITjk1b0ZBSFpDNng0cHh6ekVzdk44M19mNm5kTEZ6eUI1UFVDQWM1NWRrSGhJMDfSAZwBQVVfeXFMTS1ULXFYbWE0NnZ1SWFDQlJKeDYzRWZ1Z2F0NEgwdnJLNlVPZmtPTHhsS1lJVDY5dE1kODU4MWYyaDhfMUZ0em9EclUtOGRqUHA4TDN2NjUwVElxVEdxa2x4NHVWVmxSN1VHekI0Umk3NUVfWlFPY2dVT0xvdjdoNEJYOTNyVkpVa0wyb1RqRDRFUVBOSlQ2Nm1NY3Ri",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
-        "category": "COMEBACK NEWS",
+        "category": "HALLYU NEWS",
         "headline": "GOOGLE NEWS",
         "status": "pending_review",
         "canvaFields": {
-          "Category": "COMEBACK NEWS",
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "7ee84ea0e2df",
+      "title": "Chart Final: K-pop Hour",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sUFpvVUpxeEpTQ1ZUZi1JeUxUZ3c1dDZDbldyUF96UVlOTXUyZzRBcVNkQlBuNTF3MTAyUzhDck1OUHoxQ21fU2Vrd0hUUFFfYmhPV0V1aThQbUZhZVQzYmtiQWE5bHNPM1duQ293?oc=5",
+      "publishedAt": "2026-11-20T23:07:46.000Z",
+      "source": "Hits Daily Double",
+      "description": "Chart Final: K-pop Hour &nbsp;&nbsp; Hits Daily Double",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "Chart Final: K-pop Hour &nbsp;&nbsp; Hits Daily Double",
+      "articleUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sUFpvVUpxeEpTQ1ZUZi1JeUxUZ3c1dDZDbldyUF96UVlOTXUyZzRBcVNkQlBuNTF3MTAyUzhDck1OUHoxQ21fU2Vrd0hUUFFfYmhPV0V1aThQbUZhZVQzYmtiQWE5bHNPM1duQ293",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "TRENDING",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "TRENDING",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "72aaa20566cf",
+      "title": "CL Talks New Songs ‘ICONIC’ and ‘Say It to My Face’: ‘None of the K-Pop Songs Are Talking About That’",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOER4WmVYRHNZNmxON0VwaE10V3lfNG5WbW4teEJKUHR0RlgydlFKbnpTMHdPbmJrXzRYSzZzaHBxa05Fem9hNjFtRHhsd0c4d09XUDZXUk9SUllvZHdlZkdSYWRKcUYtOVJYZDdLTE41bkQxSm94aXdrWmtRb1kxVE8xbFNTbFZaVnM1QlNER1cxLWZaS1lWSFhCRQ?oc=5",
+      "publishedAt": "2026-11-20T20:56:19.000Z",
+      "source": "Billboard",
+      "description": "CL Talks New Songs ‘ICONIC’ and ‘Say It to My Face’: ‘None of the K-Pop Songs Are Talking About That’ &nbsp;&nbsp; Billboard",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "CL Talks New Songs ‘ICONIC’ and ‘Say It to My Face’: ‘None of the K-Pop Songs Are Talking About That’ &nbsp;&nbsp; Billboard",
+      "articleUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOER4WmVYRHNZNmxON0VwaE10V3lfNG5WbW4teEJKUHR0RlgydlFKbnpTMHdPbmJrXzRYSzZzaHBxa05Fem9hNjFtRHhsd0c4d09XUDZXUk9SUllvZHdlZkdSYWRKcUYtOVJYZDdLTE41bkQxSm94aXdrWmtRb1kxVE8xbFNTbFZaVnM1QlNER1cxLWZaS1lWSFhCRQ",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "TRENDING",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "TRENDING",
           "Headline": "GOOGLE NEWS",
           "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
@@ -51,6 +99,30 @@
       }
     },
     {
+      "id": "8bd86e5fbafe",
+      "title": "TWICE’s Nayeon Gets Flirty in 3 New Pop Tracks Introducing Her Upcoming 2027 Solo Album NA-stier (Exclusive)",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU05rLVJDdWZYVWZVR0FCTlZ3WER1MU5MdzBaQ0U3cXRFbEJhN2RhdUdIenhHa0J1aUhTTHFvWHlaZjhjOVdUbXVPbzh1akgteV9NeVRTcXRXdFNSQzVKWXV4aGxNVDVBdFVyblBCZEdwNGI2X3AtdVpZMFRFOG5QZGotU3E2N0tWX0dXc1lqa2lsZmhvek04?oc=5",
+      "publishedAt": "2026-11-20T17:00:00.000Z",
+      "source": "People.com",
+      "description": "TWICE’s Nayeon Gets Flirty in 3 New Pop Tracks Introducing Her Upcoming 2027 Solo Album NA-stier (Exclusive) &nbsp;&nbsp; People.com",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "TWICE’s Nayeon Gets Flirty in 3 New Pop Tracks Introducing Her Upcoming 2027 Solo Album NA-stier (Exclusive) &nbsp;&nbsp; People.com",
+      "articleUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU05rLVJDdWZYVWZVR0FCTlZ3WER1MU5MdzBaQ0U3cXRFbEJhN2RhdUdIenhHa0J1aUhTTHFvWHlaZjhjOVdUbXVPbzh1akgteV9NeVRTcXRXdFNSQzVKWXV4aGxNVDVBdFVyblBCZEdwNGI2X3AtdVpZMFRFOG5QZGotU3E2N0tWX0dXc1lqa2lsZmhvek04",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "COMEBACK NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "COMEBACK NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
       "id": "3e1877a4834a",
       "title": "Winners Of 2026 MAMA AWARDS &#8211; CHAPTER 1",
       "url": "https://www.soompi.com/article/1889291wpp/winners-of-2026-mama-awards-chapter-1",
@@ -75,16 +147,16 @@
       }
     },
     {
-      "id": "0c863c627ba1",
-      "title": "Stray Kids Share the Secret to Their Success—and What Comes Next",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTDZWUnQ0SHdGdkJ2MXJJbDZ2b3N2TVU2UUQwaFdXUW9vb0EyX1k5Ym1FVzJLWE5OSlBRaEI3QlViWmZPd2thQVdwZlNTbmFzdWtkb1NFcXFGRVRIaUtSY0k0U0J0ZHYwZDlqSmhpOXNaWVUwQUg5UUlhLXBkb3NjeC1FTjV3NDY1cVFRekh5aw?oc=5",
-      "publishedAt": "2026-11-20T15:16:39.000Z",
-      "source": "Teen Vogue",
-      "description": "Stray Kids Share the Secret to Their Success—and What Comes Next &nbsp;&nbsp; Teen Vogue",
+      "id": "61db8ea2eef6",
+      "title": "Flash Fridays: K-POP TRADWIFE",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5leHZWZDIwcmFKNDZXWDNSaEF4ak56bnRJS0dQNEFpRGlXUHpFT0hRRW1HRWdPSUZGSjNtOUtiOUZma0QxZlhfNEJvamdpNzFWUmphRFNFalpUOVpVZXFvcV8xRGY3cXZHR0NhOUd4NA?oc=5",
+      "publishedAt": "2026-11-20T16:34:00.000Z",
+      "source": "The Rumpus",
+      "description": "Flash Fridays: K-POP TRADWIFE &nbsp;&nbsp; The Rumpus",
       "sourceClass": "publisher",
       "confidence": "secondary",
-      "sourceSummary": "Stray Kids Share the Secret to Their Success—and What Comes Next &nbsp;&nbsp; Teen Vogue",
-      "articleUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTDZWUnQ0SHdGdkJ2MXJJbDZ2b3N2TVU2UUQwaFdXUW9vb0EyX1k5Ym1FVzJLWE5OSlBRaEI3QlViWmZPd2thQVdwZlNTbmFzdWtkb1NFcXFGRVRIaUtSY0k0U0J0ZHYwZDlqSmhpOXNaWVUwQUg5UUlhLXBkb3NjeC1FTjV3NDY1cVFRekh5aw",
+      "sourceSummary": "Flash Fridays: K-POP TRADWIFE &nbsp;&nbsp; The Rumpus",
+      "articleUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5leHZWZDIwcmFKNDZXWDNSaEF4ak56bnRJS0dQNEFpRGlXUHpFT0hRRW1HRWdPSUZGSjNtOUtiOUZma0QxZlhfNEJvamdpNzFWUmphRFNFalpUOVpVZXFvcV8xRGY3cXZHR0NhOUd4NA",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
         "category": "HALLYU NEWS",
@@ -148,30 +220,6 @@
       }
     },
     {
-      "id": "0d5e67e6145e",
-      "title": "MAMA Awards: BTS, Enhypen, Ive among night one winners",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd3lQN0pFZ0g3bDFlNFhtcEVmV0hlUGNyeHpxODJsdmRBejRfYzJvU2xZZjNfcU1EZmYxNkJkME9wZVA4R2Fqa1pSNWRkME1rREJ4RjdnSi1Da2RHQ2llZlE2LTdXNlNJTmdBWTlsTmEwQ0xXZ3QyOXUwejBZSXRSdlBmbU5IckJETUJFaUw2NWFqSEEzRnBtOUthTVLSAaIBQVVfeXFMUG5HUDZUeXdxbjhiUnhxbktucmVwcVgtMjVKUFVpdE9CN0l0YzR2OElzd2IyQ0tSZDR3Y2tmOUNTcXQ2Ulh3WjUzZ1dNa0N0YkZlTEFGeWR0MnRHY2ZNVzQ4VWVCTUp6cmNGRHpReXNVcDNYM2JuaWw2RzZUaEFpUnBJZEtqYjhHcmhNVV8yMnU0VGxKOXBvWmZZcmU1U2dlMlNB?oc=5",
-      "publishedAt": "2026-11-20T14:35:59.000Z",
-      "source": "upi",
-      "description": "MAMA Awards: BTS, Enhypen, Ive among night one winners &nbsp;&nbsp; upi",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "MAMA Awards: BTS, Enhypen, Ive among night one winners &nbsp;&nbsp; upi",
-      "articleUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd3lQN0pFZ0g3bDFlNFhtcEVmV0hlUGNyeHpxODJsdmRBejRfYzJvU2xZZjNfcU1EZmYxNkJkME9wZVA4R2Fqa1pSNWRkME1rREJ4RjdnSi1Da2RHQ2llZlE2LTdXNlNJTmdBWTlsTmEwQ0xXZ3QyOXUwejBZSXRSdlBmbU5IckJETUJFaUw2NWFqSEEzRnBtOUthTVLSAaIBQVVfeXFMUG5HUDZUeXdxbjhiUnhxbktucmVwcVgtMjVKUFVpdE9CN0l0YzR2OElzd2IyQ0tSZDR3Y2tmOUNTcXQ2Ulh3WjUzZ1dNa0N0YkZlTEFGeWR0MnRHY2ZNVzQ4VWVCTUp6cmNGRHpReXNVcDNYM2JuaWw2RzZUaEFpUnBJZEtqYjhHcmhNVV8yMnU0VGxKOXBvWmZZcmU1U2dlMlNB",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "TRENDING",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "TRENDING",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
       "id": "335a762a4ca7",
       "title": "BLACKPINK member Lisa has unveiled her new single \"Leave With Me,\" featured in her documentary film \"Always Lalisa.\" More details in the comments section.",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTndWeVptSXdlWkdLWERPSlBIWlZNalBFNlFhV1RKTFNMWUlCMUE1QThhaXRIXzZqdkI2eXItZTJNcjFDWEJjeDBQVVFoa3h2UGxuR21IM3BZYmk2eG4yb05CQU13a0dnb1d3WHJZVEx4eW9ZZjZmMmp0SnpkQkg5TUJMR2lkN2FUYlVhd1Uya0NKcWNnakdaQ251TUItVTNBZU1rbE9MMW1JUmtFLTNLRUFMVHJoMXQtQVMzemt2bEhvYnc0VnFrRGs5Z3RhZzM3Q1kzM1d2dw?oc=5",
@@ -221,6 +269,30 @@
       }
     },
     {
+      "id": "ef83a3f7217d",
+      "title": "New album alert for K-pop group ENHYPEN! Read more in the comments section.",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcGZIcjBlTFJEd3lvWVZDeVp6RUpKdnI5Z1V2QXUxSDllNjhVV0IyNy1nV1JrbjNuRGhGZVpUQnF5WlZRYzVaWEdXdHVueFR3bF9Oa0YtbDZZQlVCV2RYVmhIWHdiSHZEVTladFJlMVRHSHo5TVhqY1JUZ2RSQ2l4YmRvTzVOem1oWExpamxGejI2bUVGMkd3TVNWdThsa2JPLThDOGlZaDZFdVFuWVJvbE9jbjRLRVhFYlZSMEJ0SVpJOUREVkZpMUlNdFg?oc=5",
+      "publishedAt": "2026-11-20T13:40:02.000Z",
+      "source": "Facebook",
+      "description": "New album alert for K-pop group ENHYPEN! Read more in the comments section. &nbsp;&nbsp; Facebook",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "New album alert for K-pop group ENHYPEN! Read more in the comments section. &nbsp;&nbsp; Facebook",
+      "articleUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcGZIcjBlTFJEd3lvWVZDeVp6RUpKdnI5Z1V2QXUxSDllNjhVV0IyNy1nV1JrbjNuRGhGZVpUQnF5WlZRYzVaWEdXdHVueFR3bF9Oa0YtbDZZQlVCV2RYVmhIWHdiSHZEVTladFJlMVRHSHo5TVhqY1JUZ2RSQ2l4YmRvTzVOem1oWExpamxGejI2bUVGMkd3TVNWdThsa2JPLThDOGlZaDZFdVFuWVJvbE9jbjRLRVhFYlZSMEJ0SVpJOUREVkZpMUlNdFg",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "COMEBACK NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "COMEBACK NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
       "id": "03c9c24b03db",
       "title": "From K-pop Idols to Global Systems: How Korean Entertainment Companies Are Expanding",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaGI5RlVraWpHRmpGSE1mYTdOY0JMY3pveUNGT2hXUXh6U09MWW5tX2h2bEpNSHRORE9wVV9kRGxfOFVIc1BwVWdBZGdFTVJ3MU1lVnBfQWRWQW5uSWxFLXNMeWFFZVJVbk1vVDBaX0dQbndrejZlNjhlWmw1UE1GczA4cDl4RHJsWjRJYkVucFM?oc=5",
@@ -264,6 +336,30 @@
           "Category": "TRENDING",
           "Headline": "STARS DAZZLE ON RED CARPET AT 2026 MAMA AWARDS",
           "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/20220513/2026-mama-red-carpet-1.jpg"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "7371a16a0435",
+      "title": "CL Makes Her Long-Awaited Solo Comeback With \"ICONIC\"",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTG8yckFIRjhSZy1vcVFSMzZjSl9DUUJ5eXVOMVFudmV5eDMyYU5sa1cxa0lwODJ0ZU80TEltekZYMmdVbV9qY0JBX1F1TTRka3Y5Vjh2T2RmYW1sazVRSG1ZNzJwRlZwcUN0VGJMbHROdWNfUnBXLVhfQWVzQy11NQ?oc=5",
+      "publishedAt": "2026-11-20T12:32:15.000Z",
+      "source": "Complex",
+      "description": "CL Makes Her Long-Awaited Solo Comeback With \"ICONIC\" &nbsp;&nbsp; Complex",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "CL Makes Her Long-Awaited Solo Comeback With \"ICONIC\" &nbsp;&nbsp; Complex",
+      "articleUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTG8yckFIRjhSZy1vcVFSMzZjSl9DUUJ5eXVOMVFudmV5eDMyYU5sa1cxa0lwODJ0ZU80TEltekZYMmdVbV9qY0JBX1F1TTRka3Y5Vjh2T2RmYW1sazVRSG1ZNzJwRlZwcUN0VGJMbHROdWNfUnBXLVhfQWVzQy11NQ",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "COMEBACK NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "COMEBACK NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         "canvaDesignId": null
       }
@@ -509,6 +605,30 @@
       }
     },
     {
+      "id": "6032e8fd3d7f",
+      "title": "The K-Stocks Pop Before The K-Pop Deal Is Sealed",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdmExLUoyQklOQ01SS1FfRkhLUlBHTGl2Y0VsRFVTMlpsX1BUU2M1R1EwU1o3MWZQdjVJQmNzRU1PQXlocl96VU41SmZiWnNDNW55T01NNGdOUGk5ZjQxRjJlMFhiVW1fazFtSFd5VDg5bmVQQ0pGSnYxamlValczWkhUSQ?oc=5",
+      "publishedAt": "2026-11-20T07:46:54.000Z",
+      "source": "Finimize",
+      "description": "The K-Stocks Pop Before The K-Pop Deal Is Sealed &nbsp;&nbsp; Finimize",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "The K-Stocks Pop Before The K-Pop Deal Is Sealed &nbsp;&nbsp; Finimize",
+      "articleUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdmExLUoyQklOQ01SS1FfRkhLUlBHTGl2Y0VsRFVTMlpsX1BUU2M1R1EwU1o3MWZQdjVJQmNzRU1PQXlocl96VU41SmZiWnNDNW55T01NNGdOUGk5ZjQxRjJlMFhiVW1fazFtSFd5VDg5bmVQQ0pGSnYxamlValczWkhUSQ",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
       "id": "75c2c416604b",
       "title": "NCT Wish's Yushi tops fan poll for 'perfectly synchronized choreography'",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVFd4WkJUNjFRaWtsY2pSSWMyeEl0cU9yVnRtZWVHakhCTXN6d0prOWkyUi0tRTJzTF9kY01NT2JKamNuRzBaUUtYd0JLU1Q4T1BrcWUwblFPSFQ3eGlwMG9LeVlLaVNJNTdUWmZEbWVWVFR0RkZHU3A5M2V6R0FQcnJVOE5TSFVJdWljXzQxUWtJNDNZYl9xeGdWSHdJck5ZaHM4M0dMYXNjTVlNRDVoVFlsYjVqYnlic0xfVlRaQkJMckNYUVE?oc=5",
@@ -670,30 +790,6 @@
         "status": "pending_review",
         "canvaFields": {
           "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "af7a5ad64911",
-      "title": "Kazakh Grammy winner Imanbek brings his beats to K-pop with Kwon Eunbi",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qZVVCRnQ5MUZnRVI5YlNLcHQ4V3hoMmplQ3YyRXdaWkV0T204LTBwOUxsRUlCUjhBdTM0T0p6djZjV0NXdDdoazFDaS1sVFU3UkhYOVVQeUpBRzI4ZVB3Q2N1b3dvWmdwb2NqaERTRQ?oc=5",
-      "publishedAt": "2026-11-20T06:15:34.000Z",
-      "source": "Kursiv Media Узбекистан",
-      "description": "Kazakh Grammy winner Imanbek brings his beats to K-pop with Kwon Eunbi &nbsp;&nbsp; Kursiv Media Узбекистан",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "Kazakh Grammy winner Imanbek brings his beats to K-pop with Kwon Eunbi &nbsp;&nbsp; Kursiv Media Узбекистан",
-      "articleUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qZVVCRnQ5MUZnRVI5YlNLcHQ4V3hoMmplQ3YyRXdaWkV0T204LTBwOUxsRUlCUjhBdTM0T0p6djZjV0NXdDdoazFDaS1sVFU3UkhYOVVQeUpBRzI4ZVB3Q2N1b3dvWmdwb2NqaERTRQ",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "TRENDING",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "TRENDING",
           "Headline": "GOOGLE NEWS",
           "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
@@ -1114,14 +1210,14 @@
     {
       "id": "08239aa715a3",
       "title": "BIGBANG teases new digital single",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAyNnlCamlobTZyVzM5Z01nVG05bnV2R1hMTGpWUkZlRXBqVVdoald4YWoyN2FiMm1TYmxlYTRteEhTSmFScl9VYWhJeUtoSF9TVHhLcW5VbmdnU0JCMG1uVVd6d0pKc1JwcmVuejhhWHdpRkZHQnp6RERTd9IBmwFBVV95cUxQNkgtMG5rS1k2SklxbXhPQmtKZmlEbHBXNnhVeVpWUlhDN1U3NHVlajhEeTdiazJ3TmgzSWtwSW1iQWw0dmFLOGdrZlZMYzZVSFhPYlRuaXhaMUhtSE85T0tzdGxhZTBRYTRVR0p1UTlZaEVxbDFtUXlJekd5QUNNSGJHYzNPZHdIWGFSSTBHRjlNa0xYeHNhTkJUNA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeUJxZGRtLVltczBZSDdmT3RFWFk1b1F3TXRxbjhfLXZYTEhCOEFEcGdSNHp2SDZHZWRTbmZ1dFVybHdHbnRwcm44YjZKTUhucFZaNEhpZkZlS1FxRzRmWGRCOFNlZm0zdUR6cURyOUpBWmFDWUpsLXF2elVmUHZxMUtRMW8xYmNFQWxSXzBKcTY1MnJCNmJseG5nUVhIa0hBV3d3LTZuSUx1UdIBmwFBVV95cUxQNkgtMG5rS1k2SklxbXhPQmtKZmlEbHBXNnhVeVpWUlhDN1U3NHVlajhEeTdiazJ3TmgzSWtwSW1iQWw0dmFLOGdrZlZMYzZVSFhPYlRuaXhaMUhtSE85T0tzdGxhZTBRYTRVR0p1UTlZaEVxbDFtUXlJekd5QUNNSGJHYzNPZHdIWGFSSTBHRjlNa0xYeHNhTkJUNA?oc=5",
       "publishedAt": "2026-11-20T00:45:04.000Z",
       "source": "The Korea Times",
       "description": "BIGBANG teases new digital single &nbsp;&nbsp; The Korea Times",
       "sourceClass": "publisher",
       "confidence": "secondary",
       "sourceSummary": "BIGBANG teases new digital single &nbsp;&nbsp; The Korea Times",
-      "articleUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAyNnlCamlobTZyVzM5Z01nVG05bnV2R1hMTGpWUkZlRXBqVVdoald4YWoyN2FiMm1TYmxlYTRteEhTSmFScl9VYWhJeUtoSF9TVHhLcW5VbmdnU0JCMG1uVVd6d0pKc1JwcmVuejhhWHdpRkZHQnp6RERTd9IBmwFBVV95cUxQNkgtMG5rS1k2SklxbXhPQmtKZmlEbHBXNnhVeVpWUlhDN1U3NHVlajhEeTdiazJ3TmgzSWtwSW1iQWw0dmFLOGdrZlZMYzZVSFhPYlRuaXhaMUhtSE85T0tzdGxhZTBRYTRVR0p1UTlZaEVxbDFtUXlJekd5QUNNSGJHYzNPZHdIWGFSSTBHRjlNa0xYeHNhTkJUNA",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeUJxZGRtLVltczBZSDdmT3RFWFk1b1F3TXRxbjhfLXZYTEhCOEFEcGdSNHp2SDZHZWRTbmZ1dFVybHdHbnRwcm44YjZKTUhucFZaNEhpZkZlS1FxRzRmWGRCOFNlZm0zdUR6cURyOUpBWmFDWUpsLXF2elVmUHZxMUtRMW8xYmNFQWxSXzBKcTY1MnJCNmJseG5nUVhIa0hBV3d3LTZuSUx1UdIBmwFBVV95cUxQNkgtMG5rS1k2SklxbXhPQmtKZmlEbHBXNnhVeVpWUlhDN1U3NHVlajhEeTdiazJ3TmgzSWtwSW1iQWw0dmFLOGdrZlZMYzZVSFhPYlRuaXhaMUhtSE85T0tzdGxhZTBRYTRVR0p1UTlZaEVxbDFtUXlJekd5QUNNSGJHYzNPZHdIWGFSSTBHRjlNa0xYeHNhTkJUNA",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
         "category": "COMEBACK NEWS",
@@ -1208,23 +1304,23 @@
       }
     },
     {
-      "id": "33facfca2b5e",
-      "title": "The K-Stocks Popped Before The K-Pop Deal Was Sealed",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdmExLUoyQklOQ01SS1FfRkhLUlBHTGl2Y0VsRFVTMlpsX1BUU2M1R1EwU1o3MWZQdjVJQmNzRU1PQXlocl96VU41SmZiWnNDNW55T01NNGdOUGk5ZjQxRjJlMFhiVW1fazFtSFd5VDg5bmVQQ0pGSnYxamlValczWkhUSQ?oc=5",
-      "publishedAt": "2026-11-19T18:46:54.000Z",
-      "source": "Finimize",
-      "description": "The K-Stocks Popped Before The K-Pop Deal Was Sealed &nbsp;&nbsp; Finimize",
+      "id": "185f1ebf18f5",
+      "title": "MAMA Awards: Where to watch, what to expect",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcEZsVUFRR1o5aHJMSkFkZms2UWZWUEJvTmxRRGZHS2hSSGhjZnhQQjFzd3VzX2lUV0Y2bFdYRVhlMHRVdkVIRm9PTmlKSGxfZHZ2WXdfUk1MYnltb2djUnhjNEZ1UXlPTFZyM0tPcC1WYWFYSk1FQk5aMU9rbml5eDFmRnlzYnd2RHJCaVJWNHhZdEdrR3pkT2FVQUNSUdIBowFBVV95cUxPNmNyVkRvWmVaNzdfYWUwZ2R4ZUpWbkRFRmY4N3EyUmozd0luVkFCRF9SV2NXVGZ3aHFiLV9UM1B2ekc5UldUT0FRblI3bWRWNEZ1NmcxTFQ4T0d6eU13NzNLcloyU1ZBQUFCN2V6eEZDNkliUHYtV1luemhuWjlmX0J5X3pQS0N6bzhCN2w2Q2NNLXdoUHVXdHNYaW9ZOHdqOXlv?oc=5",
+      "publishedAt": "2026-11-19T20:00:06.000Z",
+      "source": "upi",
+      "description": "MAMA Awards: Where to watch, what to expect &nbsp;&nbsp; upi",
       "sourceClass": "publisher",
       "confidence": "secondary",
-      "sourceSummary": "The K-Stocks Popped Before The K-Pop Deal Was Sealed &nbsp;&nbsp; Finimize",
-      "articleUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdmExLUoyQklOQ01SS1FfRkhLUlBHTGl2Y0VsRFVTMlpsX1BUU2M1R1EwU1o3MWZQdjVJQmNzRU1PQXlocl96VU41SmZiWnNDNW55T01NNGdOUGk5ZjQxRjJlMFhiVW1fazFtSFd5VDg5bmVQQ0pGSnYxamlValczWkhUSQ",
+      "sourceSummary": "MAMA Awards: Where to watch, what to expect &nbsp;&nbsp; upi",
+      "articleUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcEZsVUFRR1o5aHJMSkFkZms2UWZWUEJvTmxRRGZHS2hSSGhjZnhQQjFzd3VzX2lUV0Y2bFdYRVhlMHRVdkVIRm9PTmlKSGxfZHZ2WXdfUk1MYnltb2djUnhjNEZ1UXlPTFZyM0tPcC1WYWFYSk1FQk5aMU9rbml5eDFmRnlzYnd2RHJCaVJWNHhZdEdrR3pkT2FVQUNSUdIBowFBVV95cUxPNmNyVkRvWmVaNzdfYWUwZ2R4ZUpWbkRFRmY4N3EyUmozd0luVkFCRF9SV2NXVGZ3aHFiLV9UM1B2ekc5UldUT0FRblI3bWRWNEZ1NmcxTFQ4T0d6eU13NzNLcloyU1ZBQUFCN2V6eEZDNkliUHYtV1luemhuWjlmX0J5X3pQS0N6bzhCN2w2Q2NNLXdoUHVXdHNYaW9ZOHdqOXlv",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
-        "category": "HALLYU NEWS",
+        "category": "TRENDING",
         "headline": "GOOGLE NEWS",
         "status": "pending_review",
         "canvaFields": {
-          "Category": "HALLYU NEWS",
+          "Category": "TRENDING",
           "Headline": "GOOGLE NEWS",
           "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
@@ -1498,30 +1594,6 @@
       }
     },
     {
-      "id": "1a5574026324",
-      "title": "BESTie Makes Billboard Debut After 13 Years: ‘Love Options’ Sparks a New Golden Era [HT Focus]",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfbkVIU3VoUENwRklfQlRrVVdaR0FENVZaOXZLZGF6a3E4QTVmd2VpTGxTVm1nQjI2Rm12TEZaN0U3Q1RmRktKWkhlc1NqTzB3?oc=5",
-      "publishedAt": "2026-11-19T09:00:11.000Z",
-      "source": "Hanteo News",
-      "description": "BESTie Makes Billboard Debut After 13 Years: ‘Love Options’ Sparks a New Golden Era [HT Focus] &nbsp;&nbsp; Hanteo News",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "BESTie Makes Billboard Debut After 13 Years: ‘Love Options’ Sparks a New Golden Era [HT Focus] &nbsp;&nbsp; Hanteo News",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfbkVIU3VoUENwRklfQlRrVVdaR0FENVZaOXZLZGF6a3E4QTVmd2VpTGxTVm1nQjI2Rm12TEZaN0U3Q1RmRktKWkhlc1NqTzB3",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "TRENDING",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "TRENDING",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
       "id": "115e4e3c6997",
       "title": "Watch: “New Recruit: Haunted Military Hospital” Soldiers Face Unexpected Horrors During Their Hospital Stay In New Film Teaser",
       "url": "https://www.soompi.com/article/1888759wpp/watch-new-recruit-haunted-military-hospital-soldiers-face-unexpected-horrors-during-their-hospital-stay-in-new-film-teaser",
@@ -1541,6 +1613,30 @@
           "Category": "COMEBACK NEWS",
           "Headline": "WATCH: “NEW RECRUIT: HAUNTED MILITARY HOSPITAL” SOLDIERS FACE UNEXPECTED HORRORS DURING THEIR…",
           "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/19122410/new-recruit-haunted-military-hospital-13.jpg"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "cfa1abb201de",
+      "title": "How India can build a K-Pop-style global music export engine - CNBC TV18",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY3p0QmZnV3ljRWs2UmppZzJTM1VZSk1scW5Hc0dsTDk1SkZ3X0JHTXptakhvWHJRNVhTVks4NnRBWXhoSWlSMjhBVm1GbGVFeVZ5NHZ6OVQ0U2pFclNUczdOeE1qZ21RZk1MQkJpWEpwYVlYYXNhU29zWG9Idmp0ZU1BZzUxODB3cUVKQWJKWElUMTV4X3ZVcDRmS0tyeVhXakhQUUFBWmtSZVZKZUVYaGk4MUZuQQ?oc=5",
+      "publishedAt": "2026-11-19T08:31:03.000Z",
+      "source": "LinkedIn",
+      "description": "How India can build a K-Pop-style global music export engine - CNBC TV18 &nbsp;&nbsp; LinkedIn",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "How India can build a K-Pop-style global music export engine - CNBC TV18 &nbsp;&nbsp; LinkedIn",
+      "articleUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY3p0QmZnV3ljRWs2UmppZzJTM1VZSk1scW5Hc0dsTDk1SkZ3X0JHTXptakhvWHJRNVhTVks4NnRBWXhoSWlSMjhBVm1GbGVFeVZ5NHZ6OVQ0U2pFclNUczdOeE1qZ21RZk1MQkJpWEpwYVlYYXNhU29zWG9Idmp0ZU1BZzUxODB3cUVKQWJKWElUMTV4X3ZVcDRmS0tyeVhXakhQUUFBWmtSZVZKZUVYaGk4MUZuQQ",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         "canvaDesignId": null
       }
@@ -1635,30 +1731,6 @@
         "status": "needs_image",
         "canvaFields": {
           "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "ef2d6688aa09",
-      "title": "Boy band xikers to release third Japanese single 'JOY!'",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON2RVQUdGeHNWalUtMk5EbVQ5aUJKR2pmTVJDem03dkx5RWp1OXpobmVhS3VUQnB6TTdvX01xNUhlNXBEMWI4dWxtTWtBSFdPcDQybHM1cnVxZTQ0R2pnVkVvZzdGQVI0VV9vbGhOdEVjM3hCSE56NlFNcTZIQkoyYWZ6d0x1NmNVakkwYmEyYUl1QzVYTDV0cTZxbzBXcG0zczNJSFFyRUI0NzhQV084elM3SGVOcFpUVXc?oc=5",
-      "publishedAt": "2026-11-19T06:34:32.000Z",
-      "source": "Korea JoongAng Daily",
-      "description": "Boy band xikers to release third Japanese single 'JOY!' &nbsp;&nbsp; Korea JoongAng Daily",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "Boy band xikers to release third Japanese single 'JOY!' &nbsp;&nbsp; Korea JoongAng Daily",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON2RVQUdGeHNWalUtMk5EbVQ5aUJKR2pmTVJDem03dkx5RWp1OXpobmVhS3VUQnB6TTdvX01xNUhlNXBEMWI4dWxtTWtBSFdPcDQybHM1cnVxZTQ0R2pnVkVvZzdGQVI0VV9vbGhOdEVjM3hCSE56NlFNcTZIQkoyYWZ6d0x1NmNVakkwYmEyYUl1QzVYTDV0cTZxbzBXcG0zczNJSFFyRUI0NzhQV084elM3SGVOcFpUVXc",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "COMEBACK NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "needs_image",
-        "canvaFields": {
-          "Category": "COMEBACK NEWS",
           "Headline": "GOOGLE NEWS",
           "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
@@ -2332,78 +2404,6 @@
         "status": "pending_review",
         "canvaFields": {
           "Category": "COMEBACK NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "89e099121636",
-      "title": "Pyo Ye Jin And Lee Ki Taek Team Up To Save A Children’s Show From Cancellation In “After The Show”",
-      "url": "https://www.soompi.com/article/1888515wpp/pyo-ye-jin-and-lee-ki-taek-team-up-to-save-a-childrens-show-from-cancellation-in-after-the-show",
-      "publishedAt": "2026-11-18T11:36:07.000Z",
-      "source": "Soompi",
-      "description": "2026 KBS Drama Special “Sound:Track” has unveiled new stills ahead of its release! “Sound:Track” is an anthology project featuring eight standalone dramas that explore love, breakups, and personal growth through music encountered in everyday life. Each installment is named after a song that inspired its story. The second installment, “After the Show,” is a heartwarming&#8230; Continue reading Pyo Ye Jin And Lee Ki Taek Team Up To Save A Children’s Show From Cancellation In “After The Show” The post Pyo Ye Jin And Lee Ki Taek Team Up To Save A Children’s Show From Cancellation In “After The Show” appeared first on Soompi .",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "2026 KBS Drama Special “Sound:Track” has unveiled new stills ahead of its release! “Sound:Track” is an anthology project featuring eight standalone dramas that explore love, breakups, and personal growth through music encountered in everyday life. Each installment is named after a song that inspired its story. The second installment, “After the Show,” is a heartwarming&#8230; Continue reading Pyo Ye Jin And Lee Ki Taek Team Up To Save A Children’s Show From Cancellation In “After The Show” The post Pyo Ye Jin And Lee Ki Taek Team Up To Save A Children’s Show From Cancellation In “After The Show” appeared first on Soompi .",
-      "articleUrl": "https://www.soompi.com/article/1888515wpp/pyo-ye-jin-and-lee-ki-taek-team-up-to-save-a-childrens-show-from-cancellation-in-after-the-show",
-      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/18203554/after-the-show-01.jpg",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "PYO YE JIN AND LEE KI TAEK TEAM UP TO SAVE A CHILDREN’S SHOW FROM CANCELLATION IN “AFTER THE SHOW”:…",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "PYO YE JIN AND LEE KI TAEK TEAM UP TO SAVE A CHILDREN’S SHOW FROM CANCELLATION IN “AFTER THE SHOW”:…",
-          "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/18203554/after-the-show-01.jpg"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "f8683fc64939",
-      "title": "Watch: NCT DREAM Takes 1st Win For “Boogie Woogie” On &#8220;Show Champion&#8221;",
-      "url": "https://www.soompi.com/article/1888510wpp/watch-nct-dream-takes-1st-win-for-boogie-woogie-on-show-champion",
-      "publishedAt": "2026-11-18T11:22:43.000Z",
-      "source": "Soompi",
-      "description": "NCT DREAM has won their first music show trophy for “Boogie Woogie”! The November 18 episode of “Show Champion” was a special episode with replays of past performances instead of the usual live broadcast. At the end of the show, it was announced that the candidates for first place were ATEEZ&#8216;s “UP,” IVE’s “Looks Can&#8230; Continue reading Watch: NCT DREAM Takes 1st Win For “Boogie Woogie” On &#8220;Show Champion&#8221; The post Watch: NCT DREAM Takes 1st Win For “Boogie Woogie” On &#8220;Show Champion&#8221; appeared first on Soompi .",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "NCT DREAM has won their first music show trophy for “Boogie Woogie”! The November 18 episode of “Show Champion” was a special episode with replays of past performances instead of the usual live broadcast. At the end of the show, it was announced that the candidates for first place were ATEEZ&#8216;s “UP,” IVE’s “Looks Can&#8230; Continue reading Watch: NCT DREAM Takes 1st Win For “Boogie Woogie” On &#8220;Show Champion&#8221; The post Watch: NCT DREAM Takes 1st Win For “Boogie Woogie” On &#8220;Show Champion&#8221; appeared first on Soompi .",
-      "articleUrl": "https://www.soompi.com/article/1888510wpp/watch-nct-dream-takes-1st-win-for-boogie-woogie-on-show-champion",
-      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/18202228/nct-dream-nov-26.jpg",
-      "social": {
-        "category": "TRENDING",
-        "headline": "WATCH: NCT DREAM TAKES 1ST WIN FOR “BOOGIE WOOGIE” ON \"SHOW CHAMPION\": SOOMPI",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "TRENDING",
-          "Headline": "WATCH: NCT DREAM TAKES 1ST WIN FOR “BOOGIE WOOGIE” ON \"SHOW CHAMPION\": SOOMPI",
-          "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/18202228/nct-dream-nov-26.jpg"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "93e804f47a5f",
-      "title": "G-Dragon’s Label Launches AI Robot Girl Group: Unitree-Powered K-Pop Concert Premieres This December",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xNnB6WnBfZkswS3VFSHNkMlRwUjlSR3k4enY4d2NLTUtCLUp6T2ViMnVpQUpKazBLSlA5OUpnRzlBVkJxUmtkZmU2ZXhHbGpLVEhJ?oc=5",
-      "publishedAt": "2026-11-18T10:12:46.000Z",
-      "source": "eu.36kr.com",
-      "description": "G-Dragon’s Label Launches AI Robot Girl Group: Unitree-Powered K-Pop Concert Premieres This December &nbsp;&nbsp; eu.36kr.com",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "G-Dragon’s Label Launches AI Robot Girl Group: Unitree-Powered K-Pop Concert Premieres This December &nbsp;&nbsp; eu.36kr.com",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xNnB6WnBfZkswS3VFSHNkMlRwUjlSR3k4enY4d2NLTUtCLUp6T2ViMnVpQUpKazBLSlA5OUpnRzlBVkJxUmtkZmU2ZXhHbGpLVEhJ",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "CONCERT NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "CONCERT NEWS",
           "Headline": "GOOGLE NEWS",
           "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
