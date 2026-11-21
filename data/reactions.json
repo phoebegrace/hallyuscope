@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T02:09:12.798Z",
+  "updatedAt": "2026-11-21T02:09:13.761Z",
   "note": "Public article reaction data. Stored on reactions-data branch so reaction writes do not trigger production deployments.",
   "articles": {},
   "biases": {
@@ -9,6 +9,7 @@
     "twice": 1,
     "atheart": 1,
     "a-pink": 1,
-    "le-sserafim": 1
+    "le-sserafim": 1,
+    "ive": 1
   }
 }
