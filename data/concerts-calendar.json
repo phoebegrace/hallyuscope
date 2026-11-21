@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T16:46:15.712Z",
+  "updatedAt": "2026-11-21T00:23:21.254Z",
   "note": "Upcoming Philippine K-pop events seeded only from currently verified official ticketing or venue sources. ticketUrl must remain an official promoter, venue, or ticketing destination.",
   "items": [
     {
@@ -144,12 +144,12 @@
       "venue": "Smart Araneta Coliseum",
       "city": "Quezon City",
       "type": "Concert",
-      "status": "Announced",
+      "status": "On Sale",
       "ticketRange": "₱3,200–₱16,800",
       "promoter": "Wilbros Live",
       "ticketProvider": "TicketNet",
       "ticketUrl": "https://ticketnet.com.ph/event-detail/DO2026Manila",
-      "description": "DOH KYUNG SOO is scheduled to bring the 2026-2027 concert tour [DAY OFF] to Smart Araneta Coliseum on January 23, 2027 at 6:00 PM. Tickets go on sale November 20 at 2:00 PM via TicketNet.",
+      "description": "DOH KYUNG SOO brings the 2026-2027 concert tour [DAY OFF] to Smart Araneta Coliseum on January 23, 2027 at 6:00 PM. Tickets via TicketNet.",
       "relatedArticles": [],
       "poster": "https://dohyi8q62t82e.cloudfront.net/files/events/poster/DO2026EventPoster.jpg",
       "seatPlan": "https://dohyi8q62t82e.cloudfront.net/files/events/seatmap/DO2026EventMap.jpg"
@@ -171,6 +171,26 @@
       "relatedArticles": [],
       "poster": "https://blog.ticketmaster.ph/wp-content/uploads/2026/10/KATSEYE-TICKETMASTER-1150X500-2.jpg",
       "seatPlan": "https://www.wheninmanila.com/wp-content/uploads/2026/11/HWYAJyta4AAA6xa.jpg"
+    },
+    {
+      "id": "jung-hae-in-meet-me-there-manila-2027",
+      "artist": "JUNG HAE IN",
+      "tour": "2027 Fan Meeting [Meet Me There] in Manila",
+      "date": "2027-01-31",
+      "venue": "PICC Plenary Hall",
+      "city": "Pasay",
+      "type": "Fan meeting",
+      "status": "On Sale",
+      "ticketRange": "₱3,400–₱11,000",
+      "promoter": "Karpos Multimedia",
+      "ticketProvider": "Tickelo",
+      "ticketUrl": "https://www.tickelo.com/junghaeinmanila",
+      "description": "Actor Jung Hae-in brings his Meet Me There fan meeting to the PICC Plenary Hall on January 31, 2027 at 6:00 PM. Tickets via Tickelo.",
+      "relatedArticles": [],
+      "sourceUrl": "https://www.tickelo.com/junghaeinmanila",
+      "sourceName": "Tickelo",
+      "sourceClass": "official",
+      "lastCheckedAt": "2026-11-21T00:23:21.254Z"
     },
     {
       "id": "katseye-wildworld-cebu-2027",

@@ -11,6 +11,127 @@
       "sourceName": "Korea JoongAng Daily",
       "sourceClass": "publisher",
       "status": "Released"
+    },
+    {
+      "id": "bigflo-come-back-home-2026",
+      "artist": "BIGFLO",
+      "title": "Come Back Home",
+      "date": "2026-11-21",
+      "type": "Digital Single",
+      "status": "Released",
+      "sourceUrl": "https://kpopping.com/calendar?month=2026-11",
+      "sourceName": "kpopping",
+      "sourceClass": "publisher"
+    },
+    {
+      "id": "ace-mala-bachata-2026",
+      "artist": "ACE",
+      "title": "Mala Bachata",
+      "date": "2026-11-22",
+      "type": "Digital Single",
+      "sourceUrl": "https://kpopping.com/calendar?month=2026-11",
+      "sourceName": "kpopping",
+      "sourceClass": "publisher",
+      "status": "Scheduled"
+    },
+    {
+      "id": "all-n-four-seasons-2026",
+      "artist": "ALL'N",
+      "title": "Four Seasons",
+      "date": "2026-11-23",
+      "type": "Mini Album",
+      "sourceUrl": "https://kpopping.com/calendar?month=2026-11",
+      "sourceName": "kpopping",
+      "sourceClass": "publisher",
+      "status": "Scheduled"
+    },
+    {
+      "id": "siwan-love-in-disguise-ost-pt-7-2026",
+      "artist": "Siwan",
+      "title": "Love in Disguise OST Pt.7",
+      "date": "2026-11-24",
+      "type": "OST",
+      "sourceUrl": "https://kpopping.com/calendar?month=2026-11",
+      "sourceName": "kpopping",
+      "sourceClass": "publisher",
+      "status": "Scheduled"
+    },
+    {
+      "id": "dkb-1-or-8-2026",
+      "artist": "DKB",
+      "title": "1 or 8",
+      "date": "2026-11-25",
+      "type": "Album",
+      "sourceUrl": "https://kpopping.com/calendar?month=2026-11",
+      "sourceName": "kpopping",
+      "sourceClass": "publisher",
+      "status": "Scheduled"
+    },
+    {
+      "id": "plave-lowkey-2026",
+      "artist": "PLAVE",
+      "title": "Lowkey",
+      "date": "2026-11-30",
+      "type": "Digital Single",
+      "sourceUrl": "https://kpopping.com/calendar?month=2026-11",
+      "sourceName": "kpopping",
+      "sourceClass": "publisher",
+      "status": "Scheduled"
+    },
+    {
+      "id": "hyolyn-my-santa-2026",
+      "artist": "Hyolyn",
+      "title": "My Santa",
+      "date": "2026-11-30",
+      "type": "Digital Single",
+      "sourceUrl": "https://kpopping.com/calendar?month=2026-11",
+      "sourceName": "kpopping",
+      "sourceClass": "publisher",
+      "status": "Scheduled"
+    },
+    {
+      "id": "me-i-rock-roll-pretty-2026",
+      "artist": "ME:I",
+      "title": "Rock & Roll Pretty",
+      "date": "2026-12-02",
+      "type": "Single",
+      "sourceUrl": "https://kpopping.com/calendar?month=2026-12",
+      "sourceName": "kpopping",
+      "sourceClass": "publisher",
+      "status": "Scheduled"
+    },
+    {
+      "id": "onf-white-2026",
+      "artist": "ONF",
+      "title": "White",
+      "date": "2026-12-02",
+      "type": "Mini Album",
+      "sourceUrl": "https://kpopping.com/calendar?month=2026-12",
+      "sourceName": "kpopping",
+      "sourceClass": "publisher",
+      "status": "Scheduled"
+    },
+    {
+      "id": "the-deep-quest-2026",
+      "artist": "The Deep",
+      "title": "Quest",
+      "date": "2026-12-09",
+      "type": "EP",
+      "sourceUrl": "https://kpopping.com/calendar?month=2026-12",
+      "sourceName": "kpopping",
+      "sourceClass": "publisher",
+      "status": "Scheduled"
+    },
+    {
+      "id": "marquise-overtime-2026",
+      "artist": "Marquise",
+      "title": "Overtime",
+      "date": "2026-12-11",
+      "type": "Digital Single",
+      "sourceUrl": "https://kpopping.com/calendar?month=2026-12",
+      "sourceName": "kpopping",
+      "sourceClass": "publisher",
+      "status": "Scheduled"
     }
   ]
 }
