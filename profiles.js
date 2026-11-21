@@ -85,6 +85,8 @@
   function section(id,label,noun,list,limit,key,extra=''){
     return `<section class="artist-section" id="${esc(id)}-list" aria-labelledby="${esc(id)}-heading"><div class="artist-section-head"><h2 id="${esc(id)}-heading">${esc(label)}</h2><span>${plural(list.length,noun)}</span></div><div class="profile-grid">${list.slice(0,limit).map(x=>card(x)).join('')}</div>${extra||more(list,key,label.toLowerCase())}</section>`;
   }
+  // Ties share a rank and the next rank skips ahead (1, 1, 3, 4...).
+  function rankOf(list,i){const h=counts[list[i].b]||0;let r=i;while(r>0&&(counts[list[r-1].b]||0)===h)r--;return r+1;}
   const root=document.createElement('div'); root.className='profile-results';
   function render(){
     const term=normalize(search.value);
@@ -96,7 +98,7 @@
       const pool=withHearts.length?withHearts:ranked.slice(0,PAGE);
       const n=shown['most-biased']||PAGE;
       count=pool.length;
-      html=`<section class="artist-section" id="most-biased"><div class="artist-section-head"><h2>Most biased</h2><span>${loaded?plural(pool.length,'profile')+' with fan hearts':'Loading hearts…'}</span></div><ol class="profile-grid bias-ranking">${pool.slice(0,n).map((x,i)=>`<li class="bias-rank" data-rank="${i+1}">${card(x)}</li>`).join('')}</ol>${more(pool,'most-biased','profiles')}</section>`;
+      html=`<section class="artist-section" id="most-biased"><div class="artist-section-head"><h2>Most biased</h2><span>${loaded?plural(pool.length,'profile')+' with fan hearts':'Loading hearts…'}</span></div><ol class="profile-grid bias-ranking">${pool.slice(0,n).map((x,i)=>{const r=rankOf(pool,i);return `<li class="bias-rank${r<=3?' is-top':''}" data-rank="${r}">${card(x)}</li>`}).join('')}</ol>${more(pool,'most-biased','profiles')}</section>`;
     }else if(category==='all'&&!term){
       for(const [id,label,noun] of CATS){
         const sub=list.filter(x=>x.c===id).sort(sortKey); if(!sub.length)continue; count+=sub.length;

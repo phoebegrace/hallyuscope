@@ -96,7 +96,9 @@ function detailHtml(e, all) {
       fact('Status', e.status || 'Tracking') +
       fact('Ticket range', e.ticketRange || 'TBA') +
       fact('Promoter', e.promoter || 'TBA') +
-    '</div></div>' +
+    '</div>' +
+    (e.guideUrl ? '<p class="concert-guide-link" style="margin:24px 0 0"><a class="cta" href="' + esc(e.guideUrl) + '">Read the full concert guide <span class="arr">→</span></a></p>' : '') +
+    '</div>' +
     '<div class="concert-detail-side">' + poster + seatPlan +
     '<aside class="concert-ticket-box"><span class="eyebrow">OFFICIAL TICKETING</span><h4>' + esc(e.ticketProvider || 'Ticket details') + '</h4><p>HallyuScope links only to verified official ticketing or promoter destinations when available.</p>' + ticket +
     '<div class="concert-calendar-actions"><a href="' + googleCalendarUrl(e) + '" target="_blank" rel="noopener">Google Calendar</a><a href="#" data-download-ics>Apple / Outlook</a></div></aside></div></div>' +
