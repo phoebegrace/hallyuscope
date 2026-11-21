@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-20T10:15:48.806Z",
+  "updatedAt": "2026-11-21T02:08:24.116Z",
   "note": "Public article reaction data. Stored on reactions-data branch so reaction writes do not trigger production deployments.",
   "articles": {},
   "biases": {
     "aespa": 1,
-    "blackpink": 1
+    "blackpink": 2
   }
 }
