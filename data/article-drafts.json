@@ -1,8 +1,253 @@
 {
-  "updatedAt": "2026-11-21T02:23:50.808Z",
+  "updatedAt": "2026-11-21T04:02:06.549Z",
   "autoPublish": true,
   "note": "Auto-publish is ON. Newly generated HallyuScope articles publish immediately.",
   "items": [
+    {
+      "id": "3d18358522dc",
+      "createdAt": "2026-11-21T03:38:27.000Z",
+      "status": "published",
+      "publishedAt": "2026-11-21T03:38:27.000Z",
+      "sourcePublishedAt": "2026-11-21T03:38:27.000Z",
+      "model": "manual",
+      "qualityVersion": 3,
+      "verification": null,
+      "researchSources": null,
+      "slug": "pentagon-manila-concert-2026-guide",
+      "source": {
+        "publisher": "HallyuScope",
+        "title": "PENTAGON in Manila 2026: Tickets, Seat Plan and Concert Day Guide",
+        "url": "https://hallyuscope.com/concert/pentagon-101010-manila-2026"
+      },
+      "sourceNote": "Source: HallyuScope",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/3d18358522dc-article-mwpvq93n.jpg",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "HallyuScope-made guide graphic."
+      },
+      "sourceImageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/3d18358522dc-article-mwpvq93n.jpg",
+      "category": "CONCERT NEWS",
+      "headline": "PENTAGON in Manila 2026: Tickets, Seat Plan and Concert Day Guide",
+      "dek": "10th Anniversary Tour <101010> hits Aliw Theater on Nov 29, 2026. Tickets, prices, the seat plan, how to get there and what to bring, in one place.",
+      "body": [
+        "PENTAGON brings the 10th Anniversary Tour <101010> to Aliw Theater in Pasay City on Sunday, November 29, 2026, with the show starting at 7:00 PM. Here is everything to sort out before the day: tickets, prices, the seat plan and what to bring.",
+        "Tickets range from ₱3,966–₱13,375 and are sold through Ticketmaster Philippines. The local promoter is SBTown. Buy only from the official seller linked on the HallyuScope concert page, since resold and screenshot tickets can be refused at the door.",
+        "The tour marks ten years of PENTAGON, so expect a setlist built around the songs Universe have followed since debut.",
+        "Before checkout, open the seat plan on the HallyuScope concert page and compare sections, because the price tiers follow the layout of the venue. Have your ticketing account, payment card and a stable connection ready if you are buying during a busy sale.",
+        "Getting there: Aliw Theater sits in the CCP Complex area in Pasay, close to Roxas Boulevard. Weekend evening traffic along the bay builds up fast, so plan your ride to arrive at least an hour before the 7:00 PM start.",
+        "On the day, bring your ticket (printed or in the app, depending on the seller), a valid ID in case the venue checks it, a charged phone and a power bank. Light sticks are welcome at most K-pop shows, but always follow the bag and item rules the promoter posts closer to the date.",
+        "Dates, prices and rules can change. The HallyuScope concert page for PENTAGON keeps the official poster, seat plan and ticket link in one place, and the concert calendar lists every other K-pop show coming to the Philippines."
+      ],
+      "socialCaption": "PENTAGON in Manila: your concert guide. Nov 29, 2026, 7:00 PM at Aliw Theater. Tickets ₱3,966–₱13,375 via Ticketmaster Philippines. Seat plan, ticket link and concert-day tips on HallyuScope.",
+      "seoDescription": "PENTAGON Manila concert 2026 guide: Nov 29, 2026 at Aliw Theater, Pasay City. Ticket prices ₱3,966–₱13,375, seat plan, official ticket link, venue tips and what to bring.",
+      "socialHashtags": "#HallyuScope #PENTAGON #PENTAGON101010 #KpopPH #ManilaConcert",
+      "socialImageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/3d18358522dc-slide-1.jpg",
+      "socialSlides": [
+        "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/3d18358522dc-slide-1.jpg",
+        "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/3d18358522dc-slide-2.jpg",
+        "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/3d18358522dc-slide-3.jpg",
+        "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/3d18358522dc-slide-4.jpg",
+        "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/3d18358522dc-slide-5.jpg"
+      ],
+      "concertId": "pentagon-101010-manila-2026"
+    },
+    {
+      "id": "3230b9d235af",
+      "createdAt": "2026-11-21T03:38:27.000Z",
+      "status": "published",
+      "publishedAt": "2026-11-21T03:38:27.000Z",
+      "sourcePublishedAt": "2026-11-21T03:38:27.000Z",
+      "model": "manual",
+      "qualityVersion": 3,
+      "verification": null,
+      "researchSources": null,
+      "slug": "park-jinyoung-manila-concert-2026-guide",
+      "source": {
+        "publisher": "HallyuScope",
+        "title": "PARK JINYOUNG in Manila 2026: Tickets, Seat Plan and Concert Day Guide",
+        "url": "https://hallyuscope.com/concert/park-jinyoung-code-manila-2026"
+      },
+      "sourceNote": "Source: HallyuScope",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/3230b9d235af-article-mwpvq93n.jpg",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "HallyuScope-made guide graphic."
+      },
+      "sourceImageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/3230b9d235af-article-mwpvq93n.jpg",
+      "category": "CONCERT NEWS",
+      "headline": "PARK JINYOUNG in Manila 2026: Tickets, Seat Plan and Concert Day Guide",
+      "dek": "1st Concert Tour [CODE#] hits FYM Hall, EVM Convention Center on Dec 5, 2026. Tickets, prices, the seat plan, how to get there and what to bring, in one place.",
+      "body": [
+        "PARK JINYOUNG brings the 1st Concert Tour [CODE#] to FYM Hall, EVM Convention Center in Quezon City on Saturday, December 5, 2026, with the show starting at 7:00 PM. Here is everything to sort out before the day: tickets, prices, the seat plan and what to bring.",
+        "Tickets range from ₱5,000–₱12,500 and are sold through Tap Your Tickets. The local promoter is Three Angles Production. Buy only from the official seller linked on the HallyuScope concert page, since resold and screenshot tickets can be refused at the door.",
+        "This is his first concert tour, and Manila is one of its stops. Heads up: LE SSERAFIM plays the MOA Arena the same night at the same time, so it is one show or the other.",
+        "Before checkout, open the seat plan on the HallyuScope concert page and compare sections, because the price tiers follow the layout of the venue. Have your ticketing account, payment card and a stable connection ready if you are buying during a busy sale.",
+        "Getting there: FYM Hall is inside the EVM Convention Center in Quezon City. Check the official seat map before you buy so you know which section you are paying for.",
+        "On the day, bring your ticket (printed or in the app, depending on the seller), a valid ID in case the venue checks it, a charged phone and a power bank. Light sticks are welcome at most K-pop shows, but always follow the bag and item rules the promoter posts closer to the date.",
+        "Dates, prices and rules can change. The HallyuScope concert page for PARK JINYOUNG keeps the official poster, seat plan and ticket link in one place, and the concert calendar lists every other K-pop show coming to the Philippines."
+      ],
+      "socialCaption": "PARK JINYOUNG in Manila: your concert guide. Dec 5, 2026, 7:00 PM at FYM Hall, EVM Convention Center. Tickets ₱5,000–₱12,500 via Tap Your Tickets. Seat plan, ticket link and concert-day tips on HallyuScope.",
+      "seoDescription": "PARK JINYOUNG Manila concert 2026 guide: Dec 5, 2026 at FYM Hall, EVM Convention Center, Quezon City. Ticket prices ₱5,000–₱12,500, seat plan, official ticket link, venue tips and what to bring.",
+      "socialHashtags": "#HallyuScope #PARKJINYOUNG #CODE_in_Manila #KpopPH #ManilaConcert",
+      "socialImageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/3230b9d235af-slide-1.jpg",
+      "socialSlides": [
+        "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/3230b9d235af-slide-1.jpg",
+        "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/3230b9d235af-slide-2.jpg",
+        "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/3230b9d235af-slide-3.jpg",
+        "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/3230b9d235af-slide-4.jpg",
+        "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/3230b9d235af-slide-5.jpg"
+      ],
+      "concertId": "park-jinyoung-code-manila-2026"
+    },
+    {
+      "id": "7d80af2959ab",
+      "createdAt": "2026-11-21T03:38:27.000Z",
+      "status": "published",
+      "publishedAt": "2026-11-21T03:38:27.000Z",
+      "sourcePublishedAt": "2026-11-21T03:38:27.000Z",
+      "model": "manual",
+      "qualityVersion": 3,
+      "verification": null,
+      "researchSources": null,
+      "slug": "le-sserafim-manila-concert-2026-guide",
+      "source": {
+        "publisher": "HallyuScope",
+        "title": "LE SSERAFIM in Manila 2026: Tickets, Seat Plan and Concert Day Guide",
+        "url": "https://hallyuscope.com/concert/le-sserafim-pureflow-manila-2026"
+      },
+      "sourceNote": "Source: HallyuScope",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/7d80af2959ab-article-mwpvq93n.jpg",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "HallyuScope-made guide graphic."
+      },
+      "sourceImageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/7d80af2959ab-article-mwpvq93n.jpg",
+      "category": "CONCERT NEWS",
+      "headline": "LE SSERAFIM in Manila 2026: Tickets, Seat Plan and Concert Day Guide",
+      "dek": "2026 Tour PUREFLOW hits SM Mall of Asia Arena on Dec 5, 2026. Tickets, prices, the seat plan, how to get there and what to bring, in one place.",
+      "body": [
+        "LE SSERAFIM brings the 2026 Tour PUREFLOW to SM Mall of Asia Arena in Pasay on Saturday, December 5, 2026, with the show starting at 7:00 PM. Here is everything to sort out before the day: tickets, prices, the seat plan and what to bring.",
+        "Tickets range from ₱4,000–₱15,500 and are sold through SM Tickets. The local promoter is PULP Live World. Buy only from the official seller linked on the HallyuScope concert page, since resold and screenshot tickets can be refused at the door.",
+        "Only one Manila date is happening. The December 6 show was cancelled and its ticket holders were moved to December 5, so check that your ticket shows the right date.",
+        "Before checkout, open the seat plan on the HallyuScope concert page and compare sections, because the price tiers follow the layout of the venue. Have your ticketing account, payment card and a stable connection ready if you are buying during a busy sale.",
+        "Getting there: The SM Mall of Asia Arena is on Seaside Boulevard in the Mall of Asia Complex, Pasay. Parking and ride pick-up points around the arena get crowded after big shows, so agree on a meeting spot with your friends before you go in.",
+        "On the day, bring your ticket (printed or in the app, depending on the seller), a valid ID in case the venue checks it, a charged phone and a power bank. Light sticks are welcome at most K-pop shows, but always follow the bag and item rules the promoter posts closer to the date.",
+        "Dates, prices and rules can change. The HallyuScope concert page for LE SSERAFIM keeps the official poster, seat plan and ticket link in one place, and the concert calendar lists every other K-pop show coming to the Philippines."
+      ],
+      "socialCaption": "LE SSERAFIM in Manila: your concert guide. Dec 5, 2026, 7:00 PM at SM Mall of Asia Arena. Tickets ₱4,000–₱15,500 via SM Tickets. Seat plan, ticket link and concert-day tips on HallyuScope.",
+      "seoDescription": "LE SSERAFIM Manila concert 2026 guide: Dec 5, 2026 at SM Mall of Asia Arena, Pasay. Ticket prices ₱4,000–₱15,500, seat plan, official ticket link, venue tips and what to bring.",
+      "socialHashtags": "#HallyuScope #LE_SSERAFIM #PUREFLOW_in_Manila #KpopPH #ManilaConcert",
+      "socialImageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/7d80af2959ab-slide-1.jpg",
+      "socialSlides": [
+        "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/7d80af2959ab-slide-1.jpg",
+        "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/7d80af2959ab-slide-2.jpg",
+        "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/7d80af2959ab-slide-3.jpg",
+        "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/7d80af2959ab-slide-4.jpg",
+        "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/7d80af2959ab-slide-5.jpg"
+      ],
+      "concertId": "le-sserafim-pureflow-manila-2026"
+    },
+    {
+      "id": "d2eb3873bbd8",
+      "createdAt": "2026-11-21T03:38:27.000Z",
+      "status": "published",
+      "publishedAt": "2026-11-21T03:38:27.000Z",
+      "sourcePublishedAt": "2026-11-21T03:38:27.000Z",
+      "model": "manual",
+      "qualityVersion": 3,
+      "verification": null,
+      "researchSources": null,
+      "slug": "nct-127-manila-concert-2026-guide",
+      "source": {
+        "publisher": "HallyuScope",
+        "title": "NCT 127 in Manila 2026: Tickets, Seat Plan and Concert Day Guide",
+        "url": "https://hallyuscope.com/concert/nct-127-neo-city-redline-manila-2026"
+      },
+      "sourceNote": "Source: HallyuScope",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/d2eb3873bbd8-article-mwpvq93n.jpg",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "HallyuScope-made guide graphic."
+      },
+      "sourceImageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/d2eb3873bbd8-article-mwpvq93n.jpg",
+      "category": "CONCERT NEWS",
+      "headline": "NCT 127 in Manila 2026: Tickets, Seat Plan and Concert Day Guide",
+      "dek": "5th Tour NEO CITY : THE REDLINE hits SM Mall of Asia Arena on Dec 12, 2026. Tickets, prices, the seat plan, how to get there and what to bring, in one place.",
+      "body": [
+        "NCT 127 brings the 5th Tour NEO CITY : THE REDLINE to SM Mall of Asia Arena in Pasay on Saturday, December 12, 2026, with the show starting at 5:00 PM. Here is everything to sort out before the day: tickets, prices, the seat plan and what to bring.",
+        "Tickets range from ₱4,500–₱16,000 and are sold through SM Tickets. The local promoter is PULP Live World. Buy only from the official seller linked on the HallyuScope concert page, since resold and screenshot tickets can be refused at the door.",
+        "NEO CITY is NCT 127's concert series, and THE REDLINE is its fifth tour. Note the early 5:00 PM start.",
+        "Before checkout, open the seat plan on the HallyuScope concert page and compare sections, because the price tiers follow the layout of the venue. Have your ticketing account, payment card and a stable connection ready if you are buying during a busy sale.",
+        "Getting there: The SM Mall of Asia Arena is on Seaside Boulevard in the Mall of Asia Complex, Pasay. The show starts at 5:00 PM, earlier than most Manila concerts, so leave early and eat before you queue.",
+        "On the day, bring your ticket (printed or in the app, depending on the seller), a valid ID in case the venue checks it, a charged phone and a power bank. Light sticks are welcome at most K-pop shows, but always follow the bag and item rules the promoter posts closer to the date.",
+        "Dates, prices and rules can change. The HallyuScope concert page for NCT 127 keeps the official poster, seat plan and ticket link in one place, and the concert calendar lists every other K-pop show coming to the Philippines."
+      ],
+      "socialCaption": "NCT 127 in Manila: your concert guide. Dec 12, 2026, 5:00 PM at SM Mall of Asia Arena. Tickets ₱4,500–₱16,000 via SM Tickets. Seat plan, ticket link and concert-day tips on HallyuScope.",
+      "seoDescription": "NCT 127 Manila concert 2026 guide: Dec 12, 2026 at SM Mall of Asia Arena, Pasay. Ticket prices ₱4,500–₱16,000, seat plan, official ticket link, venue tips and what to bring.",
+      "socialHashtags": "#HallyuScope #NCT127 #THEREDLINE_in_Manila #KpopPH #ManilaConcert",
+      "socialImageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/d2eb3873bbd8-slide-1.jpg",
+      "socialSlides": [
+        "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/d2eb3873bbd8-slide-1.jpg",
+        "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/d2eb3873bbd8-slide-2.jpg",
+        "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/d2eb3873bbd8-slide-3.jpg",
+        "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/d2eb3873bbd8-slide-4.jpg",
+        "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/d2eb3873bbd8-slide-5.jpg"
+      ],
+      "concertId": "nct-127-neo-city-redline-manila-2026"
+    },
+    {
+      "id": "d9a82aa7aa28",
+      "createdAt": "2026-11-21T03:38:27.000Z",
+      "status": "published",
+      "publishedAt": "2026-11-21T03:38:27.000Z",
+      "sourcePublishedAt": "2026-11-21T03:38:27.000Z",
+      "model": "manual",
+      "qualityVersion": 3,
+      "verification": null,
+      "researchSources": null,
+      "slug": "rocky-manila-fan-concert-2026-guide",
+      "source": {
+        "publisher": "HallyuScope",
+        "title": "ROCKY in Manila 2026: Tickets, Seat Plan and Fan Concert Day Guide",
+        "url": "https://hallyuscope.com/concert/rocky-fake-it-manila-2026"
+      },
+      "sourceNote": "Source: HallyuScope",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/d9a82aa7aa28-article-mwpvq93n.jpg",
+      "imageType": "hallyuscope_original",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "HallyuScope-made guide graphic."
+      },
+      "sourceImageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/d9a82aa7aa28-article-mwpvq93n.jpg",
+      "category": "CONCERT NEWS",
+      "headline": "ROCKY in Manila 2026: Tickets, Seat Plan and Fan Concert Day Guide",
+      "dek": "2026 Fan Concert [Fake It] hits Samsung Hall, SM Aura on Dec 20, 2026. Tickets, prices, the seat plan, how to get there and what to bring, in one place.",
+      "body": [
+        "ROCKY brings the 2026 Fan Concert [Fake It] to Samsung Hall, SM Aura in Taguig City on Sunday, December 20, 2026, with the show starting at 7:00 PM. Here is everything to sort out before the day: tickets, prices, the seat plan and what to bring.",
+        "Tickets range from ₱3,500–₱10,500 and are sold through Ticketmaster Philippines. The local promoter is CDM Entertainment. Buy only from the official seller linked on the HallyuScope concert page, since resold and screenshot tickets can be refused at the door.",
+        "This is a fan concert, which usually mixes live songs with talk segments and fan games, so expect more interaction than a standard concert.",
+        "Before checkout, open the seat plan on the HallyuScope concert page and compare sections, because the price tiers follow the layout of the venue. Have your ticketing account, payment card and a stable connection ready if you are buying during a busy sale.",
+        "Getting there: Samsung Hall is inside SM Aura in Bonifacio Global City, Taguig. BGC is busy on weekends before Christmas, so give yourself extra travel time.",
+        "On the day, bring your ticket (printed or in the app, depending on the seller), a valid ID in case the venue checks it, a charged phone and a power bank. Light sticks are welcome at most K-pop shows, but always follow the bag and item rules the promoter posts closer to the date.",
+        "Dates, prices and rules can change. The HallyuScope concert page for ROCKY keeps the official poster, seat plan and ticket link in one place, and the concert calendar lists every other K-pop show coming to the Philippines."
+      ],
+      "socialCaption": "ROCKY in Manila: your fan concert guide. Dec 20, 2026, 7:00 PM at Samsung Hall, SM Aura. Tickets ₱3,500–₱10,500 via Ticketmaster Philippines. Seat plan, ticket link and concert-day tips on HallyuScope.",
+      "seoDescription": "ROCKY Manila fan concert 2026 guide: Dec 20, 2026 at Samsung Hall, SM Aura, Taguig City. Ticket prices ₱3,500–₱10,500, seat plan, official ticket link, venue tips and what to bring.",
+      "socialHashtags": "#HallyuScope #ROCKY #FakeIt_in_Manila #KpopPH #ManilaConcert",
+      "socialImageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/d9a82aa7aa28-slide-1.jpg",
+      "socialSlides": [
+        "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/d9a82aa7aa28-slide-1.jpg",
+        "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/d9a82aa7aa28-slide-2.jpg",
+        "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/d9a82aa7aa28-slide-3.jpg",
+        "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/d9a82aa7aa28-slide-4.jpg",
+        "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/d9a82aa7aa28-slide-5.jpg"
+      ],
+      "concertId": "rocky-fake-it-manila-2026"
+    },
     {
       "id": "636d8e20ec2e",
       "createdAt": "2026-11-20T21:12:29.926Z",

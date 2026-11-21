@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T00:23:21.254Z",
+  "updatedAt": "2026-11-21T04:02:06.549Z",
   "note": "Upcoming Philippine K-pop events seeded only from currently verified official ticketing or venue sources. ticketUrl must remain an official promoter, venue, or ticketing destination.",
   "items": [
     {
@@ -36,7 +36,8 @@
       "description": "PENTAGON's 10th Anniversary Tour <101010> comes to the Aliw Theater on November 29, 2026 at 7:00 PM. Tickets via Ticketmaster Philippines.",
       "relatedArticles": [],
       "poster": "https://assets.billboardphilippines.com/wp-content/uploads/2026/10/pentagon-square-1280x1280.jpg",
-      "seatPlan": null
+      "seatPlan": null,
+      "guideUrl": "/article/pentagon-manila-concert-2026-guide"
     },
     {
       "id": "park-jinyoung-code-manila-2026",
@@ -54,7 +55,8 @@
       "description": "PARK JINYOUNG's 1st Concert Tour [CODE#] comes to FYM Hall, EVM Convention Center on December 5, 2026 at 7:00 PM. Tickets via Tap Your Tickets.",
       "relatedArticles": [],
       "poster": "https://cdn-sea.bookmyshow.com/prod/images/202610/bf73b3fc-962c-4859-81c5-7fabeb170f1d/og/1280x500/CODE__MANILA_-_1280_x_500_.png",
-      "seatPlan": "https://cdn-sea.bookmyshow.com/prod/images/202610/cb331c14-3e47-4d91-9324-76c96abe29a4/og/1798x2396/PJY_MNL_-_SEATMAP.png"
+      "seatPlan": "https://cdn-sea.bookmyshow.com/prod/images/202610/cb331c14-3e47-4d91-9324-76c96abe29a4/og/1798x2396/PJY_MNL_-_SEATMAP.png",
+      "guideUrl": "/article/park-jinyoung-manila-concert-2026-guide"
     },
     {
       "id": "le-sserafim-pureflow-manila-2026",
@@ -76,7 +78,8 @@
       "sourceUrl": "https://www.smtickets.com/events/view/18350",
       "sourceName": "SM Tickets",
       "sourceClass": "official",
-      "lastCheckedAt": "2026-11-21T00:56:28.277Z"
+      "lastCheckedAt": "2026-11-21T00:56:28.277Z",
+      "guideUrl": "/article/le-sserafim-manila-concert-2026-guide"
     },
     {
       "id": "nct-127-neo-city-redline-manila-2026",
@@ -98,7 +101,8 @@
       "sourceUrl": "https://www.smtickets.com/events/view/18436",
       "sourceName": "SM Tickets",
       "sourceClass": "official",
-      "lastCheckedAt": "2026-11-21T00:56:28.277Z"
+      "lastCheckedAt": "2026-11-21T00:56:28.277Z",
+      "guideUrl": "/article/nct-127-manila-concert-2026-guide"
     },
     {
       "id": "rocky-fake-it-manila-2026",
@@ -116,7 +120,8 @@
       "description": "ROCKY brings his [Fake It] fan concert to Samsung Hall, SM Aura on December 20, 2026 at 7:00 PM. General sale started November 16 via Ticketmaster Philippines.",
       "relatedArticles": [],
       "poster": "https://assets.billboardphilippines.com/wp-content/uploads/2026/11/rocky-concert-socials.jpg",
-      "seatPlan": null
+      "seatPlan": null,
+      "guideUrl": "/article/rocky-manila-fan-concert-2026-guide"
     },
     {
       "id": "jacob-more-than-words-manila-2027",
