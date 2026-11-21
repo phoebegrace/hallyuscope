@@ -107,7 +107,7 @@ function detailHtml(e, all) {
     'document.querySelector("[data-download-ics]").addEventListener("click",function(e){e.preventDefault();var blob=new Blob([icsData()],{type:"text/calendar;charset=utf-8"});var url=URL.createObjectURL(blob);var a=document.createElement("a");a.href=url;a.download=(ev.id||"concert")+".ics";a.click();setTimeout(function(){URL.revokeObjectURL(url)},1000);});})();</script>';
 }
 
-function shell({ title, description, canonical, image, body }) {
+function shell({ title, description, canonical, image, body, jsonld = '' }) {
   return `<!doctype html>
 <html lang="en">
 <head>
@@ -117,7 +117,7 @@ function shell({ title, description, canonical, image, body }) {
 <meta name="google-site-verification" content="c7h5zaPAxsYySy4iI0ikijlJcHWMC5AtCzVtORqQqBI">
 <title>${esc(title)}</title>
 <meta name="description" content="${esc(description)}">
-<link rel="canonical" href="${esc(canonical)}">
+<link rel="canonical" href="${esc(canonical)}">${jsonld}
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="HallyuScope">
 <meta property="og:title" content="${esc(title)}">
@@ -208,6 +208,50 @@ ${body}
 </html>`;
 }
 
+// Structured data so Google can show the show as an event (date, venue,
+// ticket price) in search results.
+const METRO = /pasay|quezon|manila|san juan|taguig|makati|pasig|para[nñ]aque|mandaluyong|muntinlupa|caloocan/i;
+function eventKind(e) {
+  const t = (e.type || '') + ' ' + (e.tour || '');
+  return /fan ?meet/i.test(t) ? 'Fan Meeting' : /fan ?con(cert)?/i.test(t) ? 'Fan Concert' : 'Concert';
+}
+function startTime(e) {
+  const m = String(e.description || '').match(/(\d{1,2})(?::(\d{2}))?\s*(AM|PM)/i);
+  if (!m) return String(e.date).slice(0, 10);
+  let h = Number(m[1]) % 12; if (/pm/i.test(m[3])) h += 12;
+  return String(e.date).slice(0, 10) + 'T' + String(h).padStart(2, '0') + ':' + (m[2] || '00') + ':00+08:00';
+}
+function eventJsonLd(e, url) {
+  const prices = String(e.ticketRange || '').replace(/,/g, '').match(/\d+(?:\.\d+)?/g)?.map(Number).filter(n => n >= 100) || [];
+  const status = /cancel/i.test(e.status || '') ? 'EventCancelled' : /postpon/i.test(e.status || '') ? 'EventPostponed' : 'EventScheduled';
+  const availability = /sold out/i.test(e.status || '') ? 'SoldOut' : /on sale|available/i.test(e.status || '') ? 'InStock' : 'PreOrder';
+  const ev = {
+    '@context': 'https://schema.org', '@type': eventKind(e) === 'Concert' ? 'MusicEvent' : 'Event',
+    name: (e.artist || 'Concert') + (e.tour ? ' — ' + e.tour : ''),
+    startDate: startTime(e),
+    eventStatus: 'https://schema.org/' + status,
+    eventAttendanceMode: 'https://schema.org/OfflineEventAttendanceMode',
+    location: { '@type': 'Place', name: e.venue || 'TBA', address: { '@type': 'PostalAddress', addressLocality: e.city || 'Metro Manila', addressCountry: 'PH' } },
+    description: e.description || undefined,
+    image: e.poster && /^https?:\/\//.test(e.poster) ? [e.poster] : [DEFAULT_IMAGE],
+    performer: { '@type': eventKind(e) === 'Fan Meeting' ? 'Person' : 'MusicGroup', name: e.artist },
+    organizer: e.promoter && e.promoter !== 'TBA' ? { '@type': 'Organization', name: e.promoter } : undefined,
+    url,
+  };
+  if (e.ticketUrl) {
+    ev.offers = prices.length
+      ? { '@type': 'AggregateOffer', url: e.ticketUrl, priceCurrency: 'PHP', lowPrice: Math.min(...prices), highPrice: Math.max(...prices), availability: 'https://schema.org/' + availability }
+      : { '@type': 'Offer', url: e.ticketUrl, priceCurrency: 'PHP', availability: 'https://schema.org/' + availability };
+  }
+  const crumbs = { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: SITE + '/' },
+    { '@type': 'ListItem', position: 2, name: 'K-pop concerts in the Philippines', item: SITE + '/concerts' },
+    { '@type': 'ListItem', position: 3, name: ev.name, item: url },
+  ] };
+  const safe = o => JSON.stringify(o).replace(/</g, '\\u003c');
+  return '\n<script type="application/ld+json">' + safe(ev) + '</script>\n<script type="application/ld+json">' + safe(crumbs) + '</script>';
+}
+
 export default async function handler(req, res) {
   const slug = String(req.query?.slug || '').replace(/^\/+|\/+$/g, '');
   const id = String(req.query?.id || '');
@@ -244,11 +288,17 @@ export default async function handler(req, res) {
     }));
   }
 
-  const title = (item.artist || 'Concert') + (item.tour ? ' — ' + item.tour : '') + ' | HallyuScope';
+  const canonical = SITE + '/concert/' + encodeURIComponent(item.id);
+  const year = String(item.date || '').slice(0, 4);
+  const place = METRO.test(item.city || '') || METRO.test(item.venue || '') ? 'Manila' : (item.city || 'Philippines');
+  const title = (item.artist || 'K-pop') + ' ' + place + ' ' + eventKind(item) + ' ' + year + ': Tickets, Prices & Seat Plan | HallyuScope';
+  const longDate = fmt(localDate(item.date), { month: 'long', day: 'numeric', year: 'numeric' });
+  const description = (item.artist || '') + (item.tour ? ' ' + item.tour : '') + ': ' + longDate + (item.venue ? ' at ' + item.venue : '') + (item.city ? ', ' + item.city : '') + '. ' + (item.ticketRange && !/see official/i.test(item.ticketRange) ? 'Ticket prices ' + item.ticketRange + ', ' : 'Ticket prices, ') + 'seat plan, official ticket link and what to know before you go.';
   return res.status(200).send(shell({
     title,
-    description: item.description || ((item.artist || '') + (item.tour ? ' — ' + item.tour : '') + ' in ' + (item.city || 'the Philippines') + ', ' + String(item.date || '').slice(0, 10) + ' at ' + (item.venue || '') + '. Ticket links, seat plan and prices on HallyuScope.'),
-    canonical: SITE + '/concert/' + encodeURIComponent(item.id),
+    description,
+    canonical,
+    jsonld: eventJsonLd(item, canonical),
     image: (item.poster && /^https?:\/\//.test(item.poster)) ? item.poster : DEFAULT_IMAGE,
     body: detailHtml(item, items),
   }));
