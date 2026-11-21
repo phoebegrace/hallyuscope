@@ -282,7 +282,16 @@
   const input = document.getElementById('newsletterEmail');
   const btn = document.getElementById('newsletterSubmit');
   const msg = document.getElementById('signupMessage');
-  const say = (text, state = '') => { msg.textContent = text; msg.className = 'meta' + (state ? ' ' + state : ''); };
+  const say = (text, state = '') => { msg.textContent = text; msg.className = 'meta' + (state ? ' ' + state : ''); form.classList.toggle('is-error', state === 'err'); };
+  input.addEventListener('input', () => { if (form.classList.contains('is-error')) say('Free · Once a week · Unsubscribe anytime'); });
+  const done = email => {
+    const box = document.createElement('div');
+    box.className = 'nl-done'; box.setAttribute('role', 'status'); box.tabIndex = -1;
+    box.innerHTML = '<span class="nl-done-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span><div><strong>You’re in! Welcome to The Weekly Scope.</strong><p></p></div>';
+    box.querySelector('p').textContent = 'We’ll send comebacks, PH concert news and ticket alerts to ' + email + '. Your first issue arrives on Friday.';
+    form.querySelector('.nl-row').hidden = true; msg.hidden = true;
+    form.appendChild(box); box.focus({ preventScroll: true });
+  };
   form.addEventListener('submit', async e => {
     e.preventDefault();
     const email = (input.value || '').trim();
@@ -293,8 +302,7 @@
       const res = await fetch('/api/subscribe', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ email, website }) });
       const data = await res.json().catch(() => ({}));
       if (!res.ok) throw new Error(data.error || 'Unable to subscribe right now.');
-      say(data.message || 'You’re on the list.', 'ok');
-      form.reset();
+      form.reset(); done(email);
     } catch (err) {
       say(err.message || 'Something went wrong. Please try again.', 'err');
     } finally { btn.disabled = false; btn.textContent = 'Join free'; }
