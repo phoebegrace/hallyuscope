@@ -76,7 +76,9 @@ export function parseYouTubeReleases(xml,artistNames,channelName){
   if(!title||!url||!published||/\/shorts\//.test(url)||!MV.test(title)||NOT_RELEASE.test(title.replace(MV,'')))continue;
   // Release day in Korea (most K-pop drops at 6 PM KST).
   const kst=new Date(new Date(published).getTime()+9*3600e3).toISOString().slice(0,10);
-  let artist=names.find(n=>new RegExp('(^|[^\\p{L}\\p{N}])'+n.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+'([^\\p{L}\\p{N}]|$)','iu').test(title));
+  // Drop "M/V" and "MV" first so the V in M/V is never read as the artist V.
+  const bare=title.replace(/M\s*\/\s*V|\bMV\b/gi,' ');
+  let artist=names.find(n=>new RegExp('(^|[^\\p{L}\\p{N}])'+n.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+'([^\\p{L}\\p{N}]|$)','iu').test(bare));
   const quoted=title.match(/[‘'"“«]([^’'"”»]{1,80})[’'"”»]/)?.[1];
   const oneK=title.match(/^\[MV\]\s*(.+?)\s+_\s+(.+)$/i); // 1theK style: [MV] Artist _ Title
   let song=quoted||oneK?.[2];
