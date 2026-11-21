@@ -1,8 +1,69 @@
 {
-  "updatedAt": "2026-11-21T04:02:06.549Z",
+  "updatedAt": "2026-11-21T11:14:59.186Z",
   "autoPublish": true,
   "note": "Auto-publish is ON. Newly generated HallyuScope articles publish immediately.",
   "items": [
+    {
+      "id": "aef7d3eedf7c",
+      "createdAt": "2026-11-21T11:14:58.027Z",
+      "status": "published",
+      "publishedAt": "2026-11-21T11:14:58.027Z",
+      "sourcePublishedAt": "2026-11-21T02:30:00.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "ju-ji-hoon-s-k-drama-roles-span-royal-romance-zombies-and-legal-rivalry",
+      "source": {
+        "publisher": "Soompi",
+        "title": "8 Ju Ji Hoon K-Dramas That Are Worth Watching",
+        "url": "https://www.soompi.com/article/1887795wpp/8-ju-ji-hoon-k-dramas-that-are-worth-watching"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1887795wpp/8-ju-ji-hoon-k-dramas-that-are-worth-watching",
+          "chars": 7013,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "takes a mistress and asks for a divorce"
+        ],
+        "missingKeyFacts": [
+          "The watchlist also includes Ju as chaebol heir Choi Min Woo, who meets a debt-ridden woman assuming the identity of a wealthy heiress."
+        ],
+        "checkedAt": "2026-11-21T11:14:58.026Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/aef7d3eedf7c.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/17112719/jirisan-remarried-empress.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "K-DRAMA NEWS",
+      "headline": "Ju Ji Hoon's K-Drama Roles Span Royal Romance, Zombies and Legal Rivalry",
+      "dek": "A Soompi watchlist highlights the actor's range, from a Joseon crown prince in Kingdom to a lawyer facing off against Kim Hye Soo in Hyena.",
+      "body": [
+        "Ju Ji Hoon has played royalty, a surgeon and a rookie ranger, but his characters' challenges are rarely straightforward. A new Soompi watchlist revisits his K-drama roles, offering fans several places to start depending on their preferred genre.",
+        "In Kingdom, Ju plays Joseon crown prince Lee Chang, whose search for answers about his father's illness leads him to physician Seo Bi, played by Bae Doona. Their paths cross as a zombie outbreak spreads across the country.",
+        "Hyena puts him in a very different kind of contest. His character, elite law firm attorney Yoon Hee Jae, falls for fellow lawyer Jung Geum Ja, played by Kim Hye Soo, unaware that their relationship is part of her plan. Despite their differences, a case eventually brings them together professionally.",
+        "For viewers who prefer palace romance, one of Ju's earliest leading roles casts him as Lee Shin, a royal who enters an arranged marriage with high school student Shin Chae Kyung, played by Yoon Eun Hye. His initially cold attitude begins to shift as he develops feelings for her.",
+        "His other roles include trauma surgeon Baek Kang Hyuk, who takes charge of a struggling university hospital team, and rookie ranger Kang Hyun Jo, who partners with Jun Ji Hyun's Seo Yi Kang. Ju also plays Emperor Sovieshu opposite Shin Min Ah's Empress Navier, whose marriage is shaken when he takes a mistress and asks for a divorce."
+      ],
+      "socialCaption": "From Kingdom to Hyena, Ju Ji Hoon has taken on some very different challenges. Read on HallyuScope for a guide to his K-drama roles.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#JuJiHoon",
+        "#KingdomKDrama",
+        "#HyenaKDrama",
+        "#KDrama"
+      ],
+      "seoDescription": "Explore Ju Ji Hoon's K-drama roles, from a zombie-fighting crown prince in Kingdom to a lawyer opposite Kim Hye Soo in Hyena, and more.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "3d18358522dc",
       "createdAt": "2026-11-21T03:38:27.000Z",
