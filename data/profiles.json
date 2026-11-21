@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T00:00:00.000Z",
+ "updatedAt": "2026-11-21T00:00:00.000Z",
  "items": [
   {
    "name": "2NE1",
@@ -24,7 +24,37 @@
     "labels": [
      "YG"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/2NE1"
+    "wikipedia": "https://en.wikipedia.org/wiki/2NE1",
+    "kprofiles": "https://kprofiles.com/2ne1-members-profile/",
+    "fandom": "BlackJacks",
+    "debutDate": "2009-05-17",
+    "memberProfiles": [
+     {
+      "name": "Bom",
+      "birthName": "Park Bom (박봄)",
+      "positions": "Main Vocalist",
+      "born": "1984-03-24"
+     },
+     {
+      "name": "Dara",
+      "birthName": "Park Sandara (박산다라)",
+      "positions": "Vocalist, Sub-Rapper, Visual",
+      "born": "1984-11-12"
+     },
+     {
+      "name": "CL",
+      "birthName": "Lee Chae-rin (이채린)",
+      "positions": "Leader, Main Rapper, Lead Dancer",
+      "born": "1991-02-26"
+     },
+     {
+      "name": "Minzy",
+      "birthName": "Gong Min-ji (공민지)",
+      "positions": "Main Dancer, Vocalist",
+      "born": "1994-01-18",
+      "nationality": "Korean"
+     }
+    ]
    }
   },
   {
@@ -53,7 +83,40 @@
      "Warner",
      "Capitol"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Aespa"
+    "wikipedia": "https://en.wikipedia.org/wiki/Aespa",
+    "kprofiles": "https://kprofiles.com/aespa-members-profile/",
+    "fandom": "MY (마이)",
+    "debutDate": "2020-11-17",
+    "memberProfiles": [
+     {
+      "name": "Karina",
+      "birthName": "Yu Ji-min (유지민)",
+      "positions": "Leader, Main Dancer, Lead Rapper",
+      "born": "2000-04-11",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Giselle",
+      "birthName": "Uchinaga Aeri (内永枝利",
+      "positions": "Main Rapper, Sub-Vocalist",
+      "born": "2000-10-30",
+      "nationality": "Japanese-Korean"
+     },
+     {
+      "name": "Winter",
+      "birthName": "Kim Min-jeong (김민정)",
+      "positions": "Main Vocalist, Lead Dancer, Visual",
+      "born": "2001-01-01",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Ningning",
+      "birthName": "Ning Yizhuo (宁艺卓)",
+      "positions": "Main Vocalist, Maknae",
+      "born": "2002-10-23",
+      "nationality": "Chinese"
+     }
+    ]
    }
   },
   {
@@ -84,7 +147,61 @@
      "YG",
      "Sony Music Japan"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Babymonster"
+    "wikipedia": "https://en.wikipedia.org/wiki/Babymonster",
+    "kprofiles": "https://kprofiles.com/babymonster-members-profile/",
+    "fandom": "MONSTIEZ (몬스티즈)",
+    "debutDate": "2023-11-27",
+    "memberProfiles": [
+     {
+      "name": "Ruka",
+      "birthName": "Kawai Ruka (河井瑠花)",
+      "positions": "Main Dancer, Main Rapper",
+      "born": "2002-03-20",
+      "nationality": "Japanese"
+     },
+     {
+      "name": "Pharita",
+      "birthName": "Pharita Boonpakdeethaveeyod (ภริตา บุญภักดีทวียศ)",
+      "positions": "Vocalist",
+      "born": "2005-08-26",
+      "nationality": "Thai"
+     },
+     {
+      "name": "Asa",
+      "birthName": "Enami Asa (榎並杏紗)",
+      "positions": "Main Rapper, Vocalist, Dancer",
+      "born": "2006-04-17",
+      "nationality": "Japanese"
+     },
+     {
+      "name": "Ahyeon",
+      "birthName": "Jung Ahyeon (정아현)",
+      "positions": "Main Vocalist, Rapper, Dancer",
+      "born": "2007-04-11",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Rami",
+      "birthName": "Shin Haram (신하람)",
+      "positions": "Main Vocalist",
+      "born": "2007-10-17",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Rora",
+      "birthName": "Lee Dain (이다인)",
+      "positions": "Lead Vocalist, Visual",
+      "born": "2008-08-14",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Chiquita",
+      "birthName": "Riracha Phondechaphiphat (ริราชา พรเดชาพิพัฒน์)",
+      "positions": "Vocalist, Dancer, Rapper",
+      "born": "2009-02-17",
+      "nationality": "Thai"
+     }
+    ]
    }
   },
   {
@@ -113,7 +230,40 @@
      "YGEX",
      "Interscope"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Blackpink"
+    "wikipedia": "https://en.wikipedia.org/wiki/Blackpink",
+    "kprofiles": "https://kprofiles.com/black-pink-members-profile/",
+    "fandom": "BLINK",
+    "debutDate": "2016-08-08",
+    "memberProfiles": [
+     {
+      "name": "Jisoo",
+      "birthName": "Kim Ji-soo (김지수)",
+      "positions": "Lead Vocalist, Visual",
+      "born": "1995-01-03",
+      "nationality": "South Korean"
+     },
+     {
+      "name": "Jennie",
+      "birthName": "Kim Jennie (김제니)",
+      "positions": "Main Rapper, Lead Vocalist",
+      "born": "1996-01-16",
+      "nationality": "South Korean"
+     },
+     {
+      "name": "Rosé",
+      "birthName": "Roseanne Park",
+      "positions": "Main Vocalist, Lead Dancer",
+      "born": "1997-02-11",
+      "nationality": "South Korean and New Zealander"
+     },
+     {
+      "name": "Lisa",
+      "birthName": "Pranpriya Manobal (ปราณปรียา มโนบาล), legalized to Lalisa Manobal (ลลิสา มโนบาล)",
+      "positions": "Main Dancer, Lead Rapper, Sub-Vocalist",
+      "born": "1997-03-27",
+      "nationality": "Thai"
+     }
+    ]
    }
   },
   {
@@ -144,7 +294,61 @@
      "Dreamcatcher Company",
      "Pony Canyon"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Dreamcatcher_(group)"
+    "wikipedia": "https://en.wikipedia.org/wiki/Dreamcatcher_(group)",
+    "kprofiles": "https://kprofiles.com/dreamcatcher-members-profile/",
+    "fandom": "InSomnia",
+    "debutDate": "2017-01-13",
+    "memberProfiles": [
+     {
+      "name": "JiU",
+      "birthName": "Kim Min Ji (김민지)",
+      "positions": "Leader, Lead Vocalist, Lead Dancer",
+      "born": "1994-05-17",
+      "nationality": "Korean"
+     },
+     {
+      "name": "SuA",
+      "birthName": "Kim Bo Ra (김보라)",
+      "positions": "Main Dancer, Lead Rapper, Sub-Vocalist",
+      "born": "1994-08-10",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Siyeon",
+      "birthName": "Lee Si Yeon (이시연)",
+      "positions": "Main Vocalist",
+      "born": "1995-10-01",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Handong",
+      "birthName": "Han Dong (韓東)",
+      "positions": "Sub-Vocalist",
+      "born": "1996-03-26",
+      "nationality": "Chinese"
+     },
+     {
+      "name": "Yoohyeon",
+      "birthName": "Kim Yoo Hyeon (김유현)",
+      "positions": "Lead Vocalist",
+      "born": "1997-01-07",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Dami",
+      "birthName": "Lee Yu Bin (이유빈)",
+      "positions": "Main Rapper, Lead Dancer, Sub-Vocalist",
+      "born": "1997-03-07",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Gahyun",
+      "birthName": "Lee Ga Hyun (이가현)",
+      "positions": "Lead Rapper, Sub-Vocalist, Maknae",
+      "born": "1999-02-03",
+      "nationality": "Korean"
+     }
+    ]
    }
   },
   {
@@ -174,7 +378,48 @@
      "Source Music",
      "King"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/GFriend"
+    "wikipedia": "https://en.wikipedia.org/wiki/GFriend",
+    "kprofiles": "https://kprofiles.com/gfriend-profile-and-facts/",
+    "fandom": "BUDDY (버디)",
+    "debutDate": "2015-01-16",
+    "memberProfiles": [
+     {
+      "name": "Sowon",
+      "birthName": "Kim So-jeong (김소정)",
+      "positions": "Leader, Vocalist, Visual",
+      "born": "1995-12-07"
+     },
+     {
+      "name": "Yerin",
+      "birthName": "Jung Ye-rin (정예린)",
+      "positions": "Lead Dancer, Vocalist, Center",
+      "born": "1996-08-19"
+     },
+     {
+      "name": "Eunha",
+      "birthName": "Jung Eun-bi (정은비)",
+      "positions": "Lead Vocalist",
+      "born": "1997-05-30"
+     },
+     {
+      "name": "Yuju",
+      "birthName": "Choi Yu-na (최유나)",
+      "positions": "Main Vocalist",
+      "born": "1997-10-04"
+     },
+     {
+      "name": "SinB",
+      "birthName": "Hwang Eun-bi (황은비)",
+      "positions": "Main Dancer, Vocalist, Center",
+      "born": "1998-06-03"
+     },
+     {
+      "name": "Umji",
+      "birthName": "Kim Ye-won (김예원)",
+      "positions": "Vocalist, Maknae",
+      "born": "1998-08-19"
+     }
+    ]
    }
   },
   {
@@ -207,7 +452,68 @@
      "EMI Japan",
      "Interscope"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Girls'_Generation"
+    "wikipedia": "https://en.wikipedia.org/wiki/Girls'_Generation",
+    "kprofiles": "https://kprofiles.com/girls-generation-snsd-members-profile/",
+    "fandom": "S♥NE (So-One)",
+    "debutDate": "2007-08-05",
+    "memberProfiles": [
+     {
+      "name": "Taeyeon",
+      "birthName": "Kim Tae-yeon (김태연)",
+      "positions": "Leader, Main Vocalist",
+      "born": "1989-03-09",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Sunny",
+      "birthName": "Lee Soon-kyu (이순규)",
+      "positions": "Lead Vocalist, Sub-Rapper",
+      "born": "1989-05-15",
+      "nationality": "Korean-American"
+     },
+     {
+      "name": "Tiffany",
+      "birthName": "Stephanie Young Hwang (스테파니 황)",
+      "positions": "Lead Vocalist, Sub-Rapper",
+      "born": "1989-08-01",
+      "nationality": "Korean-American"
+     },
+     {
+      "name": "Hyoyeon",
+      "birthName": "Kim Hyo-yeon (김효연)",
+      "positions": "Main Dancer, Main Rapper, Sub-Vocalist",
+      "born": "1989-09-22",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Yuri",
+      "birthName": "Kwon Yu-ri (권유리)",
+      "positions": "Main Dancer, Lead Rapper, Sub-Vocalist",
+      "born": "1989-12-05",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Sooyoung",
+      "birthName": "Choi Soo-young (최수영)",
+      "positions": "Lead Dancer, Lead Rapper, Sub-Vocalist",
+      "born": "1990-02-10",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Yoona",
+      "birthName": "Lim Yoon-a (임윤아)",
+      "positions": "Lead Dancer, Lead Rapper, Sub-Vocalist",
+      "born": "1990-05-30",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Seohyun",
+      "birthName": "Seo Joo-hyun (서주현)",
+      "positions": "Lead Vocalist, Maknae",
+      "born": "1991-06-28",
+      "nationality": "Korean"
+     }
+    ]
    }
   },
   {
@@ -237,7 +543,47 @@
      "U-Cube",
      "Republic"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/I-dle"
+    "wikipedia": "https://en.wikipedia.org/wiki/I-dle",
+    "kprofiles": "https://kprofiles.com/idle-members-profile/",
+    "fandom": "NEVERLAND",
+    "debutDate": "2018-05-02",
+    "memberProfiles": [
+     {
+      "name": "Miyeon",
+      "birthName": "Cho Mi-yeon (조미연)",
+      "positions": "Main Vocalist",
+      "born": "1997-01-31",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Minnie",
+      "birthName": "Nicha Yontararak (ณิชา ยนตรรักษ์)",
+      "positions": "Main Vocalist",
+      "born": "1997-10-23",
+      "nationality": "Thai"
+     },
+     {
+      "name": "Soyeon",
+      "birthName": "Jeon So-yeon (전소연)",
+      "positions": "Leader, Main Rapper, Sub-Vocalist",
+      "born": "1998-08-26",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Yuqi",
+      "birthName": "Song Yuqi (宋雨琦",
+      "positions": "Main Dancer, Sub-Vocalist, Sub-Rapper",
+      "born": "1999-09-23",
+      "nationality": "Chinese"
+     },
+     {
+      "name": "Shuhua",
+      "birthName": "Yeh Shuhua (葉舒華",
+      "positions": "Sub-Vocalist, Visual, Maknae",
+      "born": "2000-01-06",
+      "nationality": "Taiwanese"
+     }
+    ]
    }
   },
   {
@@ -266,7 +612,47 @@
      "Belift Lab",
      "Polydor/Universal"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Illit"
+    "wikipedia": "https://en.wikipedia.org/wiki/Illit",
+    "kprofiles": "https://kprofiles.com/illit-members-profile/",
+    "fandom": "GLLIT",
+    "debutDate": "2024-03-25",
+    "memberProfiles": [
+     {
+      "name": "Yunah",
+      "birthName": "Roh Yun-ah (노윤아)",
+      "positions": "N/A",
+      "born": "2004-01-15",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Minju",
+      "birthName": "Park Min-ju (박민주)",
+      "positions": "N/A",
+      "born": "2004-05-11",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Moka",
+      "birthName": "Sakai Moka (さかい もか",
+      "positions": "N/A",
+      "born": "2004-10-08",
+      "nationality": "Japanese"
+     },
+     {
+      "name": "Wonhee",
+      "birthName": "Lee Won-hee (이원희)",
+      "positions": "N/A",
+      "born": "2007-06-26",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Iroha",
+      "birthName": "Hokazono Iroha (外園彩羽",
+      "positions": "Maknae",
+      "born": "2008-02-04",
+      "nationality": "Japanese"
+     }
+    ]
    }
   },
   {
@@ -296,7 +682,47 @@
      "Warner Japan",
      "Republic"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Itzy"
+    "wikipedia": "https://en.wikipedia.org/wiki/Itzy",
+    "kprofiles": "https://kprofiles.com/itzy-members-profile/",
+    "fandom": "MIDZY (믿지)",
+    "debutDate": "2019-02-11",
+    "memberProfiles": [
+     {
+      "name": "Yeji",
+      "birthName": "Hwang Ye-ji (황예지)",
+      "positions": "Leader, Main Dancer, Lead Vocalist",
+      "born": "2000-05-26",
+      "nationality": "South Korean"
+     },
+     {
+      "name": "Lia",
+      "birthName": "Choi Ji-su (최지수)",
+      "positions": "Main Vocalist, Sub-Rapper",
+      "born": "2000-07-21",
+      "nationality": "South Korean"
+     },
+     {
+      "name": "Ryujin",
+      "birthName": "Shin Ryu-jin (신류진)",
+      "positions": "Main Rapper, Lead Dancer, Sub-Vocalist",
+      "born": "2001-04-17",
+      "nationality": "South Korean"
+     },
+     {
+      "name": "Chaeryeong",
+      "birthName": "Lee Chae-ryeong (이채령)",
+      "positions": "Main Dancer, Sub-Vocalist, Sub-Rapper",
+      "born": "2001-06-05",
+      "nationality": "South Korean"
+     },
+     {
+      "name": "Yuna",
+      "birthName": "Shin Yu-na (신유나)",
+      "positions": "Lead Rapper, Lead Dancer, Sub-Vocalist",
+      "born": "2003-12-09",
+      "nationality": "South Korean"
+     }
+    ]
    }
   },
   {
@@ -326,7 +752,54 @@
      "Starship",
      "Columbia"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Ive_(group)"
+    "wikipedia": "https://en.wikipedia.org/wiki/Ive_(group)",
+    "kprofiles": "https://kprofiles.com/ive-members-profile/",
+    "fandom": "DIVE",
+    "debutDate": "2021-12-01",
+    "memberProfiles": [
+     {
+      "name": "Gaeul",
+      "birthName": "Kim Ga-eul (김가을)",
+      "positions": "Main Dancer, Lead Rapper, Sub-Vocalist",
+      "born": "2002-09-24",
+      "nationality": "Korean"
+     },
+     {
+      "name": "An Yu-jin",
+      "birthName": "An Yu-jin (안유진)",
+      "positions": "Leader, Main Vocalist, Main Dancer",
+      "born": "2003-09-01",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Rei",
+      "birthName": "Naoi Rei (直井れい",
+      "positions": "Main Rapper, Sub-Vocalist",
+      "born": "2004-02-03",
+      "nationality": "Japanese"
+     },
+     {
+      "name": "Jang Won-young",
+      "birthName": "Jang Won-young (장원영)",
+      "positions": "Vocalist, Dancer, Visual",
+      "born": "2004-08-31",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Liz",
+      "birthName": "Kim Ji-won (김지원)",
+      "positions": "Main Vocalist",
+      "born": "2004-11-21",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Leeseo",
+      "birthName": "Lee Hyun-seo (이현서)",
+      "positions": "Lead Dancer, Sub-Vocalist, Visual",
+      "born": "2007-02-21",
+      "nationality": "Korean"
+     }
+    ]
    }
   },
   {
@@ -345,11 +818,11 @@
     "koreanName": "케플러",
     "debutYear": 2022,
     "members": [
-     "Choi Yu-jin",
-     "Shen Xiaoting",
-     "Kim Chae-hyun",
-     "Kim Da-yeon",
-     "Ezaki Hikaru",
+     "Yujin",
+     "Xiaoting",
+     "Chaehyun",
+     "Dayeon",
+     "Hikaru",
      "Huening Bahiyyih"
     ],
     "labels": [
@@ -357,7 +830,54 @@
      "Klap",
      "Ariola Japan"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Kep1er"
+    "wikipedia": "https://en.wikipedia.org/wiki/Kep1er",
+    "kprofiles": "https://kprofiles.com/kep1er-members-profile/",
+    "fandom": "Kep1ian (케플리안)",
+    "debutDate": "2022-01-03",
+    "memberProfiles": [
+     {
+      "name": "Yujin",
+      "birthName": "Choi Yu-jin (최유진)",
+      "positions": "Leader, Vocalist",
+      "born": "1996-08-12",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Xiaoting",
+      "birthName": "Shen Xiao Ting (沈小婷)",
+      "positions": "Main Dancer, Vocalist, Visual",
+      "born": "1999-11-12",
+      "nationality": "Chinese"
+     },
+     {
+      "name": "Chaehyun",
+      "birthName": "Kim Chae-hyun (김채현)",
+      "positions": "Main Vocalist, Center",
+      "born": "2002-04-26",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Dayeon",
+      "birthName": "Kim Da-yeon (김다연)",
+      "positions": "Main Dancer, Main Rapper, Vocalist",
+      "born": "2003-03-02",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Hikaru",
+      "birthName": "Ezaki Hikaru (江崎 ひかる)",
+      "positions": "Main Dancer, Main Rapper, Vocalist",
+      "born": "2004-03-12",
+      "nationality": "Japanese"
+     },
+     {
+      "name": "Huening Bahiyyih",
+      "birthName": "Bahiyyih Jaleh Huening (바히에 자레 휴닝)",
+      "positions": "Vocalist, Maknae",
+      "born": "2004-07-27",
+      "nationality": "Korean-American"
+     }
+    ]
    }
   },
   {
@@ -385,7 +905,40 @@
      "S2",
      "Nippon Columbia"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Kiss_of_Life_(group)"
+    "wikipedia": "https://en.wikipedia.org/wiki/Kiss_of_Life_(group)",
+    "kprofiles": "https://kprofiles.com/kiss-of-life-members-profile/",
+    "fandom": "KISSY",
+    "debutDate": "2023-07-05",
+    "memberProfiles": [
+     {
+      "name": "Julie",
+      "birthName": "Julie Han",
+      "positions": "Leader, Main Rapper, Lead Dancer",
+      "born": "2000-03-29",
+      "nationality": "American"
+     },
+     {
+      "name": "Natty",
+      "birthName": "Anatchaya Suputtipong (อาณัชญา สุพุทธิพงศ์)",
+      "positions": "Main Dancer, Lead Rapper, Sub-Vocalist",
+      "born": "2002-05-30",
+      "nationality": "Thai"
+     },
+     {
+      "name": "Belle",
+      "birthName": "Anabelle Shim",
+      "positions": "Main Vocalist",
+      "born": "2004-03-20",
+      "nationality": "Korean-American"
+     },
+     {
+      "name": "Haneul",
+      "birthName": "Won Ha-neul (원하늘)",
+      "positions": "Lead Vocalist, Maknae",
+      "born": "2005-05-25",
+      "nationality": "Korean"
+     }
+    ]
    }
   },
   {
@@ -415,7 +968,47 @@
      "EMI/Universal Japan",
      "Geffen"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Le_Sserafim"
+    "wikipedia": "https://en.wikipedia.org/wiki/Le_Sserafim",
+    "kprofiles": "https://kprofiles.com/le-sserafim-members-profile/",
+    "fandom": "FEARNOT (피어나)",
+    "debutDate": "2022-05-02",
+    "memberProfiles": [
+     {
+      "name": "Sakura",
+      "birthName": "Miyawaki Sakura (宮脇 咲良)",
+      "positions": "Vocalist, Rapper, Dancer",
+      "born": "1998-03-19",
+      "nationality": "Japanese"
+     },
+     {
+      "name": "Kim Chaewon",
+      "birthName": "Kim Chae-won (김채원)",
+      "positions": "Leader, Vocalist, Dancer",
+      "born": "2000-08-01",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Huh Yunjin",
+      "birthName": "Huh Yun-jin (허윤진)",
+      "positions": "Vocalist, Rapper",
+      "born": "2001-10-08",
+      "nationality": "Korean-American"
+     },
+     {
+      "name": "Kazuha",
+      "birthName": "Nakamura Kazuha (中村 一葉)",
+      "positions": "Sub-Vocalist, Rapper, Dancer",
+      "born": "2003-08-09",
+      "nationality": "Japanese"
+     },
+     {
+      "name": "Hong Eunchae",
+      "birthName": "Hong Eun-chae (홍은채)",
+      "positions": "Vocalist, Lead Dancer, Maknae",
+      "born": "2006-11-10",
+      "nationality": "Korean"
+     }
+    ]
    }
   },
   {
@@ -443,7 +1036,40 @@
      "RBW",
      "Victor"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Mamamoo"
+    "wikipedia": "https://en.wikipedia.org/wiki/Mamamoo",
+    "kprofiles": "https://kprofiles.com/mamamoo-members-profile/",
+    "fandom": "MOOMOO (무무)",
+    "debutDate": "2014-06-18",
+    "memberProfiles": [
+     {
+      "name": "Solar",
+      "birthName": "Kim Yong-sun (김용선)",
+      "positions": "Leader, Vocalist",
+      "born": "1991-02-21",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Moonbyul",
+      "birthName": "Moon Byul-yi (문별이)",
+      "positions": "Rapper, Performer",
+      "born": "1992-12-22",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Wheein",
+      "birthName": "Jung Whee-in (정휘인)",
+      "positions": "Vocalist, Performer",
+      "born": "1995-04-17",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Hwasa",
+      "birthName": "Ahn Hye-jin (안혜진)",
+      "positions": "Vocalist, Rapper, Maknae",
+      "born": "1995-07-23",
+      "nationality": "Korean"
+     }
+    ]
    }
   },
   {
@@ -471,7 +1097,39 @@
      "ADOR",
      "Geffen"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/NewJeans"
+    "wikipedia": "https://en.wikipedia.org/wiki/NewJeans",
+    "kprofiles": "https://kprofiles.com/newjeans-members-profile/",
+    "fandom": "Bunnies (Tokki/토끼)",
+    "memberProfiles": [
+     {
+      "name": "Minji",
+      "birthName": "Kim Minji (김민지)",
+      "positions": "Rapper",
+      "born": "2004-05-07",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Hanni",
+      "birthName": "Hanni Pham",
+      "positions": "Vocalist",
+      "born": "2004-10-06",
+      "nationality": "Vietnamese-Australian"
+     },
+     {
+      "name": "Haerin",
+      "birthName": "Kang Haerin (강해린)",
+      "positions": "N/A",
+      "born": "2006-05-15",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Hyein",
+      "birthName": "Lee Hyein (이혜인)",
+      "positions": "Maknae",
+      "born": "2008-04-21",
+      "nationality": "Korean"
+     }
+    ]
    }
   },
   {
@@ -501,7 +1159,54 @@
      "JYP",
      "Republic"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Nmixx"
+    "wikipedia": "https://en.wikipedia.org/wiki/Nmixx",
+    "kprofiles": "https://kprofiles.com/nmixx-profile/",
+    "fandom": "NSWER (엔써)",
+    "debutDate": "2022-02-22",
+    "memberProfiles": [
+     {
+      "name": "Lily",
+      "birthName": "Lily Jin Morrow",
+      "positions": "Main Vocalist",
+      "born": "2002-10-17",
+      "nationality": "Korean-Australian"
+     },
+     {
+      "name": "Haewon",
+      "birthName": "Oh Hae-won (오해원)",
+      "positions": "Leader, Main Vocalist",
+      "born": "2003-02-25",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Sullyoon",
+      "birthName": "Seol Yoon A (설윤아)",
+      "positions": "Lead Vocalist, Dancer",
+      "born": "2004-01-26",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Bae",
+      "birthName": "Bae Jin-sol (배진솔)",
+      "positions": "Lead Vocalist, Dancer",
+      "born": "2004-12-28",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Jiwoo",
+      "birthName": "Kim Ji-woo (김지우)",
+      "positions": "Main Rapper, Vocalist, Dancer",
+      "born": "2005-04-13",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Kyujin",
+      "birthName": "Jang Kyu-jin (장규진)",
+      "positions": "Dance Leader, Main Dancer, Rapper",
+      "born": "2006-05-26",
+      "nationality": "Korean"
+     }
+    ]
    }
   },
   {
@@ -530,7 +1235,47 @@
      "SM",
      "Avex Trax"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Red_Velvet_(group)"
+    "wikipedia": "https://en.wikipedia.org/wiki/Red_Velvet_(group)",
+    "kprofiles": "https://kprofiles.com/red-velvet-members-profile/",
+    "fandom": "ReVeluv",
+    "debutDate": "2014-08-01",
+    "memberProfiles": [
+     {
+      "name": "Irene",
+      "birthName": "Bae Ju-hyun (배주현)",
+      "positions": "Leader, Main Rapper, Lead Dancer",
+      "born": "1991-03-29",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Seulgi",
+      "birthName": "Kang Seul-gi (강슬기)",
+      "positions": "Main Dancer, Lead Vocalist",
+      "born": "1994-02-10",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Wendy",
+      "birthName": "Son Seung-wan (손승완)",
+      "positions": "Main Vocalist",
+      "born": "1994-02-21",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Joy",
+      "birthName": "Park Soo-young (박수영)",
+      "positions": "Lead Rapper, Sub-Vocalist",
+      "born": "1996-09-03",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Yeri",
+      "birthName": "Kim Ye-rim (김예림)",
+      "positions": "Sub-Vocalist, Sub-Rapper, Maknae",
+      "born": "1999-03-05",
+      "nationality": "Korean"
+     }
+    ]
    }
   },
   {
@@ -560,7 +1305,54 @@
      "High Up",
      "Mercury Tokyo"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/STAYC"
+    "wikipedia": "https://en.wikipedia.org/wiki/STAYC",
+    "kprofiles": "https://kprofiles.com/stayc-members-profile/",
+    "fandom": "SWITH (스욋)",
+    "debutDate": "2020-11-12",
+    "memberProfiles": [
+     {
+      "name": "Sumin",
+      "birthName": "Bae Su Min (배수민)",
+      "positions": "Vocalist",
+      "born": "2001-03-13",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Sieun",
+      "birthName": "Park Si Eun (박시은)",
+      "positions": "Main Vocalist",
+      "born": "2001-08-01",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Isa",
+      "birthName": "Lee Chae Young (이채영)",
+      "positions": "Lead Vocalist",
+      "born": "2002-01-23",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Seeun",
+      "birthName": "Yoon Se Eun (윤세은)",
+      "positions": "Vocalist",
+      "born": "2003-06-14",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Yoon",
+      "birthName": "Yoon Se Eun (윤세은)",
+      "positions": "Vocalist",
+      "born": "2003-06-14",
+      "nationality": "Korean"
+     },
+     {
+      "name": "J",
+      "birthName": "Jang Ye Eun (장예은)",
+      "positions": "Vocalist, Maknae",
+      "born": "2004-12-09",
+      "nationality": "Korean"
+     }
+    ]
    }
   },
   {
@@ -594,7 +1386,75 @@
      "Warner Japan",
      "Republic"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Twice"
+    "wikipedia": "https://en.wikipedia.org/wiki/Twice",
+    "kprofiles": "https://kprofiles.com/twice-members-profile/",
+    "fandom": "ONCE (원스)",
+    "debutDate": "2015-10-20",
+    "memberProfiles": [
+     {
+      "name": "Nayeon",
+      "birthName": "Im Na-yeon (임나연)",
+      "positions": "Lead Vocalist, Lead Dancer, Center",
+      "born": "1995-09-22",
+      "nationality": "South Korean"
+     },
+     {
+      "name": "Jeongyeon",
+      "birthName": "Yoo Kyung-wan (유경완), legalized to Yoo Jeong-yeon (유정연)",
+      "positions": "Lead Vocalist",
+      "born": "1996-11-01",
+      "nationality": "South Korean"
+     },
+     {
+      "name": "Momo",
+      "birthName": "Hirai Momo (平井 もも)",
+      "positions": "Main Dancer, Sub-Vocalist, Sub-Rapper",
+      "born": "1996-11-09",
+      "nationality": "Japanese"
+     },
+     {
+      "name": "Sana",
+      "birthName": "Minatozaki Sana (湊崎 紗夏)",
+      "positions": "Sub-Vocalist",
+      "born": "1996-12-29",
+      "nationality": "Japanese"
+     },
+     {
+      "name": "Jihyo",
+      "birthName": "Park Ji-soo (박지수), legalized to Park Ji-hyo (박지효)",
+      "positions": "Leader, Main Vocalist",
+      "born": "1997-02-01",
+      "nationality": "South Korean"
+     },
+     {
+      "name": "Mina",
+      "birthName": "Minatozaki Sana (湊崎 紗夏)",
+      "positions": "Sub-Vocalist",
+      "born": "1996-12-29",
+      "nationality": "Japanese"
+     },
+     {
+      "name": "Dahyun",
+      "birthName": "Kim Da-hyun (김다현)",
+      "positions": "Lead Rapper, Sub-Vocalist",
+      "born": "1998-05-28",
+      "nationality": "South Korean"
+     },
+     {
+      "name": "Chaeyoung",
+      "birthName": "Son Chae-young (손채영)",
+      "positions": "Main Rapper, Sub-Vocalist",
+      "born": "1999-04-23",
+      "nationality": "South Korean"
+     },
+     {
+      "name": "Tzuyu",
+      "birthName": "Chou Tzuyu (周子瑜)",
+      "positions": "Lead Dancer, Sub-Vocalist, Visual",
+      "born": "1999-06-14",
+      "nationality": "Taiwanese"
+     }
+    ]
    }
   },
   {
@@ -627,7 +1487,68 @@
      "Legacy",
      "RCA"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Ateez"
+    "wikipedia": "https://en.wikipedia.org/wiki/Ateez",
+    "kprofiles": "https://kprofiles.com/ateez-members-profile/",
+    "fandom": "ATINY",
+    "debutDate": "2018-10-24",
+    "memberProfiles": [
+     {
+      "name": "Hongjoong",
+      "birthName": "Kim Hong-joong (김홍중)",
+      "positions": "Captain, Main Rapper, Vocalist",
+      "born": "1998-11-07",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Seonghwa",
+      "birthName": "Park Seong-hwa (박성화)",
+      "positions": "Vocalist, Rapper, Performer",
+      "born": "1998-04-03",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Yunho",
+      "birthName": "Jeong Yun-ho (정윤호)",
+      "positions": "Main Dancer, Vocalist",
+      "born": "1999-03-23",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Yeosang",
+      "birthName": "Kang Yeo-sang (강여상)",
+      "positions": "Vocalist, Performer, Rapper",
+      "born": "1999-06-15",
+      "nationality": "Korean"
+     },
+     {
+      "name": "San",
+      "birthName": "Kang Yeo-sang (강여상)",
+      "positions": "Vocalist, Performer, Rapper",
+      "born": "1999-06-15",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Mingi",
+      "birthName": "Song Min-gi (송민기)",
+      "positions": "Main Dancer, Main Rapper, Vocalist",
+      "born": "1999-08-09",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Wooyoung",
+      "birthName": "Jung Woo-young (정우영)",
+      "positions": "Main Dancer, Vocalist",
+      "born": "1999-11-26",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Jongho",
+      "birthName": "Choi Jong-ho (최종호)",
+      "positions": "Main Vocalist, Maknae",
+      "born": "2000-10-12",
+      "nationality": "Korean"
+     }
+    ]
    }
   },
   {
@@ -655,7 +1576,33 @@
      "Universal J",
      "YGEX"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/BigBang_(South_Korean_band)"
+    "wikipedia": "https://en.wikipedia.org/wiki/BigBang_(South_Korean_band)",
+    "kprofiles": "https://kprofiles.com/big-bang-members-profile/",
+    "fandom": "VIP",
+    "debutDate": "2006-08-19",
+    "memberProfiles": [
+     {
+      "name": "Taeyang",
+      "birthName": "Dong Young-bae (동영배)",
+      "positions": "Main Vocalist, Main Dancer",
+      "born": "1988-05-18",
+      "nationality": "Korean"
+     },
+     {
+      "name": "G-Dragon",
+      "birthName": "Kwon Ji-yong (권지용)",
+      "positions": "Leader, Main Rapper, Vocalist",
+      "born": "1988-08-18",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Daesung",
+      "birthName": "Kang Dae-sung (강대성)",
+      "positions": "Lead Vocalist, Maknae",
+      "born": "1989-04-26",
+      "nationality": "Korean"
+     }
+    ]
    }
   },
   {
@@ -685,7 +1632,54 @@
      "KOZ",
      "Universal Japan"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/BoyNextDoor"
+    "wikipedia": "https://en.wikipedia.org/wiki/BoyNextDoor",
+    "kprofiles": "https://kprofiles.com/boynextdoor-members-profile/",
+    "fandom": "ONEDOOR (원도어)",
+    "debutDate": "2023-05-30",
+    "memberProfiles": [
+     {
+      "name": "Sungho",
+      "birthName": "Park Sung-ho (박성호)",
+      "positions": "Main Vocalist",
+      "born": "2003-09-04",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Riwoo",
+      "birthName": "Lee Sang-hyuk (이상혁)",
+      "positions": "Main Dancer",
+      "born": "2003-10-22",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Myung Jaehyun",
+      "birthName": "Myung Jae-hyun (명재현)",
+      "positions": "Leader",
+      "born": "2003-12-04",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Taesan",
+      "birthName": "Han Dong-min (한동민)",
+      "positions": "N/A",
+      "born": "2004-08-10",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Leehan",
+      "birthName": "Kim Dong-hyun (김동현)",
+      "positions": "N/A",
+      "born": "2004-10-20",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Woonhak",
+      "birthName": "Kim Woon-hak (김운학)",
+      "positions": "Maknae",
+      "born": "2006-11-29",
+      "nationality": "Korean"
+     }
+    ]
    }
   },
   {
@@ -717,7 +1711,60 @@
      "Pony Canyon",
      "Universal Music Japan"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/BTS"
+    "wikipedia": "https://en.wikipedia.org/wiki/BTS",
+    "kprofiles": "https://kprofiles.com/bts-bangtan-boys-members-profile/",
+    "fandom": "ARMY",
+    "debutDate": "2013-06-13",
+    "memberProfiles": [
+     {
+      "name": "Jin",
+      "birthName": "Kim Seok-jin (김석진)",
+      "positions": "Sub-Vocalist, Visual",
+      "born": "1992-12-04"
+     },
+     {
+      "name": "Suga",
+      "birthName": "Min Yoon-gi (민윤기)",
+      "positions": "Lead Rapper",
+      "born": "1993-03-09",
+      "nationality": "Korean"
+     },
+     {
+      "name": "J-Hope",
+      "birthName": "Jung Ho-seok (정호석)",
+      "positions": "Main Dancer, Sub-Rapper, Sub-Vocalist",
+      "born": "1994-02-18",
+      "nationality": "Korean"
+     },
+     {
+      "name": "RM",
+      "birthName": "Kim Nam-joon (김남준)",
+      "positions": "Leader, Main Rapper",
+      "born": "1994-09-12",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Jimin",
+      "birthName": "Park Ji-min (박지민)",
+      "positions": "Main Dancer, Lead Vocalist",
+      "born": "1995-10-13",
+      "nationality": "Korean"
+     },
+     {
+      "name": "V",
+      "birthName": "Kim Tae-hyung (김태형)",
+      "positions": "Sub-Vocalist, Visual",
+      "born": "1995-12-30",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Jung Kook",
+      "birthName": "Jeon Jeongguk (전정국)",
+      "positions": "Main Vocalist, Lead Dancer, Sub-Rapper",
+      "born": "1997-09-01",
+      "nationality": "Korean"
+     }
+    ]
    }
   },
   {
@@ -747,7 +1794,54 @@
      "Belift Lab",
      "Virgin/Universal Music Japan"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Enhypen"
+    "wikipedia": "https://en.wikipedia.org/wiki/Enhypen",
+    "kprofiles": "https://kprofiles.com/enhypen-members-profile/",
+    "fandom": "ENGENE (엔진)",
+    "debutDate": "2020-11-30",
+    "memberProfiles": [
+     {
+      "name": "Jay",
+      "birthName": "Jay Park",
+      "positions": "N/A",
+      "born": "2002-04-20",
+      "nationality": "Korean-American"
+     },
+     {
+      "name": "Jake",
+      "birthName": "Jake Sim (제이크 심)",
+      "positions": "N/A",
+      "born": "2002-11-15",
+      "nationality": "Korean-Australian"
+     },
+     {
+      "name": "Sunghoon",
+      "birthName": "Park Sung-hoon (박성훈)",
+      "positions": "Visual",
+      "born": "2002-12-08",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Sunoo",
+      "birthName": "Kim Seon-woo (김선우)",
+      "positions": "N/A",
+      "born": "2003-06-24",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Jungwon",
+      "birthName": "Yang Jung-won (양정원)",
+      "positions": "Leader",
+      "born": "2004-02-09",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Ni-Ki",
+      "birthName": "Nishimura Riki (西村 力)",
+      "positions": "Main Dancer, Maknae",
+      "born": "2005-12-09",
+      "nationality": "Japanese"
+     }
+    ]
    }
   },
   {
@@ -780,7 +1874,74 @@
      "SM",
      "Avex"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Exo"
+    "wikipedia": "https://en.wikipedia.org/wiki/Exo",
+    "kprofiles": "https://kprofiles.com/exo-members-profile/",
+    "fandom": "EXO-L",
+    "memberProfiles": [
+     {
+      "name": "Xiumin",
+      "birthName": "Kim Min-seok (김민석)",
+      "positions": "Sub-Vocalist, Sub-Rapper",
+      "born": "1990-03-26",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Suho",
+      "birthName": "Kim Jun-myeon (김준면)",
+      "positions": "Leader, Lead Vocalist, Visual",
+      "born": "1991-05-22",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Lay",
+      "birthName": "Zhang Jiashuai, his legalized name is Zhang Yixing (张艺兴)",
+      "positions": "Main Dancer, Sub-Vocalist, Sub-Rapper",
+      "born": "1991-10-07",
+      "nationality": "Chinese"
+     },
+     {
+      "name": "Baekhyun",
+      "birthName": "Byun Baek-hyun (변백현)",
+      "positions": "Main Vocalist",
+      "born": "1992-05-06",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Chen",
+      "birthName": "Kim Jong-dae (김종대)",
+      "positions": "Main Vocalist",
+      "born": "1992-09-21",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Chanyeol",
+      "birthName": "Park Chan-yeol (박찬열)",
+      "positions": "Main Rapper, Sub-Vocalist, Visual",
+      "born": "1992-11-27",
+      "nationality": "Korean"
+     },
+     {
+      "name": "D.O.",
+      "birthName": "Do Kyung-soo (도경수)",
+      "positions": "Main Vocalist",
+      "born": "1993-01-12",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Kai",
+      "birthName": "Kim Jong-in (김종인)",
+      "positions": "Main Dancer, Sub-Rapper, Sub-Vocalist",
+      "born": "1994-01-14",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Sehun",
+      "birthName": "Oh Se-hun (오세훈)",
+      "positions": "Lead Dancer, Lead Rapper, Visual",
+      "born": "1994-04-12",
+      "nationality": "Korean"
+     }
+    ]
    }
   },
   {
@@ -812,7 +1973,61 @@
      "Sony Japan",
      "Warner Music Korea"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Got7"
+    "wikipedia": "https://en.wikipedia.org/wiki/Got7",
+    "kprofiles": "https://kprofiles.com/got7-members-profile/",
+    "fandom": "I GOT7 (Ahgase)",
+    "debutDate": "2014-01-16",
+    "memberProfiles": [
+     {
+      "name": "Mark",
+      "birthName": "Mark Yi En Tuan (段宜恩)",
+      "positions": "Lead Rapper, Martial Arts Tricking, Visual",
+      "born": "1993-09-04",
+      "nationality": "American"
+     },
+     {
+      "name": "Jay B",
+      "birthName": "Lim Jae-beom (임재범)",
+      "positions": "Leader, Main Vocalist, Lead Dancer",
+      "born": "1994-01-06",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Jackson",
+      "birthName": "Wang Jia Er",
+      "positions": "Main Rapper, Lead Dancer, Martial Arts Tricking",
+      "born": "1994-03-28",
+      "nationality": "Chinese (Hong Kong)"
+     },
+     {
+      "name": "Jinyoung",
+      "birthName": "Park Jin-young (박진영)",
+      "positions": "Sub-Vocalist, Visual, Center",
+      "born": "1994-09-22",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Youngjae",
+      "birthName": "Choi Young-jae (최영재)",
+      "positions": "Main Vocalist",
+      "born": "1996-09-17",
+      "nationality": "Korean"
+     },
+     {
+      "name": "BamBam",
+      "birthName": "Kunpimook Bhuwakul Bambam (กันต์พิมุกต์ ภูวกุล)",
+      "positions": "Sub-Rapper",
+      "born": "1997-05-02",
+      "nationality": "Thai"
+     },
+     {
+      "name": "Yugyeom",
+      "birthName": "Kim Yu-gyeom (김유겸)",
+      "positions": "Main Dancer, Sub-Vocalist, Maknae",
+      "born": "1997-11-17",
+      "nationality": "Korean"
+     }
+    ]
    }
   },
   {
@@ -843,7 +2058,48 @@
      "Mercury Tokyo",
      "Intertwine"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Monsta_X"
+    "wikipedia": "https://en.wikipedia.org/wiki/Monsta_X",
+    "kprofiles": "https://kprofiles.com/monsta-x-members-profile/",
+    "fandom": "MONBEBE (몬베베)",
+    "debutDate": "2015-05-14",
+    "memberProfiles": [
+     {
+      "name": "Shownu",
+      "birthName": "Sohn Hyun-woo (손현우)",
+      "positions": "Leader, Main Dancer, Lead Vocalist",
+      "born": "1992-06-18"
+     },
+     {
+      "name": "Minhyuk",
+      "birthName": "Lee Min-hyuk (이민혁)",
+      "positions": "Sub-Vocalist, Visual",
+      "born": "1993-11-03"
+     },
+     {
+      "name": "Kihyun",
+      "birthName": "Yoo Ki-hyun (유기현)",
+      "positions": "Main Vocalist",
+      "born": "1993-11-22"
+     },
+     {
+      "name": "Hyungwon",
+      "birthName": "Chae Hyung-won (채형원)",
+      "positions": "Lead Dancer, Sub-Vocalist, Sub-Rapper",
+      "born": "1994-01-15"
+     },
+     {
+      "name": "Joohoney",
+      "birthName": "Lee Ho-joon (이호준),",
+      "positions": "Main Rapper, Sub-Vocalist",
+      "born": "1994-10-06"
+     },
+     {
+      "name": "I.M",
+      "birthName": "Im Chang-kyun (임창균)",
+      "positions": "Lead Rapper, Sub-Vocalist, Maknae",
+      "born": "1996-01-26"
+     }
+    ]
    }
   },
   {
@@ -875,7 +2131,55 @@
      "Avex Trax",
      "Capitol"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/NCT_127"
+    "wikipedia": "https://en.wikipedia.org/wiki/NCT_127",
+    "kprofiles": "https://kprofiles.com/nct-127-members-profile/",
+    "fandom": "NCTzen",
+    "debutDate": "2016-07-07",
+    "memberProfiles": [
+     {
+      "name": "Johnny",
+      "birthName": "Seo Young-ho (서영호)",
+      "positions": "Vocalist, Dancer",
+      "born": "1995-02-09",
+      "nationality": "American"
+     },
+     {
+      "name": "Taeyong",
+      "birthName": "Lee Tae Yong (이태용)",
+      "positions": "Leader, Main Rapper, Main Dancer",
+      "born": "1995-07-01"
+     },
+     {
+      "name": "Yuta",
+      "birthName": "Nakamoto Yuta (中本悠太)",
+      "positions": "Lead Dancer, Sub-Vocalist, Sub-Rapper",
+      "born": "1995-10-26"
+     },
+     {
+      "name": "Doyoung",
+      "birthName": "Kim Dong Young (김동영‬)",
+      "positions": "Main Vocalist",
+      "born": "1996-02-01"
+     },
+     {
+      "name": "Jaehyun",
+      "birthName": "Jeong Jae Hyun,",
+      "positions": "Main Vocalist, Lead Dancer, Sub-Rapper",
+      "born": "1997-02-14"
+     },
+     {
+      "name": "Jungwoo",
+      "birthName": "Kim Jung Woo (김정우)",
+      "positions": "Lead Vocalist, Lead Dancer",
+      "born": "1998-02-19"
+     },
+     {
+      "name": "Haechan",
+      "birthName": "Lee Dong Hyeok (이동혁)",
+      "positions": "Main Vocalist, Lead Dancer, Maknae",
+      "born": "2000-06-06"
+     }
+    ]
    }
   },
   {
@@ -906,7 +2210,54 @@
      "Avex Trax",
      "VMG"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/NCT_Dream"
+    "wikipedia": "https://en.wikipedia.org/wiki/NCT_Dream",
+    "kprofiles": "https://kprofiles.com/nct-dream-members-profile/",
+    "fandom": "NCTzen",
+    "debutDate": "2016-08-25",
+    "memberProfiles": [
+     {
+      "name": "Renjun",
+      "birthName": "Huang Renjun (黄仁俊)",
+      "positions": "Main Vocalist, Lead Dancer",
+      "born": "2000-03-23",
+      "nationality": "Chinese"
+     },
+     {
+      "name": "Jeno",
+      "birthName": "Lee Je No (이제노)",
+      "positions": "Leader, Main Rapper, Lead Dancer",
+      "born": "2000-04-23",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Haechan",
+      "birthName": "Lee Dong Hyeok (이동혁)",
+      "positions": "Main Vocalist",
+      "born": "2000-06-06",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Jaemin",
+      "birthName": "Na Jae Min (나재민)",
+      "positions": "Lead Dancer, Lead Rapper, Sub-Vocalist",
+      "born": "2000-08-13",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Chenle",
+      "birthName": "Zhong Chenle (钟辰乐",
+      "positions": "Main Vocalist",
+      "born": "2001-11-22",
+      "nationality": "Chinese"
+     },
+     {
+      "name": "Jisung",
+      "birthName": "Park Ji Sung (박지성)",
+      "positions": "Main Dancer, Sub-Vocalist, Sub-Rapper",
+      "born": "2002-02-05",
+      "nationality": "Korean"
+     }
+    ]
    }
   },
   {
@@ -937,7 +2288,54 @@
      "EMI/Universal Japan",
      "RCA"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Riize"
+    "wikipedia": "https://en.wikipedia.org/wiki/Riize",
+    "kprofiles": "https://kprofiles.com/riize-members-profile/",
+    "fandom": "BRIIZE (브리즈)",
+    "debutDate": "2023-09-04",
+    "memberProfiles": [
+     {
+      "name": "Shotaro",
+      "birthName": "Osaki Shotaro (大崎将太郎)",
+      "positions": "Dancer",
+      "born": "2000-11-25",
+      "nationality": "Japanese"
+     },
+     {
+      "name": "Eunseok",
+      "birthName": "Song Eun-seok (송은석)",
+      "positions": "Visual",
+      "born": "2001-03-19",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Sungchan",
+      "birthName": "Jung Sung-chan (정성찬)",
+      "positions": "Rapper",
+      "born": "2001-09-13",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Wonbin",
+      "birthName": "Park Won-bin (박원빈)",
+      "positions": "Vocalist, Dancer, Visual",
+      "born": "2002-03-02",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Sohee",
+      "birthName": "Lee So-hee (이소희)",
+      "positions": "Main Vocalist",
+      "born": "2003-11-21",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Anton",
+      "birthName": "Lee Chan-young (이찬영)",
+      "positions": "Visual, Maknae",
+      "born": "2004-03-21",
+      "nationality": "American"
+     }
+    ]
    }
   },
   {
@@ -975,7 +2373,103 @@
      "Geffen",
      "Universal"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Seventeen_(South_Korean_band)"
+    "wikipedia": "https://en.wikipedia.org/wiki/Seventeen_(South_Korean_band)",
+    "kprofiles": "https://kprofiles.com/seventeen-members-profile/",
+    "fandom": "CARAT (캐럿)",
+    "debutDate": "2015-05-26",
+    "memberProfiles": [
+     {
+      "name": "S.Coups",
+      "birthName": "Choi Seung-cheol (최승철)",
+      "positions": "Leader, Hip-Hop Team Leader, Rapper",
+      "born": "1995-08-08",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Jeonghan",
+      "birthName": "Yoon Jeong-han (윤정한)",
+      "positions": "Lead Vocalist, Visual",
+      "born": "1995-10-04",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Joshua",
+      "birthName": "Joshua Hong",
+      "positions": "Lead Vocalist, Visual",
+      "born": "1995-12-30",
+      "nationality": "Korean-American"
+     },
+     {
+      "name": "Jun",
+      "birthName": "Wen Jun-hui (文俊辉)",
+      "positions": "Lead Dancer, Sub-Vocalist",
+      "born": "1996-06-10",
+      "nationality": "Chinese"
+     },
+     {
+      "name": "Hoshi",
+      "birthName": "Kwon Soon-young (권순영)",
+      "positions": "Performance Team Leader, Main Dancer, Lead Vocalist",
+      "born": "1996-06-15",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Wonwoo",
+      "birthName": "Jeon Won-woo (전원우)",
+      "positions": "Rapper, Sub-Vocalist",
+      "born": "1996-07-17",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Woozi",
+      "birthName": "Lee Ji-hoon (이지훈)",
+      "positions": "Vocal Team Leader, Lead Vocalist, Producer",
+      "born": "1996-11-22",
+      "nationality": "Korean"
+     },
+     {
+      "name": "DK",
+      "birthName": "Lee Seok-min (이석민)",
+      "positions": "Main Vocalist",
+      "born": "1997-02-18",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Mingyu",
+      "birthName": "Kim Min-gyu (김민규)",
+      "positions": "Rapper, Sub-Vocalist, Visual",
+      "born": "1997-04-06",
+      "nationality": "Korean"
+     },
+     {
+      "name": "The8",
+      "birthName": "Xu Ming Hao (徐明浩)",
+      "positions": "Lead Dancer, Sub-Vocalist, Sub-Rapper",
+      "born": "1997-11-07",
+      "nationality": "Chinese"
+     },
+     {
+      "name": "Seungkwan",
+      "birthName": "Boo Seung-kwan (부승관)",
+      "positions": "Main Vocalist, Face of the Group",
+      "born": "1998-01-16",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Vernon",
+      "birthName": "Hansol Vernon Chwe",
+      "positions": "Rapper, Sub-Vocalist, Visual",
+      "born": "1998-02-18",
+      "nationality": "Korean-American"
+     },
+     {
+      "name": "Dino",
+      "birthName": "Lee Chan (이찬)",
+      "positions": "Main Dancer, Sub-Vocalist, Sub-Rapper",
+      "born": "1999-02-11",
+      "nationality": "Korean"
+     }
+    ]
    }
   },
   {
@@ -1004,7 +2498,40 @@
      "EMI",
      "Universal"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Shinee"
+    "wikipedia": "https://en.wikipedia.org/wiki/Shinee",
+    "kprofiles": "https://kprofiles.com/shinee-members-profile/",
+    "fandom": "SHAWOL",
+    "debutDate": "2008-05-25",
+    "memberProfiles": [
+     {
+      "name": "Onew",
+      "birthName": "Lee Jin-ki (이진기)",
+      "positions": "Leader, Main Vocalist",
+      "born": "1989-12-14",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Key",
+      "birthName": "Kim Ki-bum (김기범)",
+      "positions": "Lead Rapper, Lead Dancer, Sub-Vocalist",
+      "born": "1991-09-23",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Minho",
+      "birthName": "Choi Min-ho (최민호)",
+      "positions": "Main Rapper, Sub-Vocalist, Visual",
+      "born": "1991-12-09",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Taemin",
+      "birthName": "Lee Tae-min (이태민)",
+      "positions": "Main Dancer, Sub-Vocalist, Maknae",
+      "born": "1993-07-18",
+      "nationality": "Korean"
+     }
+    ]
    }
   },
   {
@@ -1037,7 +2564,67 @@
      "Epic Japan",
      "Republic"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Stray_Kids"
+    "wikipedia": "https://en.wikipedia.org/wiki/Stray_Kids",
+    "kprofiles": "https://kprofiles.com/stray-kids-members-profile/",
+    "fandom": "STAY",
+    "memberProfiles": [
+     {
+      "name": "Bang Chan",
+      "birthName": "Christopher Chahn Bahng",
+      "positions": "Leader, Producer, Vocalist",
+      "born": "1997-10-03",
+      "nationality": "Korean-Australian"
+     },
+     {
+      "name": "Lee Know",
+      "birthName": "Lee Min-ho (이민호)",
+      "positions": "Dancer*, Vocalist, Rapper",
+      "born": "1998-10-25",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Changbin",
+      "birthName": "Seo Chang-bin (서창빈)",
+      "positions": "Rapper, Vocalist, Producer",
+      "born": "1999-08-11",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Hyunjin",
+      "birthName": "Hwang Hyun-jin (황현진)",
+      "positions": "Dancer, Rapper, Vocalist",
+      "born": "2000-03-20",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Han",
+      "birthName": "Christopher Chahn Bahng",
+      "positions": "Leader, Producer, Vocalist",
+      "born": "1997-10-03",
+      "nationality": "Korean-Australian"
+     },
+     {
+      "name": "Felix",
+      "birthName": "Felix Lee (이 필릭스)",
+      "positions": "Dancer, Rapper, Vocalist",
+      "born": "2000-09-15",
+      "nationality": "Korean-Australian"
+     },
+     {
+      "name": "Seungmin",
+      "birthName": "Kim Seung-min (김승민)",
+      "positions": "Vocalist**",
+      "born": "2000-09-22",
+      "nationality": "Korean"
+     },
+     {
+      "name": "I.N",
+      "birthName": "Yang Jeong-in (양정인)",
+      "positions": "Vocalist**, Maknae",
+      "born": "2001-02-08",
+      "nationality": "Korean"
+     }
+    ]
    }
   },
   {
@@ -1072,7 +2659,82 @@
      "Label SJ",
      "Avex Trax"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Super_Junior"
+    "wikipedia": "https://en.wikipedia.org/wiki/Super_Junior",
+    "kprofiles": "https://kprofiles.com/super-junior-members-profile/",
+    "fandom": "E.L.F",
+    "debutDate": "2005-11-06",
+    "memberProfiles": [
+     {
+      "name": "Leeteuk",
+      "birthName": "Park Jung-soo (박정수)",
+      "positions": "Leader, Sub-Vocalist, Sub-Rapper",
+      "born": "1983-07-01",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Heechul",
+      "birthName": "Kim Hee-chul (김희철)",
+      "positions": "Sub-Vocalist, Sub-Rapper",
+      "born": "1983-07-10",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Yesung",
+      "birthName": "Kim Kang-hoon (김강훈)",
+      "positions": "Main Vocalist",
+      "born": "1984-08-24",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Shindong",
+      "birthName": "Shin Dong-hee (신동희)",
+      "positions": "Lead Dancer, Sub-Rapper, Sub-Vocalist",
+      "born": "1985-09-28",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Sungmin",
+      "birthName": "Lee Sung-min (이성민)",
+      "positions": "Lead Vocalist, Lead Dancer, Visual",
+      "born": "1986-01-01",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Eunhyuk",
+      "birthName": "Lee Hyuk-jae (이혁재)",
+      "positions": "Main Rapper, Main Dancer, Sub-Vocalist",
+      "born": "1986-04-04",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Siwon",
+      "birthName": "Choi Si-won (최시원)",
+      "positions": "Sub-Vocalist, Visual, Center",
+      "born": "1986-04-07",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Donghae",
+      "birthName": "Lee Dong-hae (이동해)",
+      "positions": "Lead Vocalist, Lead Dancer, Sub-Rapper",
+      "born": "1986-10-15",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Ryeowook",
+      "birthName": "Kim Ryeo-wook (김려욱)",
+      "positions": "Main Vocalist",
+      "born": "1987-06-21",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Kyuhyun",
+      "birthName": "Cho Kyu-hyun (조규현)",
+      "positions": "Main Vocalist, Maknae",
+      "born": "1988-02-03",
+      "nationality": "Korean"
+     }
+    ]
    }
   },
   {
@@ -1106,7 +2768,75 @@
      "Ariola Japan",
      "Universal"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/The_Boyz_(South_Korean_band)"
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Boyz_(South_Korean_band)",
+    "kprofiles": "https://kprofiles.com/the-boyz-members-profile/",
+    "fandom": "THE B (더비)",
+    "debutDate": "2017-12-06",
+    "memberProfiles": [
+     {
+      "name": "Sangyeon",
+      "birthName": "Lee Sang-yeon (이상연)",
+      "positions": "Leader, Main Vocalist",
+      "born": "1996-11-04",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Jacob",
+      "birthName": "Jacob Bae (배제이콥)",
+      "positions": "Temporary Leader, Lead Vocalist, Sub-Rapper",
+      "born": "1997-05-30",
+      "nationality": "Canadian"
+     },
+     {
+      "name": "Younghoon",
+      "birthName": "Kim Young-hoon (김영훈)",
+      "positions": "Lead Vocalist, Visual",
+      "born": "1997-08-08",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Hyunjae",
+      "birthName": "Lee Jae-hyun (이재현)",
+      "positions": "Lead Vocalist, Lead Dancer, Visual",
+      "born": "1997-09-13",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Juyeon",
+      "birthName": "Lee Ju-yeon (이주연)",
+      "positions": "Main Dancer, Sub-Vocalist, Visual",
+      "born": "1998-01-15",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Kevin",
+      "birthName": "Kevin Moon (케빈 문)",
+      "positions": "Main vocalist",
+      "born": "1998-02-23",
+      "nationality": "Korean-Canadian"
+     },
+     {
+      "name": "Q",
+      "birthName": "Ji Chang-min (지창민)",
+      "positions": "Main Dancer, Sub-Vocalist",
+      "born": "1998-11-05",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Sunwoo",
+      "birthName": "Kim Sun-woo (김선우)",
+      "positions": "Main Rapper, Lead Dancer, Sub-Vocalist",
+      "born": "2000-04-12",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Eric",
+      "birthName": "Sohn Young-jae (손영재)",
+      "positions": "Lead Rapper, Lead Dancer, Sub-Vocalist",
+      "born": "2000-12-22",
+      "nationality": "Korean"
+     }
+    ]
    }
   },
   {
@@ -1136,7 +2866,46 @@
      "Universal Japan",
      "Republic"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Tomorrow_X_Together"
+    "wikipedia": "https://en.wikipedia.org/wiki/Tomorrow_X_Together",
+    "kprofiles": "https://kprofiles.com/txt-members-profile/",
+    "fandom": "MOA",
+    "debutDate": "2019-03-04",
+    "memberProfiles": [
+     {
+      "name": "Yeonjun",
+      "birthName": "Choi Yeon-jun (최연준)",
+      "born": "1999-09-13",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Soobin",
+      "birthName": "Choi Soo-bin (최수빈)",
+      "positions": "Leader*",
+      "born": "2000-12-05",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Beomgyu",
+      "birthName": "Choi Beom-gyu (최범규)",
+      "positions": "Visual*",
+      "born": "2001-03-13",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Taehyun",
+      "birthName": "Kang Tae-hyun (강태현)",
+      "positions": "N/A*",
+      "born": "2002-02-05",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Hueningkai",
+      "birthName": "Kai Kamal Huening",
+      "positions": "Maknae*",
+      "born": "2002-08-14",
+      "nationality": "Korean-American"
+     }
+    ]
    }
   },
   {
@@ -1171,7 +2940,82 @@
      "YGEX",
      "Columbia"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Treasure_(band)"
+    "wikipedia": "https://en.wikipedia.org/wiki/Treasure_(band)",
+    "kprofiles": "https://kprofiles.com/treasure-members-profile/",
+    "fandom": "TREASURE MAKER (TEUME)",
+    "debutDate": "2020-08-07",
+    "memberProfiles": [
+     {
+      "name": "Choi Hyun-suk",
+      "birthName": "Choi Hyun-suk (최현석)",
+      "positions": "Main Dancer, Main Rapper, Vocalist",
+      "born": "1999-04-21",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Jihoon",
+      "birthName": "Park Ji-hoon (박지훈)",
+      "positions": "Main Dancer, Lead Vocalist",
+      "born": "2000-03-14",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Yoshi",
+      "birthName": "Kanemoto Yoshinori (金本芳典)",
+      "positions": "Main Rapper",
+      "born": "2000-05-15",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Junkyu",
+      "birthName": "Kim Jun-kyu (김준규)",
+      "positions": "Main or Lead Vocalist, Visual",
+      "born": "2000-09-09",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Yoon Jae-hyuk",
+      "birthName": "Yoon Jae-hyuk (윤재혁)",
+      "positions": "Vice Class President (Co-Leader), Vocalist",
+      "born": "2001-07-23",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Asahi",
+      "birthName": "Hamada Asahi (浜田朝光)",
+      "positions": "Vocalist, Visual",
+      "born": "2001-08-20",
+      "nationality": "Japanese"
+     },
+     {
+      "name": "Doyoung",
+      "birthName": "Kim Do-young (김도영)",
+      "positions": "Main Dancer, Vocalist",
+      "born": "2003-12-04",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Haruto",
+      "birthName": "Watanabe Haruto (渡辺春虎)",
+      "positions": "Class President (Leader), Main Rapper, Visual",
+      "born": "2004-04-05",
+      "nationality": "Japanese"
+     },
+     {
+      "name": "Park Jeong-woo",
+      "birthName": "Park Jeong-woo (박정우)",
+      "positions": "Main Vocalist",
+      "born": "2004-09-28",
+      "nationality": "Korean"
+     },
+     {
+      "name": "So Jung-hwan",
+      "birthName": "So Jung-hwan (소정환)",
+      "positions": "Lead Dancer, Vocalist, Maknae",
+      "born": "2005-02-18",
+      "nationality": "Korean"
+     }
+    ]
    }
   },
   {
@@ -1201,7 +3045,54 @@
      "Pledis",
      "Interscope"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/TWS_(group)"
+    "wikipedia": "https://en.wikipedia.org/wiki/TWS_(group)",
+    "kprofiles": "https://kprofiles.com/tws-members-profile/",
+    "fandom": "42 (사이)",
+    "debutDate": "2024-01-22",
+    "memberProfiles": [
+     {
+      "name": "Shinyu",
+      "birthName": "Shin Jung-hwan (신정환)",
+      "positions": "Leader, Main Rapper",
+      "born": "2003-11-07",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Dohoon",
+      "birthName": "Kim Do-hoon (김도훈)",
+      "positions": "Center, All-Rounder",
+      "born": "2005-01-30",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Youngjae",
+      "birthName": "Choi Young-jae (최영재)",
+      "positions": "Main Vocalist",
+      "born": "2005-05-31",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Hanjin",
+      "birthName": "Han Zhen (韩振",
+      "positions": "N/A",
+      "born": "2006-01-05",
+      "nationality": "Chinese"
+     },
+     {
+      "name": "Jihoon",
+      "birthName": "Han Ji-hoon (한지훈)",
+      "positions": "Main Dancer",
+      "born": "2006-03-28",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Kyungmin",
+      "birthName": "Lee Sung-bin (이성빈),",
+      "positions": "Maknae",
+      "born": "2007-10-02",
+      "nationality": "Korean"
+     }
+    ]
    }
   },
   {
@@ -1220,17 +3111,57 @@
     "koreanName": "제로베이스원",
     "debutYear": 2023,
     "members": [
-     "Kim Ji-woong",
-     "Sung Han-bin",
+     "Sung Hanbin",
+     "Kim Jiwoong",
      "Seok Matthew",
-     "Kim Tae-rae",
-     "Park Gun-wook"
+     "Kim Taerae",
+     "Park Gunwook"
     ],
     "labels": [
      "WakeOne",
      "Lapone/Sony Japan"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Zerobaseone"
+    "wikipedia": "https://en.wikipedia.org/wiki/Zerobaseone",
+    "kprofiles": "https://kprofiles.com/zerobaseone-members-profile/",
+    "fandom": "ZEROSE (제로즈)",
+    "debutDate": "2023-07-10",
+    "memberProfiles": [
+     {
+      "name": "Sung Hanbin",
+      "birthName": "Sung Han Bin (성한빈)",
+      "positions": "Leader, Vocalist, Main Dancer",
+      "born": "2001-06-13",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Kim Jiwoong",
+      "birthName": "Kim Ji Woong (김지웅)",
+      "positions": "Vocalist, Rapper, Visual",
+      "born": "1998-12-14",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Seok Matthew",
+      "birthName": "Seok Matthew (석매튜)",
+      "positions": "Vocalist, Rapper, Dancer",
+      "born": "2002-05-28",
+      "nationality": "Canadian-Korean"
+     },
+     {
+      "name": "Kim Taerae",
+      "birthName": "Kim Tae Rae (김태래)",
+      "positions": "Main Vocalist",
+      "born": "2002-07-14",
+      "nationality": "Korean"
+     },
+     {
+      "name": "Park Gunwook",
+      "birthName": "Park Gun Wook (박건욱)",
+      "positions": "Rapper, Vocalist, Dancer",
+      "born": "2005-01-10",
+      "nationality": "Korean"
+     }
+    ]
    }
   },
   {
@@ -1253,7 +3184,11 @@
     "labels": [
      "Big Hit"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Suga"
+    "wikipedia": "https://en.wikipedia.org/wiki/Suga",
+    "kprofiles": "https://kprofiles.com/suga-facts-profile/",
+    "birthName": "Min Yoon Gi (민윤기)",
+    "height": "174 cm",
+    "fandom": "ARMY"
    }
   },
   {
@@ -1277,7 +3212,10 @@
      "SM",
      "INB100"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Baekhyun"
+    "wikipedia": "https://en.wikipedia.org/wiki/Baekhyun",
+    "kprofiles": "https://kprofiles.com/baekhyun-exo-profile/",
+    "birthName": "Byun Baek Hyun (변백현)",
+    "height": "174 cm"
    }
   },
   {
@@ -1301,7 +3239,11 @@
      "YMC",
      "Swing"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Chung_Ha"
+    "wikipedia": "https://en.wikipedia.org/wiki/Chung_Ha",
+    "kprofiles": "https://kprofiles.com/chungha-profile/",
+    "fandom": "HAART (하트)",
+    "birthName": "Kim Chan Mi (김찬미)",
+    "height": "161 cm"
    }
   },
   {
@@ -1325,7 +3267,11 @@
      "SM",
      "Company SooSoo"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Doh_Kyung-soo"
+    "wikipedia": "https://en.wikipedia.org/wiki/Doh_Kyung-soo",
+    "kprofiles": "https://kprofiles.com/d-o-do-kyungsoo-exo-profile/",
+    "fandom": "Dandanies",
+    "birthName": "Doh Kyung Soo (도경수)",
+    "height": "173 cm"
    }
   },
   {
@@ -1348,7 +3294,12 @@
      "EDAM",
      "Universal Japan"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/IU_(entertainer)"
+    "wikipedia": "https://en.wikipedia.org/wiki/IU_(entertainer)",
+    "kprofiles": "https://kprofiles.com/iu-profile/",
+    "fandom": "Uaena",
+    "debutDate": "2008-09-18",
+    "birthName": "Lee Ji Eun (이지은)",
+    "height": "162 cm"
    }
   },
   {
@@ -1371,7 +3322,11 @@
     "labels": [
      "Big Hit"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/J-Hope"
+    "wikipedia": "https://en.wikipedia.org/wiki/J-Hope",
+    "kprofiles": "https://kprofiles.com/j-hope-facts-profile/",
+    "birthName": "Jung Ho Seok (정호석)",
+    "height": "177 cm",
+    "fandom": "ARMY"
    }
   },
   {
@@ -1396,7 +3351,11 @@
      "Interscope",
      "Odd Atelier"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Jennie_(singer)"
+    "wikipedia": "https://en.wikipedia.org/wiki/Jennie_(singer)",
+    "kprofiles": "https://kprofiles.com/jennie-facts-profile/",
+    "birthName": "Kim Jennie (김제니)",
+    "height": "163 cm",
+    "fandom": "BLINK"
    }
   },
   {
@@ -1419,7 +3378,11 @@
     "labels": [
      "Big Hit"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Jimin"
+    "wikipedia": "https://en.wikipedia.org/wiki/Jimin",
+    "kprofiles": "https://kprofiles.com/jimin-facts-profile/",
+    "birthName": "Park Ji Min (박지민)",
+    "height": "174 cm",
+    "fandom": "ARMY"
    }
   },
   {
@@ -1442,7 +3405,11 @@
     "labels": [
      "Big Hit"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Jin_(singer)"
+    "wikipedia": "https://en.wikipedia.org/wiki/Jin_(singer)",
+    "kprofiles": "https://kprofiles.com/jin-facts-profile/",
+    "birthName": "Kim Seok Jin (김석진)",
+    "height": "179.5 cm",
+    "fandom": "ARMY"
    }
   },
   {
@@ -1467,7 +3434,11 @@
      "Interscope",
      "Blissoo"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Jisoo"
+    "wikipedia": "https://en.wikipedia.org/wiki/Jisoo",
+    "kprofiles": "https://kprofiles.com/jisoo-profile/",
+    "birthName": "Kim Ji Soo (김지수)",
+    "height": "162 cm",
+    "fandom": "BLINK"
    }
   },
   {
@@ -1490,7 +3461,11 @@
     "labels": [
      "Big Hit"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Jung_Kook"
+    "wikipedia": "https://en.wikipedia.org/wiki/Jung_Kook",
+    "kprofiles": "https://kprofiles.com/jungkook-facts-profile/",
+    "birthName": "Jeon Jeongguk (전정국)",
+    "height": "177 cm",
+    "fandom": "ARMY"
    }
   },
   {
@@ -1513,7 +3488,11 @@
     "labels": [
      "SM"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Kai_(entertainer,_born_1994)"
+    "wikipedia": "https://en.wikipedia.org/wiki/Kai_(entertainer,_born_1994)",
+    "kprofiles": "https://kprofiles.com/kai-profile-and-facts/",
+    "fandom": "Erigom",
+    "birthName": "Kim Jong In (김종인)",
+    "height": "182 cm"
    }
   },
   {
@@ -1537,7 +3516,11 @@
      "SM",
      "Universal"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Key_(entertainer)"
+    "wikipedia": "https://en.wikipedia.org/wiki/Key_(entertainer)",
+    "kprofiles": "https://kprofiles.com/key-shinee-profile/",
+    "fandom": "Lockets",
+    "birthName": "Kim Ki Bum (김기범)",
+    "height": "175 cm"
    }
   },
   {
@@ -1562,7 +3545,11 @@
      "Interscope",
      "Lloud"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Lisa_(rapper)"
+    "wikipedia": "https://en.wikipedia.org/wiki/Lisa_(rapper)",
+    "kprofiles": "https://kprofiles.com/lisa-blackpink-profile/",
+    "birthName": "Lalisa Manoban (ลลิสา มโนบาล)",
+    "height": "166.5 cm",
+    "fandom": "BLINK"
    }
   },
   {
@@ -1585,7 +3572,11 @@
     "labels": [
      "Big Hit"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/RM_(musician)"
+    "wikipedia": "https://en.wikipedia.org/wiki/RM_(musician)",
+    "kprofiles": "https://kprofiles.com/rap-monster-facts/",
+    "birthName": "Kim Nam Joon (김남준)",
+    "height": "181 cm",
+    "fandom": "ARMY"
    }
   },
   {
@@ -1610,7 +3601,11 @@
      "Interscope",
      "The Black Label"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Ros%C3%A9_(singer)"
+    "wikipedia": "https://en.wikipedia.org/wiki/Ros%C3%A9_(singer)",
+    "kprofiles": "https://kprofiles.com/rose-blackpink-profile/",
+    "birthName": "Roseanne Park",
+    "height": "168.7 cm",
+    "fandom": "BLINK"
    }
   },
   {
@@ -1633,7 +3628,10 @@
      "JYP",
      "Abyss Company"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Sunmi"
+    "wikipedia": "https://en.wikipedia.org/wiki/Sunmi",
+    "kprofiles": "https://kprofiles.com/sunmi-profile/",
+    "fandom": "Miya-ne (미야네)",
+    "height": "166 cm"
    }
   },
   {
@@ -1657,7 +3655,11 @@
      "SM",
      "BPM"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Taemin"
+    "wikipedia": "https://en.wikipedia.org/wiki/Taemin",
+    "kprofiles": "https://kprofiles.com/taemin-shinee-profile/",
+    "fandom": "TAEMate (탬메이트)",
+    "birthName": "Lee Tae Min (이태민)",
+    "height": "175 cm"
    }
   },
   {
@@ -1681,7 +3683,10 @@
      "SM",
      "Universal Japan"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Taeyeon"
+    "wikipedia": "https://en.wikipedia.org/wiki/Taeyeon",
+    "kprofiles": "https://kprofiles.com/taeyeon-profile/",
+    "birthName": "Kim Tae Yeon (김태연)",
+    "height": "158 cm"
    }
   },
   {
@@ -1704,7 +3709,11 @@
     "labels": [
      "Big Hit"
     ],
-    "wikipedia": "https://en.wikipedia.org/wiki/V_(singer)"
+    "wikipedia": "https://en.wikipedia.org/wiki/V_(singer)",
+    "kprofiles": "https://kprofiles.com/v-taehyung-facts-profile/",
+    "birthName": "Kim Taehyung (김태형)",
+    "height": "178.8 cm",
+    "fandom": "ARMY"
    }
   },
   {
@@ -1746,7 +3755,9 @@
     "debutYear": 1991,
     "born": "1970-07-12",
     "agency": "BH Entertainment",
-    "wikipedia": "https://en.wikipedia.org/wiki/Lee_Byung-hun"
+    "wikipedia": "https://en.wikipedia.org/wiki/Lee_Byung-hun",
+    "kprofiles": "https://kprofiles.com/lee-byung-hun-profile-and-facts/",
+    "height": "178 cm"
    }
   },
   {
@@ -1767,7 +3778,9 @@
     "debutYear": 1997,
     "born": "1981-10-30",
     "agency": "Peachy",
-    "wikipedia": "https://en.wikipedia.org/wiki/Jun_Ji-hyun"
+    "wikipedia": "https://en.wikipedia.org/wiki/Jun_Ji-hyun",
+    "kprofiles": "https://kprofiles.com/jun-ji-hyun-profile/",
+    "height": "173 cm"
    }
   },
   {
@@ -1787,7 +3800,10 @@
     "koreanName": "송혜교",
     "debutYear": 1996,
     "born": "1981-11-22",
-    "wikipedia": "https://en.wikipedia.org/wiki/Song_Hye-kyo"
+    "wikipedia": "https://en.wikipedia.org/wiki/Song_Hye-kyo",
+    "kprofiles": "https://kprofiles.com/song-hye-kyo-profile/",
+    "agency": "United Artists Agency & Jet Tone Films",
+    "height": "161 cm"
    }
   },
   {
@@ -1808,7 +3824,10 @@
     "debutYear": 2003,
     "born": "1982-09-25",
     "agency": "VAST Entertainment",
-    "wikipedia": "https://en.wikipedia.org/wiki/Hyun_Bin"
+    "wikipedia": "https://en.wikipedia.org/wiki/Hyun_Bin",
+    "kprofiles": "https://kprofiles.com/hyun-bin-profile/",
+    "birthName": "Kim Tae Pyeong (김태평)",
+    "height": "184 cm"
    }
   },
   {
@@ -1829,7 +3848,10 @@
     "debutYear": 2000,
     "born": "1982-01-11",
     "agency": "MSTeam Entertainment",
-    "wikipedia": "https://en.wikipedia.org/wiki/Son_Ye-jin"
+    "wikipedia": "https://en.wikipedia.org/wiki/Son_Ye-jin",
+    "kprofiles": "https://kprofiles.com/son-ye-jin-profile/",
+    "birthName": "Son Eon Jin (손언진)",
+    "height": "165 cm"
    }
   },
   {
@@ -1850,7 +3872,10 @@
     "debutYear": 2001,
     "born": "1979-07-10",
     "agency": "Management SOOP",
-    "wikipedia": "https://en.wikipedia.org/wiki/Gong_Yoo"
+    "wikipedia": "https://en.wikipedia.org/wiki/Gong_Yoo",
+    "kprofiles": "https://kprofiles.com/gong-yoo-profile/",
+    "birthName": "Gong Ji Chul (공지철)",
+    "height": "185 cm"
    }
   },
   {
@@ -1871,7 +3896,9 @@
     "debutYear": 2005,
     "born": "1986-03-04",
     "agency": "Dareum Entertainment",
-    "wikipedia": "https://en.wikipedia.org/wiki/Park_Min-young"
+    "wikipedia": "https://en.wikipedia.org/wiki/Park_Min-young",
+    "kprofiles": "https://kprofiles.com/park-min-young-profile/",
+    "height": "164 cm"
    }
   },
   {
@@ -1892,7 +3919,9 @@
     "debutYear": 2002,
     "born": "1987-06-22",
     "agency": "MYM Entertainment",
-    "wikipedia": "https://en.wikipedia.org/wiki/Lee_Min-ho"
+    "wikipedia": "https://en.wikipedia.org/wiki/Lee_Min-ho",
+    "kprofiles": "https://kprofiles.com/lee-min-ho-profile/",
+    "height": "187 cm"
    }
   },
   {
@@ -1913,7 +3942,9 @@
     "debutYear": 2008,
     "born": "1985-09-19",
     "agency": "HighZium Studio",
-    "wikipedia": "https://en.wikipedia.org/wiki/Song_Joong-ki"
+    "wikipedia": "https://en.wikipedia.org/wiki/Song_Joong-ki",
+    "kprofiles": "https://kprofiles.com/song-joong-ki-profile/",
+    "height": "178 cm"
    }
   },
   {
@@ -1934,7 +3965,10 @@
     "debutYear": 2010,
     "born": "1994-10-10",
     "agency": "Management SOOP",
-    "wikipedia": "https://en.wikipedia.org/wiki/Bae_Suzy"
+    "wikipedia": "https://en.wikipedia.org/wiki/Bae_Suzy",
+    "kprofiles": "https://kprofiles.com/suzy-profile/",
+    "birthName": "Bae Su Ji (배수지)",
+    "height": "168 cm"
    }
   },
   {
@@ -1955,7 +3989,10 @@
     "debutYear": 1996,
     "born": "1992-09-04",
     "agency": "Namoo Actors",
-    "wikipedia": "https://en.wikipedia.org/wiki/Park_Eun-bin"
+    "wikipedia": "https://en.wikipedia.org/wiki/Park_Eun-bin",
+    "kprofiles": "https://kprofiles.com/park-eun-bin-profile-and-facts/",
+    "fandom": "BINGO (빙고)",
+    "height": "163 cm"
    }
   },
   {
@@ -1976,7 +4013,9 @@
     "debutYear": 2006,
     "born": "1987-07-05",
     "agency": "Spring Company",
-    "wikipedia": "https://en.wikipedia.org/wiki/Ji_Chang-wook"
+    "wikipedia": "https://en.wikipedia.org/wiki/Ji_Chang-wook",
+    "kprofiles": "https://kprofiles.com/ji-chang-wook-profile/",
+    "height": "182 cm"
    }
   },
   {
@@ -1997,7 +4036,9 @@
     "debutYear": 2007,
     "born": "1988-02-16",
     "agency": "Goldmedalist",
-    "wikipedia": "https://en.wikipedia.org/wiki/Kim_Soo-hyun"
+    "wikipedia": "https://en.wikipedia.org/wiki/Kim_Soo-hyun",
+    "kprofiles": "https://kprofiles.com/kim-soo-hyun-profile/",
+    "height": "180 cm"
    }
   },
   {
@@ -2018,7 +4059,9 @@
     "debutYear": 2005,
     "born": "1989-09-14",
     "agency": "Ace Factory",
-    "wikipedia": "https://en.wikipedia.org/wiki/Lee_Jong-suk"
+    "wikipedia": "https://en.wikipedia.org/wiki/Lee_Jong-suk",
+    "kprofiles": "https://kprofiles.com/lee-jong-suk-profile/",
+    "height": "186 cm"
    }
   },
   {
@@ -2039,7 +4082,9 @@
     "debutYear": 2012,
     "born": "1991-07-02",
     "agency": "BH Entertainment",
-    "wikipedia": "https://en.wikipedia.org/wiki/Kim_Go-eun"
+    "wikipedia": "https://en.wikipedia.org/wiki/Kim_Go-eun",
+    "kprofiles": "https://kprofiles.com/kim-go-eun-profile/",
+    "height": "170 cm"
    }
   },
   {
@@ -2060,7 +4105,10 @@
     "debutYear": 2011,
     "born": "1988-12-16",
     "agency": "Awesome ENT",
-    "wikipedia": "https://en.wikipedia.org/wiki/Park_Seo-joon"
+    "wikipedia": "https://en.wikipedia.org/wiki/Park_Seo-joon",
+    "kprofiles": "https://kprofiles.com/park-seo-joon-profile/",
+    "birthName": "Park Yong-gyu (박용규)",
+    "height": "185 cm"
    }
   },
   {
@@ -2081,7 +4129,9 @@
     "debutYear": 2010,
     "born": "1992-10-19",
     "agency": "HighZium Studio",
-    "wikipedia": "https://en.wikipedia.org/wiki/Kim_Ji-won_(actress)"
+    "wikipedia": "https://en.wikipedia.org/wiki/Kim_Ji-won_(actress)",
+    "kprofiles": "https://kprofiles.com/kim-ji-won-profile/",
+    "height": "164 cm"
    }
   },
   {
@@ -2100,9 +4150,12 @@
    "details": {
     "koreanName": "박보검",
     "debutYear": 2011,
-    "born": "1990-06-16",
+    "born": "1993-06-16",
     "agency": "The Black Label",
-    "wikipedia": "https://en.wikipedia.org/wiki/Park_Bo-gum"
+    "wikipedia": "https://en.wikipedia.org/wiki/Park_Bo-gum",
+    "kprofiles": "https://kprofiles.com/park-bo-gum-profile/",
+    "fandom": "보검복지부",
+    "height": "182 cm"
    }
   },
   {
@@ -2123,7 +4176,9 @@
     "debutYear": 2013,
     "born": "1988-04-01",
     "agency": "FNC Entertainment",
-    "wikipedia": "https://en.wikipedia.org/wiki/Jung_Hae-in"
+    "wikipedia": "https://en.wikipedia.org/wiki/Jung_Hae-in",
+    "kprofiles": "https://kprofiles.com/jung-hae-in-profile/",
+    "height": "178 cm"
    }
   },
   {
@@ -2165,7 +4220,10 @@
     "debutYear": 2016,
     "born": "1993-11-18",
     "agency": "9ato Entertainment",
-    "wikipedia": "https://en.wikipedia.org/wiki/Han_So-hee"
+    "wikipedia": "https://en.wikipedia.org/wiki/Han_So-hee",
+    "kprofiles": "https://kprofiles.com/han-so-hee-profile/",
+    "birthName": "Lee So Hee (이소희)",
+    "height": "165 cm"
    }
   },
   {
@@ -2186,7 +4244,10 @@
     "debutYear": 2017,
     "born": "1995-04-11",
     "agency": "YH Entertainment",
-    "wikipedia": "https://en.wikipedia.org/wiki/Lee_Do-hyun"
+    "wikipedia": "https://en.wikipedia.org/wiki/Lee_Do-hyun",
+    "kprofiles": "https://kprofiles.com/lee-dohyun-profile/",
+    "birthName": "Lim Dong-Hyun (임동현)",
+    "height": "182 cm"
    }
   },
   {
@@ -2207,7 +4268,10 @@
     "debutYear": 2010,
     "born": "1991-10-31",
     "agency": "Varo Entertainment",
-    "wikipedia": "https://en.wikipedia.org/wiki/Byeon_Woo-seok"
+    "wikipedia": "https://en.wikipedia.org/wiki/Byeon_Woo-seok",
+    "kprofiles": "https://kprofiles.com/byeon-woo-seok-profile/",
+    "fandom": "Woo Che Tong (우체통)",
+    "height": "190.3 cm"
    }
   }
  ]
