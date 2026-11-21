@@ -1,0 +1,1 @@
+Full K-Profiles directory, built by scripts/build-directory.py from the Kprofiles crawl (live-data: data/kprofiles-crawl.json.gz). index.json lists every profile; each category file holds the details shown in About.

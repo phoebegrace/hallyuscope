@@ -48,7 +48,7 @@ async function handleBias(req,res){
   for(let attempt=0;attempt<3;attempt++){
     const {file,json}=await readStore();
     const biases=cleanBiases(json.biases);
-    if(!(id in biases) && Object.keys(biases).length>=500) return reply(res,400,{error:'Unknown artist'});
+    if(!(id in biases) && Object.keys(biases).length>=8000) return reply(res,400,{error:'Unknown artist'});
     biases[id]=Math.max(0,(biases[id]||0)+(on?1:-1));
     const next={...json,updatedAt:new Date().toISOString(),biases};
     try{

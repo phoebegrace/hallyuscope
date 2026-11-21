@@ -160,6 +160,26 @@
       const items=(d.items||[]).filter(x=>x.date>=todayKey&&!/cancelled|canceled|postponed/i.test(x.status||'')).sort((a,b)=>a.date.localeCompare(b.date)).slice(0,4);
       $('#homeComebacks').innerHTML=items.length?items.map(e=>`<a class="cb scope" href="/album/${esc(e.id)}"><div class="d">${dayNum(eventDate(e))}<small>${mon(eventDate(e))}</small></div><span class="meta"><b>${esc(e.artist)}</b></span><h3>${esc(e.title)}</h3><p class="meta">${esc(e.type||'Release')}</p></a>`).join(''):'<p class="empty">No upcoming releases are currently listed.</p>';
     }).catch(()=>{});
+    // Happening today: PH shows, releases and idol or actor birthdays on today's Manila date.
+    const todayBox=$('#homeToday');
+    if(todayBox){
+      const short=$('[data-today-short]');
+      if(short)short.textContent=new Intl.DateTimeFormat('en-PH',{timeZone:TZ,weekday:'short',month:'short',day:'numeric'}).format(new Date());
+      const md=todayKey.slice(5);const year=+todayKey.slice(0,4);
+      const live=x=>!/cancelled|canceled|postponed/i.test(x.status||'');
+      Promise.all([get('concerts-calendar').catch(()=>({items:[]})),get('comebacks-calendar').catch(()=>({items:[]})),fetch('/data/profiles.json').then(r=>r.json()).catch(()=>({items:[]}))]).then(([c,r,p])=>{
+        const rows=[];
+        (c.items||[]).filter(x=>String(x.date).slice(0,10)===todayKey&&live(x)).forEach(x=>rows.push({k:'Concert',href:'/concert/'+x.id,t:x.artist,s:x.venue||x.city||''}));
+        (r.items||[]).filter(x=>String(x.date).slice(0,10)===todayKey&&live(x)).forEach(x=>rows.push({k:'Release',href:'/album/'+x.id,t:x.artist,s:x.title+(x.type?' · '+x.type:'')}));
+        const bdays=[];
+        (p.items||[]).forEach(x=>{const d=x.details||{};
+          if(d.born&&d.born.slice(5)===md)bdays.push({t:x.name,s:'Turns '+(year-+d.born.slice(0,4))});
+          (d.memberProfiles||[]).forEach(m=>{if(m.born&&m.born.slice(5)===md&&!bdays.some(b=>b.t===m.name))bdays.push({t:m.name+' ('+x.name+')',s:'Turns '+(year-+m.born.slice(0,4))});});
+        });
+        bdays.forEach(b=>rows.push({k:'Birthday',href:'/profiles',t:b.t,s:b.s}));
+        todayBox.innerHTML=rows.length?rows.slice(0,6).map(x=>`<li><a href="${esc(x.href)}"><span class="today-tag today-${x.k.toLowerCase()}">${esc(x.k)}</span><span><strong>${esc(x.t)}</strong>${x.s?`<small>${esc(x.s)}</small>`:''}</span></a></li>`).join(''):'<li class="today-empty">No shows, releases or birthdays today. Here’s what’s next.</li>';
+      });
+    }
     get('tracker-health').then(d=>{
       const successful=(d.sources||[]).filter(x=>x.ok);
       const text=successful.length?'Sources checked '+ago(new Date(d.checkedAt))+'. Automatic checks are scheduled every 30 minutes.':'Some schedule sources are unavailable; displaying the last known dates.';
@@ -321,7 +341,16 @@
   const input = document.getElementById('newsletterEmail');
   const btn = document.getElementById('newsletterSubmit');
   const msg = document.getElementById('signupMessage');
-  const say = (text, state = '') => { msg.textContent = text; msg.className = 'meta' + (state ? ' ' + state : ''); };
+  const say = (text, state = '') => { msg.textContent = text; msg.className = 'meta' + (state ? ' ' + state : ''); form.classList.toggle('is-error', state === 'err'); };
+  input.addEventListener('input', () => { if (form.classList.contains('is-error')) say('Free · Once a week · Unsubscribe anytime'); });
+  const done = email => {
+    const box = document.createElement('div');
+    box.className = 'nl-done'; box.setAttribute('role', 'status'); box.tabIndex = -1;
+    box.innerHTML = '<span class="nl-done-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span><div><strong>You’re in! Welcome to The Weekly Scope.</strong><p></p></div>';
+    box.querySelector('p').textContent = 'We’ll send comebacks, PH concert news and ticket alerts to ' + email + '. Your first issue arrives on Friday.';
+    form.querySelector('.nl-row').hidden = true; msg.hidden = true;
+    form.appendChild(box); box.focus({ preventScroll: true });
+  };
   form.addEventListener('submit', async e => {
     e.preventDefault();
     const email = (input.value || '').trim();
@@ -332,8 +361,7 @@
       const res = await fetch('/api/subscribe', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ email, website }) });
       const data = await res.json().catch(() => ({}));
       if (!res.ok) throw new Error(data.error || 'Unable to subscribe right now.');
-      say(data.message || 'You’re on the list.', 'ok');
-      form.reset();
+      form.reset(); done(email);
     } catch (err) {
       say(err.message || 'Something went wrong. Please try again.', 'err');
     } finally { btn.disabled = false; btn.textContent = 'Join free'; }
