@@ -28,7 +28,7 @@
 .bias-ranking{list-style:none;margin:0;padding:0}
 .bias-rank{position:relative;min-width:0}
 .bias-rank::before{content:"#" attr(data-rank);position:absolute;z-index:2;top:10px;left:10px;padding:6px 9px;background:#01229a;color:#fff;font:800 13px/1 var(--f);pointer-events:none}
-.bias-rank:nth-child(-n+3)::before{background:#fe0862}
+.bias-rank.is-top::before{background:#fe0862}
 @media(prefers-reduced-motion:reduce){.bias-btn.pop svg,.bias-total svg{animation:none}.bias-btn,.bias-btn svg{transition:none}}
 @media(max-width:600px){.bias-total{font-size:13px}.bias-btn{font-size:12px;padding:6px 10px 6px 8px}}
 /* Photo + credit badge */
