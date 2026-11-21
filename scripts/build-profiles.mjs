@@ -2,7 +2,10 @@
 import fs from 'node:fs';
 const {items}=JSON.parse(fs.readFileSync('data/profiles.json','utf8'));
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const categories=[['girl-groups','Girl groups','artist'],['boy-groups','Boy groups','artist'],['soloists','Soloists','artist'],['k-actors','K-actors','actor']];
+const categories=[['girl-groups','Girl groups','artist'],['boy-groups','Boy groups','artist'],['co-ed','Co-ed groups','group'],['soloists','Soloists','artist'],['k-actors','K-actors','actor']];
+// The full directory (data/directory/index.json) is rendered by profiles.js; the
+// featured profiles below are the no-JS and search-engine version.
+let total=0;try{total=JSON.parse(fs.readFileSync('data/directory/index.json','utf8')).items.length;}catch{}
 const HEART='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7.5-4.6-9.6-9.2C.9 8.4 3 4.5 6.9 4.5c2.1 0 3.6 1.1 5.1 3 1.5-1.9 3-3 5.1-3 3.9 0 6 3.9 4.5 7.3C19.5 16.4 12 21 12 21z"/></svg>';
 const months=['January','February','March','April','May','June','July','August','September','October','November','December'];
 const longDate=s=>{const [y,m,d]=String(s).split('-').map(Number);return months[m-1]+' '+d+', '+y;};
@@ -36,11 +39,12 @@ const card=(x,id,i)=>`<article class="artist-card" data-artist="${esc(x.name)}" 
 
 const sections=categories.map(([id,label,noun])=>{
  const list=items.filter(x=>x.category===id).sort((a,b)=>a.name.localeCompare(b.name));
+ if(!list.length)return '';
  return `<section class="artist-section" id="${id}" data-artist-section data-noun="${noun}" aria-labelledby="${id}-heading"><div class="artist-section-head"><h2 id="${id}-heading">${label}</h2><span data-section-count>${plural(list.length,noun)}</span></div><div class="profile-grid">${list.map((x,i)=>card(x,id,i)).join('\n')}</div></section>`;
-}).join('\n');
+}).filter(Boolean).join('\n');
 
 const html=`<!-- PROFILE_DIRECTORY_START -->
-<section class="profile-directory" id="kpop-artists" aria-label="K-pop artist and K-actor directory"><div id="profileDirectory"><div class="profile-tools"><div class="profile-filters" role="group" aria-label="Profile category"><button type="button" data-profile-filter="all" aria-pressed="true">All</button>${categories.map(([id,label])=>`<button type="button" data-profile-filter="${id}" aria-pressed="false">${label}</button>`).join('')}<button type="button" data-profile-filter="most-biased" aria-pressed="false" class="bias-filter">♥ Most biased</button></div><label class="profile-search" for="profileSearch">Search<input id="profileSearch" type="search" placeholder="Find an artist, group or actor" autocomplete="off"></label></div><p class="bias-total">${HEART}<span id="biasTotal">Counting fan hearts…</span></p><p class="profile-summary" id="profileResults" role="status" aria-live="polite">${items.length} profiles. Select a photo to enlarge it.</p>${sections}<p id="profileEmpty" class="profile-no-results" hidden>No profiles found. Try another name or category.</p></div></section><dialog id="profilePhotoDialog" class="profile-lightbox" aria-label="Profile photo"><button type="button" class="profile-lightbox-close">Close photo</button><figure><img alt=""><figcaption></figcaption></figure></dialog>
+<section class="profile-directory" id="kpop-artists" aria-label="K-pop artist and K-actor directory"><div id="profileDirectory"><div class="profile-tools"><div class="profile-filters" role="group" aria-label="Profile category"><button type="button" data-profile-filter="all" aria-pressed="true">All</button>${categories.map(([id,label])=>`<button type="button" data-profile-filter="${id}" aria-pressed="false">${label}</button>`).join('')}<button type="button" data-profile-filter="most-biased" aria-pressed="false" class="bias-filter">♥ Most biased</button></div><div class="profile-tools-right"><label class="profile-search" for="profileSearch">Search<input id="profileSearch" type="search" placeholder="Find any group, idol or actor" autocomplete="off"></label><label class="profile-disbanded"><input type="checkbox" id="profileDisbanded" checked> Show disbanded</label></div></div><p class="bias-total">${HEART}<span id="biasTotal">Counting fan hearts…</span></p><p class="profile-summary" id="profileResults" role="status" aria-live="polite">${(total||items.length).toLocaleString('en-US')} profiles. Select a photo to enlarge it.</p>${sections}<p id="profileEmpty" class="profile-no-results" hidden>No profiles found. Try another name or category.</p></div></section><dialog id="profilePhotoDialog" class="profile-lightbox" aria-label="Profile photo"><button type="button" class="profile-lightbox-close">Close photo</button><figure><img alt=""><figcaption></figcaption></figure></dialog>
 <!-- PROFILE_DIRECTORY_END -->`;
 let page=fs.readFileSync('profiles.html','utf8');
 if(page.includes('<!-- PROFILE_DIRECTORY_START -->')) page=page.replace(/<!-- PROFILE_DIRECTORY_START -->[\s\S]*?<!-- PROFILE_DIRECTORY_END -->/,html);
