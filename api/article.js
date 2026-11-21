@@ -111,7 +111,7 @@ function shell({ title, description, canonical, image }) {
     <div class="foot-bottom"><span>© 2026 HallyuScope · <a href="/about">About</a> · <a href="/privacy">Privacy policy</a></span><span>Independent fan publication. Not affiliated with any entertainment agency.</span></div>
   </div>
 </footer>
-<script src="/article.js?v=20261120b" defer></script>
+<script src="/article.js?v=20261121" defer></script>
 </body>
 </html>`;
 }
