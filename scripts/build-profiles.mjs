@@ -12,17 +12,24 @@ const plural=(n,noun)=>n+' '+noun+(n===1?'':'s');
 const credit=x=>`<span class="photo-credit" tabindex="0" role="button" aria-label="Photo credit for ${esc(x.name)}" aria-describedby="credit-${esc(x.id)}" data-photo-credit><span aria-hidden="true">!</span><span class="photo-credit-tip" role="tooltip" id="credit-${esc(x.id)}"><b>Photo</b> ${esc(x.photographer)}<br><a href="${esc(x.sourceUrl)}" target="_blank" rel="noopener">Wikimedia Commons</a> · <a href="${esc(x.licenseUrl||x.sourceUrl)}" target="_blank" rel="noopener">${esc(x.license)}</a>${x.imageNote?`<br><small>${esc(x.imageNote)}</small>`:''}</span></span>`;
 
 // The dropdown carries short, sourced facts about the artist or actor.
+const shortDate=s=>{const [y,m,d]=String(s).split('-').map(Number);return months[m-1].slice(0,3)+' '+d+', '+y;};
 function about(x){
  const d=x.details||{};const rows=[];
  if(d.koreanName&&d.koreanName!==x.name)rows.push(['Korean name',d.koreanName]);
+ if(d.birthName)rows.push(['Birth name',d.birthName]);
  if(d.born)rows.push(['Born',longDate(d.born)]);
- if(d.debutYear)rows.push([x.category==='k-actors'?'Acting debut':'Debut',d.debutYear]);
+ if(d.debutDate)rows.push([x.category==='k-actors'?'Acting debut':'Debut',longDate(d.debutDate)]);
+ else if(d.debutYear)rows.push([x.category==='k-actors'?'Acting debut':'Debut',d.debutYear]);
  if(d.group)rows.push(['Group',d.group]);
- if(d.members?.length)rows.push([plural(d.members.length,'member'),d.members.join(', ')]);
+ if(d.height)rows.push(['Height',d.height]);
+ if(d.fandom)rows.push(['Fandom',d.fandom]);
  if(d.agency)rows.push(['Agency',d.agency]);
  if(d.labels?.length)rows.push(['Labels',d.labels.join(', ')]);
- if(!rows.length&&!d.wikipedia)return '';
- return `<details class="profile-about"><summary>About ${esc(x.name)}</summary><dl>${rows.map(([k,v])=>`<div><dt>${esc(k)}</dt><dd>${esc(v)}</dd></div>`).join('')}</dl>${d.wikipedia?`<a class="profile-more" href="${esc(d.wikipedia)}" target="_blank" rel="noopener">Read more on Wikipedia ↗</a>`:''}</details>`;
+ const mp=d.memberProfiles?.length?d.memberProfiles:(d.members||[]).map(name=>({name}));
+ const members=mp.length?`<div class="profile-members"><h4>${esc(plural(mp.length,'member'))}</h4><ul>${mp.map(m=>`<li><b>${esc(m.name)}</b>${m.positions||m.born?`<span>${[m.positions,m.born&&shortDate(m.born)].filter(Boolean).map(esc).join(' · ')}</span>`:''}${m.birthName?`<small>${esc(m.birthName)}</small>`:''}</li>`).join('')}</ul></div>`:'';
+ if(!rows.length&&!members&&!d.wikipedia)return '';
+ const links=[d.kprofiles&&`<a class="profile-more" href="${esc(d.kprofiles)}" target="_blank" rel="noopener">Full profile on Kprofiles ↗</a>`,d.wikipedia&&`<a class="profile-more" href="${esc(d.wikipedia)}" target="_blank" rel="noopener">Wikipedia ↗</a>`].filter(Boolean).join('');
+ return `<details class="profile-about"><summary>About ${esc(x.name)}</summary><dl>${rows.map(([k,v])=>`<div><dt>${esc(k)}</dt><dd>${esc(v)}</dd></div>`).join('')}</dl>${members}${links?`<p class="profile-links">${links}</p>`:''}</details>`;
 }
 
 const card=(x,id,i)=>`<article class="artist-card" data-artist="${esc(x.name)}" data-category="${id}"><div class="profile-media"><button type="button" class="profile-photo" data-enlarge-profile aria-label="Enlarge ${esc(x.name)} photo"><img src="${esc(x.imageUrl)}" alt="${esc(x.name)}" width="${x.width}" height="${x.height}" loading="${id==='girl-groups'&&i<4?'eager':'lazy'}" decoding="async"></button>${credit(x)}</div><h3>${esc(x.name)}</h3>${about(x)}</article>`;
