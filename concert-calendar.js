@@ -52,10 +52,10 @@
       ? '<a class="concert-show-ticket" href="' + esc(e.ticketUrl) + '" target="_blank" rel="noopener"><span>Get tickets</span><span>↗</span></a>'
       : '<span class="concert-show-ticket is-disabled"><span>'+esc(/cancelled|canceled|postponed/i.test(e.status||'')?e.status:'Tickets soon')+'</span><span>—</span></span>';
     return '<div class="concert-show-card">' +
-      '<a class="concert-show-poster-link" href="/concert/' + esc(e.id) + '" aria-label="' + esc((e.artist || '') + ' — ' + (e.tour || '')) + '">' + posterHtml(e) + '</a>' +
+      '<a class="concert-show-poster-link" href="/concert/' + esc(e.id) + '" tabindex="-1" aria-hidden="true" aria-label="' + esc((e.artist || '') + ' — ' + (e.tour || '')) + '">' + posterHtml(e) + '</a>' +
       '<div class="concert-show-info">' +
       '<div class="concert-show-date">' + esc(day) + '<small>' + esc(mon) + '</small></div>' +
-      '<h3><a href="/concert/' + esc(e.id) + '">' + esc(e.artist || e.title || 'Concert') + '</a></h3>' +
+      '<h3><a class="concert-show-link" href="/concert/' + esc(e.id) + '">' + esc(e.artist || e.title || 'Concert') + '</a></h3>' +
       '<p class="concert-show-tour">' + esc(e.tour || '') + '</p>' +
       '<p class="concert-show-venue">' + esc([e.venue, e.city].filter(Boolean).join(' · ')) + '</p>' +
       '<p class="concert-show-price">' + esc(e.ticketRange || 'TBA') + ' · ' + esc(e.status || '') + '</p>' +
@@ -68,6 +68,12 @@
     const today=new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Manila'}).format(new Date());
     const sorted = [...events].filter(e=>e.date>=today).sort((a, b) => String(a.date).localeCompare(String(b.date)));
     if (countEl) countEl.textContent = events.length + ' shows';
+    // Event list as structured data, so search engines can read every show.
+    try{
+      let ld=document.getElementById('concertListLd');
+      if(!ld){ld=document.createElement('script');ld.type='application/ld+json';ld.id='concertListLd';document.head.appendChild(ld);}
+      ld.textContent=JSON.stringify({'@context':'https://schema.org','@type':'ItemList',name:'K-pop concerts in the Philippines',itemListElement:sorted.map((e,i)=>({'@type':'ListItem',position:i+1,url:'https://hallyuscope.com/concert/'+e.id,name:(e.artist||'Concert')+(e.tour?' — '+e.tour:'')}))}).replace(/</g,'\\u003c');
+    }catch{}
     grid.innerHTML = sorted.length
       ? sorted.map(showCardHtml).join('')
       : '<p class="concert-empty">No verified Philippine concerts have been added yet.</p>';
