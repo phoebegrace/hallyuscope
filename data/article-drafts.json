@@ -1,8 +1,130 @@
 {
-  "updatedAt": "2026-11-21T11:14:59.186Z",
+  "updatedAt": "2026-11-21T18:04:32.951Z",
   "autoPublish": true,
   "note": "Auto-publish is ON. Newly generated HallyuScope articles publish immediately.",
   "items": [
+    {
+      "id": "0975da50d0cf",
+      "createdAt": "2026-11-21T18:04:18.869Z",
+      "status": "published",
+      "publishedAt": "2026-11-21T18:04:18.869Z",
+      "sourcePublishedAt": "2026-11-21T12:51:17.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "bigbang-ive-and-nayeon-perform-at-2026-mama-awards-chapter-2",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: Performances From 2026 MAMA AWARDS &#8211; CHAPTER 2",
+        "url": "https://www.soompi.com/article/1889393wpp/watch-performances-from-2026-mama-awards-chapter-2"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1889393wpp/watch-performances-from-2026-mama-awards-chapter-2",
+          "chars": 1829,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-21T18:04:18.868Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/0975da50d0cf.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/21214852/mama-2026.png",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "TRENDING",
+      "headline": "BIGBANG, IVE and Nayeon Perform at 2026 MAMA Awards Chapter 2",
+      "dek": "The November 21 show featured solo sets, group performances and collaborations involving Panic, izna, KiiiKiii and members of I.O.I.",
+      "body": [
+        "BIGBANG, IVE and Nayeon were among the artists who took the stage for Chapter 2 of the 2026 MAMA Awards on November 21. Soompi shared videos of performances from the show, which also featured ENHYPEN, LE SSERAFIM, ZEROBASEONE, WOODZ and Hwasa.",
+        "BIGBANG performed a set that included \"TIME COSMOS MEDLEY,\" \"GiiiRIP\" and \"BiiiG.\" Taeyang also took the stage with \"BAD\" and \"LIVE FAST DIE SLOW.\"",
+        "Nayeon's performance brought together \"POP!,\" \"BABY ANGEL\" and \"ABCD,\" while IVE performed \"SNAKESKIN,\" \"BLACKHOLE\" and \"BANG BANG.\" LE SSERAFIM presented \"Saki\" and \"SPAGHETTI,\" and ENHYPEN performed \"PARADISE X DUNE.\"",
+        "The show also featured several collaborations. izna and KiiiKiii performed a set of \"Bad Girl Good Girl,\" \"The Boys\" and \"La Vie en Rose,\" as well as \"404 (New Era)\" and \"METRONOME.\" The two groups were joined by I.O.I members Lim Nayoung, Choi Yoojung and Jeon Somi for \"Suddenly.\"",
+        "Panic performed \"The sea in my worn drawer\" with ZEROBASEONE's Kim Tae Rae, ALLDAY PROJECT's Woochan, Hearts2Hearts' Yuha and WOODZ. Panic also joined CORTIS members Martin and Seonghyeon for \"Left-Handed.\"",
+        "Other performances included Hwasa's \"So Cute\" and \"Good Goodbye,\" CORTIS' \"REDRED\" and \"TNT,\" and a ZEROBASEONE set featuring \"RUN (with Dynamicduo).\""
+      ],
+      "socialCaption": "BIGBANG, Nayeon and more took the stage at the 2026 MAMA Awards. Read on HallyuScope for the performance highlights.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#MAMAAWARDS",
+        "#BIGBANG",
+        "#IVE",
+        "#Nayeon"
+      ],
+      "seoDescription": "BIGBANG, IVE and Nayeon performed at the 2026 MAMA Awards Chapter 2, alongside collaborations featuring Panic, izna, KiiiKiii and I.O.I members.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "c02314c8b0c7",
+      "createdAt": "2026-11-21T18:04:31.848Z",
+      "status": "published",
+      "publishedAt": "2026-11-21T18:04:31.848Z",
+      "sourcePublishedAt": "2026-11-21T12:30:32.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "bts-cortis-and-bigbang-win-major-honors-at-2026-mama-awards-chapter-2",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Winners of 2026 MAMA AWARDS &#8211; CHAPTER 2",
+        "url": "https://www.soompi.com/article/1889392wpp/winners-of-2026-mama-awards-chapter-2"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1889392wpp/winners-of-2026-mama-awards-chapter-2",
+          "chars": 1834,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/609/0001189951",
+          "chars": 2927,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-21T18:04:31.848Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/c02314c8b0c7.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/21212214/mama-2026-1.png",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "TRENDING",
+      "headline": "BTS, CORTIS and BIGBANG win major honors at 2026 MAMA Awards Chapter 2",
+      "dek": "BTS took Album of the Year for “ARIRANG,” while CORTIS won Song of the Year for “REDRED” at the ceremony’s second night.",
+      "body": [
+        "BTS, CORTIS and BIGBANG were among the winners as the 2026 MAMA Awards wrapped up at Kyocera Dome Osaka on November 21.",
+        "BTS received Album of the Year for “ARIRANG,” while CORTIS claimed Song of the Year for “REDRED.” BIGBANG was named Music Visionary of the Year and also won Best Music Video for “BiiiG,” according to Soompi’s Chapter 2 winners report.",
+        "Across the two-day ceremony, BTS also won Artist of the Year and Best Male Group, bringing its total to five awards. The group did not attend because of its tour schedule, Newsen reported. ENHYPEN received the other grand prize, Fans’ Choice of the Year, on the first night.",
+        "CORTIS picked up four awards over the event, including Best Dance Performance Male Group for “REDRED.” ILLIT won Best Dance Performance Female Group for “It’s Me,” and LE SSERAFIM took Best Collaboration for “SPAGHETTI,” featuring BTS member j-hope.",
+        "The Best Song Top 10 selections included “REDRED,” “It’s Me” and “SPAGHETTI,” as well as tracks by aespa, BTS, IVE, I.O.I, Hearts2Hearts, NMIXX and Hwasa.",
+        "Hwasa also won Best Vocal Performance Solo for “Good Goodbye.” Taeyang and Yena took the male and female solo dance performance awards, respectively, while ATEEZ won Best Choreography for “BAD.” AKMU received Best Vocal Performance Group, JANNABI won Best Band Performance, and ZEROBASEONE was named Favorite Dance & Vocal Performance Group."
+      ],
+      "socialCaption": "BTS, CORTIS and BIGBANG picked up major honors on the second night of the 2026 MAMA Awards. Read on HallyuScope for more winners.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#MAMAAWARDS",
+        "#BTS",
+        "#CORTIS",
+        "#BIGBANG"
+      ],
+      "seoDescription": "BTS, CORTIS and BIGBANG took major honors at the 2026 MAMA Awards. See the Chapter 2 highlights and more winners from the two-day event.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "aef7d3eedf7c",
       "createdAt": "2026-11-21T11:14:58.027Z",
