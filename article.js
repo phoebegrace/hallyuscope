@@ -47,9 +47,9 @@
       const imageUrl = usableImage(item.socialImageUrl) ? item.socialImageUrl
         : usableImage(item.imageUrl) ? new URL(item.imageUrl, 'https://hallyuscope.com').href
         : 'https://hallyuscope.com/assets/og-image.png';
-      // The editorial cover shows on the article page itself. SVGs render
-      // fine in an <img>, so any cover format works here.
-      const coverHtml = (typeof item.imageUrl === 'string' && /^https?:\/\//.test(item.imageUrl) && !/undefined/.test(item.imageUrl))
+      // Only a real photo added to the story shows as the cover. The generated
+      // SVG editorial graphic is left out: no image is better than a filler.
+      const coverHtml = (typeof item.imageUrl === 'string' && /^https?:\/\//.test(item.imageUrl) && !/undefined/.test(item.imageUrl) && !/\.svg(\?|$)/i.test(item.imageUrl))
         ? `<figure class="article-cover"><img src="${esc(item.imageUrl)}" alt="${esc(item.headline || 'HallyuScope story')}"></figure>`
         : '';
 
