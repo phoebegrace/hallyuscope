@@ -1,8 +1,125 @@
 {
-  "updatedAt": "2026-11-22T15:25:01.227Z",
+  "updatedAt": "2026-11-22T21:51:47.608Z",
   "autoPublish": true,
   "note": "Auto-publish is ON. Newly generated HallyuScope articles publish immediately.",
   "items": [
+    {
+      "id": "5ab9aaf2afce",
+      "createdAt": "2026-11-22T21:51:38.216Z",
+      "status": "published",
+      "publishedAt": "2026-11-22T21:51:38.216Z",
+      "sourcePublishedAt": "2026-11-22T17:33:09.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "p1harmony-s-blow-up-debuts-at-no-1-on-billboard-world-albums-chart",
+      "source": {
+        "publisher": "Soompi",
+        "title": "P1Harmony, ILLIT, Stray Kids, xikers, CORTIS, ENHYPEN, IVE, BTS, K/DA, And More Sweep Top Spots On Billboard World Albums Chart",
+        "url": "https://www.soompi.com/article/1889555wpp/p1harmony-illit-stray-kids-xikers-cortis-enhypen-ive-bts-k-da-and-more-sweep-top-spots-on-billboard-world-albums-chart"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1889555wpp/p1harmony-illit-stray-kids-xikers-cortis-enhypen-ive-bts-k-da-and-more-sweep-top-spots-on-billboard-world-albums-chart",
+          "chars": 2138,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "The release also became the group’s first album to spend more than one week on the Billboard 200."
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-22T21:51:38.213Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/5ab9aaf2afce.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/23022521/P1Harmony-ILLIT-Stray-Kids-xikers.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "P1Harmony’s BLOW UP Debuts at No. 1 on Billboard World Albums Chart",
+      "dek": "The mini album also topped Top Album Sales as ILLIT, Stray Kids and CORTIS placed in the World Albums top five.",
+      "body": [
+        "P1Harmony has opened at No. 1 on Billboard’s World Albums chart with its new mini album “BLOW UP,” leading a chart that also features multiple releases from Stray Kids, BTS and CORTIS.",
+        "On the chart for the week ending November 21, “BLOW UP” also became P1Harmony’s first No. 1 on Top Album Sales. It debuted at No. 4 on the Billboard 200, matching the group’s highest position on that chart.",
+        "ILLIT’s “BREAK EVEN” held at No. 2 on World Albums in its third week. The release also became the group’s first album to spend more than one week on the Billboard 200.",
+        "Stray Kids placed four albums on World Albums, led by “THIS & THAT” at No. 3 in its 14th week. “KARMA” stayed at No. 7, while “DO IT” rose to No. 15 and “ATE” climbed to No. 21.",
+        "CORTIS’s “GREENGREEN” remained at No. 4, with ENHYPEN’s “THE SIN : BLISS” holding at No. 5. xikers’ new mini album “ROUTE ZERO : The CALLING” debuted at No. 6, and IVE’s “Looks Can Kill” ranked No. 8.",
+        "BTS returned to the chart with “Proof” at No. 10, alongside “Map of the Soul: 7 ~The Journey~” at No. 12 and “Love Yourself: Answer” at No. 17. CORTIS also had a second entry, “COLOR OUTSIDE THE LINES,” at No. 23."
+      ],
+      "socialCaption": "P1Harmony leads Billboard’s World Albums chart with BLOW UP. Read the full chart roundup on HallyuScope.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#P1Harmony",
+        "#ILLIT",
+        "#StrayKids",
+        "#BillboardWorldAlbums"
+      ],
+      "seoDescription": "P1Harmony’s BLOW UP debuts at No. 1 on Billboard’s World Albums chart, while ILLIT, Stray Kids, CORTIS and ENHYPEN round out the top five.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "c38c63ed247c",
+      "createdAt": "2026-11-22T21:51:46.223Z",
+      "status": "published",
+      "publishedAt": "2026-11-22T21:51:46.223Z",
+      "sourcePublishedAt": "2026-11-22T15:47:23.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "iu-announces-first-dates-for-2027-world-tour",
+      "source": {
+        "publisher": "Soompi",
+        "title": "IU Announces Dates And Cities For 2027 World Tour",
+        "url": "https://www.soompi.com/article/1889538wpp/iu-announces-dates-and-cities-for-2027-world-tour"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1889538wpp/iu-announces-dates-and-cities-for-2027-world-tour",
+          "chars": 833,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-22T21:51:46.223Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/c38c63ed247c.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/23004619/IU.jpeg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "CONCERT NEWS",
+      "headline": "IU Announces First Dates for 2027 World Tour",
+      "dek": "The singer will begin the tour in Bangkok in January, with nine more stops announced through May and additional dates to come.",
+      "body": [
+        "IU has announced the first dates for her 2027 world tour, starting with two concerts in Bangkok on January 16 and 17. The initial schedule runs through May and includes stops across Asia and Australia.",
+        "According to Soompi, the tour was officially announced at midnight KST on November 23. More cities and dates will be revealed for fans outside the first group of stops.",
+        "After Bangkok, IU will head to Bulacan on January 30 and 31, followed by Kaohsiung on February 13 and 14. She will then perform in Sydney on February 27.",
+        "The March schedule includes two nights in Singapore on March 6 and 7 and two in Kuala Lumpur on March 27 and 28. In April, IU will visit Tokyo on April 7 and 8, Taipei on April 17 and 18, and Hong Kong on April 24 and 25.",
+        "The final stop on the initial schedule is Jakarta, where she is set to perform on May 8 and 9."
+      ],
+      "socialCaption": "IU's 2027 world tour starts in Bangkok. Read on HallyuScope for the first cities and dates.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#IU",
+        "#IUWorldTour",
+        "#IUTour2027",
+        "#IUConcert"
+      ],
+      "seoDescription": "IU announces the first dates of her 2027 world tour, starting in Bangkok and continuing through Asia and Australia. More stops will be revealed.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "c834255e59d4",
       "createdAt": "2026-11-22T15:25:00.139Z",
