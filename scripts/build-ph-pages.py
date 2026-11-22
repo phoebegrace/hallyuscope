@@ -19,6 +19,7 @@ def page(path, title, desc, kr, h1, sub, body, script):
     s = s.replace('K-pop fan guides for the Philippines — ticketing, concerts, merch and more from HallyuScope.', desc)
     s = s.replace('https://hallyuscope.com/features"', f'https://hallyuscope.com/{path}"')
     s = s.replace('<a href="/features" aria-current="page">', '<a href="/features">')
+    s = s.replace('<div class="nav-has-sub"><a href="/concerts">Concerts</a>', '<div class="nav-has-sub"><a href="/concerts" aria-current="page">Concerts</a>')
     s = s.replace('</body>', f'<link rel="stylesheet" href="/ph.css?v=20261122">\n<script>{script}</script>\n</body>')
     open(path + '.html', 'w').write(s)
 
