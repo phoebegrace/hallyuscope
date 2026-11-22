@@ -33,6 +33,8 @@ const STATIC_PAGES = [
   { loc: '/comebacks', changefreq: 'daily', priority: '0.8' },
   { loc: '/albums', changefreq: 'daily', priority: '0.8' },
   { loc: '/features', changefreq: 'weekly', priority: '0.6' },
+  { loc: '/tickets', changefreq: 'daily', priority: '0.8' },
+  { loc: '/venues', changefreq: 'monthly', priority: '0.6' },
   { loc: '/profiles', changefreq: 'weekly', priority: '0.6' },
   { loc: '/about', changefreq: 'monthly', priority: '0.3' },
   { loc: '/privacy', changefreq: 'yearly', priority: '0.2' },
