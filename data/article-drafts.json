@@ -1,8 +1,66 @@
 {
-  "updatedAt": "2026-11-22T06:58:46.060Z",
+  "updatedAt": "2026-11-22T15:25:01.227Z",
   "autoPublish": true,
   "note": "Auto-publish is ON. Newly generated HallyuScope articles publish immediately.",
   "items": [
+    {
+      "id": "c834255e59d4",
+      "createdAt": "2026-11-22T15:25:00.139Z",
+      "status": "published",
+      "publishedAt": "2026-11-22T15:25:00.139Z",
+      "sourcePublishedAt": "2026-11-22T07:30:34.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "team-earns-circle-million-certification-as-stray-kids-and-close-your-eyes-go-double-platin",
+      "source": {
+        "publisher": "Soompi",
+        "title": "&#038;TEAM, Stray Kids, BOYNEXTDOOR, CLOSE YOUR EYES, LE SSERAFIM, CORTIS, EVAN, And More Earn Circle Million And Platinum Certifications",
+        "url": "https://www.soompi.com/article/1889509wpp/team-stray-kids-boynextdoor-close-your-eyes-le-sserafim-cortis-evan-and-more-earn-circle-million-and-platinum-certifications"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1889509wpp/team-stray-kids-boynextdoor-close-your-eyes-le-sserafim-cortis-evan-and-more-earn-circle-million-and-platinum-certifications",
+          "chars": 1438,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-22T15:25:00.137Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/c834255e59d4.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/22161803/TEAM-Stray-Kids-BOYNEXTDOOR-CLOSE-YOUR-EYES.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "&TEAM earns Circle million certification as Stray Kids and CLOSE YOUR EYES go double platinum",
+      "dek": "Circle Chart's latest certifications recognize albums by BOYNEXTDOOR, LE SSERAFIM and others, as well as a streaming milestone for Roy Kim.",
+      "body": [
+        "&TEAM's Korean mini album \"Mark on Me\" has earned a million certification from Circle Chart after selling more than 1 million copies, Soompi reported.",
+        "Stray Kids and CLOSE YOUR EYES also reached major sales milestones. The FANS version of Stray Kids' \"THIS & THAT\" and the EVER version of CLOSE YOUR EYES' \"256th Note\" each received double platinum certification, recognizing sales of more than 500,000 copies apiece.",
+        "BOYNEXTDOOR picked up two platinum certifications for \"HOME: DELUXE.\" Both the regular and Weverse versions of the repackaged album sold more than 250,000 copies each.",
+        "The latest platinum album recipients also include CRAVITY's \"sonorous,\" LE SSERAFIM's \"Made My Night,\" CORTIS' \"GREENGREEN_playextended,\" EVAN (Heeseung)'s \"DEATH OF ME\" and Young Tak's \"GOGO.\"",
+        "Roy Kim joined the latest list in the streaming category. His 2024 song \"If You Ask Me What Love Is\" was certified platinum after surpassing 100 million streams.",
+        "The Korea Music Content Industry Association introduced the certification system in 2018 for album sales, downloads and streaming. Under the system, albums released from January 1, 2018 are eligible for platinum certification at 250,000 sales and million certification at 1 million sales."
+      ],
+      "socialCaption": "&TEAM, Stray Kids and more have earned new Circle certifications. Read on HallyuScope for the full list of milestones.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#andTEAM",
+        "#StrayKids",
+        "#BOYNEXTDOOR",
+        "#CircleChart"
+      ],
+      "seoDescription": "&TEAM earns a Circle million certification, while Stray Kids, CLOSE YOUR EYES, BOYNEXTDOOR and more receive new platinum awards.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "faf3f827fd3a",
       "createdAt": "2026-11-22T06:58:13.004Z",
