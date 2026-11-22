@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T04:02:06.549Z",
+  "updatedAt": "2026-11-22T10:39:49.075Z",
   "note": "Upcoming Philippine K-pop events seeded only from currently verified official ticketing or venue sources. ticketUrl must remain an official promoter, venue, or ticketing destination.",
   "items": [
     {
@@ -205,7 +205,7 @@
       "venue": "SM Seaside Cebu Arena",
       "city": "Cebu City",
       "type": "Concert",
-      "status": "Announced",
+      "status": "On Sale",
       "ticketRange": "₱4,000–₱21,000",
       "promoter": "Live Nation Philippines",
       "ticketProvider": "Ticketmaster Philippines",
