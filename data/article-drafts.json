@@ -1,8 +1,252 @@
 {
-  "updatedAt": "2026-11-21T23:24:34.780Z",
+  "updatedAt": "2026-11-22T06:58:46.060Z",
   "autoPublish": true,
   "note": "Auto-publish is ON. Newly generated HallyuScope articles publish immediately.",
   "items": [
+    {
+      "id": "faf3f827fd3a",
+      "createdAt": "2026-11-22T06:58:13.004Z",
+      "status": "published",
+      "publishedAt": "2026-11-22T06:58:13.004Z",
+      "sourcePublishedAt": "2026-11-22T06:42:39.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "stray-kids-hyunjin-named-dior-fashion-and-beauty-ambassador-2",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Dior Names Stray Kids’ Hyunjin Its New Ambassador",
+        "url": "https://www.soompi.com/article/1889199wpp/stray-kids-hyunjin-announced-as-new-ambassador-for-dior"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1889199wpp/stray-kids-hyunjin-announced-as-new-ambassador-for-dior",
+          "chars": 993,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/home/article/144/0001150928",
+          "chars": 509,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [
+          "Dior noted Hyunjin's performances and stage presence as part of his growing global profile."
+        ],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-22T06:58:13.003Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/faf3f827fd3a.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Stray Kids' Hyunjin named Dior fashion and beauty ambassador",
+      "dek": "The Stray Kids member will work with the French luxury house across its fashion collections and beauty divisions.",
+      "body": [
+        "Stray Kids' Hyunjin has joined Dior as an ambassador for both fashion and beauty, the French luxury house announced on November 20.",
+        "The appointment brings the K-pop artist into a role spanning Dior's fashion collections and beauty divisions. Soompi reported that Hyunjin plans to take part in a variety of activities with the house.",
+        "Dior highlighted Hyunjin's distinctive sensibility and charisma in announcing the partnership. The house also connected his appeal with the work of its creative leaders, including Jonathan Anderson, who is overseeing a new direction for Dior.",
+        "The beauty side of the appointment brings together the visions of Peter Philips, creative and image director for Dior Makeup, and Francis Kurkdjian, creative director of Parfums Christian Dior.",
+        "Hyunjin's appointment comes as Stray Kids continue their world tour. The group member is known for his performances and stage presence, which Dior noted as part of his growing global profile."
+      ],
+      "socialCaption": "Hyunjin is joining Dior as a fashion and beauty ambassador. Read on HallyuScope for the details of his new role.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#Hyunjin",
+        "#StrayKids",
+        "#Dior",
+        "#DiorBeauty"
+      ],
+      "seoDescription": "Stray Kids' Hyunjin has been named a Dior ambassador for fashion and beauty, joining the French luxury house as the group continues its world tour.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "2188aaf31417",
+      "createdAt": "2026-11-22T06:58:23.599Z",
+      "status": "published",
+      "publishedAt": "2026-11-22T06:58:23.599Z",
+      "sourcePublishedAt": "2026-11-22T04:20:18.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "mnet-s-girls-planet-returns-with-korea-and-english-centered-groups",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: &#8220;GIRLS PLANET : UNIVERSAL LEAGUE&#8221; Announces New Format With Teaser For Season 2",
+        "url": "https://www.soompi.com/article/1889477wpp/watch-girls-planet-universal-league-announces-new-format-with-teaser-for-season-2"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1889477wpp/watch-girls-planet-universal-league-announces-new-format-with-teaser-for-season-2",
+          "chars": 1143,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "the K Group, centered around Korea, and the E Group, centered around the English-speaking world"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-22T06:58:23.599Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/2188aaf31417.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/22131644/Girls-Planet-Universal-League.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "Mnet's Girls Planet Returns With Korea and English-Centered Groups",
+      "dek": "A new teaser for Girls Planet : Universal League introduces a two-group format ahead of the audition show's 2027 premiere.",
+      "body": [
+        "Mnet is bringing Girls Planet back with a new competition format. The upcoming second season, titled Girls Planet : Universal League, will divide contestants into two groups centered on Korea and the English-speaking world.",
+        "The first teaser aired on November 21 during Chapter 2 of the 2026 MAMA AWARDS. In the video, ZEROBASEONE member Sung Han Bin introduces the K Group, centered around Korea, and the E Group, centered around the English-speaking world, Soompi reported.",
+        "Applications for the audition show are open until December 14 KST. Girls Planet : Universal League is scheduled to premiere in 2027.",
+        "The new season continues Mnet's PLANET audition series, which began in 2021 with Girls Planet 999. That show formed the girl group Kep1er.",
+        "The franchise also includes BOYS PLANET, which formed ZEROBASEONE, and BOYS II PLANET, which formed ALPHA DRIVE ONE. Sung Han Bin, who introduces the new grouping system in the Girls Planet teaser, is a member of ZEROBASEONE."
+      ],
+      "socialCaption": "Girls Planet is returning with a new two-group format. Read on HallyuScope for the teaser details and application deadline.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#GirlsPlanetUniversalLeague",
+        "#GirlsPlanet",
+        "#SungHanBin",
+        "#ZEROBASEONE"
+      ],
+      "seoDescription": "Mnet's Girls Planet : Universal League will split contestants into Korea and English-centered groups. Applications are open ahead of its 2027 premiere.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "93968a9904ad",
+      "createdAt": "2026-11-22T06:58:33.907Z",
+      "status": "published",
+      "publishedAt": "2026-11-22T06:58:33.907Z",
+      "sourcePublishedAt": "2026-11-22T01:17:45.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "nct-dream-earns-third-win-for-boogie-woogie-on-music-core",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: NCT DREAM Takes 3rd Win For &#8220;Boogie Woogie&#8221; On &#8220;Music Core&#8221;; Performances By ITZY&#8217;s Chaeryeong, A2O SOUL, And More",
+        "url": "https://www.soompi.com/article/1889463wpp/watch-nct-dream-takes-3rd-win-for-boogie-woogie-on-music-core-performances-by-itzys-chaeryeong-a2o-soul-and-more"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1889463wpp/watch-nct-dream-takes-3rd-win-for-boogie-woogie-on-music-core-performances-by-itzys-chaeryeong-a2o-soul-and-more",
+          "chars": 831,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "NCT DREAM has picked up its third music show trophy for “Boogie Woogie”"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-22T06:58:33.906Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/93968a9904ad.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/22100859/NCT-DREAM-2.jpeg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "TRENDING",
+      "headline": "NCT DREAM Earns Third Win for 'Boogie Woogie' on Music Core",
+      "dek": "The group took first place with 7,254 points on the November 21 episode of the MBC music show.",
+      "body": [
+        "NCT DREAM has picked up its third music show trophy for “Boogie Woogie,” winning first place on MBC’s “Music Core.”",
+        "On the November 21 episode, “Boogie Woogie” competed against RESCENE’s “With” and A2O LITE’s “NEON” for the top spot. NCT DREAM finished first with 7,254 points, Soompi reported.",
+        "The episode also featured performances by ITZY’s Chaeryeong, A2O SOUL, xikers, H1-KEY, AMPERS&ONE, UNCHILD, KEYVITUP, Keyveatz, Baby DONT Cry and Yoon Seobin.",
+        "Jeon Yu Jin, FISTBUMP, CODE ZiGU, The Wildcard Club, ADAP and AIMERS were also on the lineup. Kogyeol and Dohyun performed “The Sound of Sugar Cubes.”",
+        "Soompi shared clips of NCT DREAM’s performance and win, along with the group’s full unaired encore."
+      ],
+      "socialCaption": "NCT DREAM has a third trophy for “Boogie Woogie.” Read on HallyuScope for the Music Core results and performance lineup.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#NCTDREAM",
+        "#BoogieWoogie",
+        "#MusicCore",
+        "#Chaeryeong"
+      ],
+      "seoDescription": "NCT DREAM earns its third music show win for Boogie Woogie on Music Core, topping a field that included RESCENE and A2O LITE with 7,254 points.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "ce172812a8d4",
+      "createdAt": "2026-11-22T06:58:44.559Z",
+      "status": "published",
+      "publishedAt": "2026-11-22T06:58:44.559Z",
+      "sourcePublishedAt": "2026-11-21T23:45:00.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "six-k-dramas-where-female-doctors-lead-the-story",
+      "source": {
+        "publisher": "Soompi",
+        "title": "11 K-Dramas With Badass Female Doctors",
+        "url": "https://www.soompi.com/article/1882149wpp/11-k-dramas-with-badass-female-doctors"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1882149wpp/11-k-dramas-with-badass-female-doctors",
+          "chars": 9507,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "a cardiothoracic surgeon who struggles with anxiety in the operating room"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-22T06:58:44.559Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/ce172812a8d4.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/10/20093914/Doctor-X-Dr.-Romantic.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "K-DRAMA NEWS",
+      "headline": "Six K-Dramas Where Female Doctors Lead the Story",
+      "dek": "From tense surgical thrillers to stories of career reinvention, these dramas put women in medicine at the center.",
+      "body": [
+        "K-drama doctors face more than emergencies in the operating room. In a selection highlighted by Soompi, female physicians also confront hospital politics, career setbacks and difficult relationships.",
+        "In \"Doctor X,\" Kim Ji Won plays Gye Soo Jung, a gifted surgeon who challenges corruption at a hospital where power and money often come before patients. Her independent approach puts her at odds with the institution around her.",
+        "\"Dr. Romantic\" follows the doctors mentored by surgeon Teacher Kim, played by Han Suk Kyu, at a provincial hospital. Seo Hyun Jin portrays surgeon Yoon Seo Jung in the first season, while Lee Sung Kyung appears in later seasons as Cha Eun Jae, a cardiothoracic surgeon who struggles with anxiety in the operating room.",
+        "For a mix of medicine and romance, \"Descendants of the Sun\" sends Song Hye Kyo's surgeon Kang Mo Yeon to the fictional war-torn region of Uruk with a medical team. Kim Ji Won also stars as army surgeon Yoon Myung Joo.",
+        "\"Hyper Knife\" takes a darker route. Park Eun Bin plays Jung Se Ok, a former neurosurgical prodigy who works in an illegal operating facility after a falling out with her mentor, Choi Deok Hee, played by Sul Kyung Gu. Their eventual reunion brings their fraught history back into focus.",
+        "In \"Doctors,\" Park Shin Hye's Yoo Hye Jung finds a new direction after meeting a former doctor turned teacher, Hong Ji Hong, played by Kim Rae Won. She goes on to become a neurosurgeon.",
+        "\"Doctor Cha\" follows another path back to medicine. Uhm Jung Hwa plays Cha Jeong Suk, who resumes her residency after two decades as a housewife, balancing the demands of hospital training with upheaval in her marriage."
+      ],
+      "socialCaption": "From hospital politics to career reinvention, these K-dramas put female doctors at the center. Read on HallyuScope for six shows to explore.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#KDrama",
+        "#DoctorCha",
+        "#DrRomantic",
+        "#HyperKnife"
+      ],
+      "seoDescription": "Discover six K-dramas centered on female doctors, from Doctor Cha and Dr. Romantic to the surgical thriller Hyper Knife and romantic drama Doctors.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "0975da50d0cf",
       "createdAt": "2026-11-21T18:04:18.869Z",
