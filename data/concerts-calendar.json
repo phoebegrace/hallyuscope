@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T10:39:49.075Z",
+  "updatedAt": "2026-11-23T03:08:14.000Z",
   "note": "Upcoming Philippine K-pop events seeded only from currently verified official ticketing or venue sources. ticketUrl must remain an official promoter, venue, or ticketing destination.",
   "items": [
     {
@@ -172,10 +172,46 @@
       "promoter": "Live Nation Philippines",
       "ticketProvider": "Ticketmaster Philippines",
       "ticketUrl": "https://ticketmaster.ph/activity/detail/27ph_katseye",
-      "description": "KATSEYE brings THE WILDWORLD TOUR to the SM Mall of Asia Arena on January 29, 2027. Presales run November 10-12, with general sale on November 13 via Ticketmaster Philippines.",
+      "description": "KATSEYE brings THE WILDWORLD TOUR to the SM Mall of Asia Arena on January 29, 2027. Presales run November 10-12, with general sale on November 13 via Ticketmaster Philippines. A second night on January 30 has been added.",
       "relatedArticles": [],
       "poster": "https://blog.ticketmaster.ph/wp-content/uploads/2026/10/KATSEYE-TICKETMASTER-1150X500-2.jpg",
       "seatPlan": "https://www.wheninmanila.com/wp-content/uploads/2026/11/HWYAJyta4AAA6xa.jpg"
+    },
+    {
+      "id": "katseye-wildworld-manila-2027-01-30",
+      "artist": "KATSEYE",
+      "tour": "THE WILDWORLD TOUR in Manila",
+      "date": "2027-01-30",
+      "venue": "SM Mall of Asia Arena",
+      "city": "Pasay",
+      "type": "Concert",
+      "status": "On Sale",
+      "ticketRange": "₱4,500–₱21,000",
+      "promoter": "Live Nation Philippines",
+      "ticketProvider": "Ticketmaster Philippines",
+      "ticketUrl": "https://ticketmaster.ph/activity/detail/27ph_katseye",
+      "description": "KATSEYE added a second Manila night of THE WILDWORLD TOUR at the SM Mall of Asia Arena on January 30, 2027 at 8:00 PM, after the January 29 show sold out. General sale opens November 23, 2026 at 2:00 PM via Ticketmaster Philippines.",
+      "relatedArticles": [],
+      "poster": "https://blog.ticketmaster.ph/wp-content/uploads/2026/10/KATSEYE-TICKETMASTER-1150X500-2.jpg",
+      "seatPlan": "https://www.wheninmanila.com/wp-content/uploads/2026/11/HWYAJyta4AAA6xa.jpg"
+    },
+    {
+      "id": "iu-world-tour-bulacan-2027-01-30",
+      "artist": "IU",
+      "tour": "2027 IU WORLD TOUR CONCERT IN BULACAN",
+      "date": "2027-01-30",
+      "venue": "Philippine Sports Stadium",
+      "city": "Bulacan",
+      "type": "Concert",
+      "status": "Announced",
+      "ticketRange": null,
+      "promoter": "PULP Live World",
+      "ticketProvider": null,
+      "ticketUrl": null,
+      "description": "IU brings the 2027 IU World Tour Concert to the Philippine Sports Stadium in Bulacan on January 30 and 31, 2027. This is night 1. Ticket prices, the seat plan and the on-sale date have not been announced yet; promoter PULP Live World will post them.",
+      "relatedArticles": [],
+      "poster": null,
+      "seatPlan": null
     },
     {
       "id": "jung-hae-in-meet-me-there-manila-2027",
@@ -196,6 +232,24 @@
       "sourceName": "Tickelo",
       "sourceClass": "official",
       "lastCheckedAt": "2026-11-21T00:23:21.254Z"
+    },
+    {
+      "id": "iu-world-tour-bulacan-2027-01-31",
+      "artist": "IU",
+      "tour": "2027 IU WORLD TOUR CONCERT IN BULACAN",
+      "date": "2027-01-31",
+      "venue": "Philippine Sports Stadium",
+      "city": "Bulacan",
+      "type": "Concert",
+      "status": "Announced",
+      "ticketRange": null,
+      "promoter": "PULP Live World",
+      "ticketProvider": null,
+      "ticketUrl": null,
+      "description": "IU brings the 2027 IU World Tour Concert to the Philippine Sports Stadium in Bulacan on January 30 and 31, 2027. This is night 2. Ticket prices, the seat plan and the on-sale date have not been announced yet; promoter PULP Live World will post them.",
+      "relatedArticles": [],
+      "poster": null,
+      "seatPlan": null
     },
     {
       "id": "katseye-wildworld-cebu-2027",
