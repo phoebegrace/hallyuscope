@@ -1,8 +1,474 @@
 {
-  "updatedAt": "2026-11-23T02:51:36.743Z",
+  "updatedAt": "2026-11-23T12:59:39.161Z",
   "autoPublish": true,
   "note": "Auto-publish is ON. Newly generated HallyuScope articles publish immediately.",
   "items": [
+    {
+      "id": "6af60a1e5f16",
+      "createdAt": "2026-11-23T12:58:16.494Z",
+      "status": "published",
+      "publishedAt": "2026-11-23T12:58:16.494Z",
+      "sourcePublishedAt": "2026-11-23T09:33:15.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "signal-part-2-sets-december-premiere-with-first-teaser",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: “Signal Part 2” Kicks Off Countdown To Long-Awaited Premiere With 1st Teaser",
+        "url": "https://www.soompi.com/article/1889873wpp/watch-signal-part-2-kicks-off-countdown-to-long-awaited-premiere-with-1st-teaser"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1889873wpp/watch-signal-part-2-kicks-off-countdown-to-long-awaited-premiere-with-1st-teaser",
+          "chars": 1460,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/home/article/241/0003543123",
+          "chars": 1073,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "an old walkie-talkie against a dark background"
+        ],
+        "missingKeyFacts": [
+          "tvN tested using AI to replace Cho Jin Woong but decided against it because of limitations in reproducing his performance and maintaining the narrative flow."
+        ],
+        "checkedAt": "2026-11-23T12:58:16.492Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/6af60a1e5f16.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/23183307/The-Second-Signal-1.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "Signal Part 2 Sets December Premiere With First Teaser",
+      "dek": "The sequel to the 2016 crime drama will launch with two episodes on December 7, as a new teaser brings its walkie-talkie back into focus.",
+      "body": [
+        "The first teaser for “Signal Part 2” has arrived, offering a glimpse of the crime drama’s return ahead of its December 7 premiere.",
+        "Released on November 23 alongside a new poster, the roughly 40-second video moves through images and phrases connected to the past, the present and criminal cases. The poster places an old walkie-talkie against a dark background, echoing the device at the heart of the original series.",
+        "The 2016 drama “Signal” followed detectives in different time periods who communicated by walkie-talkie as they worked on long-unsolved cases. Kim Hye Soo, Lee Je Hoon and Cho Jin Woong return for the sequel, which is written by Kim Eun Hee.",
+        "The sequel’s release had been delayed amid controversy over Cho’s past juvenile criminal record. The actor acknowledged wrongdoing as a minor and announced his retirement from entertainment. Broadcaster tvN later confirmed the drama’s release, saying the decision did not mean it was defending or justifying the issue and that it had also considered the work of the other actors and crew.",
+        "“Signal Part 2” will run for eight episodes. The first two will air back-to-back on December 7, beginning at 10 p.m. KST, followed by the third episode on December 8."
+      ],
+      "socialCaption": "The first Signal Part 2 teaser is here. Read on HallyuScope for the premiere schedule and what to expect from the sequel.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#SignalPart2",
+        "#SignalKDrama",
+        "#LeeJeHoon",
+        "#KimHyeSoo"
+      ],
+      "seoDescription": "Signal Part 2 unveils its first teaser ahead of a December 7 premiere. See the release schedule and returning cast for the crime drama sequel.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "890390077ae2",
+      "createdAt": "2026-11-23T12:58:32.499Z",
+      "status": "published",
+      "publishedAt": "2026-11-23T12:58:32.499Z",
+      "sourcePublishedAt": "2026-11-23T09:16:50.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "on-your-ground-introduces-the-lawyers-and-agents-around-han-hyo-joo-s-character",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Cho Han Cheul, Kwon Seung Woo, And More Bring Diverse Charms To New Drama “On Your Ground”",
+        "url": "https://www.soompi.com/article/1889768wpp/cho-han-cheul-kwon-seung-woo-and-more-bring-diverse-charms-to-new-drama-on-your-ground"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1889768wpp/cho-han-cheul-kwon-seung-woo-and-more-bring-diverse-charms-to-new-drama-on-your-ground",
+          "chars": 2776,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/408/0000328775",
+          "chars": 1205,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "a supportive ally who sees his hardworking junior without prejudice",
+          "whose boastful but innocent personality leads to playful exchanges with Joo Hyun"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-23T12:58:32.498Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/890390077ae2.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/23144246/on-your-ground.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "K-DRAMA NEWS",
+      "headline": "On Your Ground Introduces the Lawyers and Agents Around Han Hyo Joo's Character",
+      "dek": "New stills from MBC's baseball romance reveal the people at Seo Hee Seung's former law firm and her new sports agency.",
+      "body": [
+        "MBC's upcoming drama “On Your Ground” has released stills introducing six characters from the legal and sports agency worlds surrounding Han Hyo Joo's Seo Hee Seung, Soompi reports.",
+        "The romance follows baseball player Kang Hae Hwan, played by Gong Myoung, whose career stops after a setback. He begins working toward a return to the field after meeting Hee Seung, a former lawyer who has become an agent.",
+        "At Law Firm Joy, where Hee Seung previously worked, Cho Han Cheul plays managing partner Jo Gu Yeon. A longtime baseball fan, Gu Yeon wants to expand the firm his father founded into sports representation, with Hee Seung at the forefront of the move.",
+        "Kwon Seung Woo plays Park Do Ha, a lawyer who knew Hee Seung at university and attended law school with her. Unlike Gu Yeon, Do Ha is a supportive ally who sees his hardworking junior without prejudice.",
+        "The stills also introduce four members of Donghaeng, the sports agency where Hee Seung starts a new chapter. Hong Woo Jin plays Choi Moo Sung, a former national team infielder who is now an agent team leader and a trusted partner to Dong Chi Young, played by Kim Shin Rock.",
+        "Lee Je Yeon takes the role of Park Joo Hyun, a former securities worker who values players' profitability and marketability and hopes to establish his own agency. Oh Kyung Joo plays baseball enthusiast Yoon Sung Hoon, whose boastful but innocent personality leads to playful exchanges with Joo Hyun.",
+        "Oh Yu Jin rounds out the group as Chae Dong Won, the agency's data analysis team head. A science and engineering graduate recruited by Chi Young, Dong Won once disliked baseball because of her father's obsession with the sport.",
+        "The production team said the contrast between the differing goals at Joy and the teamwork at Donghaeng will be a point to watch. “On Your Ground” is scheduled to premiere in December."
+      ],
+      "socialCaption": "Meet the lawyers and sports agents joining Gong Myoung and Han Hyo Joo's On Your Ground. Read on HallyuScope for a guide to their characters.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#OnYourGround",
+        "#HanHyoJoo",
+        "#GongMyoung",
+        "#ChoHanCheul"
+      ],
+      "seoDescription": "MBC's On Your Ground reveals new stills of Cho Han Cheul, Kwon Seung Woo and more as lawyers and sports agents in the upcoming baseball romance.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "6f87751c2467",
+      "createdAt": "2026-11-23T12:58:48.552Z",
+      "status": "published",
+      "publishedAt": "2026-11-23T12:58:48.552Z",
+      "sourcePublishedAt": "2026-11-23T08:55:21.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "lee-dong-geon-and-lim-young-min-introduce-their-characters-in-wintertime-script-reading-vi",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: Lee Dong Geon And Lim Young Min Impress At Script Reading For New BL Drama “Wintertime”",
+        "url": "https://www.soompi.com/article/1889848wpp/watch-lee-dong-geon-and-lim-young-min-impress-at-script-reading-for-new-bl-drama-wintertime"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1889848wpp/watch-lee-dong-geon-and-lim-young-min-impress-at-script-reading-for-new-bl-drama-wintertime",
+          "chars": 2275,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/410/0001147998",
+          "chars": 1076,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "resentment and lingering affection"
+        ],
+        "missingKeyFacts": [
+          "Wintertime is a Wavve drama.",
+          "Lim Young Min previously left AB6IX following a drunk-driving incident."
+        ],
+        "checkedAt": "2026-11-23T12:58:48.551Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/6f87751c2467.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/23160443/wintertime.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "K-DRAMA NEWS",
+      "headline": "Lee Dong Geon and Lim Young Min Introduce Their Characters in Wintertime Script Reading Video",
+      "dek": "The upcoming BL drama follows two men who reunite after nine years with unresolved feelings between them.",
+      "body": [
+        "Lee Dong Geon and Lim Young Min have offered a first look at their characters in a new script reading video for Wintertime, an upcoming BL drama premiering November 27.",
+        "Based on a web novel of the same name, Wintertime follows Gu Seung Hyuk and Kwon Yi Hyun as they meet again after nine years apart. Their reunion draws them back into a relationship shaped by old wounds, resentment and lingering affection.",
+        "The video shows the leads reading scenes together, as well as discussing their characters, their reasons for joining the project and their impressions of the reading, Soompi reported.",
+        "Lee, who plays Seung Hyuk, described him as outwardly cold but passionate beneath the surface. He said he recognized similarities between himself and the character, particularly in their bluntness and difficulty expressing emotions.",
+        "Lim plays Yi Hyun, a character he said conceals many of his feelings and requires a subtle performance. He was drawn to the project by the chance to grow while portraying those emotions.",
+        "After the reading, Lee praised his fellow actors and said their performances made him feel he needed to do well too. Lim said he had been nervous about his first script reading and came away determined to work harder when filming began. The drama marks Lim's first drama acting role, according to a report carried by Naver."
+      ],
+      "socialCaption": "Lee Dong Geon and Lim Young Min are bringing a complicated reunion to Wintertime. Read on HallyuScope for what the stars shared about their roles.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#Wintertime",
+        "#LeeDongGeon",
+        "#LimYoungMin",
+        "#KoreanBL"
+      ],
+      "seoDescription": "Lee Dong Geon and Lim Young Min introduce their roles in a script reading video for Wintertime, the upcoming BL drama premiering November 27.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "071bd54d0663",
+      "createdAt": "2026-11-23T12:58:57.825Z",
+      "status": "published",
+      "publishedAt": "2026-11-23T12:58:57.825Z",
+      "sourcePublishedAt": "2026-11-23T07:55:29.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "stray-kids-hyunjin-named-dior-fashion-and-beauty-ambassador-3",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Hyunjin of Stray Kids Is Dior's New House Ambassador",
+        "url": "https://www.soompi.com/article/1889199wpp/stray-kids-hyunjin-announced-as-new-ambassador-for-dior"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1889199wpp/stray-kids-hyunjin-announced-as-new-ambassador-for-dior",
+          "chars": 993,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/home/article/144/0001150928",
+          "chars": 509,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-23T12:58:57.824Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/071bd54d0663.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Stray Kids' Hyunjin named Dior fashion and beauty ambassador",
+      "dek": "The Stray Kids member will represent the French luxury house across its fashion collections and beauty division.",
+      "body": [
+        "Stray Kids' Hyunjin is joining Dior as a new ambassador, representing both its fashion collections and beauty division. The French luxury house announced the appointment on November 20, Soompi reported.",
+        "Dior highlighted Hyunjin's sensibility and charisma in welcoming him to the brand. The announcement also connected his appeal to the work of three creative leaders at the house: Jonathan Anderson, Dior's creative director; Peter Philips, creative and image director for Dior Makeup; and Francis Kurkdjian, creative director of Parfums Christian Dior.",
+        "The partnership brings Hyunjin into both sides of the house, from fashion collections to makeup and fragrance. Dior said he would take part in a range of activities as its ambassador.",
+        "The news arrives as Hyunjin continues to perform with Stray Kids on their ongoing world tour. The group's live performances have helped expand his global profile, with Dior pointing to his distinctive presence as part of the appeal he brings to the partnership."
+      ],
+      "socialCaption": "Hyunjin is joining Dior as an ambassador for fashion and beauty. Read on HallyuScope for the details of the partnership.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#Hyunjin",
+        "#StrayKids",
+        "#Dior",
+        "#DiorBeauty"
+      ],
+      "seoDescription": "Stray Kids' Hyunjin has been named a Dior ambassador for fashion and beauty, joining the French luxury house as his group continues its world tour.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "b69b188da7c3",
+      "createdAt": "2026-11-23T12:59:12.306Z",
+      "status": "published",
+      "publishedAt": "2026-11-23T12:59:12.306Z",
+      "sourcePublishedAt": "2026-11-23T07:47:06.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "joy-and-kim-hyun-jin-s-characters-grow-closer-in-one-of-a-kind-romance",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Joy And Kim Hyun Jin Discover New Feelings For Each Other In “One-Of-A-Kind Romance”",
+        "url": "https://www.soompi.com/article/1889641wpp/joy-and-kim-hyun-jin-discover-new-feelings-for-each-other-in-one-of-a-kind-romance"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1889641wpp/joy-and-kim-hyun-jin-discover-new-feelings-for-each-other-in-one-of-a-kind-romance",
+          "chars": 2020,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/445/0000492490",
+          "chars": 741,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "working as an extra at the request of her friend",
+          "find the courage to face the world again"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-23T12:59:12.306Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/b69b188da7c3.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/23113015/one-of-a-kind-romance.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "K-DRAMA NEWS",
+      "headline": "Joy and Kim Hyun Jin's Characters Grow Closer in One-of-a-Kind Romance",
+      "dek": "New stills preview a turning point for Gong Yu Il and Tak Mu I ahead of episodes 5 and 6.",
+      "body": [
+        "Red Velvet's Joy and Kim Hyun Jin are set to take their characters' relationship in a new direction in One-of-a-Kind Romance. Newly released stills offer a look at what's ahead as Tak Mu I discovers a connection to Gong Yu Il that means more to him than she realizes.",
+        "Based on a webtoon, the drama stars Joy as Gong Yu Il, a job seeker who unexpectedly becomes the manager of top star Tak Mu I, played by Kim Hyun Jin. Behind his fame, Mu I carries emotional scars from a stalking incident.",
+        "As Soompi reported, Mu I learns that Yu Il wrote his cherished novel, Star and Half Moon. The book helped him find the courage to face the world again after a difficult slump, making the discovery especially meaningful to him.",
+        "Yu Il, meanwhile, begins to develop feelings of her own as their paths continue to cross. While working as an extra at the request of her friend and drama producer Yoo Yeon Joo, played by Na Hyun Young, she sees Mu I filming an arcade date scene with actress Ju Da Hong, played by Kang Na Eon.",
+        "They meet again when Yu Il joins restaurant owner and chef Kang Hee Soo, played by Shin Hyun Soo, on a coffee truck delivery to Mu I's filming location. Mu I is openly happy to see her and shows her attention, leaving Yu Il increasingly flustered.",
+        "Episodes 5 and 6 are scheduled for release on November 23 at 6 p.m. KST on TVING, Viu and ABEMA."
+      ],
+      "socialCaption": "Joy and Kim Hyun Jin's characters are growing closer in One-of-a-Kind Romance. Read the episode preview on HallyuScope.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#OneOfAKindRomance",
+        "#Joy",
+        "#KimHyunJin",
+        "#RedVelvet"
+      ],
+      "seoDescription": "Joy and Kim Hyun Jin's characters grow closer in One-of-a-Kind Romance as a novel connects them. See what's ahead in episodes 5 and 6.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "84272765f619",
+      "createdAt": "2026-11-23T12:59:24.041Z",
+      "status": "published",
+      "publishedAt": "2026-11-23T12:59:24.041Z",
+      "sourcePublishedAt": "2026-11-23T06:15:02.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "the-remarried-empress-goes-behind-the-scenes-with-lee-jun-hyuk-and-uhm-ji-won",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: &#8220;The Remarried Empress&#8221; Cast Showcases Exciting Chemistry As Lee Jun Hyuk And Uhm Ji Won Make Special Appearances",
+        "url": "https://www.soompi.com/article/1889720wpp/watch-the-remarried-empress-cast-showcases-exciting-chemistry-as-lee-jun-hyuk-and-uhm-ji-won-make-special-appearances"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1889720wpp/watch-the-remarried-empress-cast-showcases-exciting-chemistry-as-lee-jun-hyuk-and-uhm-ji-won-make-special-appearances",
+          "chars": 1644,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [
+          "The video captures action rehearsals."
+        ],
+        "copiedPhrases": [
+          "It’s fine as long as it was enjoyable for you.",
+          "I really enjoyed the webtoon, so I was looking forward to this project."
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-23T12:59:24.040Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/84272765f619.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/23145254/remarried-empress-2-1.png",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "K-DRAMA NEWS",
+      "headline": "The Remarried Empress Goes Behind the Scenes With Lee Jun Hyuk and Uhm Ji Won",
+      "dek": "A new making-of video for episodes 7 and 8 captures action rehearsals, cast laughter and special appearances by two guest stars.",
+      "body": [
+        "The cast of “The Remarried Empress” is giving viewers a look behind the scenes of episodes 7 and 8, with Lee Jun Hyuk and Uhm Ji Won joining the set for special appearances.",
+        "The video opens with Ha Do Kwon and Lee Jong Suk filming action scenes, then shifts to a lighter moment during rehearsals. Shin Min Ah smiles at Ju Ji Hoon’s casual clothes, prompting him to tell her, “It’s fine as long as it was enjoyable for you.”",
+        "Uhm Ji Won also shares why she was happy to take part. “I really enjoyed the webtoon, so I was looking forward to this project,” she says in an interview. Elsewhere in the video, Lee Se Young poses for the making-of camera and notes that her character Rashta’s personal color is pink.",
+        "Lee Jun Hyuk tells Lee Jong Suk that being on set feels like a dream, and Lee Jong Suk takes a photo of him. Lee Jun Hyuk says he made the special appearance after Lee Jong Suk asked him for a favor, adding that the director and cast’s preparation helped him film comfortably.",
+        "The video ends with more laughter after Choi Dae Hoon jokes about playing a character who loses to Ha Do Kwon’s character. “The Remarried Empress” airs two episodes every Wednesday at 5 p.m. KST, according to Soompi."
+      ],
+      "socialCaption": "Lee Jun Hyuk and Uhm Ji Won join The Remarried Empress behind the scenes. Read HallyuScope for the cast’s moments from filming episodes 7 and 8.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#TheRemarriedEmpress",
+        "#LeeJongSuk",
+        "#LeeJunHyuk",
+        "#UhmJiWon"
+      ],
+      "seoDescription": "The Remarried Empress shares a behind-the-scenes video for episodes 7 and 8, featuring special appearances by Lee Jun Hyuk and Uhm Ji Won.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "de5c0dfdb844",
+      "createdAt": "2026-11-23T12:59:38.710Z",
+      "status": "published",
+      "publishedAt": "2026-11-23T12:59:38.710Z",
+      "sourcePublishedAt": "2026-11-23T03:31:38.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "crash-2-stills-show-lee-min-ki-and-kwak-sun-young-in-custody",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Kwak Sun Young And Lee Min Ki Find Themselves Behind Bars Amid An Investigation In “Crash 2”",
+        "url": "https://www.soompi.com/article/1889625wpp/kwak-sun-young-and-lee-min-ki-find-themselves-behind-bars-amid-an-investigation-in-crash-2"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1889625wpp/kwak-sun-young-and-lee-min-ki-find-themselves-behind-bars-amid-an-investigation-in-crash-2",
+          "chars": 2292,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/382/0001306197",
+          "chars": 942,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "facing danger during an investigation",
+          "the team continues to pursue traffic crimes disguised as insurance fraud",
+          "As the detectives close in on the people behind a fraud ring"
+        ],
+        "missingKeyFacts": [
+          "The original “Crash” was the first Korean drama to focus on traffic crime investigations."
+        ],
+        "checkedAt": "2026-11-23T12:59:38.709Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/de5c0dfdb844.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/23105827/crash-2.png",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Crash 2 Stills Show Lee Min Ki and Kwak Sun Young in Custody",
+      "dek": "The T.C.I. detectives face an unexpected setback as their investigation into an insurance fraud ring continues in episode 3.",
+      "body": [
+        "Lee Min Ki and Kwak Sun Young's detectives find themselves behind bars in newly released stills from “Crash 2,” ahead of the drama's third episode.",
+        "The images show Cha Yeon Ho, played by Lee Min Ki, looking bewildered as he is arrested and handcuffed. Kwak Sun Young's Min So Hee is also in a holding cell with him, raising questions about how the two Traffic Crime Investigation team members ended up in custody.",
+        "Another still shows Min So Hee standing tensely in front of a vehicle destroyed by fire. A previously released preview also showed Eo Hyun Kyung, played by Choi Moon Hee, facing danger during an investigation.",
+        "In the upcoming episode, the team continues to pursue traffic crimes disguised as insurance fraud. As the detectives close in on the people behind a fraud ring, their investigation takes a turn that leads to their own arrests.",
+        "The previous episode saw the team uncover a vehicle tampering case made to look like a sudden unintended acceleration accident. They found that a husband had used his own death to plot revenge against his wife and her lover, who had planned to kill him.",
+        "The sequel to the 2024 drama “Crash” follows the T.C.I. team as it moves from Namgang Police Station to a regional unit under the National Office of Investigation, taking on cases nationwide. Episode 3 airs November 23 at 10 p.m. KST."
+      ],
+      "socialCaption": "Two Crash 2 detectives land in custody as an investigation takes a turn. Read on HallyuScope for what the new stills reveal.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#Crash2",
+        "#LeeMinKi",
+        "#KwakSunYoung",
+        "#ChoiMoonHee"
+      ],
+      "seoDescription": "New Crash 2 stills show Lee Min Ki and Kwak Sun Young's detectives in custody as their team investigates an insurance fraud ring in episode 3.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "33e2f2b24a37",
       "createdAt": "2026-11-23T02:51:35.852Z",
