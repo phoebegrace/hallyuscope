@@ -1,8 +1,74 @@
 {
-  "updatedAt": "2026-11-22T21:51:47.608Z",
+  "updatedAt": "2026-11-23T02:51:36.743Z",
   "autoPublish": true,
   "note": "Auto-publish is ON. Newly generated HallyuScope articles publish immediately.",
   "items": [
+    {
+      "id": "33e2f2b24a37",
+      "createdAt": "2026-11-23T02:51:35.852Z",
+      "status": "published",
+      "publishedAt": "2026-11-23T02:51:35.852Z",
+      "sourcePublishedAt": "2026-11-22T22:04:53.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "ateez-earns-fourth-billboard-200-no-1-with-golden-hour-part-6",
+      "source": {
+        "publisher": "Soompi",
+        "title": "ATEEZ Scores Fourth No. 1 On Billboard 200 + Breaks Record For Most Top 10s Of Any Group This Decade",
+        "url": "https://www.soompi.com/article/1889578wpp/ateez-scores-fourth-no-1-on-billboard-200-breaks-record-for-most-top-10s-of-any-group-this-decade"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1889578wpp/ateez-scores-fourth-no-1-on-billboard-200-breaks-record-for-most-top-10s-of-any-group-this-decade",
+          "chars": 1161,
+          "depth": 1
+        },
+        {
+          "publisher": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/ateez-golden-hour-part6-no1-billboard-200-chart-1236387535/",
+          "chars": 6400,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "collectible items such as photocards and posters"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-23T02:51:35.850Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/33e2f2b24a37.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/23070415/ATEEZ_1385b6.jpeg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "TRENDING",
+      "headline": "ATEEZ Earns Fourth Billboard 200 No. 1 With 'GOLDEN HOUR : Part.6'",
+      "dek": "The mini album gives ATEEZ its 10th consecutive top 10 on the U.S. chart, the most for any group in the 2020s.",
+      "body": [
+        "ATEEZ has landed its fourth No. 1 on the Billboard 200 as “GOLDEN HOUR : Part.6” debuts atop the chart dated November 28.",
+        "The mini album earned 195,000 equivalent album units in the United States in the week ending November 19, according to Luminate data reported by Billboard. Traditional album sales accounted for 191,000 of that total, while streaming contributed 4,000 units.",
+        "Soompi reported that the release is ATEEZ's 10th consecutive top 10 album on the Billboard 200. The streak began in 2022 with “THE WORLD EP.1 : MOVEMENT,” which reached No. 3.",
+        "The latest entry puts ATEEZ alone among groups for the most Billboard 200 top 10 albums in the 2020s. The group had previously been tied with Stray Kids at nine, according to Billboard. Across all acts, YoungBoy Never Broke Again has 15 top 10s this decade and Taylor Swift has 14.",
+        "ATEEZ's previous Billboard 200 No. 1 albums are “THE WORLD EP.FIN : WILL,” “GOLDEN HOUR : Part.2” and “GOLDEN HOUR : Part.5.”",
+        "“GOLDEN HOUR : Part.6” also debuts at No. 1 on Billboard's Top Album Sales chart. Billboard reported that the album was available in 32 CD and vinyl variants, including signed editions, with collectible items such as photocards and posters."
+      ],
+      "socialCaption": "ATEEZ has a fourth Billboard 200 No. 1 and a new group record. Read on HallyuScope for the chart numbers behind the milestone.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#ATEEZ",
+        "#GOLDENHOURPart6",
+        "#Billboard200",
+        "#ATINY"
+      ],
+      "seoDescription": "ATEEZ's GOLDEN HOUR : Part.6 debuts at No. 1 on the Billboard 200, giving the group its fourth chart-topper and 10th consecutive top 10 album.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "5ab9aaf2afce",
       "createdAt": "2026-11-22T21:51:38.216Z",
