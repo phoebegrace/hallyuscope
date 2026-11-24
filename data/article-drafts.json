@@ -1,8 +1,589 @@
 {
-  "updatedAt": "2026-11-24T00:57:44.881Z",
+  "updatedAt": "2026-11-24T11:03:28.673Z",
   "autoPublish": true,
   "note": "Auto-publish is ON. Newly generated HallyuScope articles publish immediately.",
   "items": [
+    {
+      "id": "454b1e98725c",
+      "createdAt": "2026-11-24T11:01:09.333Z",
+      "status": "published",
+      "publishedAt": "2026-11-24T11:01:09.333Z",
+      "sourcePublishedAt": "2026-11-24T10:40:08.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "k-pop-the-debut-trailer-follows-ji-young-yoo-into-a-global-girl-group-competition",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: “K-Pop: The Debut” Teases Ji Young Yoo’s Journey With Cameos From Joshua, Jay, Jake, KATSEYE, And More",
+        "url": "https://www.soompi.com/article/1890342wpp/watch-k-pop-the-debut-teases-ji-young-yoos-journey-with-cameos-from-joshua-jay-jake-katseye-and-more"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1890342wpp/watch-k-pop-the-debut-teases-ji-young-yoos-journey-with-cameos-from-joshua-jay-jake-katseye-and-more",
+          "chars": 1982,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/home/article/382/0001306404",
+          "chars": 724,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-24T11:01:09.332Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/454b1e98725c.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/24193950/k-pop-the-debut-01.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "K-Pop: The Debut Trailer Follows Ji Young Yoo Into a Global Girl Group Competition",
+      "dek": "The HYBE America film stars Yoo as an aspiring singer and features cameos from Joshua, Jay, Jake, KATSEYE and more.",
+      "body": [
+        "Ji Young Yoo is trading medical school for a shot at the stage in the first trailer for K-Pop: The Debut, an upcoming film about a global competition to form a K-pop girl group.",
+        "Yoo plays Lizzy, a Korean American woman who heads to Seoul after earning a place in the televised audition. She faces contestants from around the world as they compete for four debut spots. Eric Nam plays an unexpected ally who helps Lizzy gain confidence along the way.",
+        "The trailer shows that Lizzy's path is far from easy. After placing last in the first mission, she continues through practice sessions and competition rounds, gradually finding her own style. It also offers a look at performances by the other contestants.",
+        "According to Soompi, BTS member Jin's solo song Epiphany appears as Lizzy's audition song. The film will also feature music by artists including BTS, IVE, aespa, TWICE and LE SSERAFIM.",
+        "SEVENTEEN's Joshua, ENHYPEN's Jay and Jake, KATSEYE, Hwasa, Sandara Park, ILLIT and Tablo are among the artists set to make cameo appearances. The cast also includes Yoo Ji Tae, Tony Revolori, Yim Si Wan, Sung Joon and Kang Sora.",
+        "Directed by Benson Lee and produced by HYBE America, K-Pop: The Debut is set for a theatrical release in February 2027. Yoo, who voiced Zoey in KPop Demon Hunters, sings and dances as well as acts in the film."
+      ],
+      "socialCaption": "Ji Young Yoo takes on a global audition in the first K-Pop: The Debut trailer. Read on HallyuScope for the cast, cameos and music.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#KPopTheDebut",
+        "#JiYoungYoo",
+        "#KATSEYE",
+        "#ENHYPEN"
+      ],
+      "seoDescription": "Watch for Ji Young Yoo in K-Pop: The Debut, a film featuring Eric Nam, K-pop star cameos and music from BTS, TWICE and more, set for February 2027.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "49799315ece9",
+      "createdAt": "2026-11-24T11:01:30.736Z",
+      "status": "published",
+      "publishedAt": "2026-11-24T11:01:30.736Z",
+      "sourcePublishedAt": "2026-11-24T09:08:23.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "viki-adds-more-k-dramas-for-viewers-in-southeast-asia",
+      "source": {
+        "publisher": "Soompi",
+        "title": "13 Must-Watch K-Dramas Newly Available On Viki In Southeast Asia",
+        "url": "https://www.soompi.com/article/1889039wpp/13-must-watch-k-dramas-newly-available-on-viki-in-southeast-asia"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1889039wpp/13-must-watch-k-dramas-newly-available-on-viki-in-southeast-asia",
+          "chars": 4386,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [
+          "The selection also includes an unnamed drama starring Cho Seung Woo as prosecutor Hwang Si Mok and Bae Doona as police lieutenant Han Yeo Jin, who investigate a murder case and institutional corruption."
+        ],
+        "checkedAt": "2026-11-24T11:01:30.736Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/49799315ece9.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/24164118/SEA-2.png",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "K-DRAMA NEWS",
+      "headline": "Viki Adds More K-Dramas for Viewers in Southeast Asia",
+      "dek": "The expanded selection includes crime thriller Signal, romance Touch Your Heart and historical drama The Crowned Clown.",
+      "body": [
+        "Viki has made more Korean dramas available to stream in Southeast Asia, with a lineup spanning romance, crime, fantasy and historical drama, Soompi reports. The selection follows an earlier release of classic K-dramas on the platform in the region.",
+        "Crime fans can find Signal, starring Lee Je Hoon as a profiler who uses a mysterious walkie-talkie to connect with a detective in the past, played by Cho Jin Woong. Kim Hye Soo also stars as a veteran detective working on cold cases. In Remember You, Jang Nara plays a detective investigating a serial killer alongside a criminal profiler played by Seo In Guk.",
+        "The romance selection includes It's Okay, That's Love, in which Kong Hyo Jin's psychiatrist unexpectedly shares a home with Zo In Sung's novelist. Because This Is My First Life brings Jung So Min and Lee Min Ki together as a struggling writer and her socially awkward landlord.",
+        "Touch Your Heart stars Yoo In Na as an actress who takes a job with Lee Dong Wook's lawyer to prepare for a role. Cheese in the Trap follows Kim Go Eun as a student whose life changes after she receives a scholarship intended for an upperclassman played by Park Hae Jin.",
+        "Viewers looking for fantasy can try Bring it On, Ghost, starring Taecyeon and Kim So Hyun as an exorcist and a ghost who team up. In The Crowned Clown, Yeo Jin Goo plays both a threatened king and the lookalike brought in to protect him.",
+        "Other titles in the selection include Save Me, Lawless Lawyer, Familiar Wife and Hundred Million Stars From the Sky."
+      ],
+      "socialCaption": "From Signal to Touch Your Heart, more K-dramas are streaming on Viki in Southeast Asia. Read on HallyuScope for a look at the lineup.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#Viki",
+        "#KDrama",
+        "#SignalKDrama",
+        "#TouchYourHeart"
+      ],
+      "seoDescription": "Viki adds more K-dramas for viewers in Southeast Asia, including Signal, Touch Your Heart, The Crowned Clown and Because This Is My First Life.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "71f3254573a6",
+      "createdAt": "2026-11-24T11:01:46.266Z",
+      "status": "published",
+      "publishedAt": "2026-11-24T11:01:46.266Z",
+      "sourcePublishedAt": "2026-11-24T09:03:19.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "lee-joon-gi-s-han-ki-joo-heads-to-singapore-in-kidnap-game",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Lee Joon Gi Heads To Singapore To Uncover Crucial Clues In “kiDnap GAME”",
+        "url": "https://www.soompi.com/article/1890151wpp/lee-joon-gi-heads-to-singapore-to-uncover-crucial-clues-in-kidnap-game"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1890151wpp/lee-joon-gi-heads-to-singapore-to-uncover-crucial-clues-in-kidnap-game",
+          "chars": 1963,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/445/0000492697",
+          "chars": 813,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "the number of red rose petals corresponded to the weight of each person's sins"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-24T11:01:46.265Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/71f3254573a6.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/24143947/kidnap-game_993c07.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Lee Joon Gi's Han Ki Joo heads to Singapore in 'kiDnap GAME'",
+      "dek": "The Channel A thriller's eighth episode sends Han Ki Joo in search of clues as Janice Lau faces an approaching deadline.",
+      "body": [
+        "Lee Joon Gi's Han Ki Joo is headed to Singapore in the next episode of Channel A's 'kiDnap GAME,' where he will join forces with Janice Lau, played by Carrie Wong.",
+        "New stills released ahead of episode 8 preview a shift in the thriller's setting as Han searches for clues connected to Janice. With her deadline drawing near, the pair face a dangerous situation, and Han turns his attention to cracking a code.",
+        "The series follows seven people drawn into a kidnapping case unfolding across Seoul, Tokyo, Taipei, Singapore, Bangkok, Naha and Manila. Each is assigned a different mission in a survival game that puts their loved ones at risk.",
+        "Han has also worked with Niide Toshiro, played by Sakaguchi Kentaro, to narrow down clues in the case. In Taipei, he recalled his connection to Christina Lin, played by Alice Ko, and discovered a link to Tokyo five years earlier.",
+        "During a confrontation with a mysterious young man, played by Sho Kasamatsu, at a Tokyo broadcasting station, Han noticed that the number of red rose petals corresponded to the weight of each person's sins.",
+        "The production team said the Singapore episode will highlight Han's deductive skills. Episode 8 airs November 24 at 10 p.m. KST on Channel A."
+      ],
+      "socialCaption": "Han Ki Joo's search for clues takes him to Singapore. Read on HallyuScope for what to expect in the next 'kiDnap GAME' episode.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#LeeJoonGi",
+        "#kiDnapGAME",
+        "#CarrieWong",
+        "#SakaguchiKentaro"
+      ],
+      "seoDescription": "Lee Joon Gi's Han Ki Joo heads to Singapore and teams up with Carrie Wong's Janice Lau in episode 8 of Channel A's thriller 'kiDnap GAME.'",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "2a48e5d6b5ab",
+      "createdAt": "2026-11-24T11:02:05.415Z",
+      "status": "published",
+      "publishedAt": "2026-11-24T11:02:05.415Z",
+      "sourcePublishedAt": "2026-11-24T08:52:46.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "sung-hoon-s-jealousy-surfaces-as-oh-se-young-grows-closer-to-lee-jung-shin-in-what-a-boss-",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Sung Hoon Secretly Watches Oh Se Young On Her Date With Lee Jung Shin In &#8220;What A Boss Wants&#8221;",
+        "url": "https://www.soompi.com/article/1890296wpp/sung-hoon-secretly-watches-oh-se-young-on-her-date-with-lee-jung-shin-in-what-a-boss-wants"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1890296wpp/sung-hoon-secretly-watches-oh-se-young-on-her-date-with-lee-jung-shin-in-what-a-boss-wants",
+          "chars": 1952,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/382/0001306534",
+          "chars": 959,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [
+          "The surprise appearance is unwelcome to Eun Chae and Tae Kyung."
+        ],
+        "copiedPhrases": [
+          "a chaebol boss with no sense of taste who searches for a woman whose voice he heard on an album"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-24T11:02:05.414Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/2a48e5d6b5ab.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/24174607/what-a-boss-wants-10.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Sung Hoon's Jealousy Surfaces as Oh Se Young Grows Closer to Lee Jung Shin in 'What a Boss Wants'",
+      "dek": "New stills preview a lunch date, a resort trip and a charity performance as the drama's central relationship grows more complicated.",
+      "body": [
+        "A lunch date brings an unwelcome surprise for Oh Se Young and Lee Jung Shin's characters in new stills from “What a Boss Wants.” Sung Hoon's Kwon Do Hyuk follows the pair after overhearing their phone conversation, setting the stage for a tense encounter.",
+        "The MBN romance, based on a web novel, stars Sung Hoon as Do Hyuk, a chaebol boss with no sense of taste who searches for a woman whose voice he heard on an album. Oh Se Young plays Lee Eun Chae, an indie band's lead vocalist, while Lee Jung Shin plays Moon Tae Kyung.",
+        "As Soompi reported, Do Hyuk looks uncomfortable when Eun Chae gives Tae Kyung a thank-you gift and receives a bright smile in return. Eun Chae and Do Hyuk are already in the middle of a bet over whether she will fall for him during their contract period.",
+        "Do Hyuk later takes Eun Chae to a resort in Gangwon Province. After shopping and eating together, they sit in camping chairs with beer under the night sky. When Do Hyuk falls asleep, Eun Chae reaches toward him as she watches him.",
+        "Tae Kyung, meanwhile, has promised to protect Eun Chae's secret that she performs as indie band vocalist Soo. He suggests that she sing at a Seheon Hospital charity event and gives her a bouquet after the performance, leaving her visibly delighted.",
+        "Episodes 5 and 6 air on November 25 and 26 at 10:20 p.m. KST."
+      ],
+      "socialCaption": "A lunch date tests Sung Hoon's composure in “What a Boss Wants.” Read on HallyuScope for a look at the new stills and the drama's growing love triangle.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#WhatABossWants",
+        "#SungHoon",
+        "#OhSeYoung",
+        "#LeeJungShin"
+      ],
+      "seoDescription": "New What a Boss Wants stills show Sung Hoon's jealousy as Oh Se Young and Lee Jung Shin's characters grow closer ahead of episodes 5 and 6.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "dada5fc1e127",
+      "createdAt": "2026-11-24T11:02:21.316Z",
+      "status": "published",
+      "publishedAt": "2026-11-24T11:02:21.316Z",
+      "sourcePublishedAt": "2026-11-24T08:49:37.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "kim-woo-bin-leads-dukchun-high-s-baseball-team-in-new-gift-poster",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Kim Woo Bin And Seo Eun Soo’s Lives Revolve Around Baseball In Poster For Upcoming Drama “GIFT”",
+        "url": "https://www.soompi.com/article/1890104wpp/kim-woo-bin-and-seo-eun-soos-lives-revolve-around-baseball-in-poster-for-upcoming-drama-gift"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1890104wpp/kim-woo-bin-and-seo-eun-soos-lives-revolve-around-baseball-in-poster-for-upcoming-drama-gift",
+          "chars": 1689,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/241/0003543194",
+          "chars": 816,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [
+          "Parents are cheering from the sidelines."
+        ],
+        "copiedPhrases": [
+          "After an unexpected accident gives him a special ability, he becomes head coach of the high school team ranked last in the nation."
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-24T11:02:21.315Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/dada5fc1e127.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/24131320/gift_66ac51.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "K-DRAMA NEWS",
+      "headline": "Kim Woo Bin Leads Dukchun High's Baseball Team in New 'GIFT' Poster",
+      "dek": "The upcoming tvN sports drama stars Kim Woo Bin as a former professional pitching coach and Seo Eun Soo as a high school baseball team manager.",
+      "body": [
+        "A new poster for tvN's upcoming drama \"GIFT\" brings Kim Woo Bin, Seo Eun Soo and the Dukchun High School baseball team together on and off the field.",
+        "Based on a webtoon of the same name, the sports drama follows Jung Min Yong, a former professional baseball pitching coach played by Kim. After an unexpected accident gives him a special ability, he becomes head coach of the high school team ranked last in the nation.",
+        "Kim's character takes center stage in the poster, looking seriously toward the field. Around him are scenes of Dukchun High's players in action, Seo as team manager Yoon Seo Jin, and parents cheering from the sidelines.",
+        "The images show the team celebrating and encouraging one another, as well as finding the strength to rise after setbacks. The poster's message, \"There is no right answer in baseball or in life,\" reflects the different ways Min Yong, the players and those around them approach both the sport and their lives.",
+        "\"GIFT\" premieres on December 5 at 9:10 p.m. KST on tvN."
+      ],
+      "socialCaption": "Kim Woo Bin and Seo Eun Soo join a high school baseball team in the new poster for GIFT. Read on HallyuScope for the story behind their characters.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#GIFT",
+        "#KimWooBin",
+        "#SeoEunSoo",
+        "#GIFTDrama"
+      ],
+      "seoDescription": "Kim Woo Bin and Seo Eun Soo star in tvN's GIFT, a webtoon-based baseball drama. See what the new poster reveals before its December 5 premiere.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "ecf17de3ccd4",
+      "createdAt": "2026-11-24T11:02:37.539Z",
+      "status": "published",
+      "publishedAt": "2026-11-24T11:02:37.539Z",
+      "sourcePublishedAt": "2026-11-24T08:28:43.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "jisoo-and-ahn-eun-jin-join-park-bo-gum-for-a-busy-day-in-the-village-barber-2-teaser",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: Jisoo, Ahn Eun Jin, And More Come To The Rescue Of Overwhelmed Park Bo Gum And Lee Sang Yi In “The Village Barber 2”",
+        "url": "https://www.soompi.com/article/1890297wpp/watch-jisoo-ahn-eun-jin-and-more-come-to-the-rescue-of-overwhelmed-park-bo-gum-and-lee-sang-yi-in-the-village-barber-2"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1890297wpp/watch-jisoo-ahn-eun-jin-and-more-come-to-the-rescue-of-overwhelmed-park-bo-gum-and-lee-sang-yi-in-the-village-barber-2",
+          "chars": 2473,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "runs a barbershop in a small seaside village",
+          "including Park accidentally getting hair dye on a customer's face"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-24T11:02:37.538Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/ecf17de3ccd4.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/24172709/the-village-barber-2-01-1.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Jisoo and Ahn Eun Jin Join Park Bo Gum for a Busy Day in The Village Barber 2 Teaser",
+      "dek": "The new teaser introduces four part-time helpers as Park Bo Gum and Lee Sang Yi struggle to keep up with customers at their seaside barbershop.",
+      "body": [
+        "BLACKPINK's Jisoo, Ahn Eun Jin, Uhm Ji Won and Heo Sung Tae are stepping in to help Park Bo Gum and Lee Sang Yi in a new teaser for “The Village Barber 2.”",
+        "The variety show follows Park as he runs a barbershop in a small seaside village with his close friends Lee and Ko Kyung Pyo. In the preview, Park and Lee find themselves overwhelmed as word spreads and villagers arrive with specific requests. Their developing barbering skills lead to a few mishaps, including Park accidentally getting hair dye on a customer's face.",
+        "The four one-day part-timers each bring something different to the shop. Uhm Ji Won helps the hosts understand older customers' dialect, while Ahn Eun Jin, a longtime friend of Lee's, volunteers readily and moves quickly between tasks.",
+        "Heo Sung Tae appears shy at first but is eager to pitch in, prompting Lee to suggest that he take a break. Jisoo connects with older customers through her easygoing conversation, and one customer compares her beauty to a flower.",
+        "Ahead of the premiere, the production team said it would work to minimize Ko's screen time following his involvement in a drunk-driving incident on November 14. “The Village Barber 2” premieres November 29 at 7:45 p.m. KST."
+      ],
+      "socialCaption": "Jisoo and Ahn Eun Jin are among the helpers joining Park Bo Gum's barbershop. Read on HallyuScope to see what happens in the new teaser.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#TheVillageBarber2",
+        "#Jisoo",
+        "#ParkBoGum",
+        "#AhnEunJin"
+      ],
+      "seoDescription": "Jisoo, Ahn Eun Jin and more join Park Bo Gum and Lee Sang Yi at a busy seaside barbershop in the new teaser for The Village Barber 2.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "e21cc7bc141f",
+      "createdAt": "2026-11-24T11:02:55.723Z",
+      "status": "published",
+      "publishedAt": "2026-11-24T11:02:55.723Z",
+      "sourcePublishedAt": "2026-11-24T07:50:19.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "kim-hye-yoon-and-yoon-kyung-ho-go-back-to-school-in-teen-cop-teaser",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: Kim Hye Yoon Goes Undercover As A Student Alongside Mature-Looking Teen Yoon Kyung Ho In Comedy Film “Teen Cop”",
+        "url": "https://www.soompi.com/article/1890097wpp/watch-kim-hye-yoon-goes-undercover-as-a-student-alongside-mature-looking-teen-yoon-kyung-ho-in-comedy-film-teen-cop"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1890097wpp/watch-kim-hye-yoon-goes-undercover-as-a-student-alongside-mature-looking-teen-yoon-kyung-ho-in-comedy-film-teen-cop",
+          "chars": 1927,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/movie/article/382/0001306393",
+          "chars": 658,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [
+          "Hui Yeon fixes the camera with a sharp gaze."
+        ],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-24T11:02:55.723Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/e21cc7bc141f.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/24165002/teen-cop-01.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Kim Hye Yoon and Yoon Kyung Ho Go Back to School in 'Teen Cop' Teaser",
+      "dek": "The comedy-action film pairs an undercover detective with a mature-looking teenager and is set to open in theaters in January 2027.",
+      "body": [
+        "Kim Hye Yoon is heading undercover as a high school student in the upcoming film 'Teen Cop,' while Yoon Kyung Ho plays a teenager whose appearance suggests he is much older.",
+        "The comedy-action investigation film has released its first two posters and a teaser ahead of its January 2027 theatrical release, Soompi reported. Lee Seo Hwan and Yoo Su Bin also appear in the cast.",
+        "Kim plays Hui Yeon, a 30-year-old detective and top police academy graduate who conceals her age to pose as a student. Yoon plays Gyu Jin, a 19-year-old with a mature appearance and a gentle, innocent personality. The two become caught up in an unexpected incident.",
+        "The teaser introduces them as transfer students arriving at Taeyang High School on the same day. As Hui Yeon settles into school life, Gyu Jin grows interested in investigations. Their interactions with others give way to action scenes, and Hui Yeon suggests that they work together on a case.",
+        "The posters highlight the contrast between the leads: Gyu Jin looks innocent as he scratches his head, while Hui Yeon wears a school uniform and fixes the camera with a sharp gaze."
+      ],
+      "socialCaption": "Kim Hye Yoon and Yoon Kyung Ho make an unlikely school duo in 'Teen Cop.' Read on HallyuScope for the teaser and release details.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#TeenCop",
+        "#KimHyeYoon",
+        "#YoonKyungHo",
+        "#KoreanFilm"
+      ],
+      "seoDescription": "Kim Hye Yoon and Yoon Kyung Ho star in 'Teen Cop,' a comedy-action film about an undercover detective and a teen, coming to theaters in January 2027.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "93d9511f456e",
+      "createdAt": "2026-11-24T11:03:10.965Z",
+      "status": "published",
+      "publishedAt": "2026-11-24T11:03:10.965Z",
+      "sourcePublishedAt": "2026-11-24T05:59:41.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "on-your-ground-reveals-the-high-school-roots-of-han-hyo-joo-and-gong-myoung-s-romance",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Jeon So Young And Yoo Ji Hoon Depict The Teenage Years Of Han Hyo Joo And Gong Myoung In “On Your Ground”",
+        "url": "https://www.soompi.com/article/1890076wpp/jeon-so-young-and-yoo-ji-hoon-depict-the-teenage-years-of-han-hyo-joo-and-gong-myoung-in-on-your-ground"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1890076wpp/jeon-so-young-and-yoo-ji-hoon-depict-the-teenage-years-of-han-hyo-joo-and-gong-myoung-in-on-your-ground",
+          "chars": 2008,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/445/0000492699",
+          "chars": 930,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-24T11:03:10.965Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/93d9511f456e.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/24123948/on-your-ground-5.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "On Your Ground Reveals the High School Roots of Han Hyo Joo and Gong Myoung's Romance",
+      "dek": "New stills introduce Jeon So Young and Yoo Ji Hoon as the younger versions of the leads in MBC's upcoming baseball romance.",
+      "body": [
+        "MBC's upcoming drama “On Your Ground” is looking back at the first love that connects its two leads, played as adults by Han Hyo Joo and Gong Myoung.",
+        "The romance follows baseball player Kang Hae Hwan, whose career stalls after a setback, and Seo Hee Seung, a former lawyer who becomes an agent. Their reunion puts Hae Hwan, played by Gong Myoung, on a path toward returning to the field.",
+        "Newly released stills introduce Jeon So Young and Yoo Ji Hoon as the teenage Hee Seung and Hae Hwan. In the images, she wears a school uniform while he appears in his baseball jersey, capturing the early days of their relationship.",
+        "The pair first meet by chance 11 years before the drama's present-day story. Hee Seung is the top student at their high school, while Hae Hwan is a gifted baseball player. A note brings them together, and their connection grows into a first love before they part ways.",
+        "When they meet again as adults, Hee Seung has left her career as a lawyer at a major law firm to become an agent. Hae Hwan, meanwhile, is a talented pitcher in a deep slump. The production team praised the resemblance between the younger and older actors, as well as the continuity in their expressions and chemistry.",
+        "“On Your Ground” is set to premiere on MBC in December."
+      ],
+      "socialCaption": "A first love returns to the field in “On Your Ground.” Read more about the drama's past and present on HallyuScope.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#OnYourGround",
+        "#HanHyoJoo",
+        "#GongMyoung",
+        "#JeonSoYoung"
+      ],
+      "seoDescription": "MBC's On Your Ground reveals the high school first love behind Han Hyo Joo and Gong Myoung's characters, played by Jeon So Young and Yoo Ji Hoon.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "92685bf066ea",
+      "createdAt": "2026-11-24T11:03:28.380Z",
+      "status": "published",
+      "publishedAt": "2026-11-24T11:03:28.380Z",
+      "sourcePublishedAt": "2026-11-24T05:09:50.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "twice-s-jeongyeon-appears-as-a-military-nurse-officer-in-new-film-stills",
+      "source": {
+        "publisher": "Soompi",
+        "title": "TWICE’s Jeongyeon Transforms Into A Military Nurse Officer In New Film “New Recruit: Haunted Military Hospital”",
+        "url": "https://www.soompi.com/article/1890012wpp/twices-jeongyeon-transforms-into-a-military-nurse-officer-in-new-film-new-recruit-haunted-military-hospital"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1890012wpp/twices-jeongyeon-transforms-into-a-military-nurse-officer-in-new-film-new-recruit-haunted-military-hospital",
+          "chars": 2037,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/movie/article/241/0003543195",
+          "chars": 842,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "“She is someone who does not simply encounter strange rumors but takes steps to resolve the issues surrounding them,” Jeongyeon said, according to Soompi.",
+          "the energy she brought to her interactions with the other actors"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-24T11:03:28.380Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/92685bf066ea.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/24140754/jeongyeon-1-1-1.jpeg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "TWICE's Jeongyeon appears as a military nurse officer in new film stills",
+      "dek": "The singer makes her screen acting debut in “New Recruit: Haunted Military Hospital,” which opens in theaters on December 30.",
+      "body": [
+        "TWICE member Jeongyeon is stepping into a military hospital for her screen acting debut. New character stills from “New Recruit: Haunted Military Hospital” show the singer as Yu Jeong Yeon, a nurse officer who cares for the hospital's patients.",
+        "In one image, she surveys the ward while holding a medical chart. Another captures her looking intently at something in a dark space. Her character is described as calm and composed, but she also takes action when strange rumors begin to circulate.",
+        "“She is someone who does not simply encounter strange rumors but takes steps to resolve the issues surrounding them,” Jeongyeon said, according to Soompi.",
+        "The film follows recruits admitted to a military hospital, where their hopes for a restful stay give way to unsettling rumors. As they investigate, they try to uncover the hospital's secrets. It is an adaptation of the series “New Recruit.”",
+        "To prepare for the unfamiliar role, Jeongyeon watched documentaries about military nurse officers. She studied details of their daily routines, including how they wear their uniforms, walk and carry a notebook and pen.",
+        "Director Min Jin Ki praised her portrayal and the energy she brought to her interactions with the other actors, saying he was “150 percent satisfied” with her performance. The film opens in theaters on December 30."
+      ],
+      "socialCaption": "Jeongyeon takes on a hospital mystery in her screen acting debut. Read on HallyuScope for her role and how she prepared.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#Jeongyeon",
+        "#TWICE",
+        "#NewRecruit",
+        "#HauntedMilitaryHospital"
+      ],
+      "seoDescription": "TWICE's Jeongyeon plays a military nurse officer in New Recruit: Haunted Military Hospital. See how she prepared for her screen acting debut.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "6af60a1e5f16",
       "createdAt": "2026-11-23T12:58:16.494Z",
