@@ -1,8 +1,321 @@
 {
-  "updatedAt": "2026-11-24T11:03:28.673Z",
+  "updatedAt": "2026-11-24T21:19:39.851Z",
   "autoPublish": true,
   "note": "Auto-publish is ON. Newly generated HallyuScope articles publish immediately.",
   "items": [
+    {
+      "id": "4b085d0a756a",
+      "createdAt": "2026-11-24T21:18:40.597Z",
+      "status": "published",
+      "publishedAt": "2026-11-24T21:18:40.597Z",
+      "sourcePublishedAt": "2026-11-24T18:57:04.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "kim-you-jung-leads-november-actor-brand-reputation-rankings",
+      "source": {
+        "publisher": "Soompi",
+        "title": "November Actor Brand Reputation Rankings Announced",
+        "url": "https://www.soompi.com/article/1890412wpp/november-actor-brand-reputation-rankings-announced-3"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1890412wpp/november-actor-brand-reputation-rankings-announced-3",
+          "chars": 1034,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-24T21:18:40.596Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/4b085d0a756a.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/25035444/Kim-You-Jung-Park-Jinyoung-Shin-Min-Ah-1.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "K-DRAMA NEWS",
+      "headline": "Kim You Jung Leads November Actor Brand Reputation Rankings",
+      "dek": "The 100 Days of Deception cast claimed three of the top four spots in the Korean Business Research Institute's November rankings.",
+      "body": [
+        "Kim You Jung topped the November actor brand reputation rankings, with her 100 Days of Deception co-star, GOT7's Park Jinyoung, taking second place.",
+        "The Korean Business Research Institute gave Kim an index of 5,857,724, while Park followed with 5,414,725. Fellow 100 Days of Deception actor Kim Hyun Joo placed fourth, putting three cast members in the top four.",
+        "Shin Min Ah ranked third with an index of 3,204,375. Kim Hyun Joo earned 3,029,621, and Go Youn Jung completed the top five with 2,920,048.",
+        "As Soompi reported, the institute assessed 100 actors who appeared in dramas, films or streaming content released between October 24 and November 24. Its analysis considered media coverage, participation, interaction and community indexes.",
+        "Kim You Jung can also be seen in the drama Dear X, while Park Jinyoung appears in the film Hi-Five. Shin Min Ah stars in the film The Eyes."
+      ],
+      "socialCaption": "Kim You Jung leads November's actor brand reputation rankings, with two 100 Days of Deception co-stars in the top four. Read the top five results on HallyuScope.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#KimYouJung",
+        "#ParkJinyoung",
+        "#100DaysOfDeception",
+        "#ShinMinAh"
+      ],
+      "seoDescription": "Kim You Jung leads November's actor brand reputation rankings, followed by GOT7's Park Jinyoung. See which stars rounded out the top five.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "62ff0fd5382d",
+      "createdAt": "2026-11-24T21:18:54.764Z",
+      "status": "published",
+      "publishedAt": "2026-11-24T21:18:54.764Z",
+      "sourcePublishedAt": "2026-11-24T18:11:28.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "lngshot-makes-billboard-200-debut-with-s-w-i-s-h",
+      "source": {
+        "publisher": "Soompi",
+        "title": "LNGSHOT Scores 1st-Ever Entry On Billboard 200 With &#8220;S.W.I.S.H.&#8221;",
+        "url": "https://www.soompi.com/article/1890406wpp/lngshot-scores-1st-ever-entry-on-billboard-200-with-s-w-i-s-h"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1890406wpp/lngshot-scores-1st-ever-entry-on-billboard-200-with-s-w-i-s-h",
+          "chars": 599,
+          "depth": 1
+        },
+        {
+          "publisher": "Billboard",
+          "url": "https://www.billboard.com/charts/world-albums",
+          "chars": 392,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "ranks the most popular albums in the United States",
+          "the seventh best-selling album of the week in the United States"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-24T21:18:54.763Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/62ff0fd5382d.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/25030721/LNGSHOT.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "TRENDING",
+      "headline": "LNGSHOT Makes Billboard 200 Debut With 'S.W.I.S.H.'",
+      "dek": "The EP entered the US albums chart at No. 118 and landed in the top 10 on two other Billboard charts.",
+      "body": [
+        "LNGSHOT has entered the Billboard 200 for the first time with its EP “S.W.I.S.H.” The release debuted at No. 118 on the chart for the week ending November 28.",
+        "Billboard announced the group’s first appearance on the chart on November 24 local time, Soompi reported. The Billboard 200 ranks the most popular albums in the United States.",
+        "“S.W.I.S.H.” also opened at No. 3 on Billboard’s World Albums chart and No. 7 on Top Album Sales. The latter placement made it the seventh best-selling album of the week in the United States.",
+        "The World Albums chart measures consumption using traditional album sales alongside album equivalents from streams and individual track sales."
+      ],
+      "socialCaption": "LNGSHOT has made its first Billboard 200 appearance with “S.W.I.S.H.” Read on HallyuScope for the EP’s chart results.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#LNGSHOT",
+        "#SWISH",
+        "#Billboard200",
+        "#WorldAlbums"
+      ],
+      "seoDescription": "LNGSHOT makes its Billboard 200 debut with the EP S.W.I.S.H., which also lands in the top 10 on the World Albums and Top Album Sales charts.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "e9c71aa36c09",
+      "createdAt": "2026-11-24T21:19:08.308Z",
+      "status": "published",
+      "publishedAt": "2026-11-24T21:19:08.308Z",
+      "sourcePublishedAt": "2026-11-24T17:31:16.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "ateez-score-four-billboard-no-1s-as-up-enters-the-hot-100",
+      "source": {
+        "publisher": "Soompi",
+        "title": "ATEEZ Tops 4 Billboard Charts As &#8220;UP&#8221; Becomes Their 3rd Song To Enter Hot 100",
+        "url": "https://www.soompi.com/article/1890400wpp/ateez-tops-4-billboard-charts-as-up-becomes-their-3rd-song-to-enter-hot-100"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1890400wpp/ateez-tops-4-billboard-charts-as-up-becomes-their-3rd-song-to-enter-hot-100",
+          "chars": 1023,
+          "depth": 1
+        },
+        {
+          "publisher": "Billboard",
+          "url": "https://www.billboard.com/charts/artist-100",
+          "chars": 625,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "the K-pop group with the most top 10 albums on the chart to date",
+          "which ranks the most popular songs in the United States"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-24T21:19:08.307Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/e9c71aa36c09.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/25022641/ATEEZ_fba2fa.jpeg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "TRENDING",
+      "headline": "ATEEZ score four Billboard No. 1s as 'UP' enters the Hot 100",
+      "dek": "The group's mini album 'GOLDEN HOUR : Part.6' debuted atop the Billboard 200, while its title track became their third Hot 100 entry.",
+      "body": [
+        "ATEEZ have claimed four No. 1 spots on Billboard's charts with their latest release, as title track \"UP\" made its debut on the Hot 100.",
+        "The group's mini album \"GOLDEN HOUR : Part.6\" opened at No. 1 on the Billboard 200, Top Album Sales and World Albums charts, Soompi reported. ATEEZ also returned to the top of the Artist 100, which ranks artists across genres using measures including sales, radio airplay and streaming.",
+        "The Billboard 200 result makes ATEEZ the K-pop group with the most top 10 albums on the chart to date. The mini album's Top Album Sales debut also means it was the week's best-selling album in the United States.",
+        "\"UP\" entered the Hot 100 at No. 90, giving ATEEZ their third appearance on the chart, which ranks the most popular songs in the United States. The group's previous entries were \"Lemon Drop\" and \"In Your Fantasy.\"",
+        "Together, the chart results mark a strong showing for both the mini album and its lead single, with ATEEZ placing at the top of Billboard's artist ranking as well as three album charts."
+      ],
+      "socialCaption": "ATEEZ have added another Hot 100 entry and four Billboard No. 1s. Read the full chart breakdown on HallyuScope.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#ATEEZ",
+        "#GOLDENHOURPart6",
+        "#ATEEZ_UP",
+        "#BillboardCharts"
+      ],
+      "seoDescription": "ATEEZ top four Billboard charts with GOLDEN HOUR : Part.6 as UP debuts at No. 90 on the Hot 100, becoming the group's third entry on the chart.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "1765ee0496ef",
+      "createdAt": "2026-11-24T21:19:21.562Z",
+      "status": "published",
+      "publishedAt": "2026-11-24T21:19:21.562Z",
+      "sourcePublishedAt": "2026-11-24T16:22:19.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "plave-sets-rest-period-while-preparing-next-album",
+      "source": {
+        "publisher": "Soompi",
+        "title": "PLAVE Announces Rest And Preparation Period Ahead Of Upcoming Activities",
+        "url": "https://www.soompi.com/article/1890392wpp/plave-announces-rest-and-preparation-period-ahead-of-upcoming-activities"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1890392wpp/plave-announces-rest-and-preparation-period-ahead-of-upcoming-activities",
+          "chars": 1500,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "return with LIVE and a variety of other content starting December 14"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-24T21:19:21.561Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/1765ee0496ef.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/25012025/PLAVE.jpeg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "PLAVE Sets Rest Period While Preparing Next Album",
+      "dek": "VLAST says PLAVE will return with LIVE and other content on December 14 after wrapping their world tour and HYPERDRIVE promotions.",
+      "body": [
+        "PLAVE is taking time to rest and work on its next album following the end of its 2026 KEEP IT MANIC world tour and promotions for its mini album HYPERDRIVE.",
+        "Agency VLAST announced the schedule update on November 24, saying the members began their rest and preparation period on November 23. During that time, they will work on songs for the next album while getting rest, according to the agency.",
+        "Fans will still have ways to keep up with the group. VLAST said PLAVE will continue to share content during the period, and the members will hold individual video livestreams on Weverse.",
+        "The group is scheduled to return with LIVE and a variety of other content starting December 14. VLAST thanked fans for supporting PLAVE through the tour and HYPERDRIVE promotions, and said the members are preparing new music and performances.",
+        "Before then, PLAVE is set to release “Lowkey,” a collaboration single with RIIZE. The track is scheduled to arrive on November 30 at 12 p.m. KST."
+      ],
+      "socialCaption": "PLAVE is taking time to rest and prepare new music. Read on HallyuScope for the group's upcoming content schedule.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#PLAVE",
+        "#RIIZE",
+        "#HYPERDRIVE",
+        "#Lowkey"
+      ],
+      "seoDescription": "PLAVE will rest and prepare its next album after the KEEP IT MANIC tour, with new content planned and a RIIZE collaboration single arriving November 30.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "08faf56e8bca",
+      "createdAt": "2026-11-24T21:19:39.600Z",
+      "status": "published",
+      "publishedAt": "2026-11-24T21:19:39.600Z",
+      "sourcePublishedAt": "2026-11-24T12:30:24.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "real-comedians-helped-shape-the-sketches-in-tvn-drama-happy-anding",
+      "source": {
+        "publisher": "Soompi",
+        "title": "“Happy Anding” Production Team Reveals How Real Comedians Helped Shape The Drama’s Comedy Sketches",
+        "url": "https://www.soompi.com/article/1890361wpp/happy-anding-production-team-reveals-how-real-comedians-helped-shape-the-dramas-comedy-sketches"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1890361wpp/happy-anding-production-team-reveals-how-real-comedians-helped-shape-the-dramas-comedy-sketches",
+          "chars": 3108,
+          "depth": 1
+        },
+        {
+          "publisher": "Hansbiz",
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=886502",
+          "chars": 1632,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [
+          "The next episode is scheduled to air on November 25 at 10:50 p.m. KST."
+        ],
+        "checkedAt": "2026-11-24T21:19:39.600Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/08faf56e8bca.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/24213019/happy-anding-bts-stills.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "K-DRAMA NEWS",
+      "headline": "Real comedians helped shape the sketches in tvN drama 'Happy Anding'",
+      "dek": "The production team studied live comedy and worked with comedians to bring fictional trio Asura's performances to the screen.",
+      "body": [
+        "The team behind tvN's coming-of-age drama “Happy Anding” turned to working comedians for help creating its onstage sketches and shaping the world of its fictional comedy trio, Asura.",
+        "Kang Hoon, Cho Hyun Chul and Kim Jung Jin play Kang Tae Gu, Kim Nam Il and Han Jun Seo, three comedians who have spent a decade trying to make a name for themselves. After meeting a mysterious woman, they begin looking for new ways forward.",
+        "Based on the Japanese NTV series “Life's Punchline,” the drama keeps the original's focus on the value of pursuing a dream, rather than judging that effort solely by its outcome. The production team told Soompi that it wanted to share the message that experiences people dismiss as meaningless can still matter.",
+        "To adapt the story for Korean viewers, the team interviewed comedians and observed how live performers revised material, met after shows and developed a rhythm with their audiences. The creators said their subjects' love of being onstage became central to their portrayal of Asura.",
+        "Staff from “Gag Concert” and the former Yoon Hyung Bin Small Theater helped the team observe the process from backstage preparation through performance. Comedian Song Pil Geun joined during planning, helped create the drama's sketches and assisted with acting rehearsals. Song and Yoo Jae Phil were among the comedians who also coached performances on set.",
+        "Song praised the three actors' commitment to portraying an unusual profession and said the drama moved him to tears during episodes 1, 3 and 4."
+      ],
+      "socialCaption": "How did real comedians help shape Asura's performances? Read more about the making of Happy Anding on HallyuScope.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#HappyAnding",
+        "#KangHoon",
+        "#ChoHyunChul",
+        "#KimJungJin"
+      ],
+      "seoDescription": "The Happy Anding production team worked with real comedians to create sketches and shape the drama's fictional comedy trio, Asura.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "454b1e98725c",
       "createdAt": "2026-11-24T11:01:09.333Z",
