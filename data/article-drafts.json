@@ -1,8 +1,326 @@
 {
-  "updatedAt": "2026-11-25T04:55:27.832Z",
+  "updatedAt": "2026-11-25T15:43:56.146Z",
   "autoPublish": true,
   "note": "Auto-publish is ON. Newly generated HallyuScope articles publish immediately.",
   "items": [
+    {
+      "id": "ba5ad2cd631d",
+      "createdAt": "2026-11-25T15:42:36.451Z",
+      "status": "published",
+      "publishedAt": "2026-11-25T15:42:36.451Z",
+      "sourcePublishedAt": "2026-11-25T09:43:16.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "nam-tae-woo-returns-as-choi-il-gu-in-new-recruit-film-stills",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Nam Tae Woo’s Prickly Character Returns With A New Rank In “New Recruit: Haunted Military Hospital”",
+        "url": "https://www.soompi.com/article/1890685wpp/nam-tae-woos-prickly-character-returns-with-a-new-rank-in-new-recruit-haunted-military-hospital"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1890685wpp/nam-tae-woos-prickly-character-returns-with-a-new-rank-in-new-recruit-haunted-military-hospital",
+          "chars": 2329,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "newly appointed non-commissioned officer with the rank of staff sergeant"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-25T15:42:36.450Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/ba5ad2cd631d.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/25184310/New-Recruit-Haunted-Military-Hospital-5-1.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Nam Tae Woo Returns as Choi Il Gu in New Recruit Film Stills",
+      "dek": "The actor reprises his role with a new rank and fresh responsibilities in “New Recruit: Haunted Military Hospital,” opening December 30.",
+      "body": [
+        "Nam Tae Woo is back as Choi Il Gu in new character stills for “New Recruit: Haunted Military Hospital,” bringing the familiar soldier from the “New Recruit” series to the big screen.",
+        "The film follows a group of recruits admitted to a military hospital, where their hopes of a relaxing stay give way to frightening rumors. As strange events unfold, they set out to uncover the hospital’s secrets.",
+        "Choi Il Gu returns as a newly appointed non-commissioned officer with the rank of staff sergeant, having previously been a sergeant in the series. His habit of complaining remains, but his new position also means taking care of junior soldiers while adjusting to a leadership role.",
+        "Nam said approaching the character as an officer gave him a different perspective from playing him as a soldier. He focused on showing the sincerity beneath Il Gu’s harsh words and irritation, as the character takes responsibility for more soldiers.",
+        "The film adapts the “New Recruit” series, known for its portrayal of military life. “New Recruit: Haunted Military Hospital” is set to open in theaters on December 30."
+      ],
+      "socialCaption": "Choi Il Gu has a new rank in the upcoming New Recruit film. Read on HallyuScope for what Nam Tae Woo shared about his return.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#NamTaeWoo",
+        "#NewRecruit",
+        "#HauntedMilitaryHospital",
+        "#ChoiIlGu"
+      ],
+      "seoDescription": "Nam Tae Woo returns as Choi Il Gu in New Recruit: Haunted Military Hospital, where his character takes on a new rank and greater responsibility.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "94ac52093f58",
+      "createdAt": "2026-11-25T15:42:50.840Z",
+      "status": "published",
+      "publishedAt": "2026-11-25T15:42:50.840Z",
+      "sourcePublishedAt": "2026-11-25T08:04:29.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "jin-young-and-cho-yi-hyun-film-a-seaside-date-in-new-summer-vacation-video",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: Jin Young And Cho Yi Hyun Melt Hearts With Their Sweet Chemistry On Set Of “Summer Vacation”",
+        "url": "https://www.soompi.com/article/1890569wpp/watch-jin-young-and-cho-yi-hyun-melt-hearts-with-their-sweet-chemistry-on-set-of-summer-vacation"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1890569wpp/watch-jin-young-and-cho-yi-hyun-melt-hearts-with-their-sweet-chemistry-on-set-of-summer-vacation",
+          "chars": 967,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "an ordinary high school student who has a mysterious experience during her summer vacation before returning to reality"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-25T15:42:50.839Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/94ac52093f58.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/25134822/summer-vacation-8.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Jin Young and Cho Yi Hyun Film a Seaside Date in New Summer Vacation Video",
+      "dek": "The making-of clip takes viewers behind the scenes as the teen romance stars prepare for a date scene by the sea.",
+      "body": [
+        "A new making-of video for the teen romance drama “Summer Vacation” offers a look at Jin Young and Cho Yi Hyun filming a seaside date scene.",
+        "As the actors get ready for the scene, Cho sits on Jin Young’s lap. The clip also shows Jin Young adjusting her hair after the breeze moves it out of place, helping prepare for a scene involving a back hug.",
+        "Cho plays Kim Ha Yeon, an ordinary high school student who has a mysterious experience during her summer vacation before returning to reality. Jin Young stars as Jo Yu Gyeom, a boy her age.",
+        "“Summer Vacation” is available to watch with subtitles on Viki, according to Soompi."
+      ],
+      "socialCaption": "Jin Young and Cho Yi Hyun head to the seaside in a new Summer Vacation making-of clip. Read on HallyuScope for a look at the scene.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#SummerVacation",
+        "#JinYoung",
+        "#ChoYiHyun",
+        "#KDrama"
+      ],
+      "seoDescription": "Jin Young and Cho Yi Hyun film a seaside date in a new Summer Vacation making-of video, offering a behind-the-scenes look at the teen romance drama.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "f03e016bde6f",
+      "createdAt": "2026-11-25T15:43:14.947Z",
+      "status": "published",
+      "publishedAt": "2026-11-25T15:43:14.947Z",
+      "sourcePublishedAt": "2026-11-25T07:46:28.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "yoon-kyung-ho-draws-on-his-school-days-for-comedy-film-teen-cop",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Yoon Kyung Ho Dishes On Playing A Mature-Looking High School Student In Upcoming Comedy Film “Teen Cop”",
+        "url": "https://www.soompi.com/article/1890555wpp/yoon-kyung-ho-dishes-on-playing-a-mature-looking-high-school-student-in-upcoming-comedy-film-teen-cop"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1890555wpp/yoon-kyung-ho-dishes-on-playing-a-mature-looking-high-school-student-in-upcoming-comedy-film-teen-cop",
+          "chars": 2014,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/movie/article/629/0000555258",
+          "chars": 1292,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [
+          "Yoon told Soompi about the role; the source reports his remarks but does not say he spoke to Soompi."
+        ],
+        "copiedPhrases": [
+          "“like a gift” that let him comfort his younger self, who had lacked confidence in his appearance"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-25T15:43:14.947Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/f03e016bde6f.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/25131052/teen-cop.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Yoon Kyung Ho Draws on His School Days for Comedy Film ‘Teen Cop’",
+      "dek": "The actor plays a 19-year-old student frequently mistaken for an adult in the upcoming film with Kim Hye Yoon.",
+      "body": [
+        "Yoon Kyung Ho is revisiting his own school days for his role in “Teen Cop,” an upcoming comedy-action film set for release in January 2027.",
+        "New stills released by distributor NEW introduce the actor as Gyu Jin, a 19-year-old high school student whose mature appearance leads to frequent mix-ups. At a school uniform store, even the staff mistake him for a parent. Despite his imposing looks, Gyu Jin is gentle and innocent.",
+        "The film follows the student and a youthful-looking detective who become caught up in an unexpected incident. Directed by Yang Jun Ho, it stars Yoon alongside Kim Hye Yoon.",
+        "Yoon said the premise felt personal because he had been told he looked older than his age since his school days. As he prepared for the role, he studied details including rapid speech and a shy, hunched walk to capture Gyu Jin’s teenage mannerisms.",
+        "The actor told Soompi that the role was “like a gift” that let him comfort his younger self, who had lacked confidence in his appearance. He also described the film as a comedy driven by accumulating misunderstandings, with situations becoming funnier as the characters take them more seriously.",
+        "Kim, meanwhile, praised her co-star’s dedication, saying she drew energy from him on set. “Teen Cop” marks Yoon’s first film as one of two leads."
+      ],
+      "socialCaption": "Yoon Kyung Ho plays a teenager with a mature appearance in “Teen Cop.” Read on HallyuScope for how his own school days shaped the role.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#YoonKyungHo",
+        "#KimHyeYoon",
+        "#TeenCop",
+        "#KoreanFilm"
+      ],
+      "seoDescription": "Yoon Kyung Ho draws on his school days to play a mature-looking teen in “Teen Cop,” the upcoming comedy-action film with Kim Hye Yoon.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "ceec71170aef",
+      "createdAt": "2026-11-25T15:43:39.267Z",
+      "status": "published",
+      "publishedAt": "2026-11-25T15:43:39.267Z",
+      "sourcePublishedAt": "2026-11-25T07:31:55.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "gong-myoung-and-sung-joon-take-the-mound-as-friends-and-rivals-in-on-your-ground",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Gong Myoung, Sung Joon, And More Come Together As Members Of A Professional Baseball Team In “On Your Ground”",
+        "url": "https://www.soompi.com/article/1890628wpp/gong-myoung-sung-joon-and-more-come-together-as-members-of-a-professional-baseball-team-in-on-your-ground"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1890628wpp/gong-myoung-sung-joon-and-more-come-together-as-members-of-a-professional-baseball-team-in-on-your-ground",
+          "chars": 4322,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/408/0000329044",
+          "chars": 2293,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "a sidearm pitcher who is Hae Hwan's longtime friend and rival"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-25T15:43:39.266Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/ceec71170aef.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/25163149/on-your-ground-01.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Gong Myoung and Sung Joon Take the Mound as Friends and Rivals in 'On Your Ground'",
+      "dek": "MBC's upcoming baseball romance follows a pitcher seeking a comeback, with new stills introducing the players and staff around him.",
+      "body": [
+        "MBC has released new stills from “On Your Ground,” its upcoming romance starring Gong Myoung as a pitcher trying to return to professional baseball. The drama is set to premiere in December.",
+        "Gong Myoung plays Kang Hae Hwan, a former star whose career was interrupted by a car accident. After two years of rehabilitation, he faces the challenge of proving himself again. His path back to the field begins after he meets Seo Hee Seung, a former lawyer turned agent played by Han Hyo Joo.",
+        "At the center of the story is the Miracles, a professional club where the drama follows both the players and the people running the team. Sung Joon plays Yoon Yi Seok, a sidearm pitcher who is Hae Hwan's longtime friend and rival. While Hae Hwan was recognized as a gifted player from a young age, Yi Seok worked his way up through the minor leagues to become the team's ace.",
+        "The club's catchers also have long histories with Hae Hwan. Kim Young Sung plays Hong Seung Hyun, a defense-oriented catcher who has clashed with the pitcher before. Cheon Ju An plays Han Joo Won, Hae Hwan's personal catcher and teammate since their school days.",
+        "Away from the field, Kim Joong Ki plays general manager Oh Yoon Seok, who comes from the club's parent company and prioritizes business efficiency and results. Jung Soon Won plays operations team leader Kim Do Shik, a former Miracles infielder who helps navigate issues between the players and the front office.",
+        "Alongside Hae Hwan's comeback and relationships with his teammates, “On Your Ground” will explore club decisions that affect players' careers and the challenges they face as baseball changes."
+      ],
+      "socialCaption": "Gong Myoung and Sung Joon play longtime friends and rivals in MBC's upcoming baseball drama. Read on HallyuScope for a look at the Miracles roster.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#OnYourGround",
+        "#GongMyoung",
+        "#SungJoon",
+        "#HanHyoJoo"
+      ],
+      "seoDescription": "Gong Myoung leads MBC's baseball romance On Your Ground, with Sung Joon as his friend and rival. Meet the Miracles players and front office.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "a11111942d7a",
+      "createdAt": "2026-11-25T15:43:55.031Z",
+      "status": "published",
+      "publishedAt": "2026-11-25T15:43:55.031Z",
+      "sourcePublishedAt": "2026-11-25T06:12:12.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "41st-golden-disc-awards-reveals-nominees-for-hanoi-ceremony",
+      "source": {
+        "publisher": "Soompi",
+        "title": "41st Golden Disc Awards Announces Nominees",
+        "url": "https://www.soompi.com/article/1890589wpp/41st-golden-disc-awards-announces-nominees"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1890589wpp/41st-golden-disc-awards-announces-nominees",
+          "chars": 643,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/home/article/437/0000522372",
+          "chars": 1377,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "songs and albums released from early November 2025 through late October 2026 were eligible for consideration"
+        ],
+        "missingKeyFacts": [
+          "For artists with multiple eligible releases, the highest-selling song or album was selected as their representative nominee in each category."
+        ],
+        "checkedAt": "2026-11-25T15:43:55.031Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/a11111942d7a.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/25151618/golden-disc-1-.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "TRENDING",
+      "headline": "41st Golden Disc Awards reveals nominees for Hanoi ceremony",
+      "dek": "BTS, IVE and aespa are among the artists nominated as the awards prepare to take place in Hanoi on January 9 and 10, 2027.",
+      "body": [
+        "The 41st Golden Disc Awards has announced its nominees for the digital song and album main awards, as well as Rookie Artist of the Year, ahead of its January ceremony in Hanoi, Vietnam.",
+        "According to Soompi, songs and albums released from early November 2025 through late October 2026 were eligible for consideration. Organizer HLL said nominees were selected using measures including digital music usage and album sales.",
+        "The Digital Song Division and Album Division each have 20 nominees. BTS, IVE and aespa appear in both categories, alongside Hearts2Hearts, NMIXX and Taeyeon on the digital song list and Stray Kids, ENHYPEN and SEVENTEEN members JEONGHAN X JOSHUA on the album list.",
+        "The rookie category has 15 nominees, selected using combined digital usage and album sales. ALPHA DRIVE ONE is nominated for both Rookie Artist of the Year and the album main award.",
+        "Sung Si Kyung and Mun Ka Young will host the ceremony on January 9 and 10, 2027, at a special outdoor stage at the Vietnam Exposition Center. Actors Ryu Seung Ryong, Kim Mu Yeol, Ji Chang Wook, Hwang In Yeop and Go Youn Jung are set to attend as presenters."
+      ],
+      "socialCaption": "The 41st Golden Disc Awards nominees are here. Read on HallyuScope for the categories and Hanoi ceremony details.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#GoldenDiscAwards",
+        "#BTS",
+        "#IVE",
+        "#aespa"
+      ],
+      "seoDescription": "The 41st Golden Disc Awards names nominees for its digital song, album and rookie awards ahead of the January 2027 ceremony in Hanoi.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "e92baa36a4aa",
       "createdAt": "2026-11-25T04:55:26.928Z",
