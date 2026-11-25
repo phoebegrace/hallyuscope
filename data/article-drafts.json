@@ -1,8 +1,71 @@
 {
-  "updatedAt": "2026-11-24T21:19:39.851Z",
+  "updatedAt": "2026-11-25T04:55:27.832Z",
   "autoPublish": true,
   "note": "Auto-publish is ON. Newly generated HallyuScope articles publish immediately.",
   "items": [
+    {
+      "id": "e92baa36a4aa",
+      "createdAt": "2026-11-25T04:55:26.928Z",
+      "status": "published",
+      "publishedAt": "2026-11-25T04:55:26.928Z",
+      "sourcePublishedAt": "2026-11-24T22:02:00.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "illit-s-break-even-marks-third-week-on-billboard-200",
+      "source": {
+        "publisher": "Soompi",
+        "title": "ILLIT&#8217;s &#8220;BREAK EVEN&#8221; Becomes Their 1st Album To Spend 3 Weeks On Billboard 200",
+        "url": "https://www.soompi.com/article/1890447wpp/illits-break-even-becomes-their-1st-album-to-spend-3-weeks-on-billboard-200"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1890447wpp/illits-break-even-becomes-their-1st-album-to-spend-3-weeks-on-billboard-200",
+          "chars": 921,
+          "depth": 1
+        },
+        {
+          "publisher": "Billboard",
+          "url": "https://www.billboard.com/charts/world-albums/",
+          "chars": 8605,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-25T04:55:26.926Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/e92baa36a4aa.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/25080041/ILLIT_48bb4f.jpeg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "ILLIT’s ‘BREAK EVEN’ Marks Third Week on Billboard 200",
+      "dek": "The mini album is ILLIT’s first to spend three weeks on the Billboard 200, following its top 10 debut.",
+      "body": [
+        "ILLIT’s “BREAK EVEN” has become the group’s first album to spend three weeks on the Billboard 200.",
+        "As Soompi reported, Billboard revealed on November 24 local time that the mini album ranked No. 153 in its third consecutive week on the chart. It debuted at No. 6 earlier in the month, giving ILLIT their first top 10 entry on the albums chart.",
+        "“BREAK EVEN” also placed No. 5 on Billboard’s World Albums chart and No. 16 on the Top Album Sales chart that week.",
+        "The mini album’s title track, “You’re Under Arrest,” appeared on two of Billboard’s global song charts for a fourth week. It ranked No. 35 on the Global Excl. U.S. chart and No. 48 on the Global 200.",
+        "ILLIT’s previous title track, “It’s Me,” continued its run on the Global Excl. U.S. chart, placing No. 179 in its 29th week."
+      ],
+      "socialCaption": "ILLIT’s “BREAK EVEN” has reached a new Billboard milestone. Read on HallyuScope for the album and song chart rankings.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#ILLIT",
+        "#BREAKEVEN",
+        "#YoureUnderArrest",
+        "#Billboard200"
+      ],
+      "seoDescription": "ILLIT’s BREAK EVEN becomes their first album to spend three weeks on the Billboard 200, while You’re Under Arrest continues its global chart run.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "4b085d0a756a",
       "createdAt": "2026-11-24T21:18:40.597Z",
