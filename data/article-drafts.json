@@ -1,8 +1,66 @@
 {
-  "updatedAt": "2026-11-25T15:43:56.146Z",
+  "updatedAt": "2026-11-26T00:27:59.141Z",
   "autoPublish": true,
   "note": "Auto-publish is ON. Newly generated HallyuScope articles publish immediately.",
   "items": [
+    {
+      "id": "3c94321157ff",
+      "createdAt": "2026-11-26T00:27:57.987Z",
+      "status": "published",
+      "publishedAt": "2026-11-26T00:27:57.987Z",
+      "sourcePublishedAt": "2026-11-25T18:30:00.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "ateez-nct-dream-and-rescene-lead-circle-weekly-charts",
+      "source": {
+        "publisher": "Soompi",
+        "title": "ATEEZ, NCT DREAM, RESCENE, A2O LITE, And ILLIT Top Circle Weekly Charts",
+        "url": "https://www.soompi.com/article/1890842wpp/ateez-nct-dream-rescene-a2o-lite-and-illit-top-circle-weekly-charts"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1890842wpp/ateez-nct-dream-rescene-a2o-lite-and-illit-top-circle-weekly-charts",
+          "chars": 2444,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-26T00:27:57.986Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/3c94321157ff.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/26062923/ATEEZ-NCT-DREAM-RESCENE-A2O-LITE.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "TRENDING",
+      "headline": "ATEEZ, NCT DREAM and RESCENE Lead Circle Weekly Charts",
+      "dek": "A2O LITE also held two No. 1 spots, while ILLIT remained atop the social chart for the week of November 8 to 14.",
+      "body": [
+        "ATEEZ, NCT DREAM and RESCENE each scored a No. 1 on Circle Chart's weekly rankings for November 8 to 14, while A2O LITE's debut single “NEON” continued to lead two charts.",
+        "ATEEZ's mini album “GOLDEN HOUR : Part.6” debuted at No. 1 on the physical album chart. Its POCA version appeared separately at No. 3. NCT DREAM's studio album “DREAM AFTER DREAM” entered at No. 2, with its SMC version at No. 5. LNGSHOT's EP “S.W.I.S.H.” took No. 4.",
+        "NCT DREAM also led the digital download chart with their new single “Boogie Woogie.” RESCENE's “With” followed at No. 2, while ISEGYE IDOL placed two songs in the top five: “REBELS” at No. 3 and “Love Cell” at No. 5. MEOMURU's “The Adult I Dreamed Of” rose to No. 4.",
+        "On the overall digital chart, RESCENE's “With” climbed to No. 1, ahead of A2O LITE's “NEON” and MEOMURU's track. ILLIT's “You're Under Arrest” held No. 4, and “Boogie Woogie” debuted at No. 5.",
+        "A2O LITE kept the top spot on both the streaming and global K-pop charts with “NEON.” BESTie's 2013 song “Love Options” climbed to No. 2 on the global chart, followed by ILLIT's “You're Under Arrest.”",
+        "ILLIT remained No. 1 on the social chart, with PSY and BTS at No. 2 and No. 3. A2O LITE ranked fourth, and NCT DREAM jumped 94 places to No. 5."
+      ],
+      "socialCaption": "ATEEZ, NCT DREAM and RESCENE are among Circle Chart's latest weekly leaders. Read the full rankings on HallyuScope.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#ATEEZ",
+        "#NCTDREAM",
+        "#RESCENE",
+        "#CircleChart"
+      ],
+      "seoDescription": "ATEEZ, NCT DREAM and RESCENE lead Circle's weekly charts, while A2O LITE holds two No. 1 spots and ILLIT tops the social chart.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "ba5ad2cd631d",
       "createdAt": "2026-11-25T15:42:36.451Z",
