@@ -1,8 +1,516 @@
 {
-  "updatedAt": "2026-11-26T00:27:59.141Z",
+  "updatedAt": "2026-11-26T09:39:39.273Z",
   "autoPublish": true,
   "note": "Auto-publish is ON. Newly generated HallyuScope articles publish immediately.",
   "items": [
+    {
+      "id": "1df7eaae62da",
+      "createdAt": "2026-11-26T09:37:39.606Z",
+      "status": "published",
+      "publishedAt": "2026-11-26T09:37:39.606Z",
+      "sourcePublishedAt": "2026-11-26T07:49:30.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "park-min-young-and-yook-sungjae-share-first-day-nerves-in-nine-to-six-making-of-video",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: Park Min Young, Yook Sungjae, Go Soo, And Joo Hyun Young Express Excitement At “Nine To Six” 1st Filming",
+        "url": "https://www.soompi.com/article/1890960wpp/watch-park-min-young-yook-sungjae-go-soo-and-joo-hyun-young-express-excitement-at-nine-to-six-1st-filming"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1890960wpp/watch-park-min-young-yook-sungjae-go-soo-and-joo-hyun-young-express-excitement-at-nine-to-six-1st-filming",
+          "chars": 1669,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [
+          "Park Min Young shares first-day nerves in the making-of video."
+        ],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-26T09:37:39.605Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/1df7eaae62da.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/26133204/nine-to-six-7.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Park Min Young and Yook Sungjae share first-day nerves in 'Nine to Six' making-of video",
+      "dek": "The SBS romance drama's behind-the-scenes video follows its cast as they begin filming and settle into their roles.",
+      "body": [
+        "Park Min Young and Yook Sungjae are taking viewers behind the scenes of their first day filming SBS romance drama “Nine to Six.” The newly released making-of video also features cast members Go Soo and Joo Hyun Young discussing their characters and the set.",
+        "Park stars as Kang Yi Ji, a workaholic who has put romance aside while concentrating on her career. When she meets the warm and thoughtful Han Sun Woo, played by Yook, she begins to open herself up to love. Their relationship unfolds as both navigate their work and personal lives.",
+        "In the video, Park talks about returning to the office drama genre and getting back into suits for the role. She also laughs about the challenges ahead, saying she expects filming to be demanding. Yook, meanwhile, says he feels nervous on set, much like Sun Woo on his first day at work.",
+        "Go Soo, who plays Park Hyun Tae, shares an upbeat first impression of the set and says he feels a good rapport with it. Joo Hyun Young, who plays Shin Ji Won, says she is still getting to know her character and expects Ji Won to feel more complete after meeting her husband and Yi Ji.",
+        "The next episode of “Nine to Six” airs November 26 at 9 p.m. KST."
+      ],
+      "socialCaption": "Park Min Young and Yook Sungjae take fans behind the scenes of their first day on Nine to Six. Read more about the cast's experiences on HallyuScope.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#NineToSix",
+        "#ParkMinYoung",
+        "#YookSungjae",
+        "#JooHyunYoung"
+      ],
+      "seoDescription": "Park Min Young, Yook Sungjae, Go Soo and Joo Hyun Young share their first-day filming experiences in a new Nine to Six behind-the-scenes video.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "27ecfb89d77c",
+      "createdAt": "2026-11-26T09:37:55.707Z",
+      "status": "published",
+      "publishedAt": "2026-11-26T09:37:55.707Z",
+      "sourcePublishedAt": "2026-11-26T06:17:31.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "golden-disc-awards-reveals-first-performers-for-2027-hanoi-show",
+      "source": {
+        "publisher": "Soompi",
+        "title": "41st Golden Disc Awards Announces 1st Artist Lineup",
+        "url": "https://www.soompi.com/article/1891014wpp/41st-golden-disc-awards-announces-1st-artist-lineup"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1891014wpp/41st-golden-disc-awards-announces-1st-artist-lineup",
+          "chars": 658,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/home/article/437/0000522573",
+          "chars": 5049,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-26T09:37:55.707Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/27ecfb89d77c.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/26151711/2026-gda-1st-lineup.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "TRENDING",
+      "headline": "Golden Disc Awards Reveals First Performers for 2027 Hanoi Show",
+      "dek": "TXT's Yeonjun, Yena and ZEROBASEONE are among 12 acts announced for the two-day ceremony in January.",
+      "body": [
+        "The 41st Golden Disc Awards has announced its first group of performers, with TXT's Yeonjun and soloist Yena joining 10 groups on the lineup for the ceremony in Hanoi, Vietnam.",
+        "Organizer HLL revealed the artists on November 26. Alongside Yeonjun and Yena, the acts are A2O LITE, ALLDAY PROJECT, ALPHA DRIVE ONE, AND2BLE, CORTIS, Hearts2Hearts, KiiiKiii, RESCENE, TWS and ZEROBASEONE, Soompi reported.",
+        "The awards will take place on January 9 and 10, 2027, at a special outdoor stage at the Vietnam Exposition Center. Sung Si Kyung and Mun Ka Young will return as hosts after leading the previous ceremony.",
+        "Several artists are returning after wins at the 40th Golden Disc Awards. ALLDAY PROJECT received both the rookie award and a digital song bonsang, while ZEROBASEONE won an album bonsang. CORTIS took home a rookie award, KiiiKiii received the Next Generation award, and TWS won Best Performance.",
+        "For RESCENE, ALPHA DRIVE ONE, A2O LITE and Hearts2Hearts, the upcoming ceremony will mark their first Golden Disc Awards performances. ALPHA DRIVE ONE is also nominated for rookie and album bonsang awards.",
+        "Actors Ryu Seung Ryong, Kim Mu Yeol, Ji Chang Wook, Hwang In Youp and Go Youn Jung will attend as award presenters."
+      ],
+      "socialCaption": "The Golden Disc Awards has revealed its first performers for Hanoi. Read on HallyuScope for the full lineup and ceremony details.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#GoldenDiscAwards",
+        "#YEONJUN",
+        "#ZEROBASEONE",
+        "#TWS"
+      ],
+      "seoDescription": "The 41st Golden Disc Awards announces its first performers, including TXT's Yeonjun and ZEROBASEONE, for the January 2027 ceremony in Hanoi.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "853ee38bf2c5",
+      "createdAt": "2026-11-26T09:38:16.928Z",
+      "status": "published",
+      "publishedAt": "2026-11-26T09:38:16.928Z",
+      "sourcePublishedAt": "2026-11-26T05:11:37.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "hwang-jung-min-and-yum-jung-ah-reunite-for-cultural-heritage-mission-in-mission-cross-2",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: Hwang Jung Min And Yum Jung Ah Take Their Married-Couple Teamwork To The Next Level In “Mission: Cross 2” Teasers",
+        "url": "https://www.soompi.com/article/1890947wpp/watch-hwang-jung-min-and-yum-jung-ah-take-their-married-couple-teamwork-to-the-next-level-in-mission-cross-2-teasers"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1890947wpp/watch-hwang-jung-min-and-yum-jung-ah-take-their-married-couple-teamwork-to-the-next-level-in-mission-cross-2-teasers",
+          "chars": 1900,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/movie/article/117/0004128211",
+          "chars": 738,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-26T09:38:16.926Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/853ee38bf2c5.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/26141514/mission-cross-2-teaser.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "Hwang Jung Min and Yum Jung Ah Reunite for Cultural Heritage Mission in ‘Mission: Cross 2’",
+      "dek": "Netflix has released a poster and teaser for the action sequel, which premieres on December 25.",
+      "body": [
+        "Hwang Jung Min and Yum Jung Ah are back in action as a married couple with a new assignment in Netflix’s “Mission: Cross 2.” The film will premiere on December 25.",
+        "The sequel follows Park Kang Mu and Mi Seon as they try to stop a mysterious organization from smuggling Korean cultural heritage artifacts out of the country. In the first film, Kang Mu was a former secret agent living as a househusband and keeping his past from Mi Seon, a violent crimes detective.",
+        "The new teaser opens with Kang Mu descending on a wire in an apron, while Mi Seon takes down opponents. After attackers steal national-treasure-level artifacts, the president, played by Cha In Pyo, gives the couple a secret mission to recover them.",
+        "The poster places the pair in front of a bronze pensive Maitreya statue and stacks of boxes, previewing the cultural heritage recovery mission at the center of the sequel.",
+        "Alongside the returning leads, the cast includes Jung Man Sik, Yoon Kyung Ho, Im Seong Jae, Cha In Pyo and Kim Guk Hee."
+      ],
+      "socialCaption": "The “Mission: Cross” couple is back with a new assignment. Read on HallyuScope for the teaser and release details.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#MissionCross2",
+        "#HwangJungMin",
+        "#YumJungAh",
+        "#KoreanFilm"
+      ],
+      "seoDescription": "Hwang Jung Min and Yum Jung Ah return in Netflix’s Mission: Cross 2, with a new teaser previewing their mission to recover stolen cultural artifacts.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "93dc9ea51729",
+      "createdAt": "2026-11-26T09:38:36.225Z",
+      "status": "published",
+      "publishedAt": "2026-11-26T09:38:36.225Z",
+      "sourcePublishedAt": "2026-11-26T04:45:33.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "cha-seung-won-and-kim-do-hoon-team-up-in-first-teaser-for-retired-personnel-management",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: Cha Seung Won And Kim Do Hoon Are Deadly Agents With Hilariously Awkward Teamwork In “Retired Personnel Management”",
+        "url": "https://www.soompi.com/article/1890901wpp/watch-cha-seung-won-and-kim-do-hoon-are-deadly-agents-with-hilariously-awkward-teamwork-in-retired-personnel-management"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1890901wpp/watch-cha-seung-won-and-kim-do-hoon-are-deadly-agents-with-hilariously-awkward-teamwork-in-retired-personnel-management",
+          "chars": 1718,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/382/0001306894",
+          "chars": 728,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "a former National Intelligence Service black agent who now runs a neighborhood car wash",
+          "an elite agent who has been demoted to the Retired Personnel Management Team"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-26T09:38:36.224Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/93dc9ea51729.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/26134527/Retired-Personnel-Management-teaser.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Cha Seung Won and Kim Do Hoon Team Up in First Teaser for Retired Personnel Management",
+      "dek": "The upcoming tvN drama pairs a former intelligence agent with a demoted ace whose individual skills do not guarantee smooth teamwork.",
+      "body": [
+        "Cha Seung Won and Kim Do Hoon are joining forces in the first teaser for tvN's upcoming drama “Retired Personnel Management,” and their characters' partnership is off to a rocky start.",
+        "The series stars Cha as Kim Chul Soo, a former National Intelligence Service black agent who now runs a neighborhood car wash. Kim plays Go Yo Han, an elite agent who has been demoted to the Retired Personnel Management Team. The two form an alliance as they look for a fresh start.",
+        "According to Soompi, the teaser gives each character a chance to show what he can do. Chul Soo, dressed in a suit, leaves a laundromat and takes down a group approaching him. Yo Han, meanwhile, infiltrates enemy territory and faces multiple opponents in a gunfight.",
+        "Working together appears to be another matter. After a joint operation, the pair emerge with battered faces and attempt a high-five, only to miss each other's hands. Both shake their heads in frustration.",
+        "“Retired Personnel Management” premieres on January 4, 2027, at 8:45 p.m. KST. The Monday-Tuesday drama will follow “Signal Part 2.”"
+      ],
+      "socialCaption": "Cha Seung Won and Kim Do Hoon are skilled agents with a teamwork problem. Read on HallyuScope for a look at their first teaser.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#ChaSeungWon",
+        "#KimDoHoon",
+        "#RetiredPersonnelManagement",
+        "#tvNDrama"
+      ],
+      "seoDescription": "Cha Seung Won and Kim Do Hoon play unlikely partners in the first teaser for tvN drama Retired Personnel Management, premiering January 4, 2027.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "049acbb24df7",
+      "createdAt": "2026-11-26T09:38:45.330Z",
+      "status": "published",
+      "publishedAt": "2026-11-26T09:38:45.330Z",
+      "sourcePublishedAt": "2026-11-26T04:13:30.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "lee-sung-min-and-kang-ha-neul-lead-a-family-divided-in-ode-to-my-father-2",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: Lee Sung Min, Kang Ha Neul, And More Reflect On The Meaning Of Family In Teaser For “Ode To My Father” Sequel",
+        "url": "https://www.soompi.com/article/1890961wpp/watch-lee-sung-min-kang-ha-neul-and-more-reflect-on-the-meaning-of-family-in-teaser-for-ode-to-my-father-sequel"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1890961wpp/watch-lee-sung-min-kang-ha-neul-and-more-reflect-on-the-meaning-of-family-in-teaser-for-ode-to-my-father-sequel",
+          "chars": 2535,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/home/article/408/0000329200",
+          "chars": 2023,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-26T09:38:45.329Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/049acbb24df7.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/26131155/ode-to-my-father-2.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "Lee Sung Min and Kang Ha Neul Lead a Family Divided in ‘Ode to My Father 2’",
+      "dek": "The sequel to the 2014 film has released its first poster and teaser ahead of a 2027 Lunar New Year theatrical release.",
+      "body": [
+        "Lee Sung Min and Kang Ha Neul play a father and son navigating their differences in “Ode to My Father 2,” the upcoming sequel to the 2014 film. The production has unveiled its first poster and teaser ahead of its release during the 2027 Lunar New Year holiday.",
+        "Lee stars as Jin Man, who has spent his life working at Gukje Market and supporting his family. Kang plays his youngest son Se Joo, whose ambitions lead him away from the path his father envisioned. Their conflict and gradual understanding form the heart of the story.",
+        "The poster looks back on an earlier moment in their relationship, showing Jin Man carrying a young Se Joo on his back through a neighborhood alley. The teaser combines behind-the-scenes glimpses of the family’s daily life with the cast’s reflections on what family means to them.",
+        "Moon So Ri plays mother Ok Ryeon, while Jung Sung Il, Woo Ji Hyun and Park Jin Joo portray the couple’s other children, Dong Joo, Gi Joo and Hee Joo. Kim Geum Soon plays their aunt Sung Ja. The teaser closes with a family photo of the seven cast members.",
+        "Director Yoon Je Kyun returns from the original “Ode to My Father” to direct the sequel, which will open in theaters nationwide."
+      ],
+      "socialCaption": "Lee Sung Min and Kang Ha Neul face a generational divide in the first look at “Ode to My Father 2.” Read on HallyuScope for the cast and release details.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#OdeToMyFather2",
+        "#LeeSungMin",
+        "#KangHaNeul",
+        "#MoonSoRi"
+      ],
+      "seoDescription": "Lee Sung Min and Kang Ha Neul star in Ode to My Father 2. See the cast and first teaser details ahead of its 2027 Lunar New Year release.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "66c48d2b3699",
+      "createdAt": "2026-11-26T09:39:03.324Z",
+      "status": "published",
+      "publishedAt": "2026-11-26T09:39:03.324Z",
+      "sourcePublishedAt": "2026-11-26T03:27:28.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "kim-hye-yoon-goes-undercover-in-new-stills-for-comedy-action-film-teen-cop",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Kim Hye Yoon Is A Baby-Faced Detective Going Undercover As High School Student In New Comedy Film “Teen Cop”",
+        "url": "https://www.soompi.com/article/1890940wpp/kim-hye-yoon-is-a-baby-faced-detective-going-undercover-as-high-school-student-in-new-comedy-film-teen-cop"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1890940wpp/kim-hye-yoon-is-a-baby-faced-detective-going-undercover-as-high-school-student-in-new-comedy-film-teen-cop",
+          "chars": 1711,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/movie/article/629/0000555717",
+          "chars": 1341,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [
+          "Kim Hye Yoon told Soompi that the genre was unfamiliar to her and that the director gave her room to explore it."
+        ],
+        "copiedPhrases": [
+          "Her youthful appearance often keeps others from recognizing her skills.",
+          "Under pressure to deliver results, she goes undercover as a high school student.",
+          "I told the director that I wanted to bring out my more easygoing side through Hui Yeon."
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-26T09:39:03.323Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/66c48d2b3699.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/26110736/teen-cop-3.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Kim Hye Yoon Goes Undercover in New Stills for Comedy Action Film 'Teen Cop'",
+      "dek": "The actor plays a 30-year-old detective posing as a high school student in the film, set to open in January 2027.",
+      "body": [
+        "Kim Hye Yoon is heading back to the classroom in the upcoming comedy action film “Teen Cop,” with newly released stills introducing her character, detective Hui Yeon.",
+        "Hui Yeon graduated at the top of her class at the Korean National Police University, but her youthful appearance often keeps others from recognizing her skills. Under pressure to deliver results, she goes undercover as a high school student.",
+        "Her efforts to fit in include wearing pigtails and trying out slang she has quickly learned. But when a case arises, Hui Yeon shows the investigative instincts behind her disguise.",
+        "The film follows the detective and a mature-looking high school student as they become caught up in an unexpected incident. Yoon Kyung Ho plays 19-year-old student Gyu Jin, according to The Fact, while Yang Jun Ho directs the film.",
+        "To prepare for the role, Kim trained at an action school for three months, learning advanced boxing-based moves. She told Soompi that comedy action investigation was an unfamiliar genre for her, but the director gave her room to fully explore it.",
+        "“I told the director that I wanted to bring out my more easygoing side through Hui Yeon,” she said. Yoon also praised his co-star as an actor whose presence makes things positive.",
+        "“Teen Cop” is scheduled for release in theaters in January 2027."
+      ],
+      "socialCaption": "Kim Hye Yoon is a detective with a high school disguise in Teen Cop. Read on HallyuScope for more on her role and action training.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#KimHyeYoon",
+        "#TeenCop",
+        "#YoonKyungHo",
+        "#KoreanFilm"
+      ],
+      "seoDescription": "Kim Hye Yoon plays an undercover detective in Teen Cop. See what her new role entails and how she prepared for the film's action scenes.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "f4c973b3cd8f",
+      "createdAt": "2026-11-26T09:39:22.996Z",
+      "status": "published",
+      "publishedAt": "2026-11-26T09:39:22.996Z",
+      "sourcePublishedAt": "2026-11-26T02:14:39.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "soompi-highlights-k-dramas-that-explore-work-grief-and-mental-health",
+      "source": {
+        "publisher": "Soompi",
+        "title": "12 Thought-Provoking K-Dramas With Deep Messages",
+        "url": "https://www.soompi.com/article/1885253wpp/12-thought-provoking-k-dramas-with-deep-messages"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1885253wpp/12-thought-provoking-k-dramas-with-deep-messages",
+          "chars": 10308,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [
+          "The selection includes a drama about a trauma cleaner and his estranged uncle uncovering the stories of people who have died."
+        ],
+        "checkedAt": "2026-11-26T09:39:22.995Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/f4c973b3cd8f.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/26085134/The-Ordinary-Jackpot-Melo-Is-My-Nature.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "K-DRAMA NEWS",
+      "headline": "Soompi Highlights K-Dramas That Explore Work, Grief and Mental Health",
+      "dek": "From the office pressures of The Ordinary Jackpot to the intertwined lives of Our Blues, the recommendations look beyond familiar drama tropes.",
+      "body": [
+        "A new Soompi selection of thought-provoking K-dramas brings together stories about financial pressure, mental health and the need for human connection. Among its recommendations are workplace, ensemble and fantasy dramas that approach difficult questions from different angles.",
+        "In The Ordinary Jackpot, Lee Jun Hyuk plays Gong Eun Tae, an overworked employee who wins 1.3 billion won but decides to keep his job. With a financial safety net, he begins to deal differently with his colleagues and bosses, putting workplace power dynamics in a new light.",
+        "Our Blues takes viewers to Jeju Island, where characters at different stages of life face loneliness, family tensions and financial strain. Its ensemble includes Lee Byung Hun, Shin Min Ah, Han Ji Min and Kim Woo Bin.",
+        "Mental health is central to Daily Dose of Sunshine, starring Park Bo Young as Jung Da Eun, a nurse adapting to work in a psychiatric ward. Tomorrow approaches distress through fantasy: Rowoon plays Choi Joon Woong, who joins a team of grim reapers led by Kim Hee Sun's Goo Ryun to help prevent suicides.",
+        "My Mister centers on an unlikely understanding between engineer Park Dong Hoon, played by Lee Sun Kyun, and debt-burdened temporary employee Lee Ji An, played by IU. It's Okay to Not Be Okay also explores emotional wounds, following a psychiatric hospital caregiver, his older brother and a children's book author as they confront painful memories."
+      ],
+      "socialCaption": "Looking for a K-drama with more on its mind? Read HallyuScope for a closer look at Soompi's recommendations.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#KDrama",
+        "#OurBlues",
+        "#MyMister",
+        "#DailyDoseOfSunshine"
+      ],
+      "seoDescription": "Explore Soompi's thoughtful K-drama recommendations, from Our Blues and My Mister to Daily Dose of Sunshine and The Ordinary Jackpot.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "bf6d1ecf3a45",
+      "createdAt": "2026-11-26T09:39:38.313Z",
+      "status": "published",
+      "publishedAt": "2026-11-26T09:39:38.313Z",
+      "sourcePublishedAt": "2026-11-26T01:30:17.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "choi-dae-hoon-joins-the-perfect-lie-as-detective-investigating-min-joon-ho-s-death",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Choi Dae Hoon Displays A Veteran Detective&#8217;s Sharp Gaze In &#8220;The Perfect Lie&#8221;",
+        "url": "https://www.soompi.com/article/1890897wpp/choi-dae-hoon-displays-a-veteran-detectives-sharp-gaze-in-the-perfect-lie"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1890897wpp/choi-dae-hoon-displays-a-veteran-detectives-sharp-gaze-in-the-perfect-lie",
+          "chars": 1429,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/382/0001306900",
+          "chars": 719,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-26T09:39:38.312Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/bf6d1ecf3a45.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/26101042/choi-dae-hoon-2-1.jpeg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Choi Dae Hoon Joins The Perfect Lie as Detective Investigating Min Joon Ho's Death",
+      "dek": "The actor will make a special appearance in the MBC drama as a veteran detective assigned to the case.",
+      "body": [
+        "Choi Dae Hoon is joining MBC's The Perfect Lie as the drama turns its attention to the investigation into Min Joon Ho's death. The production team announced his special appearance on November 26.",
+        "The news follows the ending of episode 8, in which Min Joon Ho, played by Yoo Yeon Seok, died. Choi will play Hwang Myung Soo, a lieutenant in the Metropolitan Investigation Unit tasked with investigating what happened.",
+        "Hwang is a homicide detective with 20 years of experience. Known for his persistence and intuition, he is also skilled at putting psychological pressure on suspects to uncover lies. His arrival adds another player to the search for the truth surrounding Min Joon Ho's death.",
+        "Newly released stills show Choi in character with a piercing gaze and a restrained expression. The serious role contrasts with his comedic performance in his previous drama, Agent Kim Reactivated.",
+        "The special appearance came about through Choi's connection with director Jo Young Min. Choi will make his first appearance in episode 9 of The Perfect Lie, which airs on November 27 at 9:50 p.m. KST."
+      ],
+      "socialCaption": "Choi Dae Hoon is entering The Perfect Lie as a detective on a major case. Read on HallyuScope for details on his role and first episode.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#ChoiDaeHoon",
+        "#ThePerfectLie",
+        "#YooYeonSeok",
+        "#MBCDrama"
+      ],
+      "seoDescription": "Choi Dae Hoon joins The Perfect Lie as a detective investigating Min Joon Ho's death. Find out when his first episode of the MBC drama airs.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "3c94321157ff",
       "createdAt": "2026-11-26T00:27:57.987Z",
