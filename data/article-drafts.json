@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T12:35:27.417Z",
+  "updatedAt": "2026-11-27T22:02:13.082Z",
   "autoPublish": true,
   "note": "Auto-publish is ON. Newly generated HallyuScope articles publish immediately.",
   "items": [
@@ -241,7 +241,7 @@
       },
       "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/58591e5db497.svg",
       "imageType": "hallyuscope_original",
-      "sourceImageUrl": null,
+      "sourceImageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/58591e5db497.svg",
       "imagePolicy": {
         "type": "hallyuscope_original",
         "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
