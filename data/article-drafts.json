@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-27T04:53:37.936Z",
+  "updatedAt": "2026-11-27T04:53:59.127Z",
   "autoPublish": true,
   "note": "Auto-publish is ON. Newly generated HallyuScope articles publish immediately.",
   "items": [
     {
       "id": "58591e5db497",
       "createdAt": "2026-11-27T04:53:37.936Z",
-      "status": "pending_review",
-      "publishedAt": null,
+      "status": "published",
+      "publishedAt": "2026-11-27T04:53:59.127Z",
       "sourcePublishedAt": null,
       "model": "gpt-6.1-terra",
       "qualityVersion": "ai-center-1",
@@ -62,7 +62,7 @@
       "sourceImageUrl": null,
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "Add or generate a HallyuScope editorial image during review."
+        "note": "HallyuScope original editorial cover."
       },
       "category": "COMEBACK NEWS",
       "headline": "aespa gives KISS N TELL an English version after its rise as a victory meme",
@@ -77,12 +77,14 @@
       ],
       "seoDescription": "aespa releases an English version of KISS N TELL as its Japanese hit passes 46 million streams and inspires fan celebrations and victory memes.",
       "socialCaption": "From fan celebrations to victory memes, KISS N TELL has found a new audience. Now aespa is giving the track an English version.",
-      "socialHashtags": [
-        "#aespa",
-        "#KISSNTELL",
-        "#HallyuScope"
-      ],
-      "sourceNote": "Sources: The Korea Herald, News1, Hanteo News, Sports Kyunghyang"
+      "socialHashtags": "#aespa #KISSNTELL #HallyuScope",
+      "sourceNote": "Sources: The Korea Herald, News1, Hanteo News, Sports Kyunghyang",
+      "socialImageUrl": "",
+      "socialPlatforms": {
+        "facebook": true,
+        "instagram": true
+      },
+      "reviewedAt": "2026-11-27T04:53:59.127Z"
     },
     {
       "id": "07a8065cd956",
