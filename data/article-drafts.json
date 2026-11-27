@@ -1,8 +1,190 @@
 {
-  "updatedAt": "2026-11-27T04:53:59.127Z",
+  "updatedAt": "2026-11-27T12:35:27.417Z",
   "autoPublish": true,
   "note": "Auto-publish is ON. Newly generated HallyuScope articles publish immediately.",
   "items": [
+    {
+      "id": "d8d30c6217bd",
+      "createdAt": "2026-11-27T12:35:00.603Z",
+      "status": "published",
+      "publishedAt": "2026-11-27T12:35:00.603Z",
+      "sourcePublishedAt": "2026-11-27T09:45:27.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "crash-2-shares-behind-the-scenes-photos-after-t-c-i-rescue-mission",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Lee Min Ki, Kwak Sun Young, Jisung, And More Showcase Their Action Skills And Teamwork In “Crash 2”",
+        "url": "https://www.soompi.com/article/1891413wpp/lee-min-ki-kwak-sun-young-jisung-and-more-showcase-their-action-skills-and-teamwork-in-crash-2"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1891413wpp/lee-min-ki-kwak-sun-young-jisung-and-more-showcase-their-action-skills-and-teamwork-in-crash-2",
+          "chars": 2170,
+          "depth": 1
+        },
+        {
+          "publisher": "Naver",
+          "url": "https://m.entertain.naver.com/now/article/382/0001307112",
+          "chars": 792,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [
+          "The original “Crash” was the first Korean drama to focus on traffic crime investigations."
+        ],
+        "checkedAt": "2026-11-27T12:35:00.602Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/d8d30c6217bd.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/27184438/crash-2-01-1.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "‘Crash 2’ Shares Behind-the-Scenes Photos After T.C.I. Rescue Mission",
+      "dek": "Lee Min Ki, Kwak Sun Young and their co-stars are seen at work and sharing laughs on the set of the traffic crime drama.",
+      "body": [
+        "The cast of “Crash 2” is giving viewers a look behind the action following a rescue mission for the Traffic Crime Investigation team. Newly released photos show the team in action and the actors sharing lighter moments after filming, Soompi reported.",
+        "Spoilers for the previous episode follow.",
+        "The investigation centered on Eo Hyun Kyung, played by Moon Hee, who was kidnapped and held in a shipping container. An SD card protected by Na Hae Joo, played by Choi Yoo Jin, helped T.C.I. uncover the criminal organization behind her abduction.",
+        "The team mounted a rescue operation at a used car export complex in Incheon and later arrested the organization’s leader on a yacht. Lee Min Ki’s Cha Yeon Ho used his Russian skills to overhear the criminals and locate Hyun Kyung, then took control of the yacht.",
+        "At the export complex, Kwak Sun Young’s Min So Hee fought members of the gang. Jung Chae Man, played by Heo Sung Tae, and Woo Dong Gi, played by Lee Ho Chul, supported the investigation, while Hyun Kyung managed to escape. Rookie Ji Dae Se, played by Jisung, also joined the operation.",
+        "The sequel to the 2024 drama “Crash” follows T.C.I. as it moves from Namgang Police Station to a regional unit under the National Office of Investigation, handling traffic crimes nationwide. “Crash 2” airs Mondays and Tuesdays at 10 p.m. KST."
+      ],
+      "socialCaption": "The “Crash 2” cast takes fans behind the scenes after a high-stakes rescue. Read on HallyuScope for a recap of the team’s mission.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#Crash2",
+        "#LeeMinKi",
+        "#KwakSunYoung",
+        "#Jisung"
+      ],
+      "seoDescription": "New “Crash 2” behind-the-scenes photos show Lee Min Ki, Kwak Sun Young and the cast after T.C.I.’s mission to rescue a kidnapped colleague.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "46c99b9a8f4d",
+      "createdAt": "2026-11-27T12:35:12.169Z",
+      "status": "published",
+      "publishedAt": "2026-11-27T12:35:12.169Z",
+      "sourcePublishedAt": "2026-11-27T04:00:18.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "illit-s-moka-plans-gradual-return-to-group-activities",
+      "source": {
+        "publisher": "Soompi",
+        "title": "ILLIT&#8217;s Moka Personally Shares Plans To Gradually Resume Activities",
+        "url": "https://www.soompi.com/article/1891294wpp/illits-moka-personally-shares-plans-to-gradually-resume-activities"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1891294wpp/illits-moka-personally-shares-plans-to-gradually-resume-activities",
+          "chars": 1252,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "Although it will be little by little, I will try to slowly join the other members for activities"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-27T12:35:12.168Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/46c99b9a8f4d.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/27125728/Moka.jpeg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "ILLIT's Moka Plans Gradual Return to Group Activities",
+      "dek": "Moka thanked fans for waiting as she shared that she will slowly rejoin her ILLIT bandmates following a health-related hiatus.",
+      "body": [
+        "ILLIT member Moka has shared plans to gradually return to group activities, telling fans she hopes to join her bandmates again little by little.",
+        "In a message posted on Weverse on November 27 KST, Moka thanked GLLIT, ILLIT's fandom, for waiting for her. She also expressed gratitude to the people who had helped her and said she was happy to greet fans again.",
+        "\"Although it will be little by little, I will try to slowly join the other members for activities,\" she wrote, asking fans to be patient as she returns.",
+        "Moka paused all activities earlier in the year because of health issues, shortly before ILLIT's April comeback with the mini album \"MAMIHLAPINATAPAI.\" She briefly returned at the end of May to take part in the final week of promotions for the release.",
+        "In June, BELIFT LAB announced that Moka needed more time to rest and recover due to symptoms of excessive tension and anxiety. In her new message, Moka closed by wishing fans happiness and thanking them for their support."
+      ],
+      "socialCaption": "Moka has shared her plans to gradually rejoin ILLIT. Read her message to fans and the timeline of her hiatus on HallyuScope.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#ILLIT",
+        "#Moka",
+        "#GLLIT",
+        "#MAMIHLAPINATAPAI"
+      ],
+      "seoDescription": "ILLIT's Moka says she plans to gradually return to group activities, thanking GLLIT for waiting as she shares an update following her hiatus.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "8fd6babfffca",
+      "createdAt": "2026-11-27T12:35:26.840Z",
+      "status": "published",
+      "publishedAt": "2026-11-27T12:35:26.840Z",
+      "sourcePublishedAt": "2026-11-27T03:57:37.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "lee-se-young-dramas-to-watch-from-palace-intrigue-to-a-hometown-reunion",
+      "source": {
+        "publisher": "Soompi",
+        "title": "6 More K-Dramas To Watch Featuring Lee Se Young",
+        "url": "https://www.soompi.com/article/1890421wpp/6-more-k-dramas-to-watch-featuring-lee-se-young"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1890421wpp/6-more-k-dramas-to-watch-featuring-lee-se-young",
+          "chars": 10443,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-27T12:35:26.839Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/8fd6babfffca.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/27120234/lee-se-young-1-.png",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "K-DRAMA NEWS",
+      "headline": "Lee Se Young dramas to watch: From palace intrigue to a hometown reunion",
+      "dek": "Soompi's latest watchlist highlights Lee Se Young roles in the small-town romance “Motel California” and the palace drama “The Remarried Empress.”",
+      "body": [
+        "Lee Se Young moves between a small-town reunion and a royal love triangle in two dramas featured on Soompi's latest watchlist of her work.",
+        "In “Motel California,” Lee plays Ji Kang Hee, who grew up in a motel owned by her father. Gossip about her mixed features and estranged foreign mother made life in her hometown difficult, and she left after turning 20. Twelve years later, she returns as a successful architect and reunites with her childhood best friend Cheon Yeon Soo, a veterinarian played by Na In Woo.",
+        "The drama is adapted from Shim Yun Seo's novel “Home, Bitter Home.” Alongside the romance between Kang Hee and Yeon Soo, it explores the experiences that shaped her relationship with the town she left behind.",
+        "For a different setting, “The Remarried Empress” casts Lee as Rashta Isqua, a runaway slave brought into the palace as Emperor Sovieshu's mistress. Ju Ji Hoon plays the emperor, while Shin Min Ah stars as Empress Navier Ellie Trovi, whose marriage is disrupted by Rashta's arrival.",
+        "Soompi highlights the conflicting perspectives around Rashta: She is a rival from Navier's point of view, but her own circumstances give viewers another way to understand her."
+      ],
+      "socialCaption": "From a hometown reunion to palace intrigue, Lee Se Young takes on two very different roles. Read about both dramas on HallyuScope.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#LeeSeYoung",
+        "#MotelCalifornia",
+        "#TheRemarriedEmpress",
+        "#KDrama"
+      ],
+      "seoDescription": "Explore Lee Se Young's roles in Motel California and The Remarried Empress, from a small-town reunion to a royal love triangle, in this drama watchlist.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "58591e5db497",
       "createdAt": "2026-11-27T04:53:37.936Z",
@@ -57,12 +239,12 @@
           }
         ]
       },
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/58591e5db497.svg",
       "imageType": "hallyuscope_original",
       "sourceImageUrl": null,
       "imagePolicy": {
         "type": "hallyuscope_original",
-        "note": "HallyuScope original editorial cover."
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
       },
       "category": "COMEBACK NEWS",
       "headline": "aespa gives KISS N TELL an English version after its rise as a victory meme",
