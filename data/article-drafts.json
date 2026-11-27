@@ -1,8 +1,70 @@
 {
-  "updatedAt": "2026-11-26T19:41:06.057Z",
+  "updatedAt": "2026-11-27T02:55:21.861Z",
   "autoPublish": true,
   "note": "Auto-publish is ON. Newly generated HallyuScope articles publish immediately.",
   "items": [
+    {
+      "id": "07a8065cd956",
+      "createdAt": "2026-11-27T02:55:21.206Z",
+      "status": "published",
+      "publishedAt": "2026-11-27T02:55:21.206Z",
+      "sourcePublishedAt": "2026-11-26T23:46:01.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "ji-chang-wook-gives-nct-wish-s-sion-a-camera-lesson-in-travel-show-preview",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Watch: Ji Chang Wook Teaches NCT&#8217;s Sion To Use A Camera In &#8220;Ojisan And The Flower Boy&#8221; Teaser",
+        "url": "https://www.soompi.com/article/1891094wpp/watch-ji-chang-wook-teaches-ncts-sion-to-use-a-camera-in-ojisan-and-the-flower-boy-teaser"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1891094wpp/watch-ji-chang-wook-teaches-ncts-sion-to-use-a-camera-in-ojisan-and-the-flower-boy-teaser",
+          "chars": 1101,
+          "depth": 1
+        },
+        {
+          "publisher": "T",
+          "url": "https://t.co/zs7fDSKGf7",
+          "chars": 338,
+          "depth": 2
+        }
+      ],
+      "verification": {
+        "status": "passed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-27T02:55:21.205Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/07a8065cd956.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/27084318/Ojisan-and-the-Flower-Boy.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "Ji Chang Wook Gives NCT WISH's Sion a Camera Lesson in Travel Show Preview",
+      "dek": "The actor and NCT WISH leader will travel around Japan together in TELASA's original variety show “Ojisan and the Flower Boy.”",
+      "body": [
+        "Ji Chang Wook and NCT WISH leader Sion are getting to know each other on a trip around Japan in the upcoming variety show “Ojisan and the Flower Boy.” A new preview offers a glimpse of their time together, including an impromptu camera lesson.",
+        "In the clip, the pair spend time outside a coffee shop, where Sion offers to take a photo of the actor. Ji Chang Wook then walks him through how to use his camera.",
+        "The travel variety show is co-produced by SLL JAPAN and streaming platform TELASA. It follows the two stars as they explore Japan and get acquainted.",
+        "“Ojisan and the Flower Boy” premieres on TELASA in Japan on December 24, with its first two episodes arriving at 9 a.m. JST. Plans for releases in other countries will be announced later. TELASA has also said the show's official Instagram account will share exclusive photos and videos."
+      ],
+      "socialCaption": "Ji Chang Wook gives NCT WISH's Sion a camera lesson in a preview of their Japan travel show. Read on HallyuScope for the premiere details.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#JiChangWook",
+        "#Sion",
+        "#NCTWISH",
+        "#OjisanAndTheFlowerBoy"
+      ],
+      "seoDescription": "Ji Chang Wook teaches NCT WISH's Sion to use a camera in a preview of their Japan travel show, Ojisan and the Flower Boy, premiering on TELASA.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "1df7eaae62da",
       "createdAt": "2026-11-26T09:37:39.606Z",
