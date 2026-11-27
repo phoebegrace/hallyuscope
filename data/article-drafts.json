@@ -1,8 +1,89 @@
 {
-  "updatedAt": "2026-11-27T02:55:21.861Z",
+  "updatedAt": "2026-11-27T04:53:37.936Z",
   "autoPublish": true,
   "note": "Auto-publish is ON. Newly generated HallyuScope articles publish immediately.",
   "items": [
+    {
+      "id": "58591e5db497",
+      "createdAt": "2026-11-27T04:53:37.936Z",
+      "status": "pending_review",
+      "publishedAt": null,
+      "sourcePublishedAt": null,
+      "model": "gpt-6.1-terra",
+      "qualityVersion": "ai-center-1",
+      "slug": "aespa-gives-kiss-n-tell-an-english-version-after-its-rise-as-a-victory-meme",
+      "source": {
+        "publisher": "The Korea Herald",
+        "title": "Aespa to drop English-language version of Japan single",
+        "url": "https://m.koreaherald.com/article/10951554?sec=007"
+      },
+      "aiResearch": {
+        "seed": "aespa releases eng ver of kiss and tell. success of kiss and tell and how fans use it",
+        "notes": "",
+        "researchSummary": "SM Entertainment confirmed that aespa's English version of KISS N TELL was scheduled for November 27, 2026. The original Japanese title track passed 46 million Spotify streams, while its music video became a celebratory reaction meme among K-pop fans and later some US political users.",
+        "facts": [
+          "KISS N TELL (English Ver.) was scheduled for release at 2 p.m. Korean time on November 27, 2026.",
+          "The original is the title track of aespa's first Japanese mini album, released on July 24, 2026.",
+          "The mini album topped Oricon's daily album chart upon release.",
+          "The original song surpassed 46 million cumulative Spotify streams by November 27, according to SM Entertainment reporting.",
+          "Fans used the music video's fireworks and group dance scene to celebrate favorite artists' achievements and tease rival fandoms.",
+          "Some Democratic and anti-MAGA users later shared the clip in posts celebrating US midterm election results.",
+          "A remix by m-flo's Taku Takahashi was released on November 20."
+        ],
+        "sources": [
+          {
+            "publisher": "The Korea Herald",
+            "title": "Aespa to drop English-language version of Japan single",
+            "url": "https://m.koreaherald.com/article/10951554?sec=007",
+            "kind": "publisher"
+          },
+          {
+            "publisher": "News1",
+            "title": "aespa also releases the English version of 'Kiss and Tell'…Continues to generate buzz",
+            "url": "https://en.sportalkorea.com/news/articleView.html?idxno=50542",
+            "kind": "publisher"
+          },
+          {
+            "publisher": "Hanteo News",
+            "title": "From Joker and Spider-Man to aespa? ‘KISS N TELL’ Takes Over U.S. Political Memes [HT Focus]",
+            "url": "https://www.hanteonews.com/en/article/94160",
+            "kind": "publisher"
+          },
+          {
+            "publisher": "Sports Kyunghyang",
+            "title": "aespa, Did they become the biggest beneficiary of the midterms… Rise to ‘meme’ status and surpass 40 million streams",
+            "url": "https://sports.khan.co.kr/en/article/202611131013007",
+            "kind": "publisher"
+          }
+        ]
+      },
+      "imageUrl": "",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": null,
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Add or generate a HallyuScope editorial image during review."
+      },
+      "category": "COMEBACK NEWS",
+      "headline": "aespa gives KISS N TELL an English version after its rise as a victory meme",
+      "dek": "The group's Japanese title track returns in English after reaching millions of streams and finding a second life in celebratory fan edits.",
+      "body": [
+        "aespa is bringing KISS N TELL to listeners in a new language. The group's English version of the Japanese track was scheduled to arrive on streaming platforms at 2 p.m. Korean time on November 27, following a run that took the original from a summer release to an unlikely online victory soundtrack.",
+        "The original KISS N TELL is the title track of aespa's first Japanese mini album, released on July 24. According to The Korea Herald, the six-track record debuted at No. 1 on Oricon's daily album ranking. The group had first performed the song at a Tokyo fan meeting before the album arrived.",
+        "Built on bright piano, a danceable house-pop beat and layered chorus harmonies, the song is about growing closer by sharing worries. The English recording keeps the original's musical character, according to reporting from News1 based on information from SM Entertainment. The agency also said the original had passed 46 million cumulative Spotify streams.",
+        "Its reach has extended beyond ordinary listening. Hanteo News reported that international K-pop fans had used a clip from the music video's finale to celebrate their favorite artists' achievements or poke fun at rival fandoms. In the scene, aespa and their dancers perform as fireworks and confetti fill the screen, making it a ready-made reaction for moments of triumph.",
+        "The clip later spread into US election conversations. Sports Kyunghyang and Hanteo News reported that some Democratic and anti-MAGA users attached it to posts celebrating midterm results. The meme's political use is distinct from the song's original theme, and the reports do not establish how much of its streaming total came from that trend.",
+        "The English version follows another reworking of the track: a remix by m-flo's Taku Takahashi released on November 20. Together, the releases give listeners new ways to hear a song that has already traveled well beyond its original Japanese rollout."
+      ],
+      "seoDescription": "aespa releases an English version of KISS N TELL as its Japanese hit passes 46 million streams and inspires fan celebrations and victory memes.",
+      "socialCaption": "From fan celebrations to victory memes, KISS N TELL has found a new audience. Now aespa is giving the track an English version.",
+      "socialHashtags": [
+        "#aespa",
+        "#KISSNTELL",
+        "#HallyuScope"
+      ],
+      "sourceNote": "Sources: The Korea Herald, News1, Hanteo News, Sports Kyunghyang"
+    },
     {
       "id": "07a8065cd956",
       "createdAt": "2026-11-27T02:55:21.206Z",
