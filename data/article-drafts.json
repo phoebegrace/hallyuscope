@@ -1,8 +1,131 @@
 {
-  "updatedAt": "2026-11-28T03:57:17.110Z",
+  "updatedAt": "2026-11-28T13:08:13.833Z",
   "autoPublish": true,
   "note": "Auto-publish is ON. Newly generated HallyuScope articles publish immediately.",
   "items": [
+    {
+      "id": "bef71050d555",
+      "createdAt": "2026-11-28T13:08:02.440Z",
+      "status": "published",
+      "publishedAt": "2026-11-28T13:08:02.440Z",
+      "sourcePublishedAt": "2026-11-28T07:34:46.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "illit-s-moka-to-resume-activities-gradually-belift-lab-says",
+      "source": {
+        "publisher": "Soompi",
+        "title": "BELIFT LAB Shares Update On ILLIT&#8217;s Moka&#8217;s Return To Activities",
+        "url": "https://www.soompi.com/article/1891535wpp/belift-lab-shares-update-on-illits-mokas-return-to-activities"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1891535wpp/belift-lab-shares-update-on-illits-mokas-return-to-activities",
+          "chars": 2936,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "select activities she can manage without overexertion",
+          "Moka has rested and received treatment during her hiatus and has made gradual progress in her recovery",
+          "exercising and practicing as she prepares to return",
+          "anxiety or nervousness could resurface during her recovery"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-28T13:08:02.439Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/bef71050d555.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/28163243/Moka.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "ILLIT's Moka to Resume Activities Gradually, BELIFT LAB Says",
+      "dek": "The agency says Moka will take part in select activities as she continues her recovery, with her schedule dependent on her condition.",
+      "body": [
+        "ILLIT member Moka is preparing to return to activities gradually, with BELIFT LAB saying her health will remain the priority as she eases back into her schedule.",
+        "In a November 28 statement, the agency said Moka would begin with select activities she can manage without overexertion. It plans to expand her participation gradually while monitoring her condition, according to Soompi.",
+        "BELIFT LAB said Moka has rested and received treatment during her hiatus and has made gradual progress in her recovery. She has also been exercising and practicing as she prepares to return.",
+        "The agency cautioned that anxiety or nervousness could resurface during her recovery. Her participation may therefore change depending on how she is feeling, and the company may not be able to confirm her attendance at every activity in advance.",
+        "Moka had shared her plans to gradually resume activities with fans on Weverse on November 27. She previously paused all activities after experiencing excessive tension and anxiety, though she briefly returned for the final week of promotions for ILLIT's mini album \"MAMIHLAPINATAPAI\" in May.",
+        "BELIFT LAB thanked ILLIT's fans, known as GLLIT, for supporting Moka during her recovery and asked them to welcome her when she is able to meet them again."
+      ],
+      "socialCaption": "Moka is preparing to return to ILLIT activities at her own pace. Read BELIFT LAB's update on HallyuScope.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#ILLIT",
+        "#Moka",
+        "#GLLIT",
+        "#BELIFTLAB"
+      ],
+      "seoDescription": "ILLIT's Moka will gradually resume activities, BELIFT LAB says, with her participation depending on her condition as she continues her recovery.",
+      "sourceNote": "Source: Soompi"
+    },
+    {
+      "id": "b20ce7574fc7",
+      "createdAt": "2026-11-28T13:08:13.231Z",
+      "status": "published",
+      "publishedAt": "2026-11-28T13:08:13.231Z",
+      "sourcePublishedAt": "2026-11-28T04:18:51.000Z",
+      "model": "gpt-6.1-terra",
+      "qualityVersion": 3,
+      "slug": "hwang-minhyun-to-leave-pledis-entertainment-after-nearly-15-years",
+      "source": {
+        "publisher": "Soompi",
+        "title": "Hwang Minhyun To Leave PLEDIS After Nearly 15 Years",
+        "url": "https://www.soompi.com/article/1891502wpp/hwang-minhyun-to-leave-pledis-after-nearly-15-years"
+      },
+      "researchSources": [
+        {
+          "publisher": "Soompi",
+          "url": "https://www.soompi.com/article/1891502wpp/hwang-minhyun-to-leave-pledis-after-nearly-15-years",
+          "chars": 2308,
+          "depth": 1
+        }
+      ],
+      "verification": {
+        "status": "failed",
+        "unsupportedClaims": [],
+        "copiedPhrases": [
+          "In 2017, he appeared on Mnet’s survival show “Produce 101 Season 2” and became a member of the project group Wanna One.",
+          "made his drama acting debut in the 2020 series “Live On”"
+        ],
+        "missingKeyFacts": [],
+        "checkedAt": "2026-11-28T13:08:13.230Z"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/phoebegrace/hallyuscope/live-data/assets/editorial/b20ce7574fc7.svg",
+      "imageType": "hallyuscope_original",
+      "sourceImageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/28131740/Hwang-Minhyun.jpg",
+      "imagePolicy": {
+        "type": "hallyuscope_original",
+        "note": "Competitor/news-site thumbnail is retained only as internal reference. Published image is HallyuScope original unless explicitly replaced with a verified official asset."
+      },
+      "category": "HALLYU NEWS",
+      "headline": "Hwang Minhyun to leave PLEDIS Entertainment after nearly 15 years",
+      "dek": "The singer and actor will complete his scheduled activities with the agency before his exclusive contract ends on December 14.",
+      "body": [
+        "Hwang Minhyun is set to leave PLEDIS Entertainment after nearly 15 years with the agency. PLEDIS announced the decision on November 28, saying his exclusive contract will end on December 14, Soompi reported.",
+        "The agency said it reached a mutual agreement with Hwang after extended discussions about his future activities and plans. He will continue to carry out his upcoming scheduled activities before his time as a PLEDIS artist concludes.",
+        "Hwang debuted under PLEDIS in March 2012 as a member of NU’EST. In 2017, he appeared on Mnet’s survival show “Produce 101 Season 2” and became a member of the project group Wanna One. He later returned to NU’EST.",
+        "Alongside his group and solo music activities, Hwang has built an acting career. He made his drama acting debut in the 2020 series “Live On” and has also appeared in “My Lovely Liar” and “Study Group.”",
+        "In its announcement, PLEDIS thanked Hwang for their years together and wished him well in his next chapter. The agency also thanked his fans, known as Hwangdo, and asked them to continue supporting his future activities."
+      ],
+      "socialCaption": "Hwang Minhyun is leaving PLEDIS Entertainment after nearly 15 years. Read on HallyuScope for the agency’s announcement and a look at his career.",
+      "socialHashtags": [
+        "#HallyuScope",
+        "#HwangMinhyun",
+        "#NU_EST",
+        "#WannaOne",
+        "#PLEDIS"
+      ],
+      "seoDescription": "Hwang Minhyun will leave PLEDIS Entertainment when his contract ends on December 14, closing a nearly 15-year chapter with the agency.",
+      "sourceNote": "Source: Soompi"
+    },
     {
       "id": "d8d30c6217bd",
       "createdAt": "2026-11-27T12:35:00.603Z",

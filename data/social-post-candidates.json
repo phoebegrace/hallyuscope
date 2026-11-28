@@ -1,7 +1,223 @@
 {
-  "updatedAt": "2026-11-28T03:57:16.084Z",
+  "updatedAt": "2026-11-28T13:07:50.320Z",
   "note": "Additive social review queue. Existing live site data files are unchanged.",
   "items": [
+    {
+      "id": "9cbc04ed8676",
+      "title": "Is K-pop sensation Katseye over before it began?",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU2tlWjRhd0pTRG8xaHRnN0VNSEttazhxRWRJSzJ3VGZEUHhTZ25WNzBDOUhTSzlWOWFod1FwUjFkUXlpMlFRdmotRklrZ2RCX3p6cWlDV29ibzdpZV9hWGdkbmN1Ynp1cXlwRHJqcy1SVkFLRWhTMVl4c2pjQmxjMndR?oc=5",
+      "publishedAt": "2026-11-28T12:00:00.000Z",
+      "source": "Vox",
+      "description": "Is K-pop sensation Katseye over before it began? &nbsp;&nbsp; Vox",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "Is K-pop sensation Katseye over before it began? &nbsp;&nbsp; Vox",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU2tlWjRhd0pTRG8xaHRnN0VNSEttazhxRWRJSzJ3VGZEUHhTZ25WNzBDOUhTSzlWOWFod1FwUjFkUXlpMlFRdmotRklrZ2RCX3p6cWlDV29ibzdpZV9hWGdkbmN1Ynp1cXlwRHJqcy1SVkFLRWhTMVl4c2pjQmxjMndR",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "043475662b85",
+      "title": "'KPop Demon Hunters' Holiday Honmoon pop-up: Christmas merchandise, prices and availability",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZmdiaEoybFYwVDZMZUtoMU1QV3lfdENJQnN6VHBPZGItR3lMTHVpQUdiUnBvM3RPRzAyS3dIUEQ3UDVQUUJxcVlEWHEyY3poblFJd2xPSmo1UWdqNUdlQlpoNWV6Y0Zqa1h3WTJHSGN4MlE0TmtoVnNFQWtVbHl1RmZMS0d4RWE3d05nZ1NBMzlfZzl4bUVjQmZycjFQamFoQllubjFYVVB4OERLWVN5SG9xVzRRRzYyTkZyckpR?oc=5",
+      "publishedAt": "2026-11-28T08:47:04.000Z",
+      "source": "Lifestyle Asia",
+      "description": "'KPop Demon Hunters' Holiday Honmoon pop-up: Christmas merchandise, prices and availability &nbsp;&nbsp; Lifestyle Asia",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "'KPop Demon Hunters' Holiday Honmoon pop-up: Christmas merchandise, prices and availability &nbsp;&nbsp; Lifestyle Asia",
+      "articleUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZmdiaEoybFYwVDZMZUtoMU1QV3lfdENJQnN6VHBPZGItR3lMTHVpQUdiUnBvM3RPRzAyS3dIUEQ3UDVQUUJxcVlEWHEyY3poblFJd2xPSmo1UWdqNUdlQlpoNWV6Y0Zqa1h3WTJHSGN4MlE0TmtoVnNFQWtVbHl1RmZMS0d4RWE3d05nZ1NBMzlfZzl4bUVjQmZycjFQamFoQllubjFYVVB4OERLWVN5SG9xVzRRRzYyTkZyckpR",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "bef71050d555",
+      "title": "BELIFT LAB Shares Update On ILLIT&#8217;s Moka&#8217;s Return To Activities",
+      "url": "https://www.soompi.com/article/1891535wpp/belift-lab-shares-update-on-illits-mokas-return-to-activities",
+      "publishedAt": "2026-11-28T07:34:46.000Z",
+      "source": "Soompi",
+      "description": "BELIFT LAB has released a new statement on ILLIT’s Moka’s gradual return to activities. On November 27, Moka personally announced on Weverse that she was planning to gradually resume her activities. Earlier this year, she temporarily halted all activities due to symptoms of “excessive tension and anxiety,” though she briefly returned to participate in ILLIT’s&#8230; Continue reading BELIFT LAB Shares Update On ILLIT&#8217;s Moka&#8217;s Return To Activities The post BELIFT LAB Shares Update On ILLIT&#8217;s Moka&#8217;s Return To Activities appeared first on Soompi .",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "BELIFT LAB has released a new statement on ILLIT’s Moka’s gradual return to activities. On November 27, Moka personally announced on Weverse that she was planning to gradually resume her activities. Earlier this year, she temporarily halted all activities due to symptoms of “excessive tension and anxiety,” though she briefly returned to participate in ILLIT’s&#8230; Continue reading BELIFT LAB Shares Update On ILLIT&#8217;s Moka&#8217;s Return To Activities The post BELIFT LAB Shares Update On ILLIT&#8217;s Moka&#8217;s Return To Activities appeared first on Soompi .",
+      "articleUrl": "https://www.soompi.com/article/1891535wpp/belift-lab-shares-update-on-illits-mokas-return-to-activities",
+      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/28163243/Moka.jpg",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "BELIFT LAB SHARES UPDATE ON ILLIT&#039;S MOKA&#039;S RETURN TO ACTIVITIES: SOOMPI",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "BELIFT LAB SHARES UPDATE ON ILLIT&#039;S MOKA&#039;S RETURN TO ACTIVITIES: SOOMPI",
+          "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/28163243/Moka.jpg"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "08ca6dab008a",
+      "title": "ATEEZ x Marvel Rivals: K-pop group announces a new single collaboration, arriving on THIS date",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZUs1VnlQc1JrNkVQcjM0cU1tS3p2YlZ3enJjSHY2SEExc0VXb01waGFObWtzQW5Vb3hRYW9fdTNsT1BvZE44a2J1ejRuYmdDN0p1Z0MxZnBjUmxodmdBUHQtZlh5ZUdpMWpydXhKbERBOWlOQzl3amhWeGRXOVdjNzhSWEVqV2JaQUlvTHIzWS15cEVSeUx1VlZhcG0tRFZSNS1Xd0dadW4tRnA0NDJ4RmtNMXQwdlcxd2NySkNkcWZRbHdCN3Jkcm13aUdpUE42anVWM3hacjRJQWlNODBuN3pOWmxYSUVX?oc=5",
+      "publishedAt": "2026-11-28T06:24:56.000Z",
+      "source": "Business Upturn",
+      "description": "ATEEZ x Marvel Rivals: K-pop group announces a new single collaboration, arriving on THIS date &nbsp;&nbsp; Business Upturn",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "ATEEZ x Marvel Rivals: K-pop group announces a new single collaboration, arriving on THIS date &nbsp;&nbsp; Business Upturn",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZUs1VnlQc1JrNkVQcjM0cU1tS3p2YlZ3enJjSHY2SEExc0VXb01waGFObWtzQW5Vb3hRYW9fdTNsT1BvZE44a2J1ejRuYmdDN0p1Z0MxZnBjUmxodmdBUHQtZlh5ZUdpMWpydXhKbERBOWlOQzl3amhWeGRXOVdjNzhSWEVqV2JaQUlvTHIzWS15cEVSeUx1VlZhcG0tRFZSNS1Xd0dadW4tRnA0NDJ4RmtNMXQwdlcxd2NySkNkcWZRbHdCN3Jkcm13aUdpUE42anVWM3hacjRJQWlNODBuN3pOWmxYSUVX",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "COMEBACK NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "COMEBACK NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "ae11d69ed8d2",
+      "title": "TWICE's Jihyo to perform at major Latin American music festival",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcm1wVGx2a0trQlZUTWg1TDhCazgtUFFsclZSaDVMWDlfMVdyMjBob3pIOU1sZTlmdWtMcmVoWmUtanlWbkVEbmJMVUlaNEtyaFhVcVZ3R1B6VFNBUXVzVGZLcWYzX1Zod2h3dG9yZlNFbkpOV1Q2d05tU0FFTmFSaVVNa2FvQ2FDNFNKaFFoZmNyQ01YOVYyUnI3VThZdHRzS3o0OU1NTWpmZlZFd3dUbXp6enLSAboBQVVfeXFMUGcyTVdLVXdoRDd3RGY4dmRTZ2Q3MFFTakpneDZsbEJKVE8teVJlcmlITDRzcXVWcUJnUkswX0xWVmhHcUwwUnRqdnFod3p3X2hkWkxwREZTc3pJZ1FvQ2wzR29LY0tnUl9PX0phbUZJc0xNc1d4alV0ZmwzNVNrMl9pWllXTXFSTFVyeGxMaVpwVHV4NHY4MWlDNE1oVm1uNHczT0ZQazJtZDhfNWlPVFBVR2hGWjFwcTdB?oc=5",
+      "publishedAt": "2026-11-28T05:31:02.000Z",
+      "source": "The Korea Times",
+      "description": "TWICE's Jihyo to perform at major Latin American music festival &nbsp;&nbsp; The Korea Times",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "TWICE's Jihyo to perform at major Latin American music festival &nbsp;&nbsp; The Korea Times",
+      "articleUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcm1wVGx2a0trQlZUTWg1TDhCazgtUFFsclZSaDVMWDlfMVdyMjBob3pIOU1sZTlmdWtMcmVoWmUtanlWbkVEbmJMVUlaNEtyaFhVcVZ3R1B6VFNBUXVzVGZLcWYzX1Zod2h3dG9yZlNFbkpOV1Q2d05tU0FFTmFSaVVNa2FvQ2FDNFNKaFFoZmNyQ01YOVYyUnI3VThZdHRzS3o0OU1NTWpmZlZFd3dUbXp6enLSAboBQVVfeXFMUGcyTVdLVXdoRDd3RGY4dmRTZ2Q3MFFTakpneDZsbEJKVE8teVJlcmlITDRzcXVWcUJnUkswX0xWVmhHcUwwUnRqdnFod3p3X2hkWkxwREZTc3pJZ1FvQ2wzR29LY0tnUl9PX0phbUZJc0xNc1d4alV0ZmwzNVNrMl9pWllXTXFSTFVyeGxMaVpwVHV4NHY4MWlDNE1oVm1uNHczT0ZQazJtZDhfNWlPVFBVR2hGWjFwcTdB",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "17b37af53f9e",
+      "title": "‘Family Matters’ Season 2: Release Date, Returning Cast, Plot Predictions & Where to Watch the K-Drama",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS0ZMZ3liTnhYMGpYNDJkLTB6ekNlWENmQTJQb0MxWWVCZUVxaTZVUGZOZE1aOENXWG04XzR0UndlT1ltbHpOWXZLTDZBNEwxVWcyM2lnTDdRMFh2V2tFM0lWME1JcHVkdHQwQWdQcGszSWd0LUJ0N3ZFekdyV1BoX2xETThSTjJ3N0xSSE85SlVLcE85Tjlkak5WLXRlczVqa2VWR1V1aTY1Nlo0RHJWT2lpU2IzS0hUVGRIQVJ1VktRc01j?oc=5",
+      "publishedAt": "2026-11-28T05:06:17.000Z",
+      "source": "Dojeon Media",
+      "description": "‘Family Matters’ Season 2: Release Date, Returning Cast, Plot Predictions & Where to Watch the K-Drama &nbsp;&nbsp; Dojeon Media",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "‘Family Matters’ Season 2: Release Date, Returning Cast, Plot Predictions & Where to Watch the K-Drama &nbsp;&nbsp; Dojeon Media",
+      "articleUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS0ZMZ3liTnhYMGpYNDJkLTB6ekNlWENmQTJQb0MxWWVCZUVxaTZVUGZOZE1aOENXWG04XzR0UndlT1ltbHpOWXZLTDZBNEwxVWcyM2lnTDdRMFh2V2tFM0lWME1JcHVkdHQwQWdQcGszSWd0LUJ0N3ZFekdyV1BoX2xETThSTjJ3N0xSSE85SlVLcE85Tjlkak5WLXRlczVqa2VWR1V1aTY1Nlo0RHJWT2lpU2IzS0hUVGRIQVJ1VktRc01j",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "COMEBACK NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "COMEBACK NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "b20ce7574fc7",
+      "title": "Hwang Minhyun To Leave PLEDIS After Nearly 15 Years",
+      "url": "https://www.soompi.com/article/1891502wpp/hwang-minhyun-to-leave-pledis-after-nearly-15-years",
+      "publishedAt": "2026-11-28T04:18:51.000Z",
+      "source": "Soompi",
+      "description": "After nearly 15 years, Hwang Minhyun is parting ways with his longtime agency PLEDIS Entertainment. On November 28, PLEDIS Entertainment announced that Hwang Minhyun would be leaving the agency following the end of his exclusive contract on December 14. The agency’s full English statement is as follows: Hwang Minhyun first debuted under PLEDIS Entertainment as&#8230; Continue reading Hwang Minhyun To Leave PLEDIS After Nearly 15 Years The post Hwang Minhyun To Leave PLEDIS After Nearly 15 Years appeared first on Soompi .",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "After nearly 15 years, Hwang Minhyun is parting ways with his longtime agency PLEDIS Entertainment. On November 28, PLEDIS Entertainment announced that Hwang Minhyun would be leaving the agency following the end of his exclusive contract on December 14. The agency’s full English statement is as follows: Hwang Minhyun first debuted under PLEDIS Entertainment as&#8230; Continue reading Hwang Minhyun To Leave PLEDIS After Nearly 15 Years The post Hwang Minhyun To Leave PLEDIS After Nearly 15 Years appeared first on Soompi .",
+      "articleUrl": "https://www.soompi.com/article/1891502wpp/hwang-minhyun-to-leave-pledis-after-nearly-15-years",
+      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/28131740/Hwang-Minhyun.jpg",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "HWANG MINHYUN TO LEAVE PLEDIS AFTER NEARLY 15 YEARS: SOOMPI",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "HWANG MINHYUN TO LEAVE PLEDIS AFTER NEARLY 15 YEARS: SOOMPI",
+          "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/28131740/Hwang-Minhyun.jpg"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "42ddd62b323a",
+      "title": "TWICE's Jihyo First K-pop Solo Artist at Viña del Mar Festival",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMzZObmw5Mm54WUxSREdYVjZQQU5UOE1vYmJoeXZEa0w0SkVTUS1WblhFV0dka1RJRzRQOHNlMU1JUVBYMDR0akFBR2g1ZVRKQzA5b05SZWxLa0JyekxwZXB4YkdFQWFZeXE2S25uSGM2QWJNaDRjRlpJQnVQSjZkWjRSa1NzM01OU1NLQXh3?oc=5",
+      "publishedAt": "2026-11-28T03:59:54.000Z",
+      "source": "조선일보",
+      "description": "TWICE's Jihyo First K-pop Solo Artist at Viña del Mar Festival &nbsp;&nbsp; 조선일보",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "TWICE's Jihyo First K-pop Solo Artist at Viña del Mar Festival &nbsp;&nbsp; 조선일보",
+      "articleUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMzZObmw5Mm54WUxSREdYVjZQQU5UOE1vYmJoeXZEa0w0SkVTUS1WblhFV0dka1RJRzRQOHNlMU1JUVBYMDR0akFBR2g1ZVRKQzA5b05SZWxLa0JyekxwZXB4YkdFQWFZeXE2S25uSGM2QWJNaDRjRlpJQnVQSjZkWjRSa1NzM01OU1NLQXh3",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "1ebedd287675",
+      "title": "Enhypen | K-Pop, Boy Band, Members, Songs, Formation, & South Korea",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12Z1AwVXRvQUlIWktiUmJzZ25HY2xWS1owMU9Sd2cybWJUd3U3SDNYZnRkNVhEeHcyQWF1UEhqUWZvdFFnRTlPSnFuV3Q4S0NHR0E?oc=5",
+      "publishedAt": "2026-11-28T03:26:23.000Z",
+      "source": "Britannica",
+      "description": "Enhypen | K-Pop, Boy Band, Members, Songs, Formation, & South Korea &nbsp;&nbsp; Britannica",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "Enhypen | K-Pop, Boy Band, Members, Songs, Formation, & South Korea &nbsp;&nbsp; Britannica",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12Z1AwVXRvQUlIWktiUmJzZ25HY2xWS1owMU9Sd2cybWJUd3U3SDNYZnRkNVhEeHcyQWF1UEhqUWZvdFFnRTlPSnFuV3Q4S0NHR0E",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
     {
       "id": "83d5a2caa6ff",
       "title": "\"Golden\" from K-Pop: Demon Hunters Spans 75 Consecutive Weeks on UK Official Singles Chart",
@@ -27,6 +243,30 @@
       }
     },
     {
+      "id": "06ced3834820",
+      "title": "Hongdae Live Music Venues Face Inspections Amid Uncertainty Over Dance Ban Reform",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONkNFVVdpUEJvbG9mblliLVhoOE96ekNMVV9pZUZ3N0JQRkJ5d2lpakNrRkpFaWFrQ0xITXc2YW9BdW1aY3l0UEswUE5Tb1ZkRExqZmVQcjVxbFh1aXFWem5FTVRnUmtzd2hoTFI4WGlqbEppWVZwazlNSjhRbmNjWkhjb2xXbDhfZUQyTERmTVZpb3BqNGkxMUUxMi1iNnNLaTV1dGtJWFZnd1E5RlhXS1Nodw?oc=5",
+      "publishedAt": "2026-11-28T02:00:12.000Z",
+      "source": "hellokpop",
+      "description": "Hongdae Live Music Venues Face Inspections Amid Uncertainty Over Dance Ban Reform &nbsp;&nbsp; hellokpop",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "Hongdae Live Music Venues Face Inspections Amid Uncertainty Over Dance Ban Reform &nbsp;&nbsp; hellokpop",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONkNFVVdpUEJvbG9mblliLVhoOE96ekNMVV9pZUZ3N0JQRkJ5d2lpakNrRkpFaWFrQ0xITXc2YW9BdW1aY3l0UEswUE5Tb1ZkRExqZmVQcjVxbFh1aXFWem5FTVRnUmtzd2hoTFI4WGlqbEppWVZwazlNSjhRbmNjWkhjb2xXbDhfZUQyTERmTVZpb3BqNGkxMUUxMi1iNnNLaTV1dGtJWFZnd1E5RlhXS1Nodw",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
       "id": "5bf6f0bf2978",
       "title": "Mnet and Bandai Namco to build a virtual boy group as K-pop competition in the AI era shifts to IP ownership - K-EnterTech Hub",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11YU9nYlo5SmlEbVNMNUY2N3RmQnd4Sk5tbTRQbFJVWkozdFNrWnBsYmh4QWhnM0ZVaUhlS1QwVDZDdmhPb052UVA0LU12UUJNazFab1UtM3VXVHNQLS1sSGdtSEF1UUdoQ1E?oc=5",
@@ -44,6 +284,102 @@
         "status": "pending_review",
         "canvaFields": {
           "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "6834a57b2ccb",
+      "title": "Why Did Mnet Hide Idols... ‘Hush’ Hits 100 Million Views With No Songs or Dancing (Roundup)",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WQ2N4UUJtcHViRHhzYk9vZjM1bjkwUEtJOEpjTGtCWUdTSi1KT2plb3ViTUJ3RGY0MUNRd20yNkJqdVZaaHo2VmZXZnppbVRJT2R5M081ZDNBTTlweldGQWpnNmVCM0JZcjJUTlpWVWt6bUdaU1p0em96MGRZQQ?oc=5",
+      "publishedAt": "2026-11-27T22:28:51.000Z",
+      "source": "스포츠조선",
+      "description": "Why Did Mnet Hide Idols... ‘Hush’ Hits 100 Million Views With No Songs or Dancing (Roundup) &nbsp;&nbsp; 스포츠조선",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "Why Did Mnet Hide Idols... ‘Hush’ Hits 100 Million Views With No Songs or Dancing (Roundup) &nbsp;&nbsp; 스포츠조선",
+      "articleUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WQ2N4UUJtcHViRHhzYk9vZjM1bjkwUEtJOEpjTGtCWUdTSi1KT2plb3ViTUJ3RGY0MUNRd20yNkJqdVZaaHo2VmZXZnppbVRJT2R5M081ZDNBTTlweldGQWpnNmVCM0JZcjJUTlpWVWt6bUdaU1p0em96MGRZQQ",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "6d296221b9ea",
+      "title": "TWICE's NAYEON Announces New Solo Album 'NA-stier' And Releases Three New Songs On 'NA-sty'",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd2tEVUxhb1JBa2JQdjMxc0RHcC1Vd1JqRXo1Z0h5c0MwU0pkeXpxRlZqZTZ1NGIybG4tUVNVcmJXeEk1SUJHUVlzVHVQd0w2VHgtaTNBZWFVVGNTeHZGWVFVZTMxSkhNUWhMcThLbGxYMzRVODdvendRTENYUlR0VF90MmczempTdS1YbTUzXzlpamk3Sk9XLUtUdFZYNTZQZUdBY19FMWJ4QmxJYmV3TGFrZWFYVWNqSkl2VFZIaERTekw5OTlB?oc=5",
+      "publishedAt": "2026-11-27T22:07:41.000Z",
+      "source": "That Eric Alper",
+      "description": "TWICE's NAYEON Announces New Solo Album 'NA-stier' And Releases Three New Songs On 'NA-sty' &nbsp;&nbsp; That Eric Alper",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "TWICE's NAYEON Announces New Solo Album 'NA-stier' And Releases Three New Songs On 'NA-sty' &nbsp;&nbsp; That Eric Alper",
+      "articleUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd2tEVUxhb1JBa2JQdjMxc0RHcC1Vd1JqRXo1Z0h5c0MwU0pkeXpxRlZqZTZ1NGIybG4tUVNVcmJXeEk1SUJHUVlzVHVQd0w2VHgtaTNBZWFVVGNTeHZGWVFVZTMxSkhNUWhMcThLbGxYMzRVODdvendRTENYUlR0VF90MmczempTdS1YbTUzXzlpamk3Sk9XLUtUdFZYNTZQZUdBY19FMWJ4QmxJYmV3TGFrZWFYVWNqSkl2VFZIaERTekw5OTlB",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "COMEBACK NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "COMEBACK NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "d416ca71173e",
+      "title": "Review: Lumera and Neon Rise Crystal Art K-Pop Stars Character Worlds",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR2t3U09wSkNXTkVYM0h0OWJnZmlfeGh2RGhNeUZSWXZHX2hEV2taZVppS1A5X1VhTjZtMHdDZU9YWXlfQ3pOU1pxSnNKT0Z5eWVQMzlHaU9PVlNqQ2VBWEVZSmszYkM5c3dBaUVOV1NSQ3hGaGNuQjBJZXJLbzJYZ2NFTlNMSzJvaDRQSF9YajJkTVVvLXA1dURfcnJzSjlmanJlWUlkZTBFY1hUTG1JMw?oc=5",
+      "publishedAt": "2026-11-27T21:40:02.000Z",
+      "source": "Movies Games and Tech",
+      "description": "Review: Lumera and Neon Rise Crystal Art K-Pop Stars Character Worlds &nbsp;&nbsp; Movies Games and Tech",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "Review: Lumera and Neon Rise Crystal Art K-Pop Stars Character Worlds &nbsp;&nbsp; Movies Games and Tech",
+      "articleUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR2t3U09wSkNXTkVYM0h0OWJnZmlfeGh2RGhNeUZSWXZHX2hEV2taZVppS1A5X1VhTjZtMHdDZU9YWXlfQ3pOU1pxSnNKT0Z5eWVQMzlHaU9PVlNqQ2VBWEVZSmszYkM5c3dBaUVOV1NSQ3hGaGNuQjBJZXJLbzJYZ2NFTlNMSzJvaDRQSF9YajJkTVVvLXA1dURfcnJzSjlmanJlWUlkZTBFY1hUTG1JMw",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "142a608b7aa3",
+      "title": "KPop Demon Hunter's Criterion Release Is The Best Argument For Home Media",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSkw1ZV9MdFFKNEFuY2dPNkVPNEJOQ2tzSGhvalo5QjBzMGk3MGc5TWd5LUpNZzRPVURDUlVPeUFlVWZING9BUExSV1NBX0w1X2hvc01VMnJidlhOZTJzc0dNUFZWMlFHWkpDTFc5RlZoZU1UZ2t2dGtDbnkzZzhMR1RRcm5uNjA?oc=5",
+      "publishedAt": "2026-11-27T20:20:19.000Z",
+      "source": "ScreenRant",
+      "description": "KPop Demon Hunter's Criterion Release Is The Best Argument For Home Media &nbsp;&nbsp; ScreenRant",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "KPop Demon Hunter's Criterion Release Is The Best Argument For Home Media &nbsp;&nbsp; ScreenRant",
+      "articleUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSkw1ZV9MdFFKNEFuY2dPNkVPNEJOQ2tzSGhvalo5QjBzMGk3MGc5TWd5LUpNZzRPVURDUlVPeUFlVWZING9BUExSV1NBX0w1X2hvc01VMnJidlhOZTJzc0dNUFZWMlFHWkpDTFc5RlZoZU1UZ2t2dGtDbnkzZzhMR1RRcm5uNjA",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "COMEBACK NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "COMEBACK NEWS",
           "Headline": "GOOGLE NEWS",
           "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
@@ -99,40 +435,16 @@
       }
     },
     {
-      "id": "96afb9260682",
-      "title": "South Korea Engages Diplomats with \"Kimchi\" Making Event in New York",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVkowT0ktZ2VFTjdjTDgyMUtXXy1jbnY4MEgybmFGRFRzMEJpSFV1d1plbnkyYnhnd0k2QWt5S0J0ZXgycEJsOENMQU03TkFDQmpiSkFQOUhaMzBmNWo3VTVlZk5zbjZCOFBTMzFlRWc2QWFTY0JrRWhIazVEYUd1LUlPR2FJanpVbjF3ZXc4X0VYQmlUT05nckM3bXRLcTQ?oc=5",
-      "publishedAt": "2026-11-27T15:00:17.000Z",
-      "source": "hellokpop",
-      "description": "South Korea Engages Diplomats with \"Kimchi\" Making Event in New York &nbsp;&nbsp; hellokpop",
+      "id": "a87a56ef8ced",
+      "title": "K-pop star gives up race result after viral pacing controversy",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSEVrQ2RiZHQzN21LcWIyY0hCVDZvSTZfVEJVRjJISEJVRGNTZVhteHdxTmgxdm5ubWItWVhQa2FacFU5RkRPdzNPM3VfVWh3clhKX2VJUGszbnFkTktwd1l5NXZaTm1zRVlaVkpYLVNWbHZyQm9lWFJEX3gzU29NYVZKYzFkWjJrcmlIMDA4UF9KYzhMZkFkVFpfd2toOFVUMHc?oc=5",
+      "publishedAt": "2026-11-27T15:16:11.000Z",
+      "source": "Canadian Running Magazine",
+      "description": "K-pop star gives up race result after viral pacing controversy &nbsp;&nbsp; Canadian Running Magazine",
       "sourceClass": "publisher",
       "confidence": "secondary",
-      "sourceSummary": "South Korea Engages Diplomats with \"Kimchi\" Making Event in New York &nbsp;&nbsp; hellokpop",
-      "articleUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVkowT0ktZ2VFTjdjTDgyMUtXXy1jbnY4MEgybmFGRFRzMEJpSFV1d1plbnkyYnhnd0k2QWt5S0J0ZXgycEJsOENMQU03TkFDQmpiSkFQOUhaMzBmNWo3VTVlZk5zbjZCOFBTMzFlRWc2QWFTY0JrRWhIazVEYUd1LUlPR2FJanpVbjF3ZXc4X0VYQmlUT05nckM3bXRLcTQ",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "needs_image",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "ad5d18cdec71",
-      "title": "Hyunjin Lost You Forever — And It's Too Late | Stray Kids Kpop POV",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1nNjVMVnI1WVFrSXB4a3pVYkZOZHlXVjRFbU1UY1l5MEc5SkZ6aGhSdG5TdEtvRjB5aEVsS1NnQ3B6b3plcHNuSWN5V1hDMFhyYnZDQVp3aWNjMmNU?oc=5",
-      "publishedAt": "2026-11-27T15:00:10.000Z",
-      "source": "YouTube",
-      "description": "Hyunjin Lost You Forever — And It's Too Late | Stray Kids Kpop POV &nbsp;&nbsp; YouTube",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "Hyunjin Lost You Forever — And It's Too Late | Stray Kids Kpop POV &nbsp;&nbsp; YouTube",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1nNjVMVnI1WVFrSXB4a3pVYkZOZHlXVjRFbU1UY1l5MEc5SkZ6aGhSdG5TdEtvRjB5aEVsS1NnQ3B6b3plcHNuSWN5V1hDMFhyYnZDQVp3aWNjMmNU",
+      "sourceSummary": "K-pop star gives up race result after viral pacing controversy &nbsp;&nbsp; Canadian Running Magazine",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSEVrQ2RiZHQzN21LcWIyY0hCVDZvSTZfVEJVRjJISEJVRGNTZVhteHdxTmgxdm5ubWItWVhQa2FacFU5RkRPdzNPM3VfVWh3clhKX2VJUGszbnFkTktwd1l5NXZaTm1zRVlaVkpYLVNWbHZyQm9lWFJEX3gzU29NYVZKYzFkWjJrcmlIMDA4UF9KYzhMZkFkVFpfd2toOFVUMHc",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
         "category": "HALLYU NEWS",
@@ -166,6 +478,30 @@
           "Category": "TRENDING",
           "Headline": "WATCH: TXT TAKES 2ND WIN FOR “ANGEL BITE” ON \"MUSIC BANK\"; PERFORMANCES BY NAYEON, ENHYPEN, AND MORE:…",
           "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/27195823/txt-music-bank-2.jpg"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "130fa968b27b",
+      "title": "Best trading cards deal: Save $5.70 on Kpop Demon Hunters Collectible Trading Cards",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOEZyc3l4eURLMTZSZ3ZCa2pjdkNyWUhFUzNaaGprX0hQcUI5TldrcHpCSkVhZ2o0ZS1YR3k3MlRUVFdzTjBKWmdBdElDYzJaXzZ2TDlBVm04QWhtSWo5NVRfMHNtUEw5STljRnJaLXR6aUoxV0JwX1RXTXZVX2NCcVVwdkxZRlBEZVBn?oc=5",
+      "publishedAt": "2026-11-27T10:30:22.000Z",
+      "source": "Mashable",
+      "description": "Best trading cards deal: Save $5.70 on Kpop Demon Hunters Collectible Trading Cards &nbsp;&nbsp; Mashable",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "Best trading cards deal: Save $5.70 on Kpop Demon Hunters Collectible Trading Cards &nbsp;&nbsp; Mashable",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOEZyc3l4eURLMTZSZ3ZCa2pjdkNyWUhFUzNaaGprX0hQcUI5TldrcHpCSkVhZ2o0ZS1YR3k3MlRUVFdzTjBKWmdBdElDYzJaXzZ2TDlBVm04QWhtSWo5NVRfMHNtUEw5STljRnJaLXR6aUoxV0JwX1RXTXZVX2NCcVVwdkxZRlBEZVBn",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         "canvaDesignId": null
       }
@@ -267,30 +603,6 @@
       }
     },
     {
-      "id": "b0786b3fce58",
-      "title": "An early Christmas treat for ENGENES. From the \"Bloody Paradise\" dance challenge to sweet messages for their Filipino fans, ENHYPEN made every moment count during their Manila visit for vivo's event.",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNHE4WWpuN05UbjNJWTNaTGd2b2JCSm1sR3h1QjVMSEd0U0NaSVlQRlY4LW9LbTF0WGFfdFlEc3BNMDNQUTRmT2VvQ08yMUwxU0xjNVh5VVpGcmNVWEdDa1JJNExXdThjUnRHOWxTajJMSzBhWjM3cnllcVdrckVMY2RFNnhfVnpSbzBIbTRtVThWUUkwNTlpTVpqSkxRWXVrbExpRU5FSzNNa3cxb241dFlOdWhVNU4yalpOLUdGQVpPZUEteFk2ekZnMHNyU0pHSDE4ZC0zcw?oc=5",
-      "publishedAt": "2026-11-27T08:55:30.000Z",
-      "source": "Facebook",
-      "description": "An early Christmas treat for ENGENES. From the \"Bloody Paradise\" dance challenge to sweet messages for their Filipino fans, ENHYPEN made every moment count during their Manila visit for vivo's event. &nbsp;&nbsp; Facebook",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "An early Christmas treat for ENGENES. From the \"Bloody Paradise\" dance challenge to sweet messages for their Filipino fans, ENHYPEN made every moment count during their Manila visit for vivo's event. &nbsp;&nbsp; Facebook",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNHE4WWpuN05UbjNJWTNaTGd2b2JCSm1sR3h1QjVMSEd0U0NaSVlQRlY4LW9LbTF0WGFfdFlEc3BNMDNQUTRmT2VvQ08yMUwxU0xjNVh5VVpGcmNVWEdDa1JJNExXdThjUnRHOWxTajJMSzBhWjM3cnllcVdrckVMY2RFNnhfVnpSbzBIbTRtVThWUUkwNTlpTVpqSkxRWXVrbExpRU5FSzNNa3cxb241dFlOdWhVNU4yalpOLUdGQVpPZUEteFk2ekZnMHNyU0pHSDE4ZC0zcw",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "CONCERT NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "CONCERT NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
       "id": "964151f5e96d",
       "title": "Rescene, Aespa, BTS reveal contrasting K-pop tastes in Korea, China, Japan",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BejQxdFNsYV9LSjI0cUowUjhEZXNRSEpoWDFWRVo0OTFfWlJ4Qng5a2JEcFJvSGp2RUJ3dDBIYWhNS09rRWIyMjJjSUtyWG9RMi1sZ0pmWQ?oc=5",
@@ -325,6 +637,30 @@
       "confidence": "secondary",
       "sourceSummary": "Why K-pop keeps coming up short at the Grammys &nbsp;&nbsp; Hankyoreh : English Edition",
       "articleUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb0ljWU1Vam41TmhwZUtONFBkaVhnRHExTS1MSF9tcDc5VEpEVzVYTmttN0EyM0FDbTk1d2ZJekxtUWNRaVJnSmNoVlcwSzRyN0trb3lFZGlSSGJZdUdEalQ0Y2lvVTlfRTJHZ0xtTkZ1MUtRd1MtUDF3MTk0U05nazdn",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "e9c0770529ce",
+      "title": "Illit's Moka announces return after 5-month health hiatus",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQTktWXh0YlYwZGg4QnNaWi1mMUJOVk9pUFVvNFhPSkwtbHZlZXl1OC0zVHg2VVdDYUl2NE81QWNYUVBVYy1HcWcxMC03U3dzNEIxYnpqQnB2bzVQa2lEcG5TWEc2SzZRMWViS25OY2U3cGlLRWdnWl9fNDhxTWxOUlBXZjFMMXdQb1lCeDktUkRhZmNhYWFRaWE4Z3RLRnYtZTVVWm9leDItNUpRWWRDOTk0WmvSAboBQVVfeXFMUEhXWkptdURqNlE4Z0ZXSEktOHBlMHhPUWxyTDgxN1g5Z01vcmxIajFTWVdTaWN6N0F5QUlRMllsR2ZjZm5iakZKN09CbEtMazZuUDVrVXRBV0daNmljR3BtVXRMYVc0ckRETVJEdHlCVnBGMmhjdWtQM0RVS2NMM1I5UWI5MHJhNFpHb2Rick9VVHE2b2V1cXRJNnI5TndFWDRCMTEwZ1JMZldsY20wcmRkcDk5Sl81NEx3?oc=5",
+      "publishedAt": "2026-11-27T08:13:03.000Z",
+      "source": "The Korea Times",
+      "description": "Illit's Moka announces return after 5-month health hiatus &nbsp;&nbsp; The Korea Times",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "Illit's Moka announces return after 5-month health hiatus &nbsp;&nbsp; The Korea Times",
+      "articleUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQTktWXh0YlYwZGg4QnNaWi1mMUJOVk9pUFVvNFhPSkwtbHZlZXl1OC0zVHg2VVdDYUl2NE81QWNYUVBVYy1HcWcxMC03U3dzNEIxYnpqQnB2bzVQa2lEcG5TWEc2SzZRMWViS25OY2U3cGlLRWdnWl9fNDhxTWxOUlBXZjFMMXdQb1lCeDktUkRhZmNhYWFRaWE4Z3RLRnYtZTVVWm9leDItNUpRWWRDOTk0WmvSAboBQVVfeXFMUEhXWkptdURqNlE4Z0ZXSEktOHBlMHhPUWxyTDgxN1g5Z01vcmxIajFTWVdTaWN6N0F5QUlRMllsR2ZjZm5iakZKN09CbEtMazZuUDVrVXRBV0daNmljR3BtVXRMYVc0ckRETVJEdHlCVnBGMmhjdWtQM0RVS2NMM1I5UWI5MHJhNFpHb2Rick9VVHE2b2V1cXRJNnI5TndFWDRCMTEwZ1JMZldsY20wcmRkcDk5Sl81NEx3",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
         "category": "HALLYU NEWS",
@@ -387,6 +723,54 @@
       }
     },
     {
+      "id": "49cca0e4af54",
+      "title": "NCT Wish in Manila: Ticket prices, fan benefits for February 2027 concert",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNeWp0LXc3Y1pCT1hpVTZmbmRwb0JkRjJubnVhU3BHMlBkT1hybGRTOGRTQ3NZSHJKdDQ3TnZTeGpBMkNOa0pzVW5BcGVWUktibVphM1R5RzBlWVp3dE9weVZJRG9HaG1xWEhnczhJRkJjWHhaSVRDelZ3M05ha1pBR1R6ZFF4TEpLaXE4ZnFtdENQV1VEcmJXVnFjSDFSY1hHVkJlVFlEZUozUzRqY2R0ek1Qa1VPbXcyUnUzYXlxV0Fnd1E0d0drTElNNEUtdHlZZ1pfbVFnc1lJMndCNmtHMHZLVdIB6AFBVV95cUxQSEt4NkhXd096Ty00QS01OFdKUkF2SEdqckNOczRUc1VVMjBtQy1YSG9GQ1lRQXNFSTR5bjRUQ3J1ZnlvaDY4TTZXTVNjYUE1Nk1zaFB2bGdiNzQ2VTkzSUowN3BsamE1UTRjamhXUlpZdi1KSjdDdnlhQ2M2RTE2UG56QlhiRlptbkdLa3VWbFRSUnNIM1BHNWN2Z2ZSWEVvNC1VWlFrX3ZpMWNyV2Q5cWRLaU5CZ3RzOEhjMl9YRlRJZV9mMm05TS1XRlktZUFxMzllcGloYndzdFBjY1hqX1JXYnBmZTBj?oc=5",
+      "publishedAt": "2026-11-27T07:56:45.000Z",
+      "source": "GMA Network",
+      "description": "NCT Wish in Manila: Ticket prices, fan benefits for February 2027 concert &nbsp;&nbsp; GMA Network",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "NCT Wish in Manila: Ticket prices, fan benefits for February 2027 concert &nbsp;&nbsp; GMA Network",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNeWp0LXc3Y1pCT1hpVTZmbmRwb0JkRjJubnVhU3BHMlBkT1hybGRTOGRTQ3NZSHJKdDQ3TnZTeGpBMkNOa0pzVW5BcGVWUktibVphM1R5RzBlWVp3dE9weVZJRG9HaG1xWEhnczhJRkJjWHhaSVRDelZ3M05ha1pBR1R6ZFF4TEpLaXE4ZnFtdENQV1VEcmJXVnFjSDFSY1hHVkJlVFlEZUozUzRqY2R0ek1Qa1VPbXcyUnUzYXlxV0Fnd1E0d0drTElNNEUtdHlZZ1pfbVFnc1lJMndCNmtHMHZLVdIB6AFBVV95cUxQSEt4NkhXd096Ty00QS01OFdKUkF2SEdqckNOczRUc1VVMjBtQy1YSG9GQ1lRQXNFSTR5bjRUQ3J1ZnlvaDY4TTZXTVNjYUE1Nk1zaFB2bGdiNzQ2VTkzSUowN3BsamE1UTRjamhXUlpZdi1KSjdDdnlhQ2M2RTE2UG56QlhiRlptbkdLa3VWbFRSUnNIM1BHNWN2Z2ZSWEVvNC1VWlFrX3ZpMWNyV2Q5cWRLaU5CZ3RzOEhjMl9YRlRJZV9mMm05TS1XRlktZUFxMzllcGloYndzdFBjY1hqX1JXYnBmZTBj",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "CONCERT NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "CONCERT NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "4a30cb092294",
+      "title": "Cortis to release photo album filled with never-before-seen pre-debut photos on Dec. 11",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU2xMRE9hTWQ0R2VFbEhLcWxoWHY4OGRjZEJscDl2UlRHTzJFVS11czBFTnRVNjZMWUhHUFptNDZkUjBPbldvTktsUlpmNFNSdk96YktobkNRQTg1TUw0QjQ5SFRqR1VQLWZ1U3U5MFhMNC1obXZCZnJZTHFWX0xIRF9lZ04wQmhxQVg1N3NJRF9aanBwTXNSN0ZUa0ZQLUwzeUJyc1ZUZGtEUHVxNnhYaWhYMVdDQVVyZ2tJM3pKVm5md09VWnczY3ZLVTZnR2Vib3VkY0xyNkM?oc=5",
+      "publishedAt": "2026-11-27T05:57:15.000Z",
+      "source": "Korea JoongAng Daily",
+      "description": "Cortis to release photo album filled with never-before-seen pre-debut photos on Dec. 11 &nbsp;&nbsp; Korea JoongAng Daily",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "Cortis to release photo album filled with never-before-seen pre-debut photos on Dec. 11 &nbsp;&nbsp; Korea JoongAng Daily",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU2xMRE9hTWQ0R2VFbEhLcWxoWHY4OGRjZEJscDl2UlRHTzJFVS11czBFTnRVNjZMWUhHUFptNDZkUjBPbldvTktsUlpmNFNSdk96YktobkNRQTg1TUw0QjQ5SFRqR1VQLWZ1U3U5MFhMNC1obXZCZnJZTHFWX0xIRF9lZ04wQmhxQVg1N3NJRF9aanBwTXNSN0ZUa0ZQLUwzeUJyc1ZUZGtEUHVxNnhYaWhYMVdDQVVyZ2tJM3pKVm5md09VWnczY3ZLVTZnR2Vib3VkY0xyNkM",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "COMEBACK NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "COMEBACK NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
       "id": "8612f7a2b7ae",
       "title": "NCT Wish’s Ryo outshines competition in Picnic’s October K-pop artist poll",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWHB5LVR5NDZLakZrUXBRMFR3WmM0TWFnMWIzbWpJZVlsWEgtVjNtNUZjUzRSYmpjWGo2aDNxeXZfUExMWENUVjBLQWxDNFc2cjZvRHVLakNQLTdhZFUtcEpNQ0ZwQ3NyTm9hcVBpVURIWEt2ZTdWZnJzZHN2eXJKRjQxcF9vaHMtZ3N4NC1lajlyYm5VUy02UEpySy16VzFINWoxMlMzeXgzem1uZF9xQ2pXbkJGanJGRjJYejR2SjJmX1hVQjQwbA?oc=5",
@@ -411,23 +795,23 @@
       }
     },
     {
-      "id": "f9246eca21fe",
-      "title": "‘LOVE IS BLIND’ FT. JUNGKOOK 💜 BTS member Jungkook will be featured in producer Code Kunst’s upcoming studio album, “Prankstar.” READ: https://www.gmanetwork.com/news/lifestyle/hobbiesandactivities/1010917/jungkook-of-bts-to-feature-in-code-ku",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSXBSbFo1bE82YTFfbHFJbWY4Zm1ibGlpVm9SdEdVVFNaSk54eVM5a1hRUExIcHJweEVwUFVfdnlxU1ZuRU9JYnRrN3BBZlBsWENsM0JyRXFaS2kzb2FIOUNiX0pLSXQ2WDRjRlcwd3FWUUFZRnk3SlpheHNVSEExQ0dUb3FLbG1Ydzdvb0hoTk5rQzJ0cEsySkhqcGFmYkI4a013VkpiMlFJN3l2Q0ExcFdDRnMyNHBWWXhadWQza0lzLXY0N1JQY1JlcVl4X3dfckE?oc=5",
-      "publishedAt": "2026-11-27T04:30:24.000Z",
-      "source": "Facebook",
-      "description": "‘LOVE IS BLIND’ FT. JUNGKOOK 💜 BTS member Jungkook will be featured in producer Code Kunst’s upcoming studio album, “Prankstar.” READ: https://www.gmanetwork.com/news/lifestyle/hobbiesandactivities/1010917/jungkook-of-bts-to-feature-in-code-ku &nbsp;&nbsp; Facebook",
+      "id": "dc1bafac8728",
+      "title": "After virtual idols, could fully AI-generated stars be K-pop’s next frontier?",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd3o5WmhYaW01c19pSjV6MkdPRjVVM09GODlsTFpPQ1JTMnNvV185UkRiWUkxRFBoUUUxQ2xFenV0WjZEVFFfaFFwM3ZOR2JUNHAxRlU0NEtpNGZmOG9saWUtOFpQZWZ2S25OU09BUDZOMTBXSFlWbFcySnkxVVBtSkdOdTlPZmFZU25yb1V6aVl1YmlZSE1SWC1OUFhhbHlja1FLdzIxaEdHcEJIcDEzU1BPdllCMnYzYUhiSzlQQWRRZw?oc=5",
+      "publishedAt": "2026-11-27T04:20:42.000Z",
+      "source": "The Kathmandu Post",
+      "description": "After virtual idols, could fully AI-generated stars be K-pop’s next frontier? &nbsp;&nbsp; The Kathmandu Post",
       "sourceClass": "publisher",
       "confidence": "secondary",
-      "sourceSummary": "‘LOVE IS BLIND’ FT. JUNGKOOK 💜 BTS member Jungkook will be featured in producer Code Kunst’s upcoming studio album, “Prankstar.” READ: https://www.gmanetwork.com/news/lifestyle/hobbiesandactivities/1010917/jungkook-of-bts-to-feature-in-code-ku &nbsp;&nbsp; Facebook",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSXBSbFo1bE82YTFfbHFJbWY4Zm1ibGlpVm9SdEdVVFNaSk54eVM5a1hRUExIcHJweEVwUFVfdnlxU1ZuRU9JYnRrN3BBZlBsWENsM0JyRXFaS2kzb2FIOUNiX0pLSXQ2WDRjRlcwd3FWUUFZRnk3SlpheHNVSEExQ0dUb3FLbG1Ydzdvb0hoTk5rQzJ0cEsySkhqcGFmYkI4a013VkpiMlFJN3l2Q0ExcFdDRnMyNHBWWXhadWQza0lzLXY0N1JQY1JlcVl4X3dfckE",
+      "sourceSummary": "After virtual idols, could fully AI-generated stars be K-pop’s next frontier? &nbsp;&nbsp; The Kathmandu Post",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd3o5WmhYaW01c19pSjV6MkdPRjVVM09GODlsTFpPQ1JTMnNvV185UkRiWUkxRFBoUUUxQ2xFenV0WjZEVFFfaFFwM3ZOR2JUNHAxRlU0NEtpNGZmOG9saWUtOFpQZWZ2S25OU09BUDZOMTBXSFlWbFcySnkxVVBtSkdOdTlPZmFZU25yb1V6aVl1YmlZSE1SWC1OUFhhbHlja1FLdzIxaEdHcEJIcDEzU1BPdllCMnYzYUhiSzlQQWRRZw",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
-        "category": "COMEBACK NEWS",
+        "category": "HALLYU NEWS",
         "headline": "GOOGLE NEWS",
         "status": "pending_review",
         "canvaFields": {
-          "Category": "COMEBACK NEWS",
+          "Category": "HALLYU NEWS",
           "Headline": "GOOGLE NEWS",
           "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
@@ -454,6 +838,54 @@
           "Category": "HALLYU NEWS",
           "Headline": "ILLIT&#039;S MOKA PERSONALLY SHARES PLANS TO GRADUALLY RESUME ACTIVITIES: SOOMPI",
           "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/27125728/Moka.jpeg"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "ff76000a5a6a",
+      "title": "PACX Nights Singapore Brings Nine Nights of Asian Pop Culture, K-Pop, Food and Fandom to Marina Bay This December",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNd01NNXRLZjg1WDNhR2kzQmFFLWFTazY1N3FtZGFZRy1WMG42QzgtVC1EVmVjOE1HamIxS2IwYkhfNW9sazU0WnpMV0l0VWdmaFBwbHJPemFFWVJUVEttQk9xS3ZCLUtSU1NzY0VjOVRTbWVKZnB4ZlNTWGlVWDVNUXROQ3A1UE82TU0wMkZwMWFwV3JGUUZOMEhwNFI1cXJBVFVWZWlPZlNoYkZiWE84ODV0VXNzSTlvSlRRNC1tTU1JZkxjR01uVkVwOUV6eUhGVXUxRmU4UEc0S2VNTTcw?oc=5",
+      "publishedAt": "2026-11-27T04:00:00.000Z",
+      "source": "Alvinology",
+      "description": "PACX Nights Singapore Brings Nine Nights of Asian Pop Culture, K-Pop, Food and Fandom to Marina Bay This December &nbsp;&nbsp; Alvinology",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "PACX Nights Singapore Brings Nine Nights of Asian Pop Culture, K-Pop, Food and Fandom to Marina Bay This December &nbsp;&nbsp; Alvinology",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNd01NNXRLZjg1WDNhR2kzQmFFLWFTazY1N3FtZGFZRy1WMG42QzgtVC1EVmVjOE1HamIxS2IwYkhfNW9sazU0WnpMV0l0VWdmaFBwbHJPemFFWVJUVEttQk9xS3ZCLUtSU1NzY0VjOVRTbWVKZnB4ZlNTWGlVWDVNUXROQ3A1UE82TU0wMkZwMWFwV3JGUUZOMEhwNFI1cXJBVFVWZWlPZlNoYkZiWE84ODV0VXNzSTlvSlRRNC1tTU1JZkxjR01uVkVwOUV6eUhGVXUxRmU4UEc0S2VNTTcw",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "3ca29908f910",
+      "title": "K-pop's Most Popular Groups of 2026: Who's on Top?",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOUFrYUZsTVYxNVVlaV81cWl6Q3cxQ0hxMDlHaUJtVHQ5cy0xVlFRS0xNdWtkbkQ5ejF2b0dtUlpMaVhwR2dIVHBZZk9rV2R5bXZ2cVhzY094Y09LV2NRUGNCdkdhejkzSDA4SW90bDJaZHk3T3EzejdKRDItWTc0X0dxVC1Udw?oc=5",
+      "publishedAt": "2026-11-27T03:57:43.000Z",
+      "source": "Tempo.co English",
+      "description": "K-pop's Most Popular Groups of 2026: Who's on Top? &nbsp;&nbsp; Tempo.co English",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "K-pop's Most Popular Groups of 2026: Who's on Top? &nbsp;&nbsp; Tempo.co English",
+      "articleUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOUFrYUZsTVYxNVVlaV81cWl6Q3cxQ0hxMDlHaUJtVHQ5cy0xVlFRS0xNdWtkbkQ5ejF2b0dtUlpMaVhwR2dIVHBZZk9rV2R5bXZ2cVhzY094Y09LV2NRUGNCdkdhejkzSDA4SW90bDJaZHk3T3EzejdKRDItWTc0X0dxVC1Udw",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         "canvaDesignId": null
       }
@@ -510,7 +942,7 @@
       "id": "b20f4a8d5c4b",
       "title": "K-Pop: The Debut – Everything to know about the upcoming film starring Yoo Ji-young",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTnFBQkNrTHlqZU9nRldLRFZHSjBtV1NxeC1Wd0FpU1h1V2kyd3JLRVhCMXJ4NDY0SmVBWW44VlFNMWhFSkNEWnE4aENRNk51bkYtMnUyLVM3bnlXS3lpdHpadFhTa0NOdTl6dnNnODhpdVR4LU1PbGFyV243a19KdEhPZWwyWjNCcTRjR29rYTI4bUo2TWlmV3hYTEdfTk9Y?oc=5",
-      "publishedAt": "2026-11-27T02:48:45.000Z",
+      "publishedAt": "2026-11-27T02:51:00.000Z",
       "source": "Lifestyle Asia",
       "description": "K-Pop: The Debut – Everything to know about the upcoming film starring Yoo Ji-young &nbsp;&nbsp; Lifestyle Asia",
       "sourceClass": "publisher",
@@ -579,16 +1011,40 @@
       }
     },
     {
-      "id": "d28a377e34a8",
-      "title": "English-Language Remake of Korean Thriller White Blast with Original Director Confirmed",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX2dEeThOOENCS2pKTTE1RzRPOEJFcWdPeWpmVmpOUDRWbzQ4TUItMV9xdkdVei1NMDhCNkR6ZGo3RGxPTUxsX2VJbnJhZk1pbkpvdGZzdGdGVURiamZxaEZoUHJFRkI4MEJRbkdFYk00ZS00SmxFWmtldmttN1owcDJyb0xURHpVRnBwNDFCLUdMYTNCbjRHSzNWVXhzd1BVU2lQd2VGb25vQ3hyZmtPTUdLNmlDRFJ1VGJz?oc=5",
-      "publishedAt": "2026-11-27T02:00:28.000Z",
-      "source": "hellokpop",
-      "description": "English-Language Remake of Korean Thriller White Blast with Original Director Confirmed &nbsp;&nbsp; hellokpop",
+      "id": "a61baa8aca38",
+      "title": "From V from BTS to Karina from Aespa, rimless glasses are being treated like celebrities - Prestige Online",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNG1IWXJzVDk1Sl83X2IzeUh2ZjcwMmdOUGczRkc2U3d4T3VzMUcxcXY0ZGF0Q3lrTm1DdG81QWFqck41NlRBTFljVGd5djhvQ3VCMmdNbXlDRjBBa3BZcWFHWTI3X0l5VVc3bTQxUzd0ZUhrTzV4Z1NaNk9KWkw5TEFLTXNsb2pDTnJnWjVkNWotR0drRUszSzhLTDNHX1RjdlHSAacBQVVfeXFMUEtsb0UwR2Z4OWExVThTaktRSkpSWldlcE5rSndYVkttTXNDZWJUQzlYYmhHc3A0VzRSSnI4UHNqdGVxMUNVaWhTaXoxN2RwWGdOY0hqZ1RxR2tneDdTWWtObTZzdklEWUl0aV9hbWZjNTdWYk56aGxSSm5Fb0NqNzZyU2ZCbDY0WXhtcS1NS0pfMmU1Z194VDNVNHQ0RUFsbk5KWFBob2c?oc=5",
+      "publishedAt": "2026-11-27T01:36:12.000Z",
+      "source": "Prestige Online - Singapore",
+      "description": "From V from BTS to Karina from Aespa, rimless glasses are being treated like celebrities &nbsp;&nbsp; Prestige Online - Singapore",
       "sourceClass": "publisher",
       "confidence": "secondary",
-      "sourceSummary": "English-Language Remake of Korean Thriller White Blast with Original Director Confirmed &nbsp;&nbsp; hellokpop",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX2dEeThOOENCS2pKTTE1RzRPOEJFcWdPeWpmVmpOUDRWbzQ4TUItMV9xdkdVei1NMDhCNkR6ZGo3RGxPTUxsX2VJbnJhZk1pbkpvdGZzdGdGVURiamZxaEZoUHJFRkI4MEJRbkdFYk00ZS00SmxFWmtldmttN1owcDJyb0xURHpVRnBwNDFCLUdMYTNCbjRHSzNWVXhzd1BVU2lQd2VGb25vQ3hyZmtPTUdLNmlDRFJ1VGJz",
+      "sourceSummary": "From V from BTS to Karina from Aespa, rimless glasses are being treated like celebrities &nbsp;&nbsp; Prestige Online - Singapore",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNG1IWXJzVDk1Sl83X2IzeUh2ZjcwMmdOUGczRkc2U3d4T3VzMUcxcXY0ZGF0Q3lrTm1DdG81QWFqck41NlRBTFljVGd5djhvQ3VCMmdNbXlDRjBBa3BZcWFHWTI3X0l5VVc3bTQxUzd0ZUhrTzV4Z1NaNk9KWkw5TEFLTXNsb2pDTnJnWjVkNWotR0drRUszSzhLTDNHX1RjdlHSAacBQVVfeXFMUEtsb0UwR2Z4OWExVThTaktRSkpSWldlcE5rSndYVkttTXNDZWJUQzlYYmhHc3A0VzRSSnI4UHNqdGVxMUNVaWhTaXoxN2RwWGdOY0hqZ1RxR2tneDdTWWtObTZzdklEWUl0aV9hbWZjNTdWYk56aGxSSm5Fb0NqNzZyU2ZCbDY0WXhtcS1NS0pfMmU1Z194VDNVNHQ0RUFsbk5KWFBob2c",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "13853161a9be",
+      "title": "PUBG x IVE collab brings K-pop to online shooter",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbEo3aFFla0JQQThISGdXS2VhMU94c0g5Zk9NZUNNR0lhNVNSOXVUSkRTYWlhenA5bXNSU3FDZllXd3NKdWF4a3M4Q011MnBrcUZZOVpDVzBYVkJxN2lhTG9lX0pWT3N3ajBrUGJLQWhJaDlDQVN4RHc5UE95WUVPQndBLTRNdE9x?oc=5",
+      "publishedAt": "2026-11-27T00:40:27.000Z",
+      "source": "Esports.gg",
+      "description": "PUBG x IVE collab brings K-pop to online shooter &nbsp;&nbsp; Esports.gg",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "PUBG x IVE collab brings K-pop to online shooter &nbsp;&nbsp; Esports.gg",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbEo3aFFla0JQQThISGdXS2VhMU94c0g5Zk9NZUNNR0lhNVNSOXVUSkRTYWlhenA5bXNSU3FDZllXd3NKdWF4a3M4Q011MnBrcUZZOVpDVzBYVkJxN2lhTG9lX0pWT3N3ajBrUGJLQWhJaDlDQVN4RHc5UE95WUVPQndBLTRNdE9x",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
         "category": "HALLYU NEWS",
@@ -622,6 +1078,30 @@
           "Category": "HALLYU NEWS",
           "Headline": "ENHYPEN TO HEADLINE MAD COOL 2027 IN MADRID: SOOMPI",
           "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/27091454/ENHYPEN.jpeg"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "0bbafa04bcc8",
+      "title": "Mnet Takes on 'Virtual Idol' Survival This Time, Teams Up With the Company Behind 'Gundam' and 'Digimon'",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01T0diLVZpZUJLX0tGOV9TYk9nOS1rZ21tZ3RQQ2dhYmd6cnZSbHRjdi10RXc0bV9qLXdVLWloRlQwVXdBYmdsT25GcUtwcGxqR2tnWXRKblpQSERVbWcyV2plMlhTX2FNeU9GY2FkeDRWeHRrRllaMEY4cE9WQQ?oc=5",
+      "publishedAt": "2026-11-27T00:02:45.000Z",
+      "source": "스포츠조선",
+      "description": "Mnet Takes on 'Virtual Idol' Survival This Time, Teams Up With the Company Behind 'Gundam' and 'Digimon' &nbsp;&nbsp; 스포츠조선",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "Mnet Takes on 'Virtual Idol' Survival This Time, Teams Up With the Company Behind 'Gundam' and 'Digimon' &nbsp;&nbsp; 스포츠조선",
+      "articleUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01T0diLVZpZUJLX0tGOV9TYk9nOS1rZ21tZ3RQQ2dhYmd6cnZSbHRjdi10RXc0bV9qLXdVLWloRlQwVXdBYmdsT25GcUtwcGxqR2tnWXRKblpQSERVbWcyV2plMlhTX2FNeU9GY2FkeDRWeHRrRllaMEY4cE9WQQ",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         "canvaDesignId": null
       }
@@ -668,30 +1148,6 @@
         "status": "pending_review",
         "canvaFields": {
           "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "346557c94af7",
-      "title": "Mark Lee opens another music chapter with new solo album, ‘Windmill’",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTTRQYUxnZkFHSk9hdXdFU0tpZ09RNlVFU2VOYW9nQ1N0c2w3UVVNZURiWmRlVHpOYkxCc2tVYVJvVElhNktmUjVwakVvbmQzNldhV1ZDanZFTldYWmxmMTg1NlM4dEtOM29kMkwzQ3JnU1c5ams2eW1JcUlyQXFCeE9aekc3X0t5SHJKanllWER2OG53T3dBcHNnenZRQQ?oc=5",
-      "publishedAt": "2026-11-26T22:30:00.000Z",
-      "source": "INQUIRER.net USA",
-      "description": "Mark Lee opens another music chapter with new solo album, ‘Windmill’ &nbsp;&nbsp; INQUIRER.net USA",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "Mark Lee opens another music chapter with new solo album, ‘Windmill’ &nbsp;&nbsp; INQUIRER.net USA",
-      "articleUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTTRQYUxnZkFHSk9hdXdFU0tpZ09RNlVFU2VOYW9nQ1N0c2w3UVVNZURiWmRlVHpOYkxCc2tVYVJvVElhNktmUjVwakVvbmQzNldhV1ZDanZFTldYWmxmMTg1NlM4dEtOM29kMkwzQ3JnU1c5ams2eW1JcUlyQXFCeE9aekc3X0t5SHJKanllWER2OG53T3dBcHNnenZRQQ",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "COMEBACK NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "needs_image",
-        "canvaFields": {
-          "Category": "COMEBACK NEWS",
           "Headline": "GOOGLE NEWS",
           "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
@@ -747,16 +1203,16 @@
       }
     },
     {
-      "id": "a58a996d71dd",
-      "title": "‘PUBG’, ‘PUBG MOBILE’ Launch New Music Project with K-pop Group IVE",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTV82VlNGRWVUSjJWRXJHT2k5ODJmckJGbk5iUm5ZdlVjS3owcWFzTFUzZFJnQWsyZjFrMlhMMDBGaTdmUE41cmV1dHRzWElzZ0w3MVZhOEFZbEJoVEVjTlk3U2xKamRWSWlTQnVQUGpScWpvMk1JNlhQa09zajNOMWNvd3E4cWxHOVdQS25YZEJVUUQxM3VBSWJB?oc=5",
-      "publishedAt": "2026-11-26T18:50:13.000Z",
-      "source": "PlayDayOne",
-      "description": "‘PUBG’, ‘PUBG MOBILE’ Launch New Music Project with K-pop Group IVE &nbsp;&nbsp; PlayDayOne",
+      "id": "6aa11987b987",
+      "title": "PUBG: Battlegrounds and PUBG Mobile launch joint music project THE SQUAD with K-pop group IVE",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUFVIaTZxcEEtZ3E2R3F3VERGM1M2aUx3c2htekZ3ay0zbDhFenpyLVRsWl95Z2lsYXMtclJXR1E2dlZ3dlJ1MzNIY2RmeEowbkEyTWdMQ1Vpc0FJa0VTRmx5bHBabDhMT1J0RTQ0LW9Zdmc2dXdDdC15ZWRvbGIxOU1zbjFNMDZpQ0UzRGtPYkxNRnNVeWM4X01HTUdnRXEtaFUxci1RS3MtZGY2LUdUMGNNM3lUOXBRek9jQUNNMWhsVmVqWlRPRlZMR2tvMTFG?oc=5",
+      "publishedAt": "2026-11-26T17:39:56.000Z",
+      "source": "Inven Global",
+      "description": "PUBG: Battlegrounds and PUBG Mobile launch joint music project THE SQUAD with K-pop group IVE &nbsp;&nbsp; Inven Global",
       "sourceClass": "publisher",
       "confidence": "secondary",
-      "sourceSummary": "‘PUBG’, ‘PUBG MOBILE’ Launch New Music Project with K-pop Group IVE &nbsp;&nbsp; PlayDayOne",
-      "articleUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTV82VlNGRWVUSjJWRXJHT2k5ODJmckJGbk5iUm5ZdlVjS3owcWFzTFUzZFJnQWsyZjFrMlhMMDBGaTdmUE41cmV1dHRzWElzZ0w3MVZhOEFZbEJoVEVjTlk3U2xKamRWSWlTQnVQUGpScWpvMk1JNlhQa09zajNOMWNvd3E4cWxHOVdQS25YZEJVUUQxM3VBSWJB",
+      "sourceSummary": "PUBG: Battlegrounds and PUBG Mobile launch joint music project THE SQUAD with K-pop group IVE &nbsp;&nbsp; Inven Global",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUFVIaTZxcEEtZ3E2R3F3VERGM1M2aUx3c2htekZ3ay0zbDhFenpyLVRsWl95Z2lsYXMtclJXR1E2dlZ3dlJ1MzNIY2RmeEowbkEyTWdMQ1Vpc0FJa0VTRmx5bHBabDhMT1J0RTQ0LW9Zdmc2dXdDdC15ZWRvbGIxOU1zbjFNMDZpQ0UzRGtPYkxNRnNVeWM4X01HTUdnRXEtaFUxci1RS3MtZGY2LUdUMGNNM3lUOXBRek9jQUNNMWhsVmVqWlRPRlZMR2tvMTFG",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
         "category": "HALLYU NEWS",
@@ -781,30 +1237,6 @@
       "confidence": "secondary",
       "sourceSummary": "K-Pop: The Debut (2027) &nbsp;&nbsp; IMDb",
       "articleUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbTVDbUVKYVBUSC03MndESWRLaV9lMjBrTklOcVBnSnN1a2hzcE9JRUVtWDZfSXptWWRaWFNWdGVvSUdDeDJnV0F4aXNkN0pnVFRsUmJkZ0VRMjdFUzNRQ2REWnl4aHBTclo4VFJtYnpBY1hOVlgtT2ZIdVc1ZW9BbkhuTQ",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "ec9b2153a678",
-      "title": "NO SIGNAL ⚡ | K-POP BOY GROUP | Official Music Vid",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5OQ2VjWUo0WFVIX3pBTnpDcWljOVk2OVc3XzFuMlRadFZQZVZvS3ZKMU9mTkstUmZXemphbVMtR0EtOElRTFFzelhmYmR5WDB4R3VmS2ZsSUJxVV93?oc=5",
-      "publishedAt": "2026-11-26T15:51:12.000Z",
-      "source": "YouTube",
-      "description": "NO SIGNAL ⚡ | K-POP BOY GROUP | Official Music Vid &nbsp;&nbsp; YouTube",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "NO SIGNAL ⚡ | K-POP BOY GROUP | Official Music Vid &nbsp;&nbsp; YouTube",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5OQ2VjWUo0WFVIX3pBTnpDcWljOVk2OVc3XzFuMlRadFZQZVZvS3ZKMU9mTkstUmZXemphbVMtR0EtOElRTFFzelhmYmR5WDB4R3VmS2ZsSUJxVV93",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
         "category": "HALLYU NEWS",
@@ -863,30 +1295,6 @@
           "Category": "COMEBACK NEWS",
           "Headline": "NIZIU(니쥬) \"JOLLY JOLLY\" M/V TEASER 2",
           "FeatureImage": null
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "d1d8888175b8",
-      "title": "Insight 2026/2027 - K-Pop: From Fans to Foes",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSW9kcjNvYmt0ZURUaXVMSm9KSDZ3bTRJYVFxTkxELTM3c1E3cHp4Y0tSTEVIRkgyR01PMDd1dHlHQnVmeXRYVlc4YnptN2o5X2dzZDEtVVowN016aC1qWmV6aVJxdkx1WVRwcFVoTHpDaml6WWMyM21OMXZGTS1LdWRsWS0?oc=5",
-      "publishedAt": "2026-11-26T14:00:00.000Z",
-      "source": "CNA",
-      "description": "Insight 2026/2027 - K-Pop: From Fans to Foes &nbsp;&nbsp; CNA",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "Insight 2026/2027 - K-Pop: From Fans to Foes &nbsp;&nbsp; CNA",
-      "articleUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSW9kcjNvYmt0ZURUaXVMSm9KSDZ3bTRJYVFxTkxELTM3c1E3cHp4Y0tSTEVIRkgyR01PMDd1dHlHQnVmeXRYVlc4YnptN2o5X2dzZDEtVVowN016aC1qWmV6aVJxdkx1WVRwcFVoTHpDaml6WWMyM21OMXZGTS1LdWRsWS0",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         "canvaDesignId": null
       }
@@ -990,23 +1398,23 @@
       }
     },
     {
-      "id": "522f4db73837",
-      "title": "ILLIT ‘Arrests’ Star Actors at the Blue Dragon Film Awards: A Playful Crossover Between K-POP and Korean Cinema [HT Focus]",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LVkhtbDVzUC1keFRWZ0lnMVVvLVZLR2hMb2JxQW1rVjY5V2dwUy1makN2VElBLUZtMmMtWWxPVnJHZ0lvQ0RJWjloVkVFNzQ4blU0blhn?oc=5",
-      "publishedAt": "2026-11-26T09:01:30.000Z",
-      "source": "Hanteo News",
-      "description": "ILLIT ‘Arrests’ Star Actors at the Blue Dragon Film Awards: A Playful Crossover Between K-POP and Korean Cinema [HT Focus] &nbsp;&nbsp; Hanteo News",
+      "id": "02ec8d131e0c",
+      "title": "Rescene, aespa and BTS Reveal the Regional Dynamics of K-Pop",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM2pNYU5RN1RDWk9adFFKaGNaVjlQdHVRcEs5TjMxWklwOGNvY1lhOVFEWlR1SjM3MWRkbF9SdUp6NE9tby1YdFJ2dUZrMHRpMWNJd3ZYalVnLWtUUm9BcjJlMnBJSzAxcHNEZkdsRWRyaElTVWlEN01QWndIUTZtQ25FTjNlRWtSdjVIVS1qVklLWlI0?oc=5",
+      "publishedAt": "2026-11-26T09:27:55.000Z",
+      "source": "Koreabizwire",
+      "description": "Rescene, aespa and BTS Reveal the Regional Dynamics of K-Pop &nbsp;&nbsp; Koreabizwire",
       "sourceClass": "publisher",
       "confidence": "secondary",
-      "sourceSummary": "ILLIT ‘Arrests’ Star Actors at the Blue Dragon Film Awards: A Playful Crossover Between K-POP and Korean Cinema [HT Focus] &nbsp;&nbsp; Hanteo News",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LVkhtbDVzUC1keFRWZ0lnMVVvLVZLR2hMb2JxQW1rVjY5V2dwUy1makN2VElBLUZtMmMtWWxPVnJHZ0lvQ0RJWjloVkVFNzQ4blU0blhn",
+      "sourceSummary": "Rescene, aespa and BTS Reveal the Regional Dynamics of K-Pop &nbsp;&nbsp; Koreabizwire",
+      "articleUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM2pNYU5RN1RDWk9adFFKaGNaVjlQdHVRcEs5TjMxWklwOGNvY1lhOVFEWlR1SjM3MWRkbF9SdUp6NE9tby1YdFJ2dUZrMHRpMWNJd3ZYalVnLWtUUm9BcjJlMnBJSzAxcHNEZkdsRWRyaElTVWlEN01QWndIUTZtQ25FTjNlRWtSdjVIVS1qVklLWlI0",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
-        "category": "K-DRAMA NEWS",
+        "category": "HALLYU NEWS",
         "headline": "GOOGLE NEWS",
         "status": "pending_review",
         "canvaFields": {
-          "Category": "K-DRAMA NEWS",
+          "Category": "HALLYU NEWS",
           "Headline": "GOOGLE NEWS",
           "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
@@ -1033,30 +1441,6 @@
           "Category": "HALLYU NEWS",
           "Headline": "WATCH: PARK MIN YOUNG, YOOK SUNGJAE, GO SOO, AND JOO HYUN YOUNG EXPRESS EXCITEMENT AT “NINE TO SIX”…",
           "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/26133204/nine-to-six-7.jpg"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "192ec7898c27",
-      "title": "Rescene, aespa, and BTS Lead K-Pop Popularity in South Korea, China, and Japan According to Melon",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUFRIQ3FQWXQyS3Fjc2xUWVNzY3lkcmZJcFRidlo0TW5BTmx2YjJJUHl6cGhETnNqNHp3dmw1S184T1h6TWZtOXZOVEg0dUxOYlBsYnZyc242VGZFbXZ5dzdlN3BUS0ktY1ZiaGlpMkNrU3k5NDVielVWOXMtWnFxZmlTbC01WXJGMUFTNUN1UFVCY1ZNSUtJd3FjSW5ONGprYXZtWWRsaU44ZWtiUzJEZVJjZXppTVpFNXhEaS0tY3VjMDA?oc=5",
-      "publishedAt": "2026-11-26T06:31:38.000Z",
-      "source": "hellokpop",
-      "description": "Rescene, aespa, and BTS Lead K-Pop Popularity in South Korea, China, and Japan According to Melon &nbsp;&nbsp; hellokpop",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "Rescene, aespa, and BTS Lead K-Pop Popularity in South Korea, China, and Japan According to Melon &nbsp;&nbsp; hellokpop",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUFRIQ3FQWXQyS3Fjc2xUWVNzY3lkcmZJcFRidlo0TW5BTmx2YjJJUHl6cGhETnNqNHp3dmw1S184T1h6TWZtOXZOVEg0dUxOYlBsYnZyc242VGZFbXZ5dzdlN3BUS0ktY1ZiaGlpMkNrU3k5NDVielVWOXMtWnFxZmlTbC01WXJGMUFTNUN1UFVCY1ZNSUtJd3FjSW5ONGprYXZtWWRsaU44ZWtiUzJEZVJjZXppTVpFNXhEaS0tY3VjMDA",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "needs_image",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         "canvaDesignId": null
       }
@@ -1206,21 +1590,21 @@
       }
     },
     {
-      "id": "950ea37cbbc6",
+      "id": "5b4876103d41",
       "title": "Rescene, aespa, BTS most popular K-pop stars in Korea, China, Japan: Melon",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeFdYWlJvWVRVRzZ2ekVyR0N0cUVYZVl0bzRKZWhNZkpHaGEtTXlIeFR0MHpSQ3ROSzhZVXAxVGtxNW82YnE4RVFSODZaXy01UTBzTkJtdEZDU3A1VXQxeTM4TlprYlV5OFJzWWoyOE1vYmlQOE4xS2lPaFdTdUl4WGxNdVU4MkYwOWNHSkNnZWhjSUEwRzQyYUwzTjA1YU5XWS1SeThlc0owRnlLQVZsVkszbjZZeFVDblNDNWhjMXVOTEtxMHc2S1ZMd9IBywFBVV95cUxQeFdYWlJvWVRVRzZ2ekVyR0N0cUVYZVl0bzRKZWhNZkpHaGEtTXlIeFR0MHpSQ3ROSzhZVXAxVGtxNW82YnE4RVFSODZaXy01UTBzTkJtdEZDU3A1VXQxeTM4TlprYlV5OFJzWWoyOE1vYmlQOE4xS2lPaFdTdUl4WGxNdVU4MkYwOWNHSkNnZWhjSUEwRzQyYUwzTjA1YU5XWS1SeThlc0owRnlLQVZsVkszbjZZeFVDblNDNWhjMXVOTEtxMHc2S1ZMdw?oc=5",
-      "publishedAt": "2026-11-26T05:09:03.000Z",
-      "source": "The Korea Times",
-      "description": "Rescene, aespa, BTS most popular K-pop stars in Korea, China, Japan: Melon &nbsp;&nbsp; The Korea Times",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Ydzg3dzFsUVplMk9TMm9tdkFCZ29CQ1hlczNsaFM0QTBiaGhrX1pKZEk4NlBxNEJWR2dvV1h4MHNlT2g5bmUzQzYzSGQ2bkZORW1RMElMOTlEZw?oc=5",
+      "publishedAt": "2026-11-26T04:56:12.000Z",
+      "source": "Yonhap News Agency",
+      "description": "Rescene, aespa, BTS most popular K-pop stars in Korea, China, Japan: Melon &nbsp;&nbsp; Yonhap News Agency",
       "sourceClass": "publisher",
       "confidence": "secondary",
-      "sourceSummary": "Rescene, aespa, BTS most popular K-pop stars in Korea, China, Japan: Melon &nbsp;&nbsp; The Korea Times",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeFdYWlJvWVRVRzZ2ekVyR0N0cUVYZVl0bzRKZWhNZkpHaGEtTXlIeFR0MHpSQ3ROSzhZVXAxVGtxNW82YnE4RVFSODZaXy01UTBzTkJtdEZDU3A1VXQxeTM4TlprYlV5OFJzWWoyOE1vYmlQOE4xS2lPaFdTdUl4WGxNdVU4MkYwOWNHSkNnZWhjSUEwRzQyYUwzTjA1YU5XWS1SeThlc0owRnlLQVZsVkszbjZZeFVDblNDNWhjMXVOTEtxMHc2S1ZMd9IBywFBVV95cUxQeFdYWlJvWVRVRzZ2ekVyR0N0cUVYZVl0bzRKZWhNZkpHaGEtTXlIeFR0MHpSQ3ROSzhZVXAxVGtxNW82YnE4RVFSODZaXy01UTBzTkJtdEZDU3A1VXQxeTM4TlprYlV5OFJzWWoyOE1vYmlQOE4xS2lPaFdTdUl4WGxNdVU4MkYwOWNHSkNnZWhjSUEwRzQyYUwzTjA1YU5XWS1SeThlc0owRnlLQVZsVkszbjZZeFVDblNDNWhjMXVOTEtxMHc2S1ZMdw",
+      "sourceSummary": "Rescene, aespa, BTS most popular K-pop stars in Korea, China, Japan: Melon &nbsp;&nbsp; Yonhap News Agency",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Ydzg3dzFsUVplMk9TMm9tdkFCZ29CQ1hlczNsaFM0QTBiaGhrX1pKZEk4NlBxNEJWR2dvV1h4MHNlT2g5bmUzQzYzSGQ2bkZORW1RMElMOTlEZw",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
         "category": "HALLYU NEWS",
         "headline": "GOOGLE NEWS",
-        "status": "needs_image",
+        "status": "pending_review",
         "canvaFields": {
           "Category": "HALLYU NEWS",
           "Headline": "GOOGLE NEWS",
@@ -1249,30 +1633,6 @@
           "Category": "HALLYU NEWS",
           "Headline": "WATCH: CHA SEUNG WON AND KIM DO HOON ARE DEADLY AGENTS WITH HILARIOUSLY AWKWARD TEAMWORK IN “RETIRED…",
           "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/26134527/Retired-Personnel-Management-teaser.jpg"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "c134ff9ce9bd",
-      "title": "HUNTR/X Is Taking 'KPop Demon Hunters' on a World Tour: Can an Animated K-Pop Group Fill Real Concert Arenas?",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNlhzajZaZURVaDd6YU1jakwtandGZXRic1RMM1p5UUJONHZnMld3WU9LN1N1S1pZZmw5aUt1X2VVOWxoWlUxUDRrb1p2NjdVSFFMUGdQempOd2dRdFA3NHZpTWk5MzhLVTY2TWh5eDJmcldQWlQyNnZNdFgxNnduUjhRLWRuUExhNmxOZWVvdnBJUGp5TEtyeEU0ZlhOUlBiSEJudW9pcmZOb0ZrTmU1T0RvdnU4RjhRUE9BVEM0dEEtdkpfbWc2ZG1B?oc=5",
-      "publishedAt": "2026-11-26T04:37:22.000Z",
-      "source": "Dojeon Media",
-      "description": "HUNTR/X Is Taking 'KPop Demon Hunters' on a World Tour: Can an Animated K-Pop Group Fill Real Concert Arenas? &nbsp;&nbsp; Dojeon Media",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "HUNTR/X Is Taking 'KPop Demon Hunters' on a World Tour: Can an Animated K-Pop Group Fill Real Concert Arenas? &nbsp;&nbsp; Dojeon Media",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNlhzajZaZURVaDd6YU1jakwtandGZXRic1RMM1p5UUJONHZnMld3WU9LN1N1S1pZZmw5aUt1X2VVOWxoWlUxUDRrb1p2NjdVSFFMUGdQempOd2dRdFA3NHZpTWk5MzhLVTY2TWh5eDJmcldQWlQyNnZNdFgxNnduUjhRLWRuUExhNmxOZWVvdnBJUGp5TEtyeEU0ZlhOUlBiSEJudW9pcmZOb0ZrTmU1T0RvdnU4RjhRUE9BVEM0dEEtdkpfbWc2ZG1B",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "CONCERT NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "CONCERT NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         "canvaDesignId": null
       }
@@ -1343,30 +1703,6 @@
         "status": "pending_review",
         "canvaFields": {
           "Category": "TRENDING",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "853939ab98ec",
-      "title": "RIIZE set as sole K-pop act on Tecate Pa'l Norte 2027 lineup in Mexico",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVUZmQlNRLTJ6SXNnS0Q1anQwVlM1VVVTcEJUZ3lla2ljbDluS1NoZi01OEtIR01vSF9YbGVua0ZMcmNnUmtzb3BtcHZ3dmV2bTZjZGppcUI0R3hRWmw0bmNQTTFXV0prS24yS2IyTVVuZklHZXZDSGRfcmRRUG9iTXNsX0lqQmlybTVzd2N4aUV5RE9fVHg0WkJOWE9yRmIwcWowM1U4VmpEOUFKUWZlam01VWJ5d1FndjVGUmd4OS1RRWR2VDVlTElEY9IBywFBVV95cUxPVUZmQlNRLTJ6SXNnS0Q1anQwVlM1VVVTcEJUZ3lla2ljbDluS1NoZi01OEtIR01vSF9YbGVua0ZMcmNnUmtzb3BtcHZ3dmV2bTZjZGppcUI0R3hRWmw0bmNQTTFXV0prS24yS2IyTVVuZklHZXZDSGRfcmRRUG9iTXNsX0lqQmlybTVzd2N4aUV5RE9fVHg0WkJOWE9yRmIwcWowM1U4VmpEOUFKUWZlam01VWJ5d1FndjVGUmd4OS1RRWR2VDVlTElEYw?oc=5",
-      "publishedAt": "2026-11-26T02:26:03.000Z",
-      "source": "The Korea Times",
-      "description": "RIIZE set as sole K-pop act on Tecate Pa'l Norte 2027 lineup in Mexico &nbsp;&nbsp; The Korea Times",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "RIIZE set as sole K-pop act on Tecate Pa'l Norte 2027 lineup in Mexico &nbsp;&nbsp; The Korea Times",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVUZmQlNRLTJ6SXNnS0Q1anQwVlM1VVVTcEJUZ3lla2ljbDluS1NoZi01OEtIR01vSF9YbGVua0ZMcmNnUmtzb3BtcHZ3dmV2bTZjZGppcUI0R3hRWmw0bmNQTTFXV0prS24yS2IyTVVuZklHZXZDSGRfcmRRUG9iTXNsX0lqQmlybTVzd2N4aUV5RE9fVHg0WkJOWE9yRmIwcWowM1U4VmpEOUFKUWZlam01VWJ5d1FndjVGUmd4OS1RRWR2VDVlTElEY9IBywFBVV95cUxPVUZmQlNRLTJ6SXNnS0Q1anQwVlM1VVVTcEJUZ3lla2ljbDluS1NoZi01OEtIR01vSF9YbGVua0ZMcmNnUmtzb3BtcHZ3dmV2bTZjZGppcUI0R3hRWmw0bmNQTTFXV0prS24yS2IyTVVuZklHZXZDSGRfcmRRUG9iTXNsX0lqQmlybTVzd2N4aUV5RE9fVHg0WkJOWE9yRmIwcWowM1U4VmpEOUFKUWZlam01VWJ5d1FndjVGUmd4OS1RRWR2VDVlTElEYw",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
           "Headline": "GOOGLE NEWS",
           "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
@@ -1542,6 +1878,30 @@
       }
     },
     {
+      "id": "c881ba183c82",
+      "title": "The ‘KPop Demon Hunters’ Criterion Edition Blu-ray Is 50% Off for Black Friday — Order Here",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxON094b3Z3N19zNzlKYTJuY2w4bGs1ejhUNUQ3blM1UXVfRU9iTDN2Ti1pZUwzSGhub0p4MXlXZjFpYXlZaUtUYjN5Wld5Tm1uUVE0eE1sY1ZjNERDV0dVRmNGbEpmUG1vTU5GeDZQR3dKUUxYT2lvdl83azhSbGxTdWVjNlpVNC1Hd3p3YV9RZG5wNWJ3VXhzT0tMWnpMOWZnUi1aeDRsRVlIS0h2OXJVcDlVR2dPaWtwTmJjZ0hCNU5Ea28tSkE?oc=5",
+      "publishedAt": "2026-11-25T16:52:19.000Z",
+      "source": "Rolling Stone",
+      "description": "The ‘KPop Demon Hunters’ Criterion Edition Blu-ray Is 50% Off for Black Friday — Order Here &nbsp;&nbsp; Rolling Stone",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "The ‘KPop Demon Hunters’ Criterion Edition Blu-ray Is 50% Off for Black Friday — Order Here &nbsp;&nbsp; Rolling Stone",
+      "articleUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxON094b3Z3N19zNzlKYTJuY2w4bGs1ejhUNUQ3blM1UXVfRU9iTDN2Ti1pZUwzSGhub0p4MXlXZjFpYXlZaUtUYjN5Wld5Tm1uUVE0eE1sY1ZjNERDV0dVRmNGbEpmUG1vTU5GeDZQR3dKUUxYT2lvdl83azhSbGxTdWVjNlpVNC1Hd3p3YV9RZG5wNWJ3VXhzT0tMWnpMOWZnUi1aeDRsRVlIS0h2OXJVcDlVR2dPaWtwTmJjZ0hCNU5Ea28tSkE",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "HALLYU NEWS",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
       "id": "24e75fbee552",
       "title": "The KPop Demon Hunters Holiday Gift Guide Is Here — and It’s Star-Studded",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZEdENnZKQUc2cngyQlcyM1dqdDlwblhrNVNBa3lnS21CNGk4OE9KZDFTRWxIaWdDUldQcVBwQWlXc2VMRXZYb3liTkQ2WmRDckNHT3VDa3R0YUNwc1RPVXQzZEFIZlBJMlEyWXVYWkpVWGpNVFRXWWlFWUlsVkQ3Y2NyVE9jaDBO?oc=5",
@@ -1566,23 +1926,47 @@
       }
     },
     {
-      "id": "4b3142b7b0e5",
-      "title": "Netflix, Disney+ challenge local streamers with reality shows, K-pop debuts",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wVnhvV0NsWHprVVVramEtQlJ2LUloN2J5SkVEak9JeldfdXlGMFdoM01VV3pRYkx6UW84S2JSaEV5akFncFJtYVdScjVSOWdoMUxOMTl4Q0xMWmlaTFdTWUQ4Sk91VVRRLW1xT1F6YWdBUQ?oc=5",
-      "publishedAt": "2026-11-25T14:02:00.000Z",
-      "source": "KED Global",
-      "description": "Netflix, Disney+ challenge local streamers with reality shows, K-pop debuts &nbsp;&nbsp; KED Global",
+      "id": "ee84c7a42305",
+      "title": "Exclusive: Megan Thee Stallion Opens 'KPop Demon Hunters' KShop With Charles Melton, Michael Irvin",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOEN4bnFTVUM2V25HaEdjbk5Zb1ByR29TbW92azcyYlhKVjRKSnIzc2syeElUSXhMWVRLYkp3dUw2TVZZOWZsVUNFQWZQbEJOMEdwOWhXd3Bfc182bm05STMxN284cmdhdWdpa1VNcllaY2t2aWp6dmVCbXBkdGwtT0hTRjIxcElWLVJXRXE2MUEtQzVPOGdUOEl6NUczbmRS?oc=5",
+      "publishedAt": "2026-11-25T16:01:24.000Z",
+      "source": "Complex",
+      "description": "Exclusive: Megan Thee Stallion Opens 'KPop Demon Hunters' KShop With Charles Melton, Michael Irvin &nbsp;&nbsp; Complex",
       "sourceClass": "publisher",
       "confidence": "secondary",
-      "sourceSummary": "Netflix, Disney+ challenge local streamers with reality shows, K-pop debuts &nbsp;&nbsp; KED Global",
-      "articleUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wVnhvV0NsWHprVVVramEtQlJ2LUloN2J5SkVEak9JeldfdXlGMFdoM01VV3pRYkx6UW84S2JSaEV5akFncFJtYVdScjVSOWdoMUxOMTl4Q0xMWmlaTFdTWUQ4Sk91VVRRLW1xT1F6YWdBUQ",
+      "sourceSummary": "Exclusive: Megan Thee Stallion Opens 'KPop Demon Hunters' KShop With Charles Melton, Michael Irvin &nbsp;&nbsp; Complex",
+      "articleUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOEN4bnFTVUM2V25HaEdjbk5Zb1ByR29TbW92azcyYlhKVjRKSnIzc2syeElUSXhMWVRLYkp3dUw2TVZZOWZsVUNFQWZQbEJOMEdwOWhXd3Bfc182bm05STMxN284cmdhdWdpa1VNcllaY2t2aWp6dmVCbXBkdGwtT0hTRjIxcElWLVJXRXE2MUEtQzVPOGdUOEl6NUczbmRS",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
         "category": "HALLYU NEWS",
         "headline": "GOOGLE NEWS",
-        "status": "needs_image",
+        "status": "pending_review",
         "canvaFields": {
           "Category": "HALLYU NEWS",
+          "Headline": "GOOGLE NEWS",
+          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        "canvaDesignId": null
+      }
+    },
+    {
+      "id": "b80e90a291d9",
+      "title": "Le Sserafim x Luis de Javier: An Award Winning Night",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORDNDcGZfcWh6MVE4MXp2NG5Gai1xWlljMDM3Z0xwN0t6TkJUZThHRGFfT1FtcUNaUVhVWVhZalU0VEFOUkJOLWxYX1dTeUxpOHRUTTUyMkhEQWw2SkJSSjRLY3ZVa3hkSEthaGgtUmxReG8ya1UxLW00eV9TbnZEa3BIdE85eXlJOVE?oc=5",
+      "publishedAt": "2026-11-25T14:31:01.000Z",
+      "source": "V Magazine",
+      "description": "Le Sserafim x Luis de Javier: An Award Winning Night &nbsp;&nbsp; V Magazine",
+      "sourceClass": "publisher",
+      "confidence": "secondary",
+      "sourceSummary": "Le Sserafim x Luis de Javier: An Award Winning Night &nbsp;&nbsp; V Magazine",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORDNDcGZfcWh6MVE4MXp2NG5Gai1xWlljMDM3Z0xwN0t6TkJUZThHRGFfT1FtcUNaUVhVWVhZalU0VEFOUkJOLWxYX1dTeUxpOHRUTTUyMkhEQWw2SkJSSjRLY3ZVa3hkSEthaGgtUmxReG8ya1UxLW00eV9TbnZEa3BIdE85eXlJOVE",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "social": {
+        "category": "TRENDING",
+        "headline": "GOOGLE NEWS",
+        "status": "pending_review",
+        "canvaFields": {
+          "Category": "TRENDING",
           "Headline": "GOOGLE NEWS",
           "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
@@ -1609,30 +1993,6 @@
           "Category": "HALLYU NEWS",
           "Headline": "UPDATE: NEW JYP BOY GROUP OFTHEBLUE DROPS NEXT CONCEPT PHOTOS FOR DEBUT EP \"OUT OF THE BLUE\": SOOMPI",
           "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/26223033/oblu_781037.jpeg"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "39c2abd46f6b",
-      "title": "BTS, aespa, IVE and Cortis nominated in both main categories for 41st Golden Disc Awards",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbDQtMFliUEgzRWpJeW90U0JPQVV5STFLdW5ERlRFdnhqTVpvWkQzSnZGUG9DbngxZzNRUktqZ1U5N2JackF1bzBnRWFfQmhIcXl6TlNfNW1hWnM4OFpEVDZQQWIyQnQyeWpUckRkSUE3Z05tckZnS1RSRnNoTzhqZ3p0UFF5Y2FQamJCdDlQb0RiZmpJeWZJdjBQT2EzMjM5YTNaLW05SkRIU2oxZXJRQUxQMEYyYUYxSmk5Z0pOdEJtSVRHNDF1b01XZ1dDeG9DSFNCVUFMeW00dk00?oc=5",
-      "publishedAt": "2026-11-25T11:28:26.000Z",
-      "source": "Korea JoongAng Daily",
-      "description": "BTS, aespa, IVE and Cortis nominated in both main categories for 41st Golden Disc Awards &nbsp;&nbsp; Korea JoongAng Daily",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "BTS, aespa, IVE and Cortis nominated in both main categories for 41st Golden Disc Awards &nbsp;&nbsp; Korea JoongAng Daily",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbDQtMFliUEgzRWpJeW90U0JPQVV5STFLdW5ERlRFdnhqTVpvWkQzSnZGUG9DbngxZzNRUktqZ1U5N2JackF1bzBnRWFfQmhIcXl6TlNfNW1hWnM4OFpEVDZQQWIyQnQyeWpUckRkSUE3Z05tckZnS1RSRnNoTzhqZ3p0UFF5Y2FQamJCdDlQb0RiZmpJeWZJdjBQT2EzMjM5YTNaLW05SkRIU2oxZXJRQUxQMEYyYUYxSmk5Z0pOdEJtSVRHNDF1b01XZ1dDeG9DSFNCVUFMeW00dk00",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "TRENDING",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "TRENDING",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         "canvaDesignId": null
       }
@@ -1681,30 +2041,6 @@
           "Category": "HALLYU NEWS",
           "Headline": "NAM TAE WOO’S PRICKLY CHARACTER RETURNS WITH A NEW RANK IN “NEW RECRUIT: HAUNTED MILITARY HOSPITAL”:…",
           "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/25184310/New-Recruit-Haunted-Military-Hospital-5-1.jpg"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "2da1fa192478",
-      "title": "Virtual idol group WINKX dreams of real healing through music",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZF9ZRzZSUmMtd3l4OG90UU1fUlpVQ09fWG93b1dhLXRYclVGR0hodWQ5V3RwQ0tDUmFzcUt1UnBJZElwY1gtRGVEM0dTcFRaV2Ztc2VYVjdVWE9HTDd5bGd4Sm9WWWRRWWVURFpuSWM1bGRrTHlsTXI1OUgxVzVLbFRpd1Y1VXlqWFVOcnZKN2xKZnJmWjZhYWVpeVVpQllvYXlZRUozRVlqeS03alc1YndsVHE4QlhMLTdFMnZ1WjhiQU1RNVUtdkFtNkQxaG8zUG53NmVONA?oc=5",
-      "publishedAt": "2026-11-25T09:38:48.000Z",
-      "source": "Korea JoongAng Daily",
-      "description": "Virtual idol group WINKX dreams of real healing through music &nbsp;&nbsp; Korea JoongAng Daily",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "Virtual idol group WINKX dreams of real healing through music &nbsp;&nbsp; Korea JoongAng Daily",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZF9ZRzZSUmMtd3l4OG90UU1fUlpVQ09fWG93b1dhLXRYclVGR0hodWQ5V3RwQ0tDUmFzcUt1UnBJZElwY1gtRGVEM0dTcFRaV2Ztc2VYVjdVWE9HTDd5bGd4Sm9WWWRRWWVURFpuSWM1bGRrTHlsTXI1OUgxVzVLbFRpd1Y1VXlqWFVOcnZKN2xKZnJmWjZhYWVpeVVpQllvYXlZRUozRVlqeS03alc1YndsVHE4QlhMLTdFMnZ1WjhiQU1RNVUtdkFtNkQxaG8zUG53NmVONA",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "TRENDING",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "TRENDING",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         "canvaDesignId": null
       }
@@ -1806,54 +2142,6 @@
       }
     },
     {
-      "id": "5b6b497228c7",
-      "title": "NCT Wish’s Sion tops poll for K-pop star most likely to succeed with a perfume brand",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRXg5VEEyUnB0c3NITEJ4SEkyS1dIWjNrQk1jSGVJbWxxcHQtWlpVcDZJTno5VS1ySm9hUS10MjFJb1E0RVhmWFctRWE3Ny1zajR5LVZrLU50Tl9hcTFlZXZGREx2dURBSmtyQ2pKbWlsc25GZU5YdDRzUXJHSFNiYnJ5bkc5TWx5YUZVOU52VHJqc1lVMjIxTTQ4X1lPdE16SENWbmo5eVlDenNHMnBUSWJNak9NUzR1WnJLV3NWbTdsWktNZUdsY2h4R3N1YVBMc0c3RHhIMA?oc=5",
-      "publishedAt": "2026-11-25T07:20:57.000Z",
-      "source": "Korea JoongAng Daily",
-      "description": "NCT Wish’s Sion tops poll for K-pop star most likely to succeed with a perfume brand &nbsp;&nbsp; Korea JoongAng Daily",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "NCT Wish’s Sion tops poll for K-pop star most likely to succeed with a perfume brand &nbsp;&nbsp; Korea JoongAng Daily",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRXg5VEEyUnB0c3NITEJ4SEkyS1dIWjNrQk1jSGVJbWxxcHQtWlpVcDZJTno5VS1ySm9hUS10MjFJb1E0RVhmWFctRWE3Ny1zajR5LVZrLU50Tl9hcTFlZXZGREx2dURBSmtyQ2pKbWlsc25GZU5YdDRzUXJHSFNiYnJ5bkc5TWx5YUZVOU52VHJqc1lVMjIxTTQ4X1lPdE16SENWbmo5eVlDenNHMnBUSWJNak9NUzR1WnJLV3NWbTdsWktNZUdsY2h4R3N1YVBMc0c3RHhIMA",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "a11111942d7a",
-      "title": "41st Golden Disc Awards Announces Nominees",
-      "url": "https://www.soompi.com/article/1890589wpp/41st-golden-disc-awards-announces-nominees",
-      "publishedAt": "2026-11-25T06:12:12.000Z",
-      "source": "Soompi",
-      "description": "Nominees have been announced for the 41st Golden Disc Awards! On November 25, the organizing committee for the 41st Golden Disc Awards announced the nominees for the Digital Song Division, Album Division, and Rookie Artist of the Year. Songs and albums that were released between early November 2025 through late October 2026 were eligible to&#8230; Continue reading 41st Golden Disc Awards Announces Nominees The post 41st Golden Disc Awards Announces Nominees appeared first on Soompi .",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "Nominees have been announced for the 41st Golden Disc Awards! On November 25, the organizing committee for the 41st Golden Disc Awards announced the nominees for the Digital Song Division, Album Division, and Rookie Artist of the Year. Songs and albums that were released between early November 2025 through late October 2026 were eligible to&#8230; Continue reading 41st Golden Disc Awards Announces Nominees The post 41st Golden Disc Awards Announces Nominees appeared first on Soompi .",
-      "articleUrl": "https://www.soompi.com/article/1890589wpp/41st-golden-disc-awards-announces-nominees",
-      "imageUrl": "https://0.soompi.io/wp-content/uploads/2026/11/25151618/golden-disc-1-.jpg",
-      "social": {
-        "category": "TRENDING",
-        "headline": "41ST GOLDEN DISC AWARDS ANNOUNCES NOMINEES: SOOMPI",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "TRENDING",
-          "Headline": "41ST GOLDEN DISC AWARDS ANNOUNCES NOMINEES: SOOMPI",
-          "FeatureImage": "https://0.soompi.io/wp-content/uploads/2026/11/25151618/golden-disc-1-.jpg"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
       "id": "4421e7e0dafb",
       "title": "K-Pop Stars, Art and Unexpected Collabs: Inside the 2026 Watch Innovation Playbook",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV3V1dlBQLWYxQXNZSFBYSWwtUzNSd2lPQmE4SWpQQXZfV1lqeW50TXZKdlFhM2F2NjVmSDlvRGJvclI4djU0ZDQzME5uQWVxTTZob2tGSnU5LUNhdlRSdEwtOWZGVXJFdXcxb05DTmVYYk01c2VXVjlPOW9hTG8xeDQtQ0E3QjhTZ0N1YjUxeGZsSkV0eDF4ei1rQmU5b1FGRTY5eFI2MEhpenZjZXVn?oc=5",
@@ -1878,112 +2166,16 @@
       }
     },
     {
-      "id": "7930b252a867",
-      "title": "POV: HE’S YOUR ROCKSTAR, AURA-FARMING BOYFRIEND 🖤✨ BTS' J-Hope rocked the stage with full swag in a recent photos he shared during BTS World Tour \"Arirang\" in Kaohsiung, Taiwan. Courtesy: J-Hope/Instagram Visit gmanetwork.com/news for m",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zZ1JjYWIzQUZGMHJOTnl2ZEotU1ViREFjMjlPNld3by1SZEk5cXJZdEJIdVdmRUNqajV5OUFYNmd5SFJ4UXJCVndTLW1UbngwYnBtMUdqbmVydzlHb0VGZXAwbXNaM0dw?oc=5",
-      "publishedAt": "2026-11-25T05:28:23.000Z",
-      "source": "Facebook",
-      "description": "POV: HE’S YOUR ROCKSTAR, AURA-FARMING BOYFRIEND 🖤✨ BTS' J-Hope rocked the stage with full swag in a recent photos he shared during BTS World Tour \"Arirang\" in Kaohsiung, Taiwan. Courtesy: J-Hope/Instagram Visit gmanetwork.com/news for m &nbsp;&nbsp; Facebook",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "POV: HE’S YOUR ROCKSTAR, AURA-FARMING BOYFRIEND 🖤✨ BTS' J-Hope rocked the stage with full swag in a recent photos he shared during BTS World Tour \"Arirang\" in Kaohsiung, Taiwan. Courtesy: J-Hope/Instagram Visit gmanetwork.com/news for m &nbsp;&nbsp; Facebook",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zZ1JjYWIzQUZGMHJOTnl2ZEotU1ViREFjMjlPNld3by1SZEk5cXJZdEJIdVdmRUNqajV5OUFYNmd5SFJ4UXJCVndTLW1UbngwYnBtMUdqbmVydzlHb0VGZXAwbXNaM0dw",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "CONCERT NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "needs_image",
-        "canvaFields": {
-          "Category": "CONCERT NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "6f924abf3ca5",
-      "title": "Kiss of Life to release first winter seasonal single ′Greedy′ - K-VIBE",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpTzNtZUtsY3hVemsxYkJHa2dseE1sQlhDb2phZEdJWTR4ZHA5YmFRZ2tzbmRKelltMEdvZ3N2bTFPOWUwcnZZQ0RVT3B5YVdXNlh1UHBmNWx6Z3NX0gFXQVVfeXFMUENBaWVwN2hWTGs2UjZob1VjUWZkUUNIdVZsa1N0dExWVG9FVmFKQXg1Mm1qazFEd1V4aExGLW9XZzdXV0dsNFdzaThnbkpMVzB1cVZVZEVZ?oc=5",
-      "publishedAt": "2026-11-25T04:48:07.000Z",
-      "source": "K-VIBE",
-      "description": "Kiss of Life to release first winter seasonal single ′Greedy′ &nbsp;&nbsp; K-VIBE",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "Kiss of Life to release first winter seasonal single ′Greedy′ &nbsp;&nbsp; K-VIBE",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpTzNtZUtsY3hVemsxYkJHa2dseE1sQlhDb2phZEdJWTR4ZHA5YmFRZ2tzbmRKelltMEdvZ3N2bTFPOWUwcnZZQ0RVT3B5YVdXNlh1UHBmNWx6Z3NX0gFXQVVfeXFMUENBaWVwN2hWTGs2UjZob1VjUWZkUUNIdVZsa1N0dExWVG9FVmFKQXg1Mm1qazFEd1V4aExGLW9XZzdXV0dsNFdzaThnbkpMVzB1cVZVZEVZ",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "COMEBACK NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "COMEBACK NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "6bd323608101",
-      "title": "Stray Kids’ Felix Stars in South Korea’s International Hanbok Promotion",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOFpSTlpSNzJ2dkFVUF9RZHRDZTBJXzR3aGc1c2JpdkdQazBCRHNfYVhoVlpMdTFtUEx6Q1FKUXM1SUZGTW9kcktXWUJlYnkyRFcyUHV5SklnQWlfVzBIV3I3UDRZR3pzT19uczRoOHRLTGJ2VnlDaEdLNHc4RUxBU1R0UFFmV3hCczZQV2pXVlItZFR6X3l4bXI0YVFkc0d0SkdF?oc=5",
-      "publishedAt": "2026-11-25T04:25:18.000Z",
-      "source": "hellokpop",
-      "description": "Stray Kids’ Felix Stars in South Korea’s International Hanbok Promotion &nbsp;&nbsp; hellokpop",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "Stray Kids’ Felix Stars in South Korea’s International Hanbok Promotion &nbsp;&nbsp; hellokpop",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOFpSTlpSNzJ2dkFVUF9RZHRDZTBJXzR3aGc1c2JpdkdQazBCRHNfYVhoVlpMdTFtUEx6Q1FKUXM1SUZGTW9kcktXWUJlYnkyRFcyUHV5SklnQWlfVzBIV3I3UDRZR3pzT19uczRoOHRLTGJ2VnlDaEdLNHc4RUxBU1R0UFFmV3hCczZQV2pXVlItZFR6X3l4bXI0YVFkc0d0SkdF",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "70d94bef19ae",
-      "title": "Idols Who Have Covered IU's ‘Twenty-Three’: What the Song Means to IVE's LIZ [HT Focus]",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84VzBPUmZzU1FXcEx4S2RneDR0dHhLYWFWWnFTMWJyYklFMHZodEtsS0NrbHJnUWtVNmpndGlOSHJEQVJEVEVTVW1ZbWY2eUNrV3NNREd3?oc=5",
-      "publishedAt": "2026-11-25T04:04:39.000Z",
-      "source": "Hanteo News",
-      "description": "Idols Who Have Covered IU's ‘Twenty-Three’: What the Song Means to IVE's LIZ [HT Focus] &nbsp;&nbsp; Hanteo News",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "Idols Who Have Covered IU's ‘Twenty-Three’: What the Song Means to IVE's LIZ [HT Focus] &nbsp;&nbsp; Hanteo News",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84VzBPUmZzU1FXcEx4S2RneDR0dHhLYWFWWnFTMWJyYklFMHZodEtsS0NrbHJnUWtVNmpndGlOSHJEQVJEVEVTVW1ZbWY2eUNrV3NNREd3",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
       "id": "281b60c618ac",
       "title": "K-pop back in China? Summit talks spark ‘hope and apprehension’",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVWJpcHJUd2dGdUI2Skk3bGgzbnZQZ2xCV0d3ZzQxSi0xUVRYYkNES0pGcDU1dzJYdjFJeDRUMm1vY0ZzSmN5aVlhTzFsbmY0SEx0ZzljWWpRQm9CV01Tb2tDdWM1M1haUXNBMl9HZllhN25KYS12eGwtSHRPNWt2Z2tMZnVoYTdmcXFBWnZaSkFXandvZzV6X2FLWU5IbTJVaEo5VmJHb05iYWlEQzA4VF9RZllZRlVTTnZuNUxEMNIBvwFBVV95cUxPVWJpcHJUd2dGdUI2Skk3bGgzbnZQZ2xCV0d3ZzQxSi0xUVRYYkNES0pGcDU1dzJYdjFJeDRUMm1vY0ZzSmN5aVlhTzFsbmY0SEx0ZzljWWpRQm9CV01Tb2tDdWM1M1haUXNBMl9HZllhN25KYS12eGwtSHRPNWt2Z2tMZnVoYTdmcXFBWnZaSkFXandvZzV6X2FLWU5IbTJVaEo5VmJHb05iYWlEQzA4VF9RZllZRlVTTnZuNUxEMA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmxsSkw0NkZSUlJqNVJJNWx0M0lMM1ZacEd1SVgxVXlNeElkU1dTUW9xOGk1MHkySV91QkdyTC1nTGVyVTcySHdwUnNJYm45QUdKelJ3VDJjWFg1bkFEY3NuWkdIUTZwaUJhLWNPdkN2cmFZZjRoS1FkWUJZdFVLQ0NPdDRWSXFPRVpPM3pWTEdaLUM1LVhYWVFiclJIeE1oc0RNckxVMEZDME4tQ2QwYkJiNzdJREVwd0RUN2Z0b9IBvwFBVV95cUxPVWJpcHJUd2dGdUI2Skk3bGgzbnZQZ2xCV0d3ZzQxSi0xUVRYYkNES0pGcDU1dzJYdjFJeDRUMm1vY0ZzSmN5aVlhTzFsbmY0SEx0ZzljWWpRQm9CV01Tb2tDdWM1M1haUXNBMl9HZllhN25KYS12eGwtSHRPNWt2Z2tMZnVoYTdmcXFBWnZaSkFXandvZzV6X2FLWU5IbTJVaEo5VmJHb05iYWlEQzA4VF9RZllZRlVTTnZuNUxEMA?oc=5",
       "publishedAt": "2026-11-25T03:15:15.000Z",
       "source": "South China Morning Post",
       "description": "K-pop back in China? Summit talks spark ‘hope and apprehension’ &nbsp;&nbsp; South China Morning Post",
       "sourceClass": "publisher",
       "confidence": "secondary",
       "sourceSummary": "K-pop back in China? Summit talks spark ‘hope and apprehension’ &nbsp;&nbsp; South China Morning Post",
-      "articleUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVWJpcHJUd2dGdUI2Skk3bGgzbnZQZ2xCV0d3ZzQxSi0xUVRYYkNES0pGcDU1dzJYdjFJeDRUMm1vY0ZzSmN5aVlhTzFsbmY0SEx0ZzljWWpRQm9CV01Tb2tDdWM1M1haUXNBMl9HZllhN25KYS12eGwtSHRPNWt2Z2tMZnVoYTdmcXFBWnZaSkFXandvZzV6X2FLWU5IbTJVaEo5VmJHb05iYWlEQzA4VF9RZllZRlVTTnZuNUxEMNIBvwFBVV95cUxPVWJpcHJUd2dGdUI2Skk3bGgzbnZQZ2xCV0d3ZzQxSi0xUVRYYkNES0pGcDU1dzJYdjFJeDRUMm1vY0ZzSmN5aVlhTzFsbmY0SEx0ZzljWWpRQm9CV01Tb2tDdWM1M1haUXNBMl9HZllhN25KYS12eGwtSHRPNWt2Z2tMZnVoYTdmcXFBWnZaSkFXandvZzV6X2FLWU5IbTJVaEo5VmJHb05iYWlEQzA4VF9RZllZRlVTTnZuNUxEMA",
+      "articleUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmxsSkw0NkZSUlJqNVJJNWx0M0lMM1ZacEd1SVgxVXlNeElkU1dTUW9xOGk1MHkySV91QkdyTC1nTGVyVTcySHdwUnNJYm45QUdKelJ3VDJjWFg1bkFEY3NuWkdIUTZwaUJhLWNPdkN2cmFZZjRoS1FkWUJZdFVLQ0NPdDRWSXFPRVpPM3pWTEdaLUM1LVhYWVFiclJIeE1oc0RNckxVMEZDME4tQ2QwYkJiNzdJREVwd0RUN2Z0b9IBvwFBVV95cUxPVWJpcHJUd2dGdUI2Skk3bGgzbnZQZ2xCV0d3ZzQxSi0xUVRYYkNES0pGcDU1dzJYdjFJeDRUMm1vY0ZzSmN5aVlhTzFsbmY0SEx0ZzljWWpRQm9CV01Tb2tDdWM1M1haUXNBMl9HZllhN25KYS12eGwtSHRPNWt2Z2tMZnVoYTdmcXFBWnZaSkFXandvZzV6X2FLWU5IbTJVaEo5VmJHb05iYWlEQzA4VF9RZllZRlVTTnZuNUxEMA",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
         "category": "HALLYU NEWS",
@@ -2070,78 +2262,6 @@
       }
     },
     {
-      "id": "fff2ef2ad0cf",
-      "title": "iKON to hold first fan concert in nearly three years in January",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdGJKNC1ac01zbERSTHcyYzhBOVFKX0NmQ1llQVVNNzZtNnN2U1ZIX0ZjRkZqWFJOa0RtRXV3UTgwZHhhcDlESi1ObDNQd1hvdkFKanNaWEVKZExGWWIxbXRDSkw2THl6WGhzbjZQOThkUlRjamJvWUVfREJoZ0xPUWNoWUNpMzNXdmxOQWRqNmVjdUtlYkQ4bHRXMVdYNzJ6dUtINGc5eElKWm8zM2dKazJjZHIzSE82V1NMLU93?oc=5",
-      "publishedAt": "2026-11-25T02:16:37.000Z",
-      "source": "Korea JoongAng Daily",
-      "description": "iKON to hold first fan concert in nearly three years in January &nbsp;&nbsp; Korea JoongAng Daily",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "iKON to hold first fan concert in nearly three years in January &nbsp;&nbsp; Korea JoongAng Daily",
-      "articleUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdGJKNC1ac01zbERSTHcyYzhBOVFKX0NmQ1llQVVNNzZtNnN2U1ZIX0ZjRkZqWFJOa0RtRXV3UTgwZHhhcDlESi1ObDNQd1hvdkFKanNaWEVKZExGWWIxbXRDSkw2THl6WGhzbjZQOThkUlRjamJvWUVfREJoZ0xPUWNoWUNpMzNXdmxOQWRqNmVjdUtlYkQ4bHRXMVdYNzJ6dUtINGc5eElKWm8zM2dKazJjZHIzSE82V1NMLU93",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "CONCERT NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "CONCERT NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "8e7b9c4df35e",
-      "title": "The real locations that brought ‘KPop Demon Hunters’ to life - Prestige Online",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOG5pMDNpcF9YemdzdmtNS0Q2ckdRM2s5WFJieG5aUXVoM1IxdmJlZ0otdzdqTHgxV1N4cWpkX2JQUkVvZGItNk0zbjh2MWxrT0Q1ZFdpZkg5UUdRMlZxVnc5eGdsendZa0tVbDFPQTNjeWNKRzBOY1hqTlF2WTJXdUZmNTV0UkxaN0s2dVJuZE9ucnd3SnVpWldaVWJqc0xGYmdadXRpb9IBrAFBVV95cUxOaHRCUkxrQ3hmZmhsMURlWUpIVTVnQVRZVGxCY1NJbGU3cVdJTU9hbS1LYVBncDNrRTVZdHRpTlFrSkVkQ2VSTFBwN2NETXo0bmZBbW1BSnBmbU5IMnl4ZWxnQ3JwZDBVcGFaSkgyYmN4REVMWTZHdDhZTkZWZF9LSi01X3FCQkczdWtmYlRWNlo3aFdWYWxXMmk5RmZTZm5MUmVXRW9vaktNQWh6?oc=5",
-      "publishedAt": "2026-11-25T02:07:27.000Z",
-      "source": "Prestige Online - Singapore",
-      "description": "The real locations that brought ‘KPop Demon Hunters’ to life &nbsp;&nbsp; Prestige Online - Singapore",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "The real locations that brought ‘KPop Demon Hunters’ to life &nbsp;&nbsp; Prestige Online - Singapore",
-      "articleUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOG5pMDNpcF9YemdzdmtNS0Q2ckdRM2s5WFJieG5aUXVoM1IxdmJlZ0otdzdqTHgxV1N4cWpkX2JQUkVvZGItNk0zbjh2MWxrT0Q1ZFdpZkg5UUdRMlZxVnc5eGdsendZa0tVbDFPQTNjeWNKRzBOY1hqTlF2WTJXdUZmNTV0UkxaN0s2dVJuZE9ucnd3SnVpWldaVWJqc0xGYmdadXRpb9IBrAFBVV95cUxOaHRCUkxrQ3hmZmhsMURlWUpIVTVnQVRZVGxCY1NJbGU3cVdJTU9hbS1LYVBncDNrRTVZdHRpTlFrSkVkQ2VSTFBwN2NETXo0bmZBbW1BSnBmbU5IMnl4ZWxnQ3JwZDBVcGFaSkgyYmN4REVMWTZHdDhZTkZWZF9LSi01X3FCQkczdWtmYlRWNlo3aFdWYWxXMmk5RmZTZm5MUmVXRW9vaktNQWh6",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "506553984643",
-      "title": "All the K-Pop Idol Cameos in \"K-Pop: The Debut\"",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeU0xelhoa1BKUkVrdXpDd1p6REJUdEwzQksxSEJiSVZuNDRoUzhSUmFNSWJmdkJKSV90Sk03VGVrTzJ4RUpQOUZPd01ocE8zM3ZnVExWeHZhNXpQLWtkT1g4ZHlwdEQ3Vm9lWUZveVQ0R3ZsdXBkdThDaUNNUk1SdzNaMmpYamJmcUZhSVhURGRJUmxLdVE?oc=5",
-      "publishedAt": "2026-11-25T00:40:55.000Z",
-      "source": "Preview.ph",
-      "description": "All the K-Pop Idol Cameos in \"K-Pop: The Debut\" &nbsp;&nbsp; Preview.ph",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "All the K-Pop Idol Cameos in \"K-Pop: The Debut\" &nbsp;&nbsp; Preview.ph",
-      "articleUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeU0xelhoa1BKUkVrdXpDd1p6REJUdEwzQksxSEJiSVZuNDRoUzhSUmFNSWJmdkJKSV90Sk03VGVrTzJ4RUpQOUZPd01ocE8zM3ZnVExWeHZhNXpQLWtkT1g4ZHlwdEQ3Vm9lWUZveVQ0R3ZsdXBkdThDaUNNUk1SdzNaMmpYamJmcUZhSVhURGRJUmxLdVE",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "needs_image",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
       "id": "0d39faf31587",
       "title": "izna IWALY — K-Pop Group Celebrates 2nd Anniversary with Special Single",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvc3o0RHZETll6NXJ4S0dFVllkeldxQ0xUb1RyeG5fdVRhemFHTzlxU0ZJWVl3TTZMSEU4dnpFVzUyaWJBYnNhb3hJUXVLNl93eGdhcVhiT0p1Z1VhU2hTUXRld1U0d0FNZUgxU0lBSVgzbDZ0Y2Rz?oc=5",
@@ -2190,30 +2310,6 @@
       }
     },
     {
-      "id": "5c63acd81c5e",
-      "title": "Paramount’s K-Pop: The Debut Trailer Is Here, With Cameos Teased",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ3VZcDdUV2FvYlpTM0NyVlpyay1Lb05KYWZGTEJMbXZoNDdsSHZXdzRXRnJJOHBmTU40Z3ZtTkpHZUhYSVlmZWt6UF80RkwtRzlsWXo4MTNwUC1WOWtYVFE5Q0psYVJRY0haazFmQzdnRGJLR1kxMGJhMWMteU0tY084VVdlT3BtNndnNFdxd0huVkE?oc=5",
-      "publishedAt": "2026-11-24T20:18:39.000Z",
-      "source": "Character Media",
-      "description": "Paramount’s K-Pop: The Debut Trailer Is Here, With Cameos Teased &nbsp;&nbsp; Character Media",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "Paramount’s K-Pop: The Debut Trailer Is Here, With Cameos Teased &nbsp;&nbsp; Character Media",
-      "articleUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ3VZcDdUV2FvYlpTM0NyVlpyay1Lb05KYWZGTEJMbXZoNDdsSHZXdzRXRnJJOHBmTU40Z3ZtTkpHZUhYSVlmZWt6UF80RkwtRzlsWXo4MTNwUC1WOWtYVFE5Q0psYVJRY0haazFmQzdnRGJLR1kxMGJhMWMteU0tY084VVdlT3BtNndnNFdxd0huVkE",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
       "id": "d9aac7fbc0fa",
       "title": "BIGBANG, CL, and More: K-pop Acts That Made November 20 a Big Release Day",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ1JKbHh2NUVNZGRSb3V1NlVvMUVtTmJaUG5lMFFsd2VWSk5ZZU9uZFRmWTBSWFVaS1BJcWdFTC1JY2ZXbC0yRE9COUxteHFYTFhpdUVQdm45Wm5sSnRHYjlGSGxrR3pSS2MtdHlBRTZCNi1EOHVLNjhKMGtBTXc5djY5c253RHJqZm43ZW5fRy1jSG1GR2FyMXRETVByVmJHdzJqbVJqTV8yZXJ4THNv?oc=5",
@@ -2238,21 +2334,21 @@
       }
     },
     {
-      "id": "a99a06c7bc0f",
-      "title": "Big Bang’s 20th Anniversary Collaboration with YG Entertainment May Not Signal Full Group Return",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaXRaQWUwSUdPU0lYOEF2ZUNwS2dHdGtBUlI1QThXMGlZMXBYLUtzUGtNbHRjWUtpcVJ6VG1Oc2hoQXFSTU1LMEdVSW1pV04zM1RGd3pzbFRKYW9xTlVrblYyVU9nYUdMUkpVVE8tTnZrcUF0MVNBVG1VOHlQQklGcjhma3FobHhCVEN1Sk41WGxCNG9Zc2xOM3MtUEJTalFSbzZxU2VEV2JuRUFpcmpfNFN2RE1OZVJKTXcyU2FRdDBtLWVYTlE?oc=5",
-      "publishedAt": "2026-11-24T16:32:27.000Z",
-      "source": "hellokpop",
-      "description": "Big Bang’s 20th Anniversary Collaboration with YG Entertainment May Not Signal Full Group Return &nbsp;&nbsp; hellokpop",
+      "id": "55c363f590d5",
+      "title": "‘K-Pop: The Debut’ trailer sees Ji-young Yoo chase her dreams in global girl group competition",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKdXBBV3RzWlBJeVB2eV9qanJDb0l3NHB2TjhNUFltVnJDTVRzSjRKMHMxMF9memRpY3ZfSGJzd1QxOGJzU2g0bGFQd01JYUVnVmVzQjlyZG1hRWhmT2FjLXNn?oc=5",
+      "publishedAt": "2026-11-24T16:39:19.000Z",
+      "source": "IMDb",
+      "description": "‘K-Pop: The Debut’ trailer sees Ji-young Yoo chase her dreams in global girl group competition &nbsp;&nbsp; IMDb",
       "sourceClass": "publisher",
       "confidence": "secondary",
-      "sourceSummary": "Big Bang’s 20th Anniversary Collaboration with YG Entertainment May Not Signal Full Group Return &nbsp;&nbsp; hellokpop",
-      "articleUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaXRaQWUwSUdPU0lYOEF2ZUNwS2dHdGtBUlI1QThXMGlZMXBYLUtzUGtNbHRjWUtpcVJ6VG1Oc2hoQXFSTU1LMEdVSW1pV04zM1RGd3pzbFRKYW9xTlVrblYyVU9nYUdMUkpVVE8tTnZrcUF0MVNBVG1VOHlQQklGcjhma3FobHhCVEN1Sk41WGxCNG9Zc2xOM3MtUEJTalFSbzZxU2VEV2JuRUFpcmpfNFN2RE1OZVJKTXcyU2FRdDBtLWVYTlE",
+      "sourceSummary": "‘K-Pop: The Debut’ trailer sees Ji-young Yoo chase her dreams in global girl group competition &nbsp;&nbsp; IMDb",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKdXBBV3RzWlBJeVB2eV9qanJDb0l3NHB2TjhNUFltVnJDTVRzSjRKMHMxMF9memRpY3ZfSGJzd1QxOGJzU2g0bGFQd01JYUVnVmVzQjlyZG1hRWhmT2FjLXNn",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "social": {
         "category": "HALLYU NEWS",
         "headline": "GOOGLE NEWS",
-        "status": "needs_image",
+        "status": "pending_review",
         "canvaFields": {
           "Category": "HALLYU NEWS",
           "Headline": "GOOGLE NEWS",
@@ -2286,30 +2382,6 @@
       }
     },
     {
-      "id": "eaa252ae38a5",
-      "title": "‘K-Pop: The Debut’ trailer sees Ji-young Yoo chase her dreams in global girl group competition",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81THNVSWlBeGtwd3VOeTB3LVhzajBiV2F0NXpFTVg1UEtVS185OTJ4TGFodkVkYW1aUUM1NUpMX2Z1U1JOb3pTN2QzWVU4WndjV1E1OEI2QjM2OGxsZ0HSAWNBVV95cUxNVjYwQ1ROX2JiS0ZBNnhUXzNFMnN2ZE90NnRZdXJwbWFFRGhIcXdmb09wM1lZN25aN0R0dm8wRVpBZm1JaE5LUVRvWjEzNlVjMXNULW0wTnV1REFZZDVsVVpTWFE?oc=5",
-      "publishedAt": "2026-11-24T15:50:39.000Z",
-      "source": "HeyUGuys",
-      "description": "‘K-Pop: The Debut’ trailer sees Ji-young Yoo chase her dreams in global girl group competition &nbsp;&nbsp; HeyUGuys",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "‘K-Pop: The Debut’ trailer sees Ji-young Yoo chase her dreams in global girl group competition &nbsp;&nbsp; HeyUGuys",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81THNVSWlBeGtwd3VOeTB3LVhzajBiV2F0NXpFTVg1UEtVS185OTJ4TGFodkVkYW1aUUM1NUpMX2Z1U1JOb3pTN2QzWVU4WndjV1E1OEI2QjM2OGxsZ0HSAWNBVV95cUxNVjYwQ1ROX2JiS0ZBNnhUXzNFMnN2ZE90NnRZdXJwbWFFRGhIcXdmb09wM1lZN25aN0R0dm8wRVpBZm1JaE5LUVRvWjEzNlVjMXNULW0wTnV1REFZZDVsVVpTWFE",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
       "id": "89303fc8aecf",
       "title": "Grading the K-Pop Agencies 2026: JYP ENTERTAINMENT",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOai1QT2ltZVdpQmdVOHJRUmxscXBoOGltODU0aktUYWdDU3RoTTd5Tm1ybklEWjZiU3RncnVhZEg2cWdMY0VpUHVBNW0teHl3S3d5M3B0SlF5VzcxMWNBMTFEWjF4M2N6OEJxSTJwd3hUOGZqQ25NZm9ySVJ6Z09iRnl2bk44ZWhQb1psdFNR?oc=5",
@@ -2325,78 +2397,6 @@
         "category": "HALLYU NEWS",
         "headline": "GOOGLE NEWS",
         "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "611ec7a174ab",
-      "title": "K-pop songs in GTA 6: JENNIE, JISOO, KATSEYE and more",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOanVtRjJzY0hBbmtPYUtrdm1UZXlhN3BGQmgyc29kYm1mQ1o0N21nMl9fVVhJeGpFcnh4ZUNJVURTbmIzVlU2OUNhMXNyQnUxNUJya01DdVllbWNWUDY3ZlgxTHZVNU1iel9rVVlTMFRfYlU1UWRvSU5BYTVVRVdLam80Y2NBZw?oc=5",
-      "publishedAt": "2026-11-24T13:15:00.000Z",
-      "source": "RouteNote",
-      "description": "K-pop songs in GTA 6: JENNIE, JISOO, KATSEYE and more &nbsp;&nbsp; RouteNote",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "K-pop songs in GTA 6: JENNIE, JISOO, KATSEYE and more &nbsp;&nbsp; RouteNote",
-      "articleUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOanVtRjJzY0hBbmtPYUtrdm1UZXlhN3BGQmgyc29kYm1mQ1o0N21nMl9fVVhJeGpFcnh4ZUNJVURTbmIzVlU2OUNhMXNyQnUxNUJya01DdVllbWNWUDY3ZlgxTHZVNU1iel9rVVlTMFRfYlU1UWRvSU5BYTVVRVdLam80Y2NBZw",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "dad4db3a8c7f",
-      "title": "Get Ready For K-Pop: The Debut With The Official Trailer And Poster",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX05xbzRXMW55SU1VMGtNbk53VFBJdHBxQktYN3huRkNXY3gzekM4MGRjMkRJZjVaVnFENEFqZ2NLazZtT2VhdW1VOGlxdUNfa2ZRWGFHRXNhQ1c0OHUxNU5JeUdNOGdTNm9nZkpUb2U3aEpLdXZwYU50VXNha0xyMmh6anN0bmlIN3FLZzUxUTlxLTAzclVyUGxOaDgyY2pqVTlqWndEY3d6TGtBRkplbTFhY2zSAbQBQVVfeXFMUF9OcW80VzFueUlNVTBrTW5Od1RQSXRwcUJLWDd4bkZDV2N4M3pDODBkYzJESWY1WlZxRDRBamdjS2s2bU9lYXVtVThpcXVDX2tmUVhhR0VzYUNXNDh1MTVOSXlHTThnUzZvZ2ZKVG9lN2hKS3V2cGFOdFVzYWtMcjJoempzdG5pSDdxS2c1MVE5cS0wM3JVclBsTmg4MmNqalU5alp3RGN3ekxrQUZKZW0xYWNs?oc=5",
-      "publishedAt": "2026-11-24T12:37:12.000Z",
-      "source": "Future of the Force",
-      "description": "Get Ready For K-Pop: The Debut With The Official Trailer And Poster &nbsp;&nbsp; Future of the Force",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "Get Ready For K-Pop: The Debut With The Official Trailer And Poster &nbsp;&nbsp; Future of the Force",
-      "articleUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX05xbzRXMW55SU1VMGtNbk53VFBJdHBxQktYN3huRkNXY3gzekM4MGRjMkRJZjVaVnFENEFqZ2NLazZtT2VhdW1VOGlxdUNfa2ZRWGFHRXNhQ1c0OHUxNU5JeUdNOGdTNm9nZkpUb2U3aEpLdXZwYU50VXNha0xyMmh6anN0bmlIN3FLZzUxUTlxLTAzclVyUGxOaDgyY2pqVTlqWndEY3d6TGtBRkplbTFhY2zSAbQBQVVfeXFMUF9OcW80VzFueUlNVTBrTW5Od1RQSXRwcUJLWDd4bkZDV2N4M3pDODBkYzJESWY1WlZxRDRBamdjS2s2bU9lYXVtVThpcXVDX2tmUVhhR0VzYUNXNDh1MTVOSXlHTThnUzZvZ2ZKVG9lN2hKS3V2cGFOdFVzYWtMcjJoempzdG5pSDdxS2c1MVE5cS0wM3JVclBsTmg4MmNqalU5alp3RGN3ekxrQUZKZW0xYWNs",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "pending_review",
-        "canvaFields": {
-          "Category": "HALLYU NEWS",
-          "Headline": "GOOGLE NEWS",
-          "FeatureImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        "canvaDesignId": null
-      }
-    },
-    {
-      "id": "69dc298dacf9",
-      "title": "After virtual idols, could fully AI-generated stars be K-pop’s next frontier?",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40U2xpTlZxdk5VQ293ZlUzRHZNUG5LSGh5cmw5MFBuem9HR2g5aVBFTExfZW5tekp2bzZwVFU2LURIcHJiT1dtRjdsb1hjRjJqNjJhX0dscw?oc=5",
-      "publishedAt": "2026-11-24T06:28:28.000Z",
-      "source": "The Korea Herald",
-      "description": "After virtual idols, could fully AI-generated stars be K-pop’s next frontier? &nbsp;&nbsp; The Korea Herald",
-      "sourceClass": "publisher",
-      "confidence": "secondary",
-      "sourceSummary": "After virtual idols, could fully AI-generated stars be K-pop’s next frontier? &nbsp;&nbsp; The Korea Herald",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40U2xpTlZxdk5VQ293ZlUzRHZNUG5LSGh5cmw5MFBuem9HR2g5aVBFTExfZW5tekp2bzZwVFU2LURIcHJiT1dtRjdsb1hjRjJqNjJhX0dscw",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "social": {
-        "category": "HALLYU NEWS",
-        "headline": "GOOGLE NEWS",
-        "status": "needs_image",
         "canvaFields": {
           "Category": "HALLYU NEWS",
           "Headline": "GOOGLE NEWS",
