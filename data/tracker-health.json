@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-27T19:54:29.190Z",
+  "checkedAt": "2026-11-28T02:38:09.729Z",
   "refreshMinutes": 30,
   "sources": [
     {
@@ -11,7 +11,7 @@
       "sourceClass": "official",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-27T19:54:29.190Z"
+      "checkedAt": "2026-11-28T02:38:09.729Z"
     },
     {
       "id": "live-nation-ph",
@@ -22,7 +22,7 @@
       "sourceClass": "official",
       "ok": false,
       "count": 0,
-      "checkedAt": "2026-11-27T19:54:29.190Z",
+      "checkedAt": "2026-11-28T02:38:09.729Z",
       "error": "No usable schedule records returned; keeping the last known dates."
     },
     {
@@ -34,7 +34,7 @@
       "sourceClass": "official",
       "ok": false,
       "count": 0,
-      "checkedAt": "2026-11-27T19:54:29.190Z",
+      "checkedAt": "2026-11-28T02:38:09.729Z",
       "error": "HTTP 403"
     },
     {
@@ -45,8 +45,8 @@
       "parser": "kpop-official",
       "sourceClass": "publisher",
       "ok": true,
-      "count": 40,
-      "checkedAt": "2026-11-27T19:54:29.190Z"
+      "count": 36,
+      "checkedAt": "2026-11-28T02:38:09.729Z"
     },
     {
       "id": "yt-ucef_bc-kvd7onseifs3py9g",
@@ -57,7 +57,7 @@
       "sourceClass": "official",
       "ok": true,
       "count": 7,
-      "checkedAt": "2026-11-27T19:54:29.190Z"
+      "checkedAt": "2026-11-28T02:38:09.729Z"
     },
     {
       "id": "yt-uc3izksevpdzpsbawxbxunda",
@@ -68,7 +68,7 @@
       "sourceClass": "official",
       "ok": true,
       "count": 3,
-      "checkedAt": "2026-11-27T19:54:29.190Z"
+      "checkedAt": "2026-11-28T02:38:09.729Z"
     },
     {
       "id": "yt-ucao6tytlc8u5ttz62htrzgg",
@@ -79,7 +79,7 @@
       "sourceClass": "official",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-27T19:54:29.190Z"
+      "checkedAt": "2026-11-28T02:38:09.729Z"
     },
     {
       "id": "yt-ucqi67q4kgdmnjarzx81uk5g",
@@ -90,7 +90,7 @@
       "sourceClass": "official",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-27T19:54:29.190Z"
+      "checkedAt": "2026-11-28T02:38:09.729Z"
     },
     {
       "id": "yt-ucomhun--16b90ow2l6frr3a",
@@ -101,7 +101,7 @@
       "sourceClass": "official",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-27T19:54:29.190Z"
+      "checkedAt": "2026-11-28T02:38:09.729Z"
     },
     {
       "id": "yt-ucqwunggbbct-ay2ladi88jq",
@@ -112,7 +112,7 @@
       "sourceClass": "official",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-27T19:54:29.190Z"
+      "checkedAt": "2026-11-28T02:38:09.729Z"
     },
     {
       "id": "yt-ucx9hxyocvuywrpreqe4zqha",
@@ -123,7 +123,7 @@
       "sourceClass": "official",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-27T19:54:29.190Z"
+      "checkedAt": "2026-11-28T02:38:09.729Z"
     },
     {
       "id": "yt-ucweokpb1wvvh0q0tlj4a5pw",
@@ -134,7 +134,7 @@
       "sourceClass": "official",
       "ok": true,
       "count": 11,
-      "checkedAt": "2026-11-27T19:54:29.190Z"
+      "checkedAt": "2026-11-28T02:38:09.729Z"
     },
     {
       "id": "yt-ucbeu7q6ardr7gdfnwbl2auw",
@@ -145,7 +145,7 @@
       "sourceClass": "official",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-27T19:54:29.190Z"
+      "checkedAt": "2026-11-28T02:38:09.729Z"
     },
     {
       "id": "yt-uc-fnix71vrp64wxeo0ikd0q",
@@ -156,7 +156,7 @@
       "sourceClass": "official",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-27T19:54:29.190Z"
+      "checkedAt": "2026-11-28T02:38:09.729Z"
     },
     {
       "id": "yt-ucveeebssb4xxifwwib8ijmw",
@@ -167,7 +167,7 @@
       "sourceClass": "official",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-27T19:54:29.190Z"
+      "checkedAt": "2026-11-28T02:38:09.729Z"
     },
     {
       "id": "yt-ucmki_ukhb4qsc0qyecohhjw",
@@ -178,7 +178,7 @@
       "sourceClass": "official",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-27T19:54:29.190Z"
+      "checkedAt": "2026-11-28T02:38:09.729Z"
     },
     {
       "id": "yt-ucdvd0msyecqaie5ru-poiqq",
@@ -189,7 +189,7 @@
       "sourceClass": "official",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-27T19:54:29.190Z"
+      "checkedAt": "2026-11-28T02:38:09.729Z"
     },
     {
       "id": "yt-uc_dbjpoy1g0xcefsj6ga7oq",
@@ -200,7 +200,7 @@
       "sourceClass": "official",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-27T19:54:29.190Z"
+      "checkedAt": "2026-11-28T02:38:09.729Z"
     },
     {
       "id": "yt-ucu8momf9frn_60tigvwlqeq",
@@ -211,7 +211,7 @@
       "sourceClass": "official",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-27T19:54:29.190Z"
+      "checkedAt": "2026-11-28T02:38:09.729Z"
     },
     {
       "id": "yt-uc3syt4_wlhzn7jmhqwkqzww",
@@ -222,7 +222,7 @@
       "sourceClass": "official",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-27T19:54:29.190Z"
+      "checkedAt": "2026-11-28T02:38:09.729Z"
     },
     {
       "id": "yt-ucfkxdy7vwkcj8ddfgz8kusa",
@@ -233,7 +233,7 @@
       "sourceClass": "official",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-27T19:54:29.190Z"
+      "checkedAt": "2026-11-28T02:38:09.729Z"
     },
     {
       "id": "yt-uc8c6qopdvywmuasbzksefdg",
@@ -244,7 +244,7 @@
       "sourceClass": "official",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-27T19:54:29.190Z"
+      "checkedAt": "2026-11-28T02:38:09.729Z"
     },
     {
       "id": "yt-uc9gtsleksfk4yuj_g1lgqbg",
@@ -255,7 +255,7 @@
       "sourceClass": "official",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-27T19:54:29.190Z"
+      "checkedAt": "2026-11-28T02:38:09.729Z"
     },
     {
       "id": "yt-ucrlro_okqmjl8enprvrfidg",
@@ -266,7 +266,7 @@
       "sourceClass": "official",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-27T19:54:29.190Z"
+      "checkedAt": "2026-11-28T02:38:09.729Z"
     },
     {
       "id": "yt-uc2e4ukj5pfr7cb3kpjafbdq",
@@ -277,7 +277,7 @@
       "sourceClass": "official",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-27T19:54:29.190Z"
+      "checkedAt": "2026-11-28T02:38:09.729Z"
     }
   ],
   "concerts": {
